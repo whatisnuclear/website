@@ -1,0 +1,27 @@
+title: What is Nuclear?
+email: contact@whatisnuclear.com
+description: >-
+  A no-nonsense public education site on nuclear energy.
+baseurl: "" 
+url: "https://whatisnuclear.com" 
+twitter_username: whatisnuclear
+github_username:  whatisnuclear
+
+markdown: kramdown
+highlighter: rouge
+collections:
+  posts:
+    output: true
+    permalink: /blog/:month-:day-:year-:title.html
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

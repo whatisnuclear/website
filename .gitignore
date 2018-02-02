@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+_sass
+font-awesome
+dist/css/bootstrap*
+dist/fonts
+dist/js
+dist/syntax.css

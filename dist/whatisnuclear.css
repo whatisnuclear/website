@@ -1,0 +1,21 @@
+img.navbar-brand-icon {
+width:40px;
+margin-top:-10px;
+}
+
+span.orange {
+color: orange;
+}
+
+li.current a {
+background-color: orange;
+}
+
+li.current2 a {
+color: orange;
+}
+
+canvas { 
+  width: 100%;
+  height: auto;
+}

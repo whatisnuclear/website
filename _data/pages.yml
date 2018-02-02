@@ -1,0 +1,58 @@
+- title: Concepts
+  pages:
+    - index
+    - nuclear-energy
+    - radioactivity
+    - history
+    - recycling
+    - nuclear-engineer
+    - nuclear-engineer-people
+    #- nuclear-as-clean-energy
+
+- title: Uses
+  pages:
+    - reactors
+      #- propulsion
+      #- medicine
+    - geology
+    - space
+      #- weapons
+
+- title: Issues
+  pages:
+    - waste
+    - chernobyl-main
+    - chernobyl-memories
+    - fukushima
+    - non-proliferation
+
+- title: Reactor Tech
+  pages:
+          #- lwr
+      #- gcr
+      #- lmfbr
+    - msr
+    - fast-reactor
+    - thorium
+    - thorium-myths
+    - candu
+    - twr
+      #- fusion
+
+- title: Details
+  pages:
+    - decay-heat
+    - math-behind-radioactive-decay
+    - moderation
+    - isotopes
+    - dose
+    - risk
+    - fuel-cycle
+    - energy-density
+    - barn-jams
+    - power-basics
+    - factoids
+    - phev
+    - solar-power
+    - scale
+    - scale-with-batteries
