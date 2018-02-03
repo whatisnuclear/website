@@ -12,7 +12,7 @@ highlighter: rouge
 collections:
   posts:
     output: true
-    permalink: /blog/:month-:day-:year-:title.html
+    permalink: /blog/:year-:month-:day-:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
