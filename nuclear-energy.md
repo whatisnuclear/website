@@ -210,9 +210,9 @@ nuclear power plants.
 <div class="col-md-12" markdown="1">
 <h2>References</h2>
 
-1. Office of Air Quality, "Study of Hazardous Air Pollutant Emissions from Electric Utility Steam Generating Units -- Final Report to Congress," EPA-453/R-98-004a, 1998 <a href="http://www.epa.gov/ttn/caaa/t3/reports/eurtc1.pdf">(Online)</a>
-2. P. Kharecha and J. Hansen, "Prevented Mortality and Greenhouse Gas Emissions from Historical and Projected Nuclear Power," Environ. Sci. Technol., 2013, 47 (9), pp 4889–4895 <a href="http://cen.acs.org/articles/91/web/2013/04/Nuclear-Power-Prevents-Deaths-Causes.html">(Press release)</a>
-3. A. Gabbard, &quot;Coal Combustion: Nuclear Resource or Danger,&quot; (<a href="http://web.ornl.gov/info/ornlreview/rev26-34/text/colmain.html">online</a>). 
+1. Office of Air Quality, "Study of Hazardous Air Pollutant Emissions from Electric Utility Steam Generating Units -- Final Report to Congress," EPA-453/R-98-004a, 1998 <a href="https://www.epa.gov/mats/study-hazardous-air-pollutant-emissions-electric-utility-steam-generating-units-final-report">(Online)</a>
+2. P. Kharecha and J. Hansen, "Prevented Mortality and Greenhouse Gas Emissions from Historical and Projected Nuclear Power," Environ. Sci. Technol., 2013, 47 (9), pp 4889–4895 <a href="http://pubs.acs.org/doi/abs/10.1021/es3051197">(Press release)</a>
+3. A. Gabbard, &quot;Coal Combustion: Nuclear Resource or Danger,&quot; (<a href="https://www.nrc.gov/docs/ML0932/ML093280447.pdf">online</a>). 
 
 </div>
 </div>

@@ -10,7 +10,7 @@ author: Nick Touran
 
 # Nuclear Reactor Risk Assessment
 ##### By Dr. Brian Johnson
-<div class="pull-right"><img class="img-rounded img-responsive" src="/img/bjohnson.jpg" style="width:300px;" alt="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design. " title="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design." /></div>
+<div class="pull-right"><img class="img-rounded img-responsive" src="/img/bjohnson.jpg" style="max-width:200px;" alt="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design. " title="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design." /></div>
 How safe is safe enough? This is a long standing question in the development of
 nuclear reactors.  The defense-in-depth philosophy mandates safety systems that
 are independent, diverse, and redundant.  When using this philosophy of design
@@ -160,9 +160,9 @@ in load, the system may not have enough capacity to perform the safety function.
 <div class="col-md-8" markdown="1">
 ## External Links
 <ul>
-<li><a href="http://www.nrc.gov/reading-rm/doc-collections/commission/policy/60fr42622.pdf">NRC Policy Statement on the Use of PRA</a></li>
-<li><a href="http://ocw.mit.edu/courses/engineering-systems-division/esd-72-engineering-risk-benefit-analysis-spring-2007/">Engineering Risk-Benefit Analysis at MIT OCW</a></li>
-<li><a href="http://ocw.mit.edu/courses/nuclear-engineering/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
+<li><a href="https://www.nrc.gov/reading-rm/doc-collections/commission/policy/60fr42622.pdf">NRC Policy Statement on the Use of PRA</a></li>
+<li><a href="https://ocw.mit.edu/courses/engineering-systems-division/esd-72-engineering-risk-benefit-analysis-spring-2007/">Engineering Risk-Benefit Analysis at MIT OCW</a></li>
+<li><a href="https://ocw.mit.edu/courses/nuclear-engineering/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
 <li><a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674005297">Wilson &amp; Crouch, Risk/Benefit Analysis, Harvard University Press, 2001.</a></li>
 </ul>
 

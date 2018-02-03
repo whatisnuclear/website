@@ -178,7 +178,7 @@ nuclear power can truly be considered sustainable.
 * <a href="{% link isotopes.md %}#enrichment">Our explanation of enrichment</a>
 * <a href="{% link waste.md %}">Our nuclear waste page</a>
 * <a href="{% link fast-reactor.html %}">Our Breeder reactors page</a>
-* <a href="http://en.wikipedia.org/wiki/Yucca_mountain">Yucca Mountain (Wikipedia)</a>
+* <a href="https://en.wikipedia.org/wiki/Yucca_mountain">Yucca Mountain (Wikipedia)</a>
 
 </div>
 </div>

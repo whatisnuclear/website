@@ -42,7 +42,7 @@ their discussion.
 
 ## What can be done to stop proliferation?
 So, can we expand nuclear power without risking proliferation? Certainly not without being careful.
-Currently, the <a href="http://www.iaea.org">IAEA</a> (the UN nuclear 
+Currently, the <a href="https://www.iaea.org">IAEA</a> (the UN nuclear 
 watchdog) routinely inspects nuclear facilities around the world to verify that only peaceful work
 is being done. They inventory all special material very carefully. If
 a facility doesn't allow inspectors in or shows signs of militarization, the political world decides
@@ -52,7 +52,7 @@ these sensitive issues. This method of non-proliferation is called something
 along the lines of "safeguards and verification."
 
 One rather harsh non-proliferation action, called <a
-href="http://en.wikipedia.org/wiki/Operation_Opera">Operation Opera</a>, occurred when the Israeli
+href="https://en.wikipedia.org/wiki/Operation_Opera">Operation Opera</a>, occurred when the Israeli
 Air Force bombed a nearly-completed nuclear reactor in Iraq back in 1981. This was widely condemned
 by the international community.
 
@@ -64,8 +64,8 @@ user-states. This would keep enrichment facilities out of the hands of new users
 User-nations would benefit from not requiring the expensive front-end infrastructure of fuel
 fabrication, but they would probably be slightly worried about their energy supplies in any
 politically turbulent times. This idea has come under the names <a
-href="http://en.wikipedia.org/wiki/Global_Nuclear_Energy_Partnership">GNEP</a> and, <a
-href="http://www.upi.com/Top_News/2009/06/08/Obama-to-pursue-global-uranium-fuel-bank/UPI-19971244484814/">more
+href="https://en.wikipedia.org/wiki/Global_Nuclear_Energy_Partnership">GNEP</a> and, <a
+href="https://www.upi.com/Top_News/2009/06/08/Obama-to-pursue-global-uranium-fuel-bank/UPI-19971244484814/">more
 recently</a>, the international nuclear fuel bank.
 
 Another option is to use a <a href="{% link thorium.md %}">thorium fuel cycle</a>, based on natural
@@ -110,7 +110,7 @@ Weapon states are listed here with the date of their first test in parenthesis.
 
 Several other NATO countries control nuclear weapons produced by weapon-states under the
 non-proliferation treaty (NPT). Detailed discussion is found on Wikipedia's <a
-href="http://en.wikipedia.org/wiki/Nuclear_weapons_states">List of nuclear weapons states</a>.
+href="https://en.wikipedia.org/wiki/Nuclear_weapons_states">List of nuclear weapons states</a>.
 </div>
 </div>
 

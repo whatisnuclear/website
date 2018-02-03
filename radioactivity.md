@@ -99,12 +99,12 @@ believe it? Check out our [Radiation on Flights]({% link _posts/2014-05-17-radia
 # Video of radiation detection
 <a href="{% link radiation-video.md %}"><img src="/img/nim_bin.jpg" alt="A NIM-bin." title="A NIM-bin." /></a>
 
-Watch the [a video](% link radiation-video.md %) of a few of us detecting radiation from household items.
+Watch the [a video]({% link radiation-video.md %}) of a few of us detecting radiation from household items.
 
 
 # Background readings in Ann Arbor, MI
 <div class="pull-right"> 
-<a href="/articles/background.html"><img style="width:500px;" src="/img/background_low.jpg" alt="Background reading in Ann Arbor." title="Background reading in Ann Arbor." /></a>
+<a href="{% link background.html %}"><img style="width:500px;" src="/img/background_low.jpg" alt="Background reading in Ann Arbor." title="Background reading in Ann Arbor." /></a>
 </div>
 For a class in 2005, with no radioactive sources within range, we measured a long (30 minutes +) 
 reading with a high-purity germanium (HPGe) gamma-ray detector system. We then identified the source 
@@ -124,14 +124,14 @@ Potassium-40 is found all around, including in bananas and in salt-substitutes a
 <div class="col-md-8" markdown="1">
 ## References and further reading
 
-1. Wikipedia, ["Nuclear weapons testing"](http://en.wikipedia.org/wiki/Nuclear_weapons_testing)
-2. <a href="http://www.epa.gov/radon/pubs/citguide.html">EPA Radon Guide</a>
+1. Wikipedia, ["Nuclear weapons testing"](https://en.wikipedia.org/wiki/Nuclear_weapons_testing)
+2. <a href="https://www.epa.gov/radon">EPA Radon Guide</a>
 3. <a href="http://hps.org/publicinformation/ate/faqs/commercialflights.html">Commercial air flight dose</a>
-4. Mara Hvistendahl, <a href="http://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/">&quot;Coal Ash Is More Radioactive 
+4. Mara Hvistendahl, <a href="https://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/">&quot;Coal Ash Is More Radioactive 
    than Nuclear Waste,&quot;</a> Scientific American (2007).
-5. <a href="http://www.eia.gov/nuclear/spent_fuel/">Energy Information Administration - Spent Nuclear Fuel</a>
-6. <a href="http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB">National Library of Medicine, Hazardous Substances Data Bank</a>
-7. <a href="http://www.bt.cdc.gov/radiation/isotopes/cesium.asp">Center for Disease Control and Prevention: Radioisotope Brief: Cesium-137</a>
+5. <a href="https://www.eia.gov/nuclear/spent_fuel/">Energy Information Administration - Spent Nuclear Fuel</a>
+6. <a href="https://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB">National Library of Medicine, Hazardous Substances Data Bank</a>
+7. <a href="https://emergency.cdc.gov/radiation/isotopes/cesium.asp">Center for Disease Control and Prevention: Radioisotope Brief: Cesium-137</a>
 
 
 </div>

@@ -80,7 +80,7 @@ instruments. These are the reasons many people are terrified of radiation.
 Things get much more hazy when dealing with very low levels of radiation. Regulators often assume 
 the linear no-threshold model, which says that any amount of radiation at any level is bad. This 
 conservative model tells us to stay away from radiation as much as possible. By the way, other 
-models, such as <a href="http://en.wikipedia.org/wiki/Hormesis">hormesis [wikipedia]</a>, suggest 
+models, such as <a href="https://en.wikipedia.org/wiki/Hormesis">hormesis [wikipedia]</a>, suggest 
 that in low levels, radiation is actually beneficial. There is no scientific consensus on this, 
 so we just say better safe than sorry and minimize our radiation exposure. 
 
@@ -111,15 +111,15 @@ Living near a nuclear power plant doesn't even register on the graph.
    Examples include concrete walls or lead but generally the more material the better.
 
 ## References
-1. <a href="http://www.nrc.gov/reading-rm/doc-collections/cfr/part020/part020-1004.html">NRC readings</a>
-2. <a href="http://www.nrc.gov/reading-rm/doc-collections/fact-sheets/bio-effects-radiation.html">NRC Factsheet on radiation</a>
-3. <a href="http://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html">NRC Doses in Daily lives</a>
+1. <a href="https://www.nrc.gov/reading-rm/doc-collections/cfr/part020/part020-1004.html">NRC readings</a>
+2. <a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/bio-effects-radiation.html">NRC Factsheet on radiation</a>
+3. <a href="https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html">NRC Doses in Daily lives</a>
 
 ## See Also
-* <a href="http://hss.energy.gov/NuclearSafety/NSEA/fire/trainingdocs/radem3.pdf">Radiation info from DOE [pdf]</a>
-* <a href="http://www.nrc.gov/reading-rm/doc-collections/fact-sheets/bio-effects-radiation.html">Biological effects of radiation (NRC)</a>
-* <a href="http://www.nrc.gov/reading-rm/doc-collections/cfr/part020/">CFR-20 regulations (NRC)</a>
-* <a href="http://www.epa.gov/rpdweb00/understand/calculate.html">Calculate your radiation dose</a>
+* <a href="https://energy.gov/ehss/radiation-safety-training-materials">Radiation info from DOE [pdf]</a>
+* <a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/bio-effects-radiation.html">Biological effects of radiation (NRC)</a>
+* <a href="https://www.nrc.gov/reading-rm/doc-collections/cfr/part020/">CFR-20 regulations (NRC)</a>
+* <a href="https://www.epa.gov/rpdweb00/understand/calculate.html">Calculate your radiation dose</a>
 
 </div>
 </div>

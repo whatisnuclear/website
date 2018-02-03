@@ -92,10 +92,10 @@ burnup.
 <ul> 
 <li>Touran, N; Hejzlar, P; Mazurkiewicz, S; Petroski, R; Walter, J; Whitmer, C, &quot;Technical Considerations and Capabilities of a Near-Term Deployable Traveling Wave Reactor Core,&quot; Trans. Am. Nucl. Soc., 104, p. 934, (2011).</li>
 <li>Ellis, T. and Petroski, R. and Hejzlar, P. and Zimmerman, G. and McAlees, D. and Whitmer, C. and Touran, N. and Hejzlar, J. and Weaver, K. and Walter, J. and others, &quot;Traveling-wave reactors: a truly sustainable and full-scale resource for global energy needs,&quot; Proc. of ICAPP, 10, p.13, (2010).</li>
-<li><a href="http://www.youtube.com/watch?v=DIfMmqKYC6w">TerraPower TWR intro video</a></li>
+<li><a href="https://www.youtube.com/watch?v=DIfMmqKYC6w">TerraPower TWR intro video</a></li>
 <li>Our <a href="{% link recycling.md %}">breeding and recycling page</a></li>
 <li>Our <a href="{% link fast-reactor.html %}">fast neutron reactor page</a> </li>
-<li><a href="http://www.terrapower.com">TerraPower</a>, a company developing TWR technology</li>
+<li><a href="https://terrapower.com">TerraPower</a>, a company developing TWR technology</li>
 
 </ul>
  Questions? Comments? Send us <a href="contact.html">a note</a>.

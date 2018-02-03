@@ -50,10 +50,10 @@ energy, as nuclear power brings to mind things like the USSR, the USA, and bombs
 
 <ol>
 <li>
-<a href="http://en.wikipedia.org/wiki/Burnup">Burnup [wikipedia.org]</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Power_%28physics%29">Power [wikipedia.org]</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Energy">Energy [wikipedia.org]</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Joule">Joule [wikipedia.org]</a></li>
+<a href="https://en.wikipedia.org/wiki/Burnup">Burnup [wikipedia.org]</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Power_%28physics%29">Power [wikipedia.org]</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Energy">Energy [wikipedia.org]</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Joule">Joule [wikipedia.org]</a></li>
 
 </ol>
 

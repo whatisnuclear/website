@@ -54,7 +54,7 @@ is a key challenge in nuclear waste management. (Color is proportional to the lo
 The waste, sometimes called *used fuel*, is dangerously [radioactive]({% link radioactivity.md %}), and remains so 
 for thousands of years. When it first comes out of the reactor, it is so toxic that if you stood close to it while 
 it was unshielded, you would receive a lethal radioactive dose within a few seconds and would die of 
-[acute radiation sickness [wikipedia]](http://en.wikipedia.org/wiki/Radiation_poisoning) within a few days. 
+[acute radiation sickness [wikipedia]](https://en.wikipedia.org/wiki/Radiation_poisoning) within a few days. 
 Hence all the worry about it.
 
 ## What do we currently do with our nuclear waste?
@@ -71,7 +71,7 @@ from nuclear power, then the amount of nuclear waste each person would generate 
 of this result can be found [here](/assets/waste_per_person.pdf). If we got all our electricity 
 from coal and natural gas, expect to have over 10,000 kilograms of CO<sub>2</sub>/yr attributed to 
 each person, not to mention other poisonous emissions directly to the biosphere 
-(based on EIA [emissions data](http://www.eia.gov/environment/emissions/ghg_report/ghg_carbon.cfm)). 
+(based on EIA [emissions data](https://www.eia.gov/environment/emissions/ghg_report/ghg_carbon.php)). 
          
 If you want raw numbers: in 2002, there were 47,023.40 metric tonnes of high-level waste in the USA. 
 105,793 GW-days of thermal energy has been produced by nuclear power plants throughout the years 
@@ -144,7 +144,7 @@ The US had a recycling program that was shut down because it created Plutonium, 
 the easiest material with which to make a nuclear weapon. Were some plutonium diverted in the recycling 
 process, a non-nuclear entity could be one step close to building a bomb. However, under programs such as 
 the (now stalled) 
-<a href="http://en.wikipedia.org/wiki/International_Framework_for_Nuclear_Energy_Cooperation">GNEP [wikipedia]</a>, 
+<a href="https://en.wikipedia.org/wiki/International_Framework_for_Nuclear_Energy_Cooperation">GNEP [wikipedia]</a>, 
 proliferation-free waste recycling can exist. 
 
 <span class="label label-success">See Also</span> See our [main recycling page]({% link recycling.md %}) for a more 
@@ -187,6 +187,7 @@ waste exist, such as low level waste from other applications. This discussion fo
 <div class="row">
 <div class="col-md-8" markdown="1">
 
+<a name="refs"></a>
 ## References
  * [Fission product yields from The National Nuclear Data Center](http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.1&nsub=11)
 

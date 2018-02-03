@@ -134,7 +134,7 @@ href="http://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment">Molten Salt R
 for extended amounts of time. It competed with the liquid metal cooled fast breeder reactors
 (LMFBRs) for federal funding and lost out. Alvin Weinberg discusses the history of this project in
 much detail in his autobiography, <a
-href="http://www.amazon.com/First-Nuclear-Era-Times-Technological/dp/1563963582">The First Nuclear
+href="https://www.amazon.com/First-Nuclear-Era-Times-Technological/dp/1563963582">The First Nuclear
 Era [amazon.com]</a>, and there is more info available all over the internet. These reactors could
 be extremely safe, proliferation resistant, resource efficient, environmentally superior (to
 traditional nukes, as well as to fossil fuel obviously), and maybe even cheap. Exotic, but
@@ -149,17 +149,17 @@ already like 4 startups working on them, and China is developing them as well).
 * Our <a href="{% link msr.html %}">molten salt reactor page</a>
 * <a href="http://www-pub.iaea.org/mtcd/publications/pdf/te_1450_web.pdf">IAEA TECDOC-1450</a> Thorium fuel cycle - potential benefits and challenges. 113 pages of professional information.
 * <a href="http://energyfromthorium.com/">Energy From Thorium</a> - a site dedicated to potentially excellent uses of Thorium in LFTRs
-* <a href="http://en.wikipedia.org/wiki/Thorium_fuel_cycle">Thorium fuel cycle [wikipedia]</a>
+* <a href="https://en.wikipedia.org/wiki/Thorium_fuel_cycle">Thorium fuel cycle [wikipedia]</a>
 * <a href="http://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment">Molten Salt Reactor Experiment [wikipedia]</a>
 * <a href="http://www.amazon.com/First-Nuclear-Era-Times-Technological/dp/1563963582">The First Nuclear Era [amazon.com]</a>
-* <a href="http://www.thehindu.com/opinion/op-ed/article2601471.ece">Nuclear Power is our gateway to a prosperous future</a> - An Op-Ed by A.P.J. Abdul Kalam, a former president of India
-* <a href="http://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor">Liquid Fluoride Thorium Reactor [wikipedia]</a>
+* <a href="http://www.thehindu.com/opinion/op-ed/nuclear-power-is-our-gateway-to-a-prosperous-future/article2601471.ece">Nuclear Power is our gateway to a prosperous future</a> - An Op-Ed by A.P.J. Abdul Kalam, a former president of India
+* <a href="https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor">Liquid Fluoride Thorium Reactor [wikipedia]</a>
 * <a href="http://epubs.ans.org/?p=nt%3A194#n2">Special May 2016 Edition of Nuclear Technology on Thorium</a>
 
 
 <h2 id="refs2">References</h2>
-* <a href="http://www.world-nuclear.org/info/current-and-future-generation/thorium/">World Nuclear - Known Thorium Reserves</a>
-* <a href="http://www.world-nuclear.org/info/Nuclear-Fuel-Cycle/Uranium-Resources/Supply-of-Uranium/">World Nuclear - Known Uranium Reserves</a>
+* <a href="http://www.world-nuclear.org/information-library/current-and-future-generation/thorium.aspx">World Nuclear - Known Thorium Reserves</a>
+* <a href="http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx">World Nuclear - Known Uranium Reserves</a>
 
  Questions? Comments? Send us <a href="/contact.html">a note</a>.
 

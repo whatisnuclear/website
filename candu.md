@@ -33,7 +33,7 @@ operating CANDU reactors, with 17 of these in Canada.
   contain and enters biological systems readily. CANDUs make more tritium than light-water reactors
   because they have so much heavy water. 
 	
-<a href="reactors/hvsdu.png"><img
+<a href="/img/hvsdu.png"><img
 class="pull-right" src="/img/hvsdu.png" style="width:300px" alt="Hydrogen vs. deuterium capture cross
 section" title="Hydrogen vs. deuterium capture cross section"/></a> 	
 In this figure, we plot the probability that hydrogen and deuterium will absorb a neutron (hurting

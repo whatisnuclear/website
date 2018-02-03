@@ -24,13 +24,13 @@ fall slowly, while spinning some gears hooked up to generators.
 So how much stuff would we have to lift up to replace a single <a
 href="{% link reactors.md %}">nuclear reactor</a>? Well, a standard reactor provides 1000 MW of
 electricity. Let&rsquo;s say we can lift our heavy objects to the top of the spire of the tallest
-building in the world, <a href="http://en.wikipedia.org/wiki/Burj_dubai">the Burj Khalifa
+building in the world, <a href="https://en.wikipedia.org/wiki/Burj_dubai">the Burj Khalifa
 [Wikipedia]</a>, which is at 818 meters. We&rsquo;ll also say that a night last 9 hours. Watts are
 Joules per second, so we just multiply 1000 MW by the number of seconds in 9 hours: 32400, to get
 32400000 MJ of energy. Gravitational potential energy is mass * height * acceleration due to
 gravity, or 818 m * 9.8 m/s<sup>2</sup> * mass. Solving for mass by division, we get mass =
 4.042x10<sup>9</sup> kg. According to Wikipedia, a fully loaded <a
-href="http://en.wikipedia.org/wiki/Nimitz_class_aircraft_carrier">Nimitz class aircraft carrier
+href="https://en.wikipedia.org/wiki/Nimitz_class_aircraft_carrier">Nimitz class aircraft carrier
 [Wikipedia]</a> weighs 101196 tons, or 91.8 million kg. By dividing mass by aircraft carrier mass,
 we find that this comes out to 44 aircraft carriers. 
 

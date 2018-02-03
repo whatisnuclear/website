@@ -27,7 +27,7 @@ Thanks to John Wheeler for posting this video at <a
 href="http://thisweekinnuclear.com/?page_id=52">This Week in Nuclear</a>!
 
 
-<iframe src="http://www.youtube.com/embed/xlTnF2LJP60"
+<iframe src="https://www.youtube.com/embed/xlTnF2LJP60"
 width="480" height="385" style="margin-left:auto;margin-right:auto;display:block"></iframe>
 
 

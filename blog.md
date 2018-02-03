@@ -18,5 +18,5 @@ Here you'll find blog posts, sometimes from guest posters, on various relevant t
 {{ post.description}}
 <hr/>
 {% endfor %}
--
-<a href="/index.html" class="btn btn-info" role="button">&#10094; Main Page</a>
+
+<a href="/" class="btn btn-info" role="button">&#10094; Main Page</a>

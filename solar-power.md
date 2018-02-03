@@ -10,7 +10,7 @@ description: Solar power
 <img class="pull-right" src="/img/trees_sunshine.jpg" alt="Trees and sunshine" title="Trees and sunshine" />
 
 The sun is a nuclear fusion reactor contained by gravity. It emits unfathomable amounts of energy.
-This <a href="http://www.nrel.gov/gis/images/us_pv_annual_may2004.jpg">map</a> of the power that
+This <a href="https://www.nrel.gov/gis/images/eere_pv/national_photovoltaic_2012-01.jpg">map</a> of the power that
 comes to the USA each day has been compiled by the National Renewable Energy Laboratory. It shows
 that the average power incident on the US is around 6 kWh/m<sup>2</sup>/day. To put this in
 perspective, notice that this means that the surface of the USA on average receives
