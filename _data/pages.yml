@@ -16,6 +16,7 @@
       #- medicine
     - geology
     - space
+    - space
       #- weapons
 
 - title: Issues
@@ -31,13 +32,13 @@
           #- lwr
       #- gcr
       #- lmfbr
-    - msr
     - fast-reactor
+    - fusion
+    - msr
     - thorium
     - thorium-myths
     - candu
     - twr
-      #- fusion
 
 - title: Details
   pages:
@@ -56,3 +57,4 @@
     - solar-power
     - scale
     - scale-with-batteries
+    - origin-of-nuclear-energy

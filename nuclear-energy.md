@@ -64,15 +64,10 @@ There are two fundamental nuclear processes considered for energy production: fi
   producing Helium as waste (fun fact: Helium was discovered in the sun and named after the Greek Sun
   God, Helios). This reaction has not been commercially developed yet and is a serious research
   interest worldwide, due to its promise of nearly limitless, low-pollution, and non-proliferative
-  energy. 
+  energy. Read more at [our fusion page]({% link fusion.md %}).
 
           
 <a href="{% link reaction-animations.md %}">Click here</a> to see animations of fission and fusion reactions. 
-
-This site focuses on nuclear fission. In order to harness fusion, many daunting engineering and
-physics problems must be solved. The time line for solving these problems is undefined, so we as a
-society must turn to other solutions to solve the energy problems, at least for now. Fusion research
-is exciting and making great progress, and it should continue to interest humanity.
 
 </div>
 <div class="col-md-6" markdown="1">
