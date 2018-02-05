@@ -16,6 +16,7 @@ collections:
 
 plugins: 
   - jekyll-sitemap
+  - jekyll-time-to-read
 
 
 # Exclude from processing.
