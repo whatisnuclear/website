@@ -8,7 +8,7 @@ author: Jesse Cheatham
 
 
 <div class="row">
-<div class="col-md-12" markdown="1">
+<div class="col-md-8" markdown="1">
 
 # Health and Radiation
 ##### By Dr. Jesse Cheatham, October 14, 2008
@@ -38,7 +38,7 @@ quality factors is shown below.
 </div>
 
 <div class="row">
-<div class="col-md-12" markdown="1">
+<div class="col-md-8" markdown="1">
 
 
 ## Quality Factors and Absorbed Dose Equivalencies
