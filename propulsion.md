@@ -78,6 +78,21 @@ are direct decedents of naval reactors. Water coolant is really
 nice at sea because there's a lot of cooling water. A lot of 
 plant operators learned how to run nuclear reactors in the Navy. 
 
+## Besides ships, what else has been propelled by nuclear energy?
+
+<a href="/img/HTRE-3.jpg"><img src="/img/HTRE-3-sm.jpg" alt="The HTRE-3 test reactor hooked to jets for airplanes" class="img img-responive pull-right" style="width:350px;padding:15px;"/></a>
+Nuclear propulsion is well-suited for [space travel](/space.html) and rockets, so that's 
+under development. The Russians did have some nuclear-powered tanks. 
+Before intercontinnental ballistic missiles were developed, the US Air 
+Force worked a lot on the Aircraft Nuclear Propulsion project to make
+a nuclear-powered long-range airplane. Various test reactors like HTRE-3 
+pictured here were operated
+in this project but no plane ever actually flew, so far, on nuclear power.
+
+The only nuclear-powered cars you're likely to ever see are electric ones
+charged by nearby nuclear power plants.
+
+
 ## See Also
 * [Fast attacks & Boomers](http://americanhistory.si.edu/subs/operating/propulsion/reactor/index.html#) (Smithsonian)
 * [Submarine Power & Propulsion](http://americanhistory.si.edu/subs/operating/propulsion/index.html) (Smithsonian)
