@@ -12,7 +12,7 @@
 - title: Uses
   pages:
     - reactors
-      #- propulsion
+    - propulsion
       #- medicine
     - geology
     - space

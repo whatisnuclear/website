@@ -56,8 +56,7 @@ remain calm and accurate when discussing its merits and demerits.
 <hr/>
 
 <a name="myth1"></a>
-## Thorium Misconception #1: Development of Thorium-based molten salt reactors got canceled because
-   they couldn&rsquo;t make bombs!
+## Thorium Misconception #1: Development of Thorium-based molten salt reactors got canceled because they couldn&rsquo;t make bombs!
 <span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Quite False. Not only can they be used to make bombs (see Misconception #3), but they also were not
 canceled for any weapons-related reason. One of the most lucid descriptions of what happened to

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nuclear Reactors
+title: Nuclear Power Plants
 category: technology
 description: Nuclear reactors are machines that convert energy stored in atoms into heat or electricity. This page explains what comprises such a device, touches on how they work, and discusses several different varieties. 
 author: Nick Touran
