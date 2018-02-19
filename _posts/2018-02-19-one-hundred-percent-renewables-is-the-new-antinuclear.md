@@ -87,6 +87,10 @@ bill, tell your policy makers that you care *even more* about the environment an
 all carbon-free sources included, including nuclear. You know you can't let your old biases
 get in the way of a clean-energy future.**
 
+Indeed, probably the most straightforward way to be pragmatic in this is to support a carbon tax.
+This will lift renewables and nuclear for the right reasons and targets exactly what the problem
+is, while putting a price on externalities of fossil fuel. So let's get a carbon tax going!
+
 If you don't support nuclear energy, that's fine. Just say that you support all carbon-free energy
 sources except nuclear and that you're confident we can accomplish our climate goals without 
 the single biggest carbon-free energy source in the USA. **Don't euphemize it as 100% renewables.**
