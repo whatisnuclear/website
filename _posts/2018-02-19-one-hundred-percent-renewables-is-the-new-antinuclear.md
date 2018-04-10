@@ -154,7 +154,7 @@ the details, we just need low carbon. Let's do it!
 
 ## See Also
 * [A more in-depth treatment of challenges of
-  intermittency](http://box.lan:4000/blog/2017-12-17-primer-on-energy-ghg-intermittency-and-nuclear.html)
+  intermittency](/blog/2017-12-17-primer-on-energy-ghg-intermittency-and-nuclear.html)
 * [Our front page summarizing the case for nuclear energy](/)
        
 </div>

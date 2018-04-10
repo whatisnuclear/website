@@ -248,7 +248,7 @@ Pascal-Emmanuel Gobry, &quot;This energy source could solve all of our problems 
 <li>J. Kang and F. von Hippel, &quot;U-232 and the Proliferation-Resistance of U-233 in Spent Fuel,&quot; Science &amp; Global Security, 9., p 1-32, (2001). <a href="http://scienceandglobalsecurity.org/archive/sgs09kang.pdf">[pdf]</a></li>
 <li><a href="http://www.ptable.com/#Property/Abundance/Ocean">Dayah, Michael. Dynamic Periodic Table. 1 Oct. 1997. Web. 22 Mar 2014</a></li>
 <li><a href="http://www.world-nuclear.org/information-library/current-and-future-generation/thorium.aspx">World Nuclear - Known Thorium Reserves</a></li>
-<li><a href="http://www.world-nuclear.org/info/Nuclear-Fuel-Cycle/Uranium-Resources/supply-of-uranium.aspx">World Nuclear - Known Uranium Reserves</a></li>
+<li><a href="http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx">World Nuclear - Known Uranium Reserves</a></li>
 <li><a href="http://nuclear.inl.gov/deliverables/docs/a6-msr_fy07_external.pdf">Generation IV Nuclear Energy Systems Ten-Year Program Plan - Fiscal Year 2007, Appendix 6, Molten Salt Reactor</a></li>
 
 </ol>

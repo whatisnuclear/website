@@ -95,7 +95,7 @@ burnup.
 <li><a href="https://www.youtube.com/watch?v=DIfMmqKYC6w">TerraPower TWR intro video</a></li>
 <li>Our <a href="{% link recycling.md %}">breeding and recycling page</a></li>
 <li>Our <a href="{% link fast-reactor.html %}">fast neutron reactor page</a> </li>
-<li><a href="https://terrapower.com">TerraPower</a>, a company developing TWR technology</li>
+<li><a href="http://terrapower.com">TerraPower</a>, a company developing TWR technology</li>
 
 </ul>
  Questions? Comments? Send us <a href="contact.html">a note</a>.

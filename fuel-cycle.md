@@ -23,8 +23,6 @@ politics, and long-term sustainablity of nuclear energy depend critically on fue
 Before we go in, you should watch this video that makes the fuel cycle more clear. Areva made this
 cool promotional film about the nuclear fuel cycle with rockin' tunes. It shows footage of
 many processes of the fuel cycle and whets your appetite for learning more, which you can do below.
-Thanks to John Wheeler for posting this video at <a
-href="http://thisweekinnuclear.com/?page_id=52">This Week in Nuclear</a>!
 
 
 <iframe src="https://www.youtube.com/embed/xlTnF2LJP60"
@@ -97,7 +95,7 @@ dangerous nuclides and the environment.
 <ul>
 <li>Our <a href="{% link recycling.md %}">recycling page</a> for some more examples of fuel cycles such as once-through and breeder</li>
 <li><a href="https://en.wikipedia.org/wiki/Advanced_Fuel_Cycle_Initiative">Advanced Fuel Cycle Initiative</a> - A DOE sponsored program to move to more interesting fuel cycles than once-through. </li>
-<li><a href="http://scitation.aip.org/content/aip/magazine/physicstoday/article/50/6/10.1063/1.881792">Physics Today, June 1997.</a> - Special edition on radioactive waste</li>
+<li><a href="https://physicstoday.scitation.org/doi/10.1063/1.881792?journalCode=pto">Physics Today, June 1997.</a> - Special edition on radioactive waste</li>
 </ul>
 </div>
 </div>
