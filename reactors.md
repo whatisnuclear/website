@@ -12,7 +12,7 @@ author: Nick Touran
 
 ## What is a nuclear reactor?
 
-<div class="pull-right"><img src="/img/dccook.jpg" alt="A nuclear power plant." class="img-rounded img-responsive" title="A nuclear power plant." /></div>
+<div class="pull-right"><img src="/img/dccook.jpg" alt="A nuclear power plant." style="max-width:300px;" class="img-rounded img-responsive" title="A nuclear power plant." /></div>
 
 A nuclear reactor is a system that contains and controls sustained nuclear chain reactions. Reactors are used for generating 
 electricity, moving aircraft carriers and submarines, producing medical isotopes for imaging and cancer treatment, 
