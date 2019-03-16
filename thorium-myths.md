@@ -22,21 +22,26 @@ Thorium was so named in the 1820s, well before its nuclear properties were disco
 **Dear Internet,** we need to have a talk about Thorium. It has many good attributes as a nuclear
 fuel, but the things being said on the internet have become largely misleading, if not all-out
 inaccurate. Every internet person I meet in real life who finds out that I am a nuclear engineer
-asks me why we aren&rsquo;t using the end-all, be-all that is thorium. Every post regarding nuclear
+asks me why we aren't using the end-all, be-all that is thorium. Every post regarding nuclear
 energy on reddit is packed full of comments claiming that Thorium will end all concerns about
 nuclear energy and that Uranium is only in use due to some dark dark conspiracy. 
 
-Some places on the internet have become echo-chambers for this kind of thing, and while it&rsquo;s
+Some places on the internet have become echo-chambers for this kind of thing, and while it's
 great to spread awareness of thorium, blatant disregard of the associated challenges is a detriment
-to civilization&rsquo;s energy debate. Besides, taking a moderate viewpoint lends credibility to any
+to civilization's energy debate. Besides, taking a moderate viewpoint lends credibility to any
 cause. This page will try to point people in the right direction if they get lost, using things like
-references and whatnot. And we&rsquo;ll make a <i>wall of shame</i> where anyone who perpetuates a
-misconception will get to be displayed. 
+references and whatnot. 
 
-To learn more about Thorium, we feature <a href="{% link thorium.md %}">a page about Thorium as
-nuclear fuel</a>, as well as a big <a href="{% link msr.html %}">page about the fluid fueled
-molten salt reactors (MSRs)</a> that are good at using it. If you think we&rsquo;re too
-negative-nancy here, go check out those pages.
+<div class="alert alert-success" role="alert">
+Thorium is absolutely a viable and capable fuel, and some advanced nuclear reactors that
+use it are among the most exciting designs out there. This page does not debunk Thorium as
+a good energy system, it simply debunks a small fraction of the hype from a nuclear
+engineer's (who is tasked with designing and implementing these kinds of systems)
+perspective. Hype about Thorium and advanced nuclear in general is quite justified! To
+learn more about Thorium, we feature <a href="{% link thorium.md %}">a page about Thorium
+as nuclear fuel</a>, as well as a big <a href="{% link msr.html %}">page about the fluid
+fueled molten salt reactors (MSRs)</a> that are good at using it.
+</div>
 
 We love Thorium and think it has a bright future, both in solid and fluid fueled reactors. I
 personally have studied it a huge amount and many years ago considered getting a THORIUM vanity
@@ -45,10 +50,10 @@ remain calm and accurate when discussing its merits and demerits.
 
 ## On this page:
 <ul>
-<li><a href="#myth1">Misconception #1: Development of Thorium-based molten salt reactors got canceled because they couldn&rsquo;t make bombs!</a></li>
+<li><a href="#myth1">Misconception #1: Development of Thorium-based molten salt reactors got canceled because they couldn't make bombs!</a></li>
 <li><a href="#myth2">Misconception #2: Thorium reactors never need enrichment!</a></li>
 <li><a href="#myth3">Misconception #3: Thorium reactors cannot make bombs!</a></li>
-<li><a href="#myth4">Misconception #4: There&rsquo;s more Thorium than Uranium, and that is really important!</a></li>
+<li><a href="#myth4">Misconception #4: There's more Thorium than Uranium, and that is really important!</a></li>
 <li><a href="#myth5">Misconception #5: Thorium reactors exclusively make waste that is safe in hundreds of years!</a></li>
 <li><a href="#myth6">Misconception #6: Thorium reactors and Molten Salt Reactors are the same thing!</a></li>
 <li><a href="#wall">Wall of Shame!</a></li>
@@ -56,18 +61,20 @@ remain calm and accurate when discussing its merits and demerits.
 <hr/>
 
 <a name="myth1"></a>
-## Thorium Misconception #1: Development of Thorium-based molten salt reactors got canceled because they couldn&rsquo;t make bombs!
+## Thorium Misconception #1: Development of Thorium-based molten salt reactors got canceled because they couldn't make bombs!
 <span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
-Quite False. Not only can they be used to make bombs (see Misconception #3), but they also were not
-canceled for any weapons-related reason. One of the most lucid descriptions of what happened to
-molten salt reactors like the LFTR can be found on page 49 of WASH-1222 [1]. There, they describe a
-few privately-funded working group studies of the MSBR, including the Molten Salt Breeder Reactor
-Associates (consisting of the engineering firm Black &amp; Veatch and five midwestern utilities) and
-the Molten Salt Group, headed by Ebasco Services, Inc. (with 5 other industrial firms and fifteen
-utilities involved). These groups concluded that the MSBR (basically the LFTR) is attractive and
-potentially cheaper than LWRs. They said that a demonstration plant is warranted, but the
-performance cannot be predicted with confidence. Then, a list of factors that limit industrial
-involvement is given. They include (verbatim): 
+Quite False. Not only can they technically (but with much difficulty!) be used to make
+bombs (see Misconception #3), but they also were not canceled for any weapons-related
+reason. One of the most lucid descriptions of what happened to molten salt reactors like
+the LFTR can be found on page 49 of WASH-1222 [1]. There, they describe a few
+privately-funded working group studies of the MSBR, including the Molten Salt Breeder
+Reactor Associates (consisting of the engineering firm Black &amp; Veatch and five
+midwestern utilities) and the Molten Salt Group, headed by Ebasco Services, Inc. (with 5
+other industrial firms and fifteen utilities involved). These groups concluded that the
+MSBR (basically the LFTR) is attractive and potentially cheaper than LWRs. They said that
+a demonstration plant is warranted, but the performance cannot be predicted with
+confidence. Then, a list of factors that limit industrial involvement is given. They
+include (verbatim): 
 
 * The existing major industrial and utility commitments to the LWR, HTGR, and LMFBR. 
 * The lack of incentive for industrial investment in supplying fuel cycle services, such as those
@@ -77,24 +84,23 @@ involvement is given. They include (verbatim):
 * The less advanced state of MSBR technology and the lack of demonstrated solutions to the major
   technical problems associated with the MSBR concept.
 
-Weapons were produced with graphite or heavy-water moderated production reactors and with gas
-centrifuge enrichment. Oh, and thermonuclear weapons require tritium as well, which is something
-that many Thorium MSR designs excel in producing (darn that lithium!). The commercial LWRs had
-nothing to do with making bomb material. Stop the nonsense. 
+Weapons were produced with graphite or heavy-water moderated production reactors and with
+gas centrifuge enrichment. Also, thermonuclear weapons require tritium, which is something
+that many Thorium MSR designs excel in producing because they often contain Lithium. The
+commercial LWRs had nothing to do with making bomb material. Stop the nonsense. 
 
 To be fair, you can rightly argue that U-Pu-fueled reactors got developed in the first place (in the
 Manhattan project of the 1940s) for weapons reasons. Back then (before enrichment), Th-fueled
-reactors couldn&rsquo;t even go critical, much less make bombs. Natural uranium reactors were the
+reactors couldn't even go critical, much less make bombs. Natural uranium reactors were the
 only way to go. This gave them the technical head start that has arguably led to their dominance.
 However, when MSRs were finally given their chance in the 1950s and 60s, their (non-existant)
 inability to make bombs was not to blame for the cancellation. 
 
 <a name="myth2"></a>
 ## Thorium Misconception #2: Thorium reactors never need enrichment!
-<span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 	
-Misleading at best. When people say this, they tend to imply that Th-fueled reactors are the only
-reactors that never need enrichment, which isn&rsquo;t true. The nice thing about **any** breeder
-reactor (using Th-U or U-Pu) is that eventually they can become fissile self-sufficient, meaning
+When people say this, they tend to imply that Th-fueled reactors are the only
+reactors that never need enrichment, which isn't true. The nice thing about **any** breeder
+reactor (using Th-U or U-Pu) is that **eventually** they can become fissile self-sufficient, meaning
 they breed more (or equal) fissile material than they consume. The first electricity-producing
 reactor in the world (EBR-I in Idaho, 1951) was created to demonstrate that breeding was possible
 (in a liquid-metal cooled fast breeder reactor, or LMFBR). Any breeder reactor concept on the planet
@@ -104,7 +110,7 @@ you have to start your reactor up with fissile material from somewhere. If you t
 and try to turn it on, you'll be sorely disappointed because it cannot possibly sustain a chain
 reaction, under any circumstances. So you start it up with denatured bombs or enriched U-235 and
 then it becomes self-sufficient on Th-232 or U-238. I occasionally read misleading things that say
-Thorium will just fire right up. Alas. 
+Thorium will just fire right up. Alas, it is not so.
 
 It should be noted, however, that the key advantage of Th fuel is that it allows thermal breeding.
 This means that you can start up a Th-based breeder with substantially (between 3 and 10 times) less
@@ -113,13 +119,19 @@ the fast breeder will make far more fissile material (because they make have a b
 neutron economy), but the amount of fissile in fast spectrum reactors is always more than in thermal
 reactors.  
 
-TL;DR: They do to start up, and U-Pu breeders like the LMFBR can do the same so it&rsquo;s not Thorium specific.
+TL;DR: They do to start up, and U-Pu breeders like the LMFBR can do the same so it's not Thorium specific.
 <a name="myth3"></a>
 
 ## Thorium Misconception #3: Thorium reactors cannot make bombs!
 <span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
 
-False! They can indeed make bombs. Thorium reactors work by breeding Th-232 through Protactinium-233
+Nuclear reactors, by their nature, split atoms in a chain reaction to release energy
+slowly, safely, and under control. If a nefarious operator controls such a system, they
+can use various means to extract the fissile nuclear fuel atoms and concentrate them into
+a weapon. Thus, all reactors require safeguards and inspections from the UN nuclear
+watchdog, the IAEA. This includes Thorium reactors.
+
+Thorium reactors work by breeding Th-232 through Protactinium-233
 (27.4 day half life) and into Uranium-233, which is fissile. Pa-233 is a pretty strong neutron
 absorber, so the MSBR (basically the LFTR) has to extract it from the core once it is produced and
 let it decay to U-233 away from the neutrons. Once the U-233 is created, it gets fed back into the
@@ -155,18 +167,21 @@ contamination problem because 27-day half-life Pa-
 
 Options to make bomb-making less favorable include fostering substantial U-232 contamination in the
 reactor and denaturing the U-233 with U-238 that keeps the in-reactor inventory safe. Both of these
-options can conceptually be bypassed in the Pa separation route though. Besides, U-232 isn&rsquo;t
+options can conceptually be bypassed in the Pa separation route though. Besides, U-232 isn't
 releasing the gammas, its decay products are, and it has a **70 year** half-life. So you can just
 chemically purify your stolen goods and then make the bomb anytime within the next decade or so. 
 
-<p>There are about a dozen other ways people try to amp up the proliferation resistance of various
+There are about a dozen other ways people try to amp up the proliferation resistance of various
 fuel cycles. But they always forget that the owner of such a plant can secretly install a chemical
-cell that does Pa separation. Really, most civilian power to bombs proliferation paths are mythical,
-in any reactor! But since the consequences of proliferation are so dire, nuclear power plants need
-to have baseline proliferation safeguards in place. Thorium-powered reactors, whether fluid fueled
-or not, are no exception.</p>
+cell that does Pa separation. 
+
+Really, most civilian power to bombs proliferation paths are mythical,
+in any reactor, because they're so difficult! But since the consequences of proliferation
+are so dire, nuclear power plants need to have baseline proliferation safeguards in place.
+Thorium-powered reactors, whether fluid fueled or not, are no exception.
+
 <a name="myth4"></a>
-## Thorium Misconception #4: There&rsquo;s more Thorium than Uranium, and that is really important!
+## Thorium Misconception #4: There's more Thorium than Uranium, and that is really important!
 <span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-warning">MISLEADING</button></span> 
 This one is mostly true, but also partially false. The average crustal concentration of Thorium is
 0.00060%, compared with 0.00018% for Uranium [3]. But, the oceanic abundance of Th is
