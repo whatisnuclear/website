@@ -129,7 +129,7 @@ are, in order of median CO<sub>2</sub>-eq produced per kilowatt-hour of electric
 src="https://partofthething.com/thoughts/wp-content/uploads/ipcc-co2-of-fuels.png" alt="graph
 showing carbon intensity of energy sources" width="761" height="578" /> 
 <figcaption>(Source: <a
-href="https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_annex-iii.pdf">Schlomer S.,
+href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf">Schlomer S.,
 et.al., 2014: Annex III: Technology-specific cost and performance parameters. In: Climate Change
 2014: Mitigation of Climate Change. Contribution of Working Group III to the 5th Assessment Report
 of the IPCC</a>)</figcaption>
