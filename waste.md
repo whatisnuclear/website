@@ -16,24 +16,25 @@ what its nature is, what the safe storage/treatment options are, and how it comp
 other energy sources. 
 
 ## TL;DR (quick summary)
-Nukes produce unbelievably little waste compared to other energy sources, and although it is toxic, we are 
-confident that we have safe ways to store it until it has decayed to low levels. It should not dissuade 
+Nukes produce unbelievably little waste compared to other energy sources. Although it is toxic, we 
+know safe ways to store it until it has naturally decayed to harmlessness. In the face of larger problems
+like fossil-fueled air pollution and climate change, the relatively minor issue of nuclear waste disposal should not dissuade 
 us from deploying reactors to power substantial fraction of the planet. Also, advanced reactors offer 
 ways to reduce waste further, and some can even recycle it (though this is not cheap).
 
 ## What is Nuclear Waste?
 Nuclear waste is the material that nuclear fuel becomes after it is used in a [reactor]({{ site.baseurl }}{% link reactors.md %}). 
-From the outside, it looks exactly like the fuel that was loaded into the reactor &mdash; assemblies of metal rods 
+From the outside, it looks exactly like the fuel that was loaded into the reactor &mdash; typically assemblies of metal rods 
 enclosing fuel pellets. But since nuclear reactions have occurred, the contents aren&rsquo;t quite the same.
 
-Nuclear energy is released when a nuclear fuel atom snaps into two. The key component of nuclear 
-waste is the leftover smaller atoms, known as fission products.
+Nuclear energy is released when a nuclear fuel nucleus snaps into two. The key component of nuclear 
+waste is the leftover smaller nuclei, known as fission products.
 
 <div class="thumbnail">
 <p><img class="img-responsive" src="/img/fission-chain-reaction.svg.png" width="900" alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission products and 3 neutrons."/>
 </p>
-<p class="caption"><strong>Figure 1. </strong>The fission process of a single atom. The large majority of the energy is 
-released instantaneously but the rest of it comes out from the fission products over the years. 
+<p class="caption"><strong>Figure 1. </strong>The fission process of a single atomic nucleus. The large majority of the energy is 
+released instantaneously, but the rest of it comes out from the fission products over the years. 
 That slowly released energy is what makes nuclear waste a hazard.</p>
 </div>
 
@@ -58,10 +59,15 @@ it was unshielded, you would receive a lethal radioactive dose within a few seco
 Hence all the worry about it.
 
 ## What do we currently do with our nuclear waste?
-In practice, the spent fuel is never unshielded. It is kept underwater (water is an excellent shield) for a few 
-years until the radiation decays to levels that can be shielded by concrete in large storage casks. Options for 
-final disposal include deep geologic storage and recycling. (The sun would consume it nicely if we could get 
-into space, but since rockets are so unreliable, we can't afford to risk atmospheric dispersal on lift-off.)
+In practice, the spent fuel is never unshielded. It is kept underwater (water is an excellent
+shield) for a few years until the radiation decays to levels that can be shielded by concrete in
+large storage casks (see [video of storage casks](https://www.youtube.com/watch?v=EUvvIzH2W6g)).
+Options for final disposal include deep geologic storage and recycling. (The sun would consume it
+nicely if we could get into space, but since rockets are so unreliable, we can't afford to risk
+atmospheric dispersal on lift-off.)
+
+Finland is the world leader in long-term nuclear waste disposal. Their Onkalo deep geologic repository is [expected
+to the be the world's first](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). 
 
 <a name="howmuch"></a>
 ## How much nuclear waste does nuclear energy create?
@@ -73,10 +79,12 @@ from coal and natural gas, expect to have over 10,000 kilograms of CO<sub>2</sub
 each person, not to mention other poisonous emissions directly to the biosphere 
 (based on EIA [emissions data](https://www.eia.gov/environment/emissions/ghg_report/ghg_carbon.php)). 
          
-If you want raw numbers: in 2002, there were 47,023.40 metric tonnes of high-level waste in the USA. 
-105,793 GW-days of thermal energy has been produced by nuclear power plants throughout the years 
-to create that waste. Also in 2002, operating reactors added 2,407.20 metric tonnes <sup>[[1](#refs)]</sup>
-(1 metric tonne = 1000 kg).
+If you want raw numbers: in 2018, there were just over 80,000 metric tonnes of
+high-level waste in the USA.  Between 1971 and 2018, nuclear reactors in the
+USA generated 17.3 GW-years of electricity to make this waste.  For another
+perspective, each average US home using 10,000 kWh/year of nuclear electricity
+would generate 5 grams of waste per year. This is astoundingly low, again,
+thanks to the near magical energy density of the atom.
 
 </div>
     
@@ -103,13 +111,19 @@ each nuclide vs. time is shown in Figure 3.
 <div class="thumbnail">
 <a href="/img/waste-curies-long.gif"><img src="/img/waste-curies-long-small.gif" alt="Components of decay heat vs. time"></a>
 <div class="caption">
-<strong>Figure 3.</strong> A chart of the activity of all the radioactive nuclides as a function of time up to 1 million years from 1 MT of nuclear waste, burned to 45 MWd/kg. Click for a larger view. Data was computed with ORIGEN-S from Oak Ridge by whatisnuclear.com. 
+<strong>Figure 3.</strong> A chart of the activity of all the radioactive
+nuclides as a function of time up to 1 million years from 1 MT of nuclear
+waste, burned to 45 MWd/kg. Click for a larger view. Data was computed with
+ORIGEN-S from Oak Ridge by whatisnuclear.com. 
 </div>
 </div>
 
 <table class="table table-striped">
-<caption><strong>Table 1.</strong> Heavy metal composition of 4.2% enriched nuclear fuel before and after running for about 3 years (40,000 MWD/MT). Minor actinides include neptunium, americium, and curium. This table does not include structural material such as zirconium and stainless steel.</caption>
-<tr><th ></th><th  >Charge</th><th >Discharge</th></tr>
+<caption><strong>Table 1.</strong> Heavy metal composition of 4.2% enriched
+nuclear fuel before and after running for about 3 years (40,000 MWd/MT). Minor
+actinides include neptunium, americium, and curium. This table does not include
+structural material such as zirconium and stainless steel.</caption> <tr><th
+></th><th  >Charge</th><th >Discharge</th></tr>
 <tr><th>Uranium</th><td>100%</td><td>93.4%</td></tr> 
 <tr><th>Enrichment</th><td>4.20%</td><td>0.71%</td></tr> 
 <tr><th>Plutonium</th><td>0.00%</td><td>1.27%</td></tr>
@@ -132,6 +146,9 @@ stable, the location is suitable. However, the repository is designed to a certa
 If it ever opens, it will fill quickly thanks to the build-up of waste throughout the last few decades and 
 another repository will need to be constructed. However, there are ways around this. 
 
+The Finns are way ahead of the rest of the world, and are responsibly building a safe deep geologic repository for 
+all their waste. 
+
 ### Recycling nuclear waste
 
 As mentioned previously, nuclear waste is over 90% uranium. Thus, the spent fuel (waste) still contains 90% 
@@ -139,20 +156,29 @@ usable fuel! It can be chemically processed and placed in <a href="{% link fast-
 (which have not been deployed on any major scale yet) to <em>close the fuel cycle</em>. A closed fuel cycle means much 
 less nuclear waste and much more energy extracted from the raw ore.
 
-France and Japan currently recycle spent fuel, although they only recycle one time before disposal. 
-The US had a recycling program that was shut down because it created Plutonium, which is arguably
-the easiest material with which to make a nuclear weapon. Were some plutonium diverted in the recycling 
+France currently recycles spent fuel, although they only recycle one time before disposal. 
+The US had a recycling program that was shut down because it created Plutonium, which could
+be used to make a nuclear weapon. Were some plutonium diverted in the recycling 
 process, a non-nuclear entity could be one step close to building a bomb. However, under programs such as 
 the (now stalled) 
 <a href="https://en.wikipedia.org/wiki/International_Framework_for_Nuclear_Energy_Cooperation">GNEP [wikipedia]</a>, 
-proliferation-free waste recycling can exist. 
+where only countries who already have nuclear weapons recycle, proliferation-free waste recycling can exist. Since
+the many of the largest energy users are already nuclear weapons states, a massive expansion of nuclear could be done there with
+no additional proliferation concerns whatsoever.
 
-<span class="label label-success">See Also</span> See our [main recycling page]({% link recycling.md %}) for a more 
-thorough discussion of recycling.
+<div class="alert alert-success" role="alert" markdown="1">
+You will find more discussion of proliferation on our [nonproliferation page]({% link non-proliferation.md %}). 
+Please remember to [contact us](/contact.html) with your comments or questions. 
+</div>
+
 
 The longest living nuclides in nuclear waste are the ones that can be used as fuel: plutonium and the minor 
 actinides. If these materials are burnt in fuel through recycling, nuclear waste would only remain radioactive 
 for a few hundred years, as opposed to a few hundred thousand. This significantly reduces concerns with long-term storage.
+This concept is called Partitioning and Transmutation and is discussed in elaborate detail in [this IAEA report](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management). 
+
+<span class="label label-success">See Also</span> See our [main recycling page]({% link recycling.md %}) for a more 
+thorough discussion of recycling.
                 
 ### Help from Thorium Fuel
 
@@ -161,9 +187,6 @@ allow for recycling and breeding without creating any plutonium or minor actinid
 still created, of course, and some of them are quite long-lived, but reducing the minor actinides is a benefit of 
 Thorium.
 
-You will find more discussion of proliferation on our [nonproliferation page]({% link non-proliferation.md %}). 
-Please remember to [contact us](/contact.html) with your comments or questions. 
-       	
 
 ### More details for the curious
 Nuclear reactors are typically loaded with Uranium Oxide fuel, UO<sub>2</sub>. Neutrons are introduced to the 
@@ -188,9 +211,14 @@ waste exist, such as low level waste from other applications. This discussion fo
 <div class="col-md-8" markdown="1">
 
 <a name="refs"></a>
-## References
+## See Also
  * [Fission product yields from The National Nuclear Data Center](http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.1&nsub=11)
-
+ * [The Hiding Place: Inside the World's First Long-Term Storage Facility for Highly Radioactive Nuclear Waste](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste)
+ * [The Onkalo nuclear waste repository (wiki)](https://en.wikipedia.org/wiki/Onkalo_spent_nuclear_fuel_repository)
+ * [Energy Northwest Video of dry casks](https://www.youtube.com/watch?v=EUvvIzH2W6g)
+ * [GAO Disposal of Nuclear Waste page](https://www.gao.gov/key_issues/disposal_of_highlevel_nuclear_waste/issue_summary)
+ * [NEI nuclear waste storage stats](https://www.nei.org/resources/statistics/used-fuel-storage-and-nuclear-waste-fund-payments)
+ * [IEAE TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
 
 </div>
 </div>
