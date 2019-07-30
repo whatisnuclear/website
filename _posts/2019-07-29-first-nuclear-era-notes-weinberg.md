@@ -39,6 +39,8 @@ information here. There are also [82 linear feet of boxes of Weinberg's work at 
 Tennessee.
 ](https://dlc.lib.utk.edu/spc/view?docId=ead/0012_003674_000000_0000/0012_003674_000000_0000.xml)
 
+There's also a more recent [documentary about Alvin Weinberg's life and work.](https://www.youtube.com/watch?v=OeTjXxWvPTc)
+
 # Chapter 1: Robert Hutchin's University of Chicago 
 
 * 3 - Entrance to Univ of Chicago coincided with the [University
