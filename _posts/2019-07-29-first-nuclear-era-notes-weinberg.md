@@ -284,7 +284,7 @@ powered long-range bombers. The eventual development of the ICBM eliminated the 
 # Chapter 6: Fluid-Fuel Power Breeders
 * 109 - W got chided out for telling DoD that after a billion $ the ANP was unlikely to succeed.
   Soon after, JFK came in and canceled the program. Reactor people at ORNL accused W of treachery. 
-* 111. - GE worked on intermediate spectrum breeders
+* 111 - GE worked on intermediate spectrum breeders
 * 2nd nuclear electricity was from ORNL HRE homogeneous reactors experiment.
 * 113 - GE converted their failed intermediate breeder into a sodium submarine reactor that powered
   the seawolf, but Rickover chose PWRs. 
@@ -427,7 +427,7 @@ entry](https://www.worldcat.org/title/physical-theory-of-neutron-chain-reactors/
 * 176 - ANS paper has Faustian bargain
 * 177 - W defends the regulator, says nuclear people weren't addressing public concerns and regulator reflects public.
 * Talk to Nader's critical mass group was the worst. Cat calls. Shudder.
-* 180 - says Libyans would send students to OSU to learn how to do isotope separations. To OSU with
+* 180 - says Libyans would send students to Oregon State University to learn how to do isotope separations. To OSU with
   Libyans in the class!
 * Will UN respond to NK as it did to Iraq for proliferation? He hopes so. 
 * 181 - waste is less scary than reactors because of potential thermodynamic driving force.
@@ -489,7 +489,7 @@ entry](https://www.worldcat.org/title/physical-theory-of-neutron-chain-reactors/
 
 # Chapter 12: Energy Think Tankery
 * 218 - RAND is a defense think tank, they wanted an energy one. High white house staff said they'd be the client, so they made one. 
-* W thinks establishing the language and categories of thought to be the most important step in policy. This very closely echos the concept of [Ontoloy in information science](https://en.wikipedia.org/wiki/Ontology_(information_science))
+* W thinks establishing the language and categories of thought to be the most important step in policy. This very closely echos the concept of [Ontology in information science](https://en.wikipedia.org/wiki/Ontology_(information_science))
 * They were embarking on [systems analysis](https://en.wikipedia.org/wiki/Systems_analysis). Sounds like early systems engineering.
 * W critical of systems analysis for very complex things like biology and cities. Thinks its fine for ICBMs. Use math where math makes sense to model interactions, but common sense elsewhere. 
 * 222 - at IEA they did an early net energy analysis in response to the idea nuclear was net
