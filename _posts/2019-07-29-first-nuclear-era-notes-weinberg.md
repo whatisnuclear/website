@@ -286,6 +286,10 @@ powered long-range bombers. The eventual development of the ICBM eliminated the 
 # Chapter 6: Fluid-Fuel Power Breeders
 * 109 - W got chided out for telling DoD that after a billion $ the ANP was unlikely to succeed.
   Soon after, JFK came in and canceled the program. Reactor people at ORNL accused W of treachery. 
+* 109 - Reactor development, like any heavy-engineering development, is an inverted
+  pyramid: at the apex of the pyramid is the original idea, supported by theory and a few
+  experiments; but as the chosen system becomes and engineering and then a commercial
+  reality, the resources required to carry out the development increase greatly. 
 * 111 - GE worked on intermediate spectrum breeders
 * 2nd nuclear electricity was from ORNL HRE homogeneous reactors experiment.
 * 113 - GE converted their failed intermediate breeder into a sodium submarine reactor that powered
