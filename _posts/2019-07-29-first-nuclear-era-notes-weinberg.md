@@ -334,6 +334,23 @@ powered long-range bombers. The eventual development of the ICBM eliminated the 
   He'd be happy with the current state of affairs where multiple startups are working on 
   various MSR manifestations.
 
+  > Why didn't the molten-salt system, so elegant and so well thought-out, prevail? I've
+  > already given the political reason: that the fast breeder arrived first and was
+  > therefore able to consolidate its political position within the AEC. But there was
+  > another, more technical reason. The molten-salt technology is entirely different from
+  > the technology of any other reactor. To the inexperienced, molten-salt technology is
+  > daunting. This certainly seemed to be Milton Shaw's attitude toward molten salts ---
+  > and he after all was director of reactor development at the AEC during the molten-salt
+  > development. Perhaps the moral to be drawn is that a technology that differs too much
+  > from existing technology has not one hurdle to overcome --- to demonstrate its
+  > feasibility --- but another even greater one --- to convince influential individuals
+  > and organizations who are intellectually and emotionally attached to a different
+  > technology that they should adopt the new path. This, the molten-salt system could not
+  > do. It was a successful technology that was dropped because it was too different from
+  > the main lines of reactor development. But if weaknesses in other systems are
+  > eventually revealed, I hope that in a second nuclear era, the molten-salt technology
+  > will be resurrected.
+
 # Chapter 7: Economic Nuclear Power is Here?
 
 * 133 - Ken Davis insisted that nukes must choose a single path and pushed LWR only
