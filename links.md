@@ -81,12 +81,6 @@ author, Richard Rhodes</td>
 </tr>
 
 <tr>
-<td><a href="http://ansnuclearcafe.org/2014/01/14/a-century-of-technology-remarks-by-richard-rhodes/">A Century of Technology -- Remarks by Richard Rhodes</a></td>
-<td>A long but excellent and inspiring speech given by Pulitzer prize winning technology history
-author, Richard Rhodes</td>
-</tr>
-
-<tr>
 <td><a href="https://www.youtube.com/watch?v=-DPQ15EgyTY">Camp Century Video</a></td>
 <td>A 30-minute documentary about a nuclear-powered ice base in Greenland featuring a
 3-month old Eskimo sled dog named Mukluk. </td>
@@ -94,6 +88,24 @@ author, Richard Rhodes</td>
 <tr>
 <td><a href="https://withouthotair.com/">Sustainable energy without the hot air</a></td>
 <td>A free book by David MacKay discussing sustainable energy in unprecedented clarity</td>
+</tr>
+<tr>
+<td><a href="https://www.osti.gov/opennet/aec_atom">AEC Atom Information Booklets</a></td>
+<td>An incredible (if old) collection of informational booklets about nuclear technology,
+from microreactors to geology to computers.</td>
+</tr>
+
+<tr>
+<td><a href="https://www.eti.co.uk/library/the-eti-nuclear-cost-drivers-project-summary-report">The ETI nuclear cost drivers summary</a></td>
+<td>A clear description of what has made nuclear expensive</td>
+</tr>
+
+<tr>
+<td><a href="https://www.nei.org/resources/delivering-the-nuclear-promise">The NEI's
+Delivering the Nuclear Promise</a></td>
+<td>An incredibly valuable collection of Efficiency Bulletins from the US nuclear industry
+explaining in some details their pain points in Operations cost and suggestions for how to
+reduce these costs</td>
 </tr>
 
 </table>
