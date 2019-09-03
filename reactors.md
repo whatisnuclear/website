@@ -198,6 +198,10 @@ natural uranium instead of enriched.
 * Neutron absorption in deuterium leads to tritium production, which is radioactive and often leaks in small quantities.
 * Can theoretically be modified to produce weapons-grade plutonium slightly faster than conventional reactors could be.
 
+#### See Also
+* [CANTEACH](https://betacanteach.candu.org/Pages/Welcome.aspx) --- The most comprehensive
+  public domain educational and reference library on CANDU technology.
+
 </div>
 <div class="col-md-6" markdown="1">
 ### Sodium Cooled Fast Reactor
