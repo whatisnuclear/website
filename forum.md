@@ -2,6 +2,7 @@
 layout: default
 title: Forum
 description: Our forum
+sitemap: false
 permalink: /forum/
 ---
 
