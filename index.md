@@ -12,29 +12,31 @@ description: Learn about nuclear energy
 
 ### Introduction to nuclear energy
 
-Everything around you is made up of atoms. In the late 1930s, it was discovered that some particularly large 
-atoms can split in two (or *fission*), releasing a shockingly large amount of energy. When these atoms were 
-arranged properly in a machine, one splitting atom can cause nearby ones to split, creating a chain reaction. 
-Such a machine is called a *nuclear reactor*, and can convert the nuclear energy into electricity, 
-shaft horsepower (for submarines, etc.), neighborhood heating, or lots of other things useful to civilization. 
-Today, nuclear power plants worldwide produce enough electricity to power over 200 million average homes.
+Everything around you is made up of atoms. In the late 1930s, it was discovered that some particularly large atoms can
+split in two (or *fission*), releasing a shockingly large amount of energy. When these atoms are arranged properly in a
+machine, one splitting atom can cause nearby ones to split, creating a chain reaction.  Such a machine is called a
+*nuclear reactor*, and can convert the nuclear energy into electricity, shaft horsepower (for submarines, etc.),
+building heating, desalinated water, and lots of other things useful to civilization.  Today, nuclear power plants
+worldwide produce enough electricity to power over 200 million average homes.
 
 ### Nuclear reactors make safe global-scale sustainable energy
 
 #### <span class="fa fa-sun-o fa-lg text-warning"></span> Nuclear is clean-air energy
 
-Because nuclear fuel is so energy-dense, it's possible to keep all the waste accounted for and out of 
-the biosphere, in strong contrast to fossil fuels which put much of their wastes into the air. 
-Also, splitting atoms doesn't make carbon dioxide. 
+Because nuclear fuel contains so much more energy in a small mass than anything else, it's possible to keep all the
+byproducts accounted for and out of the biosphere, in strong contrast to fossil fuels which dump much of their wastes
+into the air and our lungs. Additionally, splitting atoms doesn't make carbon dioxide, so nuclear energy is a solution
+to climate change.
 
 #### <span class="fa fa-cog fa-spin fa-lg text-info"></span> Nuclear reactors make dependable 24-hour baseload energy
 
 One loading of fuel lasts 18+ months in a reactor, and they generally operate for that long non-stop. 
 No cloudy days or calm nights will prevent nuclear energy from being delivered to those who depend on it.
+This can be an important complement to low-carbon but variable power sources like wind and solar.
 
 #### <span class="fa fa-battery-full fa-lg text-success"></span> Nuclear energy is sustainable
-We know of enough nuclear fuel resources to power the world for thousands of years with advanced reactors. 
-Even with conventional reactors, peak uranium is far off.
+We have enough nuclear fuel resources to power the world ten times over for hundreds of thousands of years with advanced
+reactors. Even with conventional reactors, peak uranium is far off.
 
 Humans use a lot of energy, and we're using more every day. Between 2000 and 2010, the world total 
 energy consumption rose by an astounding 29% [1]. Choices about our consumption of energy are fundamental 
@@ -42,20 +44,21 @@ to the primary geopolitical and environmental struggles of our day. Nuclear ener
 for supplying our energy while alleviating these struggles.
 
 
-### Problems and solutions with nuclear energy
+<p class="text-center"><a class="btn btn-success" href="{% post_url 2017-12-17-primer-on-energy-ghg-intermittency-and-nuclear %}" role="button"><i class="fa fa-university fa-lg"></i> More intro: A primer on energy, greenhouse gas, intermittency, and nuclear</a></p>
+
+### Common questions about nuclear energy
 <!--<table class="table table-striped text-justify " >
 <tr><th>Concern</th><th>The Problem</th><th>Counterpoint</th></tr>
  <tr>-->
-<div class="row bg-info">
-
+<div class="row">
 <div class="col-sm-6" markdown="1">
 
 #### Waste
 
-When heavy atoms fission and release energy, the two smaller atoms remaining (called *fission products*) are 
+When heavy atoms split and release energy, the two smaller atoms remaining (called *fission products*) are 
 often left with some extra energy to give off. This energy is released over a period of time (the longest-lived 
 waste lasting 100,000+ years) in the form of energetic particles called *radiation*. The radiation is very 
-dangerous and must be kept isolated from the biosphere. We have not yet agreed on what should be done with 
+hazardous and must be kept isolated from the biosphere. We have not yet agreed on what should be done with 
 this high-level nuclear waste.
 
 </div>
@@ -63,21 +66,22 @@ this high-level nuclear waste.
 
 #### Waste Solutions
 
-We know of reasonable options to deal with nuclear waste safely. We have good experience with deep geologic 
-disposal in salt deposits that were formed 250 million years ago. Research in deep borehole technology is 
-also looking promising. Finally, if we close the fuel cycle and [recycle spent fuel]({% link recycling.md %}), 
-then it decays to safe levels in several hundred years rather than hundreds of thousands.
+We know how to deal with nuclear waste safely. The Finns simply chose to go
+ahead and solve their nuclear waste issue and built the repository at Onkalo.  We have good experience with deep
+geologic disposal in salt deposits that have been stable for 250 million years. Research in deep borehole technology is
+also looking promising. Finally, if we close the fuel cycle and [recycle spent fuel]({% link recycling.md %}), then it
+decays to safe levels in several hundred years rather than hundreds of thousands.
 
 </div>
 </div>
 
-<div class="row bg-info">
+<div class="row">
 <div class="col-sm-12">
-<p class="text-center"><a class="btn btn-primary" href="{% link waste.md %}" role="button"><i class="fa fa-trash fa-lg"></i> Read more about waste &raquo;</a></p>
+<p class="text-center"><a class="btn btn-info" href="{% link waste.md %}" role="button"><i class="fa fa-trash fa-lg"></i> Read more about waste &raquo;</a></p>
 </div>
 </div>
 
-<div class="row bg-warning" >
+<div class="row" >
 <div class="col-sm-6" markdown="1">
 
 #### Safety
@@ -93,28 +97,28 @@ reactor safety.
 
 #### Safety Solutions
 
-Nuclear energy has actually *saved* 1.8 million lives by displacing air-pollution related deaths that would have 
-occurred had fossil plants been built instead of the clean-air nuclear ones [2]. This includes the health 
-effects of the nuclear accidents. So they're like airplanes; when one goes down, it's a major 
-disaster and huge story, but the reality is that nuclear reactors are one of the safest ways known to 
-produce energy. And advanced designs can make them even safer.
+Nuclear energy has actually *saved* over 1.8 million lives by displacing air-pollution related deaths that would have
+occurred had fossil plants been built instead of the clean-air nuclear ones [2]. This includes the health effects of the
+nuclear accidents. So they're like airplanes; when one goes down, it's a major disaster and huge story, but the reality
+is that nuclear reactors are one of the safest ways known to produce energy. And advanced designs can make them even
+safer.
 
 </div>
 </div>
 
-<div class="row bg-warning">
+<div class="row">
 <div class="col-sm-12">
-<p class="text-center"><a class="btn btn-primary" href="{% link risk.md %}" role="button"><i class="fa fa-life-buoy fa-lg"></i> Read more about safety &raquo;</a></p>
+<p class="text-center"><a class="btn btn-info" href="{% link risk.md %}" role="button"><i class="fa fa-life-buoy fa-lg"></i> Read more about safety &raquo;</a></p>
 </div>
 </div>
 
-<div class="row bg-info">
+<div class="row">
 <div class="col-sm-6" markdown="1">
 
 #### Proliferation
 
 The first application of fission was as an atomic bomb. While nuclear reactors and atomic bombs are *very*
-different machines (and a reactor can never explode like a bomb), there is some technology overlap, 
+different machines, there is some technology overlap, 
 especially in fuel cycle facilities like enrichment and reprocessing plants. So, some people 
 argue that having reactors around might make it easier to spread nuclear weapons.
 
@@ -123,7 +127,7 @@ argue that having reactors around might make it easier to spread nuclear weapons
 
 #### Proliferation Solutions
 
-It is important for nuclear facilities to monitor nuclear material. That said advanced designs are 
+It is important for nuclear facilities to monitor nuclear material. That said, advanced designs are 
 being developed that reduce reliance on enrichment. Actually, nuclear reactors are useful for 
 peacefully destroying nuclear weapons, and between the late 1990s and 2013, fully 10% of the 
 US electricity was generated in nuclear reactors using dismantled ex-Soviet nuclear warheads 
@@ -131,13 +135,13 @@ in the Megatons-to-Megawatts program.
 
 </div>
 </div>
-<div class="row bg-info">
+<div class="row">
 <div class="col-sm-12">
-<p class="text-center"><a class="btn btn-primary" href="{% link non-proliferation.md %}" role="button"><i class="fa fa-bomb fa-lg"></i> Read more about proliferation &raquo;</a></p>
+<p class="text-center"><a class="btn btn-info" href="{% link non-proliferation.md %}" role="button"><i class="fa fa-bomb fa-lg"></i> Read more about proliferation &raquo;</a></p>
 </div>
 </div>
 
-<div class="row bg-warning">
+<div class="row">
 <div class="col-sm-6" markdown="1">
 #### High cost <i class="fa fa-money fa-lg"></i>
 
@@ -150,9 +154,10 @@ built, the fuel and operating costs are relatively cheap, but the capital cost i
 
 #### Cost Solutions
 
-If carbon dioxide is ever taxed as a pollutant, then nuclear reactors will become much more competitive. 
+If carbon dioxide is ever treated as a pollutant, then nuclear reactors will become much more competitive. 
 But there's definitely room to improve! Research is ongoing in many venues to reduce the cost of nuclear 
-reactors. Advanced designs and construction techniques can possibly bring costs down substantially. 
+reactors. Countries that chose a standard design and built many of the same have succeeded
+in bringing costs down. 
 
 <!--<p><a class="btn btn-primary" href="economics.html" role="button">Read more about economics &raquo;</a></p>-->
 </div>
@@ -214,7 +219,11 @@ the Chernobyl accident by a mother and father</a> of one of our contributors, wh
 <p>&quot;I second that.&quot;</p>
 <footer>Guy standing there</footer>
 </blockquote>
+
+<h4><a href="{% link store.md %}"><i class="fa fa-shopping-bag fa-lg"></i> Merchandise</a></h4>
+
 </div>
+
 
 </div>
       
