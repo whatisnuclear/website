@@ -125,9 +125,9 @@ So, what are our options? We have a lot of low-carbon energy sources. For electr
 are, in order of median CO<sub>2</sub>-eq produced per kilowatt-hour of electricity generated:
 
 <figure>
-<img class="img-responsive center-block"
-src="https://partofthething.com/thoughts/wp-content/uploads/ipcc-co2-of-fuels.png" alt="graph
-showing carbon intensity of energy sources" width="761" height="578" /> 
+<a href="/img/lifecycle-carbon-emissions-nolabel.png"><img class="img-responsive center-block"
+src="/img/lifecycle-carbon-emissions-120dpi-nolabel.png" alt="graph
+showing carbon intensity of energy sources" width="761" height="578" /> </a>
 <figcaption>(Source: <a
 href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf">Schlomer S.,
 et.al., 2014: Annex III: Technology-specific cost and performance parameters. In: Climate Change
