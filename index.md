@@ -30,7 +30,7 @@ to climate change.
 
 <figure>
 <a href="/img/lifecycle-carbon-emissions-300dpi.png"><img class="img-responsive
-center-block" src="/img/lifecycle-carbon-emissions-200dpi.png" alt="graph
+center-block" src="/img/lifecycle-carbon-emissions-200dpi-nocap.png" alt="graph
 showing carbon intensity of energy sources in grams CO2-equivalent per kilowatt
 electric generated. Fossil and biomass are bad, in the 400-800 range. Solar PV
 is 40. Hydro is 24. Nuclear is 12. Wind is 11. There is an arrow saying that
