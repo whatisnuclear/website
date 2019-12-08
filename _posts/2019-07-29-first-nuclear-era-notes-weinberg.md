@@ -320,6 +320,7 @@ powered long-range bombers. The eventual development of the ICBM eliminated the 
   MacPherson is what W uses to recollect MSR info
 * AEC agreed that fluid breeders were important and told ORNL to proceed. 
 * Mac was a convert from ORSORT school
+* Here is an incredible [video about the Molten Salt Reactor Experiment](https://www.youtube.com/watch?v=tyDbq5HRs0o)
 * 128 - burning rocks and sea paper, and case for breeding in nucleonics (*Power Breeding as a
   National Objective*, Nucleonics, vol 16, no 8, pp 75-6). (Sheesh, I can't find anything about
   *Nucleonics* online. Someone please digitize!!). He also refers to *Energy as the Ultimate Raw
@@ -330,7 +331,7 @@ powered long-range bombers. The eventual development of the ICBM eliminated the 
   nuclear in the USA
 * 130 - full concise view of why MSR was cancelled. Clear. SFR got in first, and MSR was considered
   too different. New and different technologies must both show that they are feasible **and also**
-  convince influencial people that they're worth pursuing. Also, he hopes that MSR will be resurrected if weaknesses show in SFR. 
+  convince influential people that they're worth pursuing. Also, he hopes that MSR will be resurrected if weaknesses show in SFR. 
   He'd be happy with the current state of affairs where multiple startups are working on 
   various MSR manifestations.
 
@@ -566,16 +567,19 @@ things faster, and information may help you be more efficient.</caption>
 
 * 242 - Management's function is to maintain standards and then to show that it cares. 
 * in 1955 suggested in Pittsburgh Natl labs focus on geoengineering and long term energy and resources needs. Basically as happened to a degree. 
-* 243 - atoms for peace and war 1953-61 sounds interesting re: ike vs generals
+* 243 - [atoms for peace and war 1953-61](https://www.youtube.com/watch?v=tyDbq5HRs0o) sounds interesting re: ike vs generals
 * 245 - coined term Big Science
 * 247 - W considers his criteria for scientific choice to be one of the best ideas he's ever had.
 * collection of writing in this is in Reflections in Big Science, 1967. Used by NSF for judging proposals to some degree 
-* 249 - w worries that science could go as von Neumann worked about math (in The Mathematician), I.e. in unrelated directions of leas resistance where unrelated findings are published in isolation. Wanted a unified vision of value. 
+* 249 - W worries that science could go as von Neumann worked about math (in The Mathematician), I.e. in unrelated
+  directions of leas resistance where unrelated findings are published in isolation. Wanted a unified vision of value. 
 * 251 - Livermore scientists attacked nukes in 1960s regarding low dose radiation.
 * nuclear reactions. : science and trans science , 1992, another paper by w
 * 253 -  W wrote in nucleonics about a flood of crappy nuclear books
-* 255 - Govt should worry about scientific communication as well as funding science so it doesn't waste its money on duplicate studies, etc.
-* Science, government, and information SGI) made w an information guy. People were often surprised that it was the same Weinberg who convinced Rickover to go with LWRs.
+* 255 - Govt should worry about scientific communication as well as funding science so it doesn't waste its money on
+  duplicate studies, etc.
+* Science, government, and information SGI) made w an information guy. People were often surprised that it was the same
+  Weinberg who convinced Rickover to go with LWRs.
 
 # Chapter 14: The Bomb
 
@@ -587,9 +591,11 @@ ABM](https://en.wikipedia.org/wiki/Nike_Zeus)
 * 268 - W wonders if the marches and paper cranes at Hiroshima can transform it into a religious event, and whether or not
   that could help assure a permanent tradition of non-use of nuclear weapons. Terrorism is still the challenge here, and normal
   human nature. 
-* Perhaps Hiroshima was necessary to trigger the taboos surrounding further use of nuclear weaponry. Nagasaki was much more likely unnecessary, given more than 3 days delay. 
+* Perhaps Hiroshima was necessary to trigger the taboos surrounding further use of nuclear weaponry. Nagasaki was much
+  more likely unnecessary, given more than 3 days delay. 
 * General Groves once told W that he alone was responsible for setting the early date of the Nagasaki bombing
-* 270 - A 4-ton bonshoo bell now sits in the atrium of the Oak Ridge Municipal Building, like the one in Hiroshima that symbolizes the connection between the two cities. 
+* 270 - A 4-ton bonshoo bell now sits in the atrium of the Oak Ridge Municipal Building, like the one in Hiroshima that
+  symbolizes the connection between the two cities. 
 
 # Chapter 15: Could We Have Done Better?
 * The excitement of limitless energy led him: 
