@@ -218,7 +218,7 @@ New York. This made headlines. General Fields described the fallout danger lucid
 
 <div class="alert alert-success" role="alert">
 Note that you can simulate nuclear blasts interactively at
-[NUKEMAP](https://nuclearsecrecy.com/nukemap/).
+<a href="https://nuclearsecrecy.com/nukemap/">NUKEMAP</a>.
 </div>
 
 # Nuclear power for the marketplace
