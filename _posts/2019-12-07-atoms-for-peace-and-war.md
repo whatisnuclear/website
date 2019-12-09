@@ -37,8 +37,8 @@ Eisenhower was elected on November 4, 1952. He was elected only 72 hours after t
 US successfully detonated the world's first thermonuclear weapon, [Ivy
 Mike](https://en.wikipedia.org/wiki/Ivy_mike). Thus, the Eisenhower administration
 and the possibility of thermonuclear war were born almost simultaneously. The book
-opens as president-elect Eisenhower is briefed on thermonuclear weapons on November
-11. From the beginning, the utterly devastating potential destruction of such weapons
+opens as president-elect Eisenhower is briefed on thermonuclear weapons on November 11.
+From the beginning, the utterly devastating potential destruction of such weapons
 motivated Eisenhower to direct the world in a peaceful direction. The stakes of peace
 were now higher than ever. 
 
@@ -160,13 +160,13 @@ engaged in international affairs and domestic economic matters.
 135 The term *special nuclear materials* replaced *fissionable materials* in a bill
 in order to cover things like tritium or deuterium.
 
-# Nuclear Weapons: A New Reality 154-155 In some of the high-yield weapons tests in
-Nevada during
-[Upshot-Knothole](https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole),
-dose rates from fallout reached 0.46 roentgens/hour and Graves ordered road-blocks to
-be set up and washed some contaminated cars at government expense. The *Harry* shot
-cause the most serious fallout. Local schools kept children indoors and the community
-at St.  George came to a standstill for several hours. The community was tense. 
+# Nuclear Weapons: A New Reality 
+
+154-155 In some of the high-yield weapons tests in Nevada during
+[Upshot-Knothole](https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole), dose rates from fallout reached 0.46
+roentgens/hour and Graves ordered road-blocks to be set up and washed some contaminated cars at government expense. The
+*Harry* shot cause the most serious fallout. Local schools kept children indoors and the community at St.  George came
+to a standstill for several hours. The community was tense. 
 
 157 After the *Simon* shot was unexpectedly 43 kilotons of yield, sheepmen reported
 heavy losses west of Cedar City, UT. Thousands of sheep died. Worried that the
@@ -175,8 +175,10 @@ court by suppressing opinions of some scientists. The court found in favor of th
 government in 1955 based on expert testimony. In 1982 the same judge vacated the
 decisions as the fraud became clear.
 
+<div class="alert alert-success" role="alert">
 In my mind, this kind of fraud likely lead to the overall decline in the public's
 trust of experts in general, and especially with respect to radiation!
+</div>
 
 172 On March 1, 1954, the first [test of of a dry thermonuclear weapon
 occurred](https://en.wikipedia.org/wiki/Castle_bravo). Unlike the Mike shot, this
@@ -214,8 +216,10 @@ New York. This made headlines. General Fields described the fallout danger lucid
 > exposed to all the radiation delivered. This diagram was classified secret and
 > received very little distribution beyond the Commissioners.
 
+<div class="alert alert-success" role="alert">
 Note that you can simulate nuclear blasts interactively at
 [NUKEMAP](https://nuclearsecrecy.com/nukemap/).
+</div>
 
 # Nuclear power for the marketplace
 
