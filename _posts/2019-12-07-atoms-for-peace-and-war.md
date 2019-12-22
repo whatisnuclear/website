@@ -198,7 +198,7 @@ production.
 to life, as the menace of city-destroying weapons was now coupled to radioactive
 fallout clouds thousands of miles long. 
 
-> But Castle, like Upshot-Knothole, did taint the sweet tast of success with a
+> But Castle, like Upshot-Knothole, did taint the sweet taste of success with a
 > sickening reality: man-kind had succeeded in producing a weapon that could destroy
 > large areas and threaten life over thousands of square miles.
 
@@ -210,8 +210,8 @@ fallout clouds thousands of miles long.
 New York. This made headlines. General Fields described the fallout danger lucidly:
 
 > If *Bravo* had been detonated in Washington, D.C., instead of Bikini, Fields
-> illustrated with a diaram, that lifetime dose in the Washington-Baltimore area would
-> have been 5,000 roentgens; in Philidelphia, more than 1,000 roentgens; in New York
+> illustrated with a diagram, that lifetime dose in the Washington-Baltimore area would
+> have been 5,000 roentgens; in Philadelphia, more than 1,000 roentgens; in New York
 > City, more than 500, or enough to result in death for half the population if fully
 > exposed to all the radiation delivered. This diagram was classified secret and
 > received very little distribution beyond the Commissioners.
@@ -435,7 +435,7 @@ would kill 7 million Americans and render hundreds of square miles uninhabitable
 perhaps a generation (largely from Sr-90). Worse:
 
 > Gavin predicted that American retaliation against Russia
-> would spread death from radiation across Asia to Japan and the Phillipines. Or if
+> would spread death from radiation across Asia to Japan and the Philippines. Or if
 > the winds blew the other way, an attack on eastern Russia could eventually kill
 > hundreds or millions of Europeans including, some commentators added, possibly half the
 > population of the British Isles.
@@ -565,7 +565,7 @@ Oppenheimer had said before: we need small tactical bombs.
 Hungarian revolution got the EURATOM negotiations back into high gear, emphasizing
 the need to develop nuclear energy as rapidly as an alternative to Middle Eastern
 oil. A committee of three was appointed to formulate a politically and technically
-feasible nuclear power program to meet this need. The *Three Wise Men* were Lous
+feasible nuclear power program to meet this need. The *Three Wise Men* were Louis
 Armand of France, Franz Etzel of Germany, and Francesco Giodani of Italy. At this
 time, Europeans agreed that the French could develop nuclear weapons if they'd share
 access to weapon research and development and the weapon stockpile. 
@@ -578,7 +578,7 @@ this reason.
 American efforts in the power demonstration program had proven that the private
 industry in the USA could not finance the development of commercial nuclear power.
 
-> ... industry had badly underestimated the difficuulties involved in designing and
+> ... industry had badly underestimated the difficulties involved in designing and
 > building nuclear power plants.
 
 Inflation and rising cost estimates were dampening industry interest in nuclear
