@@ -183,7 +183,16 @@ Options to make bomb-making less favorable include fostering substantial U-232 c
 reactor and denaturing the U-233 with U-238 that keeps the in-reactor inventory safe. Both of these
 options can conceptually be bypassed in the Pa separation route though. Besides, U-232 isn't
 releasing the gammas, its decay products are, and it has a **70 year** half-life. So you can just
-chemically purify your stolen goods and then make the bomb anytime within the next decade or so. 
+chemically purify your stolen goods and then make the bomb anytime within the next few months or so.
+
+<p><img class="img img-responsive" src="/img/u232_dose_after_clean_wapd-tm-1422.jpg" alt="Figure showing a
+reduction in gamma dose to 3% as you chemically purify a U-232 sample."
+title="See that huge reduction in gamma dose?"/></p>
+<p class="caption"><strong>Figure 2.</strong> 
+A plot showing a reduction in gamma dose from U-232 daughters to 3% after chemical purification, from <a
+href="https://www.osti.gov/biblio/6710867">WAPD-TM-1422</a>.
+</p>
+
 
 There are about a dozen other ways people try to amp up the proliferation resistance of various
 fuel cycles. But they always forget that the owner of such a plant can secretly install a chemical
@@ -279,6 +288,8 @@ Pascal-Emmanuel Gobry, &quot;This energy source could solve all of our problems 
 <li><a href="http://www.world-nuclear.org/information-library/current-and-future-generation/thorium.aspx">World Nuclear - Known Thorium Reserves</a></li>
 <li><a href="http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx">World Nuclear - Known Uranium Reserves</a></li>
 <li><a href="http://nuclear.inl.gov/deliverables/docs/a6-msr_fy07_external.pdf">Generation IV Nuclear Energy Systems Ten-Year Program Plan - Fiscal Year 2007, Appendix 6, Molten Salt Reactor</a></li>
+<li><a href="https://www.osti.gov/biblio/6710867">Uranium-233 purification and conversion to stabilized ceramic grade
+urania for LWBR fuel fabrication (WAPD-TM-1422)</a></li>
 
 </ol>
 
