@@ -54,7 +54,7 @@ in the not-too-distant future...
   [reprocessed]({% link recycling.md %}), reactors could be fueled without mining any additional
   U-235 for reactivity boosts, which means the nuclear fuel resources on Earth can be extended by 2
   orders of magnitude without some of the complications of fast reactors. Thermal breeding is perhaps
-  best suited for Molten Salt Reactors, which are discussed on [their own page]({% link msr.html %}) as
+  best suited for Molten Salt Reactors, which are discussed on [their own page]({% link msr.md %}) as
   well as in summary below.
 
 * **The Th-U fuel cycle does not irradiate Uranium-238 and therefore does not produce transuranic
@@ -119,7 +119,7 @@ obtaining bomb material is not.
 
 <h2 id ="lftr">Molten Salt Reactors</h2>
 
-<span class="label label-success">Update:</span> See our <a href="{% link msr.html %}">full page on Molten Salt Reactors</a> for more info.
+<span class="label label-success">Update:</span> See our <a href="{% link msr.md %}">full page on Molten Salt Reactors</a> for more info.
 
 One especially cool possibility suitable for the thermal-breeding capability of the Th-U fuel cycle
 is the molten salt reactor (MSR), or as one particular MSR is commonly known on the internet, the
@@ -146,7 +146,7 @@ already like 4 startups working on them, and China is developing them as well).
 
 * Our <a href="{% link thorium-myths.md %}">Thorium Myths page</a>
 * Our <a href="{% link recycling.md %}">breeding and recycling page</a>
-* Our <a href="{% link msr.html %}">molten salt reactor page</a>
+* Our <a href="{% link msr.md %}">molten salt reactor page</a>
 * <a href="http://www-pub.iaea.org/mtcd/publications/pdf/te_1450_web.pdf">IAEA TECDOC-1450</a> Thorium fuel cycle - potential benefits and challenges. 113 pages of professional information.
 * <a href="http://energyfromthorium.com/">Energy From Thorium</a> - a site dedicated to potentially excellent uses of Thorium in LFTRs
 * <a href="https://en.wikipedia.org/wiki/Thorium_fuel_cycle">Thorium fuel cycle [wikipedia]</a>

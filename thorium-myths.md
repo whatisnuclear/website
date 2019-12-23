@@ -39,7 +39,7 @@ a good energy system, it simply debunks a small fraction of the hype from a nucl
 engineer's (who is tasked with designing and implementing these kinds of systems)
 perspective. Hype about Thorium and advanced nuclear in general is quite justified! To
 learn more about Thorium, we feature <a href="{% link thorium.md %}">a page about Thorium
-as nuclear fuel</a>, as well as a big <a href="{% link msr.html %}">page about the fluid
+as nuclear fuel</a>, as well as a big <a href="{% link msr.md %}">page about the fluid
 fueled molten salt reactors (MSRs)</a> that are good at using it.
 </div>
 
@@ -131,14 +131,28 @@ can use various means to extract the fissile nuclear fuel atoms and concentrate 
 a weapon. Thus, all reactors require safeguards and inspections from the UN nuclear
 watchdog, the IAEA. This includes Thorium reactors.
 
+
 Thorium reactors work by breeding Th-232 through Protactinium-233
 (27.4 day half life) and into Uranium-233, which is fissile. Pa-233 is a pretty strong neutron
 absorber, so the MSBR (basically the LFTR) has to extract it from the core once it is produced and
 let it decay to U-233 away from the neutrons. Once the U-233 is created, it gets fed back into the
 reactor. Well, if you went rogue, you could build up a little excess reactivity (maybe add some
-low-enriched U235?) and then divert the freshly-bred U-233 into a weapons stream to make U-233
+low-enriched U-235?) and then divert the freshly-bred U-233 into a weapons stream to make U-233
 nuclear bombs. It may be difficult to do this several times without going subcritical, but it
 certainly could be done. A U-233-filled bomb has been tested before, and it worked just fine.   
+
+But don't take my word for it. Here is [a declassified
+letter](https://www.osti.gov/biblio/79078) entitled *LRL interest in U-233*  from the
+USA's top nuclear weapons design team from 1966. It says:
+
+<p><img class="img img-responsive" src="/img/livermore_u233.jpg" alt="Letter from Livermore lab about how good U-233 is as a weapons
+material" title="The letter text"/></p>
+<p class="caption"><strong>Figure 1.</strong> The text of the Livermore weapons scientists saying U-233 is only
+<em>better than plutonium</em> in some rare scenarios, so they don't need to ditch plutonium and
+switch everything over to U-233 (emphasis mine)</p>
+
+More information about clean U-233 can be found in this 1965 article by Woods entitled
+[Clean Uranium-233](https://www.osti.gov/biblio/4602161-clean-uranium).
 
 Here&rsquo;s a quote from a Frank von Hippel paper on the subject [2]: 
 

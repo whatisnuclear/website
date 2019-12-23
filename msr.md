@@ -2,31 +2,34 @@
 layout: default
 title: Molten Salt Reactors
 category: reactor-types yeah
-description: Molten salt reactors, such as the LFTR, are completely different types of nuclear reactors that those currently operating. They have very interesting benefits, and a different set of problems. This page discusses what they are, what they can do, what issues they face, and their history. 
+description: Molten salt reactors, such as the LFTR, are completely different types of nuclear reactors than those currently operating. They have interesting benefits, and a different set of problems. This page discusses what they are, what they can do, what issues they face, and their history.
 author: Nick Touran
 ---
 <div class="row">
-<div class="col-md-8">
+<div class="col-md-8" markdown="1"> 
 
-<h1>Molten Salt Reactors</h1>
-<h4>By Nick Touran, Ph.D.</h4>
+# Molten Salt Reactors
+### By Nick Touran, Ph.D.
 
-<div class="pull-right"> <a href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img width="200" src="/img/msr.png" class="thumbnail" alt="Molten salt reactor schematic from GenIV" title="Molten salt reactor schematic from GenIV" /></a>
-
+<div class="pull-right"> <a
+href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img width="200"
+src="/img/msr.png" class="thumbnail" alt="Molten salt reactor schematic from GenIV" title="Molten salt reactor schematic
+from GenIV" /></a>
 </div>
 
-<p>Molten Salt Reactors (MSRs) are nuclear reactors that use a fluid fuel in the form of very hot
-fluoride or chloride salt instead of the solid fuel used in most reactors. Since the fuel salt is
+Molten Salt Reactors (MSRs) are nuclear reactors that use a fluid fuel in the form of very hot
+fluoride or chloride salt rather than the solid fuel used in most reactors. Since the fuel salt is
 liquid, it can be both the fuel (producing the heat) and the coolant (transporting the heat to the
 power plant). There are many different types of MSRs, but the most talked about one is definitely
-the Liquid Fluoride Thorium Reactor (LFTR). This MSR has <a href="{% link thorium.md %}">Thorium</a>
+the Liquid Fluoride Thorium Reactor (LFTR). This MSR has [Thorium]({% link thorium.md %})
 and Uranium dissolved in a fluoride salt and can get planet-scale amounts of energy out of our
 natural resources of Thorium minerals, much like a fast breeder can get large amounts of energy out
 of our Uranium minerals. There are also fast breeder fluoride MSRs that don&rsquo;t use Th at all.
-And there are chloride salt based fast MSRs that are usually studied as <a href="{% link waste.md
-%}">nuclear waste</a>-burners due to their extraordinary amount of very fast neutrons.</p>
+And there are chloride salt based fast MSRs that are usually studied as [nuclear waste]({% link waste.md %})
+burners due to their extraordinary amount of very fast neutrons.
 
 </div></div>
+
 <div class="row"><div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
 <div class="panel panel-success">
 <div class="panel-heading">
@@ -34,12 +37,12 @@ And there are chloride salt based fast MSRs that are usually studied as <a href=
 </div>
 <div class="panel-body">
 <ul>
-<li><a href="{% link msr.html %}#benefits">Benefits of MSRs</a></li>
-<li><a href="{% link msr.html %}#problems">Problems with MSRs</a></li>
-<li><a href="{% link msr.html %}#history">History of MSRs</a></li>
-<li><a href="{% link msr.html %}#fhr">Salt-cooled reactors</a></li>
-<li><a href="{% link msr.html %}#ongoing">Ongoing work with MSRs</a></li>
-<li><a href="{% link msr.html %}#see_also">See also</a></li>
+<li><a href="{% link msr.md %}#benefits">Benefits of MSRs</a></li>
+<li><a href="{% link msr.md %}#problems">Problems with MSRs</a></li>
+<li><a href="{% link msr.md %}#history">History of MSRs</a></li>
+<li><a href="{% link msr.md %}#fhr">Salt-cooled reactors</a></li>
+<li><a href="{% link msr.md %}#ongoing">Ongoing work with MSRs</a></li>
+<li><a href="{% link msr.md %}#see_also">See also</a></li>
 </ul>
 </div>
 </div>
@@ -48,7 +51,7 @@ And there are chloride salt based fast MSRs that are usually studied as <a href=
 
 
 <div class="row">
-<div class="col-md-8">
+<div class="col-md-8" markdown="1">
 
 <h2 id="benefits">Benefits of Molten Salt Reactors</h2>
 <p>The benefits of MSRs are plentiful, hence their resilience as an interesting topic throughout
@@ -315,10 +318,19 @@ modern revival of interest in MSRs and we wish them all the best!</p>
 </ul>
 
 <h2 id="refs">References</h2>
-<p>Specific references coming soon. Almost all of this info was compiled from the incredible library
-of ORNL reports <a
-href="http://moltensalt.org.s3-website-us-east-1.amazonaws.com/references/static/downloads/pdf/index.html">available online
-here</a>. This stuff is pure gold.</p>
+
+* [Program plan for development of molten-salt breeder reactors
+  (ORNL-5018) ](https://www.osti.gov/biblio/4227904) — This 1974 reference is what the world's preeminent molten-salt scientists wrote to future reactor developers about what
+  they had accomplished and how to pick up right where they left off. Above all other molten-salt related references, this
+  one is probably the most useful to anyone working on MSRs. It has detailed lists of what research needs to be done, how
+  long it will probably take, and how much it will cost. It's a true wonder.
+* [Molten-Salt Reactors—History, Status, and Potential](https://www.tandfonline.com/doi/abs/10.13182/NT70-A28619) — An
+  excellent discussion of the history of MSRs. Alternate download
+  [here](http://moltensalt.org/references/static/downloads/pdf/NAT_MSRintro.pdf)
+* [MSRE Design and Operations Report, Part I, Description of Reactor Design
+  (ORNL-TM-728)](https://www.osti.gov/biblio/4654707) — A description of the Molten Salt Reactor Experiment design. This
+  is part of a 10-part series describing the experience with the MSRE. All documents are widely available.
+
 </div>
 </div>
 
