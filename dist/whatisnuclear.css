@@ -29,3 +29,8 @@ figure {
   margin: 0.5em;
   padding: 0.5em;
 }
+
+/* Had a problem with icon going above menu bar. This seems to fix. */
+.navbar-collapse {
+    width: 800px;
+}

@@ -9,7 +9,7 @@ author: Nick Touran
 
 # Myths and Misconceptions about Thorium nuclear fuel
 <div class="byline">
-<p class="author">By <span>Nick Touran, Ph.D. (in Nuclear Engineering), March, 2014</span></p>
+<p class="author">By <span>Nick Touran, Ph.D. (in Nuclear Engineering)</span></p>
 </div>
 
 <div class="pull-right"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge"

@@ -9,18 +9,19 @@
           </button>
           <a class="navbar-brand" href="/"><img class="navbar-brand-icon" src="/img/reactor_icon_60.png" alt="Whatisnuclear.com icon"/></a>
         </div>
-        {% assign page_name = page.path | split:"." | first %}
+        {%- assign page_name = page.path | split:"." | first -%}
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            {% for section in site.data.pages %}
-                <li class="dropdown {% if section.pages contains page_name %} active{% endif %}">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ section.title }} <span class="caret{% if section.pages contains page_name %} orange{% endif %}"></span></a>
-                    {% include menu_ul.html items=section.pages folder=section.title %}
+            {%- for section in site.data.pages -%}
+                <li class="dropdown {%- if section.pages contains page_name -%} active{%- endif -%}">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ section.title }} 
+                      <span class="caret{% if section.pages contains page_name %} orange{%- endif -%}"></span></a>
+                    {%- include menu_ul.html items=section.pages folder=section.title -%}
                 </li>
-            {% endfor %}
-            <li class="{% if page_name == "blog"  %}active{% endif %}"><a href="/blog/">Blog</a></li>
-            <li class="{% if page_name == "about"  %}active{% endif %}"><a href="/about.html">About</a></li>
-            <li class="{% if page_name == "contact"  %}active{% endif %}"><a href="/contact.html">Contact</a></li>
+            {%- endfor -%}
+            <li class="{%- if page_name == "blog"  -%}active{%- endif -%}"><a href="/blog/">Blog</a></li>
+            <li class="{%- if page_name == "about"  -%}active{%- endif -%}"><a href="/about.html">About</a></li>
+            <li class="{%- if page_name == "contact"  -%}active{%- endif -%}"><a href="/contact.html">Contact</a></li>
           </ul>
         </div><!--/.navbar-collapse -->
       </div>
