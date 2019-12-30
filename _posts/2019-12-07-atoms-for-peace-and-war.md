@@ -716,7 +716,7 @@ program at all. This may allow the US to unilaterally ban atmospheric testing.
 
 # A New Approach to Nuclear Power
 
-492 MCone said dual-purpose (commercial + weapons) reactors were unacceptable. 
+492 McCone said dual-purpose (commercial + weapons) reactors were unacceptable. 
 
 494 McCone worried that GE and Westinghouse were not as rigorous on their commercial
 projects as they were in the naval projects. 

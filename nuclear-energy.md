@@ -39,9 +39,6 @@ href="{% link waste.md %}">waste</a> which must be stored carefully.
 
 </div>
 
-<div class="col-md-4">
-{% include featured.html %}
-</div>
 </div>
 
 <div class="row">
