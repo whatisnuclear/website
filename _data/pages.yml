@@ -42,6 +42,7 @@
 
 - title: Details
   pages:
+    - reactor_history
     - decay-heat
     - math-behind-radioactive-decay
     - moderation

@@ -34,3 +34,13 @@ figure {
 .navbar-collapse {
     width: 800px;
 }
+
+/* Try to make columns with figures have equal heights */
+
+
+
+@media (min-width: 500px) {
+  .img.side {
+    max-width: 250px;
+  }
+}

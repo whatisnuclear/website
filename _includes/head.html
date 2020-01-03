@@ -20,8 +20,8 @@
 
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-  <meta property="og:image" content="/img/reactor_200.png" />
-  <meta property="og:description" content="{{ page.excerpt | default: page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
+  <meta property="og:image" content="{{ page.image | default: "/img/reactor_200.png" }}" />
+  <meta property="og:description" content="{{ page.excerpt | default: page.description | default: site.description | strip_html | normalize_whitespace | escape }}" />
 
   <link rel="stylesheet" href="{{ "/font-awesome/css/font-awesome.min.css" | relative_url }}">
 
