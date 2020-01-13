@@ -709,7 +709,10 @@ class="img img-responsive center-block" ></a>
 There was one tragedy along the BWR development pathway. The Army's SL-1 (part of the Army
 Package Power Program, previously called the Argonne Low Power Reactor, ALPR) suffered an
 explosion on January 3, 1961 that resulted in 3 casualties. SL-1 was a small, natural
-circulation, direct cycle BWR built by Combustion Engineering.
+circulation, direct cycle BWR designed and built by ANL. ANL directed the project, 
+and Pioneer Service & Engineering Company was the A/E. Operation was turned over to 
+Combustion Engineering after the plant was operational. 
+
 <div class="thumbnail" >
 <a href="/img/sl-1.jpg"><img class="img img-responsive"
 src="/img/blank.png" data-echo="/img/sl-1.jpg"  alt="The SL-1/ALPR reactor"/></a> 
@@ -857,7 +860,7 @@ positive.
 ### Organic cooled/moderated reactors: Piqua in Ohio
 The second solicitation for the PDRP specifically sought small reactors. The Piqua
 proposal fit the bill, at just 11.4 MWe. It featured organic coolant and moderator made of
-terphenyl isomers rather than the now typical water. It was supposed that organic coolant
+terphenyl isomers (hydrocarbons). It was supposed that organic coolant
 would lead to low capital costs. The low vapor pressure of the coolant allowed
 low-pressure operation at high temperatures, reducing the weight and bulk of the pressure
 vessel while increasing the thermal efficiency. Organic coolant also has low corrosion,
@@ -1670,7 +1673,7 @@ the envelope in reactor deployment at a nuclear technology development company
 
 He frequently gives public talks and seminars describing the current world
 energy situation, nuclear technology in general, and (most recently) the
-history of nuclear reactor development. This page was written on on vacation as
+history of nuclear reactor development. This page was written on vacation as
 a labor of personal interest. You can [contact him here]({% link contact.md %})
 with comments, suggestions, and requests. He is a licensed Professional
 Engineer in Nuclear Engineering in the State of Washington.
@@ -1804,12 +1807,12 @@ requirements did not often focus primarily on economics.
   Hanford B reactor
 * [1947 AEC testimony](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03584609u&view=1up&seq=803) — some information about MTR, EBR-1, STR, and SIR.
 * [The materials testing reactor as an irradiation facility (1953)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086573378&view=1up&seq=1) — Brief description of the MTR
+* [Five-Year Power Reactor Development Program proposed by the AEC](https://babel.hathitrust.org/cgi/pt?id=mdp.39015003406371&view=1up&seq=1) — 1954 summary of 
+  the AEC's government-funded 5 years/5 reactors program that later informed the industry participation.
 * [Hearings of JCAE: Proposed Legislation for Accelerating Civilian Reactor Program
   (1956)](https://babel.hathitrust.org/cgi/pt?id=umn.31951d02097618f&view=1up&seq=3) —
   Lots of great discussions with various companies about their developments. Includes
   description of GE's decision to go all-in on BWRs.
-* [Five-Year Power Reactor Development Program proposed by the AEC](https://babel.hathitrust.org/cgi/pt?id=mdp.39015003406371&view=1up&seq=1) — 1954 summary of 
-  the AEC's government-funded 5 years/5 reactors program that later informed the industry participation.
 * [Dresden Atomic Power Station Construction Video (1958)](https://www.youtube.com/watch?v=02wIGsI2P9Y)
 * [Test reactors meeting for industry (1959)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086567941&view=1up&seq=17) — Good advice on how to order and construct test reactors, and a price list for getting your stuff irradiated in MTR
 * [National Reactor Testing Station Thumbnail sketch (1967)](https://babel.hathitrust.org/cgi/pt?id=uiug.30112099074673&view=1up&seq=16) — Good description of dozens
@@ -1931,6 +1934,9 @@ RAND study!
   development in 1961, just as commercialization of BWRs was occurring. [Section
   II](https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=27) in
   particular is a well-written history.
+* [INITIAL TESTING AND OPERATION OF THE ARGONNE LOW POWER REACTOR (ALPR)
+  (1959)](https://www.osti.gov/biblio/4810770-initial-testing-operation-argonne-low-power-reactor-alpr)
+— description of construction of the ALPR, later designated SL-1
 * [Design of the Argonne Low Power
   Reactor (1961)](https://babel.hathitrust.org/cgi/pt?id=umn.31951d038016430&view=1up&seq=1) —
   Design report of the ALPR, better known as SL-1. Includes lots of system drawings.
@@ -1989,12 +1995,14 @@ href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095157510&view=1up&seq=1">
   the design rationale that went into the CVTR as a prototype of a ~200 MWe-scale reactor.
 
 ### SFR references
+{:.no_toc}
 * [Solid Fuel Reactors, 1958](https://catalog.hathitrust.org/Record/001619729) — a Atoms
   for Peace textbook mostly about fast reactors like Fermi and EBR-II
 * [LMFBR Program Plan (1968)](https://catalog.hathitrust.org/Record/102479452)— a 4-volume
   plan describing the entire LMFBR program
 
 ### Homogeneous references
+{:.no_toc}
 * [LAPRE-I](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086457663&view=1up&seq=21)
 * [LAPRE-I hazard analysis
   report](https://digital.library.unt.edu/ark:/67531/metadc502336/m2/1/high_res_d/metadc502336.pdf),
@@ -2004,6 +2012,7 @@ href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095157510&view=1up&seq=1">
 * [Program plan for development of molten-salt breeder reactors (1975)](https://www.osti.gov/biblio/4227904) — instructions from the experts on how to pick up the MSR work and push it forward
 
 ### Fusion references
+{:.no_toc}
 * [Project Sherwood; the US program in controlled
   fusion, 1958](https://catalog.hathitrust.org/Record/001485230) — Atoms for Peace volume
   on fusion, with some color diagrams!
