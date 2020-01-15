@@ -34,10 +34,10 @@ A follow-up article will discuss developments and economics from 1970 to the pre
 ## The starting point
 
 When nuclear fission was discovered in 1938, <sup>235</sup>U existed at 0.7% in natural
-Uranium (down from over 25% when Earth was formed). Without isotopic enrichment available
-(of uranium or hydrogen in water), only a handful of configurations
-could sustain a chain reaction.  Enrico Fermi and co. figured it out by 1942, and
-operated the first nuclear reactor, the Chicago Pile 1 (CP-1), using pieces of natural uranium metal
+Uranium (decayed down from over 25% when Earth was formed). Without isotopic enrichment
+available (of uranium or hydrogen in water), only a handful of configurations could
+sustain a chain reaction.  Enrico Fermi and co. figured it out by 1942, and operated the
+first nuclear reactor, the Chicago Pile 1 (CP-1), using pieces of natural uranium metal
 dispersed carefully in a lattice of high-purity graphite blocks in a Chicago squash court.
 
 
@@ -110,7 +110,7 @@ temperature.  [Robert Oppenheimer explained this
 well](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03584627s&view=1up&seq=199).
 
 In 1947, the AEC proposed and funded four new reactors, all of which made use
-of newly availability enriched uranium rather than natural
+of new availability of enriched uranium rather than natural
 uranium. All four were completed in the early 1950s:
 
 * Fast reactor — A fast reactor to explore the possibilities of breeding (now known as EBR-1)
@@ -173,7 +173,7 @@ the development of naval propulsion goes without saying, but his influence on th
 commercial industry simply cannot be overstated.  He was born in 1900 in a Polish ghetto,
 moved to New York at the age of 6, and then to Chicago's West Side.  He entered the Naval
 Academy in 1918 and requested submarine service in 1929.  He translated *Das Unterseeboot*
-from the Imperial German Navy as a labor of personal interest. In 1937, he became an elite
+from the Imperial German Navy as a labor of personal interest. In 1937, he became a
 Engineering Duty Only (EDO) officer, focused on the design, construction, and maintenance
 of ships.  After WWII ended, he was sent to Oak Ridge to learn about nuclear technology as
 part of a team to investigate nuclear ship propulsion. He established himself as the
@@ -258,7 +258,7 @@ Command photo <a
 href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/ua-collection/ua-475-05-02-launching-of-uss-nautilus--ssn-571--.html">UA 475.05.02</a>)</caption>
   </figure>
 
-The astoundingly high energy density of nuclear fuel allowed them to gallivant on wild new
+The astoundingly high energy density of nuclear fuel allowed the submariners to gallivant on wild new
 adventures, such as reaching the [North Pole under
 ice](https://en.wikipedia.org/wiki/USS_Nautilus_(SSN-571)#Operation_Sunshine_%E2%80%93_under_the_North_Pole)
 for the first time and [circumnavigating the
@@ -347,7 +347,7 @@ src="/img/blank.png" data-echo="/img/ml1_sm.jpg" alt="A truck-mounted nitrogen-c
 <a href="/img/appr1-core-in-crit-facility.jpg">
 <img src="/img/blank.png" data-echo="/img/appr1-core-in-crit-facility.jpg" class="img img-responsive"/></a>
 <div class="caption centered" markdown="1">The APPR-1 core in the critical testing facility (from [APPR-1
-construction](https://babel.hathitrust.org/cgi/pt?id=umn.31951d038026231&view=1up&seq=52)
+construction](https://babel.hathitrust.org/cgi/pt?id=umn.31951d038026231&view=1up&seq=52))
 </div> </div>
 </div>
 </div>
@@ -407,12 +407,12 @@ report](https://catalog.hathitrust.org/Record/102363648))
 </div>
 
 Volume 2 of the delegation report (June 24, 1955), recorded AEC Chairman Strauss giving a
-rousing speech about how American industry was willing to cover 90% of the PDRP plant
-costs. He also hinted at the political situation, justifying the stockpiling weapons as
-protection against "menaces from those who have destroyed freedom in the expansion of
-their own ruthless philosophy".  While investments in conventional weapons could only be
-recovered as scrap in times of peace, the nuclear material being stockpiled could be used
-later for peaceful purposes:
+rousing speech about how American industry was willing to cover 90% of the Power Reactor
+Development Program plant costs. He also hinted at the political situation, justifying the
+stockpiling of weapons as protection against "menaces from those who have destroyed freedom
+in the expansion of their own ruthless philosophy".  While investments in conventional
+weapons could only be recovered as scrap in times of peace, the nuclear material being
+stockpiled could be used later for peaceful purposes:
 
 > But when the day comes that our atomic armament is no longer required to deter 
 > aggression, the nuclear material which it contains can be easily converted into 
@@ -464,7 +464,7 @@ neutron absorption and is a best-in-class moderator.)
 #### The Power Demonstration Reactor Program
 The AEC's Power Demonstration Reactor Program (PDRP) kicked off after the Atomic Energy
 Act of 1954 allowed private ownership and operation of reactors. It involved 3 separate
-requests for proposal from private industry wherein the AEC would provide nuclear fuel and
+requests for proposals from private industry wherein the AEC would provide nuclear fuel and
 perform research and development work necessary to bring forward commercial nuclear power
 plants.
 
@@ -523,7 +523,8 @@ The initial Shippingport core used highly enriched uranium. High temperature, hi
 fuels in water conditions were developed.  Metallic uranium fuel in water failed rapidly.
 They found promising results when they alloyed uranium with molybdenum, niobium, and both.
 Alloys with 3.8% Silicon with intermetallic U<sub>3</sub>Si silicides were also promising
-(more recently revived under the name *Accident Tolerant Fuels*), but a suitable clad
+(more recently revived under the name [*Accident Tolerant
+Fuels*](https://nei.org/advocacy/make-regulations-smarter/accident-tolerant-fuel)), but a suitable clad
 fabrication process with this fuel was elusive. A high-temperature in-pile loop had to be
 developed to carry out this alloy development program (at both MTR in Idaho and NRX in
 Canada). Troubles with Uranium-Molybdenum cladding were encountered, and high medium-speed
@@ -653,7 +654,7 @@ in 1956 that:
 > particularly fuel element development, will be very expensive. Unless we obtain
 > substantial future business, we will lose considerable sums on the Dresden station. At
 > the time we contracted to build this plant for Commonwealth, we were well aware of this.
-> We ere aware also of the difficult technical problems ahead of us and of the large
+> We are aware also of the difficult technical problems ahead of us and of the large
 > investments in developmental facilities, these very expensive tools of the trade, which
 > would be required.
 >
@@ -717,7 +718,7 @@ Combustion Engineering after the plant was operational.
 <a href="/img/sl-1.jpg"><img class="img img-responsive"
 src="/img/blank.png" data-echo="/img/sl-1.jpg"  alt="The SL-1/ALPR reactor"/></a> 
 
-<div class="caption centered"><p>The SL-1 reactor in Idaho in 1960, before the accident (from <a href="https://www.flickr.com/photos/departmentofenergy/10731009074/in/album-72157637416489424/">DOE</a></p>
+<div class="caption centered"><p>The SL-1 reactor in Idaho in 1960, before the accident (from <a href="https://www.flickr.com/photos/departmentofenergy/10731009074/in/album-72157637416489424/">DOE</a>)</p>
 </div>
 </div>
 
@@ -739,9 +740,10 @@ Had the vessel featured an open top, for example, the most destructive effects w
 occurred. It became an important lesson to never put reactors into such a configuration.
 
 Analysis showed that the control rod was pulled with less than full force. Some have gone
-so far as to hypothesize a love triangle was involved, and that this accident was a
-murder-suicide by nuclear chain reaction. In any case, a cleanup ensued and the site is
-now barely noticeable as you drive through the Idaho sagebrush.
+so far as to hypothesize that a love triangle was involved, and that this accident was a
+murder-suicide by nuclear chain reaction. (This seems very unlikely). In any case, a
+cleanup ensued and the site is now barely noticeable as you drive through the Idaho
+sagebrush.
 
 Big Rock Point in Charlevoix, MI (critical on September 27, 1962) first conducted a 4.5
 years AEC research program demonstrating [high power density
@@ -801,12 +803,13 @@ for producing low-cost nuclear electricity. This would allow low-pressure operat
 without all the expensive and thick pressure containment systems and backup cooling while
 also allowing the reactor to run on natural or very-slightly enriched fuel.
 
-On the downside, liquid metals are chemically reactive with water, air, and concrete, and
-the complications related to inerting the environment and dealing with leaks and fires
-would have to be weighed against the aforementioned benefits. Additionally, sodium 
-becomes highly radioactive as it passed through a nuclear core, necessitating an
-additional intermediate heat transfer loop, plus associated pumps, valves,
-instrumentation, controls, heaters, and piping.
+On the downside, many liquid metals are chemically reactive with water, air, and concrete,
+and the complications related to inerting the environment and dealing with leaks and fires
+would have to be weighed against the aforementioned benefits. Additionally, sodium becomes
+highly radioactive as it passed through a nuclear core. The combination of radioactivity
+with chemical reactivity necessitates an additional intermediate heat transfer loop,
+especially when a metal-water steam generator is used. The extra loop comes expensive
+additional equipment: pumps, valves, instrumentation, controls, heaters, and piping.
 
 North American Aviation contributed $2.5M to the $10M cost of research, development,
 and construction of the 20 MWt Sodium Reactor Experiment (SRE) at Santa Susana, CA. 
@@ -818,8 +821,8 @@ Facility](https://en.wikipedia.org/wiki/Hallam_Nuclear_Generating_Station) was a
 attempt to approach commercial viability of a sodium-graphite reactor.  It was proposed in
 the first round of the PDRP. 
 
-The component testing and R&D in advance of Hallam operation was astounding. Even though
-the reactor was learning from the smaller SRE, Atomics International still knew they
+The component testing and R&D in advance of Hallam operation was astounding. In spite of
+experience acquired at from the smaller SRE, Atomics International still knew they
 needed to build much of the equipment at the larger scale in order to shake down the
 scaled-up designs. For example, they built an entire [mockup fuel handling facility and a
 full-scale fuel handling
@@ -1003,7 +1006,7 @@ had a boiler region in the core where water is boiled, and then the resulting st
 passed through the reactor (or in some cases, a separate reactor) a second time in a
 superheating core region (typically with a much different cooling channel design). By
 superheating the steam to above 500 °C, the overall heat-to-electricity conversion could
-be far more efficient, turbine designs could simpler and more similar to fossil
+be far more efficient, turbine designs could be simpler and more similar to fossil
 counterparts (dry steam only), and the cost of the condensing portion of the plant could
 be reduced. As mentioned, some previous reactors used fossil plants to do the superheating
 before going to the turbine. This direct nuclear superheat concept would have eliminated
@@ -1060,13 +1063,12 @@ here](http://ansnuclearcafe.org/2016/04/14/nuclear-energy-for-puerto-rico/).
 </div>
 
 ### Gas-cooled reactors
-Gas coolant is transparent to neutrons
-and can reach very high temperatures, but has generally poor heat transfer characteristics
-must be held and pumped at high pressure. Converting heat to electricity with a gas-cooled
-reactor requires fuels that can handle very high temperatures. Gasses that have been used
-to cool reactors include air (bad idea when graphite is involved because of potential
-fires, as learned at Windscale), helium (relatively expensive), CO<sub>2</sub>, hydrogen,
-and nitrogen.
+Gas coolant is generally transparent to neutrons and can reach very high temperatures, but
+has generally poor heat transfer characteristics must be held and pumped at high pressure.
+Converting heat to electricity with a gas-cooled reactor requires fuels that can handle
+very high temperatures. Gasses that have been used to cool reactors include air (bad idea
+when graphite is involved because of potential fires, as learned at Windscale), helium
+(relatively expensive), CO<sub>2</sub>, hydrogen, and nitrogen.
 
 The Heat Transfer Reactor Experiments (HTRE, pronounced "heater") made at the NRTS during
 the Aircraft Nuclear Propulsion program had air coolant, water/ZrH moderator. Some studies
@@ -1103,16 +1105,16 @@ EGCR. Costs skyrocketed when the plant was half-finished. Just before fuel was t
 loaded, in 1966, the AEC announced that there was no future for gas-cooled reactors in the
 USA, and the EGCR project was cancelled. 
 
-The Experimental Beryllium-Oxide Reactor (EBOR) was partially constructed at NRTS but never
-completed. Its cancellation was announced in the 1966 AEC Annual report to focus resources
-on reactors considered likely to deliver economic power. It has also been said that
-graphite development was progressing sufficiently that beryllium moderator was not
-considered necessary. The experiment was designed by General Atomic Division of General
-Atomics.
+The Experimental Beryllium-Oxide Reactor (EBOR) was partially constructed at NRTS but
+never completed. Its cancellation was announced in the 1966 AEC Annual report to focus
+resources on reactors considered likely to deliver economic power. It has also been said
+that graphite development was progressing sufficiently that the development of beryllium
+moderator was not considered necessary. The experiment was designed by General Atomic
+Division of General Atomics.
 
-The High Temperature Marine Propulsion Reactor was a low-power critical that operated at
-the NRTS with intent to develop a marine propulsion gas-cooled reactor, but shut down in
-1962.
+The High Temperature Marine Propulsion Reactor was a low-power critical experiment that
+operated at the NRTS with intent to develop a marine propulsion gas-cooled reactor, but
+shut down in 1962.
 
 The KIWI-test series involved graphite loaded with HEU to test Project Rover, a nuclear
 rocket. They all used gaseous hydrogen propellant. At this time, Westinghouse had
@@ -1153,7 +1155,7 @@ pulled funding from it to divert it to cover the over-budget liquid-metal fast b
 reactor project. The reactor was expected to reach temperatures of 2400 °F.
 
 Los Alamos studied the TURRET reactor concept, which was a rotating cylindrical core
-mounted on a axis. Helium coolant entered on the axis and exited through radial holes
+mounted on an axis. Helium coolant entered on the axis and exited through radial holes
 drilled between the axis and the periphery. 
 
 A helium-cooled, graphite-moderated, highly-enriched uranium fueled reactor called the
@@ -1294,10 +1296,10 @@ was refurbished and operated again, always with numerous operational problems. I
 likely that sodium technology was not at the demonstration stage when Fermi was proposed,
 and its mediocre operation was the result.
 
-In 1966, [the AEC announced that they'd be prioritizing high-gain sodium-cooled
+In 1966, [the AEC announced that they'd be prioritizing the high-gain sodium-cooled
 breeder
 program](https://babel.hathitrust.org/cgi/pt?id=mdp.39015001309528&view=1up&seq=173) and
-keeping low-gain breeders like the light-water breeder and the molten salt breeders on
+keeping low-gain breeders like the light-water breeder and the molten salt breeder on
 life support. Other non-breeders would be deprioritized. This was a fateful moment for
 nuclear development. 
 
@@ -1421,7 +1423,7 @@ src="/img/blank.png" data-echo="/img/are.jpg" alt="ARE" class="img img-responsiv
 
 </div>
 
-LANL also ran LAMPRE-1, which featured fluid fuel encapsulated in tantalum tubes.
+LANL also ran LAMPRE-1, which featured molten metal fuel encapsulated in tantalum tubes.
 
 Oak Ridge built the 1 MWt Homogeneous Reactor Experiment-1 (HRE-1), fueled
 with highly-enriched uranium as uranyl sulfate in an aqueous solution to prove
@@ -1819,6 +1821,8 @@ requirements did not often focus primarily on economics.
   of reactors operated at the NRTS (now INL)
 * [An Account of Oak Ridge National Laboratory's Thirteen Nuclear Reactors (2009)](https://info.ornl.gov/sites/publications/Files/Pub20808.pdf) — Additional info on MTR and other reactors
 * [MTR destruction video (2011)](https://vimeo.com/34930178)
+* [The Molten Salt Reactor Experiment (video)](https://www.youtube.com/watch?v=tyDbq5HRs0o) — awesome video showing the
+  MSRE
 
 
 ### Power Demonstration Reactor Program  references
