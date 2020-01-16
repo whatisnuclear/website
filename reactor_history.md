@@ -119,7 +119,7 @@ uranium. All four were completed in the early 1950s:
   to be used in power reactor construction. The resistance of materials to the environment
   required for power production was the primary challenge of power reactor development.
 * Knolls intermediate reactor — to explore the possibilities of breeding and to develop usable
-  power (soon repurposed as another submarine prototype, now designated SIR or S1G)
+  power (soon repurposed as another submarine prototype, called SIR and/or S1G)
 
 The first three were built in Idaho, thus creating what was then called the National
 Reactor Testing Station (NRTS) and is now the Idaho National Lab (INL). The fourth was built
@@ -199,7 +199,7 @@ Atomic Age</a>)</p></div> </div>
 <div class="thumbnail">
 <a href="/img/s1g_sphere.jpg"><img class="img-responsive" 
 src="/img/blank.png" data-echo="/img/s1g_sphere.jpg" alt="The S1G dome in New York"/></a>
-<div class="caption centered"><p>The SIR/S1G Seawolf sodium-graphite sphere in New York
+<div class="caption centered"><p>The sphere for the SIR/S1G Seawolf sodium-graphite prototype in New York
 (from <em>Atomic Shield</em>, <a
 href="http://images.google.com/hosted/life/c4707d71d407ce7d.html">higher-res from
 LIFE</a>)</p></div> </div> </div>
@@ -294,16 +294,16 @@ on nuclear-powered cruise missiles and scramjets was performed.
 <div class="col-md-6">
 <div class="thumbnail">
 <a href="/img/nuclear_rocket.jpg"><img class="img-responsive" 
-src="/img/blank.png" data-echo="/img/nuclear_rocket_sm.jpg" alt="A wild looking nuclear rocket concept art"/></a>
-<div class="caption centered"><p>A nuclear-powered rocket concept (from <a
+src="/img/blank.png" data-echo="/img/nuclear_rocket_sm.jpg" alt="A wild looking nuclear jet engine concept art"/></a>
+<div class="caption centered"><p>A nuclear-powered jet engine concept (from <a
 href="https://www.osti.gov/biblio/1048124-comprehensive-technical-report-general-electric-direct-air-cycle-aircraft-nuclear-propulsion-program-program-summary-references">APEX-901</a>)</p></div> </div>
 </div>
 
 <div class="col-md-6">
 <div class="thumbnail">
 <a href="/img/HTRE-3.jpg"><img class="img-responsive" 
-src="/img/blank.png" data-echo="/img/HTRE-3-sm.jpg" alt="The HTRE-2 nuclear-heated rocket"/></a>
-<div class="caption centered"><p>An actual test of a nuclear-powered rocket in Idaho, called HTRE-2 (photo by me)</p></div> </div>
+src="/img/blank.png" data-echo="/img/HTRE-3-sm.jpg" alt="The HTRE-2 nuclear-heated jet engine"/></a>
+<div class="caption centered"><p>An actual test of a nuclear-powered jet engine in Idaho, called HTRE-2 (photo by me)</p></div> </div>
 </div>
 </div>
 
@@ -324,8 +324,8 @@ Antarctica, the Panama canal on a mobile barge, Sundance Air Force Station in Wy
 Fort Greely, Alaska.  An exotic nitrogen-cooled truck-mounted model was developed and
 tested in Idaho but not deployed. 
 
-After the STG and Nautilus, the third PWR to operate was the first plant built under the ANPP, the
-APPR-1 (later designated SM-1) was a PWR. It was built by Alco and Stone & Webster, and
+After the STG and Nautilus, the third PWR to operate was the first plant built under the ANPP: the
+APPR-1 (later designated SM-1). It was built by Alco and Stone & Webster, and
 came to power in April, 1957. While the Shippingport design effort predates APPR-1 effort
 (discussed below), the APPR-1 team pioneered some ideas, such as the vertical vapor
 container, as opposed to Shippingport's horizontal ones.  They innovated a lot while
@@ -407,12 +407,12 @@ report](https://catalog.hathitrust.org/Record/102363648))
 </div>
 
 Volume 2 of the delegation report (June 24, 1955), recorded AEC Chairman Strauss giving a
-rousing speech about how American industry was willing to cover 90% of the Power Reactor
-Development Program plant costs. He also hinted at the political situation, justifying the
-stockpiling of weapons as protection against "menaces from those who have destroyed freedom
-in the expansion of their own ruthless philosophy".  While investments in conventional
-weapons could only be recovered as scrap in times of peace, the nuclear material being
-stockpiled could be used later for peaceful purposes:
+rousing speech about how American industry was willing to cover 90% of the Power
+Development Reactor Program plant costs. He also hinted at the political situation,
+justifying the stockpiling of weapons as protection against "menaces from those who have
+destroyed freedom in the expansion of their own ruthless philosophy".  While investments
+in conventional weapons could only be recovered as scrap in times of peace, the nuclear
+material being stockpiled could be used later for peaceful purposes:
 
 > But when the day comes that our atomic armament is no longer required to deter 
 > aggression, the nuclear material which it contains can be easily converted into 
@@ -704,15 +704,17 @@ plant operated well. After Dresden came Humboldt Bay with natural circulation.
 <a href="/img/BWR_development_history.jpg"><img
 src="/img/blank.png" data-echo="/img/BWR_development_history.jpg" alt="Timeline of BWR development history"
 class="img img-responsive center-block" ></a>
-<caption>BWR development history/timeline/geneology (from <a href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=33">ANL Summer school, 1961</a>))</caption> </figure>
+<caption>BWR development history/timeline/geneology (from <a href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=33">ANL Summer school, 1961</a>)</caption> </figure>
 
 
-There was one tragedy along the BWR development pathway. The Army's SL-1 (part of the Army
-Package Power Program, previously called the Argonne Low Power Reactor, ALPR) suffered an
-explosion on January 3, 1961 that resulted in 3 casualties. SL-1 was a small, natural
-circulation, direct cycle BWR designed and built by ANL. ANL directed the project, 
-and Pioneer Service & Engineering Company was the A/E. Operation was turned over to 
-Combustion Engineering after the plant was operational. 
+There was one tragedy along the BWR development pathway. The Army's SL-1 in Idaho was part
+of the Army Package Power Program, previously called the Argonne Low Power Reactor, ALPR.
+It was designed to be built on the tundra above [the DEW
+line](https://en.wikipedia.org/wiki/Distant_Early_Warning_Line) to power radar stations.
+It suffered an explosion on January 3, 1961 that resulted in 3 casualties. SL-1 was a
+small, natural circulation, direct cycle BWR designed and built by ANL. ANL directed the
+project, and Pioneer Service & Engineering Company was the A/E. Operation was turned over
+to Combustion Engineering after the plant was operational. 
 
 <div class="thumbnail" >
 <a href="/img/sl-1.jpg"><img class="img img-responsive"
@@ -1740,6 +1742,8 @@ The UNT library was also really useful for this work.
 * [The Development of Nuclear Propulsion in the
   Navy (1960)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015027844888&view=1up&seq=331)
 — The first public account of the naval reactor history
+* [Holl, *United States Civilian Nuclear Power Policy, 1954-1984: A Summary History*](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DE86006830.xhtml) — a
+  magnificent summary of all civilian power policy. Click the little PDF icon to get the full report.
 
 
 ### General references
