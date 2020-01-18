@@ -66,8 +66,13 @@ Options for final disposal include deep geologic storage and recycling. (The sun
 nicely if we could get into space, but since rockets are so unreliable, we can't afford to risk
 atmospheric dispersal on lift-off.)
 
-Finland is the world leader in long-term nuclear waste disposal. Their Onkalo deep geologic repository is [expected
-to the be the world's first](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). 
+Finland is the world leader in long-term nuclear waste disposal. Their Onkalo
+deep geologic repository is [expected to the be the world's
+first](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). 
+
+The fact that nuclear plants keep all of their waste on site for their entire lifecycle can 
+be considered a major positive environmental attribute compared with energy sources that emit vast
+waste into the atmosphere or require vast manufacturing waste during fabrication.
 
 <a name="howmuch"></a>
 ## How much nuclear waste does nuclear energy create?
@@ -81,10 +86,10 @@ each person, not to mention other poisonous emissions directly to the biosphere
          
 If you want raw numbers: in 2018, there were just over 80,000 metric tonnes of
 high-level waste in the USA.  Between 1971 and 2018, nuclear reactors in the
-USA generated 17.3 GW-years of electricity to make this waste.  For another
-perspective, each average US home using 10,000 kWh/year of nuclear electricity
-would generate 5 grams of waste per year. This is astoundingly low, again,
-thanks to the near magical energy density of the atom.
+USA generated 3000 GW-years of electricity to make this waste.  
+
+The astoundingly low amount of waste is thanks to the near magical energy
+density of the atom.
 
 </div>
     
