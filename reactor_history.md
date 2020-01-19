@@ -1648,8 +1648,8 @@ It's impressive to note how many *Reactor Experiments* have been run. These are 
 chain-reacting machines, usually in remote areas, often without power generating
 equipment, that are used to understand the performance  of any new reactors operating
 principles. They are made after critical assemblies and before prototype reactors. We have
-run over a dozen REs, including the BORAX series, LAPRE-1 and 2, HTRE-1 through 3, GCRE,
-OMRE, SRE, MSRE, ARE, HRE-1 and 2.
+run over a dozen REs, including the BORAX series, LAPRE-1 and 2, LAMPRE, HTRE-1 through 3,
+GCRE, OMRE, SRE, MSRE, ARE, HRE-1 and 2.
 </div>
 </div>
 
@@ -1861,6 +1861,13 @@ RAND study!
 
 ### Sodium Graphite Reactor references
 {:.no_toc}
+* [Naval Reactor Program and Shippingport Project : hearings before the United
+  States Joint Committee on Atomic Energy, Subcommittee on Research and
+  Development, Subcommittee on Military Applications, Eighty-Fifth Congress,
+  first session, on Mar. 7, Apr. 12,
+  1957.](https://babel.hathitrust.org/cgi/pt?id=umn.31951d02097620s&view=1up&seq=18&size=125)
+  — The hearing where Rickover described how the Navy converted GE's sodium intermediate power
+  breeder into the S1G prototype for Sea Wolf (plus much more)
 * [Starr, *Sodium Graphite Reactors*
   (1958)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015003993881&view=1up&seq=7) —
   Atoms for Peace textbook on SGRs (same series as Fluid Fuel Reactors, Solid Fuel
@@ -2018,6 +2025,7 @@ href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095157510&view=1up&seq=1">
 * [Fluid fuel reactors, 1958](https://catalog.hathitrust.org/Record/001619721)
 * [MSRE DESIGN AND OPERATIONS REPORT. PART I. DESCRIPTION OF REACTOR DESIGN](https://www.osti.gov/biblio/4654707) (1965)
 * [Program plan for development of molten-salt breeder reactors (1975)](https://www.osti.gov/biblio/4227904) — instructions from the experts on how to pick up the MSR work and push it forward
+* [ORNL fluid fuel remote maintenance video](https://www.youtube.com/watch?v=uHT-w2x6dDg)
 
 ### Fusion references
 {:.no_toc}
