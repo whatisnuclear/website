@@ -4,13 +4,16 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: front
 title: Learn about nuclear energy
-description: Learn about nuclear energy
+description: Nuclear power plants produce sustainable and reliable clean-air electricity with very little carbon emissions. The downsides must be weighed against thes benefits. Here you will learn about the nuances behind nuclear power and nuclear energy in general.
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
 ### Introduction to nuclear energy
+
+Nuclear energy involves splitting or combining the nuclei of atoms to produce useful energy for mankind. Nuclear fuel
+is a natural resource that can be unlocked by nuclear reactors.
 
 Everything around you is made up of atoms. In the late 1930s, it was discovered that some particularly large atoms can
 split in two (or *fission*), releasing a shockingly large amount of energy. When these atoms are arranged properly in a
@@ -19,13 +22,13 @@ machine, one splitting atom can cause nearby ones to split, creating a chain rea
 building heating, desalinated water, and lots of other things useful to civilization.  Today, nuclear power plants
 worldwide produce enough electricity to power over 200 million average homes.
 
-### Nuclear reactors make safe global-scale sustainable energy
+### Nuclear power plants make safe global-scale sustainable energy
 
 #### <span class="fa fa-sun-o fa-lg text-warning"></span> Nuclear is clean-air energy
 
 Because nuclear fuel contains so much more energy in a small mass than anything else, it's possible to keep all the
 byproducts accounted for and out of the biosphere, in strong contrast to fossil fuels which dump much of their wastes
-into the air and our lungs. Additionally, splitting atoms doesn't make carbon dioxide, so nuclear energy is a solution
+into the air and our lungs. Additionally, splitting atoms doesn't make carbon dioxide, so nuclear power is a solution
 to climate change.
 
 <figure>
@@ -71,7 +74,7 @@ gas, intermittency, and nuclear</a></p>
 <div class="row">
 <div class="col-sm-6" markdown="1">
 
-#### Waste
+#### What about the waste?
 
 When heavy atoms split and release energy, the two smaller atoms remaining (called *fission products*) are 
 often left with some extra energy to give off. This energy is released over a period of time (the longest-lived 
@@ -102,7 +105,7 @@ decays to safe levels in several hundred years rather than hundreds of thousands
 <div class="row" >
 <div class="col-sm-6" markdown="1">
 
-#### Safety
+#### Are nuclear plants safe?
 
 The radioactive fission products are hottest when a reactor first shuts down. In effect, you can't shut a 
 reactor completely off. This [decay heat]({% link decay-heat.html %}) must be cooled or else 
@@ -133,7 +136,7 @@ safer.
 <div class="row">
 <div class="col-sm-6" markdown="1">
 
-#### Proliferation
+#### What about nuclear proliferation?
 
 The first application of fission was as an atomic bomb. While nuclear reactors and atomic bombs are *very*
 different machines, there is some technology overlap, 
@@ -161,7 +164,7 @@ in the Megatons-to-Megawatts program.
 
 <div class="row">
 <div class="col-sm-6" markdown="1">
-#### High cost <i class="fa fa-money fa-lg"></i>
+#### Are they too expensive? <i class="fa fa-money fa-lg"></i>
 
 Nuclear reactors are generally large and complex, with lots of reinforced concrete and nuclear-grade 
 quality assurance programs. As a result, they tend to be expensive to build. Once they're 
@@ -183,7 +186,7 @@ in bringing costs down.
 
 
 ## A nuanced reality
-Like every other energy source, nuclear energy has both good aspects and bad. However, its ability to 
+Like every other energy source, nuclear power has both good aspects and bad. However, its ability to 
 responsibly produce global-scale, 24/7, (nearly) carbon-free energy is unmatched among known technologies. 
 Nuclear waste needs political will to be dealt with, but there are safe ways to dispose of it. As for 
 reactor safety, while the accidents that have occurred are high profile and memorable, the actual risk 
@@ -249,8 +252,13 @@ the Chernobyl accident by a mother and father</a> of one of our contributors, wh
 <div class="col-md-8">
 <h2>References</h2>
 <ol>
-<li><a href="https://www.eia.gov/forecasts/archive/ieo13/">International Energy Outlook</a> , US Energy Information Administration (2013).</li>
+<li><a href="https://www.eia.gov/outlooks/ieo/">International Energy Outlook</a> , US Energy Information Administration .</li>
 <li><a href="http://pubs.acs.org/doi/abs/10.1021/es3051197">Kharecha and Hansen, &quot;Prevented Mortality and Greenhouse Gas Emissions from Historical and Projected Nuclear Power,&quot;</a> <em>Environ. Sci. Technol.</em>, <strong>2013</strong>, 47 (9), pp 4889&ndash;4895</li>
+<li><a
+href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf">Schlomer S.,
+et.al., 2014: Annex III: Technology-specific cost and performance parameters. In: Climate Change
+2014: Mitigation of Climate Change. Contribution of Working Group III to the 5th Assessment Report
+of the IPCC</a>)</li>
 </ol>
 </div>
 </div>
