@@ -5,7 +5,7 @@ description: Learn about the wide variety of nuclear reactor development program
 author: Nick Touran
 toc: true
 image: /img/nuclear_rocket.jpg
-date: 2019-01-12
+date: 2020-01-12
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
