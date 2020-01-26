@@ -180,9 +180,16 @@ But there's definitely room to improve! Research is ongoing in many venues to re
 reactors. Countries that chose a standard design and built many of the same have succeeded
 in bringing costs down. 
 
-<!--<p><a class="btn btn-primary" href="economics.html" role="button">Read more about economics &raquo;</a></p>-->
 </div>
 </div>
+
+<div class="row">
+<div class="col-sm-12">
+<p class="text-center"><a class="btn btn-info" href="{% link economics.md %}" role="button">Read more
+about economics &raquo;</a></p>
+</div>
+</div>
+
 
 
 ## A nuanced reality
