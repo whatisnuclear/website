@@ -18,7 +18,6 @@ date: 2020-01-12
 <img src="/img/blank.png" data-echo="img/applications.jpg" class="img-responsive"/>
 *"You have to know the past to understand the present"* — Carl Sagan
 
-
 The dream for economical nuclear power was born well before the discovery of nuclear
 fission, but the quest for it began in earnest in the late 1940s and involved some 100,000
 persons for several decades in the USA alone. This page is a grand tour of reactor
@@ -26,7 +25,8 @@ development programs from 1945 to about 1970, also known as *the nuclear heyday*
 with new reactor development programs today, remembering what was done back then may help
 us navigate developments of the future.
 
-A follow-up article will discuss developments and economics from 1970 to the present.
+Our [economics page]({% link economics.md %}) discusses developments and
+economics from 1970 to the present.
 
 * Dummy list
 {:toc}

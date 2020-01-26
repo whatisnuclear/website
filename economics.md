@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Economics of nuclear power
-description: Learn what it is about nuclear reactors that causes them to generally cost a lot.
+description: Why are nuclear reactors expensive? Complexities due to radiation hazards are the crux. Learn what it is about nuclear reactors that causes them to generally cost a lot, and what can be done to reduce the cost
 author: Nick Touran
 toc: true
-date: 2020-01-27
+image: /img/ops-shielding.jpg
+date: 2020-01-26
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
@@ -206,6 +207,14 @@ in different world regions. Between 1975 and 1988 the world added 250 GW of
 carbon-free nuclear capacity. That's 20 GW/year! (from <a
 href="https://www.iaea.org/resources/databases/power-reactor-information-system-pris">IAEA PRIS</a>)</caption> </figure>
 
+Outside the US, many countries took a focused single-design focused approach. France
+chose the PWR and produced them in serial. South Korea did similar. Japan largely
+chose BWRs. Construction trends in these countries is described in detail in
+Lovering, 2016<sup>9</sup>. The Korean approach of choosing one design,
+optimizing the heck out of it, and building lots of them is described lucidly
+by KunMo Chung in [this enlightening Titans of Nuclear podcast
+episode](https://www.titansofnuclear.com/kunmochung).
+
 ## Nuclear renaissance?
 Starting around 2003, phenomenal NPP operation and capacity factors combined with growing
 concerns about climate change and volatile fossil fuel prices to spur what we all called a
@@ -369,6 +378,23 @@ repeated failure of construction management. They recommended:
   share, R&D cost share, technology milestone funding, and production credits for
   successful demonstration of new designs
 
+### ETI Nuclear Cost Driver report
+In April 2018, ETI published [a
+report](https://www.eti.co.uk/library/the-eti-nuclear-cost-drivers-project-summary-report)
+about the cost drivers of nuclear projects (here's the [press
+release](https://www.eti.co.uk/news/cost-drivers-identified-to-support-investment-in-new-nuclear-power-and-its-role-in-the-uks-future-low-carbon-energy-system)).
+The key findings from their research and analysis reached the following findings for cost-effective nuclear:
+
+* Complete design before construction
+* Use best contracting practices
+* Develop multiple units at a single site
+* Innovate to improve alignment with labor
+* Tie government support to successful application of cost reduction measures
+* Incentivise learning
+* Seek government financing
+* Transform regulations to focus on cost-effective safety
+
+Some of these findings are starting to sound familiar!
 
 ### Advanced reactor designs
 
@@ -377,14 +403,28 @@ gas-cooled reactors, and so on, MIT found that they may struggle to compete with
 LWR designs. Furthermore, they suggested that most cost reductions can be done regardless
 of the particularities of the core and fuel cycle. 
 
-Still, the potential simplicity allowed by truly passive safety systems is intriguing. 
+Still, the potential simplicity allowed by truly passive safety systems is intriguing. The
+allure of "rebranding" nuclear with new designs touting superior performance is also
+strong, and has played a role in a wave of private investment in [small advanced nuclear
+companies](https://www.thirdway.org/report/the-advanced-nuclear-industry). This kind of
+investment is very exciting and powerful. It must take care, however, to avoid simply
+repeating history with previous advanced reactor efforts.  Success in new reactor
+development is so much more than restarting new reactor development. Innovative approaches
+that are resilient to "unexpected" technical challenges and long equipment qualification
+processes are called for. Of course, restarting the work is an essential prerequisite to
+success.
 
 Michael Shellenberger has [argued that advanced reactors have always been more expensive
 to build and
 operate](https://www.forbes.com/sites/michaelshellenberger/2018/07/18/if-radical-innovation-makes-nuclear-power-expensive-why-do-we-think-it-will-make-nuclear-cheap/#64dd7d0f489f)
 due to their complexities and lack of supply chain. He suggests we build as many
 standardized LWRs as possible to decarbonize with what we know ASAP, and then use the
-profits from that success to develop longer-term reactors (like breeders).
+profits from that success to develop longer-term reactors (like breeders). The debate here
+is an old one: is it possible to make large-scale economic nuclear power with LWRs, or do
+we need to push new designs to have a chance? Shellenberger argues that due to experiences
+in Korea and France, we know for a fact that LWRs can decarbonize at massive scale
+and so we should just do that now rather than hoping for success in highly-uncertain
+advanced reactor development projects.
 
 A middle-ground approach was that promoted by Alvin Weinberg later in his life.  In his
 1985 paper *The Second Nuclear Era*, he promoted [PIUS
@@ -515,3 +555,7 @@ power](http://komanoff.net/nuclear_power/10_blows.php) (1991)
 [7] MIT, [The Future of Nuclear Energy in a Carbon-Constrained
 World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/),
 2018
+
+[8] [ETI Nuclear Cost Drivers Project Summary Report](https://www.eti.co.uk/library/the-eti-nuclear-cost-drivers-project-summary-report)
+
+[9] Lovering, Historical construction costs of global nuclear power reactors, *Energy Policy*, 91, (2016) doi:[10.1016/j.enpol.2016.01.011](https://doi.org/10.1016/j.enpol.2016.01.011)
