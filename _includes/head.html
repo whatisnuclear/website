@@ -21,7 +21,7 @@
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
   <meta property="og:site_name" content="What is nuclear?" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-  <meta property="og:image" content="{{ page.image | default: "/img/reactor_200.png" }}" />
+  <meta property="og:image" content="{{ site.url }}{{ page.image | default: "/img/reactor_200.png" }}" />
   {% if page.summary %}
   <meta name="og:description" content="{{ page.summary }}"/>
   {% elsif page.description %}
