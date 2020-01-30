@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt |default: page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
 <!--  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
@@ -19,30 +19,39 @@
   <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
+  <meta property="og:site_name" content="What is nuclear?" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:image" content="{{ page.image | default: "/img/reactor_200.png" }}" />
-  <meta property="og:description" content="{{ page.excerpt | default: page.description | default: site.description | strip_html | normalize_whitespace | escape }}" />
+  {% if page.summary %}
+  <meta name="og:description" content="{{ page.summary }}"/>
+  {% elsif page.description %}
+  <meta name="og:description" content="{{ page.description | strip_html | normalize_whitespace | escape }}"/>
+  {% elsif page.excerpt %}
+  <meta name="og:description" content="{{ page.excerpt | strip_html | normalize_whitespace | escape}}"/>
+  {% else %} 
+  <meta name="og:description" content="{{ site.description  | strip_html | normalize_whitespace | escape}}"/>
+  {% endif %}
 
 
   <!-- Twitter cards -->
-  <meta name="twitter:site"    content="@{{ site.twitter_username }}">
-  <meta name="twitter:creator" content="@{{ site.twitter_username }}">
-  <meta name="twitter:title"   content="{{ page.title }}">
+  <meta name="twitter:site"    content="@{{ site.twitter_username }}"/>
+  <meta name="twitter:creator" content="@{{ site.twitter_username }}"/>
+  <meta name="twitter:title"   content="{{ page.title }}"/>
   
   {% if page.summary %}
-  <meta name="twitter:description" content="{{ page.summary }}">
+  <meta name="twitter:description" content="{{ page.summary }}"/>
   {% elsif page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:description" content="{{ page.description }}"/>
   {% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:description" content="{{ site.description }}"/>
   {% endif %}
   
   {% if page.image %}
-  <meta name="twitter:card"  content="summary_large_image">
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:card"  content="summary_large_image"/>
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}"/>
   {% else %}
-  <meta name="twitter:card"  content="summary">
-  <meta name="twitter:image" content="{{ site.title_image }}">
+  <meta name="twitter:card"  content="summary"/>
+  <meta name="twitter:image" content="{{ site.title_image }}"/>
   {% endif %}
   <!-- end of Twitter cards -->
 
