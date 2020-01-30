@@ -559,3 +559,6 @@ World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-
 [8] [ETI Nuclear Cost Drivers Project Summary Report](https://www.eti.co.uk/library/the-eti-nuclear-cost-drivers-project-summary-report)
 
 [9] Lovering, Historical construction costs of global nuclear power reactors, *Energy Policy*, 91, (2016) doi:[10.1016/j.enpol.2016.01.011](https://doi.org/10.1016/j.enpol.2016.01.011)
+
+[10] [DOE/NE-0009 Power Plant Capital Investment Cost Estimates: Current Trends and Sensitivity to
+Economic Parameters](https://digital.library.unt.edu/ark:/67531/metadc1074451/) (1980)
