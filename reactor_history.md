@@ -266,7 +266,7 @@ world](https://en.wikipedia.org/wiki/Operation_Sandblast) in one non-stop submer
 session for the first time. Such high adventures are remembered by people who were young
 at the time (like Gwyneth Cravens) as deeply inspiring.
 
-#### The SIR and the Seawolf
+#### The SIR and the *Seawolf*
 The sodium-cooled graphite-moderated power breeder that GE was working on for the
 AEC at KAPL got swooped into the Naval Reactors development program, and its
 first reactor became the land-based prototype for the *USS Seawolf*. At first,
@@ -1533,10 +1533,10 @@ A generic trend in new reactor development is:
 4. Laboratory experiments, models and mockups (including zero-power critical
    assembly mockups), and/or (more recently) software studies
 5. Small reactor experiment
-6. Larger reactor experiment
+6. Larger reactor experiment if necessary
 7. Massive and broad component development/testing/qualification program
-8. Prototype reactor (often scaled down but with all key systems)
-9. First commercial reactor
+8. Prototype reactor (often scaled down but always with all key systems)
+9. First commercial reactor (often purchased by a consortium of utilities)
 10. Commercial fleet
 
 </div>
@@ -1551,7 +1551,6 @@ Outcomes of these activities:
 * Specific operating procedures
 * Training facilities
 * Confident customers
-
 </div>
 </div>
 
@@ -1581,6 +1580,14 @@ development
 
 </div>
 </div>
+
+### The rest of the story
+The LWR fleet that took off after Shippingport and Yankee Rowe ran into economic troubles
+due to retrofits after various operational occurrences in the 1970s but pulled through by
+dramatically improving operation (capacity factors increased to above 90%). Today, new
+economic struggles challenge the fleet. The [major cost drivers of nuclear are now
+understood]({% link economics.md %}), and we know we must standardize designs and engage
+in serial production to proceed.
 
 
 ### A few observations
@@ -1639,6 +1646,10 @@ development
 
 * Milton Shaw shut down at least 3 somewhat promising reactor development programs to 
   make room for the LMFBR program.
+
+* A consortium of multiple utilities banding together to purchase and operate the first
+  commercial unit of any new-tech reactor is a heck of a good idea after demonstration,
+  and has positive historical experience.
 
 
 <div class="panel panel-info">

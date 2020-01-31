@@ -165,7 +165,7 @@ in the Megatons-to-Megawatts program.
 
 <div class="row">
 <div class="col-sm-6" markdown="1">
-#### Are they too expensive? <i class="fa fa-money fa-lg"></i>
+#### Are they too expensive?
 
 Nuclear reactors are generally large and complex, with lots of reinforced concrete and nuclear-grade 
 quality assurance programs. As a result, they tend to be expensive to build. Once they're 
@@ -186,7 +186,7 @@ in bringing costs down.
 
 <div class="row">
 <div class="col-sm-12">
-<p class="text-center"><a class="btn btn-info" href="{% link economics.md %}" role="button">Read more
+<p class="text-center"><a class="btn btn-info" href="{% link economics.md %}" role="button"><i class="fa fa-balance-scale fa-lg"></i>Read more
 about economics &raquo;</a></p>
 </div>
 </div>

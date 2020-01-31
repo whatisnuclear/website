@@ -491,6 +491,11 @@ src="/img/ops-shielding.jpg"  alt="OPS Shielding graphic "/></a>
 </div>
 </div>
 
+<div class="alert alert-success">
+<b>Update</b>: There's now [a full page on OPS]({% link
+_posts/2020-01-26-offshore-power-systems.md %}).
+</div>
+
 This sounds crazy at first, but on second glance it actually is an incredible idea. From a
 safety point of view, you decouple from earthquakes and design to handle hurricanes and
 ship collisions. The biggest safety concern in a LWR is losing cooling water, but at sea
@@ -507,9 +512,6 @@ because it was the wrong time.<sup>4</sup>
 
 If you want to see what rapid decarbonization at scale could look like, look no further
 than OPS.
-
-Update: There's now [a full page on OPS.]({% link
-_posts/2020-01-26-offshore-power-systems.md %}).
 
 At the moment, Russia and China are working on Floating NPPs for fringe energy purposes.
 The [Akademik Lomonosov](https://en.wikipedia.org/wiki/Akademik_Lomonosov) began

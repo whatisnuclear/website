@@ -33,7 +33,7 @@ The idea of Floating Nuclear Power Plants (FNPPs) always sounds a little crazy a
 as it did to Eckert's wife when he told her of his idea. But given some thought, many
 enticing characteristics are revealed. After all, the first power reactors were made
 to propel naval submarines, hundreds of which have prowled the seas since 1955. A civilian
-nuclear-powered merchant ship (NS Savannah) had been built and operated. The US Army's
+nuclear-powered merchant ship (NS *Savannah*) had been built and operated. The US Army's
 MH-1A *Sturgis* nuclear plant on a barge had helped power the Panama Canal for years. 
 
 ## The proposed Atlantic Generating Station
@@ -387,9 +387,11 @@ Net, offshore nuclear plants produced in a shipyard offer rare combination of
 improved safety and improved cost.
 
 ## Modern Echos
-In 2010, the U.S.S. *Carl Vinson* aircraft carrier used it's nuclear-powered oceanwater
+In 2010, the U.S.S. *Carl Vinson* aircraft carrier used it's [nuclear-powered oceanwater
 desalination capabilities (400,000 gallons/day capacity) to provide relief to the
-incapacitated water network at Port-au-Prince, Haiti after a devastating earthquake.
+incapacitated water
+network](https://blogs.wsj.com/dispatch/2010/01/16/aircraft-carrier-purifies-water-challenge-is-delivery/)
+at Port-au-Prince, Haiti after a devastating earthquake.
 
 Many teams are talking about and actually building shipyard constructed FNPPs today. Most
 of the modern concepts do not have the massive concrete breakwater.
@@ -411,9 +413,9 @@ TMI accident. professional environmentalists who worked on it came to like the c
 
 I knew I liked the concept of floating nuclear power plants to fight climate change
 before, but I was worried about all the studies of environmental impacts that would need
-to be performed first. Now that I realize that very well funded studies have already
+to be performed first. Now that I realize that well-funded studies have already
 concluded successfully, I'm even more emboldened to like and promote the idea of FNPPs for
-climate even more.
+climate.
 
 
 ## References

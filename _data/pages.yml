@@ -21,10 +21,10 @@
 - title: Issues
   pages:
     - waste
+    - economics
     - chernobyl-main
     - chernobyl-memories
     - fukushima
-    - economics
     - hanford
     - non-proliferation
 
@@ -33,17 +33,17 @@
           #- lwr
       #- gcr
       #- lmfbr
+    - reactor_history
     - fast-reactor
-    - fusion
     - msr
     - thorium
     - thorium-myths
     - candu
     - twr
+    - fusion
 
 - title: Details
   pages:
-    - reactor_history
     - decay-heat
     - math-behind-radioactive-decay
     - moderation
