@@ -26,9 +26,10 @@ worldwide produce enough electricity to power over 200 million average homes.
 
 #### <span class="fa fa-sun-o fa-lg text-warning"></span> Nuclear is clean-air energy
 
-Because nuclear fuel contains so much more energy in a small mass than anything else, it's possible to keep all the
-byproducts accounted for and out of the biosphere, in strong contrast to fossil fuels which dump much of their wastes
-into the air and our lungs. Additionally, splitting atoms doesn't make carbon dioxide, so nuclear power is a solution
+Because nuclear fuel contains so much more energy in a small mass than anything else, it's
+possible to keep all the byproducts accounted for and out of the biosphere, in strong
+contrast to fossil and bio fuels which release much of their combustion wastes into the air.
+Additionally, splitting atoms doesn't make carbon dioxide, so nuclear power is a solution
 to climate change.
 
 <figure>
@@ -119,7 +120,7 @@ reactor safety.
 #### Safety Solutions
 
 Nuclear energy has actually *saved* over 1.8 million lives by displacing air-pollution related deaths that would have
-occurred had fossil plants been built instead of the clean-air nuclear ones [2]. This includes the health effects of the
+occurred had fossil or biofuel plants been built instead of the clean-air nuclear ones [2]. This includes the health effects of the
 nuclear accidents. So they're like airplanes; when one goes down, it's a major disaster and huge story, but the reality
 is that nuclear reactors are one of the safest ways known to produce energy. And advanced designs can make them even
 safer.
