@@ -239,6 +239,10 @@ done under its direction. The first molten salt reactor, the Aircraft Reactor Ex
 operated in 1954 at ORNL with a Na-Zr-U salt for 100 hours. This reactor actually had fuel pumping
 through tubes in blocks of Beryllium. When inter-continental ballistic missiles came along, this
 program was promptly canceled.</p>
+<div class="alert alert-success" role="alert" markdown="1">
+<b>Note:</b> We have an elaborate [reactor development history page]({% link
+reactor_history.md %}) that covers this topic in general.
+</div>
 
 <div class="pull-right">
 <a href="https://en.wikipedia.org/wiki/File:MoltenSaltReactor.jpg"> <img class="img-rounded" src="/img/msre.jpg" alt="The Molten Salt Reactor Experiment (MSRE)" title="The Molten Salt Reactor Experiment (MSRE)" /></a>
