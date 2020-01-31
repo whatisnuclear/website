@@ -43,7 +43,7 @@ environmental studies commenced rapidly.
 
 PSE&G was gambling enough on siting, they wanted to use a tried-and-true reactor design.
 They promised to be a customer for Westinghouse PWRs if they could be built on floating
-platforms. Westinghouse new plants but needed help on the floating side. Thus, Offshore
+platforms. Westinghouse knew plants, but needed help on the floating side. Thus, Offshore
 Power Systems (OPS) was formed on July 6, 1972 as a 50/50 joint venture between Tenneco
 Power Systems (who owned the Newport News shipyard) and Westinghouse Electric Corporation.
 It proposed to design, manufacture, and market complete nuclear power plants of a
@@ -352,7 +352,7 @@ bullet and shut down the production facility and the effort ended.
 The fundamental safety challenge in nuclear power is maintaining cooling of [decay
 heat]({% link decay-heat.html %}). Nuclear reactors don't shut all the way down when the
 control rods go in; they drop to 7% of full power while the fission products start to
-slowly release their residual energy. After an day it's at 1%. After 4 days it's at 0.5%,
+slowly release their residual energy. After a day it's at 1%. After 4 days it's at 0.5%,
 and so on. Of course, 1% of 3 gigawatts is 30 million watts. Thus, plants must have
 reliable means of removing the heat after shutdown. Failure of this cooling caused the
 accidents at Three Mile Island (a valve was stuck open and the cooling water was lost) and
