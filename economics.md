@@ -491,7 +491,7 @@ src="/img/ops-shielding.jpg"  alt="OPS Shielding graphic "/></a>
 </div>
 </div>
 
-<div class="alert alert-success">
+<div class="alert alert-success" markdown="1">
 <b>Update</b>: There's now [a full page on OPS]({% link
 _posts/2020-01-26-offshore-power-systems.md %}).
 </div>
