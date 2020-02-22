@@ -12,15 +12,18 @@ description: Nuclear power plants produce sustainable and reliable clean-air ele
 
 ### Introduction to nuclear energy
 
-Nuclear energy involves splitting or combining the nuclei of atoms to produce useful energy for mankind. Nuclear fuel
-is a natural resource that can be unlocked by nuclear reactors.
+Nuclear energy involves splitting or combining atoms to produce useful energy.  Everything
+around you is made up of atoms. In the late 1930s, it was discovered that some
+particularly large atoms can split in two (or *fission*), releasing a shockingly large
+amount of energy. When these atoms are arranged properly in a machine, one splitting atom
+can cause nearby ones to split, creating a chain reaction.  Such a machine is called a
+*nuclear reactor*, and can convert the nuclear energy into electricity, shaft horsepower
+(for submarines, etc.), building heating, desalinated water, and lots of other things
+useful to civilization.  Today, nuclear power plants worldwide produce around 400 GW of
+electricity, enough to power 400 million average households.
 
-Everything around you is made up of atoms. In the late 1930s, it was discovered that some particularly large atoms can
-split in two (or *fission*), releasing a shockingly large amount of energy. When these atoms are arranged properly in a
-machine, one splitting atom can cause nearby ones to split, creating a chain reaction.  Such a machine is called a
-*nuclear reactor*, and can convert the nuclear energy into electricity, shaft horsepower (for submarines, etc.),
-building heating, desalinated water, and lots of other things useful to civilization.  Today, nuclear power plants
-worldwide produce enough electricity to power over 200 million average homes.
+Nuclear energy is controversial due to concerns about radiation. Public support varies
+geographically, but is generally among the least popular forms of energy.
 
 ### Nuclear power plants make safe global-scale sustainable energy
 
@@ -28,9 +31,9 @@ worldwide produce enough electricity to power over 200 million average homes.
 
 Because nuclear fuel contains so much more energy in a small mass than anything else, it's
 possible to keep all the byproducts accounted for and out of the biosphere, in strong
-contrast to fossil and bio fuels which release much of their combustion wastes into the air.
-Additionally, splitting atoms doesn't make carbon dioxide, so nuclear power is a solution
-to climate change.
+contrast to fossil and biofuels which release much of their combustion wastes into the
+air.  Additionally, splitting atoms doesn't make carbon dioxide, so nuclear power is a
+potential global solution to climate change.
 
 <figure>
 <a href="/img/lifecycle-carbon-emissions-300dpi.png"><img class="img-responsive
@@ -77,11 +80,12 @@ gas, intermittency, and nuclear</a></p>
 
 #### What about the waste?
 
-When heavy atoms split and release energy, the two smaller atoms remaining (called *fission products*) are 
-often left with some extra energy to give off. This energy is released over a period of time (the longest-lived 
-waste lasting 100,000+ years) in the form of energetic particles called *radiation*. The radiation is very 
-hazardous and must be kept isolated from the biosphere. We have not yet agreed on what should be done with 
-this high-level nuclear waste.
+When heavy atoms split and release energy, the two smaller atoms remaining (called
+*fission products*) are often left with some extra energy to give off. This energy is
+released over a period of time (the longest-lived waste lasting 100,000+ years) in the
+form of energetic particles called [*radiation*]({% link radioactivity.md %}). The high radiation is
+hazardous and must be kept isolated from the biosphere. We have not yet agreed on
+what should be done with this high-level nuclear waste.
 
 </div>
 <div class="col-sm-6" markdown="1">
@@ -93,6 +97,8 @@ ahead and solve their nuclear waste issue and built the repository at Onkalo.  W
 geologic disposal in salt deposits that have been stable for 250 million years. Research in deep borehole technology is
 also looking promising. Finally, if we close the fuel cycle and [recycle spent fuel]({% link recycling.md %}), then it
 decays to safe levels in several hundred years rather than hundreds of thousands.
+Furthermore, despite the fear, very few people, if any, have ever been injured by stored
+commercial nuclear waste.
 
 </div>
 </div>
@@ -108,22 +114,25 @@ decays to safe levels in several hundred years rather than hundreds of thousands
 
 #### Are nuclear plants safe?
 
-The radioactive fission products are hottest when a reactor first shuts down. In effect, you can't shut a 
-reactor completely off. This [decay heat]({% link decay-heat.html %}) must be cooled or else 
-the containment structures that hold the fuel and waste can breach, releasing radiation into the biosphere. 
-Accidents at Fukushima and Three Mile Island were caused by this effect. Unstable reactor design and operation 
-at Chernobyl led to a power excursion and widespread dispersal of radioactive material. So, people worry about 
-reactor safety.
+The radioactive fission products are hottest when a reactor first shuts down. In effect,
+you can't shut a reactor completely off. This [decay heat]({% link decay-heat.html %})
+must be cooled or else the containment structures that hold the fuel and waste can breach,
+releasing [radiation]({% link radioactivity.md %}) into the biosphere.  Accidents at
+Fukushima and Three Mile Island were caused by this effect. Unstable reactor design and
+operation at Chernobyl led to a power excursion and widespread dispersal of radioactive
+material. So, people worry about reactor safety.
 </div>
 <div class="col-sm-6" markdown="1">
 
 #### Safety Solutions
 
-Nuclear energy has actually *saved* over 1.8 million lives by displacing air-pollution related deaths that would have
-occurred had fossil or biofuel plants been built instead of the clean-air nuclear ones [2]. This includes the health effects of the
-nuclear accidents. So they're like airplanes; when one goes down, it's a major disaster and huge story, but the reality
-is that nuclear reactors are one of the safest ways known to produce energy. And advanced designs can make them even
-safer.
+Nuclear energy has actually *saved* over 1.8 million lives by displacing air-pollution
+related deaths that would have occurred had fossil or biofuel plants been built instead of
+the clean-air nuclear ones [2]. This includes the health effects of the nuclear accidents.
+So they're like airplanes; when one goes down, it's a major disaster and huge story, but
+when you [look at the data](https://ourworldindata.org/safest-sources-of-energy), it's
+clear that nuclear reactors are one of the safest ways known to produce energy.
+And advanced designs can make them even safer.
 
 </div>
 </div>
@@ -139,21 +148,21 @@ safer.
 
 #### What about nuclear proliferation?
 
-The first application of fission was as an atomic bomb. While nuclear reactors and atomic bombs are *very*
-different machines, there is some technology overlap, 
-especially in fuel cycle facilities like enrichment and reprocessing plants. So, some people 
-argue that having reactors around might make it easier to spread nuclear weapons.
+The [first application of fission]({% link history.md %}) was as an atomic bomb. While nuclear reactors and atomic
+bombs are *very* different machines, there is some technology overlap, especially in fuel
+cycle facilities like enrichment and reprocessing plants. So, some people argue that
+having reactors around might make it easier to spread nuclear weapons.
 
 </div>
 <div class="col-sm-6" markdown="1"> 
 
 #### Proliferation Solutions
 
-It is important for nuclear facilities to monitor nuclear material. That said, advanced designs are 
-being developed that reduce reliance on enrichment. Actually, nuclear reactors are useful for 
-peacefully destroying nuclear weapons, and between the late 1990s and 2013, fully 10% of the 
-US electricity was generated in nuclear reactors using dismantled ex-Soviet nuclear warheads 
-in the Megatons-to-Megawatts program. 
+It is important for nuclear facilities to monitor nuclear material. That said, advanced
+designs are being developed that reduce reliance on enrichment. Actually, nuclear reactors
+are useful for peacefully destroying nuclear weapons, and between the late 1990s and 2013,
+fully 10% of the US electricity was generated in nuclear reactors using dismantled
+ex-Soviet nuclear warheads in the Megatons-to-Megawatts program. 
 
 </div>
 </div>
