@@ -4,6 +4,8 @@ title: What is Radioactivity?
 category: physics
 description: Learn what radiation is and what various forms it comes in.
 author: Nick Touran
+date: 2009-02-01
+updated: 2020-02-22
 ---
 
 <div class="row">
@@ -11,26 +13,94 @@ author: Nick Touran
 
 # What is radiation? What is radioactivity?
 
+##### *{{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Updated {{ page.updated | date: "%Y-%m-%d" }}* 
 <div class="pull-right"> 
 <img class="thumbnail" src="/img/radioactive.png" style="width:120px;" alt="Radioactivity" title="Radioactivity" />
 </div>
 
-A radioactive atom is one that spontaneously emits energetic particles or waves (known as radiation). 
-This radiation is emitted when an unstable (i.e. radioactive) nucleus transforms to some other nucleus 
-or energy level. Imagine a big ball made of magnets that&rsquo;s spinning really fast. Sometimes a few 
-pieces of the magnet will shoot out and hit the wall. That&rsquo;s kind of what radiation is like. As 
-it applies to <a href="{% link nuclear-energy.md %}">nuclear energy</a>, many materials created during the 
-operation of a <a href="{% link reactors.md %}">reactor</a> are unstable. As they decay over varying 
-lengths of time (from microseconds to hundreds of thousands of years), they emit energetic particles 
-or waves. The energy carried by this radiation is often sufficient to cause damage to biological cells 
-and is therefore a health risk. Thus, radiation is the primary cause of safety concerns related to nuclear energy. 
+Radioactive atoms contain energy that pours out spontaneously as energetic subatomic
+particles or electromagnetic waves. The emissions are called *radiation*. Radioactive
+material exists naturally in the Earth (this is partially why the inside of the Earth is
+warm) and is produced continuously in the atmosphere by cosmic rays. Humans make
+radioactive material by causing nuclear reactions in nuclear reactors and particle accelerators.
 
-If you're looking for math, see the [math behind radioactive decay]({% link math-behind-radioactive-decay.html %}) page.
-</div>
-</div>
+Some radioactive materials pour their energy out
+quickly, and others pour it out slowly. The rate of energy release is quantified through 
+the material's *half-life*, which is the time after which half of the initial atoms have
+released their energy. For example, if you start with 100 radioactive atoms with a half-life of 1
+minute, 50 of them will have emitted their energy after 1 minute. After 2 minutes, there
+will be 25 left, and so on. 
 
-<div class="row">
-<div class="col-md-8" markdown="1">
+<figure>
+<img class="img-responsive" style="max-width:500px;"
+src="/img/half-life.png" alt="Graph of atoms vs. time for different half-lives"/>
+<caption>An illustration of decay vs. various half-lives</caption>
+</figure>
+
+As it applies to <a href="{% link nuclear-energy.md %}">nuclear energy</a>, many materials
+created during the operation of a <a href="{% link reactors.md %}">reactor</a> are
+radioactive. As they decay, they emit radiation. The energy carried by this radiation is
+often sufficient to cause damage to biological cells and is therefore a health risk. Thus,
+radiation is the primary cause of both the [waste]({% link waste.md %}) and safety concerns
+related to nuclear energy.
+
+
+# Analogy between radiation and heat
+Radiation is a lot like heat, except you can't feel it or see if there's a fire.
+As everything around us is naturally a little bit warm, the world is also a little bit
+radioactive. Cosmic rays [rain down from outer space 24/7]({% post_url
+2014-05-17-radiation-on-flights %}). Radon gas has bubbled out of
+rocks for billions of years. The heat inside the earth is about [50% due to radioactive
+decay of primordial uranium and
+thorium](https://en.wikipedia.org/wiki/Earth%27s_internal_heat_budget).
+
+No one gets hurt by things that are a little warm (up to 75°F/24°C), and no one gets
+injured by natural radiation (around 3 mSv/yr in the USA).
+
+There are parts of the world that are hotter than normal (like Florida) and people live
+there just fine. Similarly, there are places in the world with higher natural
+radioactivity due to local geology, like Ramsar Iran with over 100 mSv/yr or Denver
+Colorado where cosmic rays give 2x more dose than this living at sea level. People live
+there just fine too.
+
+Things that are very hot are hazardous. Boiling water can scald us. In controlled
+scenarios, hot things are still useful. We use controlled high heat to make steel and
+concrete, to cook, to do pottery. Doctors can use high heat in a very localized part of
+our skin to cauterize a wart.
+
+Similarly, we can use high-dose radiation for many useful things. X-rays provide medical
+diagnostics that save lives. Radioactive isotopes have powered deep-sea science
+experiments, mars rovers, space probes, and pacemakers in hearts. Ionizing radiation was
+used to discover the double-helix nature of our own DNA. Nuclear power plants produce more
+than half of the carbon-free electricity in the USA, powering millions of homes. Doctors
+regularly use radiation in localized parts of our bodies to kill cancerous tumors and save
+lives.
+
+Being engulfed in the flames of a fire can maim and kill us. We use fire code, flame
+retardants, fire alarms, fire fighters, and hospitals to defend against this hazard.
+Similarly, whole-body radiation doses above 4000 mSv of radiation can maim and kill. We
+use regulations, safety systems, radiation detectors, health physicists, and hospitals to
+defend against these analogous hazards.
+
+Similarly, the dose rate that will be caused by the proposed release of Fukushima water is
+0.0006 mSv/yr. This is over 1000x less than natural background. It is safe.
+
+
+<figure>
+<a href="img/dose.jpg"><img class="img-responsive" 
+src="/img/dose_low.jpg" alt="Dose range chart from DOE"/></a>
+<caption>A graph from DOE of many orders of magnitude of radiation.</caption>
+</figure>
+
+[This
+info-sheet](https://www.energy.gov/sites/prod/files/2018/01/f46/doe-ionizing-radiation-dose-ranges-jan-2018.pdf)
+contains a wonderful description of radiation dose units and relative values. Our [dose
+page]({% link dose.md %}) contains more discussion.
+
+
+# Math of radioactive decay
+If you're looking for math, see the [math behind radioactive decay]({% link
+math-behind-radioactive-decay.html %}) page.
 
 # Types of Nuclear Radiation
 There are several types of particles or waves that may shoot out of a radioactive nucleus. Alpha 
