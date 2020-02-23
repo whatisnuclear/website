@@ -225,7 +225,7 @@ Right now, we have to keep studying them! Fortunately, much work is ongoing. </p
 <a href="/img/htre_lg.jpg"><img  class="img-rounded" src="/img/htre.jpg" width="200" alt="Nuclear powered aircraft. This one is in Idaho at the EBR-I museum. It wasn&rsquo;t actually molten salt cooled but it shows that they were serious." title="Nuclear powered aircraft. This one is in Idaho at the EBR-I museum. It wasn&rsquo;t actually molten salt cooled but it shows that they were serious." /></a>
 <img  width="200" src="/img/are.jpg" class="img-rounded" alt="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" title="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" />
 </div>
-<p>
+
 The first fluid fueled reactors were built during the Manhattan project. They were Aqueous
 Homogeneous Reactors (AHR), meaning they were solutions of uranium or plutonium in water. These
 small reactors were primarily used to study plutonium. Later (concurrently to MSR development),
@@ -234,14 +234,16 @@ Reactor Experiments HRE-1 and HRE-2). Molten salt fuels were first conceived of 
 when people began thinking of nuclear powered airplanes! The idea was to have very long range
 bombers in the air at all times. To heat air to high enough temperatures to provide thrust, such a
 nuclear reactor would need very high temperatures and very high power densities. The Aircraft
-Nuclear Propulsion program was a huge effort, and most of the early studies of molten salts were
-done under its direction. The first molten salt reactor, the Aircraft Reactor Experiment (ARE)
-operated in 1954 at ORNL with a Na-Zr-U salt for 100 hours. This reactor actually had fuel pumping
-through tubes in blocks of Beryllium. When inter-continental ballistic missiles came along, this
-program was promptly canceled.</p>
-<div class="alert alert-success" role="alert" markdown="1">
-<b>Note:</b> We have an elaborate [reactor development history page]({% link
-reactor_history.md %}) that covers this topic in general.
+Nuclear Propulsion program was a huge effort, and most of the early studies of molten
+salts were done under its direction. The first molten salt reactor, the [Aircraft Reactor
+Experiment (ARE)](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment) operated in
+1954 at ORNL with a Na-Zr-U salt for 96 MW-hours. This reactor actually had fuel pumping
+through tubes in blocks of Beryllium. When inter-continental ballistic missiles came
+along, this program was promptly canceled.
+
+<div class="alert alert-success"
+role="alert" markdown="1"> <b>Note:</b> We have an elaborate [reactor development history
+page]({% link reactor_history.md %}) that covers this topic in general.
 </div>
 
 <div class="pull-right">

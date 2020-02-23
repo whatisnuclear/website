@@ -1420,7 +1420,9 @@ src="/img/blank.png" data-echo="/img/LAPRE-II_lid_and_hx.jpg" alt="The LAPRE-II 
 <div class="thumbnail">
 <a href="/img/are.jpg"><img
 src="/img/blank.png" data-echo="/img/are.jpg" alt="ARE" class="img img-responsive center-block" ></a>
-<div class="caption centered">The Aircraft Reactor Experiment (first molten salt reactor)</div> </div>
+<div class="caption centered" markdown="1">
+The [Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment) (first molten salt reactor)
+</div> </div>
 </div>
 
 </div>
@@ -1473,11 +1475,13 @@ in moving liquid. Who needs CFD when you can do it analog with models!
 After the HRE-2 troubles, the concept of a homogeneous thorium-based thermal breeder
 evolved. By 1960, the billion-dollar Aircraft Nuclear Propulsion program had produced vast
 technical data on high-temperature molten salts that can dissolve uranium and thorium at
-sufficient concentrations to operate a reactor.  During the ANP, the Aircraft Reactor
-Experiment (ARE) was the first [molten-salt reactor (MSR)]({% link msr.md %}) to operate.
-Alvin Weinberg and the ORNL team turned their attention to molten-salt reactors for power.
-This culminated in the Molten Salt Reactor Experiment (MSRE), a 8 MWt experiment that ran
-very well. 
+sufficient concentrations to operate a reactor.  During the ANP, the 2.5 MW [Aircraft
+Reactor Experiment (ARE)](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment) was
+the first [molten-salt reactor (MSR)]({% link msr.md %}) to operate (crazily, it was
+sodium metal and molten salt-cooled with both circuits dumping heat via helium
+intermediates to water).  Alvin Weinberg and the ORNL team turned their attention to
+molten-salt reactors for power.  This culminated in the Molten Salt Reactor Experiment
+(MSRE), a 8 MWt experiment that ran very well.
 
 A follow-up demonstration reactor was planned (the Molten Salt Breeder Reactor), 
 but like the organic reactor before it, **Milton Shaw** effectively pulled the plug
@@ -1505,7 +1509,7 @@ forward in a modern context.
 
 Still, it's abundantly clear that developing new kinds of reactors for commoditized
 purposes is a grueling challenge, not for the faint of heart. An old-timer once
-whispered to me at an comically over-optimistic talk at a conference:
+whispered to me at a comically over-optimistic talk at a conference:
 
 > Nick, you see, these guys just haven't been run over by the nuclear bus yet!
 
