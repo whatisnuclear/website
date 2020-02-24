@@ -31,11 +31,11 @@ released their energy. For example, if you start with 100 radioactive atoms with
 minute, 50 of them will have emitted their energy after 1 minute. After 2 minutes, there
 will be 25 left, and so on. 
 
-<figure>
-<img class="img-responsive" style="max-width:500px;"
-src="/img/half-life.png" alt="Graph of atoms vs. time for different half-lives"/>
-<caption>An illustration of decay vs. various half-lives</caption>
-</figure>
+<div class="thumbnail" style="max-width:500px;">
+<a href="/img/half-life.png"><img class="img-responsive"
+src="/img/half-life.png" alt="Graph of atoms vs. time for different half-lives"/></a>
+<div class="caption">An illustration of decay vs. various half-lives</div>
+</div>
 
 As it applies to <a href="{% link nuclear-energy.md %}">nuclear energy</a>, many materials
 created during the operation of a <a href="{% link reactors.md %}">reactor</a> are
@@ -173,8 +173,8 @@ Watch the [a video]({% link radiation-video.md %}) of a few of us detecting radi
 
 
 # Background readings in Ann Arbor, MI
-<div class="pull-right"> 
-<a href="{% link background.html %}"><img style="width:500px;" src="/img/background_low.jpg" alt="Background reading in Ann Arbor." title="Background reading in Ann Arbor." /></a>
+<div class="pull-right" style="max-width:500px;"> 
+<a href="{% link background.html %}"><img class="img-responsive" src="/img/background_low.jpg" alt="Background reading in Ann Arbor." title="Background reading in Ann Arbor." /></a>
 </div>
 For a class in 2005, with no radioactive sources within range, we measured a long (30 minutes +) 
 reading with a high-purity germanium (HPGe) gamma-ray detector system. We then identified the source 
