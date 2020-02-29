@@ -1,38 +1,38 @@
-{% comment %}
+{%- comment -%}
 Map grabs the doc sections, giving us an array of arrays. Join, flattens all
 the items to a comma delimited string. Split turns it into an array again.
-{% endcomment %}
-{% assign pages = site.data.pages | map: 'pages' | join: ',' | split: ',' %}
+{%- endcomment -%}
+{%- assign pages = site.data.pages | map: 'pages' | join: ',' | split: ',' -%}
 
-{% comment %}
+{%- comment -%}
 Because this is built for every page, lets find where we are in the ordered
 document list by comparing url strings. Then if there's something previous or
 next, lets build a link to it.
-{% endcomment %}
+{%- endcomment -%}
 
-{% for thispage in pages %}
-  {% assign document_url = thispage | prepend:"/" | append:".html" %}
-  {% if document_url == page.url %}
+{%- for thispage in pages -%}
+{%- assign document_url = thispage | prepend:"/" | append:".html" -%}
+{%- if document_url == page.url -%}
     <div class="row">
       <div class="col-12-md">
-          {% if forloop.first %}
+          {%- if forloop.first -%}
             <a href="/index.html" class="btn btn-info" role="button">&#10094; Front Page</a>
-          {% else %}
-            {% assign previous = forloop.index0 | minus: 1 %}
-            {% assign previous_page = pages[previous] | prepend:"/" | append:".html" %}
+            {%- else -%}
+            {%- assign previous = forloop.index0 | minus: 1 -%}
+            {%- assign previous_page = pages[previous] | prepend:"/" | append:".html" -%}
             <a href="{{ previous_page }}" class="btn btn-info" role="button">&#10094; Back</a>
-          {% endif %}
+            {%- endif -%}
           
-          {% if forloop.last %}
+            {%- if forloop.last -%}
             <button type="button" class="btn btn-info disabled">Next &#10095;</button>
-          {% else %}
-            {% assign next = forloop.index0 | plus: 1 %}
-            {% assign next_page = pages[next] | prepend:"/" | append:".html" %}
+            {%- else -%}
+            {%- assign next = forloop.index0 | plus: 1 -%}
+            {%- assign next_page = pages[next] | prepend:"/" | append:".html" -%}
             <a href="{{ next_page  }}" class="btn btn-info" role="button">Next &#10095;</a>
-          {% endif %}
+            {%- endif -%}
       </div>
     </div>
     <div class="clear"></div>
-    {% break %}
-  {% endif %}
-{% endfor %}
+    {%- break -%}
+    {%- endif -%}
+    {%- endfor -%}
