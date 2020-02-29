@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your random reactor is:
+title: Your random reactor is
 description: A generator of innovative nuclear reactor ideas
 author: Nick Touran
 toc: true
