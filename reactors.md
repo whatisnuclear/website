@@ -123,7 +123,9 @@ at the top of the core from those at the bottom.
 There are many different kinds of nuclear fuel forms and cooling materials can be used in a nuclear 
 reactor. As a result, there are thousands of different possible nuclear reactor designs. Here, 
 we discuss a few of the designs that have been built before, but don't limit your 
-imagination; many other reactor designs are possible. Dream up your own!
+imagination; over a million other reactor designs are possible. Dream up your own! Or, for fun you
+can try our [Random Reactor Concept Generator](./random) or see a list of over a million
+options.
 </div>
 </div>
 
