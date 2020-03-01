@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your random reactor is
+title: Your random reactor is...
 description: A generator of innovative nuclear reactor ideas
 author: Nick Touran
 toc: true
@@ -16,6 +16,11 @@ date: 2020-02-28
 </h2>
 
 Happy innovating!
+
+<hr/>
+
+[Learn more]({% link random_info.md %}) about the acronyms and project.
+
 
 </div>
 </div>
