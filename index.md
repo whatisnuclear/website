@@ -10,7 +10,7 @@ description: Nuclear power plants produce sustainable and reliable clean-air ele
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-### Introduction to nuclear energy
+### What is nuclear energy?
 
 Nuclear energy involves splitting or combining atoms to produce useful energy.  Everything
 around you is made up of atoms. In the late 1930s, it was discovered that some
