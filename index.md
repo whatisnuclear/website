@@ -229,7 +229,7 @@ Other highlights include:
 
 * [Nuclear reactor development history]({% link reactor_history.md %})
 * [Age of the Earth]({% link geology.html %})
-* [Radiation on flights]({% link _posts/2014-05-17-radiation-on-flights.html %})
+* [Radiation on flights]({% post_url 2014-05-17-radiation-on-flights %})
 
 
 <div class="alert alert-success" role="alert">

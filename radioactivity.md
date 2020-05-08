@@ -164,7 +164,7 @@ you check your house for radon gas.
 Cosmic rays are energetic particles that originate outside of earth, in the sun, distant stars, 
 galaxies, and supernovae. Most of these are protons. The atmosphere shields us from most 
 cosmic rays, but during air travel, one will accumulate much higher dose. Don't 
-believe it? Check out our [Radiation on Flights]({% link _posts/2014-05-17-radiation-on-flights.html %}) page.
+believe it? Check out our [Radiation on Flights]({% post_url 2014-05-17-radiation-on-flights %}) page.
 
 # Video of radiation detection
 <a href="{% link radiation-video.md %}"><img src="/img/nim_bin.jpg" alt="A NIM-bin." title="A NIM-bin." /></a>
