@@ -2,7 +2,7 @@
 layout: default
 title: Radiation on flights
 category: blog
-description: How much radiation we encounter while flying on commercial flights?
+description: How much radiation do we encounter while flying on commercial flights?
 author: Nick Touran
 image: /img/crshower2_nasa_big.jpg
 ---
