@@ -237,7 +237,7 @@ One of our more unique features is a <a href="{% link chernobyl-memories.html %}
 the Chernobyl accident by a mother and father</a> of one of our contributors, who lived nearby.
 </div>
      
-<div class="alert alert-info" role="alert">Here are <a href="{% link assets/naked-city-nuclear-slides.pdf %}" class="alert-link">the slides</a> from our Nov 1, 2016 talk at Naked City.</div>
+<div class="alert alert-info" role="alert">Here are <a href="./assets/naked-city-nuclear-slides.pdf" class="alert-link">the slides</a> from our Nov 1, 2016 talk at Naked City.</div>
 
 </div>
 

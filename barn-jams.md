@@ -3,6 +3,7 @@ layout: default
 title: Barn Jams!
 description: Nuclear cross sections represent the connection between nuclear physics and nuclear engineering. Learn about them hear, and listen to them!
 author: Nick Touran
+image: /barn-jams/u235_fission.png
 ---
 
 <div class="row">
