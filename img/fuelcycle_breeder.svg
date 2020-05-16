@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="268.71042mm"
+   height="91.006126mm"
+   viewBox="0 0 268.71042 91.006126"
+   version="1.1"
+   id="svg6745"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="fuelcycle_breeder.svg">
+  <defs
+     id="defs6739">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4593"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6555"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6553"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6559"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6557"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6563"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6561"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6567"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6565"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6571"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6569"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6575"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6573"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6579"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6577"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6583"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6581"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6587"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6585"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6591"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6589"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6595"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6593"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6599"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6597"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6603"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6601"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6607"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6605"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6611"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6609"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-25.057902"
+     inkscape:cy="137.69437"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(22.474263,-94.25884)">
+    <g
+       id="g5541"
+       transform="matrix(0.13375656,0,0,0.13375656,15.015404,83.076883)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <rect
+         y="156.69669"
+         x="256.0564"
+         height="86.432518"
+         width="150.63412"
+         id="rect5543"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.11294699;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="28.214285"
+         rx="29.642857"
+         cy="84.862183"
+         cx="483.92856"
+         transform="matrix(1.1609812,0,0,1.0805245,-117.19166,74.943519)"
+         id="path5545"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="166.78163"
+         x="410.73166"
+         height="76.239059"
+         width="68.827576"
+         id="rect5547"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.25785112;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5549"
+         y="191.24774"
+         x="328.70059"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="191.24774"
+           x="333.78653"
+           id="tspan5551"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Breeder </tspan><tspan
+           id="tspan5553"
+           y="231.24774"
+           x="328.70059"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Reactor</tspan></text>
+    </g>
+    <g
+       id="g5587"
+       transform="matrix(0.13333759,0,0,0.13333759,143.59776,67.269465)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <rect
+         y="421.44324"
+         x="256.91803"
+         height="86.432518"
+         width="150.63412"
+         id="rect5589"
+         style="opacity:1;fill:#2aff2a;fill-opacity:1;stroke:#000000;stroke-width:4.11294699;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="28.214285"
+         rx="29.642857"
+         cy="84.862183"
+         cx="483.92856"
+         transform="matrix(1.1609812,0,0,1.0805245,-116.33002,339.69011)"
+         id="path5591"
+         style="opacity:1;fill:#55ff55;fill-opacity:1;stroke:#000000;stroke-width:3.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="431.5282"
+         x="411.59329"
+         height="76.239059"
+         width="68.827576"
+         id="rect5593"
+         style="opacity:1;fill:#2aff2a;fill-opacity:1;stroke:#000000;stroke-width:4.25785112;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5595"
+         y="455.99429"
+         x="331.56223"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="455.99429"
+           x="336.64816"
+           id="tspan5597"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Standard </tspan><tspan
+           id="tspan5599"
+           y="495.99429"
+           x="331.56223"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Reactor</tspan></text>
+    </g>
+    <g
+       id="g5601"
+       transform="matrix(0.13333759,0,0,0.13333759,12.925233,55.015209)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <path
+         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="36.79438"
+         sodipodi:r1="42.486492"
+         sodipodi:cy="415.96609"
+         sodipodi:cx="130.30968"
+         sodipodi:sides="6"
+         id="path5603"
+         style="opacity:1;fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         transform="scale(0.9576902,1.044179)"
+         id="text5605"
+         y="419.26263"
+         x="112.85684"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="419.26263"
+           x="112.85684"
+           id="tspan5607"
+           sodipodi:role="line"
+           style="font-size:57.98281479px;line-height:1.25">U</tspan></text>
+    </g>
+    <g
+       id="g5609"
+       transform="matrix(0.10821069,0,0,0.10821069,-23.483413,87.223901)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <rect
+         y="574.56006"
+         x="402.04071"
+         height="152.53304"
+         width="144.45181"
+         id="rect5611"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="30.809652"
+         rx="72.73098"
+         cy="577.08539"
+         cx="474.7717"
+         transform="translate(-1.2e-6,149.98737)"
+         id="path5613"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="30.809652"
+         rx="72.73098"
+         cy="577.08539"
+         cx="474.7717"
+         id="path5615"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5617"
+         y="638.13947"
+         x="473.37152"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan5619"
+           y="638.13947"
+           x="477.57672"
+           sodipodi:role="line"
+           style="font-size:26.45841599px;line-height:1.25">Med.-term </tspan><tspan
+           id="tspan5621"
+           y="671.21246"
+           x="473.37152"
+           sodipodi:role="line"
+           style="font-size:26.45841599px;line-height:1.25">storage</tspan></text>
+    </g>
+    <g
+       id="g5623"
+       transform="matrix(0.26458333,0,0,0.26458333,-30.228494,-61.585096)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <rect
+         y="590.11462"
+         x="469.02258"
+         height="117.88824"
+         width="59.62952"
+         id="rect5625"
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:2.19633102;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(0.3419363,0,0,0.3419363,413.28206,519.2756)"
+         id="g5627">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ff55dd;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5629"
+           sodipodi:sides="6"
+           sodipodi:cx="130.30968"
+           sodipodi:cy="415.96609"
+           sodipodi:r1="42.486492"
+           sodipodi:r2="36.79438"
+           sodipodi:arg1="1.0471976"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           transform="translate(115.15739,2.0202894)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="214.30365"
+           y="433.41278"
+           id="text5631"><tspan
+             sodipodi:role="line"
+             id="tspan5633"
+             x="214.30365"
+             y="433.41278"
+             style="font-size:51.66386414px;line-height:1.25">Pu</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.3419363,0,0,0.3419363,404.30145,520.4572)"
+         id="g5635">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#bc5fd3;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5637"
+           sodipodi:sides="6"
+           sodipodi:cx="130.30968"
+           sodipodi:cy="415.96609"
+           sodipodi:r1="42.486492"
+           sodipodi:r2="36.79438"
+           sodipodi:arg1="1.0471976"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           transform="translate(141.42136,83.842645)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="242.56761"
+           y="517.23511"
+           id="text5639"><tspan
+             sodipodi:role="line"
+             id="tspan5641"
+             x="242.56761"
+             y="517.23511"
+             style="font-size:51.66386414px;line-height:1.25">FP</tspan></text>
+      </g>
+      <g
+         id="g5643">
+        <path
+           sodipodi:type="star"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5645"
+           sodipodi:sides="6"
+           sodipodi:cx="130.30968"
+           sodipodi:cy="415.96609"
+           sodipodi:r1="42.486492"
+           sodipodi:r2="36.79438"
+           sodipodi:arg1="1.0471976"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           transform="matrix(0.3419363,0,0,0.3419363,452.65855,490.80369)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="511.24643"
+           y="613.39899"
+           id="text5647"
+           transform="scale(0.9576901,1.0441791)"><tspan
+             sodipodi:role="line"
+             id="tspan5649"
+             x="511.24643"
+             y="613.39899"
+             style="font-size:19.82642746px;line-height:1.25">U</tspan></text>
+      </g>
+      <text
+         id="text5651"
+         y="603.09473"
+         x="496.67599"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="603.09473"
+           x="496.67599"
+           id="tspan5653"
+           sodipodi:role="line"
+           style="font-size:11.11835575px;line-height:1.25">Nuclear</tspan><tspan
+           id="tspan5655"
+           y="616.99268"
+           x="496.67599"
+           sodipodi:role="line"
+           style="font-size:11.11835575px;line-height:1.25"> Waste</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 12.76561,110.48604 H 23.383005"
+       id="path5657"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 37.045374,110.48604 H 47.662773"
+       id="path5659"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 80.343037,110.48604 h 10.6174"
+       id="path5661"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 100.80528,128.92764 0.0602,8.55262"
+       id="path5663"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <g
+       id="g5665"
+       transform="matrix(0.13909482,0,0,0.13909482,55.007704,62.344527)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <rect
+         y="567.08868"
+         x="248.09727"
+         height="99.795448"
+         width="174.54672"
+         id="rect5667"
+         style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:2.43650556;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5669"
+         y="603.04736"
+         x="332.40109"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="603.04736"
+           x="332.40109"
+           id="tspan5671"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Recycling</tspan><tspan
+           id="tspan5673"
+           y="643.04736"
+           x="332.40109"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Plant</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.58208334;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5675"
+       width="26.994162"
+       height="15.234329"
+       x="50.35326"
+       y="127.98528"
+       ry="0"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <g
+       id="g5677"
+       transform="matrix(0.26458333,0,0,0.26458333,-29.293049,-52.778626)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <path
+         transform="matrix(0.3419363,0,0,0.3419363,286.77242,578.79823)"
+         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="36.79438"
+         sodipodi:r1="42.486492"
+         sodipodi:cy="415.96609"
+         sodipodi:cx="130.30968"
+         sodipodi:sides="6"
+         id="path5679"
+         style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         transform="scale(0.9576901,1.0441791)"
+         id="text5681"
+         y="697.67047"
+         x="338.03162"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="697.67047"
+           x="338.03162"
+           id="tspan5683"
+           sodipodi:role="line"
+           style="font-size:19.82642746px;line-height:1.25">U</tspan></text>
+    </g>
+    <g
+       id="g5685"
+       transform="matrix(0.09047065,0,0,0.09047065,45.785491,100.17896)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <path
+         transform="translate(115.15739,2.0202894)"
+         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="36.79438"
+         sodipodi:r1="42.486492"
+         sodipodi:cy="415.96609"
+         sodipodi:cx="130.30968"
+         sodipodi:sides="6"
+         id="path5687"
+         style="opacity:1;fill:#ff55dd;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         id="text5689"
+         y="433.41278"
+         x="214.30365"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="433.41278"
+           x="214.30365"
+           id="tspan5691"
+           sodipodi:role="line"
+           style="font-size:51.66386414px;line-height:1.25">Pu</tspan></text>
+    </g>
+    <g
+       id="g5693"
+       transform="matrix(0.09047065,0,0,0.09047065,37.529443,114.30507)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <path
+         transform="translate(141.42136,83.842645)"
+         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="36.79438"
+         sodipodi:r1="42.486492"
+         sodipodi:cy="415.96609"
+         sodipodi:cx="130.30968"
+         sodipodi:sides="6"
+         id="path5695"
+         style="opacity:1;fill:#bc5fd3;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         id="text5697"
+         y="517.23511"
+         x="242.56761"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="517.23511"
+           x="242.56761"
+           id="tspan5699"
+           sodipodi:role="line"
+           style="font-size:51.66386414px;line-height:1.25">FP</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54.251431"
+       y="132.45392"
+       id="text5701"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501"><tspan
+         sodipodi:role="line"
+         id="tspan5703"
+         x="54.251431"
+         y="132.45392"
+         style="font-size:4.32255602px;line-height:1.25;stroke-width:0.26458332px">New Fuel</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 87.332487,142.65627 -7.69056,-6.01356"
+       id="path5705"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 87.182017,150.69607 -16.644099,5.87992"
+       id="path5707"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 64.063198,126.77544 -0.07338,-7.21628"
+       id="path5709"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 54.800842,159.151 40.294905,159.01736"
+       id="path5711"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.58208334;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5713"
+       width="26.994162"
+       height="15.234329"
+       x="131.52876"
+       y="141.05525"
+       ry="0"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <g
+       id="g5715"
+       transform="matrix(0.26458333,0,0,0.26458333,51.882448,-39.708666)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <path
+         transform="matrix(0.3419363,0,0,0.3419363,286.77242,578.79823)"
+         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="36.79438"
+         sodipodi:r1="42.486492"
+         sodipodi:cy="415.96609"
+         sodipodi:cx="130.30968"
+         sodipodi:sides="6"
+         id="path5717"
+         style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         transform="scale(0.9576901,1.0441791)"
+         id="text5719"
+         y="697.67047"
+         x="338.03162"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="697.67047"
+           x="338.03162"
+           id="tspan5721"
+           sodipodi:role="line"
+           style="font-size:19.82642746px;line-height:1.25">U</tspan></text>
+    </g>
+    <g
+       id="g5723"
+       transform="matrix(0.09047065,0,0,0.09047065,126.96099,113.24893)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <path
+         transform="translate(115.15739,2.0202894)"
+         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="36.79438"
+         sodipodi:r1="42.486492"
+         sodipodi:cy="415.96609"
+         sodipodi:cx="130.30968"
+         sodipodi:sides="6"
+         id="path5725"
+         style="opacity:1;fill:#ff55dd;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         id="text5727"
+         y="433.41278"
+         x="214.30365"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="433.41278"
+           x="214.30365"
+           id="tspan5729"
+           sodipodi:role="line"
+           style="font-size:51.66386414px;line-height:1.25">Pu</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135.42694"
+       y="145.5239"
+       id="text5731"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501"><tspan
+         sodipodi:role="line"
+         id="tspan5733"
+         x="135.42694"
+         y="145.5239"
+         style="font-size:4.32255602px;line-height:1.25;stroke-width:0.26458332px">New Fuel</tspan></text>
+    <g
+       id="g5735"
+       transform="matrix(0.13333759,0,0,0.13333759,143.97202,87.822958)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <rect
+         y="421.44324"
+         x="256.91803"
+         height="86.432518"
+         width="150.63412"
+         id="rect5737"
+         style="opacity:1;fill:#2aff2a;fill-opacity:1;stroke:#000000;stroke-width:4.11294699;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="28.214285"
+         rx="29.642857"
+         cy="84.862183"
+         cx="483.92856"
+         transform="matrix(1.1609812,0,0,1.0805245,-116.33002,339.69011)"
+         id="path5739"
+         style="opacity:1;fill:#55ff55;fill-opacity:1;stroke:#000000;stroke-width:3.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="431.5282"
+         x="411.59329"
+         height="76.239059"
+         width="68.827576"
+         id="rect5741"
+         style="opacity:1;fill:#2aff2a;fill-opacity:1;stroke:#000000;stroke-width:4.25785112;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5743"
+         y="455.99429"
+         x="331.56223"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="455.99429"
+           x="336.64816"
+           id="tspan5745"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Standard </tspan><tspan
+           id="tspan5747"
+           y="495.99429"
+           x="331.56223"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Reactor</tspan></text>
+    </g>
+    <g
+       id="g5749"
+       transform="matrix(0.13333759,0,0,0.13333759,143.97202,108.93725)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <rect
+         y="421.44324"
+         x="256.91803"
+         height="86.432518"
+         width="150.63412"
+         id="rect5751"
+         style="opacity:1;fill:#2aff2a;fill-opacity:1;stroke:#000000;stroke-width:4.11294699;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="28.214285"
+         rx="29.642857"
+         cy="84.862183"
+         cx="483.92856"
+         transform="matrix(1.1609812,0,0,1.0805245,-116.33002,339.69011)"
+         id="path5753"
+         style="opacity:1;fill:#55ff55;fill-opacity:1;stroke:#000000;stroke-width:3.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="431.5282"
+         x="411.59329"
+         height="76.239059"
+         width="68.827576"
+         id="rect5755"
+         style="opacity:1;fill:#2aff2a;fill-opacity:1;stroke:#000000;stroke-width:4.25785112;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5757"
+         y="455.99429"
+         x="331.56223"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="455.99429"
+           x="336.64816"
+           id="tspan5759"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Standard </tspan><tspan
+           id="tspan5761"
+           y="495.99429"
+           x="331.56223"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Reactor</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 118.26128,148.24268 h 8.88014"
+       id="path5763"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 164.41071,147.61025 H 175.0281"
+       id="path5765"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 163.07436,141.46305 12.48828,-10.15624"
+       id="path5767"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 163.2686,154.8886 12.75556,14.9671"
+       id="path5771"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <g
+       id="g5773"
+       transform="matrix(0.26458333,0,0,0.26458333,106.07308,-23.057716)"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501">
+      <rect
+         y="590.11462"
+         x="469.02258"
+         height="117.88824"
+         width="59.62952"
+         id="rect5775"
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:2.19633102;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(0.3419363,0,0,0.3419363,413.28206,519.2756)"
+         id="g5777">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ff55dd;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5779"
+           sodipodi:sides="6"
+           sodipodi:cx="130.30968"
+           sodipodi:cy="415.96609"
+           sodipodi:r1="42.486492"
+           sodipodi:r2="36.79438"
+           sodipodi:arg1="1.0471976"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           transform="translate(115.15739,2.0202894)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="214.30365"
+           y="433.41278"
+           id="text5781"><tspan
+             sodipodi:role="line"
+             id="tspan5783"
+             x="214.30365"
+             y="433.41278"
+             style="font-size:51.66386414px;line-height:1.25">Pu</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.3419363,0,0,0.3419363,404.30145,520.4572)"
+         id="g5785">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#bc5fd3;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5787"
+           sodipodi:sides="6"
+           sodipodi:cx="130.30968"
+           sodipodi:cy="415.96609"
+           sodipodi:r1="42.486492"
+           sodipodi:r2="36.79438"
+           sodipodi:arg1="1.0471976"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           transform="translate(141.42136,83.842645)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="242.56761"
+           y="517.23511"
+           id="text5789"><tspan
+             sodipodi:role="line"
+             id="tspan5791"
+             x="242.56761"
+             y="517.23511"
+             style="font-size:51.66386414px;line-height:1.25">FP</tspan></text>
+      </g>
+      <g
+         id="g5793">
+        <path
+           sodipodi:type="star"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5795"
+           sodipodi:sides="6"
+           sodipodi:cx="130.30968"
+           sodipodi:cy="415.96609"
+           sodipodi:r1="42.486492"
+           sodipodi:r2="36.79438"
+           sodipodi:arg1="1.0471976"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           transform="matrix(0.3419363,0,0,0.3419363,452.65855,490.80369)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="511.24643"
+           y="613.39899"
+           id="text5797"
+           transform="scale(0.9576901,1.0441791)"><tspan
+             sodipodi:role="line"
+             id="tspan5799"
+             x="511.24643"
+             y="613.39899"
+             style="font-size:19.82642746px;line-height:1.25">U</tspan></text>
+      </g>
+      <text
+         id="text5801"
+         y="603.09473"
+         x="496.67599"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="603.09473"
+           x="496.67599"
+           id="tspan5803"
+           sodipodi:role="line"
+           style="font-size:11.11835575px;line-height:1.25">Nuclear</tspan><tspan
+           id="tspan5805"
+           y="616.99268"
+           x="496.67599"
+           sodipodi:role="line"
+           style="font-size:11.11835575px;line-height:1.25"> Waste</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 211.99006,128.36684 h 10.61739"
+       id="path5807"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 212.79724,147.87752 h 10.61739"
+       id="path5809"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39249903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 212.78649,167.65545 h 10.6174"
+       id="path5811"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 236.96655,167.9158 c -34.74503,18.7089 -50.24667,17.10526 -50.24667,17.10526 0,0 -44.63401,2.13818 -81.78447,-22.98517"
+       id="path5817"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501" />
+    <g
+       id="g6368"
+       transform="matrix(0.26458333,0,0,0.26458333,-34.158963,57.725471)"
+       inkscape:export-xdpi="57.601501"
+       inkscape:export-ydpi="57.601501"
+       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/breeder_cycle_sm.png">
+      <rect
+         y="151.59509"
+         x="46.12141"
+         height="89.318199"
+         width="120.75258"
+         id="rect6370"
+         style="fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:3.91753101;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text6372"
+         y="178.64691"
+         x="105.13805"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="178.64691"
+           x="108.05474"
+           id="tspan6374"
+           sodipodi:role="line"
+           style="font-size:18.35141563px;line-height:1.25">Mine and </tspan><tspan
+           id="tspan6376"
+           y="201.58618"
+           x="105.13805"
+           sodipodi:role="line"
+           style="font-size:18.35141563px;line-height:1.25">enrichment</tspan><tspan
+           id="tspan6378"
+           y="224.52545"
+           x="105.13805"
+           sodipodi:role="line"
+           style="font-size:18.35141563px;line-height:1.25">plant</tspan></text>
+    </g>
+  </g>
+</svg>
