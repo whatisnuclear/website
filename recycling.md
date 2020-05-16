@@ -3,6 +3,7 @@ layout: default
 title: What is Nuclear Recycling?
 description: Did you know that typical nuclear reactors only use about 1% of the energy in their fuel, and that nuclear waste is recyclable? What is nuclear recyling? Find out here.
 author: Nick Touran
+image: /img/recycle_cycle_sm.png
 ---
 <div class="row">
 <div class="col-md-8 col-md-offset-1" markdown="1">

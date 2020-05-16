@@ -4,6 +4,7 @@ title: "Thorium As Nuclear Fuel: the good and the bad"
 category: physics
 description: A discussion of the Thorium nuclear fuel cycle for nuclear reactors. How is it different from Uranium? What's so good about it? What are its downsides?
 author: Nick Touran
+image: /img/Thor.jpg
 ---
 
 <div class="row">

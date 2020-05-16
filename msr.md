@@ -4,6 +4,7 @@ title: Molten Salt Reactors
 category: reactor-types yeah
 description: Molten salt reactors, such as the LFTR, are completely different types of nuclear reactors than those currently operating. They have interesting benefits, and a different set of problems. This page discusses what they are, what they can do, what issues they face, and their history.
 author: Nick Touran
+image: /img/are.jpg
 ---
 <div class="row">
 <div class="col-md-8" markdown="1"> 
@@ -336,6 +337,7 @@ modern revival of interest in MSRs and we wish them all the best!</p>
 * [MSRE Design and Operations Report, Part I, Description of Reactor Design
   (ORNL-TM-728)](https://www.osti.gov/biblio/4654707) — A description of the Molten Salt Reactor Experiment design. This
   is part of a 10-part series describing the experience with the MSRE. All documents are widely available.
+* [The Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment)
 
 </div>
 </div>

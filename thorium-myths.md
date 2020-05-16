@@ -3,6 +3,7 @@ layout: default
 title: Thorium myths
 description: As much as we love Thorium, there are way too many myths and misconceptions about it going on. We set them straight here. 
 author: Nick Touran
+image: /img/Thor.jpg
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">

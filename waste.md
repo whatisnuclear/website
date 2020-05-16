@@ -4,6 +4,7 @@ title: What is Nuclear Waste?
 category: physics
 description: Find out what nuclear waste is and what can be done about it. Nuclear waste is the material that nuclear fuel becomes after it is used in a reactor.
 author: Nick Touran
+image: /img/fission-chain-reaction.svg.png
 ---
 
 <div class="row">
