@@ -3,13 +3,13 @@ layout: default
 title: What is Nuclear Recycling?
 description: Did you know that typical nuclear reactors only use about 1% of the energy in their fuel, and that nuclear waste is recyclable? What is nuclear recyling? Find out here.
 author: Nick Touran
-image: /img/recycle_cycle_sm.png
+image: /img/recycle_cycle_lg.png
 ---
 <div class="row">
-<div class="col-md-8 col-md-offset-1" markdown="1">
+<div class="col-md-8" markdown="1">
 
 # Recycling Nuclear Waste and Breeder Reactors
-##### By Nick Touran, March 2009
+##### By Nick Touran, March 2009 (updated May 2020)
 <a name="recycling"></a>
 # What is nuclear recycling?   
 Nuclear waste is recyclable. Once reactor fuel (uranium or thorium) is used in a reactor, it can be
@@ -17,8 +17,12 @@ treated and put into another reactor as fuel. In fact, typical reactors only ext
 of the energy in their fuel. You could power the entire US electricity grid off of the energy in
 nuclear waste for almost 100 years ([details]({% link factoids.md %})). If you recycle the waste,
 the final waste that is left over decays to harmlessness within a few hundred years, rather than a
-million years as with standard (unrecycled) nuclear waste. This page explains how this interesting
-process is possible. 
+million years as with standard (unrecycled) nuclear waste. However, recycling nuclear
+waste generally involves performing complex chemistry processes in a radiologically
+shielded area and can be rather expensive and also generate significant amounts of
+radioactive material in liquid form.
+
+This page explains how this interesting process is possible.
 
 ## Nuclear Transformations
 <img class="pull-right" src="/img/breeding.svg" title="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays." alt="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays."/>
@@ -32,7 +36,6 @@ A common type of nuclear reaction is called beta-decay. When a nucleus has more 
 would like to have, it often beta-decays by breaking a neutron into a proton and an electron. The
 electron (called a beta-particle in this case, since it originated in the nucleus) flies off into
 nature, and the main result seen in the nucleus is a neutron converting to a proton (see figure). 
-
 
 When U-238 absorbs a neutron in a nuclear reactor, it becomes U-239, which is just the isotope of
 Uranium with one extra neutron than U-238. This beta-decays quickly and becomes Np-239. Then, the
@@ -128,6 +131,8 @@ the USA does not currently recycle. There are ways to solve these issues.
 
 <h3 id="breeder">Breeder Fuel Cycle</h3>
 <img src="/img/fuelcycle_breeder.svg" title="Breeder reactors produce enough plutonium to fuel several standard reactors without mines or enrichment plants." alt="A picture of a breeder recycle fuel cycle." width="650" height="220"  usemap="#breedermap"/>
+<p class="caption"><strong>Figure 3.</strong> A closed fuel cycle with breeding. More fissile material is created from breeding than is used to make energy. (Put your mouse over each image for more info.) </p>
+
 <a href="{% link fast-reactor.html %}">Breeder reactors</a> can create as much or more fissile
 material (atoms that readily split) than they use. These special reactors are designed to have extra
 neutrons flying around, so that some can convert U-238 to Pu-239 (see above) and the others can run
