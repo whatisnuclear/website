@@ -71,6 +71,13 @@
   <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
   {% endif %}
 
+  {% if page.mermaid %}
+    <script type="application/javascript" src="{{ "dist/js/mermaid.min.js" | relative_url }}"></script>
+    <script type="application/javascript" src="{{ "dist/js/mermaid_render.js" | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ "dist/css/mermaid.css" | relative_url }}" >
+  {% endif %}
+
+
     
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
