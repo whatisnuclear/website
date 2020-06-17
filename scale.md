@@ -2,6 +2,7 @@
 layout: default
 title: Scale of Energy Usage
 description: How much energy do we use? What would it look like to store it all by lifting large objects to the top of tall buildings?
+image: /img/aircraft_carriers_on_burj_dubai.jpg
 ---
 
 <div class="row">
