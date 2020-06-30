@@ -228,7 +228,7 @@ or check out the [what is a nuclear reactor?]({% link reactors.md %}) page.
 Other highlights include:
 
 * [Nuclear reactor development history]({% link reactor_history.md %})
-* [Age of the Earth]({% link geology.html %})
+* [Age of the Earth]({% link geology.md %})
 * [Radiation on flights]({% post_url 2014-05-17-radiation-on-flights %})
 
 
