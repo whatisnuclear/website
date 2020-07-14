@@ -181,8 +181,8 @@ leader of the team and fought hard to secure funds and authority to kick off the
 reactors program.
 
 He kicked off two reactor development programs in parallel for naval propulsion: the
-sodium-cooled graphite-moderated reactor (Project Genie) and the pressurized water reactor
-(Project Wizard).
+sodium-cooled beryllium-reflected/moderated reactor (Project Genie) and the pressurized
+water reactor (Project Wizard).
 
 <div class="row">
 
@@ -199,7 +199,7 @@ Atomic Age</a>)</p></div> </div>
 <div class="thumbnail">
 <a href="/img/s1g_sphere.jpg"><img class="img-responsive" 
 src="/img/blank.png" data-echo="/img/s1g_sphere.jpg" alt="The S1G dome in New York"/></a>
-<div class="caption centered"><p>The sphere for the SIR/S1G Seawolf sodium-graphite prototype in New York
+<div class="caption centered"><p>The sphere for the SIR/S1G Seawolf sodium-beryllium prototype in New York
 (from <em>Atomic Shield</em>, <a
 href="http://images.google.com/hosted/life/c4707d71d407ce7d.html">higher-res from
 LIFE</a>)</p></div> </div> </div>
@@ -267,19 +267,18 @@ session for the first time. Such high adventures are remembered by people who we
 at the time (like Gwyneth Cravens) as deeply inspiring.
 
 #### The SIR and the *Seawolf*
-The sodium-cooled graphite-moderated power breeder that GE was working on for the
-AEC at KAPL got swooped into the Naval Reactors development program, and its
-first reactor became the land-based prototype for the *USS Seawolf*. At first,
-Rickover preferred the sodium-cooled approach because it used silent
-electro-magnetic pumps and offered very high thermal efficiency. The prototype
-(S1G) experienced leaks in the superheaters due to an incompatibility between
-the liquid metal sodium and the particular steel used. Because of Rickover's
-insistence in building prototype concurrently with the real thing, the real
-*Seawolf* also experienced superheater leaks. They plugged tubes, performed
-difficult repairs (sodium has high induced radioactivity and high chemical
-reactivity), and eventually bypassed the superheater. *Seawolf* worked at
-reduced efficiency, logged some tens of thousands of hours, but eventually had
-its propulsion system swapped out for a PWR.
+The sodium-cooled intermediate-spectrum power breeder that GE was working on for the AEC
+at KAPL got swooped into the Naval Reactors development program, and its first reactor
+became the land-based prototype for the *USS Seawolf*. At first, Rickover preferred the
+sodium-cooled approach with a beryllium reflector/moderator because it used silent
+electro-magnetic pumps and offered very high thermal efficiency. The prototype (S1G)
+experienced leaks in the superheaters due to an incompatibility between the liquid metal
+sodium and the particular steel used. Because of Rickover's insistence in building
+prototype concurrently with the real thing, the real *Seawolf* also experienced
+superheater leaks. They plugged tubes, performed difficult repairs (sodium has high
+induced radioactivity and high chemical reactivity), and eventually bypassed the
+superheater. *Seawolf* worked at reduced efficiency, logged some tens of thousands of
+hours, but eventually had its propulsion system swapped out for a PWR.
 
 ### Aircraft Nuclear Propulsion 
 
