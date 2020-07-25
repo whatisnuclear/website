@@ -108,6 +108,7 @@ inability to make bombs was not to blame for the cancellation.
 
 <a name="myth2"></a>
 ## Misconception #2: Thorium reactors never need enrichment!
+<span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Like all reactors, Thorium reactors need some fissile material to start up. Thorium itself
 is a neutron poison and needs to be irradiated by neutrons (coming from somewhere) in
 order to start making good nuclear fuel.
