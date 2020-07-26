@@ -113,7 +113,7 @@ Like all reactors, Thorium reactors need some fissile material to start up. Thor
 is a neutron poison and needs to be irradiated by neutrons (coming from somewhere) in
 order to start making good nuclear fuel.
 
-Once started up, **any** [breeder reactor](% link recycling.md %}) (using uranium and/or
+Once started up, **any** [breeder reactor]({% link recycling.md %}) (using uranium and/or
 thorium) can be fissile self-sufficient, meaning they breed more (or equal) fissile
 material than they consume.
 
