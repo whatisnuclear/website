@@ -35,7 +35,9 @@ of nuclear waste is the leftover smaller nuclei, known as fission products. Obse
 
 <figure>
 <a href="/img/fission-chain-reaction-plainsvg.svg">
-<img class="img-responsive" src="/img/fission-chain-reaction-plainsvg.svg" width="900" alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission products and 3 neutrons."/></a>
+<img class="img-responsive" src="/img/fission-chain-reaction-plainsvg.svg" width="900"
+alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission products and
+3 neutrons."/></a>
 <caption>The fission process of a single atomic
 nucleus. Note that Krypton and Cesium are two possible fission products, but
 many other pairs of elements also occur.</caption>
@@ -55,6 +57,12 @@ isotopes.md %}">isotopes</a> of the elements shown here. Color is proportional t
 of the probability they will show up (U-235 thermal fission from ENDF/VII.1).
 </caption>
 </figure>
+
+<div class="alert alert-success" role="alert" markdown="1">
+You may also hear nuclear waste referred to as *spent nuclear fuel* or *used nuclear
+fuel*. These terms are intended to indicate that it is recyclable, but they all refer to
+the stuff known commonly as *nuclear waste*. 
+</div>
 
 <a name="hazards"></a>
 <br/>
@@ -92,7 +100,7 @@ This question was recognized very early on in nuclear history, by Enrico Fermi h
 asked:
 
 > It is not clear that the public will accept an energy source that produces this much
-> radioactivity and that can be subject to diversion of material for bombs.
+> radioactivity
 >
 > &mdash; Enrico Fermi
 
@@ -130,7 +138,9 @@ href="https://www.flickr.com/photos/nrcgov/36801710635/">Photo by the NRC</a>
 The following video shows a world-expert in nuclear waste walking amongst the spent fuel
 in dry casks at the Columbia Generating Station in Washington state. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUvvIzH2W6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EUvvIzH2W6g" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 To our knowledge, no one has been injured or killed by commercial nuclear waste in dry
 cask storage. While future incidents are possible, it is fairly clear that the
@@ -183,9 +193,36 @@ href="https://www.flickr.com/photos/departmentofenergy/7604695116">Photo by the 
 </caption>
 </figure>
 
-Finland is currently the world leader in long-term nuclear waste disposal progress. Their
-Onkalo deep geologic repository is [expected to the be the world's
-first](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). 
+Finland is currently the world leader in long-term commercial nuclear waste disposal
+progress. Their Onkalo deep geologic repository is [expected to the be the world's first
+commercial one to
+operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). 
+
+### Deep Boreholes
+
+A different form of geologic repository, called a deep borehole, has been proposed by
+scientists since the 1950s, and has recently gotten much more attention due to advances in
+drilling techniques. Deep boreholes involve drilling a hole about 5000 meter deep and
+stacking the spent fuel assemblies there before capping it off. By going ~10x deeper than
+traditional repository designs, the material is likely to be extra isolated from the
+biosphere for extra time.
+
+<figure>
+<a href="/img/deep-borehole.jpg">
+<img class="img-responsive" src="/img/deep-borehole.jpg" alt="A deep borehole"/>
+</a>
+<caption>A deep borehole <a
+href="https://www.osti.gov/servlets/purl/1420819">Courtesy of DOE</a>
+</caption>
+</figure>
+
+The US DOE planned a Deep Borehole Field Test to better understand the science of this
+technology option (without any actual nuclear waste), but the [project was cancelled in
+2017 due to strong public
+opposition](https://rapidcityjournal.com/news/local/trump-administration-dropping-nuclear-waste-burial-test/article_414da917-be8c-5625-be62-7b953639220c.html). 
+
+Deep boreholes are being commercialized by a company called [Deep
+Isolation](https://www.deepisolation.com/). 
 
 ### Recycling nuclear waste
 
@@ -312,40 +349,6 @@ structural material such as zirconium and stainless steel.</caption> <tr><th
 </div>
 
 <div class="row">
-<div class="col-md-8" markdown="1"> 
-<a name="whattodo"></a>
-
-### Help from Thorium Fuel
-
-We could switch from Uranium/Plutonium based fuel to [Thorium/Uranium-based fuel]({% link
-thorium.md %}). This would allow for recycling and breeding without creating any plutonium
-or minor actinides whatsoever. Fission products are still created, of course, and some of
-them are quite long-lived, but reducing the minor actinides is a benefit of Thorium.
-
-
-### More details for the curious
-Nuclear reactors are typically loaded with Uranium Oxide fuel, UO<sub>2</sub>. Neutrons
-are introduced to the system, and many of them are absorbed by uranium atoms, causing them
-to become unstable and split, or fission, into two smaller atoms known as fission
-products. Sometimes, the uranium absorbs a neutron and does not fission, but rather <a
-href="{% link recycling.md %}">transforms to a heavier isotope</a> of uranium, such as
-U-239.  U-239 beta-decays to Np-239, which in turn beta-decays to Pu-239. The heavier
-nuclide may then absorb another neutron to become an even heavier element. These heavier
-atoms are known as transuranics. Nuclear waste, with regard to nuclear reactors, is the
-collection of nuclides left over after a reactor has extracted some energy out of nuclear
-fuel. Many of the isotopes are very radioactive for a very long time before they decay to
-stability.  The radioactivity causes the spent nuclear fuel to continue emitting heat long
-after it has been removed from the reactor. A few of the radioactive isotopes in the mix
-of spent fuel are gaseous and need to be carefully contained so that they do not escape to
-the environment and cause radiation damage to living things. Other types of nuclear waste
-exist, such as low level waste from other applications. This discussion focused on
-high-level waste (HLW), the spent nuclear fuel from nuclear power reactors. 
-
-</div>
-</div>
-
-
-<div class="row">
 <div class="col-md-8" markdown="1">
 
 <a name="refs"></a>
@@ -357,6 +360,7 @@ high-level waste (HLW), the spent nuclear fuel from nuclear power reactors.
  * [GAO Disposal of Nuclear Waste page](https://www.gao.gov/key_issues/disposal_of_highlevel_nuclear_waste/issue_summary)
  * [NEI nuclear waste storage stats](https://www.nei.org/resources/statistics/used-fuel-storage-and-nuclear-waste-fund-payments)
  * [IEAE TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
+ * [Deep Borehole Disposal (DBD) of Radioactive Waste](https://www.osti.gov/servlets/purl/1420819)
 
 </div>
 </div>
