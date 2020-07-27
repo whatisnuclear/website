@@ -37,18 +37,22 @@ of nuclear waste is the leftover smaller nuclei, known as fission products. Obse
 <a href="/img/fission-chain-reaction-plainsvg.svg">
 <img class="img-responsive" src="/img/fission-chain-reaction-plainsvg.svg" width="900" alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission products and 3 neutrons."/></a>
 <caption>The fission process of a single atomic
-nucleus. Note that Kr and Cs are two possible fission products, but
-many other pairs also occur.</caption>
+nucleus. Note that Krypton and Cesium are two possible fission products, but
+many other pairs of elements also occur.</caption>
 </figure>
 
-You never know which two fission products you're going to get for a given fission, but you always get 
-the same average composition as billions upon billions of atoms split. You basically get a huge 
-variety of stuff, shown below.
+Like everything, nuclear waste is made of elements you can find on the periodic table,
+including [isotopes]({% link isotopes.md %}) of iron, zinc, germanium, zirconium, silver,
+and iodine. You never know which two fission product elements you're going to get for a
+given fission event, but you always get the same average composition as billions upon
+billions of atoms split. You basically get a huge variety of elements, shown below.
+
 <figure>
-<img class="img-responsive" src="/img/fission-product-yields-u235-thermal-endf71-900.png" alt="A periodic table of the elements highlighting the ones that can emerge as fission products."/>
-<caption><strong>Figure 2. </strong>The fission products include radioactive <a href="{% link isotopes.md %}">isotopes</a> 
-of the elements shown here. Color is proportional to the log of the instantaneous yield
-(U-235 thermal fission from ENDF/VII.1).
+<img class="img-responsive" src="/img/fission-product-yields-u235-thermal-endf71-900.png"
+alt="A periodic table of the elements highlighting the ones that can emerge as fission
+products."/> <caption>The fission products include radioactive <a href="{% link
+isotopes.md %}">isotopes</a> of the elements shown here. Color is proportional to the log
+of the probability they will show up (U-235 thermal fission from ENDF/VII.1).
 </caption>
 </figure>
 
@@ -57,13 +61,20 @@ of the elements shown here. Color is proportional to the log of the instantaneou
 ## What are the hazards of nuclear waste?
 
 When a nucleus splits, most of the available energy is released immediately and carried
-off by the coolant to do useful work. However, some of the energy is released between
-seconds and thousands of years after the atom splits. This afterglow heat (i.e. decay
-heat) remains after the reactor is shut down, and creates the nuclear waste hazard. 
+off by coolant to do useful work. However, some of the energy is released between seconds
+and thousands of years after the atom splits. Some of this afterglow heat (i.e.  decay
+heat) remains well after a reactor is shut down, and this is what creates the nuclear
+waste hazard. 
 
 <figure> <a href="/img/fission-energy.svg"><img
 src="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
-class="img img-responsive center-block" ></a>  </figure>
+class="img img-responsive center-block" ></a>  
+
+<caption>How much energy comes out via different mechanisms after you fission 1 kg of
+Uranium-235. This much fission is typical of one day of operation of a large
+gigawatt-scale power plant, powering a city of about 1 million people. 99% of the
+delayed energy is released within 1 day and the rest comes out later.</caption>
+</figure>
 
 These delayed energetic emissions mean that nuclear waste is highly [radioactive]({% link
 radioactivity.md %}).  When it first comes out of the reactor, it is so hazardous that if
