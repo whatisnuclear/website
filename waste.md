@@ -251,11 +251,16 @@ each person, not to mention other poisonous emissions directly to the biosphere
 (based on EIA [emissions
 data](https://www.eia.gov/environment/emissions/ghg_report/ghg_carbon.php)). 
 
-If you want raw numbers: in 2018, there were just over 80,000 metric tonnes of
-high-level waste in the USA.  Between 1971 and 2018, nuclear reactors in the
-USA generated 3000 GW-years of electricity to make this waste.  
+If you want raw numbers: in 2018, there were just over 80,000 metric tonnes of high-level
+waste in the USA.  Between 1971 and 2018, nuclear reactors in the USA generated 3000
+GW-years of electricity to make this waste. 
 
-The astoundingly low amount of waste is thanks to the near magical energy
+For comparison, in 2007 alone the US burned 948,000,000 metric tonnes of coal. This means
+that coal plants made 32 times more waste **every single day** than the US nuclear fleet
+has made **in the past 45 years!** Granted, coal made a higher fraction of the country's
+electricity, but the numbers are still crazy impressive for nuclear.
+
+The astoundingly low amount of nuclear waste is thanks to the near magical energy
 density of the atom.
 
 </div>
