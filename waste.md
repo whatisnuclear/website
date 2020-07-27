@@ -85,7 +85,7 @@ asked:
 >
 > &mdash; Enrico Fermi
 
-Since he asked that question, he have gained more than 60 years of experience with nuclear
+Since he asked that question, we have gained more than 60 years of experience with nuclear
 power stations. So how have we done? Read on!
 
 
