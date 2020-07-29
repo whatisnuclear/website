@@ -13,13 +13,13 @@ image: /img/fission-chain-reaction.jpg
 # What about the waste?
 Like all energy sources, nuclear reactors make waste. Unlike typical chemical or
 combustion wastes, nuclear waste is quite exotic and particularly feared. Here, you will
-learn:
+learn answers to:
 
-* [What nuclear waste is](#what)
-* [What its hazards are](#hazards)
-* [How it is stored today](#current)
-* [What the long-term plans and options are](#whattodo)
-* [How much waste we make](#howmuch)
+* [What is nuclear waste?](#what)
+* [What are its hazards?](#hazards)
+* [How is it stored today?](#current)
+* [What are the long-term plans?](#whattodo)
+* [How much waste do we make?](#howmuch)
 * [What is the composition of nuclear waste?](#composition)
 
 <a name="what"></a>
@@ -58,6 +58,22 @@ of the probability they will show up (U-235 thermal fission from ENDF/VII.1).
 </caption>
 </figure>
 
+Nuclear fuel loaded into commercial reactors is generally in the form of solid
+ceramic pellets that are stacked into metal tubes and bundled together in fuel assemblies.
+After the atoms in the pellet split to release their energy, the pellets in tubes emerge as 
+nuclear waste. Nuclear waste is roughly in the same form as the pellets that went in, and
+basically has the consistency of a teacup. Commercial nuclear waste is not green ooze.
+
+<figure>
+<a href="/img/uranium-pellet-lg.jpg">
+<img class="img-responsive" src="/img/uranium-pellet-sm.jpg"
+alt="A nuclear fuel pellet before being put in a reactor"/></a>
+<caption>This is what nuclear fuel looks like before it is used. Before the atoms split,
+it is only slightly radioactive and can be handled with a glove. After fission occurs, it
+is hazardously radioactive and cannot be handled without shielding. (<a
+href="https://www.flickr.com/photos/nrcgov/15420174614">NRC photo</a>)</caption>
+</figure>
+
 <div class="alert alert-success" role="alert" markdown="1">
 You may also hear nuclear waste referred to as *spent nuclear fuel* or *used nuclear
 fuel*. These terms are intended to indicate that it is recyclable, but they all refer to
@@ -68,11 +84,9 @@ the stuff known commonly as *nuclear waste*.
 <br/>
 ## What are the hazards of nuclear waste?
 
-When a nucleus splits, most of the available energy is released immediately and carried
-off by coolant to do useful work. However, some of the energy is released between seconds
-and thousands of years after the atom splits. Some of this afterglow heat (i.e.  decay
-heat) remains well after a reactor is shut down, and this is what creates the nuclear
-waste hazard. 
+When a nucleus splits, most of the energy is released immediately and carried off by
+coolant to do useful work. However, energy continues to be released for thousands of years
+after the atom splits. This *afterglow heat* is what makes nuclear waste hazardous.
 
 <figure> <a href="/img/fission-energy.svg"><img
 src="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
@@ -93,7 +107,7 @@ energy emerges, the waste becomes less radioactive (and so also less hazardous) 
 moment. Still, it remains hazardous for thousands of years.
 
 The nuclear waste question fundamentally asks whether or not humanity can prevent this
-radioactive material from causing unacceptable harm to people and the environment.
+radioactive material from causing harm to people and the environment.
 
 This question was recognized very early on in nuclear history, by Enrico Fermi himself
 (the lead scientist in charge of the world's first man-made nuclear chain reaction), who
@@ -112,7 +126,11 @@ power stations. So how have we done? Read on!
 <a name="current"></a>
 In practice, the spent fuel is never unshielded. It is kept underwater (water is an
 excellent shield) for a few years in *spent fuel pools* until the radiation heat levels
-decay to levels that can be cooled without water.
+decay to levels that can be cooled without water. 
+
+<div class="alert alert-success" role="alert" markdown="1">
+Don't miss [this great XKCD "what if" scenario](https://what-if.xkcd.com/29/) asking about swimming in spent fuel pools
+</div>
 
 <figure>
 <a href="/img/spent-fuel-pool.jpg">
@@ -123,7 +141,7 @@ href="https://www.flickr.com/photos/nrcgov/14698776453/">Photo by the NRC</a>
 </caption>
 </figure>
 
-After cooling in the spent fuel pool for several years, nuclear waste is moved into large
+After cooling in the spent fuel pool for 5-8 years, nuclear waste is moved into large
 concrete canisters called dry casks. These casks hold several spent fuel assemblies each.
 
 <figure>
@@ -152,6 +170,11 @@ The fact that nuclear plants keep all of their waste on site for their entire li
 be considered a major positive environmental attribute compared with energy sources that emit vast
 waste into the atmosphere or require vast manufacturing waste during fabrication.
 
+<div class="alert alert-success" role="alert" markdown="1">
+Here's a [great video showing actual spent fuel operations in a nuclear power
+plant](https://www.youtube.com/watch?v=mILvWNgggfU).
+</div>
+
 <a name="whattodo"></a>
 ## What are the long-term options for nuclear waste?
 
@@ -160,10 +183,12 @@ can agree that there are reasons to try to get it even further away from the bio
 
 ### Deep geologic disposal
 
-There is reasonable scientific consensus that putting the nuclear waste in geologic
-formations that are expected to be stable for many millions of years. This way, if the
-material is released in the far future, it will have already released all of its afterglow
-heat and will be radiologically inert.
+There is scientific consensus that putting the nuclear waste in geologic formations that
+are expected to be stable for many millions of years is appropriate (e.g. see the [Blue
+Ribbon Commission report
+(pdf)](https://www.energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf)).
+This way, if the material is released in the far future, it will have already released all
+of its afterglow heat and will be radiologically inert.
 
 The US studied and constructed large portions of Yucca Mountain as the national spent
 fuel disposal site, but the community was not consulted sufficiently beforehand, and the
@@ -361,6 +386,8 @@ structural material such as zirconium and stainless steel.</caption> <tr><th
  * [NEI nuclear waste storage stats](https://www.nei.org/resources/statistics/used-fuel-storage-and-nuclear-waste-fund-payments)
  * [IEAE TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
  * [Deep Borehole Disposal (DBD) of Radioactive Waste](https://www.osti.gov/servlets/purl/1420819)
+ * [SOLID WASTE FROM THE OPERATION AND DECOMMISSIONING OF POWER PLANTS (ORNL/SPR-2016/774)](https://www.energy.gov/sites/prod/files/2017/01/f34/Environment%20Baseline%20Vol.%203--Solid%20Waste%20from%20the%20Operation%20and%20Decommissioning%20of%20Power%20Plants.pdf) (PDF)
+ * [NRC Spent Fuel Storage Q&A](https://www.nrc.gov/waste/spent-fuel-storage/faqs.html)
 
 </div>
 </div>
