@@ -180,6 +180,8 @@ in dry casks at the Columbia Generating Station in Washington state.
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EUvvIzH2W6g" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+
 To our knowledge, no one has been injured or killed by commercial nuclear waste in dry
 cask storage. While future incidents are possible, it is fairly clear that the rate of
 injury from this material pales almost in insignificance compared to the 8 million people
@@ -314,6 +316,25 @@ report](https://www.iaea.org/publications/7112/implications-of-partitioning-and-
 <span class="label label-success">See Also</span> See our [main recycling page]({% link
 recycling.md %}) for a more thorough discussion of recycling.
 
+### Transportation
+
+How does nuclear waste move from the reactor to the disposal site? We have developed
+containers that can handle the hazards of transportation without breaking. The US DOE and
+others have for example tested these containers by burning them in jet fuel, smashing into
+them with rocket-powered trains, crashing them into cement walls, and dropping them onto
+spikes. 
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Rmp3_CLx4VY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Still, some communities have expressed concern that, even if the radiation doesn't leak,
+there could be a long delay on rail traffic if a derailment happens. This can be a major
+concern in the oil field areas of Texas where many millions of dollars of oil are rail
+shipped out per day. So it's not just about radiological safety, but also these kinds of
+subtler concerns that must be considered.
+
+
 ### Crazy ideas
 
 Other things have been proposed as a solution for nuclear waste but are mostly bad ideas. 
@@ -420,6 +441,7 @@ summarizing much of the current state of nuclear waste management
  * [IEAE TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
  * [SOLID WASTE FROM THE OPERATION AND DECOMMISSIONING OF POWER PLANTS (ORNL/SPR-2016/774)](https://www.energy.gov/sites/prod/files/2017/01/f34/Environment%20Baseline%20Vol.%203--Solid%20Waste%20from%20the%20Operation%20and%20Decommissioning%20of%20Power%20Plants.pdf) (PDF)
  * [INTEGRATED REVIEW SERVICE FOR RADIOACTIVE WASTE AND SPENT FUEL MANAGEMENT, DECOMMISSIONING AND REMEDIATION (ARTEMIS) (pdf)](https://international.andra.fr/sites/international/files/2020-05/Rapport%20mission%20ARTEMIS.pdf)
+ * [Sandia National Lab's Nuclear Waste Management Program](https://energy.sandia.gov/programs/nuclear-waste-management/)
    -- a 2018 review of the French nuclear waste disposal program
  * [The IAEA Online Information Resource for Radioactive Waste Management](https://newmdb.iaea.org/default.aspx)
  * [Deep Borehole Disposal (DBD) of Radioactive Waste](https://www.osti.gov/servlets/purl/1420819)
