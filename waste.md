@@ -2,7 +2,7 @@
 layout: default
 title: What is Nuclear Waste?
 category: physics
-description: What is nuclear waste? Nuclear waste is the material that nuclear fuel becomes after it is used in a reactor.
+description: What is nuclear waste? Nuclear waste is primarily the atoms that are left over after fuel atoms split in a fission chain reaction.
 author: Nick Touran
 image: /img/fission-chain-reaction.jpg
 ---
@@ -11,12 +11,14 @@ image: /img/fission-chain-reaction.jpg
 <div class="col-md-8" markdown="1">
 
 # What about the waste?
-Like all energy sources, nuclear reactors make waste. Unlike typical chemical or
-combustion wastes, nuclear waste is particularly feared. Yet, because of the physics
-leverage of E=MC², nuclear energy systems are unique in their ability to internalize all
-of their waste legacy into a small and low-impact footprint.
+Nuclear reactors make waste. The physics leverage of E=MC² makes nuclear waste uniquely
+*concentrated*; it's both extraordinarily small and seriously hazardous. The relatively
+tiny amount of waste is intriguing in that its overall environmental, health, and land
+footprint can be minimal. But, there is legitimate concern that the hazards may be
+difficult to contain.
 
-Here, you will learn answers to:
+This page digs into the nuance of nuclear waste, and points to additional information for
+going deeper. Here, you will learn:
 
 * [What is nuclear waste?](#what)
 * [What are its hazards?](#hazards)
@@ -27,14 +29,9 @@ Here, you will learn answers to:
 
 <a name="what"></a>
 ## What is Nuclear Waste?
-Nuclear waste is the material that nuclear fuel becomes after it is used in a [reactor]({{
-site.baseurl }}{% link reactors.md %}).  From the outside, it looks exactly like the fuel
-that was loaded into the reactor &mdash; typically assemblies of cylindrical metal rods
-enclosing fuel pellets. But since nuclear reactions have occurred, the contents
-aren't quite the same.
-
-Nuclear energy is released when a nuclear fuel nucleus snaps into two. The key component
-of nuclear waste is the leftover smaller nuclei, known as fission products. Observe:
+Nuclear energy is released when a nuclear fuel nucleus snaps into two in a [reactor]({{
+site.baseurl }}{% link reactors.md %}). The key component
+of nuclear waste is the leftover smaller nuclei, known as fission products.
 
 <figure>
 <a href="/img/fission-chain-reaction-plainsvg.svg">
@@ -45,6 +42,10 @@ alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission pr
 nucleus. Note that Krypton and Cesium are two possible fission products, but
 many other pairs of elements also occur.</caption>
 </figure>
+
+From the outside, nuclear waste looks exactly like the fuel that was loaded into the
+reactor &mdash; typically assemblies of cylindrical metal rods enclosing fuel pellets. But
+because nuclear reactions have occurred, the contents aren't quite the same.
 
 Like everything, nuclear waste is made of elements you can find on the periodic table,
 including [isotopes]({% link isotopes.md %}) of iron, zinc, germanium, zirconium, silver,
