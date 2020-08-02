@@ -2,7 +2,7 @@
 layout: default
 title: What is Nuclear Waste?
 category: physics
-description: Find out what nuclear waste is and what can be done about it. Nuclear waste is the material that nuclear fuel becomes after it is used in a reactor.
+description: What is nuclear waste? Nuclear waste is the material that nuclear fuel becomes after it is used in a reactor.
 author: Nick Touran
 image: /img/fission-chain-reaction.jpg
 ---
@@ -12,8 +12,11 @@ image: /img/fission-chain-reaction.jpg
 
 # What about the waste?
 Like all energy sources, nuclear reactors make waste. Unlike typical chemical or
-combustion wastes, nuclear waste is quite exotic and particularly feared. Here, you will
-learn answers to:
+combustion wastes, nuclear waste is particularly feared. Yet, because of the physics
+leverage of E=MC², nuclear energy systems are unique in their ability to internalize all
+of their waste legacy into a small and low-impact footprint.
+
+Here, you will learn answers to:
 
 * [What is nuclear waste?](#what)
 * [What are its hazards?](#hazards)
@@ -62,7 +65,9 @@ Nuclear fuel loaded into commercial reactors is generally in the form of solid
 ceramic pellets that are stacked into metal tubes and bundled together in fuel assemblies.
 After the atoms in the pellet split to release their energy, the pellets in tubes emerge as 
 nuclear waste. Nuclear waste is roughly in the same form as the pellets that went in, and
-basically has the consistency of a teacup. Commercial nuclear waste is not green ooze.
+basically has the consistency of a teacup. Commercial nuclear waste is not green ooze
+(which may have been inspired by liquid-form nuclear weapons waste like that at 
+[Hanford]({% link hanford.md %})).
 
 <figure>
 <a href="/img/uranium-pellet-lg.jpg">
@@ -86,7 +91,8 @@ the stuff known commonly as *nuclear waste*.
 
 When a nucleus splits, most of the energy is released immediately and carried off by
 coolant to do useful work. However, energy continues to be released for thousands of years
-after the atom splits. This *afterglow heat* is what makes nuclear waste hazardous.
+after the atom splits. This *afterglow heat* is what makes nuclear waste hazardous. Unlike
+most toxic waste, the fact that nuclear waste becomes less toxic with time is quite unique.
 
 <figure> <a href="/img/fission-energy.svg"><img
 src="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
@@ -106,14 +112,24 @@ you stood close to it while it was unshielded, you would receive a lethal radiat
 within a few seconds and would die of [acute radiation sickness
 [wikipedia]](https://en.wikipedia.org/wiki/Radiation_poisoning) within a few days. As the
 energy emerges, the waste becomes less radioactive (and so also less hazardous) every
-moment. Still, it remains hazardous for thousands of years.
+moment. Still, it does not transform from hazardous to benign for thousands of years.
+
+<figure>
+<a href="/img/ingestion-radiotoxicity-nuclear-waste.png"><img
+src="/img/ingestion-radiotoxicity-nuclear-waste.png" alt="Graph showing radiotoxicity of
+nuclear waste decaying over time" class="img img-responsive center-block"></a>
+<caption>How dangerous nuclear waste is to eat as a function of time compared to eating
+natural uranium ore (dotted line). The various curves show that the toxicity decreases
+faster if you recycle the waste and burn the very long-lived radionuclides as
+fuel. (From <a
+href="https://www.researchgate.net/publication/252069412_Impact_Limits_of_Partitioning_and_Transmutation_Scenarios_on_Radiotoxicity_of_Actinides_in_Radioactive_Waste">Magil
+2003</a>)</caption> 
+</figure>
 
 The nuclear waste question fundamentally asks whether or not humanity can prevent this
-radioactive material from causing harm to people and the environment.
-
-This question was recognized very early on in nuclear history, by Enrico Fermi himself
-(the lead scientist in charge of the world's first man-made nuclear chain reaction), who
-asked:
+radioactive material from causing harm to people and the environment.  This question was
+recognized early on in nuclear history, by Enrico Fermi himself (the lead scientist in
+charge of the world's first man-made nuclear chain reaction), who asked:
 
 > It is not clear that the public will accept an energy source that produces this much
 > radioactivity
@@ -121,14 +137,14 @@ asked:
 > &mdash; Enrico Fermi
 
 Since he asked that question, we have gained more than 60 years of experience with nuclear
-power stations. So how have we done? Read on!
+power stations. So how have we done?
 
 
 ## What do we currently do with our nuclear waste?
 <a name="current"></a>
 In practice, the spent fuel is never unshielded. It is kept underwater (water is an
-excellent shield) for a few years in *spent fuel pools* until the radiation heat levels
-decay to levels that can be cooled without water. 
+excellent shield) for 5--8 years in *spent fuel pools* until the radiation levels decay to
+levels that can be cooled without water.
 
 <div class="alert alert-success" role="alert" markdown="1">
 Don't miss [this great XKCD "what if" scenario](https://what-if.xkcd.com/29/) asking about swimming in spent fuel pools
@@ -143,8 +159,9 @@ href="https://www.flickr.com/photos/nrcgov/14698776453/">Photo by the NRC</a>
 </caption>
 </figure>
 
-After cooling in the spent fuel pool for 5-8 years, nuclear waste is moved into large
-concrete canisters called dry casks. These casks hold several spent fuel assemblies each.
+After cooling in the spent fuel pools, nuclear waste is either recycled (France) or moved
+into large concrete canisters called *dry casks* (most other places). These casks hold
+several spent fuel assemblies each.
 
 <figure>
 <a href="/img/dry-casks.jpg">
@@ -163,19 +180,24 @@ in dry casks at the Columbia Generating Station in Washington state.
 </div>
 
 To our knowledge, no one has been injured or killed by commercial nuclear waste in dry
-cask storage. While future incidents are possible, it is fairly clear that the
-rate of injury from this material pales almost in insignificance compared to the 8 million
-people per year who die from [air pollution complications caused by fossil fuel and biofuel
-emissions (WHO numbers)](https://www.who.int/health-topics/air-pollution). 
+cask storage. While future incidents are possible, it is fairly clear that the rate of
+injury from this material pales almost in insignificance compared to the 8 million people
+per year who actually do die from [air pollution complications caused by fossil fuel and
+biofuel emissions (WHO numbers)](https://www.who.int/health-topics/air-pollution). 
 
 The fact that nuclear plants keep all of their waste on site for their entire lifecycle can 
 be considered a major positive environmental attribute compared with energy sources that emit vast
-waste into the atmosphere or require vast manufacturing waste during fabrication.
+waste into the atmosphere or produce vast manufacturing wastes during fabrication.
 
 <div class="alert alert-success" role="alert" markdown="1">
 Here's a [great video showing actual spent fuel operations in a nuclear power
 plant](https://www.youtube.com/watch?v=mILvWNgggfU).
 </div>
+
+In France, the waste that comes out of the recycling process (discussed below) is [turned
+into glass in a process called
+vitrification](https://www.radioactivity.eu.com/site/pages/Vitrified_HA_Waste.htm), and
+then stored in air-draft cooling racks.
 
 <a name="whattodo"></a>
 ## What are the long-term options for nuclear waste?
@@ -253,22 +275,26 @@ Isolation](https://www.deepisolation.com/).
 
 ### Recycling nuclear waste
 
-Nuclear waste generally is over 90% uranium. Thus, the spent fuel (waste)
-still contains 90% usable fuel! It can be chemically processed and placed in <a href="{%
-link fast-reactor.html %}">advanced fast reactors</a> (which have not been deployed on any
-major scale yet) to <em>close the fuel cycle</em>. A closed fuel cycle means much less
-nuclear waste and much more energy extracted from the raw ore.
+Nuclear waste generally is over 90% uranium. Thus, the spent fuel (waste) still contains
+90% usable fuel! It can be chemically processed and placed in other reactors to <em>close
+the fuel cycle</em>. A closed fuel cycle means much less nuclear waste and much more
+energy extracted from the raw ore. Additionally, this process allows you to convert your
+waste into chemical forms that are totally immobilized.
 
-France currently recycles spent fuel, although they only recycle one time before disposal.
-The US had a recycling program that was shut down because it created Plutonium, which
-could be used to make a nuclear weapon. Were some plutonium diverted in the recycling
-process, a non-nuclear entity could be one step close to building a bomb. However, under
-programs such as the (now stalled) 
-<a href="https://en.wikipedia.org/wiki/International_Framework_for_Nuclear_Energy_Cooperation">GNEP [wikipedia]</a>, 
-where only countries who already have nuclear weapons recycle, proliferation-free waste
-recycling can exist. Since the many of the largest energy users are already nuclear
-weapons states, a massive expansion of nuclear could be done there with no additional
-proliferation concerns whatsoever.
+France currently recycles their spent fuel. They put the remaining good nuclear fuel back
+in their reactors in the form of MOX fuel and immobilize the remaining waste in vitrified
+borosilicate glass.
+
+The US had a recycling program featuring the use of <a href="{% link fast-reactor.html
+%}">advanced fast reactors</a> (which have not been deployed on any major scale yet) that
+was shut down because it created Plutonium, which could be used to make a nuclear weapon.
+Were some plutonium diverted in the recycling process, a non-nuclear entity could be one
+step close to building a bomb. However, under programs such as the (now stalled) <a
+href="https://en.wikipedia.org/wiki/International_Framework_for_Nuclear_Energy_Cooperation">GNEP
+[wikipedia]</a>, where only countries who already have nuclear weapons recycle,
+proliferation-free waste recycling can exist. Since the many of the largest energy users
+are already nuclear weapons states, a massive expansion of nuclear could be done there
+with no additional proliferation concerns whatsoever.
 
 <div class="alert alert-success" role="alert" markdown="1">
 You will find more discussion of proliferation on our [nonproliferation page]({% link
@@ -333,26 +359,29 @@ density of the atom.
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<div class="pull-right"> <img class="thumbnail" src="img/fuel_assembly.jpg" alt="A chopped section of a spent fuel (nuclear waste) assembly (this particular one is actually a mock-up)" title="The top of a fuel assembly (this particular one is actually a mock-up)" /></div>
+<div class="pull-right"> <img class="thumbnail" src="img/fuel_assembly.jpg" alt="A chopped
+section of a spent fuel (nuclear waste) assembly (this particular one is actually a
+mock-up)" title="The top of a fuel assembly (this particular one is actually a mock-up)"
+/></div>
 
 <a name="composition"></a>
 ## Composition of nuclear waste
 
-Spent nuclear fuel composition varies depending on what was put into the reactor, how long the reactor 
-operated, and how long the waste has been sitting out of the reactor. A typical US reactor's waste 
-composition is laid out in **table 1**. Notice that most of the Uranium is still in the 
-fuel when it leaves the reactor, even though its enrichment has fallen significantly. This Uranium 
-can be used in [advanced fast reactors]({% link fast-reactor.html %}) as fuel and is a 
-valuable energy source. The **minor actinides**, which include Neptunium, Americium, 
-and Curium, are very long-lived nuclides that cause serious concern when it comes to storing them 
-for more than 100,000 years. Fortunately, these are fissionable in fast reactors and can thus be 
-used as fuel! This still would leave us with the **fission products**. The decay of 
-each nuclide vs. time is shown in Figure 3.
+Spent nuclear fuel composition varies depending on what was put into the reactor, how long
+the reactor operated, and how long the waste has been sitting out of the reactor. A
+typical US reactor's waste composition is laid out in **table 1**. Notice that most of the
+Uranium is still in the fuel when it leaves the reactor, even though its enrichment has
+fallen significantly. This Uranium can be used in [advanced fast reactors]({% link
+fast-reactor.html %}) as fuel and is a valuable energy source. The **minor actinides**,
+which include Neptunium, Americium, and Curium, are long-lived nuclides that cause serious
+concern when it comes to storing them for more than 100,000 years. Fortunately, these are
+fissionable in fast reactors and can thus be used as fuel! This still would leave us with
+the **fission products**. The decay of each nuclide vs. time is shown below.
 
 <div class="thumbnail">
 <a href="/img/waste-curies-long.gif"><img src="/img/waste-curies-long-small.gif" alt="Components of decay heat vs. time"></a>
 <div class="caption">
-<strong>Figure 3.</strong> A chart of the activity of all the radioactive
+A chart of the activity of all the radioactive
 nuclides as a function of time up to 1 million years from 1 MT of nuclear
 waste, burned to 45 MWd/kg. Click for a larger view. Data was computed with
 ORIGEN-S from Oak Ridge by whatisnuclear.com. 
@@ -380,16 +409,24 @@ structural material such as zirconium and stainless steel.</caption> <tr><th
 
 <a name="refs"></a>
 ## See Also
- * [Fission product yields from The National Nuclear Data Center](http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.1&nsub=11)
- * [The Hiding Place: Inside the World's First Long-Term Storage Facility for Highly Radioactive Nuclear Waste](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste)
- * [The Onkalo nuclear waste repository (wiki)](https://en.wikipedia.org/wiki/Onkalo_spent_nuclear_fuel_repository)
- * [Energy Northwest Video of dry casks](https://www.youtube.com/watch?v=EUvvIzH2W6g)
+ * [Management of Spent Fuel from Nuclear Power
+   Reactors](https://www.iaea.org/publications/magazines/bulletin/60-2) -- IAEA Bulletin
+summarizing much of the current state of nuclear waste management
+ * Canada's [Nuclear Waste Management Organization Reports](https://www.nwmo.ca/en/Reports) -- perhaps the most comprehensive collection of information on nuclear waste ever compiled.
  * [GAO Disposal of Nuclear Waste page](https://www.gao.gov/key_issues/disposal_of_highlevel_nuclear_waste/issue_summary)
- * [NEI nuclear waste storage stats](https://www.nei.org/resources/statistics/used-fuel-storage-and-nuclear-waste-fund-payments)
- * [IEAE TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
- * [Deep Borehole Disposal (DBD) of Radioactive Waste](https://www.osti.gov/servlets/purl/1420819)
- * [SOLID WASTE FROM THE OPERATION AND DECOMMISSIONING OF POWER PLANTS (ORNL/SPR-2016/774)](https://www.energy.gov/sites/prod/files/2017/01/f34/Environment%20Baseline%20Vol.%203--Solid%20Waste%20from%20the%20Operation%20and%20Decommissioning%20of%20Power%20Plants.pdf) (PDF)
+ * [Yucca Mountain Science and Engineering Report](https://www.energy.gov/downloads/yucca-mountain-science-and-engineering-report) -- 900 pages of details about Yucca Mountain nuclear waste disposal site
  * [NRC Spent Fuel Storage Q&A](https://www.nrc.gov/waste/spent-fuel-storage/faqs.html)
+ * [IEAE TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
+ * [SOLID WASTE FROM THE OPERATION AND DECOMMISSIONING OF POWER PLANTS (ORNL/SPR-2016/774)](https://www.energy.gov/sites/prod/files/2017/01/f34/Environment%20Baseline%20Vol.%203--Solid%20Waste%20from%20the%20Operation%20and%20Decommissioning%20of%20Power%20Plants.pdf) (PDF)
+ * [INTEGRATED REVIEW SERVICE FOR RADIOACTIVE WASTE AND SPENT FUEL MANAGEMENT, DECOMMISSIONING AND REMEDIATION (ARTEMIS) (pdf)](https://international.andra.fr/sites/international/files/2020-05/Rapport%20mission%20ARTEMIS.pdf)
+   -- a 2018 review of the French nuclear waste disposal program
+ * [The IAEA Online Information Resource for Radioactive Waste Management](https://newmdb.iaea.org/default.aspx)
+ * [Deep Borehole Disposal (DBD) of Radioactive Waste](https://www.osti.gov/servlets/purl/1420819)
+ * [NEI nuclear waste storage stats](https://www.nei.org/resources/statistics/used-fuel-storage-and-nuclear-waste-fund-payments)
+ * [Fission product yields from The National Nuclear Data Center](http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.1&nsub=11)
+ * [The Onkalo nuclear waste repository (wiki)](https://en.wikipedia.org/wiki/Onkalo_spent_nuclear_fuel_repository)
+ * [The Hiding Place: Inside the World's First Long-Term Storage Facility for Highly Radioactive Nuclear Waste](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste)
+ * [Energy Northwest Video of dry casks](https://www.youtube.com/watch?v=EUvvIzH2W6g)
 
 </div>
 </div>
