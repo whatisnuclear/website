@@ -130,14 +130,14 @@ href="https://www.researchgate.net/publication/252069412_Impact_Limits_of_Partit
 The nuclear waste question fundamentally asks whether or not humanity can prevent this
 radioactive material from causing harm to people and the environment.  This question was
 recognized early on in nuclear history, by Enrico Fermi himself (the lead scientist in
-charge of the world's first man-made nuclear chain reaction), who asked:
+charge of the world's first man-made nuclear chain reaction), who stated:
 
 > It is not clear that the public will accept an energy source that produces this much
 > radioactivity
 >
 > &mdash; Enrico Fermi
 
-Since he asked that question, we have gained more than 60 years of experience with nuclear
+Since he made that statement, we have gained more than 60 years of experience with nuclear
 power stations. So how have we done?
 
 
@@ -248,7 +248,12 @@ href="https://www.flickr.com/photos/departmentofenergy/7604695116">Photo by the 
 Finland is currently the world leader in long-term commercial nuclear waste disposal
 progress. Their Onkalo deep geologic repository is [expected to the be the world's first
 commercial one to
-operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). 
+operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). They produced
+an excellent video describing the plan. 
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A9vWhoT_45s" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Deep Boreholes
 
@@ -450,6 +455,8 @@ summarizing much of the current state of nuclear waste management
  * [The Onkalo nuclear waste repository (wiki)](https://en.wikipedia.org/wiki/Onkalo_spent_nuclear_fuel_repository)
  * [The Hiding Place: Inside the World's First Long-Term Storage Facility for Highly Radioactive Nuclear Waste](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste)
  * [Energy Northwest Video of dry casks](https://www.youtube.com/watch?v=EUvvIzH2W6g)
+ * [Sam Brinton's Informal Bibliography on Nuclear Waste
+   Resources](https://docs.google.com/document/d/1N4GKU7aZWAsjRRCzMLkI84t6_r-9ml_TO5JlD8MtAbk) -- A nuclear waste professional's list of resources. Written up [here](https://neutronbytes.com/2016/08/06/what-to-read-about-nuclear-waste/).
 
 </div>
 </div>
