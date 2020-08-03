@@ -1,8 +1,8 @@
 ---
 layout: default
-title: What is Nuclear Waste?
+title: What about the waste?
 category: physics
-description: What is nuclear waste? Nuclear waste is primarily the atoms that are left over after fuel atoms split in a fission chain reaction.
+description: What is nuclear waste? Is it appropriate to expand nuclear in light of it? Nuclear waste is primarily the atoms that are left over after fuel atoms split in a fission chain reaction.
 author: Nick Touran
 image: /img/fission-chain-reaction.jpg
 ---
