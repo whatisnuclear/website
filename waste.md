@@ -17,7 +17,7 @@ tiny amount of waste is intriguing in that its overall environmental, health, an
 footprint can be minimal. But, there is legitimate concern that the hazards may be
 difficult to contain.
 
-This page digs into the nuance of nuclear waste, and points to additional information for
+This page *digs in* to the nuance of nuclear waste, and points to additional information for
 going deeper. Here, you will learn:
 
 * [What is nuclear waste?](#what)
@@ -225,10 +225,10 @@ can agree that there are reasons to try to get it even further away from the bio
 
 There is scientific consensus that putting the nuclear waste in geologic formations that
 are expected to be stable for many millions of years is appropriate (e.g. see the [Blue
-Ribbon Commission report
-(pdf)](https://www.energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf)).
-This way, if the material is released in the far future, it will have already released all
-of its afterglow heat and will be radiologically inert.
+Ribbon Commission report (pdf)](https://www.energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf) and
+the [2020 OECD report](http://www.oecd-nea.org/rwm/pubs/2020/7532-dgr-geological-disposal-radioactive-waste.pdf)
+(pdf) on waste disposal).  This way, if the material is released in the far future, it
+will have already released all of its afterglow heat and will be radiologically inert.
 
 The US studied and constructed large portions of Yucca Mountain as the national spent
 fuel disposal site, but the community was not consulted sufficiently beforehand, and the
@@ -449,6 +449,9 @@ structural material such as zirconium and stainless steel.</caption> <tr><th
 
 <a name="refs"></a>
 ## See Also
+ * [Management and Disposal of High-Level Radioactive Waste: Global Progress and Solutions
+   (OECD/NEA 2020)](http://www.oecd-nea.org/rwm/pubs/2020/7532-dgr-geological-disposal-radioactive-waste.pdf)
+   -- OECD/NEA pdf report on the situation with waste from 2020
  * [Management of Spent Fuel from Nuclear Power
    Reactors](https://www.iaea.org/publications/magazines/bulletin/60-2) -- IAEA Bulletin
 summarizing much of the current state of nuclear waste management
