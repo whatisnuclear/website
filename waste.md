@@ -164,12 +164,25 @@ After cooling in the spent fuel pools, nuclear waste is either recycled (France)
 into large concrete canisters called *dry casks* (most other places). These casks hold
 several spent fuel assemblies each.
 
+<!--
 <figure>
 <a href="/img/dry-casks.jpg">
 <img class="img-responsive" src="/img/dry-casks-sm.jpg" alt="Dry cask nuclear fuel storage"/>
 </a>
 <caption>Nuclear waste in a dry cask storage facility. <a
 href="https://www.flickr.com/photos/nrcgov/36801710635/">Photo by the NRC</a>
+</caption>
+</figure>
+-->
+<figure>
+<a href="/img/paris-at-dry-cask.jpg">
+<img class="img-responsive" src="/img/paris-at-dry-cask.jpg" alt="Dry cask nuclear fuel storage"/>
+</a>
+<caption>Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
+Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: <a
+href="https://twitter.com/ParisOrtizWines/status/1195184970613936129/photo/1">Paris
+Ortiz-Wines</a>, Director of Outreach at <a
+href="https://twitter.com/envprogress">Environmental Progress</a>
 </caption>
 </figure>
 
