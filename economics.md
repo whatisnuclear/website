@@ -492,8 +492,8 @@ src="/img/ops-shielding.jpg"  alt="OPS Shielding graphic "/></a>
 </div>
 
 <div class="alert alert-success" markdown="1">
-<b>Update</b>: There's now [a full page on OPS]({% link
-_posts/2020-01-26-offshore-power-systems.md %}).
+<b>Update</b>: There's now [a full page on OPS]({% post_url
+2020-01-26-offshore-power-systems %}).
 </div>
 
 This sounds crazy at first, but on second glance it actually is an incredible idea. From a
