@@ -54,9 +54,13 @@ except replying to you.
 You can also find us on the social medias. 
 
 <ul style="list-style-type: none;">
-<li><a href="https://github.com/whatisnuclear" title = "Colllaborate on GitHub"><img src="/img/GitHub-Mark-64px.png" alt="github" width="50"/></a> Collaborate on github</li>
-<li><a href="https://www.facebook.com/pages/Whatisnuclearcom/209141202434177" title = "Like us on Facebook"><img src="/img/FB-f-Logo__blue_50.png" alt="facebook" width="50"/></a> Like us on Facebook</li>
-<li><a href="http://www.twitter.com/whatisnuclear" title="Follow us on twitter"><img src="/img/twitter.png" width="50" alt="Twitter" /></a> Follow us on Twitter</li>
+<li><a href="https://github.com/whatisnuclear" title = "Collaborate on GitHub"><img src="/img/GitHub-Mark-64px.png" alt="github" width="50"/></a> Collaborate on github</li>
+<li><a href="https://www.facebook.com/pages/Whatisnuclearcom/209141202434177" title =
+"Like us on Facebook"><img src="/img/FB-f-Logo__blue_50.png" alt="facebook"
+width="50"/> Like us on Facebook </a></li>
+<li><a href="http://www.twitter.com/whatisnuclear" title="Follow us on twitter"><img
+src="/img/twitter.png" width="50" alt="Twitter" /> Follow us on Twitter</a></li>
+<li><a href="/feed.xml" title="Read our news"> Subscribe to our RSS feed</a></li>
 </ul>
 </div>
 

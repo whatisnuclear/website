@@ -155,10 +155,13 @@ material" title="The letter text"/></p>
 <em>better than plutonium</em> in some rare scenarios, so they don't need to ditch plutonium and
 switch everything over to U-233 (emphasis mine)</p>
 
-More information about clean U-233 can be found in this 1965 article by Woods entitled
-[Clean Uranium-233](https://www.osti.gov/biblio/4602161-clean-uranium).
+More information about the specifics of making clean U-233 can be found in this 1965
+article by Woods entitled [Clean
+Uranium-233](https://www.osti.gov/biblio/4602161-clean-uranium), and in this (more readily
+available) article: [Boswell, Production of U-233 with Low U-232 Content
+(1968)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015003994939&view=1up&seq=763).
 
-Here&rsquo;s a quote from a Frank von Hippel paper on the subject [2]: 
+Here's a quote from a Frank von Hippel paper on the subject [2]: 
 
 <blockquote style="margin: 1em 3em;
 font-size: small;
