@@ -18,12 +18,6 @@ expand capacity, but suitable sites were all taken. What if, he wondered, huge n
 plants could be built in serial at a production facility, put on a barge, and floated
 to sites out at sea?
 
-<div class="alert alert-success" role="alert">
-Welcome /r/energy visitors. The author of this page (/u/whatisnuclear) has been banned
-from /r/energy for brigading, but he was not actually brigading. It was all a mistake.
-Please ask the mods to consider unbanning him.
-</div>
-
 I had heard of Offshore Power Systems and their power plant assembly line before, but
 until recently I did not understand how far along they really had gotten.
 
