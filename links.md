@@ -23,7 +23,7 @@ Ontario, Sweden, Finland, etc.)</td>
 
 <tr>
   <td><a href="https://pubs.acs.org/doi/abs/10.1021/es3051197?source=cen">Prevented
-Moretality and Greenhouse Gas Emissions from Historical and Project Nuclear power</a></td>
+Mortality and Greenhouse Gas Emissions from Historical and Project Nuclear power</a></td>
   <td>The 2013 paper co-authored by climate legend, James Hansen, demonstrating that
 nuclear power had net saved 1.8 million lives by displacing air pollution. See also, this
 <a href="https://blogs.scientificamerican.com/the-curious-wavefunction/nuclear-power-may-have-saved-1-8-million-lives-otherwise-lost-to-fossil-fuels-may-save-up-to-7-million-more/">press release.</a> </td>
