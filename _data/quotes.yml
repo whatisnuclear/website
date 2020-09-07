@@ -134,3 +134,14 @@
   venue: Interview
   date: 2019-10-02
   url: https://nymag.com/intelligencer/2019/10/james-lovelock-on-nuclear-power-and-if-ai-can-stop-warming.html
+
+- name: Cory Booker
+  title: US Senator (D-NJ)
+  img: booker.jpg
+  quote: >
+      I didn’t come to the United States Senate as a big nuclear guy, but when I started
+      looking at the urgency of climate change, I saw that over 50 percent of our
+      non-carbon-producing power right now comes from nuclear.
+  venue: Interview with Grist
+  url: https://grist.org/article/exclusive-cory-booker-says-nuclear-power-must-be-in-any-serious-climate-plan/
+  date: 2019-09-20
