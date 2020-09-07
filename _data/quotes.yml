@@ -14,7 +14,7 @@
   url: https://www.krone.at/2219431
   venue: Interview (translated from Austrian)
   fame: 5
-  expertise: 3
+  expertise: 2
   img: arnold.jpg
 
 - name: Bill Gates
@@ -121,6 +121,8 @@
   url: https://newmatilda.com/2015/12/04/father-of-climate-change-james-hansen-urges-support-for-nuclear-energy-at-cop21-climate-talks/
   venue: COP21 climate conference in Paris
   date: 2015-12-04
+  fame: 2
+  expertise: 4
 
 
 - name: James Lovelock
@@ -134,6 +136,8 @@
   venue: Interview
   date: 2019-10-02
   url: https://nymag.com/intelligencer/2019/10/james-lovelock-on-nuclear-power-and-if-ai-can-stop-warming.html
+  fame: 2
+  expertise: 4
 
 - name: Cory Booker
   title: US Senator (D-NJ)
@@ -145,3 +149,18 @@
   venue: Interview with Grist
   url: https://grist.org/article/exclusive-cory-booker-says-nuclear-power-must-be-in-any-serious-climate-plan/
   date: 2019-09-20
+  fame: 3
+  expertise: 2
+
+- name: John Kerry
+  title: US Secretary of State
+  venue: Talk at MIT about climate
+  date: 2017-01-09
+  url: https://www.youtube.com/watch?v=vXK1gMln-6M
+  fame: 4
+  expertise: 2
+  img: kerry.jpg
+  quote: >
+      I was on the other side of it them. But given this challenge we face today, and
+      given the progress of fourth-generation nuclear, go for it.  No other alternative.
+      Zero emissions.
