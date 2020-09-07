@@ -5,34 +5,39 @@
 # (These can be used to change sorting later as needed)
 #
 - name: Arnold Schwarzenegger
-  date: 2020-08-29
   title: Actor, Former Governor of CA
-  quote: >
-      Green energy alone is not enough to meet demand.  We need a mix. That's
-      why I'm in favor of nuclear energy. For me it is one of the safest
-      methods of generating power.
-  url: https://www.krone.at/2219431
-  venue: Interview (translated from Austrian)
   fame: 5
   expertise: 2
   img: arnold.jpg
+  quotes:
+    - quote: >
+          Green energy alone is not enough to meet demand.  We need a mix. That's
+          why I'm in favor of nuclear energy. For me it is one of the safest
+          methods of generating power.
+      url: https://www.krone.at/2219431
+      venue: Interview (translated from Austrian)
+      date: 2020-08-29
 
 - name: Bill Gates
   title: Philanthropist
   fame: 5
   expertise: 4
-  quote: > 
-      Nuclear is ideal for dealing with climate change, because it is the only
-      carbon-free, scalable energy source that’s available 24 hours a day. The problems
-      with today’s reactors, such as the risk of accidents, can be solved through
-      innovation.
-  url: https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2018
-  venue: Year in Review letter
   img: gates.jpg
-  date: 2018-12-29
+  quotes:
+    - quote: > 
+          Nuclear is ideal for dealing with climate change, because it is the only
+          carbon-free, scalable energy source that’s available 24 hours a day. The problems
+          with today’s reactors, such as the risk of accidents, can be solved through
+          innovation.
+      url: https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2018
+      venue: Year in Review letter
+      date: 2018-12-29
 
 - name: Alexandria Ocasio-Cortez
   title: US Representative (D-NY)
+  fame: 4
+  expertise: 2
+  img: aoc.jpg
   #  quote: >
   #      You bring up an important part of our energy mix which is nuclear. This is
   #      absolutely a critical part of this conversation. One thing I would just like to
@@ -40,127 +45,142 @@
   #      right we name renewables like wind and solar specifically. The door is open for
   #      nuclear but we also have to make sure that community input and the technology is
   #      vetted. I do believe there is an open door there.
-  quote: >
-      The door is open for nuclear but we also have to make sure that community input and
-      the technology is vetted. I do believe there is an open door there.
-  url: https://www.bronxnet.org/watch/videos/9646/?topicId=25
-  date: 2020-05-18
-  venue: Democratic Primary Debate for Congressional District 14
-  fame: 4
-  expertise: 2
-  img: aoc.jpg
+  quotes:
+    - quote: >
+          The door is open for nuclear but we also have to make sure that community input and
+          the technology is vetted. I do believe there is an open door there.
+      url: https://www.bronxnet.org/watch/videos/9646/?topicId=25
+      date: 2020-05-18
+      venue: Democratic Primary Debate for Congressional District 14
 
 - name: Barack Obama
   title: President of the United State of America
-  quote: >
-      But to create more of these clean energy jobs, we need more production, more
-      efficiency, more incentives. That means building a new generation of safe, clean
-      nuclear power plants in this country.
-  venue: 2010 State of the Union Address
-  date: 2010-01-07
-  url: https://www.wbur.org/news/2010/01/27/sotu-address
   fame: 4
   expertise: 2
   img: obama.jpg
+  quotes:
+    - quote: >
+          But to create more of these clean energy jobs, we need more production, more
+          efficiency, more incentives. That means building a new generation of safe, clean
+          nuclear power plants in this country.
+      venue: 2010 State of the Union Address
+      date: 2010-01-07
+      url: https://www.wbur.org/news/2010/01/27/sotu-address
 
 
 - name: Robert Downey Jr.
   title: Actor
-  quote: >
-      It’s like half the people that were out there saying “No nukes! Shut down
-      the power plants!” are now realizing nuclear is the best way to go for
-      energy for the future. I think it’s natural to reexamine your beliefs as
-      you age up.”
-  url: https://www.youtube.com/watch?v=iWXgGefV6NM
-  date: 2016-04-15
   fame: 4
   expertise: 1
   img: downey.jpg
   img_src: https://en.wikipedia.org/wiki/Robert_Downey_Jr.#/media/File:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg
+  quotes:
+    - quote: >
+          It’s like half the people that were out there saying “No nukes! Shut down
+          the power plants!” are now realizing nuclear is the best way to go for
+          energy for the future. I think it’s natural to reexamine your beliefs as
+          you age up.”
+      url: https://www.youtube.com/watch?v=iWXgGefV6NM
+      date: 2016-04-15
 
 - name: Sting
   title: Musician
-  quote: >
-      I think if we’re going to tackle global warming, I think nuclear power is
-      the only way you can create massive amounts of power.
-  url: https://www.rollingstone.com/music/music-features/stings-salvation-songwriter-opens-up-about-dark-obsessions-rock-rebirth-120459/
-  date: 2016-12-01
-  venue: Rolling Stone interview
   fame: 4
   expertise: 1
   img: sting.jpg
   img_src: https://commons.wikimedia.org/wiki/File:Sting_in_April_2018.jpg
+  quotes:
+    - quote: >
+          I think if we’re going to tackle global warming, I think nuclear power is
+          the only way you can create massive amounts of power.
+      url: https://www.rollingstone.com/music/music-features/stings-salvation-songwriter-opens-up-about-dark-obsessions-rock-rebirth-120459/
+      date: 2016-12-01
+      venue: Rolling Stone interview
 
 - name: Lisa Murkowski
-  date: 2016-05-17
   title: US Senator (R-AK)
-  quote: >
-      We are holding this hearing because nuclear energy must be a national
-      priority.  It provides about 20 percent of our nation’s electricity, and
-      63 percent of our emissions-free electricity.  It is safe and extremely
-      reliable.  When cold winters hit the Northeast and the flow of natural gas
-      is restricted, nuclear plants continue to provide electricity to
-      residents, literally saving lives.  When the wind isn’t blowing and the
-      sun isn’t shining, nuclear is still providing essential baseload capacity.
-      For any number of good reasons, nuclear has to remain part of the energy
-      mix
-  url: https://www.energy.senate.gov/public/index.cfm/files/serve?File_id=AC3CA6E5-367D-439B-AE6B-B159B9CDA6C9
-  venue: Oversight Hearing on Advanced Nuclear Technologies
   fame: 3
   expertise: 3
   img: murkowski.jpg
+  quotes:
+    - quote: >
+          We are holding this hearing because nuclear energy must be a national
+          priority.  It provides about 20 percent of our nation’s electricity, and
+          63 percent of our emissions-free electricity.  It is safe and extremely
+          reliable.  When cold winters hit the Northeast and the flow of natural gas
+          is restricted, nuclear plants continue to provide electricity to
+          residents, literally saving lives.  When the wind isn’t blowing and the
+          sun isn’t shining, nuclear is still providing essential baseload capacity.
+          For any number of good reasons, nuclear has to remain part of the energy
+          mix
+      url: https://www.energy.senate.gov/public/index.cfm/files/serve?File_id=AC3CA6E5-367D-439B-AE6B-B159B9CDA6C9
+      venue: Oversight Hearing on Advanced Nuclear Technologies
+      date: 2016-05-17
 
 - name: James Hansen
   title: Climate Scientist
   img: hansen.jpg
-  quote: >
-      And for us to say ‘Oh we’re not going to use all the tools that we have to try to
-      solve it’ is crazy. We have to use all of the things that we have at
-      our disposal and clearly nuclear power, next generation nuclear power especially,
-      has tremendous potential to be a big part of the solution.
-  url: https://newmatilda.com/2015/12/04/father-of-climate-change-james-hansen-urges-support-for-nuclear-energy-at-cop21-climate-talks/
-  venue: COP21 climate conference in Paris
-  date: 2015-12-04
   fame: 2
   expertise: 4
+  quotes:
+    - quote: >
+          And for us to say ‘Oh we’re not going to use all the tools that we have to try to
+          solve it’ is crazy. We have to use all of the things that we have at
+          our disposal and clearly nuclear power, next generation nuclear power especially,
+          has tremendous potential to be a big part of the solution.
+      url: https://newmatilda.com/2015/12/04/father-of-climate-change-james-hansen-urges-support-for-nuclear-energy-at-cop21-climate-talks/
+      venue: COP21 climate conference in Paris
+      date: 2015-12-04
 
 
 - name: James Lovelock
   title: Scientist and originator of Gaia theory
   img: lovelock.jpg
-  quote: >
-      But I think we will have to curb our tendency to burn fossil fuels. And I think the
-      big companies are beginning to realize themselves that you can’t make money that
-      way. What replaces it, I hope, is nuclear, but probably they’ll mess about with
-      renewables for awhile until they find their way to nuclear.
-  venue: Interview
-  date: 2019-10-02
-  url: https://nymag.com/intelligencer/2019/10/james-lovelock-on-nuclear-power-and-if-ai-can-stop-warming.html
   fame: 2
   expertise: 4
+  quotes:
+    - quote: >
+          But I think we will have to curb our tendency to burn fossil fuels. And I think the
+          big companies are beginning to realize themselves that you can’t make money that
+          way. What replaces it, I hope, is nuclear, but probably they’ll mess about with
+          renewables for awhile until they find their way to nuclear.
+      venue: Interview
+      date: 2019-10-02
+      url: https://nymag.com/intelligencer/2019/10/james-lovelock-on-nuclear-power-and-if-ai-can-stop-warming.html
+    - quote: >
+          But I am a Green and I entreat my friends in the movement to drop their wrongheaded
+          objection to nuclear energy.  Even if they were right about its dangers, and they
+          are not, its worldwide use as our main source of energy would pose an insignificant
+          threat compared with the dangers of intolerable and lethal heat waves and sea levels
+          rising to drown every coastal city of the world.
+      venue: Interview with the Independent
+      date: 2004-05-24
+      url: http://www.jameslovelock.org/nuclear-power-is-the-only-green-solution/
 
 - name: Cory Booker
   title: US Senator (D-NJ)
   img: booker.jpg
-  quote: >
-      I didn’t come to the United States Senate as a big nuclear guy, but when I started
-      looking at the urgency of climate change, I saw that over 50 percent of our
-      non-carbon-producing power right now comes from nuclear.
-  venue: Interview with Grist
-  url: https://grist.org/article/exclusive-cory-booker-says-nuclear-power-must-be-in-any-serious-climate-plan/
-  date: 2019-09-20
   fame: 3
   expertise: 2
+  quotes:
+    - quote: >
+          I didn’t come to the United States Senate as a big nuclear guy, but when I started
+          looking at the urgency of climate change, I saw that over 50 percent of our
+          non-carbon-producing power right now comes from nuclear.
+      venue: Interview with Grist
+      url: https://grist.org/article/exclusive-cory-booker-says-nuclear-power-must-be-in-any-serious-climate-plan/
+      date: 2019-09-20
 
 - name: John Kerry
   title: US Secretary of State
-  venue: Talk at MIT about climate
-  date: 2017-01-09
-  url: https://www.youtube.com/watch?v=vXK1gMln-6M
   fame: 4
   expertise: 2
   img: kerry.jpg
-  quote: >
-      I was on the other side of it then. But given this challenge we face today, and
-      given the progress of fourth-generation nuclear, go for it.  No other alternative.
-      Zero emissions.
+  quotes:
+    - quote: >
+          I was on the other side of it then. But given this challenge we face today, and
+          given the progress of fourth-generation nuclear, go for it.  No other alternative.
+          Zero emissions.
+      venue: Talk at MIT about climate
+      date: 2017-01-09
+      url: https://www.youtube.com/watch?v=vXK1gMln-6M

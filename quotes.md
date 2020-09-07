@@ -12,23 +12,53 @@ image: /img/quotes/arnold.jpg
 On this page we have a collection of statements made by relatively famous people about
 nuclear energy. 
 <hr/>
+{% comment %}
+For sorting, we have lots of options, but we're just going to start
+by sorting by the person with the most recent quote. If the person
+has multiple quotes, all of them will be shown alongside the most
+recent one. This is a PITA in Liquid templates but it is doable,
+as you can see below...
+{% endcomment %}
 
-{% assign quotes = site.data.quotes | sort: "date" | reverse %}
-{%  for quote in quotes -%}
-<h2>{{ quote.name }}</h2>
-{% if quote.img %}
-<img src="/img/quotes/{{quote.img}}" style="max-height:150px;" class="img img-responsive
-pull-right" alt="Image of {{quote.name}}" title="Image of
-{{quote.name}} {% if quote.img_src%}(from {{quote.img_src}}){%endif%}"/>
+
+{% capture datesandpeople  %}
+{%- for person in site.data.quotes -%}
+{%- for quote in person.quotes -%}
+{{ quote.date }} {{person.name}} , 
+{%-endfor-%}
+{%-endfor-%}
+{% endcapture%}
+
+{% assign datesandpeople = datesandpeople | split: "," | sort |reverse %}
+
+{% comment %}
+Now cut the sorted dates off the list (hacky)
+{% endcomment %}
+{% capture people  %}
+{%-for dp in datesandpeople-%}
+{{ dp | slice: 10,80 | strip}},
+{%-endfor-%}
+{% endcapture %}
+
+{% assign names = people | split: "," | uniq %}
+{% for name in names %}
+{% assign person = site.data.quotes | where: "name", name | first%}
+{% assign quotes = person.quotes  %}
+<h2>{{ person.name }}</h2>
+{% if person.img %}
+<img src="/img/quotes/{{person.img}}" style="max-height:150px;" class="img img-responsive
+pull-right" alt="Image of {{person.name}}" title="Image of
+{{person.name}} {% if person.img_src%}(from {{person.img_src}}){%endif%}"/>
 {% endif%}
-{% if quote.title %}
-<h5><em>{{quote.title }}</em></h5>
+{% if person.title %}
+<h5><em>{{person.title }}</em></h5>
 {%endif%}
+{%  for quote in quotes -%}
 <h5 markdown="1">[{%- if quote.venue -%}{{quote.venue}}, {%endif%}{{ quote.date }}]({{quote.url}})</h5>
-
 
 > {{ quote.quote}}
 
+{% endfor %}
 {% endfor %}
 
 <hr />
@@ -38,6 +68,9 @@ quotes by making an [issue](https://github.com/whatisnuclear/website/issues) or 
 GitHub, or just by [contacting us]({% link contact.md %}). (We may skip some to keep the
 signal to noise high).
 
+## Related collections
+
+* [Who gets it?](https://decarbonisesa.com/about-2/who-gets-it/) by Ben Heard
 
 </div>
 </div>
