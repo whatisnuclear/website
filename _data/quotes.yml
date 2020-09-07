@@ -184,3 +184,18 @@
       venue: Talk at MIT about climate
       date: 2017-01-09
       url: https://www.youtube.com/watch?v=vXK1gMln-6M
+
+- name: Stewart Brand
+  title: Environmentalist, Editor of Whole Earth Catalog, Author of Whole Earth Discipline
+  fame: 3
+  expertise: 3
+  img: brand.jpg
+  img_src: https://en.wikipedia.org/wiki/Stewart_Brand#/media/File:Stewart_Brand_in_2020.jpg
+  quotes:
+    - quote: >
+        Environmentalists have much less to fear in reality from the current nuclear power
+        industry than they think, and much more to gain from new and planned reactor
+        designs than they realize.
+      venue: Whole Earth Discipline, page 75
+      url: https://en.wikipedia.org/wiki/Whole_Earth_Discipline
+      date: 2009-10-15
