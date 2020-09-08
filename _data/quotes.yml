@@ -199,3 +199,17 @@
       venue: Whole Earth Discipline, page 75
       url: https://en.wikipedia.org/wiki/Whole_Earth_Discipline
       date: 2009-10-15
+
+- name: Penn Jillette
+  title: Magician from Penn and Teller
+  fame: 3
+  expertise: 1
+  img: jillette.jpg
+  img_src: "Photo credit: Gage Skidmore"
+  quotes:
+    - quote: >
+        If stupid hippies hadn't killed nuclear power, we'd have nuclear power plants,
+        safer and cheaper than coal-fired plants all over, and electric cars really would
+        be zero emissions.
+      venue: "In Presto!: How I Made Over 100 Pounds Disappear and Other Magic Tales"
+      date: 2016-08-02
