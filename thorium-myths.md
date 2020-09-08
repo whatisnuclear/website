@@ -9,9 +9,7 @@ image: /img/Thor.jpg
 <div class="col-md-8" markdown="1">
 
 # Myths and Misconceptions about Thorium nuclear fuel
-<div class="byline">
-<p class="author">By <span>Nick Touran, Ph.D. (in Nuclear Engineering)</span></p>
-</div>
+##### By Nick Touran, Ph.D. Nuclear Engineer, Published 2014-03-13, Updated 2020-09-08
 
 <div class="pull-right"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge"
 title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with thunder,
@@ -20,27 +18,28 @@ Thorium was so named in the 1820s, well before its nuclear properties were disco
 1942. Coincidence? " src="img/Thor.jpg"/>
 </div>
 
-**Dear Internet,** we need to have a talk about Thorium. It has many good attributes as a nuclear
-fuel, but the things being said on the internet have become largely misleading, if not all-out
+**Dear Internet,** we need to have a talk about Thorium. Almost all the
+borderline-miraculous things people say it does online are associated with advanced
+nuclear technology (e.g. breeding and low-pressure coolant systems) and apply to both
+thorium and uranium fuels. Generally, you can swap the word "thorium" out for "advanced
+nuclear".
+
+## Motivation
+The things being said on the internet have become largely misleading, if not all-out
 inaccurate. Every internet person I meet in real life who finds out that I am a nuclear engineer
 asks me why we aren't using the end-all, be-all that is thorium. Every post regarding nuclear
-energy on reddit is packed full of comments claiming that Thorium will end all concerns about
+energy is packed full of comments claiming that Thorium will end all concerns about
 nuclear energy and that Uranium is only in use due to some dark dark conspiracy.
 
 Some places on the internet have become echo-chambers for this kind of thing, and while it's
 great to spread awareness of thorium, blatant disregard of the associated challenges is a detriment
 to civilization's energy debate. Besides, taking a moderate viewpoint lends credibility to any
-cause. This page will try to point people in the right direction if they get lost, using things like
-references and whatnot.
+cause. This page will try to point people in the right direction if they get lost.
 
 Thorium has one primary advantage, which is that it **uniquely allows [breeding]({% link
 recycling.md %}) with [slow neutrons]({% link moderation.html %})**. Breeding is possible with
 [fast neutrons]({% link fast-reactor.html %}) in any fuel, but doing it with slow neutrons
 is kind of neat. Everything else you may have heard is suspect.
-
-We love Thorium and think it has a bright future, both in solid and fluid fueled reactors.
-As we claim elsewhere and throughout comment posts abound, we just think that people need
-to remain calm and accurate when discussing its merits and demerits.
 
 ## On this page:
 <ul>
