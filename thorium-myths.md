@@ -283,18 +283,82 @@ fueled molten salt reactors (MSRs)</a> that are good at using it.
 <a name="wall"></a>
 # The Wall of Shame
 
-Here we get to publicly shame those who propagate the myths. You can do better!
+This section shows a few examples of articles that propagate the misinformation
+represented by the myths. Oftentimes, people ask us how on Earth they were able to read
+so much that was so wrong. The simple reason is that there is a lot of stuff out there
+that repeats the myths. We hope journalists will go the extra mile before publishing
+more of this.
 
-<ul>
-<li><a href="https://www.wired.com/2009/12/ff_new_nukes/">Richard Martin, &quot;Uranium Is So Last Century — Enter Thorium, the New Green Nuke&quot;</a> An article about the primary Thorium proponent, Kirk Sorensen. Hits every single misconception, and is accidentally misleading on many accounts.</li>
-<li><a href="https://theweek.com/articles/450000/energy-source-could-solve-all-problems--why-no-talking-about">
-Pascal-Emmanuel Gobry, &quot;This energy source could solve all of our problems — so why is no one talking about it?&quot;</a> Woah this is a really good yarn. Again, hits most misconceptions but even makes up some new ones. Best quote: &quot;If these systems fail, the reactor starts going into meltdown. Thorium, being a lighter element, doesn&rsquo;t have that problem.&quot; Haha! Being a lighter element has nothing to do with it. Having low-pressure coolant is what gives the MSR its safety advantage, dude. SFR, LFR, FHR, etc. are other reactors that can do this with or without Thorium. Crikey!  </li>
-<li><a href="https://www.economist.com/news/science-and-technology/21600656-thorium-element-named-after-norse-god-thunder-may-soon-contribute">Asgard’s fire (The Economist)</a> This article is pretty good in general. But, it has to be on the wall of shame due to this quote: &quot;Thorium, though, is hard to turn into a bomb; not impossible, but sufficiently uninviting a prospect that America axed thorium research in the 1970s. &quot; The MSR program shutdown had nothing to do with MSR&rsquo;s ability to make weapons. Sigh. </li>
-<li><a href="https://www.csmonitor.com/Environment/Energy-Voices/2014/0328/Thorium-a-safer-nuclear-power">Thorium: a safer nuclear power</a> This one, focused on China and India&rsquo;s development programs, touches on most of the misconceptions and confuses higher melting point as a safety advantage (only relevant for solid fuel). Whoops! </li>
-<li><a href="https://www.pocket-lint.com/news/129913-world-s-first-thorium-reactor-ready-to-be-built-for-cheaper-safer-nuclear-energy">World&rsquo;s first thorium reactor ready to be built for cheaper, safer nuclear energy</a>  This one was sent in with the subject: &quot;There is a staggering amount of wrong in this one.&quot; Very true. They claim no operator intervention, not weaponizable, 100 years of operation, etc. The whole nine yards!</li>
-<li><a href="http://ensec.org/index.php?option=com_content&amp;view=article&amp;id=187:thorium-as-a-secure-nuclear-fuel-alternative&amp;catid=94:0409content&amp;Itemid=342">Thorium as a Secure Nuclear Fuel Alternative by A. Canon Bryan</a> This one hits every single misconception, almost in order. It <a href="https://www.reddit.com/r/todayilearned/comments/2dbh9c/til_experimental_thorium_nuclear_fission_isnt/">was posted on reddit TIL</a> and was making it to the front page. A link to this page was posted as a comment and made it to the top comment. The TIL mods then flagged the post as misleading and it was taken off the front. While we&rsquo;re happy to have been a part in reducing the spread of BS, it&rsquo;s also a little sad that the excitement around Thorium and nuclear had to go with it. Thorium is definitely something to be excited about. If only people would write sensational articles about it that are less misleading! It&rsquo;s hard to balance marketing and truth. </li>
+* [Richard Martin, "Uranium Is So Last Century — Enter Thorium, the New Green
+  Nuke"](https://www.wired.com/2009/12/ff_new_nukes/) An article about the primary Thorium
+  proponent, Kirk Sorensen. Hits every single misconception, and is accidentally misleading
+  on many accounts.
 
-</ul>
+* [Pascal-Emmanuel Gobry,"This energy source could solve all of our problems — so why is
+  no one talking about
+it?"](https://theweek.com/articles/450000/energy-source-could-solve-all-problems--why-no-talking-about)
+Woah this is a really good yarn. Again, hits most misconceptions but even makes up some
+new ones. Best quote: 
+
+  > If these systems fail, the reactor starts going into meltdown.
+    Thorium, being a lighter element, doesn't have that problem.
+
+  Being a lighter element has nothing to do with it. Having low-pressure coolant is
+  what gives the MSR its safety advantage, dude. SFR, LFR, FHR, etc. are other reactors that
+  can do this with or without Thorium. Crikey!
+
+* [Asgard’s fire (The
+  Economist)](https://www.economist.com/news/science-and-technology/21600656-thorium-element-named-after-norse-god-thunder-may-soon-contribute)
+This article is pretty good in general. But, it has to be on the wall of shame due to this
+quote: 
+
+  > Thorium, though, is hard to turn into a bomb; not impossible, but
+    sufficiently uninviting a prospect that America axed thorium research in the 1970s. 
+
+  The MSR program shutdown had nothing to do with MSR's ability to make weapons. Sigh.
+
+
+* [Thorium: a safer nuclear
+  power](https://www.csmonitor.com/Environment/Energy-Voices/2014/0328/Thorium-a-safer-nuclear-power)
+This one, focused on China and India's development programs, touches on most of the
+misconceptions and confuses higher melting point as a safety advantage (only relevant for
+solid fuel). Whoops! 
+
+* [World's first thorium reactor ready to be built for cheaper, safer nuclear
+  energy](https://www.pocket-lint.com/news/129913-world-s-first-thorium-reactor-ready-to-be-built-for-cheaper-safer-nuclear-energy)
+This one was sent in with the subject: "There is a staggering amount of wrong in this
+one." Very true. They claim no operator intervention, not weaponizable, 100 years of
+operation, etc. The whole nine yards!
+
+* [Thorium as a Secure Nuclear Fuel Alternative by A. Canon Bryan](
+  http://ensec.org/index.php?option=com_content&amp;view=article&amp;id=187:thorium-as-a-secure-nuclear-fuel-alternative&amp;catid=94:0409content&amp;Itemid=342) This
+one hits every single misconception, almost in order. It <a
+href="https://www.reddit.com/r/todayilearned/comments/2dbh9c/til_experimental_thorium_nuclear_fission_isnt/">was
+posted on reddit TIL</a> and was making it to the front page. A link to this page was
+posted as a comment and made it to the top comment. The TIL mods then flagged the post as
+misleading and it was taken off the front. While we're happy to have been a part in
+reducing the spread of BS, it's also a little sad that the excitement around Thorium
+and nuclear had to go with it. Thorium is definitely something to be excited about. If
+only people would write sensational articles about it that are less misleading! It's
+hard to balance marketing and truth.
+
+* [Sameer Surampalli Is Thorium the Fuel of the Future to Revitalize
+  Nuclear?](https://www.power-eng.com/2019/08/13/is-thorium-the-fuel-of-the-future-to-revitalize-nuclear/#gref)
+  (2019-08-13) This article once again conflates thorium as the only way to breed
+  and fails to mention that uranium breeders are also possible. It directly violates Myths
+  2, 3, and 4 and has a variety of other inaccuracies, such as claiming Thorium MSRs require
+  highly-enriched uranium. They don't. They use low enriched uranium. 
+
+* [Kirk Sorensen's TEDxYYC Talk](https://www.ted.com/talks/kirk_sorensen_thorium_an_alternative_nuclear_fuel)
+(2011-04-15) In this talk with over 600k views Kirk Sorensen presents the capabilities of
+breeder reactors but he morphs the story as if the only breeder reactor possible is the
+thorium breeder.  It appears that this is the foundation of all the misinformation we've
+seen. He presents conventional LWR non-breeders and then says there's something called
+Thorium that's much better. He omits the key fact that Uranium breeders have all the same
+benefits. Either he is completely ignorant of uranium breeders (unlikely) or he
+intentionally tries to say that thorium is the exclusive fuel for breeding.
+
+
 
 <a name="refs"></a>
 ## References
