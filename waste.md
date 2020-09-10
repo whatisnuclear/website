@@ -99,12 +99,12 @@ most toxic waste, the fact that nuclear waste becomes less toxic with time is qu
 src="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
 class="img img-responsive center-block" ></a>  
 
-<caption>How much energy comes out via different mechanisms after you fission 1 kg of
-Uranium-235. This much fission is typical of one day of operation of a large
-gigawatt-scale power plant, powering a city of about 1 million people. 99% of the
-delayed energy is released within 1 day and the rest comes out later. Note that in the
-long term, energy from the alpha-decay of materials heavier than uranium produce the
-majority of the heat rather than fission (not shown).</caption>
+<caption markdown="1">How much energy comes out [via different mechanisms]({% link
+radioactivity.md%}#types-of-nuclear-radiation) after you fission 1 kg of Uranium-235. This
+much fission is typical of one day of operation of a large gigawatt-scale power plant,
+powering a city of about 1 million people. Note that in the long term, energy from the
+alpha-decay of materials heavier than uranium produce the majority of the heat rather than
+fission (not shown).</caption>
 </figure>
 
 These delayed energetic emissions mean that nuclear waste is highly [radioactive]({% link
