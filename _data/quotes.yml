@@ -213,3 +213,18 @@
         be zero emissions.
       venue: "In Presto!: How I Made Over 100 Pounds Disappear and Other Magic Tales"
       date: 2016-08-02
+
+- name: Thelma Krug
+  title: Vice-Chair of IPCC
+  fame: 2
+  expertise: 4
+  img: krug.jpg
+  img_src: "Photo credit: IPCC"
+  quotes:
+    - quote: >
+        All low-carbon primary energy sources, including renewables, nuclear and fossil
+        with Carbon Dioxide Capture and Storage, have a role to play
+      date: 2019-04-11
+      venue: "Presentation on SR 1.5 report to Spanish Nuclear Industry Forum"
+      url: https://www.foronuclear.org/en/press-room/press-releases/ipcc-acknowledges-the-important-role-of-nuclear-energy-in-the-fight-against-climate-change/
+
