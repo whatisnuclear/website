@@ -23,7 +23,7 @@ useful to civilization.  Today, nuclear power plants worldwide produce around 40
 electricity, enough to power 400 million average households.
 
 Nuclear energy is controversial due to concerns about radiation. Public support varies
-geographically, but is generally among the least popular forms of energy.
+geographically, but nuclear is generally among the least popular forms of energy.
 
 ### Nuclear power plants make safe global-scale sustainable energy
 
