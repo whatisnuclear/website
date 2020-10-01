@@ -43,11 +43,11 @@ electric generated. Fossil and biomass are bad, in the 400-800 range. Solar PV
 is 40. Hydro is 24. Nuclear is 12. Wind is 11. There is an arrow saying that
 nuclear is among the lowest carbon forms of energy we know." width="761"
 height="578" /> </a>
-<figcaption>(Source: <a
+<figcaption>Source: <a
 href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf">Schlomer S.,
 et.al., 2014: Annex III: Technology-specific cost and performance parameters. In: Climate Change
 2014: Mitigation of Climate Change. Contribution of Working Group III to the 5th Assessment Report
-of the IPCC</a>)</figcaption>
+of the IPCC</a>. (<a href="/img/lifecycle-carbon-emissions-nolabel.png">Unlabeled version here</a>)</figcaption>
 </figure>
 
 #### <span class="fa fa-cog fa-spin fa-lg text-info"></span> Nuclear reactors make dependable 24-hour baseload energy
