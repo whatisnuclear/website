@@ -1,4 +1,4 @@
-# Whatisnuclear.com website
+# Whatisnuclear.com amazing website 
 
 This is the source of the nuclear energy public-education website
 [whatisnuclear.com](https://whatisnuclear.com). The site was founded in 2007 and has been built over
