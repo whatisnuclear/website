@@ -448,7 +448,28 @@ entry](https://www.worldcat.org/title/physical-theory-of-neutron-chain-reactors/
 
 * 175 - [Lilienthal](https://en.wikipedia.org/wiki/David_E._Lilienthal) first went public with opposition to nuclear energy in 1963.
 * Good framing of antinuclear sentiment. 
+
 * 176 - ANS paper has Faustian bargain
+  > and then in a 1972 paper titled "[Social Institutions and Nuclear
+  > Energy](https://doi.org/10.1126/science.177.4043.27 )," I first used the expression
+  > "Faustian bargain" to characterize nuclear energy: "We nuclear people have made a
+  > Faustian bargain with society. On the one hand we offer --- in the catalytic nuclear
+  > burner (i.e., the breeder) --- an inexhaustible source of energy. Even in the short
+  > range, when we use ordinary reactors, we offer energy that is cheaper than energy from
+  > fossil fuel. Moreover, this source of energy when properly handled is almost
+  > nonpolluting.  Whereas fossil-fuel burners emit oxides of carbon, nitrogen, and sulfur
+  > ... there is no intrinsic reason why nuclear systems must emit any pollutant except
+  > heat and traces of radioactivity."
+  >
+  > "But the price that we demand of society for this magical source is both a vigilance from and
+  > longevity of our social institutions that we are quite unaccustomed to."
+  >
+  > My
+  > characterization of nuclear energy as a Faustian bargain made me unpopular within the
+  > nuclear industry --- but I became known among critics of nuclear energy as a sort of
+  > in-house conscience --- a member of the nuclear community who
+  > was willing to voice doubts.
+
 * 177 - W defends the regulator, says nuclear people weren't addressing public concerns and regulator reflects public.
 * Talk to Nader's critical mass group was the worst. Cat calls. Shudder.
 * 180 - says Libyans would send students to Oregon State University to learn how to do isotope separations. To OSU with
@@ -545,9 +566,10 @@ things faster, and information may help you be more efficient.</caption>
 * 230 - IEA had workshop with old nukes to think up new reactors. Group was skeptical that inherent safety could be done and also that it would change the public's mind. 
 * 230 - did study anyway. GA HTR and [PIUS
   PWR](https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull31-3/31302392529.pdf)
-  emerged as safest. PIUS had density lock of borated
-  water that came down if anything heated up. W really liked it and envisioned a 2nd nuclear era
-  with it. Report published in 1985 was largely ignored. Called: the second nuclear era.
+  emerged as safest. PIUS had density lock of borated water that came down if anything
+  heated up. W really liked it and envisioned a 2nd nuclear era with it. Report published in
+  1985 was largely ignored. [Weinberg, The Second Nuclear ERA: A nuclear
+  renaissance (1985)](https://doi.org/10.1016/0360-5442(85)90098-2)
 * 231 - W explains concisely why LWRs dominate:
   > ...pressurized water had been chosen to power submarines because such reactors are compact and
   > simple. Their advent on land was entirely due to Rickover's dominance in reactor development in
@@ -555,6 +577,22 @@ things faster, and information may help you be more efficient.</caption>
   > reactor.
 * 232 - Italy shut down all nukes after Chernobyl.
 * again says Pius is best bet
+  > In any case, the dominance of the existing vendors, Westinghouse and General Electric
+  > --- not to speak of the French Framatome, German KWU, and the Japanese Hitachi and
+  > Toshiba --- probably means that the next generation of reactors will incorporate
+  > relatively small improvements on existing types rather than drastically breaking with
+  > existing technology.
+  >
+  > I would be somewhat disappointed were this to be the path of nuclear energy during the
+  > coming 25 years.  Somewhere in the world there ought to be built a truly inherently
+  > safe reactor --- probably a PIUS --- so that we might know rather than guess whether
+  > such a device is feasible. To depend forever on reactors that fall short of this goal
+  > would mean doing less than we could or should do. Yet, on balance, I cannot complain
+  > too much. Although our second nuclear era study had little impact at the time it was
+  > issued, its message --- that a second nuclear era ought to be based on reactors that
+  > are perceived as being safer than existing reactors --- has now become more or less
+  > conventional wisdom.
+
 * 233 - *transparent safety* is a term that means safety is readily understandable
 * possibility that solar will be developed fast enough that fission is not needed.
 * 235 - in 1975 he began carrying Keeling curves of COw rise around as justification for nuclear. Bob Seamans established a CO2 effects office at ERDA (predecessor to DOE)
