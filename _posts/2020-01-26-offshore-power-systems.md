@@ -404,6 +404,12 @@ Lomonosov](https://en.wikipedia.org/wiki/Akademik_Lomonosov) FNPP began operatin
 Arctic. ThorCon plans to use shipyard construction but then deliver their plants to
 land-based sites. OPS had a similar option for riverine sites.
 
+In 2020, South Korea's Kepco Engineering and Construction Company and Daewoo Shipbuilding
+and Marine Engineering [signed a MOU to develop offshore nuclear
+plants](https://www.world-nuclear-news.org/Articles/Kepco-E-C-teams-up-with-shipbuilder-for-floating-r).
+This team is particularly interesting because they combine one of the best reactor teams
+with one of the best shipbuilders.
+
 With climate change looming, FNPPs may be one of the best ways to build vast amounts of
 very low-carbon nuclear plants in record-breaking time with unsurpassed quality and
 economics.  Tens of millions of dollars have already been spent on a massive amount of
