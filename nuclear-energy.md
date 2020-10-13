@@ -91,7 +91,7 @@ and thus attains very high energy density (energy stored in a unit of mass).
 in length of time that 1 kg of each material could run a 100W load. Natural uranium has undergone no
 enrichment (0.7% U-235), reactor-grade uranium has 5% U-235. By the way, 1 kg of weapons grade
 uranium (95% U-235) could power the entire USA for 177 seconds. All numbers assume 100%
-thermal-to-electrical conversion. See our <a href="{% link energy-density.html %}">energy
+thermal-to-electrical conversion. See our <a href="{% link energy-density.md %}">energy
 density of nuclear fuel</a> page for details.</p>   
 </div>
 </div>
