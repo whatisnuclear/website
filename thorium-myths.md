@@ -38,7 +38,7 @@ cause. This page will try to point people in the right direction if they get los
 
 Thorium has one primary advantage, which is that it **uniquely allows [breeding]({% link
 recycling.md %}) with [slow neutrons]({% link moderation.html %})**. Breeding is possible with
-[fast neutrons]({% link fast-reactor.html %}) in any fuel, but doing it with slow neutrons
+[fast neutrons]({% link fast-reactor.md %}) in any fuel, but doing it with slow neutrons
 is kind of neat. Everything else you may have heard is suspect.
 
 ## On this page:
@@ -241,7 +241,7 @@ Undenatured Thorium cycles certainly produce fewer transuranic elements (Np, Pu,
 are the major dangerous nuclides in <a href="{% link waste.md %}">nuclear waste</a> in the 10,000+
 year timeframe. In fact, the long-term decay heat from Thorium-MSRs can be orders of magnitude lower
 than that from traditional reactors. However, this same capability exists in many other reactor
-concepts, including U-Pu fueled <a href="{% link fast-reactor.html %}">fast reactors</a> with
+concepts, including U-Pu fueled <a href="{% link fast-reactor.md %}">fast reactors</a> with
 reprocessing. So, if someone says that MSR/LFTR waste is better than traditional LWR waste, they are
 correct. If they say Thorium is the only game in town that can reduce waste like this, then they are
 not correct.

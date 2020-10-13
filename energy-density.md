@@ -58,10 +58,12 @@ Another factor worth considering is how complete the fuel is consumed. For examp
 fire may burn out before all the energy is extracted from the wood. In traditional LWR
 nuclear power plants, usually only 5-7% of the energy of the fuel is extracted.
 Furthermore, the fuel has already gone through an enrichment process so only about 1% of
-the energy of the mined resource is used. Advanced nuclear power plants called breeder
-reactors such as the liquid metal fast breeder reactor (LMFBR) or the molten salt breeder
-reactor (MSBR) can extract much more of the mined energy. The fraction of the energy
-extracted from the fuel in a reactor is called the burnup.
+the energy of the mined resource is used. Advanced nuclear power plants called [breeder
+reactors]({% link recycling.md %}) such as the [liquid metal fast breeder reactor]({% link
+fast-reactor.md %}) (LMFBR)
+or the [molten salt breeder reactor]({% link msr.md %}) (MSBR) can extract much more of
+the mined energy. The fraction of the energy extracted from the fuel in a reactor is
+called the burnup.
 
 So in a LWR, the effective energy density is around 5% of 80 million, or 4 million MJ/kg.
 
@@ -69,8 +71,8 @@ So in a LWR, the effective energy density is around 5% of 80 million, or 4 milli
 
 A single fuel pellet may weigh [about 10
 grams](https://www.cameco.com/uranium_101/fuel-processing/fuel-manufacturing/) so it
-contains 40,000 MJ in a typical reactor and 800,000 MJ in a breeder. Thus we can compare
-its content to other fuels. 
+contains 40,000 MJ in a typical reactor and 800,000 MJ in a breeder reactor. Thus we can
+compare its content to other fuels. 
 
 {:.table .table-striped}
 | Material | Energy Density<br/> (MJ/kg)| Equivalent to<br/> fuel pellet in LWR | Equivalent to fuel<br/> pellet in breeder|
@@ -100,7 +102,7 @@ the reactor.
 <h1 id="references">See Also</h1>
 
 <ol>
-<li><a href="{% link fast-reactor.html %}">What is a fast breeder reactor?</a></li>
+<li><a href="{% link fast-reactor.md %}">What is a fast breeder reactor?</a></li>
 <li><a href="{% link msr.md %}">What is a molten salt reactor?</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Energy_density">Energy density [Wikipedia]</a>  </li> 
 </ol>

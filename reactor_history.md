@@ -1334,7 +1334,7 @@ fissile fuel required. Once slowed down, they are called *thermal* neutrons indi
 that they are at equilibrium with the thermal agitation of the atoms or molecules at the
 temperature of the materials in the reactor.
 
-[*Fast* reactors]({% link fast-reactor.html %}) don't have moderators: they're just fuel, coolant, and structure. They
+[*Fast* reactors]({% link fast-reactor.md %}) don't have moderators: they're just fuel, coolant, and structure. They
 require more fissile material (like <sup>235</sup>U) to achieve a chain reaction, but in
 return generate far more excess neutrons, allowing for extra fertile material to be loaded
 for efficient breeding.

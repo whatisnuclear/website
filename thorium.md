@@ -50,7 +50,7 @@ in the not-too-distant future...
 <h2 id="benefits">What are the key benefits of Thorium?</h2>
 
 * **Thorium cycles exclusively allow [thermal]({% link moderation.html %}) breeder reactors** (as
-  opposed to [fast breeders]({% link fast-reactor.html %})). More neutrons are released per neutron
+  opposed to [fast breeders]({% link fast-reactor.md %})). More neutrons are released per neutron
   absorbed in the fuel in a traditional (thermal) type of reactor. This means that if the fuel is
   [reprocessed]({% link recycling.md %}), reactors could be fueled without mining any additional
   U-235 for reactivity boosts, which means the nuclear fuel resources on Earth can be extended by 2

@@ -268,7 +268,7 @@ to go towards designing and building a bigger prototype MSR called the Molten Sa
 
 <p>But it would not be so! The Atomic Energy Commission (the ancestor of the Dept. of Energy) could
 not be convinced to put more money into the molten salt project. For one thing, they were already
-over budget on a very large and expensive <a href="{% link fast-reactor.html %}">fast-breeder</a>
+over budget on a very large and expensive <a href="{% link fast-reactor.md %}">fast-breeder</a>
 project. Besides, there were some big problems at MSRE that some people were not convinced could be
 solved. ORNL director Alvin Weinberg put much energy into keeping the program going, but it was not
 destined to be. Funding was largely canceled and MSRs lost their momentum. </p>

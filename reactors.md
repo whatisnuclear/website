@@ -215,7 +215,7 @@ variety of fuels.
 
 #### Pros:
 * Can breed its own fuel, effectively eliminating any concerns about uranium shortages 
-  (see [what is a fast reactor?]({% link fast-reactor.html %}))
+  (see [what is a fast reactor?]({% link fast-reactor.md %}))
 * Can burn its own waste
 * Metallic fuel and excellent thermal properties of sodium allow for passively safe operation &mdash; 
   the reactor will shut itself down safely without any backup-systems working (or people around), 

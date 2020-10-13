@@ -306,7 +306,7 @@ France currently recycles their spent fuel. They put the remaining good nuclear 
 in their reactors in the form of MOX fuel and immobilize the remaining waste in vitrified
 borosilicate glass.
 
-The US had a recycling program featuring the use of <a href="{% link fast-reactor.html
+The US had a recycling program featuring the use of <a href="{% link fast-reactor.md
 %}">advanced fast reactors</a> (which have not been deployed on any major scale yet) that
 was shut down because it created Plutonium, which could be used to make a nuclear weapon.
 Were some plutonium diverted in the recycling process, a non-nuclear entity could be one
@@ -412,7 +412,7 @@ the reactor operated, and how long the waste has been sitting out of the reactor
 typical US reactor's waste composition is laid out in **table 1**. Notice that most of the
 Uranium is still in the fuel when it leaves the reactor, even though its enrichment has
 fallen significantly. This Uranium can be used in [advanced fast reactors]({% link
-fast-reactor.html %}) as fuel and is a valuable energy source. The **minor actinides**,
+fast-reactor.md %}) as fuel and is a valuable energy source. The **minor actinides**,
 which include Neptunium, Americium, and Curium, are long-lived nuclides that cause serious
 concern when it comes to storing them for more than 100,000 years. Fortunately, these are
 fissionable in fast reactors and can thus be used as fuel! This still would leave us with

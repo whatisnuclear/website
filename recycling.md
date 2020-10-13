@@ -133,7 +133,7 @@ the USA does not currently recycle. There are ways to solve these issues.
 <img src="/img/fuelcycle_breeder.svg" title="Breeder reactors produce enough plutonium to fuel several standard reactors without mines or enrichment plants." alt="A picture of a breeder recycle fuel cycle." width="650" height="220"  usemap="#breedermap"/>
 <p class="caption"><strong>Figure 3.</strong> A closed fuel cycle with breeding. More fissile material is created from breeding than is used to make energy. (Put your mouse over each image for more info.) </p>
 
-<a href="{% link fast-reactor.html %}">Breeder reactors</a> can create as much or more fissile
+<a href="{% link fast-reactor.md %}">Breeder reactors</a> can create as much or more fissile
 material (atoms that readily split) than they use. These special reactors are designed to have extra
 neutrons flying around, so that some can convert U-238 to Pu-239 (see above) and the others can run
 the reactor. Often, these special reactors are deemed &quot;fast&quot; reactors because the neutrons
@@ -186,7 +186,7 @@ nuclear power can truly be considered sustainable.
 * Our <a href="{% link fuel-cycle.md %}">fuel cycle page</a>
 * <a href="{% link isotopes.md %}#enrichment">Our explanation of enrichment</a>
 * <a href="{% link waste.md %}">Our nuclear waste page</a>
-* <a href="{% link fast-reactor.html %}">Our Breeder reactors page</a>
+* <a href="{% link fast-reactor.md %}">Our Breeder reactors page</a>
 * <a href="https://en.wikipedia.org/wiki/Yucca_mountain">Yucca Mountain (Wikipedia)</a>
 
 </div>

@@ -189,7 +189,7 @@ href="{% link isotopes.md %}#enrichment">enrichment</a> was invented. You can
 also see that capture (gamma) cross sections tend to get small at very high
 energy, while the fission cross sections level off. This is a general trend
 among most actinides and is part of the reason that <a
-href="{% link fast-reactor.html %}">fast reactors</a> often have enough extra
+href="{% link fast-reactor.md %}">fast reactors</a> often have enough extra
 neutrons to be <a href="{% link recycling.md %}">breeder reactors</a>. 
 
 Also note that the resonances tend to get closer and closer together as we go
