@@ -49,6 +49,12 @@ uranium in seawater.</td>
 </tr>
 
 <tr>
+<td><a href="https://ewh.ieee.org/r4/chicago/foxvalley/NucPwr2010.pdf">Nuclear Power in
+the Energy Picture</a></td><td>A great slide presentation by George Stanford, a retired
+reactor physicist, on the overall energy story</td>
+</tr>
+
+<tr>
 <td><a href="https://ourworldindata.org/what-is-the-safest-form-of-energy">Our World In
 Data</a></td>
 <td>Data about the safety of nuclear compared to other energy sources</td>

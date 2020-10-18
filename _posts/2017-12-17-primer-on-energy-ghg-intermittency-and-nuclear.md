@@ -259,7 +259,13 @@ it's calm. Overall, the rectangle above is 25% green, meaning there's an average
 
 For solar, besides nights, similar lulls are fairly regular in the form of multiple-week cloudy
 periods. An even bigger challenge is <em>seasonal</em> intermittency. There is ~4x less sun in many
-areas in the winter than there is in the summer. From the previous discussion, it should be clear
+areas in the winter than there is in the summer. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Sq9Uq1DqhU8"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+From the previous discussion, it should be clear
 that we can't store energy in the summer and use it in the winter (even using solar-thermal storage
 like thermal salt tanks). So, to go full renewable, we must build enough capacity to support the
 requirements of the winter. In a midwest December, the nights are about 15 hours long and the solar
