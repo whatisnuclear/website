@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 100% renewables is the new anti-nuclear
+title: 100% renewables can be inadvertently anti-nuclear
 category: blog
-description: Commentary on why 100% renewables is actually anti-nuclear and therefore against our climate goals
+description: Commentary on why 100% renewables actually supports anti-nuclear concepts and therefore goes against our climate goals
 author: Nick Touran
 ---
 <div class="row">
