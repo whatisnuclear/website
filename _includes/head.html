@@ -39,11 +39,11 @@
   <meta name="twitter:title"   content="{{ page.title }}"/>
   
   {% if page.summary %}
-  <meta name="twitter:description" content="{{ page.summary }}"/>
+  <meta name="twitter:description" content="{{ page.summary | strip_html | normalize_whitespace | escape}}"/>
   {% elsif page.description %}
-  <meta name="twitter:description" content="{{ page.description }}"/>
+  <meta name="twitter:description" content="{{ page.description | strip_html | normalize_whitespace | escape}}"/>
   {% else %}
-  <meta name="twitter:description" content="{{ site.description }}"/>
+  <meta name="twitter:description" content="{{ site.description | strip_html | normalize_whitespace | escape}}"/>
   {% endif %}
   
   {% if page.image %}

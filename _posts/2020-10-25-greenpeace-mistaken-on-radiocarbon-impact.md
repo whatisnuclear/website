@@ -41,9 +41,7 @@ $$ N = \frac{A}{\lambda} $$
 where $$\lambda$$ is the decay constant and is equal to $$\frac{ln(2)}{\tau_{1/2}}$$. For
 C$$^{14}$$ the half-life $$\tau_{1/2}$$ is [equal to 5700
 years](https://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=14C&unc=nds) or
-1.80e+11 seconds.
-
-Thus, 63.6 GBq is equal to
+1.80e+11 seconds. Thus, 63.6 GBq is equal to
 
 $$ \frac{63.6e9}{\frac{ln(2)}{1.8e11}} = 1.7e22 \text{ atoms of }C^{14}$$
 
@@ -57,12 +55,12 @@ You've heard of using carbon dating to figure out how old things are. This works
 because C$$^{14}$$ is created continuously in our atmosphere when cosmic protons interact with
 our atmosphere. C$$^{14}$$ has been made in our air constantly since well before humans evolved.
 How much is produced? [Kanu, et al](https://doi.org/10.1002/2015GL066921) shows that 
-2.2(±0.6)e26 atoms of C$$^{14}$$ are produced this way per yr. 
+2.2(±0.6)e26 atoms of C$$^{14}$$ are produced this way per year. 
 
 Again dividing by Avogadro's number and multiplying by 14 grams/mol, we see that nature
 places 5100 grams of C$$^{14}$$ per year into our atmosphere. This is equal to 14 grams per day.
 
-**Thus, nature herself makes the entire inventory of C$$^{14}$$ in the tanks every ~40 minutes
+**Thus, nature makes the entire inventory of C$$^{14}$$ in the tanks every ~40 minutes
 in the atmosphere.**
 
 But is atmospheric and ocean health effects comparable? Yes they are. The Sellafield
@@ -91,3 +89,6 @@ Crisis](https://storage.googleapis.com/planet4-japan-stateless/2020/10/5768c541-
 * [European Parliament report on the Sellafield reprocessing plant](http://www.wise-paris.org/english/reports/STOAFinalStudyEN.pdf) 
 * Atmospheric production rate from [Kanu, et al](https://doi.org/10.1002/2015GL066921)
 * [NNDC data for half life](https://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=14C&unc=nds)
+
+## See Also
+* [Conca article in Forbes from 2019 explaining further context](https://www.forbes.com/sites/jamesconca/2019/09/12/its-really-ok-if-japan-dumps-radioactive-fukushima-water-into-the-ocean/#3636f309b298)
