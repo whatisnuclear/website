@@ -31,10 +31,11 @@ post fills in that contextual gap.
 
 ## How much C$$^{14}$$ are we talking about?
 
-Greenpeace says there are 63.6 giga-Becquerel (GBq) of C$$^{14}$$ in the tanks. How
-much is that? A [Bq](https://en.wikipedia.org/wiki/Becquerel) is a unit of radioactivity
-that is equivalent to 1 decay per second. To convert an activity (A) in Bq to number of
-atoms (N) of a radioactive substance, we use the formula:
+Greenpeace says there are 63.6 giga-Becquerel (GBq) of C$$^{14}$$ in the tanks. How much
+is that? A [Bq](https://en.wikipedia.org/wiki/Becquerel) is a unit of radioactivity that
+is equivalent to 1 decay per second. [To convert an activity]({% link
+math-behind-radioactive-decay.html %}) (A) in Bq to number of atoms (N) of a radioactive
+substance, we use the formula:
 
 $$ N = \frac{A}{\lambda} $$
 
