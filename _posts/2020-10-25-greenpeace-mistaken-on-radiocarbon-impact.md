@@ -84,12 +84,18 @@ alteration of human DNA from those larger releases, there is a good chance that 
 Fukushima discharges will not alter human DNA.
 
 ## Citations
+* [TEPCO presentation June 30, 2020 on radionuclide
+  concentrations showing C-14 concentrations well below the legal limit](https://www.tepco.co.jp/en/decommission/progress/watertreatment/images/tankarea_en.pdf)
 * The original Greenpeace report, entitled [Stemming the Tide 2020: The Reality of the
-Fukushima Radioactive Water
-Crisis](https://storage.googleapis.com/planet4-japan-stateless/2020/10/5768c541-the-reality-of-the-fukushima-radioactive-water-crisis_en_summary.pdf)
+  Fukushima Radioactive Water
+  Crisis](https://storage.googleapis.com/planet4-japan-stateless/2020/10/5768c541-the-reality-of-the-fukushima-radioactive-water-crisis_en_summary.pdf)
 * [European Parliament report on the Sellafield reprocessing plant](http://www.wise-paris.org/english/reports/STOAFinalStudyEN.pdf) 
 * Atmospheric production rate from [Kanu, et al](https://doi.org/10.1002/2015GL066921)
 * [NNDC data for half life](https://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=14C&unc=nds)
 
+
 ## See Also
 * [Conca article in Forbes from 2019 explaining further context](https://www.forbes.com/sites/jamesconca/2019/09/12/its-really-ok-if-japan-dumps-radioactive-fukushima-water-into-the-ocean/#3636f309b298)
+* [UNSCEAR 2008 Appendix
+  B](https://www.unscear.org/docs/publications/2008/UNSCEAR_2008_Annex-B-CORR.pdf) showing
+  radionuclide releases from other facilities
