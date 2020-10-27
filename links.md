@@ -114,6 +114,11 @@ explaining in some details their pain points in Operations cost and suggestions 
 reduce these costs</td>
 </tr>
 
+<tr>
+<td><a href="https://www.gen-4.org/gif/upload/docs/application/pdf/2020-06/geniv_dr_jiri_krepelfinal_24june2020_2020-06-24_08-48-31_646.pdf">Krepel, COMPARISON OF 16 REACTORS NEUTRONICPERFORMANCE IN CLOSED TH-U AND U-PU CYCLES</a></td>
+<td>An amazing comparison of the neutronic performance across 16 different reactor
+concepts</td>
+</tr>
 </table>
 
 
