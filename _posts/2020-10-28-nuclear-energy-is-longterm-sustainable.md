@@ -7,50 +7,56 @@ description: >
     we'll run out soon. We do the math. Turns out, it's roughly as inexhaustible as sunlight.
 author: Nick Touran, Ph.D. (nuclear engineering)
 image: /img/nuclear-sustainability.png
+mathjax: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 # {{ page.title }}
 ##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
 
-As you saw in our [energy flow diagram]({% link energy-flow.md %}), our energy resources
-are either new (derived directly from sunlight: solar, wind, hydro), old (fossilized plant
-matter), or really old (nuclear fission, geothermal, fusion).  But can nuclear fuel power
-humanity for a long time? This question has been answered quite skillfully by the
-legendary David MacKay in [Sustainable Energy Without the Hot
-Air](https://www.withouthotair.com/c24/page_162.shtml), but we figured we could add our
-own version as well. Here is the result:
+As shown in our [energy flow diagram]({% link energy-flow.md %}), our energy resource
+options are derived either directly from sunlight (solar, wind, hydro, biofuel), by
+digging up fossilized organic matter (coal, oil, gas), or from accessing primordial energy
+(nuclear fission, geothermal, tidal, fusion). These are *all* limited in quantity.
+Some will last us about as long as the sun, while others may run out soon and are thus not
+sustainable.
+
+How does nuclear fission perform in the sustainability question? This question has
+been answered quite skillfully by the legendary David MacKay in [Sustainable Energy
+Without the Hot Air](https://www.withouthotair.com/c24/page_162.shtml), but we figured we
+could add our own version as well. Here is the result:
 
 ![Nuclear sustainability plot](/img/nuclear-sustainability.png){: .img-responsive }
 
-Breeder reactors can power all of humanity for more than 4 billion years.  By any
-reasonable definition, nuclear breeder reactors are indeed renewable. However, they
-require the under-developed technologies of [breeder reactors]({% link recycling.md %})
-and [seawater uranium extraction](https://pubs.acs.org/toc/iecred/55/15).
+[Breeder reactors]({% link recycling.md %}) can power all of humanity for more than 4
+billion years.  By any reasonable definition, nuclear breeder reactors are indeed
+renewable. However, billion-year sustainability does require advances in [seawater uranium
+extraction](https://pubs.acs.org/toc/iecred/55/15), reactor [construction performance]({%
+link economics.md %}), and public acceptance.
 
 ## The basis facts:
 
 * Total world energy consumption of primary energy in 2019 was about 584 exajoules ([BP
   Statistical Review of World Energy
-2020](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2020-full-report.pdf)
+2020](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2020-full-report.pdf))
 * A modern light-water reactor can pull an average of 60 MWd/kg out of its 4.8% enriched
   nuclear fuel ([AP1000 docs](https://aris.iaea.org/PDF/AP1000.pdf))
 * One kg of 4.8% enriched uranium requires 9.5 kgU natural uranium input to the enrichment
-  plant (and 7.8 SWU) (any old [SWU calculator](https://www.urenco.com/swu-calculator)
+  plant (and 7.8 SWU) (any old [SWU calculator](https://www.urenco.com/swu-calculator))
 * A breeder reactor with a recycling fuel cycle can pull [about 900 MWd/kg]({% link
   energy-density.md %}) out of non-enriched nuclear fuel (natural or depleted uranium or
 thorium)
 * There are 6.1 million tonnes of uranium in reasonably assured deposits ([World
   Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx))
 * There are 6.3 million tonnes of thorium in reasonably assured deposits ([World
-  Nuclear Thorium](https://world-nuclear.org/information-library/current-and-future-generation/thorium.aspx)
+  Nuclear Thorium](https://world-nuclear.org/information-library/current-and-future-generation/thorium.aspx))
 * Uranium exists in seawater at an average concentration of 0.003 ppm (also World Nuclear
   Uranium)
 * There are about 332 million cubic miles of water on Earth, 96.5% of it is in the ocean
   ([USGS](https://www.usgs.gov/special-topic/water-science-school/science/how-much-water-there-earth?qt-science_center_objects=0#qt-science_center_objects)).
   At a density of 1 gram/cm$$^3$$, this comes out to 1.4 yottagrams of water, or 1.4e21 kg)
 * At 0.003 ppm, this means there are about 4000 million tonnes of uranium in seawater
-* The average crustal concentration of uranium is about 2.8 ppm ([WN Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx)
+* The average crustal concentration of uranium is about 2.8 ppm ([World Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx))
 * There are about 6.5 million million tonnes (6.5e13 tonnes) of uranium in the crust,
   which continuously replenishes the uranium in seawater through erosion, runoff, and
   plate tectonics.
