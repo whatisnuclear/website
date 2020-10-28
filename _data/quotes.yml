@@ -205,7 +205,7 @@
   fame: 3
   expertise: 1
   img: jillette.jpg
-  img_src: "Photo credit: Gage Skidmore"
+  img_src: "Gage Skidmore"
   quotes:
     - quote: >
         If stupid hippies hadn't killed nuclear power, we'd have nuclear power plants,
@@ -219,7 +219,7 @@
   fame: 2
   expertise: 4
   img: krug.jpg
-  img_src: "Photo credit: IPCC"
+  img_src: "IPCC"
   quotes:
     - quote: >
         All low-carbon primary energy sources, including renewables, nuclear and fossil
@@ -227,4 +227,20 @@
       date: 2019-04-11
       venue: "Presentation on SR 1.5 report to Spanish Nuclear Industry Forum"
       url: https://www.foronuclear.org/en/press-room/press-releases/ipcc-acknowledges-the-important-role-of-nuclear-energy-in-the-fight-against-climate-change/
+
+- name: Sean Ono Lennon
+  title: Musician
+  fame: 2
+  expertise: 1
+  img: slennon.jpg
+  img_src: "LHCollins"
+  quotes:
+    - quote: >
+        Honestly the people against nuclear tend to be science illiterate. Don’t build on fault
+        lines and volcanoes sure, but don’t pretend to be for clean energy while being against
+        nuclear. It makes zero sense. Waste is a question but there are better and better ways to
+        dispose.
+      date: 2020-10-26
+      venue: "Twitter thread"
+      url: https://twitter.com/seanonolennon/status/1320845213213118465
 
