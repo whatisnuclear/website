@@ -143,7 +143,7 @@ thousands of years. The cycle has cost and proliferation concerns associated wit
 Additionally, we have significantly less operational experience with breeder reactors, so we would
 need to train builders and operators for such a machine. Using a Thorium cycle instead of a
 Uranium-Plutonium cycle may allow breeding in less exotic reactors. Using this kind of fuel cycle,
-nuclear power can truly be considered sustainable.
+nuclear power can <a href="{% post_url 2020-10-28-nuclear-energy-is-longterm-sustainable %}">truly be considered sustainable</a>.
 
 <p>Questions? <a href="contact.html">Send them in!</a></p>
 

@@ -57,7 +57,9 @@ No cloudy days or calm nights will prevent nuclear energy from being delivered t
 This can be an important complement to low-carbon but variable power sources like wind and solar.
 
 #### <span class="fa fa-battery-full fa-lg text-success"></span> Nuclear energy is sustainable
-We have enough nuclear fuel resources to power the world ten times over for hundreds of thousands of years with advanced
+
+We have enough nuclear fuel resources to power the world for [literally billions of
+years]({% post_url 2020-10-28-nuclear-energy-is-longterm-sustainable %}) with advanced
 reactors. Even with conventional reactors, peak uranium is far off.
 
 Humans use a lot of energy, and we're using more every day. Between 2000 and 2010, the world total 
