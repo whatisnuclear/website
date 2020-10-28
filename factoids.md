@@ -118,6 +118,10 @@ nukes. Wind and solar and hydro can help out here! Let&rsquo;s do it!
 
 <a name="disamountofu"></a>
 ## Factoid 4: Amount of Uranium
+
+**UPDATE:** See our [Nuclear Sustainability post]({% post_url
+2020-10-28-nuclear-energy-is-longterm-sustainable %})
+
 Uranium is not the most plentiful element on the planet. Won&rsquo;t this just
 bring us into the same problem we have with oil? The answer is yes, unless we
 recycle our fuel. Or if we find a way to extract Uranium cheaply from the sea

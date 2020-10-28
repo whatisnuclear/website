@@ -34,6 +34,11 @@ renewable. However, billion-year sustainability does require advances in [seawat
 extraction](https://pubs.acs.org/toc/iecred/55/15), reactor [construction performance]({%
 link economics.md %}), and public acceptance.
 
+{: .alert .alert-success}
+We are talking about **all primary energy** here rather than just electricity. In
+most parts of the world, electricity is about 40% of total energy. The rest is for
+transportation, industrial heat, etc.
+
 ## The basis facts:
 
 * Total world energy consumption of primary energy in 2019 was about 584 exajoules ([BP
@@ -99,6 +104,25 @@ resource will reach the sea:
 
     units "(6.1e6 tonnes+6.3e6 tonnes+4000e6 tonnes+6.5e13 tonnes* 0.5)*900 MW*day/kg/(584 exajoules/year)"  "years"
     4.3279315e+09
+
+As a bonus, let's compute how many reactors we'd need to make 100% of the primary world
+energy. Assuming big gigawatt-scale reactors, we find:
+
+    $ units "584 exajoules/yr /(3300 MW)"
+    5607.9511
+
+We have about 450 reactors in the world today, so we'd need to build about 5100 more
+large reactors to produce all our energy with low-carbon nuclear. 
+
+## More thoughts
+
+Of course, no serious energy planners propose using 100% of anything, so this will be
+mixed with other low-carbon energy sources like wind, solar, hydro, geothermal, etc. as
+appropriate on a regional basis.
+
+The mined uranium and thorium values are very likely to increase if demand increases. As
+with most minerals, as demand goes up, people prospect more and find more. The numbers
+here are expected to be conservative for the mined resources.
 
 # See Also
 * [Cohen,
