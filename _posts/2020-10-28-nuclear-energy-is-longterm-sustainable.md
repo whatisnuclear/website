@@ -81,10 +81,15 @@ For mined uranium and non-breeders, we use
     $ units "6.1 million tonnes*60 MW*day/kg/9.5/(584 exajoules/year)"  "years"
     5.6997837
 
-For seawater uranium, it's
+For seawater uranium and non-breeders, it's
 
     $ units "4000 million tonnes*60 MW*day/kg/9.5/(584 exajoules/year)"  "years"
     3737.5631
+
+{: .alert .alert-danger}
+Because non-breeders are 140x less fuel efficient than breeders, it has long been
+considered impractical to use low-grade uranium resources like seawater or crustal nuclear
+fuel in non-breeders. The energy to get the material out is too high given the return.
 
 Breeders with mined uranium:
 
@@ -136,6 +141,17 @@ The mined uranium and thorium values are very likely to increase if demand incre
 with most minerals, as demand goes up, people prospect more and find more. The numbers
 here are expected to be conservative for the mined resources.
 
+For a robust analysis, the energy required to extract the resources needed to generate
+power must be considered. The concept of Energy Return on Investment (EROI) formalizes
+this. Some studies, like [Bardi, 2010](https://doi.org/10.3390/su2040980), attempt to do
+this for seawater uranium extraction, but only consider non-breeder reactors (long
+considered impractical) and assume uranium extraction will require as much power as
+reverse osmosis desalination, which is likely a strong overestimate considering the more
+[recent research](https://pubs.acs.org/toc/iecred/55/15). Even if seawater uranium
+extraction is hard, the fact that each average crustal rock has 20x more nuclear energy
+than an equal mass of coal validates the true practicality of billion-year nuclear
+resources.
+
 # See Also
 * [Cohen, "Breeder reactors: A renewable energy source", 1983](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf)
   -- This same story written in 1983
@@ -146,4 +162,6 @@ here are expected to be conservative for the mined resources.
   -- Another explanation of uranium renewability
 * [Nuclear power proposed as renewable energy (Wikipedia)](https://en.wikipedia.org/wiki/Nuclear_power_proposed_as_renewable_energy) -- A
   summary of the debate
+
+
 
