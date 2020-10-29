@@ -88,23 +88,23 @@ For seawater uranium, it's
 
 Breeders with mined uranium:
 
-    units "6.1 million tonnes*900 MW*day/kg/(584 exajoules/year)"  "years"
+    $ units "6.1 million tonnes*900 MW*day/kg/(584 exajoules/year)"  "years"
     812.21918
 
 Breeders with mined uranium and thorium:
 
-    units "(6.1 million tonnes+6.3 million tonnes)*900 MW*day/kg/(584 exajoules/year)"  "years"
+    $ units "(6.1 million tonnes+6.3 million tonnes)*900 MW*day/kg/(584 exajoules/year)"  "years"
     1651.0685
 
 Breeders with mined and seawater resources:
 
-    units "(6.1e6 tonnes+6.3e6 tonnes+4000e6 tonnes)*900 MW*day/kg/(584 exajoules/year)" "years"
+    $ units "(6.1e6 tonnes+6.3e6 tonnes+4000e6 tonnes)*900 MW*day/kg/(584 exajoules/year)" "years"
     534253.81
 
 Breeders with mined, seawater, and erosion resources, assuming about half the erosion
 resource will reach the sea:
 
-    units "(6.1e6 tonnes+6.3e6 tonnes+4000e6 tonnes+6.5e13 tonnes* 0.5)*900 MW*day/kg/(584 exajoules/year)"  "years"
+    $ units "(6.1e6 tonnes+6.3e6 tonnes+4000e6 tonnes+6.5e13 tonnes* 0.5)*900 MW*day/kg/(584 exajoules/year)"  "years"
     4.3279315e+09
 
 As a bonus, let's compute how many reactors we'd need to make 100% of the primary world
@@ -115,6 +115,16 @@ energy. Assuming big gigawatt-scale reactors, we find:
 
 We have about 450 reactors in the world today, so we'd need to build about 5100 more
 large reactors to produce all our energy with low-carbon nuclear. 
+
+Another nearly unbelievable fact (HT reddit user `paulfdietz`) is that if you dig up an
+average crustal rock, it will have 20x more nuclear energy in it than a piece of pure coal of
+the same mass. With crustal abundances of 2.8 and 6 ppm for uranium and thorium, and a
+chemical energy density of 33 MJ/kg for coal, the math here is:
+
+    $ units "(2.8e-6 + 6e-6) * 900 MW*day/kg / (33 MJ/kg)" 
+    20.736
+
+😲
 
 ## More thoughts
 
@@ -127,7 +137,13 @@ with most minerals, as demand goes up, people prospect more and find more. The n
 here are expected to be conservative for the mined resources.
 
 # See Also
-* [Cohen,
-  1983](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf)
-This same story written in 1983 
-* [Conca, 2016](https://www.forbes.com/sites/jamesconca/2016/07/01/uranium-seawater-extraction-makes-nuclear-power-completely-renewable/#24ee9a3159ae) Another explanation of uranium renewability
+* [Cohen, "Breeder reactors: A renewable energy source", 1983](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf)
+  -- This same story written in 1983
+* [Lightfoot, "Nuclear Fission Fuel is Inexhaustible",
+  2006](https://doi.org/10.1109/EICCCC.2006.277268) -- A similar story
+* [Conca, "Uranium Seawater Extraction Makes Nuclear Power Completely Renewable",
+  2016](https://www.forbes.com/sites/jamesconca/2016/07/01/uranium-seawater-extraction-makes-nuclear-power-completely-renewable/#24ee9a3159ae)
+  -- Another explanation of uranium renewability
+* [Nuclear power proposed as renewable energy (Wikipedia)](https://en.wikipedia.org/wiki/Nuclear_power_proposed_as_renewable_energy) -- A
+  summary of the debate
+
