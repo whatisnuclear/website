@@ -141,31 +141,6 @@ The mined uranium and thorium values are very likely to increase if demand incre
 with most minerals, as demand goes up, people prospect more and find more. The numbers
 here are expected to be conservative for the mined resources.
 
-
-# See Also
-* [Tsouris, C. Uranium extraction: Fuel from seawater. Nat Energy 2, 17022
-  (2017)](https://doi.org/10.1038/nenergy.2017.22). -- modern uranium extraction
-  technology
-* [A special 2016 edition of Industrial and Engineering Chemistry Research dedicated to
-  uranium seawater extraction.](https://pubs.acs.org/toc/iecred/55/15)
-* [H. D. Lightfoot, W. Manheimer, D. A. Meneley, D. Pendergast and G. S. Stanford,
-  "Nuclear Fission Fuel is Inexhaustible," 2006 IEEE EIC Climate Change Conference,
-  Ottawa, ON, 2006, pp. 1-8,](https://doi.org/10.1109/EICCCC.2006.277268)
-* [Cohen, Bernard L. "Breeder reactors: A renewable energy source." Am. J. Phys 51.1 (1983): 78.](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf)
-  -- This same story written in 1983
-  2006](https://doi.org/10.1109/EICCCC.2006.277268) -- A similar story
-* [Weinberg, Alvin M. "Energy as an ultimate raw material." Physics Today 12.11 (1959): 18.](https://doi.org/10.1063/1.3060564) -- A similar case made by a nuclear pioneer in 1959
-* [Conca, "Uranium Seawater Extraction Makes Nuclear Power Completely Renewable",
-  2016](https://www.forbes.com/sites/jamesconca/2016/07/01/uranium-seawater-extraction-makes-nuclear-power-completely-renewable/#24ee9a3159ae)
-  -- Another explanation of uranium renewability
-* [Nuclear power proposed as renewable energy (Wikipedia)](https://en.wikipedia.org/wiki/Nuclear_power_proposed_as_renewable_energy) -- A
-  summary of the debate
-* [Dungan, K., et al. "Uranium from seawater–Infinite resource or improbable aspiration?."
-  Progress in Nuclear Energy 99 (2017):
-  81-85.](https://doi.org/10.1016/j.pnucene.2017.04.016) -- a critique of this idea with a
-  focus on non-breeders (even though seawater uranium with non-breeders has been long
-  considered impractical)
-
 # Critiques
 
 For a robust analysis, the energy required to extract the resources needed to generate
@@ -178,6 +153,32 @@ reverse osmosis desalination, which is likely a strong overestimate considering 
 extraction is hard, the fact that each average crustal rock has 20x more nuclear energy
 than an equal mass of coal validates the true practicality of billion-year nuclear
 resources.
+
+
+
+# See Also
+* [Tsouris, C. Uranium extraction: Fuel from seawater. Nat Energy 2, 17022
+  (2017)](https://doi.org/10.1038/nenergy.2017.22). -- modern uranium extraction
+  technology
+* [A special 2016 edition of Industrial and Engineering Chemistry Research dedicated to
+  uranium seawater extraction.](https://pubs.acs.org/toc/iecred/55/15)
+* [H. D. Lightfoot, W. Manheimer, D. A. Meneley, D. Pendergast and G. S. Stanford,
+  "Nuclear Fission Fuel is Inexhaustible," 2006 IEEE EIC Climate Change Conference,
+  Ottawa, ON, 2006, pp. 1-8,](https://doi.org/10.1109/EICCCC.2006.277268) -- a similar
+  case made in 2006
+* [Cohen, Bernard L. "Breeder reactors: A renewable energy source." Am. J. Phys 51.1 (1983): 78.](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf)
+  -- This same story written in 1983
+* [Weinberg, Alvin M. "Energy as an ultimate raw material." Physics Today 12.11 (1959): 18.](https://doi.org/10.1063/1.3060564) -- A similar case made by a nuclear pioneer in 1959
+* [Conca, "Uranium Seawater Extraction Makes Nuclear Power Completely Renewable",
+  2016](https://www.forbes.com/sites/jamesconca/2016/07/01/uranium-seawater-extraction-makes-nuclear-power-completely-renewable/#24ee9a3159ae)
+  -- Another explanation of uranium renewability
+* [Nuclear power proposed as renewable energy (Wikipedia)](https://en.wikipedia.org/wiki/Nuclear_power_proposed_as_renewable_energy) -- A
+  summary of the debate
+* [Dungan, K., et al. "Uranium from seawater–Infinite resource or improbable aspiration?."
+  Progress in Nuclear Energy 99 (2017):
+  81-85.](https://doi.org/10.1016/j.pnucene.2017.04.016) -- a critique of this idea with a
+  focus on implications of doing it with non-breeders (even though seawater uranium with
+  non-breeders has been long considered impractical)
 
 
 
