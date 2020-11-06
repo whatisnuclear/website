@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nukes in Space
+title: Nuclear energy in Space
 description: Nuclear technology has great uses in space.
 ---
 
@@ -28,6 +28,10 @@ batteries that can provide tens or hundreds of Watts for decades.
 Nuclear reactors can be used in space to produce heat, electricity, and/or
 propulsion. They could be used to power a Mars or Moon base or configured as a
 nuclear-powered rocket to get around out there. 
+
+In November 2020, a [company called Space Nuclear Power Corporation was spun
+out](https://www.nucnet.org/news/new-us-company-to-develop-los-alamos-kilopower-reactor-11-5-2020)
+of a Los Alamos National Lab effort to commercialize space-based nuclear reactors.
 
 ## Video
 
