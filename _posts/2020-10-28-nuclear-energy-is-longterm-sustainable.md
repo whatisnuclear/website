@@ -179,6 +179,9 @@ resources.
   81-85.](https://doi.org/10.1016/j.pnucene.2017.04.016) -- a critique of this idea with a
   focus on implications of doing it with non-breeders (even though seawater uranium with
   non-breeders has been long considered impractical)
-
-
+* [Weinberg, "Energy as the Ultimate Raw Material",
+  1959](https://doi.org/10.1063/1.3060564) -- Paper in which Alvin Weinberg demonstrates
+  that just mining regular old rocks and burning their thorium and uranium would require
+  rock mining of about the same scale as fossil fuel mining. This is his "Burning the
+  rocks" paper
 

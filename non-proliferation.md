@@ -131,5 +131,9 @@ bomb and set off in a populated area, the dispersed radiation could cause seriou
 radiation poisoning. We have people working on inventorying, tracking, and detecting these materials
 as well.
 
+## See Also
+
+* [Reader on nuclear nonproliferation (1980)](https://babel.hathitrust.org/cgi/pt?id=uc1.31210014947285&view=1up&seq=1) --- A collection of writings collected at the request of Congress for better understanding the various aspects of nuclear non-proliferation policy.
+
 </div>
 </div>
