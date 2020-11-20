@@ -140,7 +140,7 @@ And advanced designs can make them even safer.
 
 <div class="row">
 <div class="col-sm-12">
-<p class="text-center"><a class="btn btn-info" href="{% link risk.md %}" role="button"><i class="fa fa-life-buoy fa-lg"></i> Read more about safety &raquo;</a></p>
+<p class="text-center"><a class="btn btn-info" href="{% link risk.md %}" role="button"><i class="fas fa-life-ring fa-lg"></i> Read more about safety &raquo;</a></p>
 </div>
 </div>
 
