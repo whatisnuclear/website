@@ -190,7 +190,12 @@ The following video shows a world-expert in nuclear waste walking amongst the sp
 in dry casks at the Columbia Generating Station in Washington state. 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EUvvIzH2W6g" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" 
+  src="https://www.youtube.com/embed/EUvvIzH2W6g" 
+  frameborder="0"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/EUvvIzH2W6g?autoplay=1><img src=https://img.youtube.com/vi/EUvvIzH2W6g/hqdefault.jpg alt='Waste finland video'><span>▶</span></a>"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
 
 
@@ -265,7 +270,12 @@ operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-t
 an excellent video describing the plan. 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A9vWhoT_45s" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" 
+  src="https://www.youtube.com/embed/A9vWhoT_45s" 
+  frameborder="0"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/A9vWhoT_45s?autoplay=1><img src=https://img.youtube.com/vi/A9vWhoT_45s/hqdefault.jpg alt='Waste finland video'><span>▶</span></a>"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
 
 ### Deep Boreholes
@@ -343,7 +353,12 @@ them with rocket-powered trains, crashing them into cement walls, and dropping t
 spikes. 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Rmp3_CLx4VY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" 
+  src="https://www.youtube.com/embed/Rmp3_CLx4VY" 
+  frameborder="0"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/Rmp3_CLx4VY?autoplay=1><img src=https://img.youtube.com/vi/Rmp3_CLx4VY/hqdefault.jpg alt='Waste video'><span>▶</span></a>"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
 
 Still, some communities have expressed concern that, even if the radiation doesn't leak,
