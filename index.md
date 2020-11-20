@@ -27,7 +27,7 @@ geographically, but nuclear is generally among the least popular forms of energy
 
 ### Nuclear power plants make safe global-scale sustainable energy
 
-#### <span class="fa fa-sun-o fa-lg text-warning"></span> Nuclear is clean-air energy
+#### <span class="fas fa-tree fa-lg text-success"></span> Nuclear is clean-air energy
 
 Because nuclear fuel contains so much more energy in a small mass than anything else, it's
 possible to keep all the byproducts accounted for and out of the biosphere, in strong
@@ -37,7 +37,7 @@ potential global solution to climate change.
 
 <figure>
 <a href="/img/lifecycle-carbon-emissions-300dpi.png"><img class="img-responsive
-center-block" src="/img/lifecycle-carbon-emissions-200dpi-nocap.png" alt="graph
+center-block" src="/img/lifecycle-carbon-emissions.svg" alt="graph
 showing carbon intensity of energy sources in grams CO2-equivalent per kilowatt
 electric generated. Fossil and biomass are bad, in the 400-800 range. Solar PV
 is 40. Hydro is 24. Nuclear is 12. Wind is 11. There is an arrow saying that
@@ -49,8 +49,7 @@ et.al., 2014: Annex III: Technology-specific cost and performance parameters. In
 2014: Mitigation of Climate Change. Contribution of Working Group III to the 5th Assessment Report
 of the IPCC</a>. (<a href="/img/lifecycle-carbon-emissions-nolabel.png">Unlabeled version here</a>)</figcaption>
 </figure>
-
-#### <span class="fa fa-cog fa-spin fa-lg text-info"></span> Nuclear reactors make dependable 24-hour baseload energy
+#### <span class="fas fa-cloud-moon-rain fa-lg text-info"></span> Nuclear reactors make dependable 24-hour baseload energy
 
 One loading of fuel lasts 18+ months in a reactor, and they generally operate for that long non-stop. 
 No cloudy days or calm nights will prevent nuclear energy from being delivered to those who depend on it.

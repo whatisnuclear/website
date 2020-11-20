@@ -17,7 +17,7 @@ date: 2020-02-28
 
 Happy innovating!
 
-<button type="button" onClick="history.go(0);" class="btn btn-success"><i class="fa fa-refresh"></i> Again!</button>
+<button type="button" onClick="history.go(0);" class="btn btn-success"><i class="fas fa-redo-alt"></i> Again!</button>
 
 <hr/>
 
