@@ -54,7 +54,7 @@ given fission event, but you always get the same average composition as billions
 billions of atoms split. You basically get a huge variety of elements, shown below.
 
 <figure>
-<img class="img-responsive" src="/img/fission-product-yields-u235-thermal-endf71-900.png"
+<img class="img-responsive" src="/img/blank.png" data-echo="/img/fission-product-yields-u235-thermal-endf71-900.png"
 alt="A periodic table of the elements highlighting the ones that can emerge as fission
 products."/> <caption>The fission products include radioactive <a href="{% link
 isotopes.md %}">isotopes</a> of the elements shown here. Color is proportional to the log
@@ -96,7 +96,8 @@ after the atom splits. This *afterglow heat* is what makes nuclear waste hazardo
 most toxic waste, the fact that nuclear waste becomes less toxic with time is quite unique.
 
 <figure> <a href="/img/fission-energy.svg"><img
-src="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
+src="/img/blank.png"
+data-echo="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
 class="img img-responsive center-block" ></a>  
 
 <caption markdown="1">How much energy comes out [via different mechanisms]({% link
@@ -153,7 +154,7 @@ Don't miss [this great XKCD "what if" scenario](https://what-if.xkcd.com/29/) as
 
 <figure>
 <a href="/img/spent-fuel-pool.jpg">
-<img class="img-responsive" src="/img/spent-fuel-pool-sm.jpg" alt="A spent fuel pool"/>
+<img class="img-responsive" src="/img/blank.png" data-echo="/img/spent-fuel-pool-sm.jpg" alt="A spent fuel pool"/>
 </a>
 <caption>The spent fuel pool at a nuclear power plant. <a
 href="https://www.flickr.com/photos/nrcgov/14698776453/">Photo by the NRC</a>
@@ -176,7 +177,7 @@ href="https://www.flickr.com/photos/nrcgov/36801710635/">Photo by the NRC</a>
 -->
 <figure>
 <a href="/img/paris-at-dry-cask.jpg">
-<img class="img-responsive" src="/img/paris-at-dry-cask.jpg" alt="Dry cask nuclear fuel storage"/>
+<img class="img-responsive" src="/img/blank.png" data-echo="/img/paris-at-dry-cask.jpg" alt="Dry cask nuclear fuel storage"/>
 </a>
 <caption>Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
 Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: <a
@@ -241,7 +242,7 @@ project suffered what can only be called a political death.
 
 <figure>
 <a href="/img/yucca-nrc-large.jpg">
-<img class="img-responsive" src="/img/yucca-nrc-sm.jpg" alt="Yucca Mountain nuclear waste
+<img class="img-responsive" src="/img/blank.png" data-echo="/img/yucca-nrc-sm.jpg" alt="Yucca Mountain nuclear waste
 repository"/>
 </a>
 <caption>Yucca Mountain nuclear waste repository under construction <a
@@ -255,7 +256,7 @@ nuclear waste rather than civilian, but many of the challenges are related.
 
 <figure>
 <a href="/img/wipp-nrc-lg.jpg">
-<img class="img-responsive" src="/img/wipp-nrc-sm.jpg" alt="WIPP nuclear waste
+<img class="img-responsive" src="/img/blank.png" data-echo="/img/wipp-nrc-sm.jpg" alt="WIPP nuclear waste
 repository"/>
 </a>
 <caption>Waste Isolation Pilot Plant (WIPP) salt getting cleared <a
@@ -289,7 +290,7 @@ biosphere for extra time.
 
 <figure>
 <a href="/img/deep-borehole.jpg">
-<img class="img-responsive" src="/img/deep-borehole.jpg" alt="A deep borehole"/>
+<img class="img-responsive" src="/img/blank.png" data-echo="/img/deep-borehole.jpg" alt="A deep borehole"/>
 </a>
 <caption>A deep borehole <a
 href="https://www.osti.gov/servlets/purl/1420819">Courtesy of DOE</a>
@@ -414,7 +415,7 @@ density of the atom.
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<div class="pull-right"> <img class="thumbnail" src="img/fuel_assembly.jpg" alt="A chopped
+<div class="pull-right"> <img class="thumbnail" src="/img/blank.png" data-echo="img/fuel_assembly.jpg" alt="A chopped
 section of a spent fuel (nuclear waste) assembly (this particular one is actually a
 mock-up)" title="The top of a fuel assembly (this particular one is actually a mock-up)"
 /></div>
@@ -434,7 +435,7 @@ fissionable in fast reactors and can thus be used as fuel! This still would leav
 the **fission products**. The decay of each nuclide vs. time is shown below.
 
 <div class="thumbnail">
-<a href="/img/waste-curies-long.gif"><img src="/img/waste-curies-long-small.gif" alt="Components of decay heat vs. time"></a>
+<a href="/img/waste-curies-long.gif"><img src="/img/blank.png" data-echo="/img/waste-curies-long-small.gif" alt="Components of decay heat vs. time"></a>
 <div class="caption">
 A chart of the activity of all the radioactive
 nuclides as a function of time up to 1 million years from 1 MT of nuclear
@@ -492,3 +493,4 @@ summarizing much of the current state of nuclear waste management
 </div>
 </div>
 
+{% include lazyload.html %}
