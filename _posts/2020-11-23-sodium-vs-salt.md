@@ -7,7 +7,7 @@ description: >
     mean significantly different things in the context of advanced nuclear
     technology. This post explains the difference between salt and sodium.
 author: Nick Touran, Ph.D.
-image: /img/sodium-vs-salt.jpg
+image: /img/salt-vs-sodium.jpg
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
