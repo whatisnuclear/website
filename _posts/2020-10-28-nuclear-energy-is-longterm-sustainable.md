@@ -184,3 +184,5 @@ resources.
   focus on implications of doing it with non-breeders (even though seawater uranium with
   non-breeders has been long considered impractical)
 
+</div>
+</div>

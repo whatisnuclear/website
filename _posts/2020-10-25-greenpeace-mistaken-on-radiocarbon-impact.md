@@ -99,3 +99,7 @@ Fukushima discharges will not alter human DNA.
 * [UNSCEAR 2008 Appendix
   B](https://www.unscear.org/docs/publications/2008/UNSCEAR_2008_Annex-B-CORR.pdf) showing
   radionuclide releases from other facilities
+
+</div>
+</div>
+
