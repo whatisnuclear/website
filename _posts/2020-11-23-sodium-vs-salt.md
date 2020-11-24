@@ -24,12 +24,12 @@ concepts.
 <div class="row">
 <div class="col-md-4" markdown="1">
 ### Liquid sodium metal
-Elemental sodium (Na) heated up so it flows like Mercury or
-solder. (Sodium metal is not a salt!)
+Elemental sodium (Na) is a liquid metal like mercury and
+solder.
 <div class="thumbnail" markdown="1">
 ![Sodium metal](/img/mercury-in-switch.jpg){: .img-responsive }
 <div class="caption centered" markdown="1">
-Liquid sodium metal looks almost exactly like Mercury
+Liquid sodium metal looks almost exactly like mercury
 (photo is actually mercury, from
 [Medvedev](https://commons.wikimedia.org/wiki/File:Mercury_Switch_without_housing.jpg))
 </div>
@@ -52,10 +52,11 @@ ORNL photo of FLiBe salt
 </div>
 </div>
 
-Molten salts have been used as a fluid fuel in 2 historical reactors: the ARE and the
-MSRE. They have also been proposed as the coolant for solid-fuel reactors. Molten salt is
-used in nuclear concepts and in operating solar-thermal facilities as thermal storage,
-where energy can be stored for several hours as heat.
+Molten salts have been used as a low-pressure fluid fuel in 2 historical reactors: the ARE
+and the MSRE, and is a favorite design choice for next-generation reactors due to
+potential safety advantages and simplifications. They have also been proposed as the
+coolant for solid-fuel reactors. Molten salt is used in nuclear concepts and in operating
+solar-thermal facilities where energy can be stored for several hours as heat.
 </div>
 </div>
 
@@ -68,9 +69,9 @@ example, the [Aircraft Reactor Experiment
 and used sodium metal to cool the reflector. Some modern reactor concepts also
 utilize both sodium metal and molten salt.
 
-Note that some salts, like Sodium-Chloride (table salt) contain sodium. This is the sodium
-people refer to in nutrition. Others salts (like Potassium-Chloride and FLiBe) do not
-contain any sodium.
+Note that while sodium metal is not in any way a salt, some salts, like Sodium-Chloride
+(table salt) contain sodium. This is the sodium people refer to in nutrition. Others salts
+(like Potassium-Chloride and FLiBe) do not contain any sodium.
 
 
 # See Also
