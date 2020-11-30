@@ -17,7 +17,18 @@ date: 2020-02-28
 
 Happy innovating!
 
-<button type="button" onClick="history.go(0);" class="btn btn-success"><i class="fas fa-redo-alt"></i> Again!</button>
+<div class="row">
+
+<button type="button" onClick="history.go(0);" class="btn btn-success"><i class="fas fa-redo-alt"></i> Again!</button> 
+
+<a class="btn btn-success"
+href="https://onestop.delaware.gov/Start_Account"
+role="button">
+<i class="fas fa-hand-holding-usd"></i>
+Start Company
+</a>
+</div>
+
 
 <hr/>
 
