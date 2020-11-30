@@ -42,7 +42,7 @@ The fuel forms are fairly well-known, but we used some acronyms in the type of f
 * UNF -- Used nuclear fuel; just another blanket term for spent nuclear fuel/nuclear waste
 
 ### All combinations
-There are currently 1,360,800 different reactor concepts in the database. If you want to
+There are currently 3,855,600 different reactor concepts in the database. If you want to
 see them all printed out, download [this giant zip file](./assets/all_reactors.zip).
 
 ### But why?
