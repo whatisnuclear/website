@@ -45,6 +45,14 @@ The fuel forms are fairly well-known, but we used some acronyms in the type of f
 There are currently 1,360,800 different reactor concepts in the database. If you want to
 see them all printed out, download [this giant zip file](./assets/all_reactors.zip).
 
+### But why?
+This is kind of a tongue-in-cheek hat-tip to a common misconception of nuclear amateurs
+who think that a reactor idea alone is a big part of improving nuclear energy's service to
+humanity. In reality, reactor concept ideas are a dime a dozen, while [developing and
+deploying reactors]({% link reactor_history.md %}) is the challenging part. Innovations
+and advances in reactor design process, reactor construction, and reactor operation are
+needed vastly more than new reactor concepts.
+
 
 </div>
 </div>
