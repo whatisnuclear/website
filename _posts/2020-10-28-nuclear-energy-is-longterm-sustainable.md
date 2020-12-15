@@ -64,7 +64,7 @@ thorium)
   At a density of 1 gram/cm$$^3$$, this comes out to 1.4 yottagrams of water, or 1.4e21 kg)
 * At 0.003 ppm, this means there are about 4000 million tonnes of uranium in seawater
 * The average crustal concentration of uranium is about 2.8 ppm ([World Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx))
-* There are about 6.5 million million tonnes (6.5e13 tonnes) of uranium in the crust,
+* There are about 6.5e13 tonnes (65 trillion) of uranium in the crust,
   which continuously replenishes the uranium in seawater through erosion, runoff, and
   plate tectonics.
 * Thorium requires the use of a breeder reactor so it is to be included only once breeder
