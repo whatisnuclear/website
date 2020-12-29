@@ -9,7 +9,7 @@ image: /img/ops-station.jpg
 <div class="row">
 <div class="col-md-8" markdown="1">
 # That time we almost built 8 gigawatt-class floating nuclear power plants
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
+##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}, (updated 2020-12-29). Reading time: {{ page.content | reading_time_as_i }}
 <img class="img pull-right" style="width:220px" src="/img/car-svg.svg" alt="a car"/>
 In 1969, at the height of the First Nuclear Era, an engineer at New Jersey's PSE&G utility
 company named Richard Eckert imagined a peculiar model for manufacturing, siting, and
@@ -401,14 +401,20 @@ start building FNPPs to power islets and offshore drilling platforms in the Sout
 Sea.](https://www.asiatimes.com/2019/03/article/ocean-going-nuclear-plants-for-south-china-sea/)
 In December 2019, the Russian [Akademik
 Lomonosov](https://en.wikipedia.org/wiki/Akademik_Lomonosov) FNPP began operating in the
-Arctic. ThorCon plans to use shipyard construction but then deliver their plants to
-land-based sites. OPS had a similar option for riverine sites.
+Arctic. 
+
+Some small advanced nuclear companies are planning to use shipyard construction and/or
+floating operation. [ThorCon plans](http://thorconpower.com/production/) to use shipyard
+construction but then deliver their plants to land-based sites. OPS had a similar option
+for riverine sites. [Seaborg plans
+to](https://www.theguardian.com/environment/2020/dec/17/floating-mini-nukes-could-power-countries-by-2025-says-startup)
+operate their reactors offshore.
 
 In 2020, South Korea's Kepco Engineering and Construction Company and Daewoo Shipbuilding
 and Marine Engineering [signed a MOU to develop offshore nuclear
 plants](https://www.world-nuclear-news.org/Articles/Kepco-E-C-teams-up-with-shipbuilder-for-floating-r).
-This team is particularly interesting because they combine one of the best reactor teams
-with one of the best shipbuilders.
+This team is particularly interesting because they combine one of the best and most mature
+reactor teams with one of the best shipbuilders.
 
 With climate change looming, FNPPs may be one of the best ways to build vast amounts of
 very low-carbon nuclear plants in record-breaking time with unsurpassed quality and
@@ -465,6 +471,9 @@ Systems, Docket no. STN 50-437. June
   Ocean](https://www.smithsonianmag.com/history/the-american-plan-to-build-nuclear-power-plants-in-the-ocean-27801262/)
 * Selfridge [Floating Nuclear Power Plants: A fleet on the
   horizon?](https://heinonline.org/HOL/LandingPage?collection=journals&handle=hein.journals/envlnw6&div=36&id=&page=)
+* Science Friday, [Shipping Nuclear Power Out To
+  Sea](https://www.sciencefriday.com/segments/floating-nuclear-power-plants/) --- A
+  discussion inspired by this post
 
 
 </div>
