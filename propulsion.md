@@ -8,17 +8,22 @@ author: Nick Touran
 <div class="col-md-8" markdown="1">
 
 # Nuclear propulsion
-##### By Nick Touran
+##### *Nick Touran, Ph.D., 2018-02-17 (updated 2020-12-29)*
 
-When nuclear energy was first harnessed, the US Navy became extremely
-interested in using it to power its fleet of submarines. Nuclear energy
-is perfect for submarines because:
+Nuclear-powered engines have propelled submarines, aircraft carriers, destroyers, merchant
+shipping vessels, and icebreakers.  Nuclear energy is interesting at sea because:
 
-* It's very energy-dense, so a sub could be underway at high power for decades without 
+* It's very energy-dense, so a ship could be underway at high power for decades without 
 refueling. 
-* It doesn't require oxygen for combustion, so there's no need to surface frequently, and
+* It does not emit carbon dioxide and therefore allows shipping without climate change
+* It doesn't require oxygen for combustion, so submarines don't need to surface frequently, and
 the engine and sailors don't compete for air. 
 
+
+## Submarines
+
+When nuclear energy was first harnessed, the US Navy became extremely
+interested in using it to power its fleet of submarines. 
 A nuclear-powered submarine has a critical nuclear chain reaction going 
 on near the center of the submarine. This boils water, which then 
 goes through a turbine. The turbine is hooked up to a big drive-shaft 
@@ -58,10 +63,11 @@ The US Navy has had nuclear-powered cruisers as well, but
 does not have any now. 
 
 ## Civilian nuclear propulsion
-Russia operates a fleet of nuclear-powered icebreakers. 
-A few nuclear merchant ships operated but none are in commission
-today. They would be an excellent way to reduce the emissions
-from the huge amount of international shipping that's ongoing today. 
+
+Running merchant ships with nuclear-powered engines is a good way to decarbonize
+the world's shipping infrastructure. In the early days of the nuclear industry, this
+received a large amount of attention, culminating in the creation and operation of the NS
+Savannah.
 
 <div class="alert alert-success" role="alert" markdown="1">
 **Did you know?** The [NS
@@ -70,18 +76,33 @@ cargo ship that operated between 1962 and 1972. It's deactivated now and
 moored at Pier 13 in Baltimore. 
 </div>
 
-## Relation to commercial nuclear power
+Some good information on nuclear marine propulsion may be found in:
 
-Commercial nuclear power plants evolved from naval nuclear reactors, 
-and the main designs in use today making electricity (PWRs and BWRs) 
-are direct decedents of naval reactors. Water coolant is really
-nice at sea because there's a lot of cooling water. A lot of 
-plant operators learned how to run nuclear reactors in the Navy. 
 
-## Besides ships, what else has been propelled by nuclear energy?
+* Kramer's 624-page book [Nuclear Propulsion for Merchant
+  Ships](https://babel.hathitrust.org/cgi/pt?id=uiug.30112104123911&view=1up&seq=7) from
+1962 is a trove.
+* [This 240-page 1958
+  report](https://babel.hathitrust.org/cgi/pt?id=uc1.31822031448046&view=1up&seq=9) covers
+a wide variety of options in this space
+* [P. Garay wrote a whole article on nuclear-powered tugs in
+  '63](https://doi.org/10.1111/j.1559-3584.1963.tb04392.x) 
+* [Gravina et al wrote this
+  report](https://eprints.soton.ac.uk/351357/1/CONCEPTS%2520FOR%2520A%2520MODULAR%2520NUCLEAR%2520POWERED%2520CONTAINERSHIP.pdf)
+on the topic (which btw has a fruitful reference section itself)
+
+
+Today, Russia operates a fleet of nuclear-powered icebreakers.  A few nuclear merchant ships
+operated but only one is in commission today (the
+[Sevmorput](https://en.wikipedia.org/wiki/Sevmorput)). They would be an excellent way to
+reduce the emissions from the huge amount of international shipping that's ongoing today. 
+
+
+
+## Nuclear airplanes and rockets
 
 <a href="/img/HTRE-3.jpg"><img src="/img/HTRE-3-sm.jpg" alt="The HTRE-3 test reactor hooked to jets for airplanes" class="img img-responive pull-right" style="width:350px;padding:15px;"/></a>
-Nuclear propulsion is well-suited for [space travel](/space.html) and rockets, so that's 
+Nuclear propulsion is well-suited for [space travel]({% link space.md %}) and rockets, so that's 
 under development. The Russians did have some nuclear-powered tanks. 
 Before intercontinnental ballistic missiles were developed, the US Air 
 Force worked a lot on the Aircraft Nuclear Propulsion project to make
@@ -97,6 +118,11 @@ charged by nearby nuclear power plants.
 * [Fast attacks & Boomers](http://americanhistory.si.edu/subs/operating/propulsion/reactor/index.html#) (Smithsonian)
 * [Submarine Power & Propulsion](http://americanhistory.si.edu/subs/operating/propulsion/index.html) (Smithsonian)
 * [Nuclear Marine Propulsion](https://en.wikipedia.org/wiki/Nuclear_marine_propulsion) (Wikipedia)
+* [Offshore nuclear power plants]({% post_url 2020-01-26-offshore-power-systems %}) ---
+  the idea of building central power plants at sea rather than using them for marine
+propulsion
+
+
 
 </div> 
 </div>
