@@ -1803,6 +1803,11 @@ The UNT library was also really useful for this work.
 * [DOE Flickr album of early AEC reactor
   development](https://www.flickr.com/photos/departmentofenergy/albums/72157637416489424/with/10729606635/)
   — lots of pictures of MTR and other early reactors
+* [AEC Construction Photos](https://www.osti.gov/opennet/aec-construction) --- thousands
+  of photos of various AEC facilities under construction
+* [Prospectus on
+  Nucleonics](https://atomicinsights.com/wp-content/uploads/Prospectus-on-Nucleonics.pdf)
+--- a seminal 1944 document exploring the implications of nuclear technology
 
 <div class="alert alert-success" markdown="1">
 **Historical tidbits** One fascinating reference contains [a
