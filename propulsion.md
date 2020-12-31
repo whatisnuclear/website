@@ -122,6 +122,23 @@ charged by nearby nuclear power plants.
   the idea of building central power plants at sea rather than using them for marine
 propulsion
 
+* [Peter Lobner's Marine Nuclear Power Slide Decks
+  ](https://lynceans.org/category/nuclear-propulsion/)--- A breathtaking collection of public
+  information on nuclear marine propulsion.
+  * [Marine Nuclear Power 1939 – 2018 Part 1 Introduction](https://lynceans.org/wp-content/uploads/2020/12/Marine-Nuclear-Power-1939-2018_Part-1_Introduction.pdf)
+  * [Marine Nuclear Power 1939 – 2018 Part 2A USA
+    submarines](https://lynceans.org/wp-content/uploads/2020/02/Marine-Nuclear-Power-1939-2018_Part-2A_USA_submarines.pdf)
+  * [Marine Nuclear Power 1939 – 2018 Part 2B USA surface
+    ships](https://lynceans.org/wp-content/uploads/2018/07/Marine-Nuclear-Power-1939-2018_Part-2B_USA_surface-ships.pdf)
+  * [Marine Nuclear Power 1939 – 2018 Part 3A R1 Russia
+    submarines](https://lynceans.org/wp-content/uploads/2018/10/Marine-Nuclear-Power-1939-2018_Part-3A_R1_Russia_submarines.pdf)
+  * [Marine Nuclear Power 1939 – 2018 Part 3B R1 Russia surface ships & non-propulsion apps](https://lynceans.org/wp-content/uploads/2018/10/Marine-Nuclear-Power-1939-2018_Part-3B_R1_Russia_surface-ships-non-propulsion-apps.pdf)
+  * [Marine Nuclear Power 1939 – 2018 Part 4 Europe &
+    Canada](https://lynceans.org/wp-content/uploads/2018/07/Marine-Nuclear-Power-1939-2018_Part-4_Europe-Canada.pdf)
+  * [Marine Nuclear Power 1939 – 2018 Part 5 China-India-Japan &
+    Others](https://lynceans.org/wp-content/uploads/2018/07/Marine-Nuclear-Power-1939-2018_Part-5_China-India-Japan-Others.pdf)
+  * [Marine Nuclear Power 1939 – 2018 Part 6 R1 Arctic marine
+    nuclear](https://lynceans.org/wp-content/uploads/2019/02/Marine-Nuclear-Power-1939-2018_Part-6-R1_Arctic-marine-nuclear.pdf)
 
 
 </div> 
