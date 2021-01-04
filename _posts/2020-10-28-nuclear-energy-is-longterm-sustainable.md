@@ -157,6 +157,7 @@ resources.
 
 
 # See Also
+* [Ivanov, A.S., Parker, B.F., Zhang, Z. et al. Siderophore-inspired chelator hijacks uranium from aqueous medium. Nat Commun 10, 819 (2019)](https://doi.org/10.1038/s41467-019-08758-1). --- More modern uranium extraction technology
 * [Tsouris, C. Uranium extraction: Fuel from seawater. Nat Energy 2, 17022
   (2017)](https://doi.org/10.1038/nenergy.2017.22). --- modern uranium extraction
   technology
