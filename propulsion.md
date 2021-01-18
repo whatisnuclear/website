@@ -115,6 +115,8 @@ charged by nearby nuclear power plants.
 
 
 ## See Also
+* [Nuclear-powered Ships from the World Nuclear
+  Association](https://www.world-nuclear.org/information-library/non-power-nuclear-applications/transport/nuclear-powered-ships.aspx)
 * [Fast attacks & Boomers](http://americanhistory.si.edu/subs/operating/propulsion/reactor/index.html#) (Smithsonian)
 * [Submarine Power & Propulsion](http://americanhistory.si.edu/subs/operating/propulsion/index.html) (Smithsonian)
 * [Nuclear Marine Propulsion](https://en.wikipedia.org/wiki/Nuclear_marine_propulsion) (Wikipedia)
