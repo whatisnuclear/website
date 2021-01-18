@@ -18,8 +18,8 @@ particularly large atoms can split in two (or *fission*), releasing a shockingly
 amount of energy. When these atoms are arranged properly in a machine, one splitting atom
 can cause nearby ones to split, creating a chain reaction.  Such a machine is called a
 *nuclear reactor*, and can convert the nuclear energy into electricity, shaft horsepower
-(for submarines, etc.), building heating, desalinated water, and lots of other things
-useful to civilization.  Today, nuclear power plants worldwide produce around 400 GW of
+(for marine propulsion, etc.), building heating, desalinated water, and lots of other things
+useful to civilization. Today, nuclear power plants worldwide produce around 400 GW of
 electricity, enough to power 400 million average households.
 
 Nuclear energy is controversial due to concerns about radiation. Public support varies
