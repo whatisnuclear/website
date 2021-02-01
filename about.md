@@ -127,6 +127,8 @@ date is given.
 
 We're always looking for help in adding and maintaining content. If you find a typo or have a suggestion, feel free to open an issue on <a href="https://github.com/whatisnuclear">our github</a> or send us a pull request. If you want to make a major contribution, [contact us](contact.html) first to discuss. We will maintain expert editorial privilege on all content. 
 
+## Search
+<iframe src="https://duckduckgo.com/search.html?site=whatisnuclear.com&prefill=Search whatisnuclear.com" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
 </div>
 </div>
 
