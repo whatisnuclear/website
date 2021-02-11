@@ -14,7 +14,7 @@ mathjax: true
 Energy density is like the miles-per-gallon rating of a power plant. It measures how much
 energy is released (in megajoules) given a certain mass of fuel (in kilograms). Perhaps
 the most physically unique thing about nuclear power is that the energy density of nuclear
-fuel is millions of times higher than any chemical (like fossil fuel, biofuel, or
+fuel is about 2 million times higher than that of any chemical (like fossil fuel, biofuel, or
 batteries).
 
 ## Details of the computation
@@ -56,7 +56,7 @@ unrecoverable. </p>
 
 Another factor worth considering is how complete the fuel is consumed. For example, a wood
 fire may burn out before all the energy is extracted from the wood. In traditional LWR
-nuclear power plants, usually only 5-7% of the energy of the fuel is extracted.
+nuclear power plants, usually only 5-7% of the fuel's energy is extracted.
 Furthermore, the fuel has already gone through an enrichment process so only about 1% of
 the energy of the mined resource is used. Advanced nuclear power plants called [breeder
 reactors]({% link recycling.md %}) such as the [liquid metal fast breeder reactor]({% link
@@ -65,7 +65,11 @@ or the [molten salt breeder reactor]({% link msr.md %}) (MSBR) can extract much 
 the mined energy. The fraction of the energy extracted from the fuel in a reactor is
 called the burnup.
 
-So in a LWR, the effective energy density is around 5% of 80 million, or 4 million MJ/kg.
+So in a LWR, the effective energy density is around 1% of 80 million, or 0.8 million MJ/kg.
+Note that from a high-level waste perspective, the burnup of the fuel going into the reactor is what
+matters (rather than the effective burnup of the mined material), so 5% of 80 million is
+more appropriate.
+
 
 ## Comparison with other fuels
 
