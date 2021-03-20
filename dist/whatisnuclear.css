@@ -35,6 +35,15 @@ figure {
     width: 800px;
 }
 
+.container p {
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+
+.container ul li {
+    line-height: 1.7;
+}
+
 /* Try to make columns with figures have equal heights */
 
 
