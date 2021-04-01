@@ -5,6 +5,7 @@ description: A generator of innovative nuclear reactor ideas
 author: Nick Touran
 toc: true
 date: 2020-02-28
+image: /img/random-reactor-demo.png
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
