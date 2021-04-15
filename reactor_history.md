@@ -1838,6 +1838,7 @@ requirements did not often focus primarily on economics.
   (1956)](https://babel.hathitrust.org/cgi/pt?id=umn.31951d02097618f&view=1up&seq=3) —
   Lots of great discussions with various companies about their developments. Includes
   description of GE's decision to go all-in on BWRs.
+* [Experimental Power and Test Reactors](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095053164&view=1up&seq=1) — an incredible collection of photos and descriptions of some famous early reactors
 * [Dresden Atomic Power Station Construction Video (1958)](https://www.youtube.com/watch?v=02wIGsI2P9Y)
 * [Test reactors meeting for industry (1959)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086567941&view=1up&seq=17) — Good advice on how to order and construct test reactors, and a price list for getting your stuff irradiated in MTR
 * [National Reactor Testing Station Thumbnail sketch (1967)](https://babel.hathitrust.org/cgi/pt?id=uiug.30112099074673&view=1up&seq=16) — Good description of dozens
