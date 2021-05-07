@@ -138,12 +138,19 @@ smaller at faster energies. Take a look at these two graphs showing the probabil
 function of neutron energy for U-235 and U-238. By the way, the units of energy used here
 are electron-volts (eV), where 1 eV is the energy that an electron would gain in an
 electric field with 1 Volt.
+</div>
+ <div class="row">
+<div class="col-md-6" markdown="1">
+<img class="img-responsive" src="img/u235-cap-fiss.png" alt="capture and fission cross sections of U235"/>
 
-<table style="border:0;margin:0.0em 0 0.0em 0px;"><tr>
-<td style="height:0.0em; padding:0px 0px 0px 0px; border-left:solid 0px rgb(0,0,0); border-right:solid 0px rgb(255,255,255); border-top:solid 0px rgb(255,255,255); border-bottom:solid 0px rgb(255,255,255); background-color:rgb(255,255,255); text-align:left; font-weight:normal; color:rgb(80,80,80); font-size:110%;"><img style="width:400px;float:left;" src="img/u235-cap-fiss.png" alt="capture and fission cross sections of U235"/></td><td style="height:0.0em; padding:0px 0px 0px 0px; border-left:solid 0px rgb(0,0,0); border-right:solid 0px rgb(255,255,255); border-top:solid 0px rgb(255,255,255); border-bottom:solid 0px rgb(255,255,255); background-color:rgb(255,255,255);"><img style="width:400px;" src="img/u238-capture-fission.png" alt="capture and fission cross sections of U-238" /></td>
-</tr>
-</table>
+</div>
+<div class="col-md-6" markdown="1">
+<img class="img-responsive" src="img/u238-capture-fission.png" alt="capture and fission cross sections of U-238" />
+</div>
+</div>
 
+ <div class="row">
+<div class="col-md-8" markdown="1">
 <h2 id="splittingmore">Fast reactors split more atoms of U-238 than usual</h2>
 Depending on the enrichment, our fuel&rsquo;s properties will be a mixture of these
 two plots. In order to sustain a chain reaction, the number of neutrons produced from
@@ -163,9 +170,17 @@ faster than traditional nuclear waste.
 
 <h2 id="havingmore">Fast reactors have high breeding ratios and more neutrons going around</h2>
 
-<table><tr><td>
-<a href="img/breeding_ratio.png"><img style="width:400px" src="img/breeding_ratio.png" alt="plot of U238 absorption and Pu239 fission vs. energy" /></a>	</td><td>
-<a href="img/nubar.png"><img style="width:400px" src="img/nubar.png" alt="plot of neutrons per fission as a function of energy for uranium and plutonium" /></a></td></tr></table>
+</div>
+ <div class="row">
+<div class="col-md-6" markdown="1">
+<a href="img/breeding_ratio.png"><img class="img-responsive" src="img/breeding_ratio.png" alt="plot of U238 absorption and Pu239 fission vs. energy" /></a>
+</div>
+<div class="col-md-6" markdown="1">
+<a href="img/nubar.png"><img class="img-responsive" src="img/nubar.png" alt="plot of neutrons per fission as a function of energy for uranium and plutonium" /></a>
+</div>
+</div>
+ <div class="row">
+<div class="col-md-8" markdown="1">
 
 The breeding ratio is a measure of how much new fissile fuel a reactor is capable of
 producing as it runs. It is the ratio of the number of fissile atoms created with the
