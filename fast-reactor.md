@@ -139,17 +139,19 @@ function of neutron energy for U-235 and U-238. By the way, the units of energy 
 are electron-volts (eV), where 1 eV is the energy that an electron would gain in an
 electric field with 1 Volt.
 </div>
- <div class="row">
+</div>
+
+<div class="row">
 <div class="col-md-6" markdown="1">
 <img class="img-responsive" src="img/u235-cap-fiss.png" alt="capture and fission cross sections of U235"/>
-
 </div>
+
 <div class="col-md-6" markdown="1">
 <img class="img-responsive" src="img/u238-capture-fission.png" alt="capture and fission cross sections of U-238" />
 </div>
 </div>
 
- <div class="row">
+<div class="row">
 <div class="col-md-8" markdown="1">
 <h2 id="splittingmore">Fast reactors split more atoms of U-238 than usual</h2>
 Depending on the enrichment, our fuel&rsquo;s properties will be a mixture of these
@@ -171,7 +173,9 @@ faster than traditional nuclear waste.
 <h2 id="havingmore">Fast reactors have high breeding ratios and more neutrons going around</h2>
 
 </div>
- <div class="row">
+</div>
+
+<div class="row">
 <div class="col-md-6" markdown="1">
 <a href="img/breeding_ratio.png"><img class="img-responsive" src="img/breeding_ratio.png" alt="plot of U238 absorption and Pu239 fission vs. energy" /></a>
 </div>
@@ -179,7 +183,8 @@ faster than traditional nuclear waste.
 <a href="img/nubar.png"><img class="img-responsive" src="img/nubar.png" alt="plot of neutrons per fission as a function of energy for uranium and plutonium" /></a>
 </div>
 </div>
- <div class="row">
+
+<div class="row">
 <div class="col-md-8" markdown="1">
 
 The breeding ratio is a measure of how much new fissile fuel a reactor is capable of
