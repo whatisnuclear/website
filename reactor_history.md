@@ -1019,7 +1019,7 @@ Pathfinder in Sioux Falls, SD, BONUS in Rincón, Puerto Rico, and the Empire Sta
 Development Agency Vallecitos Experimental Superheat Reactor (EVESR) near San Francisco
 (which was actually an add-on reactor that you bolt to the outlet of your normal BWR).
 
-They key technical challenges for nuclear superheat has been reliable fuel elements at high
+The key technical challenges for nuclear superheat has been reliable fuel elements at high
 temperature, considering burnup, corrosion, and erosion.
 
 <div class="row">
@@ -1328,7 +1328,7 @@ in Arkansas provided fast-reactor physics data.
 <div class="panel panel-info">
 <div class="panel-heading"><b>Fast vs. thermal neutrons</b></div>
 <div class="panel-body" markdown="1">
-Neutrons emerge from of a splitting nucleus at about 10,000 miles per second.  They are
+Neutrons emerge from a splitting nucleus at about 10,000 miles per second.  They are
 generally slowed down to a few miles per second by a *moderator* to minimize the amount of
 fissile fuel required. Once slowed down, they are called *thermal* neutrons indicating
 that they are at equilibrium with the thermal agitation of the atoms or molecules at the
@@ -1621,7 +1621,7 @@ in serial production to proceed.
   a good combination.
 
 * Although it may cause old Milton Shaw to roll in his grave, Some of the reactor ideas tried in
-  the past may be worth reconsidering due to materials and fuel advances since then.
+  the past may be worth reconsidering due to material and fuel advances since then.
 
 * The quest for economical nuclear power in commoditized markets has been worked on
   across the decades. **Thousands upon thousands of pages** are freely available
@@ -1629,7 +1629,7 @@ in serial production to proceed.
   and OSTI. Perhaps surprisingly, *much of the information is still relevant today!*
 
 * Component testing and development is much more significant than many modern nuclear
-  developers might expect
+  developers might expect.
 
 * Nuclear developers of the past were not in any sense paralyzed by a lack of
   computational power. They ran critical experiments instead of high-fidelity neutronics
