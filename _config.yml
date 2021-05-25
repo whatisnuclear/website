@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://whatisnuclear.com" 
 twitter_username: whatisnuclear
 github_username: whatisnuclear
-github_repo_url: https://github.com/whatisnuclear/website/
+github_repo_url: https://github.com/whatisnuclear/website/blob/master/
 title_image: https://whatisnuclear.com/img/reactor_200.png
 
 markdown: kramdown
