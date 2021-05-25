@@ -105,8 +105,17 @@ href="https://www.energy.gov/lm/doe-history/historical-resources/history-publica
 related publications</a> at the DOE historical publications page</td>
 </tr>
 
-
 </table>
+
+# Other educational websites
+
+* [CANTEACH](https://canteach.candu.org/) --- An epic collection of freely available
+  information about CANDU reactors
+
+# Other reading lists
+
+* [Neutron Bytes Nuclear Reading List](https://neutronbytes.com/nuclear-reading-list/) ---
+  a good list.
 
 </div>
 </div>
