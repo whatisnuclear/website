@@ -7,7 +7,6 @@
     - recycling
     - nuclear-engineer
     - nuclear-engineer-people
-    - nuclear-reading-list
     #- nuclear-as-clean-energy
 
 - title: Uses
@@ -62,4 +61,10 @@
     - scale-with-batteries
     - energy-flow
     - origin-of-nuclear-energy
+
+- title: More
+  pages:
+    - about
+    - quotes
+    - nuclear-reading-list
     - links
