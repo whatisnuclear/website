@@ -244,3 +244,17 @@
       venue: "Twitter thread"
       url: https://twitter.com/seanonolennon/status/1320845213213118465
 
+- name: David MacKay FRS
+  title: Regius Professor of Engineering at the University of Cambridge
+  fame: 2
+  expertise: 5
+  img: mackay.jpg
+  img_src: https://en.wikipedia.org/wiki/David_J._C._MacKay#/media/File:David_John_Cameron_MacKay_by_David_Stern.jpg
+  quotes:
+    - quote: >
+        Please don’t get me wrong: I’m not trying to be pro-nuclear. I’m just
+        pro-arithmetic.
+      date: 2009-05-01
+      venue: "Sustainable Energy – without the hot air"
+      url: https://www.withouthotair.com/c24/page_169.shtml
+
