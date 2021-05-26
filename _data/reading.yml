@@ -1,0 +1,102 @@
+# Data that gets rendered via template loops
+# into different templates
+- category: General Textbooks
+  description: Oldies but goodies.
+  items:
+    - author: Lamarsh 
+      title: Introduction to Nuclear Reactor Theory
+      description: >
+        A classic introductory level textbook often taught in the first nuclear engineering
+        class that nuclear engineering students take.
+        The old version is available but the third edition is much more common.
+      urls: 
+       - label: 1961 edition in full
+         href: https://babel.hathitrust.org/cgi/pt?id=coo.31924004142463&view=1up&seq=6
+    - author: Duderstadt & Hamilton 
+      title: Nuclear Reactor Analysis (1976)
+      description: >
+        *The* classic senior undergraduate nuclear engineering textbook covering
+        the basics of reactor physics, neutron transport calculations, thermal/hydraulics, and
+        plant design.  Often taught to the senior class of nuclear engineering students.
+      urls: 
+        - label: Available in full
+          href: https://deepblue.lib.umich.edu/handle/2027.42/89079
+    - author: Bell and Glasstone
+      title: Nuclear Reactor Theory (1970)
+      description: >
+        A graduate-level classic textbook describing the physical concepts and
+        mathematical methods used to predict the behavior of neutrons in nuclear reactors.
+      urls:
+        - label: Available in full
+          href: https://www.osti.gov/biblio/4074688-nuclear-reactor-theory
+
+- category: Academic Reports
+  items: 
+   - description: 
+     author: MIT
+     title: The Future of Nuclear Energy in a Carbon-Constrained World (2018)
+     urls:
+       - label: MIT
+         href: https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/
+     description: A relatively modern analysis of the nuclear industry
+
+- category: Open-access publications
+  items: 
+   - author: Yang, W.S.
+     title: Fast Reactor Physics and Computational Methods (2012)
+     urls:
+       - label: DOI
+         href:  https://doi.org/10.5516/NET.01.2012.504
+     description: >
+       An excellent overview of fast reactor physics and computational methods from a
+       legendary author
+
+- category: Technology-specific resources
+  description: >
+    There are lots of compilations of info on various subsets of nuclear technology
+  items: 
+   - author: Dietrich and Zinn
+     title: Solid Fuel Reactors
+     urls:
+       - label: Hathitrust
+         href:  https://babel.hathitrust.org/cgi/pt?id=mdp.39015004452796&view=1up&seq=9
+     description: >
+        A highlight from the 1958 Atoms for Peace conference, this book details solid fuel 
+        breeder reactors including Fermi-1, EBR-1, and EBR-2. 
+   - author: Starr and Dickinson
+     title: Sodium Graphite Reactors
+     urls:
+       - label: Hathitrust
+         href:  https://babel.hathitrust.org/cgi/pt?id=mdp.39015003993881&view=1up&seq=7
+     description: >
+        A highlight from the 1958 Atoms for Peace conference, this book details
+        sodium-cooled, slow neutron reactors intended to achieve passive low-pressure
+        safety, high temperature efficiency, and operate on very low enriched or natural
+        uranium.
+   - author: Lane
+     title: Fluid Fuel Reactors
+     urls:
+       - label: moltensalt.org
+         href:  http://moltensalt.org/references/static/downloads/pdf/
+     description: >
+        A highlight from the 1958 Atoms for Peace conference, this book details
+        fluid fueled reactors like aqueous homogeneous reactors and molten salt reactors.
+
+- category: History books
+  description: >
+    Nuclear technology has a rich history with many fascinating developments. There are
+    **dozens upon dozens of deep-dive references** in the [reference section
+    ](/reactor_history.html#references) of our [nuclear reactor development
+    history](/reactor_history.html) page. But we'll put some here too.
+  items: 
+   - description: 
+     author: Hewlett and Holl
+     title: Atoms for Peace and War (1990)
+     urls:
+       - label: Available in full
+         href:  https://www.energy.gov/management/downloads/hewlett-and-holl-atoms-peace-and-war
+     description: >
+       A phenomenal deep-dive into the history of nuclear enterprise in the USA. See also
+       <a
+       href="https://www.energy.gov/lm/doe-history/historical-resources/history-publications">Many
+       related publications</a> at the DOE historical publications page
