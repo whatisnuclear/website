@@ -55,6 +55,12 @@
   description: >
     There are lots of compilations of info on various subsets of nuclear technology
   items: 
+   - author: IAEA
+     title: Advances in Small Modular Reactor Technology Developments (2020)
+     description: Modern info about small modular reactors
+     urls:
+       - label: IAEA
+         href: https://aris.iaea.org/Publications/SMR_Book_2020.pdf 
    - author: Dietrich and Zinn
      title: Solid Fuel Reactors
      urls:
