@@ -23,20 +23,13 @@ for people just getting into nuclear technology.
 {{ category.description }}
 
 <table class="table table-striped">
-<tr><th>Author</th><th>Title</th><th>URL(s)</th><th>Description</th></tr>
+<tr><th>Author</th><th>Title</th><th>Description</th></tr>
 {%- for item in category.items -%}
 <!-- tried using markdown table but no line wrap was killing me -->
 <tr>
 <td>{{ item.author }}</td>
-<td>{{ item.title }}</td>
 <td markdown="1">
-<ul>
-{%- for url in item.urls -%}
-<li markdown="1">
-[{{ url.label }}]({{ url.href }}) 
-</li>
-{% endfor %}
-</ul>
+[{{ item.title }}]({{ url.href }})
 </td>
 <td markdown="1">
 {{ item.description }}
