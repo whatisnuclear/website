@@ -1251,7 +1251,7 @@ challenge, of course, was sodium-water isolation.
 
 > The principal problem in the SDR is a psychological one. Many people have a feeling that
 > sodium and water react explosively; they do not react explosively. Hydrogen and oxygen
-> do react explosively. The pyrotechics that you may have seen on sodium combining with
+> do react explosively. The pyrotechnics that you may have seen on sodium combining with
 > H<sub>2</sub>O is principally one in which hydrogen has reacted with oxygen in the air. The
 > reaction rate is of the order of microseconds; it is truly an explosive reaction.
 > Sodium and water can be handled quite safely and quite easily, as I will show you later.
