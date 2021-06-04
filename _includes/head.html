@@ -76,9 +76,13 @@
   {% if page.mermaid %}
     <script type="application/javascript" src="{{ "dist/js/mermaid.min.js" | relative_url
         }}" defer></script>
-    <script type="application/javascript" src="{{ "dist/js/mermaid_render.js" |
-        relative_url }}" defer></script>
-    <link rel="stylesheet" href="{{ "dist/css/mermaid.css" | relative_url }}" >
+    <style>
+.mermaid .label {
+        font-size: 14px;
+        line-height: 1.42857143;
+        font-weight: normal;
+}
+    </style>
   {% endif %}
 
 
