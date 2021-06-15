@@ -23,6 +23,11 @@
         A graduate-level classic textbook describing the physical concepts and
         mathematical methods used to predict the behavior of neutrons in nuclear reactors.
       urls: https://www.osti.gov/biblio/4074688-nuclear-reactor-theory
+    - author: M. A. Schultz.
+      title: Control of nuclear reactors and power plants (1961)
+      description: >
+        An excellent and detailed textbook about how to control a chain reacting nuclear power plant
+      urls: https://catalog.hathitrust.org/Record/001619690
 
 - category: Academic Reports
   items: 
