@@ -29,7 +29,7 @@ for people just getting into nuclear technology.
 <tr>
 <td>{{ item.author }}</td>
 <td markdown="1">
-[{{ item.title }}]({{ url.href }})
+[{{ item.title }}]({{ item.url }})
 </td>
 <td markdown="1">
 {{ item.description }}
