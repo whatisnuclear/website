@@ -2,7 +2,7 @@
 layout: default
 title: Molten Salt Reactors
 category: reactor-types yeah
-description: Molten salt reactors, such as the LFTR, are completely different types of nuclear reactors than those currently operating. They have interesting benefits, and a different set of problems. This page discusses what they are, what they can do, what issues they face, and their history.
+description: Molten salt reactors are completely different types of nuclear reactors than those currently operating. They have interesting benefits, and a different set of problems. This page discusses what they are, what they can do, what issues they face, and their history.
 author: Nick Touran
 image: /img/are.jpg
 ---
@@ -18,16 +18,18 @@ src="/img/msr.png" class="thumbnail" alt="Molten salt reactor schematic from Gen
 from GenIV" /></a>
 </div>
 
-Molten Salt Reactors (MSRs) are nuclear reactors that use a fluid fuel in the form of very hot
-fluoride or chloride salt rather than the solid fuel used in most reactors. Since the fuel salt is
-liquid, it can be both the fuel (producing the heat) and the coolant (transporting the heat to the
-power plant). There are many different types of MSRs, but the most talked about one is definitely
-the Liquid Fluoride Thorium Reactor (LFTR). This MSR has [Thorium]({% link thorium.md %})
-and Uranium dissolved in a fluoride salt and can get planet-scale amounts of energy out of our
-natural resources of Thorium minerals, much like a fast breeder can get large amounts of energy out
-of our Uranium minerals. There are also fast breeder fluoride MSRs that don&rsquo;t use Th at all.
-And there are chloride salt based fast MSRs that are usually studied as [nuclear waste]({% link waste.md %})
-burners due to their extraordinary amount of very fast neutrons.
+Molten Salt Reactors (MSRs) are nuclear reactors that use a fluid fuel in the form of very
+hot fluoride or chloride salt rather than the solid fuel used in most reactors. Since the
+fuel salt is liquid, it can be both the fuel (producing the heat) and the coolant
+(transporting the heat to the power plant). There are many different types of MSRs,
+including the Molten Salt Breeder Reactor (also know commercially as the Liquid Fluoride
+Thorium Reactor, or LFTR).  This MSR has [Thorium]({% link thorium.md %}) and Uranium
+dissolved in a fluoride salt and can get planet-scale amounts of energy out of our natural
+resources of Thorium minerals, much like a fast breeder can get large amounts of energy
+out of our Uranium minerals.  There are also fast breeder fluoride MSRs that don&rsquo;t
+use Th at all.  And there are chloride salt based fast MSRs that are usually studied as
+[nuclear waste]({% link waste.md %}) burners due to their extraordinary amount of very
+fast neutrons.
 
 </div></div>
 
@@ -127,7 +129,8 @@ MSRs:</p>
 	temperature starts going up, a freeze plug can melt, pouring the entire core into
 	subcritical drain tanks that are intimately linked to an ultimate heat sink, keeping them
 	cool. This is an interesting accident mitigation feature that is possible only in fluid fuel
-	reactors. </li>
+	reactors. Since freeze plugs can take some time to actuate, faster mechanisms have
+also been proposed.</li>
 </ul>
 
 
@@ -150,6 +153,7 @@ effects that can eat away at the containment. The implications of this are many.
 	surfaces will need periodic replacement. At MSRE, Tellurium caused cracking of the
 	Hastelloy-N material. This was mitigated with chemistry, but similar problems may show up in
 	long-lived power reactors. </li>
+
 <li><strong>Tritium production</strong> If lithium is used in the salt, tritium will be produced,
 	which is radioactive and extremely mobile (since it is small, it can go through metal like a
 	hot knife through butter). ORNL used a special sodium fluoroborate intermediate salt to
@@ -182,8 +186,9 @@ a bomb already, they think. Here&rsquo;s what they are worried about.</p>
 	Pa-233 absorbs too many neutrons to maintain a breeding cycle. The problem here is that that
 	ex-core U-233 is basically pure weapons-grade U-233 which could be used to make a bomb. It
 	usually comes with Zr, but separating Pa from Zr is simple. Not many common reactors require
-	such a proliferative step in their fuel cycle. Many MSR concepts do not do this, but LFTRs
-	require it. Therefore, the owner of a LFTR could be producing bombs on the side. Many of the
+	such a proliferative step in their fuel cycle. Many MSR concepts do not do this, but
+MSBRs (like the LFTR)
+	require it. Therefore, the owner of a MSBRs could be producing bombs on the side. Many of the
 	ideas for mitigating this problem (such as U-232 contamination and denaturing) only help
 	against diversion by a nefarious third party. The owners of the plant could side-step these
 	kinds of fixes easily, and that&rsquo;s really what matters.  </li>
@@ -194,16 +199,21 @@ a bomb already, they think. Here&rsquo;s what they are worried about.</p>
 	difficult for the IAEA to distinguish plate-out losses from actual proliferative losses.
 </li>
 </ul>
-<h3>Other minor issues</h3>
-<p>There are a few other concerns, but these probably have practical solutions</p>
-<ul><li><strong>Unknown waste form</strong> &mdash; It&rsquo;s not clear what nuclear waste from
-		MSRs will look like. The salt itself is not contained enough to be put in a
-		repository so someone will have to come up with a stable waste form. </li>
-<li><strong>Electrical heaters are required to stay liquid</strong> &mdash; in a prolonged power
+
+### Other minor issues
+There are a few other concerns, but these probably have practical solutions.
+
+* **Unknown waste form** &mdash; It's not clear what nuclear waste from
+  MSRs will look like. The salt itself is not contained enough to be put in a
+  repository so someone will have to come up with a stable waste form. 
+* **Electrical heaters are required to stay liquid** &mdash; in a prolonged power
 	outage, the colder parts of the heat transfer loop might solidify. This could cause
 	temperatures to rise over in the core (which will of course still be self-heated liquid).
-</li>
-</ul>
+* **Flowing delayed neutron precursors** --- since the fuel flows, the fission products
+  that generate delayed neutrons are swept out of and then back into the core. The
+  dynamics of this are unconventional and can lead to reactivity increases when the pump
+  stops.
+
 <h3>Exotics in the salt</h3>
 <p>For MSRs to breed in a thermal spectrum, the lithium in the salt must be enriched to very pure
 Li-7. Li-6 is a strong neutron poison and becomes tritium, the pesky mobile radiation source. Also,
@@ -305,9 +315,7 @@ definitely MSR work as well. They are manufacturing Hastelloy-N, separating lith
     exciting in MSRs since 1969. They plan on having both an experimental 2MW FHR and an
     experimental 2MW MSR operational by 2020. </p>
 
-<p>Several start-up companies have emerged to commercialize molten salt reactors. Hailing from MIT,
-Leslie Dewan and Mark Massie started <a href="http://www.transatomicpower.com/">Transatomic</a> to
-build a MSR fueled largely by processed nuclear waste from traditional reactors. In Canada, <a
+<p>Several start-up companies have emerged to commercialize molten salt reactors. In Canada, <a
 href="https://terrestrialenergy.com/">Terrestrial Energy</a> is working on small modular MSRs,
 featuring small reactor vessels that can be swapped out of a plant every 7 years or so. <a
 href="http://thorconpower.com/">ThorCon</a> is using its extensive experience in the ship-building
