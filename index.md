@@ -4,7 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: front
 title: Learn about nuclear energy
-description: Nuclear power plants produce sustainable and reliable clean-air electricity with very little carbon emissions. The downsides must be weighed against thes benefits. Here you will learn about the nuances behind nuclear power and nuclear energy in general.
+description: >
+    Nuclear power plants produce sustainable and reliable clean-air heat and electricity
+    with almost no lifecycle carbon emissions. The downsides must be weighed against these benefits.
+    Here you will learn about the nuances behind nuclear power and nuclear energy in general.
 ---
 
 <div class="row">
@@ -12,15 +15,17 @@ description: Nuclear power plants produce sustainable and reliable clean-air ele
 
 ### What is nuclear energy?
 
-Nuclear energy involves splitting or combining atoms to produce useful energy.  Everything
-around you is made up of atoms. In the late 1930s, it was discovered that some
-particularly large atoms can split in two (or *fission*), releasing a shockingly large
-amount of energy. When these atoms are arranged properly in a machine, one splitting atom
-can cause nearby ones to split, creating a chain reaction.  Such a machine is called a
-*nuclear reactor*, and can convert the nuclear energy into electricity, shaft horsepower
-(for marine propulsion, etc.), building heating, desalinated water, and lots of other things
-useful to civilization. Today, nuclear power plants worldwide produce around 400 GW of
-electricity, enough to power 400 million average households.
+Everything around you is made of atoms. In the late 1930s, we discovered that the centers
+(or nuclei) of some particularly large atoms found in nature can split in two (or
+*fission*), releasing a shockingly large amount of energy in the form of heat. Because it
+emerges from the atomic nucleus, we call this *nuclear energy*.
+
+When atoms are arranged properly in a machine, each splitting nucleus can induce its
+neighbors to split, creating a controlled chain reaction.  Such a machine is
+called a *nuclear reactor*, and can convert the nuclear energy into electricity, shaft
+horsepower (for marine propulsion, etc.), building heating, desalinated water, hydrogen,
+and/or many other things useful to civilization. Today, nuclear power plants worldwide
+produce around 400 GW of electricity, enough to power 400 million average households.
 
 Nuclear energy is controversial due to concerns about radiation. Public support varies
 geographically, but nuclear is generally among the least popular forms of energy.
@@ -32,8 +37,8 @@ geographically, but nuclear is generally among the least popular forms of energy
 Because nuclear fuel contains so much more energy in a small mass than anything else, it's
 possible to keep all the byproducts accounted for and out of the biosphere, in strong
 contrast to fossil and biofuels which release much of their combustion wastes into the
-air.  Additionally, splitting atoms doesn't make carbon dioxide, so nuclear power is a
-potential global solution to climate change.
+air.  Crucially, splitting atoms is a carbon-free process, so nuclear power is a potential
+global solution to climate change.
 
 <figure>
 <a href="/img/lifecycle-carbon-emissions-300dpi.png"><img class="img-responsive
