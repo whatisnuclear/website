@@ -221,7 +221,7 @@ seawater extraction of uranium is not yet competitive with traditional mining (i
 around 4x more expensive), it is possible and may become economical in the near future. So while
 Misconception 4 is correct with respect to the crust, it&rsquo;s not necessarily relevant from a
 global resource perspective, and there may very well be more accessible Uranium available to us. The
-crust is estimated to weight around 1.0x10<sup>22</sup> kg, so overall, there is actually more Th.
+crust is estimated to weigh around 1.0x10<sup>22</sup> kg, so overall, there is actually more Th.
 If you want to get very technical and start including asteroid and star mining, the abundance of Th
 in the universe is estimated at about 2x that of Uranium.
 
