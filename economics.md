@@ -34,11 +34,11 @@ other form of fuel, providing many economic benefits:
 
 * One fuel loading can last for 2 years, (whereas gas plants need continuous fuel supply
   via pipeline and coal plants need continuous supply via coal trains)
-* Rock-bottom low lifecycle carbon emissions
+* Rock-bottom low lifecycle carbon emissions (12 gCO<sub>2</sub>-eq/kWh lifecycle)
 * Very small waste footprint (whereas fossil fuel plants discharge their waste to the air, nuclear
   plants contain all their lifetime waste in dry casks).
 * Very small land footprint
-* Long-term sustainability
+* [Billion-year sustainability]({% post_url 2020-10-28-nuclear-energy-is-longterm-sustainable %})
 
 Thus, nuclear plants have positive long-term attributes as energy systems, but they
 require significant up-front capital cost. Unfortunately, modern economic analysis
