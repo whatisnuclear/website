@@ -1,0 +1,230 @@
+
+<!DOCTYPE html>
+<html>
+  <!--
+    WARNING! Make sure that you match all Quasar related
+    tags to the same version! (Below it's "@2.0.4")
+  -->
+
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.prod.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+    <!-- example of injection point where you write your app template -->
+    <div id="q-app">
+<q-dialog v-model="openEditor" persistent>
+      <q-card style="min-width: 350px">
+        <q-card-section>
+          <div class="text-h6">Phrases</div>
+        </q-card-section>
+
+        <q-card-section class="q-pt-none">
+          <q-input type="textarea" v-model="wordsText" autofocus />
+
+        </q-card-section>
+
+        <q-card-actions align="right" class="text-primary">
+          <q-btn flat label="Cancel" v-close-popup />
+          <q-btn flat label="Update Phrases" @click="updatePhrases()" />
+        </q-card-actions>
+      </q-card>
+    </q-dialog>
+
+        <div class="q-pa-md" >
+        <div v-for="row in 5" :key="row" class="row ">
+        <div v-for="col in 5" :key="col" class="col q-pa-xs">
+            <q-btn class="q-pa-md fit text-center" no-caps :label="words[5*(row-1)+col-1]" :color="getColor(row, col)" @click="woo(row, col)"/>
+        </div>
+        </div>
+        </div>
+
+        <div class="row q-pa-md">
+        <div class="col">
+            <q-btn class="q-pa-md fit" label="Remake card" color="red" @click="shuffle()"/>
+        </div>
+        <div class="col">
+        <h5 v-if="bingo" class="text-center">BINGO!</h5>
+        <h5 v-else class="text-center">No bingo</h5>
+        </div>
+        <div class="col items-end">
+            <q-btn class="q-pa-md fit" label="Clear card" color="blue" @click="clear()"/>
+        </div>
+        </div>
+        
+        <div class="q-pa-md">
+            <q-btn label="Change options" color="blue" @click="edit()"></q-btn>
+            <q-btn label="Reset options" color="blue" @click="resetPhrases()"></q-btn>
+        </div>
+        <div class="q-pa-md">
+            <p class="text-center"> From <a href="/">whatisnuclear.com</a></p>
+        </div>
+
+    </div>
+
+    <!-- Add the following at the end of your body tag -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.umd.prod.js"></script>
+    
+    <script>
+      /*
+        Example kicking off the UI. Obviously, adapt this to your specific needs.
+        Assumes you have a <div id="q-app"></div> in your <body> above
+       */
+
+      const app = Vue.createApp({
+        setup () {
+            const originalWords= [
+                "Small Modular Reactor",
+                "HALEU",
+                "Onkalo Waste Repository",
+                "Air pollution kills 8M/yr",
+                "Nuclear saved 1.8M lives",
+                "Fukushima",
+                "Chernobyl",
+                "Three Mile Island",
+                "What about the waste?",
+                "Gummy bears",
+                "Proliferation",
+                "Breeder reactor",
+                "Thorium",
+                "Molten Salt",
+                "Germany",
+                "France",
+                "RBMK",
+                "PWR",
+                "BWR",
+                "Hanford",
+                "Radiation on flights",
+                "Banana",
+                "Jenkins Firm Energy paper",
+                "Sun doesn't always shine",
+                "Wind doesn't always blow",
+                "LCOE",
+                "Economics",
+                "Vogtle",
+            ];
+            const words = Vue.ref(originalWords);
+            const wordsText = Vue.ref("");
+            const openEditor = Vue.ref(false);
+            const selected = Vue.ref([[0,0,0,0,0],
+                [0,0,0,0,0],
+                [0,0,0,0,0],
+                [0,0,0,0,0],
+                [0,0,0,0,0]]);
+            const bingo = Vue.ref(false);
+
+          function woo(row, col) {
+              let val = selected.value[row-1][col-1];
+              selected.value[row-1][col-1]= val? 0:1;
+              bingo.value = checkBingo()
+                      if (bingo.value) {
+                                  Quasar.Notify.create({message:"BINGO!", caption:
+                                              "Congrats!",type: "positive", timeout: 1000})
+                              }
+          }
+
+          function getColor(row, col) {
+              return selected.value[row-1][col-1]==0 ? 'primary' : 'deep-orange';
+          }
+
+          function clear() {
+            for(let row=0;row<5;row++) {
+              for(let col=0;col<5;col++) {
+                selected.value[row][col]=0;
+                      }
+                    }
+            bingo.value=false;
+          }
+
+          function shuffle() {
+              let array = words.value;
+              var currentIndex = array.length,  randomIndex;
+
+              // While there remain elements to shuffle...
+              while (currentIndex != 0) {
+
+                // Pick a remaining element...
+                randomIndex = Math.floor(Math.random() * currentIndex);
+                currentIndex--;
+
+                // And swap it with the current element.
+                [array[currentIndex], array[randomIndex]] = [
+                  array[randomIndex], array[currentIndex]];
+              }
+              clear();
+              return array;
+            }
+
+        function checkBingo() {
+            for(let row=0;row<5;row++) {
+              let sum = 0;
+              for(let col=0;col<5;col++) {
+                sum += selected.value[row][col];
+              }
+              if (sum==5) {
+                  return true;
+              }
+            }
+              for(let col=0;col<5;col++) {
+              let sum = 0;
+              // check cols
+            for(let row=0;row<5;row++) {
+                sum += selected.value[row][col];
+              }
+              if (sum==5) {
+                  return true;
+              }
+            }
+
+            // check diagonals
+            let sum1=0;
+            let sum2=0;
+            for(let row=0;row<5;row++) {
+                sum1 += selected.value[row][row];
+                sum2 += selected.value[row][4-row];
+            }
+            if (sum1==5 || sum2==5) {
+                return true;
+            }
+            return false;
+        }
+
+        function edit() {
+            wordsText.value = words.value.join("\n");
+            openEditor.value = true;
+        }
+        function updatePhrases() {
+            words.value = wordsText.value.split(/\r?\n/) 
+            openEditor.value = false;
+        }
+        function resetPhrases() {
+            words.value = originalWords;
+        }
+
+          return {
+                      words,
+                      getColor, 
+                      woo,
+                      selected,
+                      shuffle,
+                      clear, 
+                      bingo, 
+                      checkBingo,
+                      edit,
+                      wordsText,
+                      openEditor,
+                      updatePhrases,
+                      resetPhrases
+                  }
+        },
+        methods: {
+        }
+      })
+
+      app.use(Quasar)
+      app.mount('#q-app')
+    </script>
+  </body>
+</html>
