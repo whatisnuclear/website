@@ -1,12 +1,8 @@
-
 <!DOCTYPE html>
 <html>
-  <!--
-    WARNING! Make sure that you match all Quasar related
-    tags to the same version! (Below it's "@2.0.4")
-  -->
 
   <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel="stylesheet" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.prod.css" rel="stylesheet" type="text/css">
   </head>
@@ -14,7 +10,7 @@
   <body>
     <!-- example of injection point where you write your app template -->
     <div id="q-app">
-<q-dialog v-model="openEditor" persistent>
+<q-dialog v-model="openEditor" >
       <q-card style="min-width: 350px">
         <q-card-section>
           <div class="text-h6">Phrases</div>
