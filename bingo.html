@@ -1,10 +1,43 @@
 <!DOCTYPE html>
 <html>
-
   <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel="stylesheet" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.prod.css" rel="stylesheet" type="text/css">
+    <title>Bingo</title>
+
+
+  <meta name="description" content="Bingo for nuclear discussions (or anything else)">
+
+  <link rel="canonical" href="https://whatisnuclear.com/bingo.html">
+
+  <meta name="author" content="Nick Touran">
+  <link rel="icon" href="/img/favicon.ico">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+
+  <meta property="og:url" content="https://whatisnuclear.com/bingo.html" />
+  <meta property="og:site_name" content="Whatisnuclear.com's bingo Generator" />
+  <meta property="og:title" content="Nuclear Bingo" />
+  <meta property="og:image" content="https://whatisnuclear.com/img/reactor.png" />
+  
+  <meta property="og:description" content="Play Bingo for nuclear discussions, or make
+  your own bingo card and play"/>
+  
+
+
+  <!-- Twitter cards -->
+  <meta name="twitter:site"    content="@whatisnuclear"/>
+  <meta name="twitter:creator" content="@whatisnuclear"/>
+  <meta name="twitter:title"   content="Nuclear Bingo"/>
+  
+  <meta name="twitter:description" content="Play Bingo for nuclear discussions, or make
+  your own bingo card and play"/>
+  <meta name="twitter:card"  content="summary"/>
+  <meta name="twitter:image" content="https://whatisnuclear.com/img/bingo.png"/>
+  
+  <!-- end of Twitter cards -->
   </head>
 
   <body>
@@ -31,7 +64,7 @@
         <div class="q-pa-md" >
         <div v-for="row in 5" :key="row" class="row ">
         <div v-for="col in 5" :key="col" class="col q-pa-xs">
-            <q-btn class="q-pa-md fit text-center" no-caps :label="words[5*(row-1)+col-1]" :color="getColor(row, col)" @click="woo(row, col)"/>
+            <q-btn class="q-pa-xs fit text-center" no-caps :label="words[5*(row-1)+col-1]" :color="getColor(row, col)" @click="woo(row, col)"/>
         </div>
         </div>
         </div>
@@ -41,8 +74,8 @@
             <q-btn class="q-pa-md fit" label="Remake card" color="red" @click="shuffle()"/>
         </div>
         <div class="col">
-        <h5 v-if="bingo" class="text-center">BINGO!</h5>
-        <h5 v-else class="text-center">No bingo</h5>
+        <h5 v-if="bingo" class="text-center q-ma-xs">BINGO!</h5>
+        <h5 v-else class="text-center q-ma-xs">No bingo</h5>
         </div>
         <div class="col items-end">
             <q-btn class="q-pa-md fit" label="Clear card" color="blue" @click="clear()"/>
@@ -71,31 +104,45 @@
 
       const app = Vue.createApp({
         setup () {
+
+            Vue.onMounted(() => {
+              shuffle();
+            })
+
             const originalWords= [
                 "Small Modular Reactor",
                 "HALEU",
-                "Onkalo Waste Repository",
+                "Onkalo Repository",
                 "Air pollution kills 8M/yr",
-                "Nuclear saved 1.8M lives",
+                "Low carbon",
+                "Material footprint",
+                "Saved 1.8M lives",
                 "Fukushima",
                 "Chernobyl",
                 "Three Mile Island",
                 "What about the waste?",
+                "Our world in data",
                 "Gummy bears",
                 "Proliferation",
-                "Breeder reactor",
+                "It's recyclable",
+                "Breeder reactors",
                 "Thorium",
                 "Molten Salt",
+                "Floating reactors",
+                "Uranium miners",
+                "Fusion",
                 "Germany",
                 "France",
+                "China",
                 "RBMK",
                 "PWR",
                 "BWR",
                 "Hanford",
                 "Radiation on flights",
                 "Banana",
-                "Jenkins Firm Energy paper",
+                "Jenkins firm low-carbon",
                 "Sun doesn't always shine",
+                "Birds",
                 "Wind doesn't always blow",
                 "LCOE",
                 "Economics",
@@ -197,23 +244,24 @@
         }
         function resetPhrases() {
             words.value = originalWords;
-        }
+        } 
+
 
           return {
-                      words,
-                      getColor, 
-                      woo,
-                      selected,
-                      shuffle,
-                      clear, 
-                      bingo, 
-                      checkBingo,
-                      edit,
-                      wordsText,
-                      openEditor,
-                      updatePhrases,
-                      resetPhrases
-                  }
+              words,
+              getColor, 
+              woo,
+              selected,
+              shuffle,
+              clear, 
+              bingo, 
+              checkBingo,
+              edit,
+              wordsText,
+              openEditor,
+              updatePhrases,
+              resetPhrases
+          }
         },
         methods: {
         }
