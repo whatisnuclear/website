@@ -16,6 +16,9 @@ This diagram roughly shows the origin of energy we can use to help us do stuff.
 
 Most items are individually clickable to give you more info (mostly Wikipedia links).
 
+UPDATE: This [was remixed by @OperadorNuclear really
+well](https://twitter.com/OperadorNuclear/status/1403800198132994059).
+
 <div class="mermaid">
 graph TD
 
