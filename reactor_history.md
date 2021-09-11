@@ -418,7 +418,7 @@ material being stockpiled could be used later for peaceful purposes:
 > energy sources to provide very great amounts of power to turn the wheels of industry,
 > furnish us with light, heat, transportation, and the many other conveniences 
 > and blessing of peace. We who work in the Atomic Energy Commission work with 
-> the vision of that day before use.
+> the vision of that day before us.
 
 <div class="alert alert-success" markdown="1">
 Sidenote: this vision really did come true when between 2003 and 2013, fully 10% of the
