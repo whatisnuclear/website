@@ -2076,7 +2076,7 @@ evaluation.
 <div class="panel-heading"><b>Too cheap to meter?</b></div>
 <div class="panel-body" markdown="1">
 Modern writing about nuclear economics often includes a statement
-tune of "once touted as *too cheap to meter*, nuclear is actually expensive". This line 
+to the tune of "once touted as *too cheap to meter*, nuclear is actually expensive". This line 
 comes from Lewis Strauss' grandiose [speech at a Science Writers
 dinner](https://www.nrc.gov/docs/ML1613/ML16131A120.pdf) in 1954. It was a broad and hopeful
 prediction reflecting a general confidence in scientific progress:
