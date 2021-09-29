@@ -4,6 +4,22 @@
 # Fame: 1-5 How famous are they (5 most famous)
 # (These can be used to change sorting later as needed)
 #
+- name: Elon Musk
+  title: CEO of SpaceX, Tesla, etc.
+  fame: 5
+  expertise: 4
+  img: elon.jpg
+  img_src: https://en.wikipedia.org/wiki/Elon_Musk#/media/File:Elon_Musk_Royal_Society_(crop1).jpg
+  quotes:
+    - quote: >
+        We should add more nuclear energy, or at least not shut down the nuclear power
+        plants that we already have. There’s a strong movement to get rid of nuclear power
+        plants which I think is not good.
+
+      url: https://youtu.be/2MDs56gT-a8?t=1271
+      venue: Italian Tech Week 2021
+      date: 2021-09-24
+
 - name: Arnold Schwarzenegger
   title: Actor, Former Governor of CA
   fame: 5
