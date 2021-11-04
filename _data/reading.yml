@@ -28,6 +28,11 @@
       description: >
         An excellent and detailed textbook about how to control a chain reacting nuclear power plant
       urls: https://catalog.hathitrust.org/Record/001619690
+    - author: Joseph A. Thie
+      title: Reactor Noise
+      description: >
+        An AEC monograph describing noise analysis in nuclear reactors
+      urls: https://babel.hathitrust.org/cgi/pt?id=uc1.b4118397&view=1up&seq=7
 
 - category: Academic Reports
   items: 
