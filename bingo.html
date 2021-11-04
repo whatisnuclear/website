@@ -247,14 +247,15 @@
             // allow passing phrases in on URL
             let urlParams = new URLSearchParams(window.location.search);
             if(urlParams.has('p')) {
-                words.value = urlParams.get('p').split('|');
+                words.value = decodeURIComponent(atob(urlParams.get('p'))).split('|');
             }
         }
         function sharePhrases() {
             // build sharable URLs with custom choices
             let phrases= words.value.join("|");
             // strip off the existing search terms out of the location
-            let path=window.location.origin + window.location.pathname + "?p=" + phrases;
+            let path=window.location.origin + window.location.pathname + "?p=" +
+                        encodeURIComponent(btoa(phrases));
                     Quasar.copyToClipboard(path).then(() => {
                                 Quasar.Notify.create({
                                             message:"Copied sharable URL to clipboard",
