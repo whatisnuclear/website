@@ -85,6 +85,7 @@
         <div class="q-pa-md">
             <q-btn label="Change options" color="blue" @click="edit()"></q-btn>
             <q-btn label="Reset options" color="blue" @click="resetPhrases()"></q-btn>
+            <q-btn label="Share options" color="blue" @click="sharePhrases()"></q-btn>
         </div>
         <div class="q-pa-md">
             <p class="text-center"> From <a href="/">whatisnuclear.com</a></p>
@@ -101,11 +102,11 @@
         Example kicking off the UI. Obviously, adapt this to your specific needs.
         Assumes you have a <div id="q-app"></div> in your <body> above
        */
-
       const app = Vue.createApp({
         setup () {
 
             Vue.onMounted(() => {
+              loadPhrases();
               shuffle();
             })
 
@@ -242,6 +243,25 @@
             words.value = wordsText.value.split(/\r?\n/) 
             openEditor.value = false;
         }
+        function loadPhrases() {
+            // allow passing phrases in on URL
+            let urlParams = new URLSearchParams(window.location.search);
+            if(urlParams.has('p')) {
+                words.value = urlParams.get('p').split('|');
+            }
+        }
+        function sharePhrases() {
+            // build sharable URLs with custom choices
+            let phrases= words.value.join("|");
+            // strip off the existing search terms out of the location
+            let path=window.location.origin + window.location.pathname + "?p=" + phrases;
+                    Quasar.copyToClipboard(path).then(() => {
+                                Quasar.Notify.create({
+                                            message:"Copied sharable URL to clipboard",
+                                            type:"positive"
+                                })
+                            })
+        }
         function resetPhrases() {
             words.value = originalWords;
         } 
@@ -260,6 +280,7 @@
               wordsText,
               openEditor,
               updatePhrases,
+              sharePhrases,
               resetPhrases
           }
         },
