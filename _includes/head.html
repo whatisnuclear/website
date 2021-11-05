@@ -55,6 +55,7 @@
   {% endif %}
   <!-- end of Twitter cards -->
 
+  {% unless page.nocss %}
   <link rel="stylesheet" href="{{ "/font-awesome/css/all.min.css" | relative_url }}">
 
   <!-- Bootstrap core CSS -->
@@ -64,6 +65,7 @@
   <link rel="stylesheet" href="{{ "/dist/jumbotron.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/dist/whatisnuclear.css" | relative_url }}" >
   <link rel="stylesheet" href="{{ "/dist/syntax.css" | relative_url }}" >
+  {% endunless %}
 
 
   

@@ -1,94 +1,64 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: default
+title: Bingo Card Generator
+description: Play Bingo for nuclear discussions, or make your own bingo card and play
+author: Nick Touran
+image: /img/bingo.png
+---
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel="stylesheet" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.prod.css" rel="stylesheet" type="text/css">
-    <title>Bingo</title>
-
-
-  <meta name="description" content="Bingo for nuclear discussions (or anything else)">
-
-  <link rel="canonical" href="https://whatisnuclear.com/bingo.html">
-
-  <meta name="author" content="Nick Touran">
-  <link rel="icon" href="/img/favicon.ico">
-  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
-
-  <meta property="og:url" content="https://whatisnuclear.com/bingo.html" />
-  <meta property="og:site_name" content="Whatisnuclear.com's bingo Generator" />
-  <meta property="og:title" content="Nuclear Bingo" />
-  <meta property="og:image" content="https://whatisnuclear.com/img/reactor.png" />
-  
-  <meta property="og:description" content="Play Bingo for nuclear discussions, or make
-  your own bingo card and play"/>
-  
-
-
-  <!-- Twitter cards -->
-  <meta name="twitter:site"    content="@whatisnuclear"/>
-  <meta name="twitter:creator" content="@whatisnuclear"/>
-  <meta name="twitter:title"   content="Nuclear Bingo"/>
-  
-  <meta name="twitter:description" content="Play Bingo for nuclear discussions, or make
-  your own bingo card and play"/>
-  <meta name="twitter:card"  content="summary"/>
-  <meta name="twitter:image" content="https://whatisnuclear.com/img/bingo.png"/>
-  
-  <!-- end of Twitter cards -->
-  </head>
-
-  <body>
-    <!-- example of injection point where you write your app template -->
+    <style>
+    .row {
+        margin-left: unset;
+        margin-right: unset;
+    }
+    </style>
     <div id="q-app">
-<q-dialog v-model="openEditor" >
-      <q-card style="min-width: 350px">
-        <q-card-section>
-          <div class="text-h6">Phrases</div>
-        </q-card-section>
+        <q-dialog v-model="openEditor" >
+          <q-card style="min-width: 350px">
+            <q-card-section>
+              <div class="text-h6">Phrases</div>
+            </q-card-section>
 
-        <q-card-section class="q-pt-none">
-          <q-input type="textarea" v-model="wordsText" autofocus />
+            <q-card-section class="q-pt-none">
+                <q-input type="textarea" v-model="wordsText" autofocus></q-input>
+            </q-card-section>
 
-        </q-card-section>
-
-        <q-card-actions align="right" class="text-primary">
-            <q-btn flat label="Cancel" v-close-popup></q-btn>
-            <q-btn flat label="Update Phrases" @click="updatePhrases()"></q-btn>
-        </q-card-actions>
-      </q-card>
-    </q-dialog>
+            <q-card-actions align="right" class="text-primary">
+                <q-btn flat label="Cancel" v-close-popup></q-btn>
+                <q-btn flat label="Update Phrases" @click="updatePhrases()"></q-btn>
+            </q-card-actions>
+          </q-card>
+        </q-dialog>
 
         <div class="q-pa-md" >
         <div v-for="row in 5" :key="row" class="row ">
         <div v-for="col in 5" :key="col" class="col q-pa-xs">
-            <q-btn class="q-pa-xs fit text-center" no-caps :label="words[5*(row-1)+col-1]" :color="getColor(row, col)" @click="woo(row, col)"/>
+            <q-btn class="q-pa-xs fit text-center" no-caps :label="words[5*(row-1)+col-1]"
+                   :color="getColor(row, col)" @click="woo(row, col)"></q-btn>
         </div>
         </div>
         </div>
 
         <div class="row q-pa-md">
         <div class="col">
-            <q-btn class="q-pa-md fit" label="Remake card" color="red" @click="shuffle()"/>
+            <q-btn class="q-pa-md fit" label="Remake card" color="red"
+                                                           @click="shuffle()"></q-btn>
         </div>
         <div class="col">
         <h5 v-if="bingo" class="text-center q-ma-xs">BINGO!</h5>
         <h5 v-else class="text-center q-ma-xs">No bingo</h5>
         </div>
         <div class="col items-end">
-            <q-btn class="q-pa-md fit" label="Clear card" color="blue" @click="clear()"/>
+            <q-btn class="q-pa-md fit" label="Clear card" color="blue"
+                                                          @click="clear()"></q-btn>
         </div>
         </div>
         
-        <div class="q-pa-md">
+        <div class="q-pa-md q-gutter-sm">
             <q-btn label="Change options" color="blue" @click="edit()"></q-btn>
             <q-btn label="Reset options" color="blue" @click="resetPhrases()"></q-btn>
             <q-btn label="Share options" color="blue" @click="sharePhrases()"></q-btn>
-        </div>
-        <div class="q-pa-md">
-            <p class="text-center"> From <a href="/">whatisnuclear.com</a></p>
         </div>
 
     </div>
@@ -164,9 +134,9 @@
               selected.value[row-1][col-1]= val? 0:1;
               bingo.value = checkBingo()
                       if (bingo.value) {
-                                  Quasar.Notify.create({message:"BINGO!", caption:
-                                              "Congrats!",type: "positive", timeout: 1000})
-                              }
+                          Quasar.Notify.create({message:"BINGO!", caption:
+                                      "Congrats!",type: "positive", timeout: 1000})
+                      }
           }
 
           function getColor(row, col) {
@@ -292,5 +262,4 @@
       app.use(Quasar)
       app.mount('#q-app')
     </script>
-  </body>
-</html>
+
