@@ -1329,10 +1329,10 @@ in Arkansas provided fast-reactor physics data.
 <div class="panel-heading"><b>Fast vs. thermal neutrons</b></div>
 <div class="panel-body" markdown="1">
 Neutrons emerge from a splitting nucleus at about 10,000 miles per second.  They are
-generally slowed down to a few miles per second by a *moderator* to minimize the amount of
-fissile fuel required. Once slowed down, they are called *thermal* neutrons indicating
-that they are at equilibrium with the thermal agitation of the atoms or molecules at the
-temperature of the materials in the reactor.
+generally slowed down to a few miles per second by a *[moderator]({% link moderation.html
+%})* to minimize the amount of fissile fuel required. Once slowed down, they are called
+*thermal* neutrons indicating that they are at equilibrium with the thermal agitation of
+the atoms or molecules at the temperature of the materials in the reactor.
 
 [*Fast* reactors]({% link fast-reactor.md %}) don't have moderators: they're just fuel, coolant, and structure. They
 require more fissile material (like <sup>235</sup>U) to achieve a chain reaction, but in

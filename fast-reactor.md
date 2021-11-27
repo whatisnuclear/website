@@ -2,7 +2,9 @@
 layout: default
 title: What is a fast reactor?
 category: reactors
-description: Explains what a fast nuclear reactor is and the differences between fast and thermal reactors.
+description: |
+    Explains what a fast nuclear reactor is and how they differ from
+    more common slow-neutron (thermal) reactors.
 author: Nick Touran
 ---
 <div class="row">
@@ -11,16 +13,24 @@ author: Nick Touran
 <h2>What is a <i>fast</i> reactor? </h2>
 <h5>By Nick Touran, September 2009. Editing by Jesse Cheatham, Robert Petroski, and Brian Wagner</h5>
          
-Fast reactors are a class of advanced nuclear reactors that have some key advantages
-over traditional reactors in safety, sustainability, and waste. While traditional
-reactors contain moderators to slow down neutrons after they&rsquo;re emitted, fast
-reactors keep their neutrons moving quickly (hence the name). Fast neutrons can unlock
-the energy in the dominant isotope of uranium (U238) and thus extend known fuel resources
-by around 200x. Your average thermal neutron moves around at about 2200 m/s while a fast
-neutron might be cruising well above 9 million m/s, which is about 3% of the speed of
-light.
+Fast reactors are nuclear reactors that are designed to maintain their neutrons at high
+energies. Fast neutrons can unlock the energy in the dominant isotope of uranium (U238)
+and thus extend known fuel resources by many orders of magnitude, enabling nuclear power
+to achieve [long term sustainability]({% post_url
+2020-10-28-nuclear-energy-is-longterm-sustainable %}).
+
+Whereas traditional reactors contain [moderators]({% link moderation.html %}) to slow down
+neutrons after they're emitted, fast reactors keep their neutrons moving quickly.  An
+average slow neutron moves around at about 2200 m/s while a fast neutron might be cruising
+well above 9 million m/s, which is about 3% of the speed of light.
 
 This page discusses the pros, cons, history, and physics of fast reactors
+
+<div class="alert alert-info" role="alert" markdown="1">
+**Note**: The term *fast reactor* is a shortened version of *fast-neutron
+reactor*.
+</div>
+
 
 </div>
 <div class="col-md-6" markdown="1">
@@ -45,54 +55,66 @@ This page discusses the pros, cons, history, and physics of fast reactors
 <a name="bigdeal"></a>   
 ## Pros
 
-* Fast reactors get more neutrons out of their primary fuel than thermal reactors,
+* Fast reactors get more neutrons out of their primary fuel than traditional reactors,
   so many can be used to <a href="{% link recycling.md %}">breed new fuel</a>,
   vastly <b>enhancing the sustainability</b> of nuclear power.
 
-* Fast reactors are capable of destroying the longest-lived nuclear waste, transforming
-  it to waste that decays to harmlessness in <b>centuries rather than hundreds of
-  millennia</b>.
+* Fast reactors are capable of destroying the [longest-lived nuclear waste]({% link
+  waste.md %}), transforming it to waste that decays to harmlessness in **centuries
+  rather than hundreds of millennia**.
 
 * Fast reactors typically use liquid metal coolants rather than water. These have
   superior heat-transfer properties and allow natural circulation to remove the heat
   in even severe accident scenarios. The result: if something goes very wrong at the
   plant, and none of the operators are awake, AND none of the control rods work, the
-  reactor can just <b>naturally shut itself down</b>. This comes with a con (see cons).
+  reactor can just **naturally shut itself down**. This comes with a con (see cons).
 
 * Fast reactors can employ metallic fuel rather than oxides (thanks to chemical
   compatibility with the liquid metal coolant). Since metal has very high thermal
   conductivity, the reactor can shut itself down without surpassing temperature
-  limits. This <b>enhances the safety</b> of these reactors significantly. 
+  limits. This **enhances the safety** of these reactors significantly. 
 
 </div>
 
 <div class="col-md-6" markdown="1">
 ## Cons
 
-* While fast reactors are up to 200x more resource efficient, they require 3x or more
-  fissile atoms to start up initially. This is the main reason why thermal reactors were
-  developed first.
-
-* Time scales in fast reactors are typically faster than those
-  in thermal reactors (mostly because there are fewer <i>delayed neutrons</i> in fast
-  reactors). Thus they can  <b>go through unpredicted changes faster</b> than thermal
-  reactors. 
+* While fast-neutron reactors are dramatically more resource efficient, they require 3x or more
+  fissile atoms to start up initially. This is the main reason why slow-neutron reactors were
+  developed first, and remains an economic challenge today.
 
 * Bubbles in fast reactor coolant can cause the reactor to heat up rather than cool
   down, as in a traditional reactor. Higher heat makes more bubbles, which make more
-  heat, and so on. This <b>positive feedback is scary</b> (but manageable, thanks to
+  heat, and so on. This **positive feedback is scary** (but manageable, thanks to
   overpowering negative feedbacks).
 
-* To keep the neutrons moving quickly, fast
-  reactors <b>require exotic coolants</b> derived from heavy atoms. The most common coolant
-  is liquid sodium, which is well known but highly reactive with air and water. Another is
-  liquid lead-bismuth eutectic, which isn&rsquo;t the most pleasant material either. These
-  bizarre materials require extra care and lower tolerance in many systems (such as piping),
-  possibly <b>bringing costs up</b>.
+* To keep the neutrons moving quickly, fast reactors **require exotic coolants** derived
+  from heavy atoms. The most common coolant is liquid sodium, which is well known but
+  highly reactive with air and water. Another is liquid lead-bismuth eutectic, which isn't
+  the most pleasant material either. These bizarre materials require extra care and lower
+  tolerance in many systems (such as piping), possibly **bringing costs up**.
+
+* Time scales in fast reactor severe accidents are faster than those in slow-neutron reactors
+  (because there are fewer *delayed neutrons* in fast reactors). Thus they can  **go
+  through unpredicted changes faster** than traditional reactors. 
+
+
+
 </div>
 </div>
  <div class="row">
 <div class="col-md-8" markdown="1">
+
+<div class="alert alert-info" role="alert" markdown="1">
+**Fast vs. thermal terminology** You'll often see reactors characterized as **fast**
+or **thermal**. The term *thermal* in this context means that the majority of the
+neutrons in the reactor core are in thermal equilibrium with their surrounding atoms. This is a
+fancy way of saying that the neutrons have slowed down from their initially high speed to
+energies as low as they're going to get. Since *thermal* also refers to heat in power
+systems, we consider this nomenclature unnecessarily confusing and prefer to just use
+fast-neutron reactors vs. slow-neutron reactors instead.
+</div>
+
 <h2 id="history">Some history</h2>
 
 From the beginning of nuclear power, we knew the benefits of fast reactors. Uranium was
@@ -109,7 +131,7 @@ reactor_history.md %}">reactor development history page</a> that covers this top
 </div>
 
 Uranium was found to be plentiful, and the commercial nuclear industry favored the
-already-developed and operating thermal reactors. Also, <a href="{% link recycling.md
+already-developed and operating slow-neutron reactors. Also, <a href="{% link recycling.md
 %}">recycling nuclear fuel</a> (as is often but not always called for in fast reactor fuel
 cycles) brings up <a href="{% link non-proliferation.md %}">proliferation concerns</a>
 that inspired the Jimmy Carter administration to cancel a large US effort to develop a
@@ -126,13 +148,13 @@ It might be wise to go read <a href="{% link moderation.html %}">our moderation
 page</a> for a second and come back when you understand that neutrons emerge from
 fission reactions at high speeds and that we typically like to slow them down to thermal
 energies in order to increase their chances of continuing the chain reaction. This is what
-is done in thermal reactors.  
+is done in most reactors.  
 
 Splitting atoms is not the only thing neutrons do. In nuclides such as Uranium-238,
-thermal neutrons are readily absorbed without causing a fission -- resulting in what we
-call a capture. The probability for capture also increases dramatically at thermal
+slow neutrons are readily absorbed without causing a fission -- resulting in what we
+call a capture. The probability for capture also increases dramatically at low
 energies. We have measured through experiments that the chances that a neutron will cause
-a capture rather than a fission in Uranium-238 are high at thermal energies and become
+a capture rather than a fission in Uranium-238 are high at low energies and become
 smaller at faster energies. Take a look at these two graphs showing the probability
 (called the cross-section in nuclear lingo) of capture and the probability of fission as a
 function of neutron energy for U-235 and U-238. By the way, the units of energy used here
@@ -161,10 +183,10 @@ other loss mechanisms like leakage out of the reactor). As you can see, if all o
 neutrons had more than 10<sup>6</sup> eV, U-238 would be nearly as good a fuel as
 U-235. In reality, it&rsquo;s very difficult to keep the neutrons moving that quickly
 so fast reactors still need a bit of enriched uranium to operate, but U-238 is
-fissioned to much more of a degree than in thermal reactors. As an added bonus, many
+fissioned to much more of a degree than in slow-neutron reactors. As an added bonus, many
 of the very long-lived nuclides larger than Uranium (Neptunium, Plutonium, Americium,
 Curium, etc.) have the same trend, and fast reactors can split and destroy these
-actinides as fuel rather than let them accumulate as in thermal reactors. This makes
+actinides as fuel rather than let them accumulate as in slow-neutron reactors. This makes
 the nuclear waste coming out of fast reactors decay to natural radiation levels much
 faster than traditional nuclear waste. 
 
@@ -192,17 +214,17 @@ producing as it runs. It is the ratio of the number of fissile atoms created wit
 number of fissions occurring. 
 
 Fast reactors using uranium fuel inherently create more fissile atoms per fission that
-uranium-fueled thermal reactors. The reason can be seen in the image to the right labeled
-&quot;breeding ratio&quot;. In thermal reactors, Pu239 fissions as soon as it is created
+uranium-fueled slow-neutron reactors. The reason can be seen in the image to the right labeled
+&quot;breeding ratio&quot;. In slow-neutron reactors, Pu239 fissions as soon as it is created
 because the Pu239 fission rate is so much higher than the U238 absorption rate (which is
 what creates fissile material). Conversely, fast reactors have U238 absorption rates that
 are comparable to Pu239 fission rates. Thus, the fissile material can be replenished as it
-burns. This also explains why initial enrichment of fast reactors has to be higher than
-comparable thermal reactors. 
+burns. This also explains why initial enrichment of fast-neutron reactors has to be higher than
+comparable slow-neutron reactors. 
 
 The number of neutrons per fission changes in fast reactors as well. When atoms
 fission, they release a few neutrons that continue a chain reaction. When a faster neutron
-splits a Uranium atom, odds are that more neutrons will come out than if a thermal neutron
+splits a Uranium atom, odds are that more neutrons will come out than if a slow neutron
 hit it. This effect means that fast reactors have extra neutrons around that aren&rsquo;t
 necessary for maintaining the chain reaction. Additionally, since more U-238 is directly
 fissioning, there are neutrons being produced from non-fissile  material. These two
@@ -214,12 +236,12 @@ U235, so the time that 200 years of uranium can last humanity turns into 20,000.
 
 There are also significantly more free neutrons in fast reactors. Since the probability of
 fission is lower for faster energies for every actinide, the neutron density is higher in
-fast reactors than it is in most thermal reactors of the same power (since power is
+fast reactors than it is in most reactors of the same power (since power is
 effectively the neutron density multiplied by the fission probability). Structural
 materials inside fast reactors thus undergo higher radiation damage rates than those in
-thermal reactors. 
+slow-neutron reactors. 
 
-<h2 id="howtomake">How do we make a reactor fast or thermal?</h2>
+<h2 id="howtomake">How do we make a reactor fast or slow?</h2>
 Nuclear reactors need to cool fuel as they undergoes the fission chain reaction.
 Water is the standard coolant of other power plants for various reasons (it plays well
 with steam turbines, is clean, is plentiful, has decent thermal properties, etc.), so
@@ -229,7 +251,7 @@ contains lots of hydrogen atoms, with mass of 1 atomic mass unit. Being the same
 weight as neutrons, conservation of momentum and energy tell us that a neutron
 striking a hydrogen atom can slow down all the way from super fast to zero in one
 collision (imagine a billiard ball striking a stationary one), so water coolant is
-very good at slowing fast neutrons down to thermal energies. If you want to keep your
+very good at slowing fast neutrons down to slower (thermal) energies. If you want to keep your
 neutrons moving quickly, you don&rsquo;t want any small atoms around, so you choose a
 heavier coolant, like sodium (imagine a billiard ball striking a bowling ball). So to
 make a fast reactor, just take all the small atoms out. Some fast reactors use oxide
@@ -244,8 +266,8 @@ arrangement known as <a
 href="https://en.wikipedia.org/wiki/Sphere_packing#Circle_packing">hexagonal close-packing
 [wikipedia]</a>. In order to get nuclear fuel as close together as possible, to make the
 chain reaction easy, hexagons are the obvious choice. So the real question is why are
-thermal reactor assemblies square? Since they require moderation, designers don&rsquo;t
-want thermal fuel as close as possible to itself. The extra room is specifically to be
+traditional reactor assemblies square? Since they require moderation, designers don&rsquo;t
+want fuel as close as possible to itself. The extra room is specifically to be
 filled with moderator, which is usually water. 
 
 Another good reason to use hexagons is that fast reactors can become more reactive when

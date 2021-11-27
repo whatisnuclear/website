@@ -215,7 +215,7 @@ There are a few other concerns, but these probably have practical solutions.
   stops.
 
 <h3>Exotics in the salt</h3>
-<p>For MSRs to breed in a thermal spectrum, the lithium in the salt must be enriched to very pure
+<p>For MSRs to breed with slow neutrons, the lithium in the salt must be enriched to very pure
 Li-7. Li-6 is a strong neutron poison and becomes tritium, the pesky mobile radiation source. Also,
 Beryllium in Flibe is a controlled substance. It has some weapons applications and is a very
 dangerous material in terms of biological inhalation risks. In chloride salts, you must enrich to

@@ -180,16 +180,15 @@ latest US data evaluation over at the National Nuclear Data Center [3].
 
 
 ## Notable features of some cross sections
-You&rsquo;ll notice in the first two plots that the U-235 fission cross section
-is much higher than the U-238 fission cross section. This means U-235 fissions
-more often. You&rsquo;ll also notice that the fission and absorption cross
-sections are high at low energy. The high probability of thermal U-235 fission
-is why thermal (or slow neutron) reactors were the only ones possible before <a
-href="{% link isotopes.md %}#enrichment">enrichment</a> was invented. You can
-also see that capture (gamma) cross sections tend to get small at very high
-energy, while the fission cross sections level off. This is a general trend
-among most actinides and is part of the reason that <a
-href="{% link fast-reactor.md %}">fast reactors</a> often have enough extra
+You&rsquo;ll notice in the first two plots that the U-235 fission cross section is much
+higher than the U-238 fission cross section. This means U-235 fissions more often.
+You&rsquo;ll also notice that the fission and absorption cross sections are high at low
+energy. The high probability of U-235 fission from slow neutrons is why slow-neutron
+reactors  (aka *thermal* reactors) were the only ones possible before <a href="{% link
+isotopes.md %}#enrichment">enrichment</a> was invented. You can also see that capture
+(gamma) cross sections tend to get small at very high energy, while the fission cross
+sections level off. This is a general trend among most actinides and is part of the reason
+that <a href="{% link fast-reactor.md %}">fast reactors</a> often have enough extra
 neutrons to be <a href="{% link recycling.md %}">breeder reactors</a>. 
 
 Also note that the resonances tend to get closer and closer together as we go

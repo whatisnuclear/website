@@ -116,12 +116,12 @@ Once started up, **any** [breeder reactor]({% link recycling.md %}) (using urani
 thorium) can be fissile self-sufficient, meaning they breed more (or equal) fissile
 material than they consume.
 
-It should be noted, however, that the key advantage of Th fuel is that it allows thermal breeding.
-This means that you can start up a Th-based breeder with substantially (between 3 and 10 times) less
-fissile material than you need to start an equivalent-powered fast breeder reactor. Once started,
-the fast breeder will make far more fissile material (because they make have a better breeding
-neutron economy), but the amount of fissile in fast spectrum reactors is always more than in thermal
-reactors.
+It should be noted, however, that the key advantage of Th fuel is that it allows breeding
+with slow neutrons.  This means that you can start up a Th-based breeder with
+substantially (between 3 and 10 times) less fissile material than you need to start an
+equivalent-powered fast breeder reactor. Once started, the fast breeder will make far more
+fissile material (because they make have a better breeding neutron economy), but the
+amount of fissile in fast spectrum reactors is always more than in slow-neutron reactors.
 
 TL;DR: They do to start up, and U-Pu breeders like the LMFBR can do the same so it's not Thorium specific.
 <a name="myth3"></a>
@@ -261,11 +261,12 @@ have passive safety by draining the fuel into cooled storage tanks, online fissi
 low/zero fabrication cost, low fissile requirement, low excess reactivity (since you refuel online)
 [6]
 
-The attributes that come from choosing the Th-U fuel cycle over the U-Pu cycle include: the
-possibility of thermal breeding (as demonstrated in the Shippingport LWR), the reduced production of
-minor actinides (see Misconception #5), allowing nuclear waste to be safer without aggressive
-reprocessing, and the ability to use the Thorium mineral base instead of the Uranium minerals
-(useful if your country has Th but no U. See Misconception #4).  
+The attributes that come from choosing the Th-U fuel cycle over the U-Pu cycle include:
+the possibility of slow-neutron (thermal) breeding (as demonstrated in the Shippingport
+LWR), the reduced production of minor actinides (see Misconception #5), allowing nuclear
+waste to be safer without aggressive reprocessing, and the ability to use the Thorium
+mineral base instead of the Uranium minerals (useful if your country has Th but no U. See
+Misconception #4).
 <hr/>
 
 # Disclaimer

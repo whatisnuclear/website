@@ -49,9 +49,9 @@ in the not-too-distant future...
 
 <h2 id="benefits">What are the key benefits of Thorium?</h2>
 
-* **Thorium cycles exclusively allow [thermal]({% link moderation.html %}) breeder reactors** (as
+* **Thorium cycles exclusively allow [slow-neutron]({% link moderation.html %}) breeder reactors** (as
   opposed to [fast breeders]({% link fast-reactor.md %})). More neutrons are released per neutron
-  absorbed in the fuel in a traditional (thermal) type of reactor. This means that if the fuel is
+  absorbed in the fuel in a traditional (slow-neutron) type of reactor. This means that if the fuel is
   [reprocessed]({% link recycling.md %}), reactors could be fueled without mining any additional
   U-235 for reactivity boosts, which means the nuclear fuel resources on Earth can be extended by 2
   orders of magnitude without some of the complications of fast reactors. Thermal breeding is perhaps
@@ -92,7 +92,7 @@ in the not-too-distant future...
   spent fuel handling and/or reprocessing.
 
 * **Thorium doesn't work as well as U-Pu in a fast reactor**. While U-233 an excellent fuel in
-  the thermal spectrum, it is between U-235 and Pu-239 in the fast spectrum. So for reactors that
+  the slow-neutron regime, it is between U-235 and Pu-239 in the fast spectrum. So for reactors that
   require excellent neutron economy (such as breed-and-burn concepts), Thorium is not ideal.
 
 
@@ -122,7 +122,7 @@ obtaining bomb material is not.
 
 <span class="label label-success">Update:</span> See our <a href="{% link msr.md %}">full page on Molten Salt Reactors</a> for more info.
 
-One especially cool possibility suitable for the thermal-breeding capability of the Th-U fuel cycle
+One especially cool possibility suitable for the slow-neutron breeding capability of the Th-U fuel cycle
 is the molten salt reactor (MSR), or as one particular MSR is commonly known on the internet, the
 Liquid Fluoride Thorium Reactors (LFTR). In these, fuel is not cast into pellets, but is rather
 dissolved in a vat of liquid salt. The chain reaction heats the salt, which naturally convects
