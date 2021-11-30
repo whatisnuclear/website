@@ -102,17 +102,17 @@ problem for interplanetary travel (like for manned missions to Mars or a colony
 on the moon), so that&rsquo;s something to keep in mind. 
 
 <h1 id="references">See Also</h1>
-<ol>
-    <li><a href="{% link radioactivity.md %}">Basics of radioactivity</a> &mdash; review of what radiation is</li>
-    <li><a href="{% link dose.md %}">Radioactive dose</a> &mdash; more info about the units of radioactive dose</li>
-    <li><a href="http://en.wikipedia.org/wiki/Air_shower_%28physics%29">Air shower
-            [Wikipedia]</a> &mdash; more info about the cascade of particles that
-        comes raining down after a high energy cosmic ray interacts with the
-        atmosphere</li> <li><a
-    href="http://en.wikipedia.org/wiki/Background_radiation">Background radiation
-    [Wikipedia]</a> &mdash; tables detailing the various components of background
-radiation</li>
-</ol>
+
+* [Basics of radioactivity]({% link radioactivity.md %}) &mdash; review of what radiation is
+* [Radioactive dose]({% link dose.md %}) &mdash; more info about the units of radioactive dose
+* [Air shower (Wikipedia)](http://en.wikipedia.org/wiki/Air_shower_%28physics%29)
+  &mdash; more info about the cascade of particles that comes raining down after a
+  high energy cosmic ray interacts with the atmosphere
+* [Background radiation (Wikipedia)](http://en.wikipedia.org/wiki/Background_radiation) 
+  &mdash; tables detailing the various components of background radiation
+* [NASA live simulation of dose rates in air](https://iswa.ccmc.gsfc.nasa.gov/IswaSystemWebApp/index.jsp?i_1=664&l_1=40&t_1=270&w_1=600&h_1=620&s_1=0_0_0&i_2=665&l_2=652&t_2=268&w_2=700&h_2=370&s_2=0_0_10_3&i_3=666&l_3=655&t_3=647&w_3=640&h_3=500&s_3=0_0_10_3) &mdash; an incredible simulation
+  showing realistic current dose rates
+
 
 # References
 <ol>
