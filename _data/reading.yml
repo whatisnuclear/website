@@ -79,6 +79,12 @@
      description: >
         A highlight from the 1958 Atoms for Peace conference, this book details
         fluid fueled reactors like aqueous homogeneous reactors and molten salt reactors.
+   - author: NRC
+     title: Overview of Molten Salt Reactor Technology Training Materials
+     url: https://www.nrc.gov/docs/ML1733/ML17331B100.html
+     description: >
+        Excellent and detailed information about the history, technology, promises,  and challenges
+        of molten salt reactors.
 
 - category: History books
   description: >
