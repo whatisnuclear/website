@@ -103,10 +103,14 @@ options and analysis as they are proposed.
 
 Stay tuned
 
-## Sidenote
+## Sidenotes
 
-Will we have to change the name of this website? Nah.
+* Q: Should we try to make it something really warm and fuzzy, analogous to *natural gas*?  A: Maybe
+* Q: Will we have to change the name of this website?  A: Nah.
 
+## Related Efforts
+
+* [The new term Nucleonics (1946)](https://doi.org/10.1021/cen-v024n002.p186)
 
 </div>
 </div>
