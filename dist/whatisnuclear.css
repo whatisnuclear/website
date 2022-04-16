@@ -32,7 +32,10 @@ figure {
 
 /* Had a problem with icon going above menu bar. This seems to fix. */
 .navbar-collapse {
-    width: 800px;
+    width: 900px;
+}
+.navbar {
+    margin-bottom: 0px;
 }
 
 .container p {
