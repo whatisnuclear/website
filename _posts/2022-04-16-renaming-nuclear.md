@@ -92,12 +92,12 @@ and discussions:
 
 So how will we go about moving forward with this? Simple! We'll chat about it some and
 reach a consensus and then I'll update this page with the choice. We can discuss it on
-Twitter, [Facebook](https://www.facebook.com/whatisnuclear/posts/5848510328497208),
+[Twitter](https://twitter.com/whatisnuclear/status/1515362262722170881),
+[Facebook](https://www.facebook.com/whatisnuclear/posts/5848510328497208),
 [Reddit](https://www.reddit.com/r/nuclear/comments/u50xbn/we_should_rename_nuclear_energy/),
 etc. I have created [a GitHub issue](https://github.com/whatisnuclear/website/issues/13)
 to track the progress and I'll close it once we're all in agreement. We'll add more
-options and analysis as they are
-proposed.
+options and analysis as they are proposed.
 
 ## Final Conclusion
 
