@@ -498,6 +498,9 @@ Systems, Docket no. STN 50-437. June
 * Science Friday, [Shipping Nuclear Power Out To
   Sea](https://www.sciencefriday.com/segments/floating-nuclear-power-plants/) --- A
   discussion inspired by this post
+* [Huge crane sold to
+  China](https://www.tampabay.com/archive/1990/11/05/huge-crane-sold-to-china/) --- A 1990
+  newspaper article about the OPS crane being sold to China
 
 
 </div>
