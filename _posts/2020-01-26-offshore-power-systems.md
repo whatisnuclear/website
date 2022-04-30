@@ -10,7 +10,8 @@ image: /img/ops-station.jpg
 <div class="col-md-8" markdown="1">
 # That time we almost built 8 gigawatt-class floating nuclear power plants
 ##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}, (updated 2020-12-29). Reading time: {{ page.content | reading_time_as_i }}
-<img class="img pull-right" style="width:220px" src="/img/car-svg.svg" alt="a car"/>
+<a href="/img/atlantic-generating-station-floating.jpg"><img class="img pull-right" style="width:340px"
+src="/img/atlantic-generating-station-floating_sm.jpg" alt="A floating nuclear power plant"/></a>
 In 1969, at the height of the First Nuclear Era, an engineer at New Jersey's PSE&G utility
 company named Richard Eckert imagined a peculiar model for manufacturing, siting, and
 delivering nuclear power plants<sup>3</sup>. New Jersey was anticipating brownouts soon and had to
@@ -53,12 +54,20 @@ standardized design and integrated with specially designed floating platforms <s
 <a href="/img/ops-station.jpg"><img class="img-responsive" 
 src="/img/ops-station.jpg" alt="The full OPS station"/></a>
 <div class="caption centered"><p>A full OPS station. The weird shape was designed for the fish.</p></div> </div>
+
 Each floating nuclear power station (FNPS) would contain two or more FNPPs within a
 protective breakwater. The individual plants were to be 1150 MWe Westinghouse four-loop
 PWRs with ice-condenser containments. They had once-through steam condenser cooling with
 no cooling towers. Electricity was to be transmitted at high-voltage (345 kV) through
 submerged cables beneath the sea bottom. A shore support facility would provide a staging
 area, a docking facility, office buildings, and parking. 
+
+<div class="thumbnail"> <a href="/img/atlantic-generating-station-ops.jpg"><img
+class="img-responsive" src="/img/atlantic-generating-station-ops_sm.jpg" alt="Details of
+the Atlantic Generating Station"/></a> <div class="caption centered"><p>A detailed diagram
+of the Atlantic Generating Station (from <a
+href="https://econtent.unm.edu/digital/collection/nuceng/id/98/rec/6">Nuclear Engineering
+International</a>)</p></div> </div>
 
 In lieu of massive concrete foundations, the bulk of the concrete would be in the
 breakwater, which required 17,000 concrete dolosse (which resemble child's jacks), with
@@ -342,15 +351,16 @@ the NRC's Advisory Committee on Reactor Safeguards (ACRS) reported that:
 > The Floating Nuclear Plant units can be manufactured with reasonable assurance that they
 > can be sited and operated without undue risk to the health and safety of the public.
 
-The [manufacturing license to construct the first 8 3411 MWt reactors was issued on
-December 17.
+The [manufacturing license to
+construct](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070J215)
+the first 8 3411 MWt reactors [was issued on December 17.
 1982](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070J219). 
 
 <figure>
 <a href="/img/ops-manufacturing-license.jpg"><img class="img-responsive"
 src="/img/ops-manufacturing-license.jpg" alt="The manufacturing license for the first 8
 offshore reactors"/></a>
-<caption>The manufacturing license issued by the NRC to construct 8 floating reactors</caption>
+<caption>A note discussing the  manufacturing license issued by the NRC to construct 8 floating reactors</caption>
 </figure>
 
 ## So what happened?
