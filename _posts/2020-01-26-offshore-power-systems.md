@@ -175,6 +175,9 @@ A License to Manufacture eight FNPPs was tendered on January 22, 1973 and docket
 5, 1973 with Docket No. STN 50-437. The application included a Plant Design Report and an
 Environmental Report. 
 
+(Actually if you're searching the NRC ADAMS website, you should search for Docket Number
+05000437 in order to find OPS documents).
+
 In 1975, the NRC issued a massive [712-page Environmental Statement regarding offshore
 nuclear
 plants](https://babel.hathitrust.org/cgi/pt?id=ien.35556030595474&view=thumb&seq=141)
@@ -338,6 +341,17 @@ the NRC's Advisory Committee on Reactor Safeguards (ACRS) reported that:
 
 > The Floating Nuclear Plant units can be manufactured with reasonable assurance that they
 > can be sited and operated without undue risk to the health and safety of the public.
+
+The [manufacturing license to construct the first 8 3411 MWt reactors was issued on
+December 17.
+1982](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070J219). 
+
+<figure>
+<a href="/img/ops-manufacturing-license.jpg"><img class="img-responsive"
+src="/img/ops-manufacturing-license.jpg" alt="The manufacturing license for the first 8
+offshore reactors"/></a>
+<caption>The manufacturing license issued by the NRC to construct 8 floating reactors</caption>
+</figure>
 
 ## So what happened?
 When the idea was born in 1969, everyone thought electricity demand was going to
