@@ -501,6 +501,11 @@ Systems, Docket no. STN 50-437. June
 * [Huge crane sold to
   China](https://www.tampabay.com/archive/1990/11/05/huge-crane-sold-to-china/) --- A 1990
   newspaper article about the OPS crane being sold to China
+* [Floating Nuclear Power Plants](https://www.nrc.gov/reading-rm/basic-ref/students/history-101/floating-nuclear-power-plants.html) --- a NRC historian version
+  of this OPS story
+* [Museum picture of OPS model](http://heinzhistorycenter.emuseum.com/objects/19019/offshore-power-systems-manufacturing-facility-blount-island;jsessionid=D570335AEF38A36B2A88A47B7C44B3FE?ctx=81b4d478-476b-4714-9e9c-15bdc994faa9&idx=8)
+* [Making of Nuclear Plants Backed by Jersey Utility](https://www.nytimes.com/1976/03/25/archives/making-of-nuclear-plants-backed-by-jersey-utility-public-service.html) --- New York Times article
+* [Before licensing floating nuclear powerplants many answers are needed](https://www.gao.gov/assets/emd-78-36.pdf) --- a US GAO report from 1978 before the license was issued
 
 
 </div>
