@@ -12,7 +12,7 @@ image: /img/salt-vs-sodium.jpg
 <div class="row">
 <div class="col-md-8" markdown="1">
 # {{ page.title }}
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
+##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }} (Updated 2022-05-07)
 
 Most of us use the words *sodium* and *salt* interchangeably. After all, this is how they're
 used in nutrition: *low sodium* means something's not too *salty*. However, when these
@@ -27,11 +27,9 @@ concepts.
 Elemental sodium (Na) is a liquid metal like mercury and
 solder.
 <div class="thumbnail" markdown="1">
-![Sodium metal](/img/mercury-in-switch.jpg){: .img-responsive }
+![Sodium metal](/img/sodium-pour.jpg){: .img-responsive }
 <div class="caption centered" markdown="1">
-Liquid sodium metal looks almost exactly like mercury
-(photo is actually mercury, from
-[Medvedev](https://commons.wikimedia.org/wiki/File:Mercury_Switch_without_housing.jpg))
+Liquid sodium metal is shiny 
 </div>
 </div>
 
@@ -62,6 +60,8 @@ solar-thermal facilities where energy can be stored for several hours as heat.
 
 <div class="row">
 <div class="col-md-8" markdown="1">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGx_ur3FDvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To make it even more confusing, some reactors use both sodium metal and molten salt. For
 example, the [Aircraft Reactor Experiment
