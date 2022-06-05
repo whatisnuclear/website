@@ -3,10 +3,11 @@ layout: default
 title: How to Kill Nuclear Power With Good Intentions --- A Primer
 category: blog
 description: > 
-    Nuclear energy needs a new name to differentiate it from nuclear weapons. 
-    Besides, most energy sources are named after their fuel rather than their entire field of physics.
-    As the field of nuclear physics has developed, it's now time to graduate into being more
-    specific. 
+    We are all familiar with the arguments and tactics of the avowed opponents to nuclear
+    power. However, various proponents espouse ideas, or tolerate inequities, which could
+    prove equally detrimental to its future. Here are a few of the more toxic attitudes
+    (classic list of ten):
+
 author: Mike Driscoll\*
 image: /img/reactor.png
 ---
