@@ -25,7 +25,9 @@ image: /img/reactor.png
 *\*This is a reproduction of a memo dated October 25, 2001 from MIT Professor in the Dept.
 of Nuclear Engineering. [Professor Driscoll passed away on Dec 31,
 2020](https://news.mit.edu/2021/michael-driscoll-leader-nuclear-engineering-beloved-mentor-dies-0105)
-in Boston. This memo was passed down to whatisnuclear through mentors. [PDF memo available here](/assets/MikeDriscoll-good-intentions.pdf).*
+in Boston. This memo was passed down to whatisnuclear through mentors. [PDF memo available
+here](/assets/MikeDriscoll-good-intentions.pdf).* This is also available [in tweet form
+here](https://twitter.com/whatisnuclear/status/1533552556911169536).
 
 We are all familiar with the arguments and tactics of the avowed opponents to nuclear
 power. However, various proponents espouse ideas, or tolerate inequities, which could
