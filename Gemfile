@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.1.1"
 gem "minima", "~> 2.0"
+gem "webrick"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-sitemap"
