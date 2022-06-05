@@ -103,7 +103,7 @@ should know better, thorium use without recycle will only save about 10% on uran
 consumption; uranium is needed to provide the U-233, and not particularly to provide a
 companion fertile species.
 
-    Also note that the requirement that denaturing bred U-233 with U-239 (to < 12 w/o). -
+    Also note that the requirement that denaturing bred U-233 with U-238 (to < 12 w/o). -
     penalizes neutronic performance (hence economics) and results in non-negligible Pu
     production.
 
