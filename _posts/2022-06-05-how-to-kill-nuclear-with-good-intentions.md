@@ -51,7 +51,7 @@ because of the high cost of reprocessing and fuel refabrication.
 3. Promise meeting the seemingly plausible goal that spent fuel from any new reactor
 concept must have a **composition at least as intrinsically unsuitable for weapons use as
 that of current LWRs**. This immediately disqualifies all fast (and epithermal spectrum)
-reactors and all using thorium, which do not denature their U-232 by adding U-238. 
+reactors and all using thorium, which do not denature their U-233 by adding U-238. 
 
 4. Acquiescence to the fiat that **high-level waste must be retrievable from its repository**.
 This rules out further evaluation of potentially better approaches (cheaper, improved
