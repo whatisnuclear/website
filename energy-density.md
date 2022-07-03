@@ -74,33 +74,46 @@ more appropriate.
 ## Comparison with other fuels
 
 A single fuel pellet may weigh [about 10
-grams](https://www.cameco.com/uranium_101/fuel-processing/fuel-manufacturing/) so it
-contains 40,000 MJ in a typical reactor and 800,000 MJ in a breeder reactor. Thus we can
-compare its content to other fuels. 
+grams](https://www.cameco.com/uranium_101/fuel-processing/fuel-manufacturing/). This would
+have 8.8 grams of heavy metal in it (the rest is oxygen), so it contains 35,000 MJ in a
+typical reactor and at least 700,000 MJ in a breeder reactor. Thus we can compare its
+content to other fuels. 
+
+{% comment %}
+    units "46 MW*d/kg * 10 grams * 238/(238+32)" "MJ"
+    units "46 MW*d/kg * 10 grams * 238/(238+32)/(30 MJ/kg)" "ton"
+    units "46 MW*d/kg * 10 grams * 238/(238+32)/(43 MJ/kg)" "ton"
+
+    crude oil volumetric energy density 37 MJ/L
+    units "46 MW*d/kg * 10 grams * 238/(238+32)/(37 MJ/L)" "gallon"
+
+    NG STP 0.0364 MJ/L
+    units "46 MW*d/kg * 10 grams * 238/(238+32)/(0.0364 MJ/L)" "ft^3"
+{% endcomment %}
 
 {:.table .table-striped}
 | Material | Energy Density<br/> (MJ/kg)| Equivalent to<br/> fuel pellet in LWR | Equivalent to fuel<br/> pellet in breeder|
 |-----|-----|-----|-----|
-| Coal | 30  | 1.4 tons | 30 tons |
-| Oil |  42 | 285 gallons  | 5700 gallons |
-| Natural Gas |  53.5  | 38,800 cubic ft | 775,000 cubic ft
-| Lithium | 43 | 1 ton | 20 tons |
+| Coal | 30  | 1.3 tons | 22 tons |
+| Oil |  42 | 250 gallons  | 4350 gallons |
+| Natural Gas |  53.5  | 34,000 cubic ft | 590,000 cubic ft
+| Lithium | 43 | 0.9 tons | 16 tons |
 
 
 Note: The characteristics of the power generation system affect exactly how much usable
 energy is extracted. For instance, if a power plant makes heat to be converted to
 electricity, the thermal efficiency ($$\epsilon_{th}$$) determines how much of the heat
-gets converted to electricity. These values vary from around 35-45% for coal plants to 34%
-for nuclear plants, to above 60% for combined cycle natural gas plants. Thus, from a
-electricity point of view, the values above would be 20-50% less.
+gets converted to electricity. These values vary from around 35-45% for coal plants and
+advanced nuclear plants to 33% for typical nuclear plants, to above 60% for combined cycle
+natural gas plants. Thus, from a electricity point of view, the values above would be
+20-50% less.
 
 ## Other Complications
 
-In a nuclear reactor, fission isn't the only process that releases energy. The
-actinides, fission products, and even structural and coolant nuclides often undergo
-capture reactions that release energy without fissioning. The fraction of energy released
-by a nuclear reactor by these reactions can be on the order of 10% of the total power of
-the reactor.
+In a nuclear reactor, fission isn't the only process that releases energy. The actinides,
+fission products, and even structural and coolant nuclides often undergo capture reactions
+that release energy without fissioning. The fraction of energy released by a nuclear
+reactor by these reactions can be on the order of 10% of the total power of the reactor.
 
 
 <h1 id="references">See Also</h1>
