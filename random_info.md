@@ -25,7 +25,7 @@ Most coolants are self-explanatory but there are a few things worth mentioning:
 * exotic covers all gasses not listed just to be exhaustive
 
 Coolants can additionally in any phase depending on their temperature and pressure. So we
-include solid, liquid, gas, and plasma forms of al coolants. Technically we could do this
+include solid, liquid, gas, and plasma forms of all coolants. Technically we could do this
 to moderators and fuel as well but we chose not to. 
 
 ### Fuels
@@ -51,7 +51,34 @@ who think that a reactor idea alone is a big part of improving nuclear energy's 
 humanity. In reality, reactor concept ideas are a dime a dozen, while [developing and
 deploying reactors]({% link reactor_history.md %}) is the challenging part. Innovations
 and advances in reactor design process, reactor construction, and reactor operation are
-needed vastly more than new reactor concepts.
+needed vastly more than new reactor concepts. We hope people will focus most efforts there
+rather than on patenting replicas or minor twists to old concepts.
+
+### See Also
+
+* [Teeter, C. E., Lecky, J. A., and Martens, J. H. CATALOG OF NUCLEAR REACTOR CONCEPTS.
+  PART I. HOMOGENEOUS AND QUASIHOMOGENEOUS REACTORS. SECTION I. PARTICULATE-FUELED
+REACTORS. United States: N. p., 1964. Web. doi:10.2172/4034226.
+](https://www.osti.gov/biblio/4034226-catalog-nuclear-reactor-concepts-part-homogeneous-quasihomogeneous-reactors-section-particulate-fueled-reactors)
+
+* [Teeter, C E, Lecky, J A, and Martens, J H. CATALOG OF NUCLEAR REACTOR CONCEPTS. PART I.
+  HOMOGENEOUS AND QUASI- HOMOGENEOUS REACTORS. SECTION II. REACTORS FUELED WITH
+HOMOGENEOUS AQUEOUS SOLUTIONS AND SLURRIES. United States: N. p., 1964. Web.
+doi:10.2172/4007937.
+](https://www.osti.gov/biblio/4007937-catalog-nuclear-reactor-concepts-part-homogeneous-quasi-homogeneous-reactors-section-ii-reactors-fueled-homogeneous-aqueous-solutions-slurries)
+
+* [Teeter, C E, Lecky, J A, and Martens, J H. CATALOG OF NUCLEAR REACTOR CONCEPTS. PART I.
+  HOMOGENEOUS AND QUASI- HOMOGENOUS REACTORS. SECTION III. REACTORS FUELED WITH
+MOLTEN-SALT SOLUTIONS. United States: N. p., 1965. Web. doi:10.2172/4597390.
+](https://www.osti.gov/biblio/4597390-catalog-nuclear-reactor-concepts-part-homogeneous-quasi-homogenous-reactors-section-iii-reactors-fueled-molten-salt-solutions)
+
+* [Teeter, C. E., Lecky, J. A., and Martens, J. H. CATALOG OF NUCLEAR REACTOR CONCEPTS. PART I. HOMOGENEOUS AND QUASIHOMOGENEOUS REACTORS. SECTION IV. REACTORS FUELED WITH LIQUID METALS. United States: N. p., 1966. Web. doi:10.2172/4539024. ](https://www.osti.gov/biblio/4539024-catalog-nuclear-reactor-concepts-part-homogeneous-quasihomogeneous-reactors-section-iv-reactors-fueled-liquid-metals)
+
+* [Teeter, C E, Lecky, J A, and Martens, J H. CATALOG OF NUCLEAR REACTOR CONCEPTS. PART I. HOMOGENEOUS AND QUASI- HOMOGENEOUS REACTORS. SECTION V. REACTORS FUELED WITH URANIUM HEXAFLUORIDE, GASES, OR PLASMAS. United States: N. p., 1966. Web. doi:10.2172/4555621. ](https://www.osti.gov/biblio/4555621/)
+
+* [CATALOG OF NUCLEAR REACTOR CONCEPTS. PART I. HOMOGENEOUS AND QUASI- HOMOGENEOUS
+  REACTORS. SECTION VI. SOLID HOMOGENEOUS (SEMIHOMOGENEOUS)
+REACTORS](https://www.osti.gov/biblio/4519726-catalog-nuclear-reactor-concepts-part-homogeneous-quasi-homogeneous-reactors-section-vi-solid-homogeneous-semihomogeneous-reactors)
 
 
 </div>
