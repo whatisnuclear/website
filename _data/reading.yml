@@ -1,6 +1,6 @@
 # Data that gets rendered via template loops
 # into different templates
-- category: General Interest
+- category: General interest
   description: High-level introductions
   items:
     - author: Joshua Goldstein and Staffan Qvist
@@ -31,27 +31,69 @@
       url: https://climategamble.net/
       date: 2017
       description: Good book about energy choices
+    - author: Richard Garwin and Georges Charpak
+      title: "Megawatts and Megatons: A Turning Point in the Nuclear Age"
+      url: https://en.wikipedia.org/wiki/Megawatts_and_Megatons
+      date: Oct, 2001
+      description: >
+        Good high-level overview about nuclear technology and reactor
+        development programs
+    - author: Colin Tucker
+      title: "How to Drive a Nuclear Reactor"
+      url: https://link.springer.com/book/10.1007/978-3-030-33876-3
+      date: 2019
+      description: >
+        Shows you that Reactor Physics isn't Rocket Science Explains why Reactors are much
+        safer than you might think. Enables anyone to understand how a Nuclear Reactor
+        works. 
 
-- category: Comic books and videos
-  description: People used to make comics about nuclear power
+
+- category: Academic reports and articles
+  items: 
+   - author: MIT
+     title: The Future of Nuclear Energy in a Carbon-Constrained World
+     date: 2018
+     url: https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/
+     description: A relatively modern analysis of the nuclear industry
+   - author: Jessica Lovering, Suzanne Hobbs Baker
+     title: Can Nuclear Power Go Local?
+     date: 2021
+     url: https://issues.org/nuclear-power-local-democratic-progressive-lovering-hobbs-baker/
+     description: A vision for nuclear technology fulfilling progressive values
+   - author: Richard Rhodes
+     title: Why Nuclear Power Must Be Part of the Energy Solution
+     date: 2018-07-19
+     url: https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate
+     description: >
+       A Pulitzer Prize-winning author argues that nuclear power has a place
+       in solving climate change
+
+
+- category: Documentaries and videos
+  description: Feature length and shorter documentaries and videos about nuclear
   items:
-    - title: Adventures Inside the Atom
-      url: https://artsandculture.google.com/story/gAVR41UqMct2Iw
-      date: "1948"
-      author: General Electric
-      description:  >
-        A comic describing the basic concepts of nuclear fission technology
-        from the very early days.
-    - title: Our Friend The Atom
-      url: https://www.youtube.com/watch?v=QRzl1wHc43I
-      date: 1957
-      author: Disney
-      description: A video companion to the Disney-produced nuclear book by the same title
-    - title: "The Mighty Atom: The Story of Electricity from Amber to Atoms"
-      url: https://mediacommons.unl.edu/luna/servlet/detail/UNL~113~113~838~1511325:Mighty-atom,-starring-Reddy-Kilowat
-      date: 1958
-      description: A comic book with Reddy Kilowatt talking about electricity and atoms.
-      author: Reddy Kilowatt, Inc.
+    - author: Robert Stone
+      title: Pandora's Promise
+      date: 2013
+      description: >
+        An excellent documentary covering the story and promise of nuclear power
+      url: https://robertstoneproductions.com/project/pandoras-promise/
+    - author: David Schumacher
+      title: The New Fire
+      date: 2018
+      description: >
+        A full documentary following several nuclear power startup companies in the US as
+        they attempt to bring nuclear technology to help solve climate change
+      url: https://www.newfiremovie.com/
+    - author: Greens for Nuclear Energy
+      title: "CRITICAL: Greens for Nuclear Energy"
+      date: 2022
+      description: >
+        "Critical" is a climate change film with a timely twist - instead of criticising
+        everybody else, here's some greens examining their own credentials. It challenges
+        a foundational principle for the green movement - being anti-nuclear - from within
+        the movement itself.
+      url: https://vimeo.com/731323125
 
 - category: Textbooks
   description: Oldies but goodies.
@@ -59,16 +101,16 @@
     - author: Lamarsh 
       title: Introduction to Nuclear Reactor Theory
       description: >
-        A classic introductory level textbook often taught in the first nuclear engineering
-        class that nuclear engineering students take.
-        The old version is available but the third edition is much more common.
+        A classic introductory level textbook often taught in the first nuclear
+        engineering class that nuclear engineering students take.  The old version is
+        available but the third edition is much more common.
       url: https://babel.hathitrust.org/cgi/pt?id=coo.31924004142463&view=1up&seq=6
     - author: Duderstadt & Hamilton 
       title: Nuclear Reactor Analysis
       date: "1976"
       description: >
-        *The* classic senior undergraduate nuclear engineering textbook covering
-        the basics of reactor physics, neutron transport calculations, thermal/hydraulics, and
+        *The* classic senior undergraduate nuclear engineering textbook covering the
+        basics of reactor physics, neutron transport calculations, thermal/hydraulics, and
         plant design.  Often taught to the senior class of nuclear engineering students.
       url: https://deepblue.lib.umich.edu/handle/2027.42/89079
     - author: Bell and Glasstone
@@ -89,15 +131,6 @@
       description: >
         An AEC monograph describing noise analysis in nuclear reactors
       urls: https://babel.hathitrust.org/cgi/pt?id=uc1.b4118397&view=1up&seq=7
-
-- category: Academic Reports
-  items: 
-   - description: 
-     author: MIT
-     title: The Future of Nuclear Energy in a Carbon-Constrained World
-     date: 2018
-     url: https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/
-     description: A relatively modern analysis of the nuclear industry
 
 - category: Open-access publications
   items: 
@@ -166,6 +199,33 @@
      description: >
         Excellent and detailed information about the history, technology, promises,  and challenges
         of molten salt reactors.
+   - author: Generation IV International Forum
+     title: "Education and Training Working Group"
+     description: >
+       Many videos about different nuclear topics
+     url: https://www.youtube.com/channel/UCEHOQ63gD01fSKbClY9XvSQ/videos
+     date: 2022
+
+- category: Comic books and videos
+  description: People used to make comics about nuclear power
+  items:
+    - title: Adventures Inside the Atom
+      url: https://artsandculture.google.com/story/gAVR41UqMct2Iw
+      date: "1948"
+      author: General Electric
+      description:  >
+        A comic describing the basic concepts of nuclear fission technology
+        from the very early days.
+    - title: Our Friend The Atom
+      url: https://www.youtube.com/watch?v=QRzl1wHc43I
+      date: 1957
+      author: Disney
+      description: A video companion to the Disney-produced nuclear book by the same title
+    - title: "The Mighty Atom: The Story of Electricity from Amber to Atoms"
+      url: https://mediacommons.unl.edu/luna/servlet/detail/UNL~113~113~838~1511325:Mighty-atom,-starring-Reddy-Kilowat
+      date: 1958
+      description: A comic book with Reddy Kilowatt talking about electricity and atoms.
+      author: Reddy Kilowatt, Inc.
 
 - category: History
   description: >

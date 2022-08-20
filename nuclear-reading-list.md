@@ -5,20 +5,29 @@ description: Some links to good reading material about nuclear technology
 author: Nick Touran
 image: /img/kid_in_atom.jpg
 ---
+<a name="top"/>
 <div class="row">
 <div class="col-md-12" markdown="1">
 
 # Nuclear Power Reading List
-##### By Nick Touran, Ph.D. P.E., 2021-05-24
+##### By Nick Touran, Ph.D. P.E., 2021-05-24, updated 2022
 
 This is a curated directory of reading material that may be interesting
 for people to learn more about nuclear power technology.
+
+## Contents
+
+<ul>
+{% for category in site.data.reading %}
+<li><a href="#{{category.category|slugify}}">{{category.category}}</a></li>
+{% endfor %}
+</ul>
 
 <span class="label label-success">Open source</span> You can [edit this page on github]({{site.github_repo_url}}{{page.path}})
 
 {% for category in site.data.reading %}
 
-## {{ category.category }}
+## <a name="{{category.category|slugify}}"/>{{ category.category }} <a href="#{{category.category|slugify}}">&#167;</a>
 
 {{ category.description }}
 
@@ -37,6 +46,7 @@ for people to learn more about nuclear power technology.
 </tr>
 {%- endfor -%}
 </table>
+<p> <a href="#top">&#8593; Top</a> </p>
 {%- endfor -%}
 
 
