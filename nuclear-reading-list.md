@@ -13,7 +13,8 @@ image: /img/kid_in_atom.jpg
 ##### By Nick Touran, Ph.D. P.E., 2021-05-24, updated 2022
 
 This is a curated directory of reading material that may be interesting
-for people to learn more about nuclear power technology.
+for people to learn more about nuclear power technology. Free items are
+indicated with <span style="color:MediumSeaGreen">Free!</span>
 
 ## Contents
 
@@ -39,7 +40,8 @@ for people to learn more about nuclear power technology.
 <tr>
 <td>{{ item.author }}</td>
 <td markdown="1">
-[{{ item.title }}]({{ item.url }})
+[{{ item.title }}]({{ item.url }}){% if item.free %}<span style="color:MediumSeaGreen"> (Free!)</span>{%
+endif %}
 </td>
 <td markdown="1">
 {{ item.description }}{% if item.date %} ({{ item.date }}){% endif %}
