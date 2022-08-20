@@ -23,7 +23,8 @@ for people to learn more about nuclear power technology.
 {% endfor %}
 </ul>
 
-<span class="label label-success">Open source</span> You can [edit this page on github]({{site.github_repo_url}}{{page.path}})
+<span class="label label-success">Open source</span> You can contribute to this by
+[editing this page on github]({{site.github_repo_url}}/_data/reading.yml)
 
 {% for category in site.data.reading %}
 
