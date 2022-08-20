@@ -68,7 +68,6 @@
        A Pulitzer Prize-winning author argues that nuclear power has a place
        in solving climate change
 
-
 - category: Documentaries and videos
   description: Feature length and shorter documentaries and videos about nuclear
   items:
@@ -94,6 +93,7 @@
         a foundational principle for the green movement - being anti-nuclear - from within
         the movement itself.
       url: https://vimeo.com/731323125
+
 
 - category: Textbooks
   description: Oldies but goodies.
@@ -131,6 +131,42 @@
       description: >
         An AEC monograph describing noise analysis in nuclear reactors
       urls: https://babel.hathitrust.org/cgi/pt?id=uc1.b4118397&view=1up&seq=7
+
+- category: Podcasts
+  description: >
+    If you like podcasts, here are a few to try out
+  items: 
+   - author: Rod Adams
+     title: The Atomic Show
+     date: "2006 - today"
+     url: https://atomicinsights.com/podcast/
+     description: >
+       The OG nuclear podcaster goes into depth on countless issues of interest
+       across the decades
+   - author: Bret Kugelmass and others
+     title: Titans of Nuclear
+     date: "2018 - today"
+     url: https://www.titansofnuclear.com/
+     description: >
+       Hundreds of in-depth interviews with people all across the nuclear industry
+   - author: Chris Keefer
+     title: Decouple
+     date: "2020 - today"
+     url: https://www.decouplemedia.org/
+     description: >
+       Lots of great discussions with people across climate, business, and nuclear areas
+   - author: Emmet Penney
+     title: Nuclear Barbarians
+     date: "2021 - today"
+     url: https://nuclearbarbarians.fireside.fm/
+     description: >
+       A podcast about nuclear, energy, and possibility
+   - author: IAEA
+     title: Nuclear Explained
+     date: "2021 - today"
+     url: https://www.iaea.org/podcasts
+     description: >
+       Educational discussions from the UN's International Atomic Energy Agency
 
 - category: Open-access publications
   items: 
@@ -257,11 +293,11 @@
      date: 1994
      url: https://www.osti.gov/biblio/175787
      description: >
-        As a young nuclear engineer, I was enchanted by Alvin Weinberg's autobiography, The First
-        Nuclear Era. He took me through a very personal history of concepts I have studied, and
-        struck many chords by recounting such things as the day the term "breeder reactor" was
-        thought up. Weinberg discusses pioneering neutron transport, working with the Manhattan
-        Project, the origins of the national labs, how he influenced today's dominance of
-        light-water reactors, and a history of the various goings on that brought nuclear power to
-        where it is today.
+        As a young nuclear engineer, I was enchanted by Alvin Weinberg's autobiography,
+        The First Nuclear Era. He took me through a very personal history of concepts I
+        have studied, and struck many chords by recounting such things as the day the term
+        "breeder reactor" was thought up. Weinberg discusses pioneering neutron transport,
+        working with the Manhattan Project, the origins of the national labs, how he
+        influenced today's dominance of light-water reactors, and a history of the various
+        goings on that brought nuclear power to where it is today.
 
