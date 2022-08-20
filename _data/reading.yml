@@ -1,6 +1,59 @@
 # Data that gets rendered via template loops
 # into different templates
-- category: General Textbooks
+- category: General Interest
+  description: High-level introductions
+  items:
+    - author: Joshua Goldstein and Staffan Qvist
+      title: > 
+        A Bright Future: How some countries have solved climate change and the rest can
+        follow
+      url: http://www.brightfuturebook.com/
+      date: 2019-08-09
+      description:  >
+        Book based on a <a
+        href="https://www.nytimes.com/2019/04/06/opinion/sunday/climate-change-nuclear-power.html">NY
+        Times op ed</a> that inspired the Oliver Stone documentary "Nuclear"
+    - author: Scott Montgomery
+      title: "Seeing the Light: The case for nuclear power in the 21st century"
+      url: https://scottlmontgomery.com/seeing-the-light/
+      date: 2017-09-14
+      description:  >
+        A high-level overview of the case for nuclear from an energy policy professor.
+    - author: Gweneth Cravens
+      title: "Power to Save the World: The Truth about Nuclear Energy"
+      date: 2010-12-01
+      url: https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World
+      description:  >
+        A climate-concerned nuclear skeptic re-asks the old questions and gets new and
+        surprising answers.
+    - author: Rauli Partanen, Janne Korhonen
+      title: "Climate Gamble: Is Anti-Nuclear Activism Endangering Our Future?"
+      url: https://climategamble.net/
+      date: 2017
+      description: Good book about energy choices
+
+- category: Comic books and videos
+  description: People used to make comics about nuclear power
+  items:
+    - title: Adventures Inside the Atom
+      url: https://artsandculture.google.com/story/gAVR41UqMct2Iw
+      date: "1948"
+      author: General Electric
+      description:  >
+        A comic describing the basic concepts of nuclear fission technology
+        from the very early days.
+    - title: Our Friend The Atom
+      url: https://www.youtube.com/watch?v=QRzl1wHc43I
+      date: 1957
+      author: Disney
+      description: A video companion to the Disney-produced nuclear book by the same title
+    - title: "The Mighty Atom: The Story of Electricity from Amber to Atoms"
+      url: https://mediacommons.unl.edu/luna/servlet/detail/UNL~113~113~838~1511325:Mighty-atom,-starring-Reddy-Kilowat
+      date: 1958
+      description: A comic book with Reddy Kilowatt talking about electricity and atoms.
+      author: Reddy Kilowatt, Inc.
+
+- category: Textbooks
   description: Oldies but goodies.
   items:
     - author: Lamarsh 
@@ -11,20 +64,23 @@
         The old version is available but the third edition is much more common.
       url: https://babel.hathitrust.org/cgi/pt?id=coo.31924004142463&view=1up&seq=6
     - author: Duderstadt & Hamilton 
-      title: Nuclear Reactor Analysis (1976)
+      title: Nuclear Reactor Analysis
+      date: "1976"
       description: >
         *The* classic senior undergraduate nuclear engineering textbook covering
         the basics of reactor physics, neutron transport calculations, thermal/hydraulics, and
         plant design.  Often taught to the senior class of nuclear engineering students.
       url: https://deepblue.lib.umich.edu/handle/2027.42/89079
     - author: Bell and Glasstone
-      title: Nuclear Reactor Theory (1970)
+      title: Nuclear Reactor Theory
+      date: "1970"
       description: >
         A graduate-level classic textbook describing the physical concepts and
         mathematical methods used to predict the behavior of neutrons in nuclear reactors.
       urls: https://www.osti.gov/biblio/4074688-nuclear-reactor-theory
     - author: M. A. Schultz.
-      title: Control of nuclear reactors and power plants (1961)
+      title: Control of nuclear reactors and power plants
+      date: 1961
       description: >
         An excellent and detailed textbook about how to control a chain reacting nuclear power plant
       urls: https://catalog.hathitrust.org/Record/001619690
@@ -38,14 +94,16 @@
   items: 
    - description: 
      author: MIT
-     title: The Future of Nuclear Energy in a Carbon-Constrained World (2018)
+     title: The Future of Nuclear Energy in a Carbon-Constrained World
+     date: 2018
      url: https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/
      description: A relatively modern analysis of the nuclear industry
 
 - category: Open-access publications
   items: 
    - author: Yang, W.S.
-     title: Fast Reactor Physics and Computational Methods (2012)
+     title: Fast Reactor Physics and Computational Methods
+     date: 2012
      url: https://doi.org/10.5516/NET.01.2012.504
      description: >
        An excellent overview of fast reactor physics and computational methods from a
@@ -55,18 +113,33 @@
   description: >
     There are lots of compilations of info on various subsets of nuclear technology
   items: 
+   - author: Nuclear Innovation Alliance
+     title: "Advanced Nuclear Reactor Technology: A Primer"
+     description: >
+       Basic information about some reactors in development outside of typical large
+       water-cooled reactors
+     url: https://www.nuclearinnovationalliance.org/advanced-nuclear-reactor-technology-primer
+     date: September 2021
+   - author: Charles Till and Yoon Chang
+     title: "Plentiful Energy: The Story of the Integral Fast Reactor"
+     description: >
+       A book describing the development of a fast-neutron breeder reactor.
+     url: http://www.thesciencecouncil.com/pdfs/PlentifulEnergy.pdf
    - author: IAEA
-     title: Advances in Small Modular Reactor Technology Developments (2020)
+     title: Advances in Small Modular Reactor Technology Developments
+     date: 2020
      description: Modern info about small modular reactors
      url: https://aris.iaea.org/Publications/SMR_Book_2020.pdf 
    - author: Dietrich and Zinn
      title: Solid Fuel Reactors
+     date: 1958
      url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015004452796&view=1up&seq=9
      description: >
         A highlight from the 1958 Atoms for Peace conference, this book details solid fuel 
         breeder reactors including Fermi-1, EBR-1, and EBR-2. 
    - author: Starr and Dickinson
      title: Sodium Graphite Reactors
+     date: 1958
      url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015003993881&view=1up&seq=7
      description: >
         A highlight from the 1958 Atoms for Peace conference, this book details
@@ -75,10 +148,18 @@
         uranium.
    - author: Lane
      title: Fluid Fuel Reactors
+     date: 1958
      url: http://moltensalt.org/references/static/downloads/pdf/
      description: >
         A highlight from the 1958 Atoms for Peace conference, this book details
         fluid fueled reactors like aqueous homogeneous reactors and molten salt reactors.
+   - author: NRC
+     title: Fast Reactor Technology Training Materials
+     url: https://www.nrc.gov/docs/ML1914/ML19148A745.html
+     description: >
+        Excellent and detailed information about the history, technology, promises,  and challenges
+        of fast-neutron reactors.
+     date: 2019
    - author: NRC
      title: Overview of Molten Salt Reactor Technology Training Materials
      url: https://www.nrc.gov/docs/ML1733/ML17331B100.html
@@ -86,7 +167,7 @@
         Excellent and detailed information about the history, technology, promises,  and challenges
         of molten salt reactors.
 
-- category: History books
+- category: History
   description: >
     Nuclear technology has a rich history with many fascinating developments. There are
     **dozens upon dozens of deep-dive references** in the [reference section
@@ -95,10 +176,32 @@
   items: 
    - description: 
      author: Hewlett and Holl
-     title: Atoms for Peace and War (1990)
+     title: Atoms for Peace and War
+     date: 1990
      url: https://www.energy.gov/management/downloads/hewlett-and-holl-atoms-peace-and-war
      description: >
        A phenomenal deep-dive into the history of nuclear enterprise in the USA. See also
        <a
        href="https://www.energy.gov/lm/doe-history/historical-resources/history-publications">Many
        related publications</a> at the DOE historical publications page
+   - description: 
+     author: Walker and Wellock
+     title: A Short History of Nuclear Regulation, 1946–2009
+     url: https://www.nrc.gov/reading-rm/doc-collections/nuregs/brochures/br0175/index.html
+     description: >
+        A brief overview of some significant
+        events in the history of U.S. nuclear regulation. 
+   - description: 
+     author: Alvin Weinberg
+     title: The First Nuclear Era
+     date: 1994
+     url: https://www.osti.gov/biblio/175787
+     description: >
+        As a young nuclear engineer, I was enchanted by Alvin Weinberg's autobiography, The First
+        Nuclear Era. He took me through a very personal history of concepts I have studied, and
+        struck many chords by recounting such things as the day the term "breeder reactor" was
+        thought up. Weinberg discusses pioneering neutron transport, working with the Manhattan
+        Project, the origins of the national labs, how he influenced today's dominance of
+        light-water reactors, and a history of the various goings on that brought nuclear power to
+        where it is today.
+

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Nuclear Engineering Reading List
+title: Nuclear Power Reading List
 description: Some links to good reading material about nuclear technology
 author: Nick Touran
-image: /img/u238-capture-fission.png
+image: /img/kid_in_atom.jpg
 ---
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-# Nuclear Engineering Reading List
+# Nuclear Power Reading List
 ##### By Nick Touran, Ph.D. P.E., 2021-05-24
 
-This is a curated (and open-source) directory of reading material that may be interesting
-for people just getting into nuclear technology.
+This is a curated directory of reading material that may be interesting
+for people to learn more about nuclear power technology.
 
 <span class="label label-success">Open source</span> You can [edit this page on github]({{site.github_repo_url}}{{page.path}})
 
@@ -23,7 +23,7 @@ for people just getting into nuclear technology.
 {{ category.description }}
 
 <table class="table table-striped">
-<tr><th>Author</th><th>Title</th><th>Description</th></tr>
+<tr><th class="col-md-2">Author</th><th class="col-md-4">Title</th><th class="col-md-6">Description</th></tr>
 {%- for item in category.items -%}
 <!-- tried using markdown table but no line wrap was killing me -->
 <tr>
@@ -32,7 +32,7 @@ for people just getting into nuclear technology.
 [{{ item.title }}]({{ item.url }})
 </td>
 <td markdown="1">
-{{ item.description }}
+{{ item.description }}{% if item.date %} ({{ item.date }}){% endif %}
 </td>
 </tr>
 {%- endfor -%}
