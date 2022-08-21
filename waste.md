@@ -1,8 +1,11 @@
 ---
 layout: default
-title: What about the waste?
+title: What is nuclear waste?
 category: physics
-description: What is nuclear waste? Is it appropriate to expand nuclear in light of it? Nuclear waste is primarily the atoms that are left over after fuel atoms split in a fission chain reaction.
+description: >
+    What about nuclear waste? Is it appropriate to expand nuclear power in light of it?
+    Nuclear waste is primarily the atoms that are left over after fuel atoms split in a
+    fission chain reaction.
 author: Nick Touran
 image: /img/fission-chain-reaction.jpg
 ---
@@ -10,12 +13,13 @@ image: /img/fission-chain-reaction.jpg
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# What about the waste?
-Nuclear reactors make waste. The physics leverage of E=MC² makes nuclear waste uniquely
-*concentrated*; it's both extraordinarily small and seriously hazardous. The relatively
-tiny amount of waste is intriguing in that its overall environmental, health, and land
-footprint can be minimal. But, there is legitimate concern that the hazards may be
-difficult to contain.
+# Nuclear waste
+Nuclear waste is made of radioactive atoms generated after large atoms split.  Nuclear
+reactors make nuclear waste during operation. The physics leverage of E=MC² makes nuclear
+waste uniquely *concentrated*; it's both extraordinarily small and seriously hazardous.
+The relatively tiny amount of waste is intriguing in that its overall environmental,
+health, and land footprint can be minimal. But, there is legitimate concern that the
+hazards may be difficult to contain.
 
 This page *digs in* to the nuance of nuclear waste, and points to additional information for
 going deeper. Here, you will learn:
