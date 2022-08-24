@@ -6,7 +6,7 @@ description: >
     Rickover's famous speech about the distinction between academic (paper)
     reactors and practical reactors.
 author: Admiral Hyman Rickover\*
-image: /img/reactor.png
+image: /img/rickover-1955.jpg
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
