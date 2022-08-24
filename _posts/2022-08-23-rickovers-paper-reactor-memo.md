@@ -80,8 +80,8 @@ reactor designer errs, he wears the mistake around his neck; it cannot be erased
 Everyone can see it.
 
 The academic-reactor designer is a dilettante. He has not had to assume any real
-responsibility in connection with his projects. He is free to luxuriate in elegant ideas
-, the practical shortcomings of which can be relegated to the category of "mere technical
+responsibility in connection with his projects. He is free to luxuriate in elegant ideas,
+the practical shortcomings of which can be relegated to the category of "mere technical
 details." The practical-reactor designer must live with these same technical details.
 Although recalcitrant and awkward, they must be solved and cannot be put off until
 tomorrow. Their solutions require man power, time, and money.
@@ -98,7 +98,7 @@ experiences, speak less and worry more.
 Yet it is incumbent on those in high places to make wise decisions, and it is reasonable
 and important that the public be correctly informed. It is consequently incumbent on all
 of us to state the facts as forthrightly as possible. Although it is probably impossible
-to have reactor ideas labeled as "practical" or" academic ' by the authors, it is
+to have reactor ideas labeled as "practical" or "academic" by the authors, it is
 worth while for both the authors and the audience to bear in mind this distinction and to
 be guided thereby.
 
