@@ -5,8 +5,7 @@ category: blog
 description: Commentary on Weinberg's incredible life and advice about building the next nuclear era
 author: Nick Touran
 ---
-<div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-lg-8" markdown="1">
 
 # {{ page.title }} 
 ##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
@@ -16,7 +15,7 @@ nuclear energy. He's a nuclear energy titan.
 In August, 2010, I purchased and read Alvin Weinberg's autobiography, *The First Nuclear Era*. 
 
   <figure>
-  <img src="/img/weinberg-cover.jpg" alt="The book" class="img img-responsive center-block pull-right" width="180">
+  <img src="/img/weinberg-cover.jpg" alt="The book" class="img img-fluid center-block float-end rounded w-25" width="180">
   </figure>
 It so moved me that I wrote
 a 5-star review, which concluded:
@@ -142,7 +141,7 @@ about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4)
   one](https://technicalreports.ORNL.gov/1944/3445605702870.pdf) discusses some pretty wild reactors.
   These are the first documented reactor brainstorming sessions. 
   <figure>
-  <a href="/img/new-piles-committee-reactors.png"><img src="/img/new-piles-committee-reactors.png" alt="Some early reactor ideas from a New Piles Committee meeting" class="img img-responsive center-block" width="400"></a>
+  <a href="/img/new-piles-committee-reactors.png"><img src="/img/new-piles-committee-reactors.png" alt="Some early reactor ideas from a New Piles Committee meeting" class="img img-fluid center-block" width="400"></a>
    <caption>Some early reactor ideas from MUC-LAO-42</caption>
   </figure>
 * 40 - Only a few thousand tons of uranium known. This (incorrect) assumption led to the push for
@@ -215,7 +214,7 @@ about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4)
   the AEC freaked in a "brouhaha". Haha. It was on the [October 1951
   cover.](https://www.scientificamerican.com/magazine/sa/1951/10-01/)
   <figure>
-  <a href="/img/litr-sa-cover.jpg"><img src="/img/litr-sa-cover.jpg" alt="The Scientific American cover showing LITR Cerenkov radiation" class="img img-responsive center-block" width="200"></a>
+  <a href="/img/litr-sa-cover.jpg"><img src="/img/litr-sa-cover.jpg" alt="The Scientific American cover showing LITR Cerenkov radiation" class="img img-fluid center-block" width="200"></a>
    <caption>The Scientific American cover showing LITR Cerenkov radiation</caption>
   </figure>
 * 86 - Bulk Shielding Reactor (BSR) was MTR in a swimming pool for shield design of Nautilus and nuclear aircraft.
@@ -228,7 +227,7 @@ about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4)
   page!? Here's a [more recent blog post from ORNL about
   it](https://www.ornl.gov/blog/ornl-reporter/lofty-ambitions) at least.
   <figure>
-  <a href="/img/tsf.jpg"><img src="/img/tsf.jpg" alt="The Tower Shielding Facility" class="img img-responsive center-block" width="300"></a>
+  <a href="/img/tsf.jpg"><img src="/img/tsf.jpg" alt="The Tower Shielding Facility" class="img img-fluid center-block" width="300"></a>
    <caption>The Tower Shielding Facility at ORNL, where nuclear reactors were operated in the air (from link above)</caption>
   </figure>
 * 87 - a copy of the Bulk Shielding Facility (BSF) was built in 5 months in Geneva for 1955 UN conference on Peaceful uses of
@@ -238,12 +237,12 @@ about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4)
   report](https://catalog.hathitrust.org/Record/102363648). In fact, many of the [15 volumes of
   proceedings from the conference are available](https://catalog.hathitrust.org/Record/002241506). 
   <figure>
-  <a href="/img/geneva-reactor-people.jpg"><img src="/img/geneva-reactor-people.jpg" alt="People in Geneva looking down into a reactor" class="img img-responsive center-block" width="300"></a>
+  <a href="/img/geneva-reactor-people.jpg"><img src="/img/geneva-reactor-people.jpg" alt="People in Geneva looking down into a reactor" class="img img-fluid center-block" width="300"></a>
    <caption markdown="1">People viewing the reactor at the UN conference on Atoms for Peace (from [delegation
 report](https://catalog.hathitrust.org/Record/102363648))</caption>
   </figure>
   <figure>
-  <a href="/img/geneva-reactor.jpg"><img src="/img/geneva-reactor.jpg" alt="Schematic of the reactor" class="img img-responsive center-block" width="300"></a>
+  <a href="/img/geneva-reactor.jpg"><img src="/img/geneva-reactor.jpg" alt="Schematic of the reactor" class="img img-fluid center-block" width="300"></a>
    <caption markdown="1">Schematic view of the Geneva reactor (from [delegation
 report](https://catalog.hathitrust.org/Record/102363648))</caption>
   </figure>
@@ -260,7 +259,7 @@ report](https://catalog.hathitrust.org/Record/102363648))</caption>
   nuclear disillusionment are less proud of the labs reactor history. He, however thinks research
   reactors will always be the essence of the lab. Today, the ORNL logo is a damned oak leaf!
   <figure>
-  <a href="/img/old-ornl-logo.jpg"><img src="/img/old-ornl-logo.jpg" alt="Old ORNL logo" class="img img-responsive center-block" width="200"></a>
+  <a href="/img/old-ornl-logo.jpg"><img src="/img/old-ornl-logo.jpg" alt="Old ORNL logo" class="img img-fluid center-block" width="200"></a>
   </figure>
 
 # Chapter 5: Aircraft Nuclear Propulsion
@@ -544,7 +543,7 @@ entry](https://www.worldcat.org/title/physical-theory-of-neutron-chain-reactors/
   document](https://icus.org/wp-content/uploads/2017/04/Spreng-Daniel-Substitutional-Relationships-between-Energy-Time-and-Information.pdf)
   about his time at IEA, which is actually really cool. 
   <figure>
-  <a href="/img/time-energy-information-triangle.png"><img src="/img/time-energy-information-triangle.png" alt="The Time-Information-Energy triangle" class="img img-responsive center-block" width="400"></a>
+  <a href="/img/time-energy-information-triangle.png"><img src="/img/time-energy-information-triangle.png" alt="The Time-Information-Energy triangle" class="img img-fluid center-block" width="400"></a>
    <caption>Time-Energy-Information Triangle that suggests energy lets you do
 things faster, and information may help you be more efficient.</caption>
   </figure>
@@ -662,7 +661,6 @@ ABM](https://en.wikipedia.org/wiki/Nike_Zeus)
 * Final thought: 
   > To deny a rebirth of nuclear energy is to deny human ingenuity and aspiration.
 
-</div>
 </div>
 
 

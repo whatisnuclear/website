@@ -11,13 +11,11 @@ author: Nick Touran, Ph.D.
 image: /img/renaming-nuclear.png
 ---
 <div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-lg-8" markdown="1">
 # {{ page.title }}
 ##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
 
-<div class="pull-right">
-<img alt="A new name" title="Getting a new name" style="border:0;width:250px" src="/img/renaming-nuclear.png"/>
-</div>
+<img alt="A new name" class="img-fluid w-50 float-end" title="Getting a new name" src="/img/renaming-nuclear.png"/>
 
 The term *nuclear* as in *nuclear energy*, *nuclear plants*, etc. is problematic as a
 description of the peaceful low-carbon energy source.

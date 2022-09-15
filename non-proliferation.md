@@ -9,8 +9,8 @@ author: Nick Touran
 <div class="col-md-8" markdown="1">
 
 # What is nuclear non-proliferation?   
-<div class="pull-right">
-<img src="/img/baker_shot_crop.png" class="img-rounded img-responsive"
+<div class="float-right">
+<img src="/img/baker_shot_crop.png" class="rounded img-fluid"
 style="width:300px;" alt="The Baker Shot" title="The Baker Shot: An early nuclear weapons
 test" /> </div>
 Nuclear non-proliferation is the effort to eliminate the spread of nuclear weapon technology, and to

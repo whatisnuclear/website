@@ -42,7 +42,7 @@ In summary, to store enough energy to replace 1 nuclear power plant for one nigh
 lift 44 fully loaded aircraft carriers to the top of the Burj Khalifa every single day. This is
 shown below.
 
-<p><a href="/img/aircraft_carriers_on_burj_dubai.jpg"><img src="/img/aircraft_carriers_on_burj_dubai.jpg" alt="44 aircraft carriers on top of the Burj Khalifa" title="44 aircraft carriers on top of the Burj Khalifa" class="img-rounded img-responsive" width="590"/></a></p>
+<p><a href="/img/aircraft_carriers_on_burj_dubai.jpg"><img src="/img/aircraft_carriers_on_burj_dubai.jpg" alt="44 aircraft carriers on top of the Burj Khalifa" title="44 aircraft carriers on top of the Burj Khalifa" class="rounded img-fluid" width="590"/></a></p>
 
 That&rsquo;s a lot of aircraft carriers. Now remember that there are 104 operating reactors in the
 USA and that makes up 20% of our electricity. So the grand total of aircraft carriers we would have

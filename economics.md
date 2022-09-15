@@ -15,8 +15,8 @@ date: 2020-01-26
 ##### *{{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}*
 {:.no_toc}
 
-<div class="thumbnail pull-right" style="max-width:300px">
-<a href="/img/hot_cell.jpg"><img class="img-responsive"
+<div class="thumbnail float-right" style="max-width:300px">
+<a href="/img/hot_cell.jpg"><img class="img-fluid"
 src="/img/hot_cell.jpg"  alt="Picture of hot cell"/></a> 
 <div class="caption"><p>Dealing with radiation is expensive (photo: ANL)</p></div>
 </div>
@@ -58,7 +58,7 @@ On this page:
 
 <a href="/img/costs_1961.jpg"><img
 src="/img/costs_1961.jpg"  alt="Construction costs of nuclear reactors up to 1961"
-class="img img-responsive pull-right" style="max-width:300px"></a>
+class="img img-fluid float-right" style="max-width:300px"></a>
 After nuclear fission was discovered, humanity engaged in [significant efforts around the
 world to build economical power plants]({% link reactor_history.md %}). This took about 20
 years. Along the way, we experimented with dozens of different coolants, fuels, and
@@ -191,7 +191,7 @@ NPP capacity factors would never exceed 60%–65%<sup>1,2</sup>. However, betwee
 
 <figure> <a href="/img/nuclear-capacity-factors-2019.png"><img
 src="/img/nuclear-capacity-factors-2019.png" alt="US nuclear capacity factors through 2019"
-class="img img-responsive center-block" ></a> <caption>The capacity factors of the US
+class="img img-fluid center-block" ></a> <caption>The capacity factors of the US
 nuclear fleet has risen amazingly since the 1970s</caption> </figure>
 
 With the plants producing power more of the time, electricity sales revenue went up
@@ -202,7 +202,7 @@ flattened out the nuclear growth curve.
 
 <figure> <a href="/img/pris-rx-vs-time.png"><img
 src="/img/pris-rx-vs-time.png" alt="Nuclear capacity vs. time from IAEA"
-class="img img-responsive center-block" ></a> <caption>Total capacity of nuclear power
+class="img img-fluid center-block" ></a> <caption>Total capacity of nuclear power
 in different world regions. Between 1975 and 1988 the world added 250 GW of 
 carbon-free nuclear capacity. That's 20 GW/year! (from <a
 href="https://www.iaea.org/resources/databases/power-reactor-information-system-pris">IAEA PRIS</a>)</caption> </figure>
@@ -253,7 +253,7 @@ American fracked gas is now influencing the world energy markets.
 
 <figure> <a href="/img/us_primary_energy.png"><img
 src="/img/us_primary_energy.png" alt="US primary energy vs. time graph from EIA"
-class="img img-responsive center-block" ></a> <caption>Coal is reducing and largely being replaced by fracked natural gas (Source: <a href="https://www.eia.gov/energyexplained/us-energy-facts/">US EIA</a>)</caption> </figure>
+class="img img-fluid center-block" ></a> <caption>Coal is reducing and largely being replaced by fracked natural gas (Source: <a href="https://www.eia.gov/energyexplained/us-energy-facts/">US EIA</a>)</caption> </figure>
 
 Nuclear plants do not benefit from the new access to cheap fracked fuel and experience
 this as a reduction in electricity sales revenue. Thus, the nuclear industry must reduce
@@ -311,7 +311,7 @@ different reactor models.
 
   <figure> <a href="/img/PWR_construction_kudankulm_lg.jpg"><img
 src="/img/PWR_construction_kudankulm_lg.jpg" alt="Nuclear plant under construction"
-class="img img-responsive center-block" ></a> <caption>PWR Under construction in India
+class="img img-fluid center-block" ></a> <caption>PWR Under construction in India
 (Credit <a href="https://www.flickr.com/photos/iaea_imagebank/3441138290">IAEA CC
 BY-SA-2.0</a>)</caption> </figure>
 
@@ -476,7 +476,7 @@ documents.
 <div class="row">
 <div class="col-md-6">
 <div class="thumbnail">
-<a href="/img/OPS_SER_1981.jpg"><img class="img-responsive"
+<a href="/img/OPS_SER_1981.jpg"><img class="img-fluid"
 src="/img/OPS_SER_1981.jpg"  alt="Safety Evaluation Report for Offshore Power Systems
 floating nuclear power plants"/></a> 
 <div class="caption"><p>A SER from OPS's first 8 plants</p></div>
@@ -484,7 +484,7 @@ floating nuclear power plants"/></a>
 </div>
 <div class="col-md-6">
 <div class="thumbnail">
-<a href="/img/ops-shielding.jpg"><img class="img-responsive"
+<a href="/img/ops-shielding.jpg"><img class="img-fluid"
 src="/img/ops-shielding.jpg"  alt="OPS Shielding graphic "/></a> 
 <div class="caption"><p>A graphic showing one of the assembly line steps of a gigantic PWR</p></div>
 </div>

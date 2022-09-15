@@ -11,7 +11,7 @@ image: /img/fission-chain-reaction.jpg
 ---
 
 <div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-lg-8" markdown="1">
 
 # Nuclear waste
 Nuclear waste is made of radioactive atoms generated after large atoms split.  Nuclear
@@ -39,7 +39,7 @@ of nuclear waste is the leftover smaller nuclei, known as fission products.
 
 <figure>
 <a href="/img/fission-chain-reaction-plainsvg.svg">
-<img class="img-responsive" src="/img/fission-chain-reaction-plainsvg.svg" width="900"
+<img class="img-fluid" src="/img/fission-chain-reaction-plainsvg.svg" width="900"
 alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission products and
 3 neutrons."/></a>
 <caption>The fission process of a single atomic
@@ -58,7 +58,7 @@ given fission event, but you always get the same average composition as billions
 billions of atoms split. You basically get a huge variety of elements, shown below.
 
 <figure>
-<img class="img-responsive" src="/img/blank.png" data-echo="/img/fission-product-yields-u235-thermal-endf71-900.png"
+<img class="img-fluid" src="/img/blank.png" data-echo="/img/fission-product-yields-u235-thermal-endf71-900.png"
 alt="A periodic table of the elements highlighting the ones that can emerge as fission
 products."/> <caption>The fission products include radioactive <a href="{% link
 isotopes.md %}">isotopes</a> of the elements shown here. Color is proportional to the log
@@ -76,7 +76,7 @@ basically has the consistency of a teacup. Commercial nuclear waste is not green
 
 <figure>
 <a href="/img/uranium-pellet-lg.jpg">
-<img class="img-responsive" src="/img/uranium-pellet-sm.jpg"
+<img class="img-fluid" src="/img/uranium-pellet-sm.jpg"
 alt="A nuclear fuel pellet before being put in a reactor"/></a>
 <caption>This is what nuclear fuel looks like before it is used. Before the atoms split,
 it is only slightly radioactive and can be handled with a glove. After fission occurs, it
@@ -102,7 +102,7 @@ most toxic waste, the fact that nuclear waste becomes less toxic with time is qu
 <figure> <a href="/img/fission-energy.svg"><img
 src="/img/blank.png"
 data-echo="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
-class="img img-responsive center-block" ></a>  
+class="img img-fluid center-block" ></a>  
 
 <caption markdown="1">How much energy comes out [via different mechanisms]({% link
 radioactivity.md%}#types-of-nuclear-radiation) after you fission 1 kg of Uranium-235. This
@@ -123,7 +123,7 @@ moment. Still, it does not transform from hazardous to benign for thousands of y
 <figure>
 <a href="/img/ingestion-radiotoxicity-nuclear-waste.png"><img
 src="/img/ingestion-radiotoxicity-nuclear-waste.png" alt="Graph showing radiotoxicity of
-nuclear waste decaying over time" class="img img-responsive center-block"></a>
+nuclear waste decaying over time" class="img img-fluid center-block"></a>
 <caption>How dangerous nuclear waste is to eat as a function of time compared to eating
 natural uranium ore (dotted line). The various curves show that the toxicity decreases
 faster if you recycle the waste and burn the very long-lived radionuclides as
@@ -158,7 +158,7 @@ Don't miss [this great XKCD "what if" scenario](https://what-if.xkcd.com/29/) as
 
 <figure>
 <a href="/img/spent-fuel-pool.jpg">
-<img class="img-responsive" src="/img/blank.png" data-echo="/img/spent-fuel-pool-sm.jpg" alt="A spent fuel pool"/>
+<img class="img-fluid" src="/img/blank.png" data-echo="/img/spent-fuel-pool-sm.jpg" alt="A spent fuel pool"/>
 </a>
 <caption>The spent fuel pool at a nuclear power plant. <a
 href="https://www.flickr.com/photos/nrcgov/14698776453/">Photo by the NRC</a>
@@ -172,7 +172,7 @@ several spent fuel assemblies each.
 <!--
 <figure>
 <a href="/img/dry-casks.jpg">
-<img class="img-responsive" src="/img/dry-casks-sm.jpg" alt="Dry cask nuclear fuel storage"/>
+<img class="img-fluid" src="/img/dry-casks-sm.jpg" alt="Dry cask nuclear fuel storage"/>
 </a>
 <caption>Nuclear waste in a dry cask storage facility. <a
 href="https://www.flickr.com/photos/nrcgov/36801710635/">Photo by the NRC</a>
@@ -181,7 +181,7 @@ href="https://www.flickr.com/photos/nrcgov/36801710635/">Photo by the NRC</a>
 -->
 <figure>
 <a href="/img/paris-at-dry-cask.jpg">
-<img class="img-responsive" src="/img/blank.png" data-echo="/img/paris-at-dry-cask.jpg" alt="Dry cask nuclear fuel storage"/>
+<img class="img-fluid" src="/img/blank.png" data-echo="/img/paris-at-dry-cask.jpg" alt="Dry cask nuclear fuel storage"/>
 </a>
 <caption>Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
 Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: <a
@@ -246,7 +246,7 @@ project suffered what can only be called a political death.
 
 <figure>
 <a href="/img/yucca-nrc-large.jpg">
-<img class="img-responsive" src="/img/blank.png" data-echo="/img/yucca-nrc-sm.jpg" alt="Yucca Mountain nuclear waste
+<img class="img-fluid" src="/img/blank.png" data-echo="/img/yucca-nrc-sm.jpg" alt="Yucca Mountain nuclear waste
 repository"/>
 </a>
 <caption>Yucca Mountain nuclear waste repository under construction <a
@@ -260,7 +260,7 @@ nuclear waste rather than civilian, but many of the challenges are related.
 
 <figure>
 <a href="/img/wipp-nrc-lg.jpg">
-<img class="img-responsive" src="/img/blank.png" data-echo="/img/wipp-nrc-sm.jpg" alt="WIPP nuclear waste
+<img class="img-fluid" src="/img/blank.png" data-echo="/img/wipp-nrc-sm.jpg" alt="WIPP nuclear waste
 repository"/>
 </a>
 <caption>Waste Isolation Pilot Plant (WIPP) salt getting cleared <a
@@ -294,7 +294,7 @@ biosphere for extra time.
 
 <figure>
 <a href="/img/deep-borehole.jpg">
-<img class="img-responsive" src="/img/blank.png" data-echo="/img/deep-borehole.jpg" alt="A deep borehole"/>
+<img class="img-fluid" src="/img/blank.png" data-echo="/img/deep-borehole.jpg" alt="A deep borehole"/>
 </a>
 <caption>A deep borehole <a
 href="https://www.osti.gov/servlets/purl/1420819">Courtesy of DOE</a>
@@ -419,7 +419,7 @@ density of the atom.
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<div class="pull-right"> <img class="thumbnail" src="/img/blank.png" data-echo="img/fuel_assembly.jpg" alt="A chopped
+<div class="float-right"> <img class="thumbnail" src="/img/blank.png" data-echo="img/fuel_assembly.jpg" alt="A chopped
 section of a spent fuel (nuclear waste) assembly (this particular one is actually a
 mock-up)" title="The top of a fuel assembly (this particular one is actually a mock-up)"
 /></div>

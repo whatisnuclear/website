@@ -11,7 +11,7 @@ author: Nick Touran
     
 ## What is nuclear energy? 
 
-<div class="pull-right"><img src="img/lamp.jpg" alt="A lamp" title="A Lamp" /></div>
+<div class="float-right"><img src="img/lamp.jpg" alt="A lamp" title="A Lamp" /></div>
 
 Everything around you is made up of tiny objects called atoms. Most of the mass of each atom is
 concentrated in the center (which is called the nucleus), and the rest of the mass is in the cloud

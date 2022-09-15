@@ -33,7 +33,7 @@ quality of life by replacing human labor. Between construction, farming, heating
 and travel it's a pretty easy case to make.
 
 <figure>
-<img class="img-responsive" src="https://partofthething.com/thoughts/wp-content/uploads/travel-comparison.jpg" alt="Picture of
+<img class="img-fluid" src="https://partofthething.com/thoughts/wp-content/uploads/travel-comparison.jpg" alt="Picture of
 guy on oregon trail vs. jet flying over mt. rainier" width="818" height="383" />
 <figcaption>Traveling with and without a lot of energy</figcaption>
 </figure>
@@ -47,7 +47,7 @@ countries like the USA having more energy doesn't really make our lives better, 
 saturated.
 
 <figure>
-<img class="img-responsive center-block" src="https://partofthething.com/thoughts/wp-content/uploads/hdi-1024x718.jpg" alt="Human
+<img class="img-fluid center-block" src="https://partofthething.com/thoughts/wp-content/uploads/hdi-1024x718.jpg" alt="Human
 development index correlated strongly with per-capita electricity usage" width="660" height="463"/> 
 <figcaption>Human Development Index as a function of electricity use per person worldwide. The dot size
 is proportional to population. The key point is that as the dots with &lt;0.7 HDI get better lives,
@@ -67,7 +67,7 @@ Smil</a> (who I met once!), recently published another epic on this topic, which
 reading if you want the wonkiest energy wonk info out there. It has ALL the details.)
 
 <figure>
-<img class="img-responsive center-block" src="https://partofthething.com/thoughts/wp-content/uploads/smil-210x300.jpg" alt="Book
+<img class="img-fluid center-block" src="https://partofthething.com/thoughts/wp-content/uploads/smil-210x300.jpg" alt="Book
 cover of Energy and Civilization by Vaclav Smil" width="210" height="300" />
 <figcaption>A very thorough book on humans and energy.</figcaption>
 </figure>
@@ -82,7 +82,7 @@ The <a href="https://www.eia.gov/totalenergy/data/monthly/index.php#summary">EIA
 world isn't much different). In 2017, the world was 86% powered by fossil fuel.
 
 <figure>
-<img class="img-responsive center-block"
+<img class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/us-energy-history.png" alt="EIA graph
 showing lots of fossil fuel being used in the USA" width="572" height="283" /> 
 <figcaption>Source: U.S.
@@ -110,7 +110,7 @@ meet the 2 °C max change by 2100 by sucking it out of the atmosphere. We didn't
 about how much energy would be required to go that negative, but I know it's extraordinary.
 
 <figure>
-<img class="img-responsive center-block"
+<img class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/greenhouse-gas-by-sector.png" alt="Pie
 graph showing 72% of greenhouse gas emissions coming from energy" width="941" height="453" />
 <figcaption>
@@ -125,7 +125,7 @@ So, what are our options? We have a lot of low-carbon energy sources. For electr
 are, in order of median CO<sub>2</sub>-eq produced per kilowatt-hour of electricity generated:
 
 <figure>
-<a href="/img/lifecycle-carbon-emissions-nolabel.png"><img class="img-responsive center-block"
+<a href="/img/lifecycle-carbon-emissions-nolabel.png"><img class="img-fluid center-block"
 src="/img/lifecycle-carbon-emissions-nolabel.png" alt="graph
 showing carbon intensity of energy sources" width="761" height="578" /> </a>
 <figcaption>(Source: <a
@@ -166,7 +166,7 @@ population want us to go 100% renewable: all the good, none of the bad!
 
 <figure>
 <img
-class="img-responsive center-block"
+class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/poll-support-energy-expansion.png"
 alt="graph showing people love wind and solar" width="578" height="348" /> 
 <figcaption>Data from <a
@@ -199,7 +199,7 @@ the sources of energy used by the BPA in the first half of December, 2017.
 
 <figure>
 <img
-class="img-responsive center-block"
+class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/december_generation-1.png" alt="Graph
 showing zero wind for 10 full days" width="1000" height="800" />
 <figcaption>Electricity sources in
@@ -235,7 +235,7 @@ we can be precise: in the USA, the wind blows 35% of the time and the sun shines
 
 <figure>
 <img
-class="img-responsive center-block"
+class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/capacity-factors-usa-eia.png"
 alt="Capacity factors for various non-fossil sources in USA 2016" width="640" height="480" />
 <figcaption>
@@ -248,7 +248,7 @@ EIA</a></figcaption>
 
 <figure>
 <img
-class="img-responsive center-block"
+class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/wind_generation_sm-1024x683.png" alt=""
 width="660" height="440" /> 
 <figcaption>BPA wind generation in 2017. Green means wind is blowing, blue means
@@ -274,7 +274,7 @@ overcast between sunny periods.
 
 <figure>
 <img
-class="img-responsive center-block"
+class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/solar_in_july_and_january.png" alt="US
 map showing less sun in winter" width="651" height="835" />
 <figcaption>Shocking as it may be, solar energy
@@ -363,7 +363,7 @@ emitters: oil, natural gas, and coal.
 
 <figure>
 <img
-class="img-responsive center-block"
+class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/eia-world-fuel-projection-1024x569.png"
 alt="" width="660" height="367" />
 <figcaption>EIA projection of the world energy supply out to 2040. Not
@@ -396,7 +396,7 @@ also appears that</a> more people fall off their roofs installing solar panels t
 reactor accidents.
 
 <figure>
-<img class="img-responsive center-block" src="https://partofthething.com/thoughts/wp-content/uploads/dccook.jpg" alt="The DC
+<img class="img-fluid center-block" src="https://partofthething.com/thoughts/wp-content/uploads/dccook.jpg" alt="The DC
 Cook Nuclear Power Plant in Michigan" width="281" height="224" />
 <figcaption>The DC Cook Nuclear Power
 Plant in Michigan</figcaption>
@@ -443,7 +443,7 @@ Shellenberger, was onto some good points</a> along these lines after the Westing
 
 <figure>
 <img
-class="img-responsive center-block"
+class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/lovering-costs.jpg" alt="Cost plot of
 nukes through history" width="776" height="622" />
 <figcaption><a

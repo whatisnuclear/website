@@ -25,21 +25,21 @@ applications, nuclear medicine and fission power depend on accurate radiation de
 ## Fission Power 
 
 <div class="col-md-3">
-<img src="/img/dccook.jpg" class="img-rounded" alt="A nuclear power plant" title="A nuclear power plant." width="90"/></div>
+<img src="/img/dccook.jpg" class="rounded" alt="A nuclear power plant" title="A nuclear power plant." width="90"/></div>
 Nuclear engineers working in fission support power-producing nuclear reactors in one way or another. 
 * <a href="{% link nuclear-engineer.md %}#fission">More details on fission</a>
 * <a href="{% link nuclear-engineer-people.md %}">Stories from real nuclear engineers</a>
 
 ## Medical and Health Physics
 
-<div class="col-md-3"><img src="/img/PET-MIPS-anim.gif" width="90" class="img-rounded" alt="A PET scan" title="a PET scan"/></div>
+<div class="col-md-3"><img src="/img/PET-MIPS-anim.gif" width="90" class="rounded" alt="A PET scan" title="a PET scan"/></div>
 Engineers working in the medical fields use radiation to produce incredible images of the insides of humans and animals. 
 They can pinpoint problems and then use different forms of radiation to selectively kill cancer cells, or other miscreants,
 while leaving healthy tissue unharmed.
 
 <br/>
 ## Plasma science 
-<div class="col-md-3"><img class="img-rounded" src="/img/plasma_lamp.png" width="90" alt="a plasma lamp" title="a plasma lamp"/></div>
+<div class="col-md-3"><img class="rounded" src="/img/plasma_lamp.png" width="90" alt="a plasma lamp" title="a plasma lamp"/></div>
 Engineers working with plasmas typically either direct plasmas into materials to make powerful computer chips, design plasma
 space systems that will be needed to propel manned missions into deeper space, or work on getting fusion power (the holy grail of energy)
 into human's control.
@@ -47,13 +47,13 @@ into human's control.
 
 <div class="col-md-6" markdown="1">
 ## Radiation Detection
-<div class="col-md-3"><img src="/img/portal.jpg" width="90" class="img-rounded" alt="a portal   monitor" title="a portal monitor"/></div>
+<div class="col-md-3"><img src="/img/portal.jpg" width="90" class="rounded" alt="a portal   monitor" title="a portal monitor"/></div>
 Experts in radiation detectors can find jobs in many fields. Most recently, increased national security produced lots of demand for border and port scanning
 devices. Using radiation, we can get a read-out of many of the materials contained in a truck or a shipping container without even opening it. The oil industry
 uses radiation detectors to detect good reserves while prospecting. Hydrogen storage people use neutron scattering to characterize materials best suited 
 for fuel cells. Geologists use radioactive dating to determine the age of rocks and even the Earth. 
 ## Nuclear Materials
-<div class="col-md-3"><img src="/img/crystal.png" width="90" alt="a material crystal" class="img-rounded" title="a material crystal"/></div>
+<div class="col-md-3"><img src="/img/crystal.png" width="90" alt="a material crystal" class="rounded" title="a material crystal"/></div>
 Materials people deal with the interaction of radiation with materials. This is a vast field with applications ranging from computer chip manufacturing to 
 space elevators. Nuclear power plants are only licensed to operate for 40-60 years mostly because of material degradation due to the radiation. Advances in this field are very exciting. 
 

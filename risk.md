@@ -10,7 +10,7 @@ author: Nick Touran
 
 # Nuclear Reactor Risk Assessment
 ##### By Dr. Brian Johnson
-<div class="pull-right"><img class="img-rounded img-responsive" src="/img/bjohnson.jpg" style="max-width:200px;" alt="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design. " title="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design." /></div>
+<div class="float-right"><img class="rounded img-fluid" src="/img/bjohnson.jpg" style="max-width:200px;" alt="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design. " title="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design." /></div>
 How safe is safe enough? This is a long standing question in the development of
 nuclear reactors.  The defense-in-depth philosophy mandates safety systems that
 are independent, diverse, and redundant.  When using this philosophy of design

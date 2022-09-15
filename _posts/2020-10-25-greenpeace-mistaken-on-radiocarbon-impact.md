@@ -19,7 +19,7 @@ On Saturday, Oct. 24<sup>th</sup>, CNN published [an
 article](https://www.cnn.com/2020/10/24/asia/japan-fukushima-waste-ocean-intl-scli/index.html)
 with the following headline:
 
-![Headline](/img/blog-greenpeace-dna-headline.png){: .img-responsive }
+![Headline](/img/blog-greenpeace-dna-headline.png){: .img-fluid }
 
 Greenpeace is suggesting that the carbon-14 ($$^{14}$$C) in the tanks will be released in
 a way that is a serious threat to human health. Ionizing radiation can damage DNA, but
@@ -27,7 +27,7 @@ life evolved in a naturally radioactive world. They fail to mention important co
 information that would help people assess the relative seriousness of this threat. This
 post fills in that contextual gap.
 
-![Plot](/img/blog-fukushima-c14-comparison.png){: .img-responsive }
+![Plot](/img/blog-fukushima-c14-comparison.png){: .img-fluid }
 
 ## How much $$^{14}$$C are we talking about?
 

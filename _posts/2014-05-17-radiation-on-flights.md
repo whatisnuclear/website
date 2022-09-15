@@ -6,11 +6,10 @@ description: How much radiation do we encounter while flying on commercial fligh
 author: Nick Touran
 image: /img/crshower2_nasa_big.jpg
 ---
-<div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-lg-8" markdown="1">
 
-<h1>Radiation on Flights</h1>
-<h5>By Nick Touran, Ph.D., 2014-05-17</h5>
+# Radiation on Flights
+##### By Nick Touran, Ph.D., 2014-05-17
 
 > *ra-di-a-tion* &mdash; the emission of energy as electromagnetic waves or as moving
 > subatomic particles, especially high-energy particles that cause
@@ -27,12 +26,10 @@ about radiation on flights.
 
 ## Cosmic rays and air showers
 
-<div class="thumbnail pull-right" style="max-width:300px">
-<a href="/img/crshower2_nasa_big.jpg"><img class="img-responsive"
+<a href="/img/crshower2_nasa_big.jpg"><img class="img-fluid rounded float-end w-50"
 src="/img/crshower2_nasa_big.jpg"  alt="An air shower"/></a> 
 <div class="caption"><p>Radiation from space hits Earth 24/7 (Swordy via <a
 href="https://apod.nasa.gov/apod/ap060814.html">NASA APOD</a>)</p></div>
-</div>
 
 Cosmic rays are energetic particles from space. Most of them are protons that
 probably got shot out of exploding stars (supernova) in our galaxy. They are
@@ -62,21 +59,20 @@ Just for fun, I thought I'd take some radiation measurements on a flight. I had
 to fly from Detroit to Paris for work recently, so I brought along my Geiger
 counter and GPS to keep track of radiation vs. altitude. Check it out: 
 
-<div class="thumbnail">
-<img class="center" src="/img/dose_and_alt_vs_time.png" alt="radioactive dose
+<figure class="figure">
+<img class="center img-fluid rounded figure-img" src="/img/dose_and_alt_vs_time.png" alt="radioactive dose
 vs. altitude on a commercial flight" title="radioactive dose vs. altitude on a
 commercial flight"/>
-<p class="caption"><strong>Figure 1. </strong>Measured radioactive count rate of
+<figcaption class="figure-caption"><strong>Figure 1. </strong>Measured radioactive count rate of
 my Geiger counter during a flight from Michigan to France. The peak value is
 about 20x the background. I didn&rsquo;t calibrate the detector due to the
 complex nature of radiation in the atmosphere, so the units are just in counts
-per minute.</p> 
-</div
->
-<img class="img-rounded, pull-left" src="/img/detector.jpg"
-       style="width:200px;margin:10px;" alt="the radiation detector used to make the
-       measurements" title="the detector used to make the measurements"/> 
+per minute.</figcaption> 
+</figure>
 
+<img class="rounded float-start w-50 p-3" src="/img/detector.jpg"
+       alt="the radiation detector used to make the
+       measurements" title="the detector used to make the measurements"/> 
 You can clearly see that the dose increases with altitude. Since this is a polar
 flight, the dose is higher than average for normal flights. A typical dose rate
 at cruising altitudes in polar regions is 7 &micro;Sv/h, while equatorial
@@ -129,6 +125,5 @@ on the moon), so that&rsquo;s something to keep in mind.
            Nordic airline pilots over five decades: occupational cohort study,&quot;
    (2002).</a></li>
 </ol>
-</div>
 </div>
 

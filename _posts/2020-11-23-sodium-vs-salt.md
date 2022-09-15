@@ -27,7 +27,7 @@ concepts.
 Elemental sodium (Na) is a liquid metal like mercury and
 solder.
 <div class="thumbnail" markdown="1">
-![Sodium metal](/img/sodium-pour.jpg){: .img-responsive }
+![Sodium metal](/img/sodium-pour.jpg){: .img-fluid }
 <div class="caption centered" markdown="1">
 Liquid sodium metal is shiny 
 </div>
@@ -44,7 +44,7 @@ fast neutron reactors (i.e. SGRs and SFRs).
 Molten salt is made of cations and anions held in ionic bonds heated up to
 flow as liquid.
 <div class="thumbnail" markdown="1">
-![Molten Salt](/img/FLiBeSolidandMelted.jpg){: .img-responsive }
+![Molten Salt](/img/FLiBeSolidandMelted.jpg){: .img-fluid }
 <div class="caption centered" markdown="1">
 ORNL photo of FLiBe salt
 </div>

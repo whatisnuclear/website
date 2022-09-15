@@ -41,7 +41,7 @@ air.  Crucially, splitting atoms is a carbon-free process, so nuclear power is a
 global solution to climate change.
 
 <figure>
-<a href="/img/lifecycle-carbon-emissions-300dpi.png"><img class="img-responsive
+<a href="/img/lifecycle-carbon-emissions-300dpi.png"><img class="img-fluid
 center-block" src="/img/lifecycle-carbon-emissions.svg" alt="graph
 showing carbon intensity of energy sources in grams CO2-equivalent per kilowatt
 electric generated. Fossil and biomass are bad, in the 400-800 range. Solar PV

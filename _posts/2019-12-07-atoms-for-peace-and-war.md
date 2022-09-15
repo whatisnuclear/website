@@ -27,7 +27,7 @@ reactors and took more notes on topics relevant to this interest.
 
 
   <figure>
-  <img src="/img/atoms-for-peace-and-war-cover.jpg" alt="Cover of the book" class="img img-responsive center-block pull-right" width="280">
+  <img src="/img/atoms-for-peace-and-war-cover.jpg" alt="Cover of the book" class="img img-fluid center-block float-end w-50 rounded" >
   </figure>
 
 
@@ -43,7 +43,7 @@ motivated Eisenhower to direct the world in a peaceful direction. The stakes of 
 were now higher than ever. 
 
   <figure>
-  <img src="/img/atoms-for-peace-and-war-toc.png" alt="The table of contents" class="img img-responsive center-block" >
+  <img src="/img/atoms-for-peace-and-war-toc.png" alt="The table of contents" class="img img-fluid center-block" >
   </figure>
 
 Eisenhower also heard in this briefing that the first generation of electricity had occurred 
@@ -117,7 +117,7 @@ recommended](https://archive.org/details/AMEMORANDUMOFTHEPANELOFCONSULTANTSONDIS
 and the arms race were. 
 
   <figure>
-  <img src="/img/atoms-peace-candor.jpg" alt="Excerpt from disarmament report suggesting to scare the hell out of Americans about nuclear war" class="img img-responsive center-block " >
+  <img src="/img/atoms-peace-candor.jpg" alt="Excerpt from disarmament report suggesting to scare the hell out of Americans about nuclear war" class="img img-fluid center-block " >
   </figure>
 
 Eisenhower was taken by the suggestion to be more candid with Americans and the world
@@ -203,7 +203,7 @@ fallout clouds thousands of miles long.
 > large areas and threaten life over thousands of square miles.
 
   <figure>
-  <img src="/img/castle-bravo-if-on-dc.png" alt="Castle Bravo fallout pattern superimposed on the easter USA" class="img img-responsive center-block" >
+  <img src="/img/castle-bravo-if-on-dc.png" alt="Castle Bravo fallout pattern superimposed on the easter USA" class="img img-fluid center-block" >
   </figure>
 
 182 On March 31, 1954, Strauss told the world that the bomb could take out any city, even
@@ -478,7 +478,7 @@ approved, partially to blunt the charge by the rural cooperatives that the AEC w
 favoring big private utilities. 
 
   <figure>
-  <img src="/img/hallam.jpg" alt="Hallam Reactor" class="img img-responsive center-block" >
+  <img src="/img/hallam.jpg" alt="Hallam Reactor" class="img img-fluid center-block" >
 <caption>The Hallam sodium-graphite reactor only operated for like a year</caption>
   </figure>
 
@@ -668,7 +668,7 @@ nuclear weaponry.
 
 
   <figure>
-  <img src="/img/OnTheBeach.jpg" alt="On the Beach Cover" class="img img-responsive center-block pull-right" width="180">
+  <img src="/img/OnTheBeach.jpg" alt="On the Beach Cover" class="img img-fluid center-block float-end w-50 p-2" >
   </figure>
 
 
@@ -703,7 +703,7 @@ ended up in front of the White House.
 
 
   <figure>
-  <img src="/img/Nuclear War Survival Skills.jpg" alt="Nuclear War Survival Skills" class="img img-responsive center-block" width="360">
+  <img src="/img/Nuclear War Survival Skills.jpg" alt="Nuclear War Survival Skills" class="img img-fluid center-block" width="360">
 <caption>Free book I discovered while reading about On the Beach. Get yours <a href="http://www.oism.org/nwss/">here</a>, but
 you might want to print it out.</caption>
   </figure>
@@ -746,7 +746,7 @@ to review the design. Press thought Rickover was trying to take over, but he was
 Rickover listed the ways it was different from a Naval system but didn't find any
 major design flaws.
   <figure>
-  <img src="/img/NSsavannah-1962.jpg" alt="The NS Savannah passing under the Golden Gate bridge" class="img img-responsive center-block " >
+  <img src="/img/NSsavannah-1962.jpg" alt="The NS Savannah passing under the Golden Gate bridge" class="img img-fluid center-block " >
 <caption>The NS Savannah sails under the Golden Gate bridge</caption>
   </figure>
 
@@ -760,11 +760,11 @@ high priority.
 
 
   <figure>
-  <img src="/img/aec-plan-1.png" alt="Planned reactors 1" class="img img-responsive center-block " >
+  <img src="/img/aec-plan-1.png" alt="Planned reactors 1" class="img img-fluid center-block " >
   </figure>
 
   <figure>
-  <img src="/img/aec-plan-2.png" alt="Planned reactors 2" class="img img-responsive center-block " >
+  <img src="/img/aec-plan-2.png" alt="Planned reactors 2" class="img img-fluid center-block " >
   <caption>The AEC reactor plan as of 1960. The focus was on economics.</caption>
   </figure>
 
@@ -798,7 +798,7 @@ They didn't command the attention of McCone, York, Kistiakowsky, or the presiden
 ML-1 barely mentioned, Plus a small BWR? What's that?
 
   <figure>
-  <img src="/img/ml1.jpg" alt="A mockup of the ML-1 reactor" class="img img-responsive center-block" >
+  <img src="/img/ml1.jpg" alt="A mockup of the ML-1 reactor" class="img img-fluid center-block" >
 <caption>A mock-up of the ML-1 microreactor for military purposes</caption>
   </figure>
 
@@ -813,7 +813,7 @@ and peaceful nuclear explosions
 
 
   <figure>
-  <img src="/img/plowshare.jpg" alt="From TID-3522. Project Rulison" class="img img-responsive center-block " >
+  <img src="/img/plowshare.jpg" alt="From TID-3522. Project Rulison" class="img img-fluid center-block " >
 <caption>Some fracking for gas with nuclear explosives. From TID-3522. Project
 Rulison</caption>
   </figure>

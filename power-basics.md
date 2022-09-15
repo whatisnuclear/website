@@ -8,8 +8,8 @@ description: The difference between power and energy, plus what nuclear burnup i
 
 # Power and Energy
 Here you&rsquo;ll learn the difference between power and energy, and some other terminology.
-<div class="thumbnail pull-right img-responsive">     
-<img src="img/waterTower.png" alt="Water Tower as energy storage analogy" class="img-rounded" title="Water Tower as energy storage analogy" />
+<div class="thumbnail float-right img-fluid">     
+<img src="img/waterTower.png" alt="Water Tower as energy storage analogy" class="rounded" title="Water Tower as energy storage analogy" />
 </div>
 
 A classic analogy used to describe power and energy is based on water towers. Water in the tower is

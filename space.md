@@ -16,7 +16,7 @@ missions depended on nuclear energy (Cassini, Mars Rover, Voyager, etc.).
 
 ## Nuclear isotopes in space
 
-<img class="img-responsive" src="/img/solar-system-insolence.png" alt="Solar system sun" title="Solar system sun" /> 
+<img class="img-fluid" src="/img/solar-system-insolence.png" alt="Solar system sun" title="Solar system sun" /> 
 
 Cassini, rovers, etc. have been powered by something called a radioisotopic
 thermal generator (RTG). These devices use radioactive isotopes produced in

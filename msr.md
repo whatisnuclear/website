@@ -12,7 +12,7 @@ image: /img/are.jpg
 # Molten Salt Reactors
 ### By Nick Touran, Ph.D.
 
-<div class="pull-right"> <a
+<div class="float-right"> <a
 href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img width="200"
 src="/img/msr.png" class="thumbnail" alt="Molten salt reactor schematic from GenIV" title="Molten salt reactor schematic
 from GenIV" /></a>
@@ -232,9 +232,9 @@ Right now, we have to keep studying them! Fortunately, much work is ongoing. </p
 
 
 <h2 id="history">History of Molten Salt Reactors</h2>
-<div class="pull-right">
-<a href="/img/htre_lg.jpg"><img  class="img-rounded" src="/img/htre.jpg" width="200" alt="Nuclear powered aircraft. This one is in Idaho at the EBR-I museum. It wasn&rsquo;t actually molten salt cooled but it shows that they were serious." title="Nuclear powered aircraft. This one is in Idaho at the EBR-I museum. It wasn&rsquo;t actually molten salt cooled but it shows that they were serious." /></a>
-<img  width="200" src="/img/are.jpg" class="img-rounded" alt="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" title="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" />
+<div class="float-right">
+<a href="/img/htre_lg.jpg"><img  class="rounded" src="/img/htre.jpg" width="200" alt="Nuclear powered aircraft. This one is in Idaho at the EBR-I museum. It wasn&rsquo;t actually molten salt cooled but it shows that they were serious." title="Nuclear powered aircraft. This one is in Idaho at the EBR-I museum. It wasn&rsquo;t actually molten salt cooled but it shows that they were serious." /></a>
+<img  width="200" src="/img/are.jpg" class="rounded" alt="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" title="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" />
 </div>
 
 The first fluid fueled reactors were built during the Manhattan project. They were Aqueous
@@ -257,8 +257,8 @@ role="alert" markdown="1"> <b>Note:</b> We have an elaborate [reactor developmen
 page]({% link reactor_history.md %}) that covers this topic in general.
 </div>
 
-<div class="pull-right">
-<a href="https://en.wikipedia.org/wiki/File:MoltenSaltReactor.jpg"> <img class="img-rounded" src="/img/msre.jpg" alt="The Molten Salt Reactor Experiment (MSRE)" title="The Molten Salt Reactor Experiment (MSRE)" /></a>
+<div class="float-right">
+<a href="https://en.wikipedia.org/wiki/File:MoltenSaltReactor.jpg"> <img class="rounded" src="/img/msre.jpg" alt="The Molten Salt Reactor Experiment (MSRE)" title="The Molten Salt Reactor Experiment (MSRE)" /></a>
 </div>
 
 <p>After the cancellation of the ANP project, the people at ORNL wanted to use their MSR skills to

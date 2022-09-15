@@ -11,7 +11,7 @@ image: /img/Thor.jpg
 # Myths and Misconceptions about Thorium nuclear fuel
 ##### By Nick Touran, Ph.D. Nuclear Engineer, Published 2014-03-13, Updated 2020-09-08
 
-<div class="pull-right"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge"
+<div class="float-right"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge"
 title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with thunder,
 lightning, storms, oak trees, strength, the protection of mankind, healing, and fertility.
 Thorium was so named in the 1820s, well before its nuclear properties were discovered in
@@ -55,7 +55,7 @@ is kind of neat. Everything else you may have heard is suspect.
 
 <a name="myth1"></a>
 ## Misconception #1: Development of Thorium reactors was stopped because they couldn't make bombs!
-<span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
+<span class="float-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Nope. It was economics. When you add a neutron poison like thorium into your core, you
 need to add extra enriched uranium, which is extra expensive. Simple as that.
 
@@ -107,7 +107,7 @@ inability to make bombs was not to blame for the cancellation.
 
 <a name="myth2"></a>
 ## Misconception #2: Thorium reactors never need enrichment!
-<span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
+<span class="float-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Like all reactors, Thorium reactors need some fissile material to start up. Thorium itself
 is a neutron poison and needs to be irradiated by neutrons (coming from somewhere) in
 order to start making good nuclear fuel.
@@ -127,7 +127,7 @@ TL;DR: They do to start up, and U-Pu breeders like the LMFBR can do the same so 
 <a name="myth3"></a>
 
 ## Misconception #3: Thorium reactors cannot make bombs!
-<span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
+<span class="float-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
 
 Nuclear reactors, by their nature, split atoms in a chain reaction to release energy
 slowly, safely, and under control. If a nefarious operator controls such a system, they
@@ -148,7 +148,7 @@ But don't take my word for it. Here is [a declassified
 letter](https://www.osti.gov/biblio/79078) entitled *LRL interest in U-233*  from the
 USA's top nuclear weapons design team from 1966. It says:
 
-<p><img class="img img-responsive" src="/img/livermore_u233.jpg" alt="Letter from Livermore lab about how good U-233 is as a weapons
+<p><img class="img img-fluid" src="/img/livermore_u233.jpg" alt="Letter from Livermore lab about how good U-233 is as a weapons
 material" title="The letter text"/></p>
 <p class="caption"><strong>Figure 1.</strong> The text of the Livermore weapons scientists saying U-233 is only
 <em>better than plutonium</em> in some rare scenarios, so they don't need to ditch plutonium and
@@ -191,7 +191,7 @@ options can conceptually be bypassed in the Pa separation route though. Besides,
 releasing the gammas, its decay products are, and it has a **70 year** half-life. So you can just
 chemically purify your stolen goods and then make the bomb anytime within the next few months or so.
 
-<p><img class="img img-responsive" src="/img/u232_dose_after_clean_wapd-tm-1422.jpg" alt="Figure showing a
+<p><img class="img img-fluid" src="/img/u232_dose_after_clean_wapd-tm-1422.jpg" alt="Figure showing a
 reduction in gamma dose to 3% as you chemically purify a U-232 sample."
 title="See that huge reduction in gamma dose?"/></p>
 <p class="caption"><strong>Figure 2.</strong> 
@@ -211,7 +211,7 @@ Thorium-powered reactors, whether fluid fueled or not, are no exception.
 
 <a name="myth4"></a>
 ## Misconception #4: There's more Thorium than Uranium, and that is really important!
-<span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-warning">MISLEADING</button></span> 
+<span class="float-right"><button type="button" style="cursor: default;" class="btn btn-warning">MISLEADING</button></span> 
 This one is mostly true, but also partially false. The average crustal concentration of Thorium is
 0.00060%, compared with 0.00018% for Uranium [3]. But, the oceanic abundance of Th is
 4x10<sup>-12</sup>%, compared with 3.3x10<sup>-7</sup>% (mass percent). Considering that the oceans
@@ -236,7 +236,7 @@ economically extract Th from lots of common sands). And remember, if we close th
 
 <a name="myth5"></a>
 ## Misconception #5: Thorium reactors are the only ones that make waste that is safe in hundreds of years!
-<span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
+<span class="float-right"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
 Undenatured Thorium cycles certainly produce fewer transuranic elements (Np, Pu, Am, Cm,+), which
 are the major dangerous nuclides in <a href="{% link waste.md %}">nuclear waste</a> in the 10,000+
 year timeframe. In fact, the long-term decay heat from Thorium-MSRs can be orders of magnitude lower
@@ -248,7 +248,7 @@ not correct.
 
 <a name="myth6"></a>
 ## Misconception #6: Thorium reactors and Molten Salt Reactors are the same thing!
-<span class="pull-right"><button type="button" style="cursor: default;" class="btn btn-danger">NOT ALWAYS</button></span> 
+<span class="float-right"><button type="button" style="cursor: default;" class="btn btn-danger">NOT ALWAYS</button></span> 
 On one hand you can choose between a Th-U fuel cycle and a U-Pu fuel cycle. On the other hand, you
 can choose between a fluid fueled reactor (like a MSR) or a solid fueled reactor (like a LWR or a
 sodium-cooled fast reactor). Now, the Th-U cycle works really really well with MSRs, and

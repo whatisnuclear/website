@@ -13,7 +13,7 @@ author: Nick Touran
 Pop quiz: what's the difference between *renewable* and *sustainable* energy? The answer
 is nuclear energy. Behold:
 <figure>
-<a href="/img/renewable-venn-diagram.png"><img src="/img/renewable-venn-diagram-low.png" alt="Venn diagram showing nuclear, wind, solar, and hydro being good choices." class="img img-responsive center-block" width="400"></a>
+<a href="/img/renewable-venn-diagram.png"><img src="/img/renewable-venn-diagram-low.png" alt="Venn diagram showing nuclear, wind, solar, and hydro being good choices." class="img img-fluid center-block" width="400"></a>
 </figure>
 Today, the world is powered 85% by fossil fuels and we've realized this isn't great 
 for a sustainable future. So we want to switch to things that will power our lives
@@ -21,7 +21,7 @@ without harming the environment. Lots of people have opinions about best choices
 if we agree that atmospheric carbon is the problem, then this simple graph<sup><a href="https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_annex-iii.pdf">1</a></sup> shows our options:
 
 <figure>
-<img class="img-responsive center-block"
+<img class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/ipcc-co2-of-fuels.png" alt="graph
 showing carbon intensity of energy sources" width="501"  /> 
 </figure>
@@ -44,7 +44,7 @@ into nuclear!
 ## The awesome rise of the intermittent renewables
 
 <figure>
-<img src="/img/windfarm-IMG_2164.jpg" alt="A windfarm" class="img img-responsive"/>
+<img src="/img/windfarm-IMG_2164.jpg" alt="A windfarm" class="img img-fluid"/>
 </figure>
 Fortunately for the world, the cost of solar panels, wind turbines, and batteries has been falling
 dramatically. This is extremely good news and comes at a pivotal time for humanity. We need to be

@@ -27,7 +27,7 @@ at Hanford, and at least 9 weapons production reactors operated there through th
 
 ## What happened at Hanford?
 
-<img src="/img/hanford-process.png" alt="Plutonium production process" class="img img-responsive"/>
+<img src="/img/hanford-process.png" alt="Plutonium production process" class="img img-fluid"/>
 The plutonium-production process that occurred at Hanford involved irradiating nuclear 
 fuel in a reactor, melting it down in a big acid vat, using chemistry to extract
 just the plutonium, and fabricating the plutonium into weapons. The giant vats

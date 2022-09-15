@@ -14,7 +14,7 @@ updated: 2020-02-22
 # What is radiation? What is radioactivity?
 
 ##### *{{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Updated {{ page.updated | date: "%Y-%m-%d" }}* 
-<div class="pull-right"> 
+<div class="float-right"> 
 <img class="thumbnail" src="/img/radioactive.png" style="width:120px;" alt="Radioactivity" title="Radioactivity" />
 </div>
 
@@ -32,7 +32,7 @@ minute, 50 of them will have emitted their energy after 1 minute. After 2 minute
 will be 25 left, and so on. 
 
 <div class="thumbnail" style="max-width:500px;">
-<a href="/img/half-life.png"><img class="img-responsive"
+<a href="/img/half-life.png"><img class="img-fluid"
 src="/img/half-life.png" alt="Graph of atoms vs. time for different half-lives"/></a>
 <div class="caption">An illustration of decay vs. various half-lives</div>
 </div>
@@ -87,7 +87,7 @@ Similarly, the dose rate that will be caused by the proposed release of Fukushim
 
 
 <figure>
-<a href="img/dose.jpg"><img class="img-responsive" 
+<a href="img/dose.jpg"><img class="img-fluid" 
 src="/img/dose_low.jpg" alt="Dose range chart from DOE"/></a>
 <caption>A graph from DOE of many orders of magnitude of radiation.</caption>
 </figure>
@@ -134,7 +134,7 @@ for shielding.
 
 ### "Man-made" radiation
 #### Smoke detectors
-<div class="pull-right"> 
+<div class="float-right"> 
 <img class="thumbnail" src="/img/smoke_detector.png" style="width:120px;" alt="A smoke detector." title="A smoke detector." />
 </div>
 Smoke detectors make use of the isotope Americium-241. This isotope emits alpha-particles at energies up 
@@ -173,8 +173,8 @@ Watch the [a video]({% link radiation-video.md %}) of a few of us detecting radi
 
 
 # Background readings in Ann Arbor, MI
-<div class="pull-right" style="max-width:500px;"> 
-<a href="{% link background.html %}"><img class="img-responsive" src="/img/background_low.jpg" alt="Background reading in Ann Arbor." title="Background reading in Ann Arbor." /></a>
+<div class="float-right" style="max-width:500px;"> 
+<a href="{% link background.html %}"><img class="img-fluid" src="/img/background_low.jpg" alt="Background reading in Ann Arbor." title="Background reading in Ann Arbor." /></a>
 </div>
 For a class in 2005, with no radioactive sources within range, we measured a long (30 minutes +) 
 reading with a high-purity germanium (HPGe) gamma-ray detector system. We then identified the source 

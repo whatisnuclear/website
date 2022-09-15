@@ -7,7 +7,7 @@ description: Solar power
 <div class="col-md-8" markdown="1">
 
 # How much power could the sun give us?
-<img class="pull-right" src="/img/trees_sunshine.jpg" alt="Trees and sunshine" title="Trees and sunshine" />
+<img class="float-right" src="/img/trees_sunshine.jpg" alt="Trees and sunshine" title="Trees and sunshine" />
 
 The sun is a nuclear fusion reactor contained by gravity. It emits unfathomable amounts of energy.
 This [map](https://www.nrel.gov/gis/assets/images/solar-annual-dni-2018-01.jpg) of the power that

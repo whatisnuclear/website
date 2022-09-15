@@ -62,7 +62,7 @@ material with which to make nuclear weapons. Countries that want to have their o
 manufacturing capabilities argue that they need enrichment plants, but opponents argue that they are
 just looking to produce nuclear weapons. 
 
-<p><img class="img-responsive" src="/img/enrichment.png" alt="Pie charts of different uranium enrichments" title="Pie charts of different uranium enrichments"/></p>
+<p><img class="img-fluid" src="/img/enrichment.png" alt="Pie charts of different uranium enrichments" title="Pie charts of different uranium enrichments"/></p>
 
 <hr/>
 ## Grammar alert: Isotopes vs. Nuclides

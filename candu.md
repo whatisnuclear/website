@@ -9,7 +9,7 @@ description: Learn about the CANDU reactor
 # CANDU Reactors  
 
        
-<img class="pull-right" src="/img/candu.png" alt="Heavy Water" title="Heavy Water" /> CANada
+<img class="float-right" src="/img/candu.png" alt="Heavy Water" title="Heavy Water" /> CANada
 Deuterium Uranium (CANDU) reactors use heavy water as a coolant instead of regular old light water.
 These were invented and developed in Canada in the 1960's, when Canada decided that they did not
 want to build enrichment plants or large pressure vessel manufacturing capabilities. Heavy water can
@@ -34,7 +34,7 @@ operating CANDU reactors, with 17 of these in Canada.
   because they have so much heavy water. 
 	
 <a href="/img/hvsdu.png"><img
-class="pull-right" src="/img/hvsdu.png" style="width:300px" alt="Hydrogen vs. deuterium capture cross
+class="float-right" src="/img/hvsdu.png" style="width:300px" alt="Hydrogen vs. deuterium capture cross
 section" title="Hydrogen vs. deuterium capture cross section"/></a> 	
 In this figure, we plot the probability that hydrogen and deuterium will absorb a neutron (hurting
 the chain reaction). As you can see, H-2 (deuterium, the constituent of heavy water) eats up

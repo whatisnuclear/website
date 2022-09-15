@@ -165,11 +165,11 @@ electric field with 1 Volt.
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-<img class="img-responsive" src="img/u235-cap-fiss.png" alt="capture and fission cross sections of U235"/>
+<img class="img-fluid" src="img/u235-cap-fiss.png" alt="capture and fission cross sections of U235"/>
 </div>
 
 <div class="col-md-6" markdown="1">
-<img class="img-responsive" src="img/u238-capture-fission.png" alt="capture and fission cross sections of U-238" />
+<img class="img-fluid" src="img/u238-capture-fission.png" alt="capture and fission cross sections of U-238" />
 </div>
 </div>
 
@@ -199,10 +199,10 @@ faster than traditional nuclear waste.
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-<a href="img/breeding_ratio.png"><img class="img-responsive" src="img/breeding_ratio.png" alt="plot of U238 absorption and Pu239 fission vs. energy" /></a>
+<a href="img/breeding_ratio.png"><img class="img-fluid" src="img/breeding_ratio.png" alt="plot of U238 absorption and Pu239 fission vs. energy" /></a>
 </div>
 <div class="col-md-6" markdown="1">
-<a href="img/nubar.png"><img class="img-responsive" src="img/nubar.png" alt="plot of neutrons per fission as a function of energy for uranium and plutonium" /></a>
+<a href="img/nubar.png"><img class="img-fluid" src="img/nubar.png" alt="plot of neutrons per fission as a function of energy for uranium and plutonium" /></a>
 </div>
 </div>
 

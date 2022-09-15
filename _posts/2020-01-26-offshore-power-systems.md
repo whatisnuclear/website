@@ -6,12 +6,13 @@ description: In the 1970s, Westinghouse and Newport News formed a joint venture 
 author: Nick Touran
 image: /img/ops-station.jpg
 ---
-<div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-lg-8" markdown="1">
 # That time we almost built 8 gigawatt-class floating nuclear power plants
 ##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}, (updated 2020-12-29). Reading time: {{ page.content | reading_time_as_i }}
-<a href="/img/atlantic-generating-station-floating.jpg"><img class="img pull-right" style="width:340px"
-src="/img/atlantic-generating-station-floating_sm.jpg" alt="A floating nuclear power plant"/></a>
+<a href="/img/atlantic-generating-station-floating.jpg">
+<img class="img float-end img-fluid w-50 rounded" 
+src="/img/atlantic-generating-station-floating_sm.jpg" alt="A floating nuclear power plant"/>
+</a>
 In 1969, at the height of the First Nuclear Era, an engineer at New Jersey's PSE&G utility
 company named Richard Eckert imagined a peculiar model for manufacturing, siting, and
 delivering nuclear power plants<sup>3</sup>. New Jersey was anticipating brownouts soon and had to
@@ -23,7 +24,7 @@ I had heard of Offshore Power Systems and their power plant assembly line before
 until recently I did not understand how far along they really had gotten.
 
 <!--<div class="thumbnail " style="max-width:250px"> <a
-href="/img/powership-fossil.jpg"><img class="img-responsive"
+href="/img/powership-fossil.jpg"><img class="img-fluid"
 src="/img/powership-fossil.jpg" alt="An individual dolos scale model"/></a> <div
 class="caption centered"><p>Fossil-powered powerships like this exist today. Nuclear ones
 wouldn't need a pipeline and wouldn't cause emissions (photo <a
@@ -51,7 +52,7 @@ It proposed to design, manufacture, and market complete nuclear power plants of 
 standardized design and integrated with specially designed floating platforms <sup>5</sup>. 
 
 <div class="thumbnail">
-<a href="/img/ops-station.jpg"><img class="img-responsive" 
+<a href="/img/ops-station.jpg"><img class="img-fluid" 
 src="/img/ops-station.jpg" alt="The full OPS station"/></a>
 <div class="caption centered"><p>A full OPS station. The weird shape was designed for the fish.</p></div> </div>
 
@@ -63,7 +64,7 @@ submerged cables beneath the sea bottom. A shore support facility would provide 
 area, a docking facility, office buildings, and parking. 
 
 <div class="thumbnail"> <a href="/img/atlantic-generating-station-ops.jpg"><img
-class="img-responsive" src="/img/atlantic-generating-station-ops_sm.jpg" alt="Details of
+class="img-fluid" src="/img/atlantic-generating-station-ops_sm.jpg" alt="Details of
 the Atlantic Generating Station"/></a> <div class="caption centered"><p>A detailed diagram
 of the Atlantic Generating Station (from <a
 href="https://econtent.unm.edu/digital/collection/nuceng/id/98/rec/6">Nuclear Engineering
@@ -79,14 +80,14 @@ sand fill was expected to be sourced from the sea bottom.
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-dolos.jpg"><img class="img-responsive" 
+<a href="/img/ops-dolos.jpg"><img class="img-fluid" 
 src="/img/ops-dolos.jpg" alt="An individual dolos scale model"/></a>
 <div class="caption centered"><p>An Individual dolos scale model (NUREG-75/113)</p></div> </div>
 </div>
 
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-breakwater.jpg"><img class="img-responsive" 
+<a href="/img/ops-breakwater.jpg"><img class="img-fluid" 
 src="/img/ops-breakwater.jpg" alt="The Offshore Power System breakwater"/></a>
 <div class="caption centered"><p>Cross section of the OPS breakwater. OPS considered this
 breakwater to be economically viable to build in water up to 70 feet deep.</p></div> </div>
@@ -94,7 +95,7 @@ breakwater to be economically viable to build in water up to 70 feet deep.</p></
 
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-trash-collection.jpg"><img class="img-responsive"
+<a href="/img/ops-trash-collection.jpg"><img class="img-fluid"
 src="/img/ops-trash-collection.jpg" alt="The trash collection system of floating nuclear
 plants"/></a>
 <div class="caption">The trash collection system used by OPS reactors to pull 5000 lbs. of
@@ -163,13 +164,13 @@ the 1,000,000-year storm. Vast amounts of wave testing in scale models was perfo
 
 
 <div class="thumbnail">
-<a href="/img/ops-wave-room.jpg"><img class="img-responsive"
+<a href="/img/ops-wave-room.jpg"><img class="img-fluid"
 src="/img/ops-wave-room.jpg" alt="A room where the wave scale model was tested"/></a>
 <div class="caption">A scale wave facility being configured to model the New Jersey site</div>
 </div>
 
 <div class="thumbnail">
-<a href="/img/ops-wave-model.jpg"><img class="img-responsive"
+<a href="/img/ops-wave-model.jpg"><img class="img-fluid"
 src="/img/ops-wave-model.jpg" alt="The wave model"/></a>
 <div class="caption">A small test in action</div>
 </div>
@@ -226,14 +227,14 @@ crane was purchased and installed.
 <div class="row">
 <div class="col-md-6">
 <div class="thumbnail">
-<a href="/img/ops-island-render.jpg"><img class="img-responsive" 
+<a href="/img/ops-island-render.jpg"><img class="img-fluid" 
 src="/img/ops-island-render.jpg" alt="OPS facility"/></a>
 <div class="caption centered"><p>The OPS reactor production line concept</p></div> </div>
 </div>
 
 <div class="col-md-6">
 <div class="thumbnail">
-<a href="/img/ops-today.jpg"><img class="img-responsive" 
+<a href="/img/ops-today.jpg"><img class="img-fluid" 
 src="/img/ops-today.jpg" alt="The OPS site today"/></a>
 <div class="caption centered"><p>Modern image from Google Maps. You can see the massive
 facility built on the East side of the island. It has been used for non-reactor purposes
@@ -257,21 +258,21 @@ Here are some figures showing the construction sequence:
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-1.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-1.jpg"><img class="img-fluid" 
 src="/img/ops-build-1.jpg" alt="OPS build sequence 1"/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
 
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-2.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-2.jpg"><img class="img-fluid" 
 src="/img/ops-build-2.jpg" alt=""/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
 
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-3.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-3.jpg"><img class="img-fluid" 
 src="/img/ops-build-3.jpg" alt=""/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
@@ -279,21 +280,21 @@ src="/img/ops-build-3.jpg" alt=""/></a>
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-4.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-4.jpg"><img class="img-fluid" 
 src="/img/ops-build-4.jpg" alt="OPS build sequence 1"/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
 
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-5.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-5.jpg"><img class="img-fluid" 
 src="/img/ops-build-5.jpg" alt=""/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
 
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-6.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-6.jpg"><img class="img-fluid" 
 src="/img/ops-build-6.jpg" alt=""/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
@@ -301,21 +302,21 @@ src="/img/ops-build-6.jpg" alt=""/></a>
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-7.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-7.jpg"><img class="img-fluid" 
 src="/img/ops-build-7.jpg" alt="OPS build sequence 1"/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
 
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-8.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-8.jpg"><img class="img-fluid" 
 src="/img/ops-build-8.jpg" alt=""/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
 
 <div class="col-md-4">
 <div class="thumbnail">
-<a href="/img/ops-build-9.jpg"><img class="img-responsive" 
+<a href="/img/ops-build-9.jpg"><img class="img-fluid" 
 src="/img/ops-build-9.jpg" alt=""/></a>
 <div class="caption centered"><p></p></div> </div>
 </div>
@@ -338,7 +339,7 @@ severe accidents. Specifically, the NRC required a minimum delay time of 2 days.
 
 
 <figure>
-<a href="/img/OPS_SER_1981.jpg"><img class="img-responsive"
+<a href="/img/OPS_SER_1981.jpg"><img class="img-fluid"
 src="/img/OPS_SER_1981.jpg" alt="The Safety Evaluation report for OPS"/></a>
 <caption>The OPS Safety Evaluation Report<sup>8</sup></caption>
 </figure>
@@ -357,7 +358,7 @@ the first 8 3411 MWt reactors [was issued on December 17.
 1982](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070J219). 
 
 <figure>
-<a href="/img/ops-manufacturing-license.jpg"><img class="img-responsive"
+<a href="/img/ops-manufacturing-license.jpg"><img class="img-fluid"
 src="/img/ops-manufacturing-license.jpg" alt="The manufacturing license for the first 8
 offshore reactors"/></a>
 <caption>A note discussing the  manufacturing license issued by the NRC to construct 8 floating reactors</caption>
@@ -508,5 +509,4 @@ Systems, Docket no. STN 50-437. June
 * [Before licensing floating nuclear powerplants many answers are needed](https://www.gao.gov/assets/emd-78-36.pdf) --- a US GAO report from 1978 before the license was issued
 
 
-</div>
 </div>

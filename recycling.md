@@ -12,7 +12,7 @@ image: /img/atomic-recycling.png
 ##### By Nick Touran, March 2009 (last updated October 2020)
 <a name="recycling"></a>
 # What is nuclear recycling?   
-<div class="pull-right"><img style="max-width:150px;" src="img/atomic-recycling.png" alt="Recycle symbol with atom inside it" /></div>
+<img class="float-end" style="max-width:150px;" src="img/atomic-recycling.png" alt="Recycle symbol with atom inside it" />
 Nuclear waste is recyclable. Once reactor fuel (uranium or thorium) is used in a reactor, it can be
 treated and put into another reactor as fuel. In fact, typical reactors only extract a few percent
 of the energy in their fuel. You could power the entire US electricity grid off of the energy in
@@ -26,7 +26,7 @@ radioactive material in liquid form.
 This page explains how this interesting process is possible.
 
 ## Nuclear Transformations
-<img class="pull-right" src="/img/breeding.svg" title="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays." alt="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays."/>
+<img class="float-right" src="/img/breeding.svg" title="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays." alt="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays."/>
 Before you go on, recall that Uranium exists in nature as 2 <a
 href="{% link isotopes.md %}">isotopes</a>: the less common U-235, and the more common U-238.
 Conventional reactors mainly split U-235 to produce power, and the U-238 is often considered

@@ -114,7 +114,7 @@ September 2013, Voyager I enters interstellar space, 36 years after its launch. 
 
 </div>
 <div class="col-md-6">
-<a href="{% link nuclear-timeline.md %}"><img  class="img-responsive" style="padding:20px;" src="/img/nuclear_timeline_right_skinny.png" alt="Timeline of nuclear energy development" title="Timeline of nuclear energy development"/></a></div>
+<a href="{% link nuclear-timeline.md %}"><img  class="img-fluid" style="padding:20px;" src="/img/nuclear_timeline_right_skinny.png" alt="Timeline of nuclear energy development" title="Timeline of nuclear energy development"/></a></div>
 
 </div>
 <div id="transcript" style="display:none">
