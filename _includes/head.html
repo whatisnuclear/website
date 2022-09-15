@@ -6,7 +6,6 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-<!--  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   
@@ -56,19 +55,14 @@
   <!-- end of Twitter cards -->
 
   {% unless page.nocss %}
-  <link rel="stylesheet" href="{{ "/font-awesome/css/all.min.css" | relative_url }}">
 
   <!-- Bootstrap core CSS -->
-  <link rel="stylesheet" href="{{ "/dist/css/bootstrap.min.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/dist/bootstrap-5.2.1-dist/css/bootstrap.min.css" | relative_url }}">
 
   <!-- Custom styles for this template -->
-  <link rel="stylesheet" href="{{ "/dist/jumbotron.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/dist/whatisnuclear.css" | relative_url }}" >
-  <link rel="stylesheet" href="{{ "/dist/syntax.css" | relative_url }}" >
   {% endunless %}
 
-
-  
   {% if page.mathjax %}
   <script
       src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
@@ -87,11 +81,4 @@
     </style>
   {% endif %}
 
-
-    
-  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-  <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-  <![endif]-->
 </head>
