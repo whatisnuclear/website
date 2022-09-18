@@ -13,7 +13,7 @@ image: /img/rickover-1955.jpg
 # {{ page.title }}
 ##### {{ page.author }}, 1953-06-05. Reading time: {{ page.content | reading_time_as_i }}
 
-<div class="float-right">
+<div class="float-end">
 <img alt="Hyman Rickover" title="Admiral Rickover in 1955" style="border:0;width:250px" src="/img/rickover-1955.jpg"/>
 </div>
 

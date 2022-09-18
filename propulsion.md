@@ -101,7 +101,7 @@ reduce the emissions from the huge amount of international shipping that's ongoi
 
 ## Nuclear airplanes and rockets
 
-<a href="/img/HTRE-3.jpg"><img src="/img/HTRE-3-sm.jpg" alt="The HTRE-3 test reactor hooked to jets for airplanes" class="img img-responive float-right" style="width:350px;padding:15px;"/></a>
+<a href="/img/HTRE-3.jpg"><img src="/img/HTRE-3-sm.jpg" alt="The HTRE-3 test reactor hooked to jets for airplanes" class="img img-responive float-end" style="width:350px;padding:15px;"/></a>
 Nuclear propulsion is well-suited for [space travel]({% link space.md %}) and rockets, so that's 
 under development. The Russians did have some nuclear-powered tanks. 
 Before intercontinnental ballistic missiles were developed, the US Air 

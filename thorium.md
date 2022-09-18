@@ -12,7 +12,7 @@ image: /img/Thor.jpg
 
 # Thorium As Nuclear Fuel
 
-<div class="float-right"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge" title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with thunder, lightning, storms, oak trees, strength, the protection of mankind, healing, and fertility. Thorium was so named in the 1820s, well before its nuclear properties were discovered in 1942. Coincidence? " src="/img/Thor.jpg"/>
+<div class="float-end"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge" title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with thunder, lightning, storms, oak trees, strength, the protection of mankind, healing, and fertility. Thorium was so named in the 1820s, well before its nuclear properties were discovered in 1942. Coincidence? " src="/img/Thor.jpg"/>
 </div>
 
 

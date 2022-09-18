@@ -13,7 +13,7 @@ what we got.
 
 ## Janelle
 ### Janelle has worked in utilities and in grad-school
-<img class="float-right" title="Janelle" alt="Janelle" src="/img/jjsp.jpg"/>
+<img class="float-end" title="Janelle" alt="Janelle" src="/img/jjsp.jpg"/>
 I worked as a nuclear engineer at an electric utility, where my main
 job function was to perform core designs and related analyses for a
 three-unit PWR plant.  The department I worked in was responsible for
@@ -57,7 +57,7 @@ probability * consequence).
 
 ### Ceris held the title of youngest female nuclear reactor operator for a while.
 
-<img class="float-right" style="width:250px" title="Ceris at the control panel" alt="Ceris at the control panel" src="/img/ceris.jpg"/>
+<img class="float-end" style="width:250px" title="Ceris at the control panel" alt="Ceris at the control panel" src="/img/ceris.jpg"/>
 When I was a senior in high-school, there was a certain program that allowed me to use my off-hours
 to do a research internship . There was an option where you could shadow professionals and I just 
 put nuclear as an interest. I got to go work at the university of Texas research reactor. The researcher there

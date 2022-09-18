@@ -47,7 +47,7 @@ Now cut the sorted dates off the list (hacky)
 <h2>{{ person.name }}</h2>
 {% if person.img %}
 <img src="/img/quotes/{{person.img}}" style="max-height:150px;" class="img img-fluid
-float-right" alt="Image of {{person.name}}" title="Image of
+float-end" alt="Image of {{person.name}}" title="Image of
 {{person.name}} {% if person.img_src%}(from {{person.img_src}}){%endif%}"/>
 {% endif%}
 {% if person.title %}

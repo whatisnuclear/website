@@ -11,7 +11,7 @@ description: Little facts about nuclear energy.
 # Nuclear Factlets
 
 
-<img class="float-right" style="width:200px" src="/img/aircraft_carriers_on_burj_dubai.jpg" alt="Aircraft carriers on the Burj Dubai" title="Aircraft carriers on the Burj Dubai" /> 
+<img class="float-end" style="width:200px" src="/img/aircraft_carriers_on_burj_dubai.jpg" alt="Aircraft carriers on the Burj Dubai" title="Aircraft carriers on the Burj Dubai" /> 
 
 Sometimes it takes a bunch of factoids to get a point across. However, factoids
 can be misleading since they can hide many of the implications of reality. Here

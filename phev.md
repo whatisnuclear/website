@@ -9,7 +9,7 @@ author: Nick Touran
             
 # A sustainable transportation idea
 
-<img class="float-right" style="width:250px;" src="/img/phev.png" alt="A plug-in hybrid-electric vehicle (PHEV)" title="A plug-in hybrid-electric vehicle(PHEV)" />
+<img class="float-end" style="width:250px;" src="/img/phev.png" alt="A plug-in hybrid-electric vehicle (PHEV)" title="A plug-in hybrid-electric vehicle(PHEV)" />
 Every so often, humanity comes up with great ideas. The plug-in hybrid electric vehicle (PHEV) is
 one of them, and here&rsquo;s why. PHEVs allow sustainable personal travel without compromising
 freedoms. At the same time, they provide the missing energy storage required to get the most out of

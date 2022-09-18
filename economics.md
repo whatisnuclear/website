@@ -15,11 +15,11 @@ date: 2020-01-26
 ##### *{{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}*
 {:.no_toc}
 
-<div class="thumbnail float-right" style="max-width:300px">
-<a href="/img/hot_cell.jpg"><img class="img-fluid"
+<figure class="figure float-end w-50">
+<a href="/img/hot_cell.jpg"><img class="figure-img img-fluid rounded"
 src="/img/hot_cell.jpg"  alt="Picture of hot cell"/></a> 
-<div class="caption"><p>Dealing with radiation is expensive (photo: ANL)</p></div>
-</div>
+<figcaption class="figure-caption">Dealing with radiation is expensive (photo: ANL)</figcaption>
+</figure>
 Generally, nuclear power plants (NPPs) are more expensive **to build** than conventional plants
 because of the required radiological protections. The process of converting mass to energy
 by splitting atoms involves the emission of [radiation]({% link radioactivity.md %}) which
@@ -28,6 +28,7 @@ produced in any reactor (e.g. fission products and transuranics) radiate their e
 energy quickly at first (requiring fail-safe cooling even after the chain reaction stops)
 and then slowly for many years (requiring careful [nuclear waste]({% link waste.md %})
 handling and disposal).
+
 
 On the plus side, nuclear fuel contains roughly 2,000,000x more energy per mass than any
 other form of fuel, providing many economic benefits:
@@ -58,7 +59,7 @@ On this page:
 
 <a href="/img/costs_1961.jpg"><img
 src="/img/costs_1961.jpg"  alt="Construction costs of nuclear reactors up to 1961"
-class="img img-fluid float-right" style="max-width:300px"></a>
+class="img img-fluid float-end" style="max-width:300px"></a>
 After nuclear fission was discovered, humanity engaged in [significant efforts around the
 world to build economical power plants]({% link reactor_history.md %}). This took about 20
 years. Along the way, we experimented with dozens of different coolants, fuels, and
@@ -166,18 +167,21 @@ NPP](https://en.wikipedia.org/wiki/Marble_Hill_Nuclear_Power_Plant) was cancelle
 of the 5 WPPS reactors were cancelled. Today, half-built old NPPs are still found in many
 parts of the USA. 
 
-<div class="panel panel-info">
-<div class="panel-heading"><b>Coal plant costs rose too</b></div>
-<div class="panel-body" markdown="1">
+<div class="card border-primary">
+<h5 class="card-header text-primary">Coal plant costs rose too</h5>
+<div class="card-body">
+<p class="card-text" markdown="1">
 In the 1970s, coal plants also suffered cost escalation due to growing fleet size. Public
 concern over deadly air pollution led to regulations such as the [Clean Air
 Act](https://en.wikipedia.org/wiki/Clean_Air_Act_(United_States)) which required the
 addition of scrubbers, adding 26% to coal capital costs<sup>2</sup>. Later concerns about
-acid rain added more. 
+acid rain added more.
+</p>
 </div>
 </div>
 
 ## The astounding rise of capacity factor
+
 All those improvements in quality and redundancy did cost a lot to install, but they
 arguably had a massive payback in terms of operating efficiency. 
 

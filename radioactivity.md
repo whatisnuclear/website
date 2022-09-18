@@ -14,7 +14,7 @@ updated: 2020-02-22
 # What is radiation? What is radioactivity?
 
 ##### *{{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Updated {{ page.updated | date: "%Y-%m-%d" }}* 
-<div class="float-right"> 
+<div class="float-end"> 
 <img class="thumbnail" src="/img/radioactive.png" style="width:120px;" alt="Radioactivity" title="Radioactivity" />
 </div>
 
@@ -134,7 +134,7 @@ for shielding.
 
 ### "Man-made" radiation
 #### Smoke detectors
-<div class="float-right"> 
+<div class="float-end"> 
 <img class="thumbnail" src="/img/smoke_detector.png" style="width:120px;" alt="A smoke detector." title="A smoke detector." />
 </div>
 Smoke detectors make use of the isotope Americium-241. This isotope emits alpha-particles at energies up 
@@ -173,7 +173,7 @@ Watch the [a video]({% link radiation-video.md %}) of a few of us detecting radi
 
 
 # Background readings in Ann Arbor, MI
-<div class="float-right" style="max-width:500px;"> 
+<div class="float-end" style="max-width:500px;"> 
 <a href="{% link background.html %}"><img class="img-fluid" src="/img/background_low.jpg" alt="Background reading in Ann Arbor." title="Background reading in Ann Arbor." /></a>
 </div>
 For a class in 2005, with no radioactive sources within range, we measured a long (30 minutes +) 

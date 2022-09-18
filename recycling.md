@@ -26,7 +26,7 @@ radioactive material in liquid form.
 This page explains how this interesting process is possible.
 
 ## Nuclear Transformations
-<img class="float-right" src="/img/breeding.svg" title="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays." alt="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays."/>
+<img class="float-end" src="/img/breeding.svg" title="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays." alt="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays."/>
 Before you go on, recall that Uranium exists in nature as 2 <a
 href="{% link isotopes.md %}">isotopes</a>: the less common U-235, and the more common U-238.
 Conventional reactors mainly split U-235 to produce power, and the U-238 is often considered

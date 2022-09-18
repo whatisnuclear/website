@@ -12,11 +12,11 @@ image: /img/are.jpg
 # Molten Salt Reactors
 ### By Nick Touran, Ph.D.
 
-<div class="float-right"> <a
-href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img width="200"
-src="/img/msr.png" class="thumbnail" alt="Molten salt reactor schematic from GenIV" title="Molten salt reactor schematic
+<figure class="float-end w-50"> <a
+href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img class="img-fluid img-thumbnail rounded"
+src="/img/msr.png" alt="Molten salt reactor schematic from GenIV" title="Molten salt reactor schematic
 from GenIV" /></a>
-</div>
+</figure>
 
 Molten Salt Reactors (MSRs) are nuclear reactors that use a fluid fuel in the form of very
 hot fluoride or chloride salt rather than the solid fuel used in most reactors. Since the
@@ -31,14 +31,10 @@ use Th at all.  And there are chloride salt based fast MSRs that are usually stu
 [nuclear waste]({% link waste.md %}) burners due to their extraordinary amount of very
 fast neutrons.
 
-</div></div>
 
-<div class="row"><div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-<div class="panel panel-success">
-<div class="panel-heading">
-<h3 class="panel-title">On this page</h3>
-</div>
-<div class="panel-body">
+<div class="card border-success mb-3" >
+  <div class="card-header text-success">On this page</div>
+  <div class="card-body ">
 <ul>
 <li><a href="{% link msr.md %}#benefits">Benefits of MSRs</a></li>
 <li><a href="{% link msr.md %}#problems">Problems with MSRs</a></li>
@@ -49,12 +45,8 @@ fast neutrons.
 </ul>
 </div>
 </div>
-</div>
-</div>
 
 
-<div class="row">
-<div class="col-md-8" markdown="1">
 
 <h2 id="benefits">Benefits of Molten Salt Reactors</h2>
 <p>The benefits of MSRs are plentiful, hence their resilience as an interesting topic throughout
@@ -232,9 +224,9 @@ Right now, we have to keep studying them! Fortunately, much work is ongoing. </p
 
 
 <h2 id="history">History of Molten Salt Reactors</h2>
-<div class="float-right">
+<div class="float-end">
 <a href="/img/htre_lg.jpg"><img  class="rounded" src="/img/htre.jpg" width="200" alt="Nuclear powered aircraft. This one is in Idaho at the EBR-I museum. It wasn&rsquo;t actually molten salt cooled but it shows that they were serious." title="Nuclear powered aircraft. This one is in Idaho at the EBR-I museum. It wasn&rsquo;t actually molten salt cooled but it shows that they were serious." /></a>
-<img  width="200" src="/img/are.jpg" class="rounded" alt="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" title="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" />
+<a href="/img/are.jpg"><img  width="200" src="/img/are.jpg" class="rounded" alt="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" title="The Aircraft Reactor Experiment, the first molten salt reactor. (NSE,2, pp 804-825, 1957)" /></a>
 </div>
 
 The first fluid fueled reactors were built during the Manhattan project. They were Aqueous
@@ -257,7 +249,7 @@ role="alert" markdown="1"> <b>Note:</b> We have an elaborate [reactor developmen
 page]({% link reactor_history.md %}) that covers this topic in general.
 </div>
 
-<div class="float-right">
+<div class="float-end">
 <a href="https://en.wikipedia.org/wiki/File:MoltenSaltReactor.jpg"> <img class="rounded" src="/img/msre.jpg" alt="The Molten Salt Reactor Experiment (MSRE)" title="The Molten Salt Reactor Experiment (MSRE)" /></a>
 </div>
 

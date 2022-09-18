@@ -16,7 +16,7 @@ image: /img/reactor.png
 # {{ page.title }}
 ##### {{ page.author }}, 2001-10-25. Reading time: {{ page.content | reading_time_as_i }}
 
-<div class="float-right">
+<div class="float-end">
 <!--
 <img alt="A new name" title="Getting a new name" style="border:0;width:250px" src="/img/renaming-nuclear.png"/>
 -->

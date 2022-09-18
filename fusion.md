@@ -10,7 +10,7 @@ date: 2018-02-04
 
 # {{ page.title }}
 ##### {{ page.author }}, {{ page.date }}
-<img class="float-right img-fluid" style="padding:10px;" src="/img/nasa-eclipse-sm.jpg" alt="NASA photo of the August 2017 eclipse" title="NASA photo of the August 2017 eclipse"/>
+<img class="float-end img-fluid" style="padding:10px;" src="/img/nasa-eclipse-sm.jpg" alt="NASA photo of the August 2017 eclipse" title="NASA photo of the August 2017 eclipse"/>
 As Truman once said, nuclear energy is the basic power of the universe. It can be accessed by
 splitting large atoms (like Uranium) apart with neutrons or by pushing small atoms (like Hydrogen)
 *very* close together. As you know, splitting atoms is called fission and joining atoms is called

@@ -419,7 +419,7 @@ density of the atom.
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<div class="float-right"> <img class="thumbnail" src="/img/blank.png" data-echo="img/fuel_assembly.jpg" alt="A chopped
+<div class="float-end"> <img class="thumbnail" src="/img/blank.png" data-echo="img/fuel_assembly.jpg" alt="A chopped
 section of a spent fuel (nuclear waste) assembly (this particular one is actually a
 mock-up)" title="The top of a fuel assembly (this particular one is actually a mock-up)"
 /></div>

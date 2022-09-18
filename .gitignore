@@ -2,9 +2,14 @@ _site
 *.swp
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 _sass
 font-awesome
 dist/css/bootstrap*
 dist/fonts
 dist/js
 dist/syntax.css
+dist/bootstrap*
+vendor*
+
+

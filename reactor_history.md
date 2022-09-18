@@ -433,9 +433,9 @@ bombs dropped on Japan. Their horrible implications almost defy comprehension.
 Nonetheless, applying the newfound force of nature to the betterment of civilization by
 making useful power was a noble goal.
 
-<div class="panel panel-info">
-<div class="panel-heading"><b>Pressure from abroad</b></div>
-<div class="panel-body" markdown="1">
+<div class="card mb-3">
+  <div class="card-header text-white bg-success"><strong>Pressure from abroad</strong></div>
+  <div class="card-body" markdown="1">
 Competing with other countries was a top concern voiced frequently in Congressional
 hearings from the early 1950s. The UK got the first full-scale commercial production of
 electric power from a dual-purpose plant (Calder Hall) in 1956. The Soviet Union, via Dr.
@@ -457,8 +457,9 @@ following reactor types:
 (Recall that *heavy water*, also called D<sub>2</sub>O, is water with the
 hydrogen atoms replaced with isotopically-enriched deuterium. It has very low
 neutron absorption and is a best-in-class moderator.)
+  </div>
 </div>
-</div>
+
 
 #### The Power Demonstration Reactor Program
 The AEC's Power Demonstration Reactor Program (PDRP) kicked off after the Atomic Energy
@@ -852,7 +853,7 @@ grass, which is actually part of the containment. You can also see a big coal tr
 outside...
 
 <div class="alert alert-info" markdown="1">
-<span class="label label-success">Interesting thought</span> 
+<span class="badge bg-success">Interesting thought</span> 
 Since Hallam operated, vast amounts of experience have been gained in sodium-cooled
 fast-neutron reactors. It's curious to wonder if a sodium-graphite reactor with that
 expanded knowledge-base wouldn't perform significantly better than Hallam did. Then again,
@@ -972,16 +973,16 @@ Opportunity".
 
 A [23-minute video](https://www.youtube.com/watch?v=cH06vZZZSZw) explains Piqua in some detail.
 
-<div class="alert alert-success" markdown="1"><span class="label label-success">Fate of molten salt</span> 
+<div class="alert alert-success" markdown="1"><span class="badge bg-success">Fate of molten salt</span> 
 Notably, Milton Shaw is much derided for focusing all reactor development efforts on the
 fast breeder program around this time. In particular, Oak Ridge's Alvin Weinberg and Shaw
 fought at this time over the fate of the [molten salt reactor program]({% link msr.md %}).
 Apparently, the organic reactors and molten salt reactors are brethren in this.
 </div>
 
-<div class="panel panel-success">
-<div class="panel-heading"><b>Atomics International</b>: reactor development badasses extraordinaire</div>
-<div class="panel-body" markdown="1">
+<div class="card mb-3">
+  <div class="card-header text-white bg-success"><strong>Atomics International</strong>: reactor development badasses extraordinaire</div>
+  <div class="card-body" markdown="1">
 Take note that the AEC contractor, *Atomics International* designed and built those last 
 two wildly innovative reactors. They had a process: 
 
@@ -992,8 +993,9 @@ two wildly innovative reactors. They had a process:
 * Build a medium-sized municipal reactor in a rural town to produce power
 
 Their component development and testing facility at Santa Susana was incredible.
+  </div>
 </div>
-</div>
+
 
 
 ### Direct nuclear superheat in Puerto Rico and South Dakota
@@ -1055,7 +1057,7 @@ costs in "normal"-looking reactors by a notable
 amount.
 
 <div class="alert alert-success" markdown="1">
-<span class="label label-warning">Fun fact</span> 
+<span class="badge bg-warning">Fun fact</span> 
 The decommissioned BONUS nuclear superheat reactor in Puerto Rico [has 4.5 stars at
 TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g264369-d635150-Reviews-Domes_Beach-Rincon_Puerto_Rico.html).
 The entire reactor was inside the dome (including the control room). Most of it has been
@@ -1325,9 +1327,9 @@ alloys for LMFBR environments. The ATR and FFTF test reactors were developed to 
 program. Multiple large new physics facilities, including the ZPPR in Idaho and the SEFOR
 in Arkansas provided fast-reactor physics data.
 
-<div class="panel panel-info">
-<div class="panel-heading"><b>Fast vs. thermal neutrons</b></div>
-<div class="panel-body" markdown="1">
+<div class="card mb-3">
+  <div class="card-header text-white bg-success"><strong>Fast vs. thermal neutrons</strong></div>
+  <div class="card-body" markdown="1">
 Neutrons emerge from a splitting nucleus at about 10,000 miles per second.  They are
 generally slowed down to a few miles per second by a *[moderator]({% link moderation.html
 %})* to minimize the amount of fissile fuel required. Once slowed down, they are called
@@ -1338,7 +1340,7 @@ the atoms or molecules at the temperature of the materials in the reactor.
 require more fissile material (like <sup>235</sup>U) to achieve a chain reaction, but in
 return generate far more excess neutrons, allowing for extra fertile material to be loaded
 for efficient breeding.
-</div>
+  </div>
 </div>
 
 Small sodium components (steam generators, pumps, valves, heat exchangers) were in
@@ -1655,30 +1657,30 @@ in serial production to proceed.
   and has positive historical experience.
 
 
-<div class="panel panel-info">
-<div class="panel-heading"><b>Reactor Experiments</b></div>
-<div class="panel-body" markdown="1">
+<div class="card mb-3">
+  <div class="card-header text-white bg-success"><strong>Reactor Experiments</strong></div>
+  <div class="card-body" markdown="1">
 It's impressive to note how many *Reactor Experiments* have been run. These are small
 chain-reacting machines, usually in remote areas, often without power generating
 equipment, that are used to understand the performance  of any new reactors operating
 principles. They are made after critical assemblies and before prototype reactors. We have
 run over a dozen REs, including the BORAX series, LAPRE-1 and 2, LAMPRE, HTRE-1 through 3,
 GCRE, OMRE, SRE, MSRE, ARE, HRE-1 and 2.
-</div>
+  </div>
 </div>
 
 <div class="alert alert-info" markdown="1">
-<span class="label label-success">Wiki alert</span>
+<span class="badge bg-success">Wiki alert</span>
 While writing this page, I tried to add interesting photos and top references
 to the relevant Wikipedia pages, which were (and still mostly are) stub pages.
 They still need more work so if you're bored and see a gap, it's a fun way to
 pass an hour.
 </div>
 
-<div class="panel panel-info">
-<div class="panel-heading"><b>About the Author</b></div>
-<div class="panel-body" markdown="1">
-<img src="img/nick_cave.jpg" alt="Picture of author" class="img img-fluid float-right" style="max-width:200px;"/>
+<div class="card mb-3">
+  <div class="card-header text-white bg-success"><strong>About the Author</strong></div>
+  <div class="card-body" markdown="1">
+<img src="img/nick_cave.jpg" alt="Picture of author" class="img img-fluid float-end w-25 rounded" />
 Nick Touran decided he wanted to help solve the world's energy issues in 2002.
 He discovered nuclear engineering as a challenging yet interesting pathway to
 accomplish this, and dedicated his career to the challenge. He and his
@@ -1696,18 +1698,15 @@ a labor of personal interest. You can [contact him here]({% link contact.md %})
 with comments, suggestions, and requests. He is a licensed Professional
 Engineer in Nuclear Engineering in the State of Washington.
 
-The observations in here are
-Nick's personal observations, and do not represent the opinion of any past,
-current, or future employer.
+  </div>
+</div>
 
-</div>
-</div>
 
 ## References
 
-<div class="panel panel-info">
-<div class="panel-heading"><b>Hat-tip to HathiTrust</b></div>
-<div class="panel-body" markdown="1">
+<div class="card mb-3">
+  <div class="card-header text-white bg-success"><strong>Hat-tip to HathiTrust</strong></div>
+  <div class="card-body" markdown="1">
 I could not and would not have written this page without the existence of
 HathiTrust.  The hundreds of thousands of pages of old reports that have been
 scanned and brought into everyone's living room represent a vast knowledge-base
@@ -1984,7 +1983,7 @@ RAND study!
 ### Nuclear Superheat references
 {:.no_toc}
 
-<div class="thumbnail float-right" style="width:250px">
+<div class="thumbnail float-end" style="width:250px">
 <a href="/img/evesr-critical-experiment-aped-4204.jpg"><img class="img-fluid"
 src="/img/blank.png" data-echo="/img/evesr-critical-experiment-aped-4204.jpg" alt="Picture of a exotic-looking
 nuclear core"/></a> 
@@ -2072,9 +2071,9 @@ and 300 MWe.
 Evaluation Kaiser Engineers, 1962 (TID-7025)</a> — A 5 volume report about cost
 evaluation.
 
-<div class="panel panel-success">
-<div class="panel-heading"><b>Too cheap to meter?</b></div>
-<div class="panel-body" markdown="1">
+<div class="card mb-3">
+  <div class="card-header text-white bg-success"><strong>Too cheap to meter?</strong></div>
+  <div class="card-body" markdown="1">
 Modern writing about nuclear economics often includes a statement
 to the tune of "once touted as *too cheap to meter*, nuclear is actually expensive". This line 
 comes from Lewis Strauss' grandiose [speech at a Science Writers
