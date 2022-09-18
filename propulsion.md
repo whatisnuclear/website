@@ -2,13 +2,13 @@
 layout: default
 title: Nuclear Propulsion
 description: Learn about how we use nuclear energy to propel ships
-author: Nick Touran
+author: nick
+date: 2018-02-17
+updated: 2020-12-29
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-
-# Nuclear propulsion
-##### *Nick Touran, Ph.D., 2018-02-17 (updated 2020-12-29)*
 
 Nuclear-powered engines have propelled submarines, aircraft carriers, destroyers, merchant
 shipping vessels, and icebreakers.  Nuclear energy is interesting at sea because:

@@ -3,17 +3,16 @@ layout: default
 title: What is Radioactivity?
 category: physics
 description: Learn what radiation is and what various forms it comes in.
-author: Nick Touran
+author: nick
 date: 2009-02-01
 updated: 2020-02-22
+byline: true
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# What is radiation? What is radioactivity?
 
-##### *{{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Updated {{ page.updated | date: "%Y-%m-%d" }}* 
 <div class="float-end"> 
 <img class="thumbnail" src="/img/radioactive.png" style="width:120px;" alt="Radioactivity" title="Radioactivity" />
 </div>

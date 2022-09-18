@@ -3,13 +3,12 @@ layout: default
 title: What are isotopes?
 category: issues
 description: To understand nuclear issues, you must have a basic understanding of what exactly an isotope is. This page describes what isotopes are and why they are important.
-author: Nick Touran
+author: nick
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# What are Isotopes and Nuclides?
 
 Having a basic understanding of isotopes and nuclides is vital to understanding many aspects of
 nuclear energy. Here we present a quick and simple review (or preview!) of science class. 

@@ -5,15 +5,14 @@ category: blog
 description: > 
     CNN's headline based on Greenpeace's claim that releases of radiocarbon (C-14) could "Alter Human
     DNA" are at odds with impacts seen from natural C-14 production and historical releases
-author: Nick Touran, Ph.D. (nuclear engineering)
+author: nick
 image: /img/blog-fukushima-c14-comparison.png
 mathjax: true
+date: 2020-10-25
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-# {{ page.title }}
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
-
 
 On Saturday, Oct. 24<sup>th</sup>, CNN published [an
 article](https://www.cnn.com/2020/10/24/asia/japan-fukushima-waste-ocean-intl-scli/index.html)

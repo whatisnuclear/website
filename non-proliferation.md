@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Nuclear Weapons and Non-Proliferation
+title: What is nuclear non-proliferation?
 category: physics
 description: Nuclear non-proliferation is the worldwide effort to reduce the spread and minimize stockpiles of nuclear weapons.
-author: Nick Touran
+author: nick
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# What is nuclear non-proliferation?   
 <div class="float-end">
 <img src="/img/baker_shot_crop.png" class="rounded img-fluid"
 style="width:300px;" alt="The Baker Shot" title="The Baker Shot: An early nuclear weapons

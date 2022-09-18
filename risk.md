@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Nuclear Reactor Risk Assessment?
+title: Nuclear Reactor Risk Assessment
 category: physics
 description: How safe is safe enough? Risk assessments of nuclear reactors
-author: Nick Touran
+author: brianj
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# Nuclear Reactor Risk Assessment
-##### By Dr. Brian Johnson
 <div class="float-end"><img class="rounded img-fluid" src="/img/bjohnson.jpg" style="max-width:200px;" alt="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design. " title="The author, Brian Johnson, is a PRA analyst heavily involved in innovative nuclear reactor design." /></div>
 How safe is safe enough? This is a long standing question in the development of
 nuclear reactors.  The defense-in-depth philosophy mandates safety systems that

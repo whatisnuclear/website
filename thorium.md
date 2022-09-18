@@ -3,14 +3,13 @@ layout: default
 title: "Thorium As Nuclear Fuel: the good and the bad"
 category: physics
 description: A discussion of the Thorium nuclear fuel cycle for nuclear reactors. How is it different from Uranium? What's so good about it? What are its downsides?
-author: Nick Touran
+author: nick
+byline: true
 image: /img/Thor.jpg
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
-
-# Thorium As Nuclear Fuel
 
 <div class="float-end"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge" title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with thunder, lightning, storms, oak trees, strength, the protection of mankind, healing, and fertility. Thorium was so named in the 1820s, well before its nuclear properties were discovered in 1942. Coincidence? " src="/img/Thor.jpg"/>
 </div>

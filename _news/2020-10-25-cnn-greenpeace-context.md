@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adding context to misleading Greenpeace claims picked up by CNN, others.
-author: Nick Touran
+author: nick
 category: news
 excerpt: The total inventory of C-14 in the Fukushima tanks is made by cosmic rays every 40 minutes
 ---

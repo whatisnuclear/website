@@ -3,14 +3,14 @@ layout: default
 title: What is Nuclear Engineering?
 category: industry
 description: What do nuclear engineers do? This page discusses a few of the careers in the field, including nuclear energy, medical physics, plasma science, radiation detection, and nuclear materials, with extra detail on the nuclear energy side.
-author: Nick Touran
+author: nick
+date: 2008-11-09
+byline: true
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# What is a Nuclear Engineer?
-##### November 9, 2008
 Nuclear engineers apply knowledge of atomic nuclei to design, build, and operate special equipment that is useful to humanity. 
 These applications fall into several broad categories, including fission power, radiation detection, nuclear medicine, nuclear 
 materials, and plasma science. These categories overlap all the time, since nuclear materials knowledge is required for all 

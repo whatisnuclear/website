@@ -6,13 +6,13 @@ description: >
     While most of us think salt when we hear about sodium, the two words
     mean significantly different things in the context of advanced nuclear
     technology. This post explains the difference between salt and sodium.
-author: Nick Touran, Ph.D.
+author: nick
 image: /img/salt-vs-sodium.jpg
+byline: true
+date: 2020-11-23
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-# {{ page.title }}
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }} (Updated 2022-05-07)
 
 Most of us use the words *sodium* and *salt* interchangeably. After all, this is how they're
 used in nutrition: *low sodium* means something's not too *salty*. However, when these

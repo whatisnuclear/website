@@ -2,7 +2,7 @@
 layout: default
 title: Contact us
 description: Ask us your questions or send in suggestions and comments
-author: Nick Touran
+author: nick
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">

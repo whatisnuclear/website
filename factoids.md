@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fun Factlets
+title: Fun Nuclear Factlets
 description: Little facts about nuclear energy.
 ---
 
@@ -8,7 +8,6 @@ description: Little facts about nuclear energy.
 
 <div class="col-md-8" markdown="1">
 
-# Nuclear Factlets
 
 
 <img class="float-end" style="width:200px" src="/img/aircraft_carriers_on_burj_dubai.jpg" alt="Aircraft carriers on the Burj Dubai" title="Aircraft carriers on the Burj Dubai" /> 

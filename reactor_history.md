@@ -2,18 +2,14 @@
 layout: default
 title: Nuclear Reactor Development History
 description: Learn about the wide variety of nuclear reactor development programs that have happened up to about 1970
-author: Nick Touran
+author: nick
 toc: true
 image: /img/nuclear_rocket.jpg
 date: 2020-01-12
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-
-# {{ page.title }}
-{:.no_toc}
-##### *{{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}*
-{:.no_toc}
 
 <img src="/img/blank.png" data-echo="img/applications.jpg" class="img-fluid"/>
 *"You have to know the past to understand the present"* — Carl Sagan

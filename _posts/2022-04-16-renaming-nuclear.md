@@ -7,16 +7,15 @@ description: >
     Besides, most energy sources are named after their fuel rather than their entire field of physics.
     As the field of nuclear physics has developed, it's now time to graduate into being more
     specific. 
-author: Nick Touran, Ph.D.
+author: nick
 image: /img/renaming-nuclear.png
+byline: true
+date: 2022-04-16
 ---
 <div class="row">
 <div class="col-lg-8" markdown="1">
-# {{ page.title }}
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
 
 <img alt="A new name" class="img-fluid w-50 float-end" title="Getting a new name" src="/img/renaming-nuclear.png"/>
-
 The term *nuclear* as in *nuclear energy*, *nuclear plants*, etc. is problematic as a
 description of the peaceful low-carbon energy source.
 

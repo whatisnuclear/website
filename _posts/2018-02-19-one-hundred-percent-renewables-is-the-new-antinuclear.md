@@ -3,13 +3,13 @@ layout: default
 title: 100% renewables can be inadvertently anti-nuclear
 category: blog
 description: Commentary on why 100% renewables actually supports anti-nuclear concepts and therefore goes against our climate goals
-author: Nick Touran
+author: nick
+date: 2018-02-19
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# {{ page.title }} 
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
 Pop quiz: what's the difference between *renewable* and *sustainable* energy? The answer
 is nuclear energy. Behold:
 <figure>

@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Power Basic
+title: Power and Energy
 description: The difference between power and energy, plus what nuclear burnup is.
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# Power and Energy
 Here you&rsquo;ll learn the difference between power and energy, and some other terminology.
 <div class="thumbnail float-end img-fluid">     
 <img src="img/waterTower.png" alt="Water Tower as energy storage analogy" class="rounded" title="Water Tower as energy storage analogy" />

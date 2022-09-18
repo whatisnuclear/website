@@ -1,14 +1,16 @@
 ---
 layout: default
-title: "Floating nuclear power plants"
+title: "Offshore nuclear power plants"
+
 category: blog
 description: In the 1970s, Westinghouse and Newport News formed a joint venture called Offshore Power Systems to mass produce floating nuclear power plants. Vast environmental and design studies were done, the facility was constructed, and 8 full-scale gigawatt-class PWRs were authorized for production.
-author: Nick Touran
+author: nick
 image: /img/ops-station.jpg
+date: 2020-01-26
+updated: 2020-12-29
+byline: true
 ---
 <div class="col-lg-8" markdown="1">
-# That time we almost built 8 gigawatt-class floating nuclear power plants
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}, (updated 2020-12-29). Reading time: {{ page.content | reading_time_as_i }}
 <a href="/img/atlantic-generating-station-floating.jpg">
 <img class="img float-end img-fluid w-50 rounded" 
 src="/img/atlantic-generating-station-floating_sm.jpg" alt="A floating nuclear power plant"/>

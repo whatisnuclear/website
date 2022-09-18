@@ -5,14 +5,14 @@ category: blog
 description: > 
     Some people claim nuclear fuel is inexhaustible and circular, others say
     we'll run out soon. We do the math. Turns out, it's roughly as inexhaustible as sunlight.
-author: Nick Touran, Ph.D. (nuclear engineering)
+author: nick
 image: /img/nuclear-sustainability.png
 mathjax: true
+byline: true
+date: 2020-10-28
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-# {{ page.title }}
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
 
 As shown in our [energy flow diagram]({% link energy-flow.md %}), our energy resource
 options are derived either directly from sunlight (solar, wind, hydro, biofuel), by

@@ -3,16 +3,15 @@ layout: default
 title: Measuring the Age of the Earth
 category: concepts
 description: How we know the age of the Earth.
-author: Nick Touran
+author: nick
 image: /img/Rb-Sr-clock1.png
 mathjax: true
+date: 2014-04-27
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# The Age of the Earth
-
-#### By Nick Touran, Ph.D., 2014-04-27
 
 You may have heard that the Earth is 4.54 billion years old. This was calculated by taking
 precise measurements of things in the dirt and in meteorites and using the principles of

@@ -3,14 +3,12 @@ layout: default
 title: Molten Salt Reactors
 category: reactor-types yeah
 description: Molten salt reactors are completely different types of nuclear reactors than those currently operating. They have interesting benefits, and a different set of problems. This page discusses what they are, what they can do, what issues they face, and their history.
-author: Nick Touran
+author: nick
+byline: true
 image: /img/are.jpg
 ---
 <div class="row">
 <div class="col-md-8" markdown="1"> 
-
-# Molten Salt Reactors
-### By Nick Touran, Ph.D.
 
 <figure class="float-end w-50"> <a
 href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img class="img-fluid img-thumbnail rounded"

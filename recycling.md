@@ -1,17 +1,20 @@
 ---
 layout: default
 title: What is Nuclear Recycling?
-description: Did you know that typical nuclear reactors only use about 1% of the energy in their fuel, and that nuclear waste is recyclable? What is nuclear recyling? Find out here.
-author: Nick Touran
+description: >
+  Did you know that typical nuclear reactors only use about 1% of the energy in their fuel, 
+  and that nuclear waste is recyclable? This page talks about nuclear breeder reactors
+  and nuclear recycling. 
+author: nick
 image: /img/atomic-recycling.png
+date: 2009-03-01
+updated: 2020-10-05
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# Recycling Nuclear Waste and Breeder Reactors
-##### By Nick Touran, March 2009 (last updated October 2020)
 <a name="recycling"></a>
-# What is nuclear recycling?   
 <img class="float-end" style="max-width:150px;" src="img/atomic-recycling.png" alt="Recycle symbol with atom inside it" />
 Nuclear waste is recyclable. Once reactor fuel (uranium or thorium) is used in a reactor, it can be
 treated and put into another reactor as fuel. In fact, typical reactors only extract a few percent

@@ -1,7 +1,7 @@
 ---
 title: SVG format updated
 layout: default
-author: Nick Touran
+author: nick
 category: news
 excerpt: Much better resolution graphics on recycling page
 ---

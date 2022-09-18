@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Announcing the nuclear reading material page
-author: Nick Touran
+author: nick
 category: news
 excerpt: We created the start of a new page with links to textbooks and reports intended for interested newbies
 ---

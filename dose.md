@@ -3,15 +3,15 @@ layout: default
 title: What is radioactive dose?
 category: physics
 description: We discuss radioactive dose and sources of radiation. General health related stuff.
-author: Jesse Cheatham
+author: jesse
+date: 2008-10-14
+byline: true
 ---
 
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# Health and Radiation
-##### By Dr. Jesse Cheatham, October 14, 2008
 <a name="dose"></a>
 ## What is radiation dose?
 Radiation dose is a measurement of how much energy is deposited into a material from a source of 

@@ -3,13 +3,12 @@ layout: default
 title: What is Nuclear Energy?
 category: physics
 description: Learn about what nuclear energy is (fission and fusion), were it comes from, and how it is harnessed. Also discusses basic pros and cons of nuclear reactors.
-author: Nick Touran
+author: nick
+byline: true
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
-    
-## What is nuclear energy? 
 
 <div class="float-end"><img src="img/lamp.jpg" alt="A lamp" title="A Lamp" /></div>
 

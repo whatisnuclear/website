@@ -2,7 +2,7 @@
 layout: default
 title: Nuclear Reaction Animations
 description: Simple nuclear reaction animations
-author: Nick Touran
+author: nick
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">

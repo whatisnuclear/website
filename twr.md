@@ -2,16 +2,16 @@
 layout: default
 title: Traveling Wave Reactors
 description: Learn about Traveling Wave Reactors
+author: nick
+byline: true
+date: 2009-03-12
 ---
 <div class="row">
 
 <div class="col-md-8" markdown="1">
 
-# Traveling-Wave Reactors and the breed-burn concept 
-
 
 <a name="what"></a>
-## What is a traveling-wave reactor?   
 Traveling-wave reactors (TWRs) are advanced nuclear reactors that are capable of eventually running
 &quot;forever&quot; given only depleted uranium fuel. The concept is similar to a candle: given a
 match, a candle will burn from top to bottom. If you kept putting more wax beneath the candle, it

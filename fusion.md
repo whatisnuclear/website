@@ -2,14 +2,13 @@
 layout: default
 title: Nuclear Fusion
 description: Nuclear fusion powers the sun and all the stars. It is the process that forged everything heavier than Hydrogen. Long considered a holy grail energy source, it is being pursued worldwide.
-author: Nick Touran
+author: nick
 date: 2018-02-04
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# {{ page.title }}
-##### {{ page.author }}, {{ page.date }}
 <img class="float-end img-fluid" style="padding:10px;" src="/img/nasa-eclipse-sm.jpg" alt="NASA photo of the August 2017 eclipse" title="NASA photo of the August 2017 eclipse"/>
 As Truman once said, nuclear energy is the basic power of the universe. It can be accessed by
 splitting large atoms (like Uranium) apart with neutrons or by pushing small atoms (like Hydrogen)

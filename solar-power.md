@@ -2,6 +2,8 @@
 layout: default
 title: Solar power
 description: Solar power
+date: 2008-03-12
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">

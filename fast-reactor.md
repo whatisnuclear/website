@@ -5,14 +5,14 @@ category: reactors
 description: |
     Explains what a fast nuclear reactor is and how they differ from
     more common slow-neutron (thermal) reactors.
-author: Nick Touran
+author: nick
+date: 2009-09-21
+byline: true
+byline_extra: Editing by Jesse Cheatham, Robert Petroski, and Brian Wagner
 ---
 <div class="row">
 <div class="col-md-6" markdown="1">
     
-<h2>What is a <i>fast</i> reactor? </h2>
-<h5>By Nick Touran, September 2009. Editing by Jesse Cheatham, Robert Petroski, and Brian Wagner</h5>
-         
 Fast reactors are nuclear reactors that are designed to maintain their neutrons at high
 energies. Fast neutrons can unlock the energy in the dominant isotope of uranium (U238)
 and thus extend known fuel resources by many orders of magnitude, enabling nuclear power

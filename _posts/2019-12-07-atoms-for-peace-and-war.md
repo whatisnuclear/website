@@ -3,13 +3,13 @@ layout: default
 title: Notes on *Atoms for Peace and War*
 category: blog
 description: Notes from reading the official Atomic Energy Commission's history from 1953 to 1961.
-author: Nick Touran
+author: nick
+byline: true
+date: 2019-12-07
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# {{ page.title }} 
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
 
 The [freely downloadable
 book](https://www.energy.gov/management/downloads/hewlett-and-holl-atoms-peace-and-war),

@@ -2,14 +2,15 @@
 layout: default
 title: Thorium myths
 description: As much as we love Thorium, there are way too many myths and misconceptions about it going on. We set them straight here. 
-author: Nick Touran
+author: nick
 image: /img/Thor.jpg
+date: 2014-03-13
+updated: 2020-09-08
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# Myths and Misconceptions about Thorium nuclear fuel
-##### By Nick Touran, Ph.D. Nuclear Engineer, Published 2014-03-13, Updated 2020-09-08
 
 <div class="float-end"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge"
 title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with thunder,

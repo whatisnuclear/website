@@ -3,12 +3,11 @@ layout: default
 title: Notes on Alvin Weinberg's autobiography, *The First Nuclear Era*
 category: blog
 description: Commentary on Weinberg's incredible life and advice about building the next nuclear era
-author: Nick Touran
+author: nick
+date: 2019-07-29
+byline: true
 ---
 <div class="col-lg-8" markdown="1">
-
-# {{ page.title }} 
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
 
 Alvin Weinberg was an original Manhattan Project scientist who dramatically influenced the development of
 nuclear energy. He's a nuclear energy titan.

@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Nuclear energy in Space
+title: "Nuclear energy in Space!"
 description: Nuclear technology has great uses in space.
+byline: true
+author: nick
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# Nukes in *Space*! 
 
 Nuclear energy is a wonderful energy source for space. As you go away from the
 sun, solar panels struggle to gather enough energy to run a spacecraft or

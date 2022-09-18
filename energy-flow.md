@@ -1,16 +1,15 @@
 ---
 title: Energy flow diagram
 description: Primordial origins of all energy sources
-author: Nick Touran
+author: nick
 layout: default
 date: 2020-06-03
 mermaid: true
+byline: true
 image: /img/energy-flow-sm.jpg
 ---
 <div class="row">
 <div class="col-md-12" markdown="1">
-# Energy flow diagram
-#####  {{ page.author }}, {{ page.date }}
 
 This diagram roughly shows the origin of energy we can use to help us do stuff. 
 

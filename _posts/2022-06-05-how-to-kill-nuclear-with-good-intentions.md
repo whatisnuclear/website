@@ -8,13 +8,15 @@ description: >
     prove equally detrimental to its future. Here are a few of the more toxic attitudes
     (classic list of ten):
 
-author: Mike Driscoll\*
+author: "Mike Driscoll*"
 image: /img/reactor.png
+date: 2001-10-25
+updated: 2022-06-05
+byline: true
+byline_extra: Published on web by N. Touran
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-# {{ page.title }}
-##### {{ page.author }}, 2001-10-25. Reading time: {{ page.content | reading_time_as_i }}
 
 <div class="float-end">
 <!--

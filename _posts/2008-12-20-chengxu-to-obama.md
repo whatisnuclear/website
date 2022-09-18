@@ -1,16 +1,14 @@
 ---
 layout: default
-title: Letter to President-Elect Obama from Cheng Xu
+title: Letter to President-Elect Obama 
 category: blog
 description: Letter to Obama from Cheng Xu
+author: cheng
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# A Letter to President-Elect Obama 
-#### By Cheng Xu, Dec 20, 2008
-
-## An Overview of Energy, Environmental Impact, and Social Barrier against Nuclear Power
 
 I write this letter with little hope
 that it will reach anyone of significant influence to affect the changes that I

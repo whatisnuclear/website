@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Challenges in energy storage
+title: How many batteries do you need to store electricity for a night?
 description: How many batteries does it take to power a town through the night?
+author: nick
+date: 2013-06-13
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-
-# How many batteries do you need to store electricity for a night?
-
 Energy storage is a common topic that comes up in discussing energy. A lot of people think it would
 be easy to just charge some batteries during the day with a solar plant and then use them through
 the night. Critics of this idea frequently tell proponents to &quot;do the math.&quot; This page

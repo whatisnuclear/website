@@ -3,15 +3,15 @@ layout: default
 title: A primer on energy, greenhouse gas, intermittency, and nuclear
 category: blog
 description: An in-depth view of current world energy needs and the clean energy sources we have to meet them. 
-author: Nick Touran
+author: nick
 published: true
+date: 2017-12-17
+byline: true
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# {{ page.title }} 
-##### {{ page.author }}, {{ page.date | date: "%Y-%m-%d" }}. Reading time: {{ page.content | reading_time_as_i }}
 
 Thanks entirely to the efforts of local climate-related organizations in Seattle, I've now spoken at
 a handful of book stores, breweries, universities, and even Town Hall on climate and energy. Last

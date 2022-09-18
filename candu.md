@@ -2,11 +2,11 @@
 layout: default
 title: CANDU reactors
 description: Learn about the CANDU reactor
+author: nick
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-
-# CANDU Reactors  
 
        
 <img class="float-end" src="/img/candu.png" alt="Heavy Water" title="Heavy Water" /> CANada

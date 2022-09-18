@@ -3,13 +3,12 @@ layout: default
 title: Computing the energy density of nuclear fuel
 category: concepts
 description: How to compute energy density of nuclear fuel
-author: Nick Touran
+author: nick
 mathjax: true
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-
-# Energy density calculations of nuclear fuel
 
 Energy density is like the miles-per-gallon rating of a power plant. It measures how much
 energy is released (in megajoules) given a certain mass of fuel (in kilograms). Perhaps

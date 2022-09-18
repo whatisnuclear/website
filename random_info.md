@@ -2,7 +2,7 @@
 layout: default
 title: About the random reactor generator
 description: A generator of innovative nuclear reactor ideas
-author: Nick Touran
+author: nick
 toc: true
 date: 2020-02-28
 ---

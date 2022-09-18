@@ -1,22 +1,19 @@
 ---
 layout: default
-title: Nuclear Power Plants
+title: What is a nuclear reactor?
 category: technology
 description: Nuclear reactors are machines that convert energy stored in atoms into heat or electricity. This page explains what comprises such a device, touches on how they work, and discusses several different varieties. 
-author: Nick Touran
+author: nick
 image: /img/dccook.jpg
+byline: true
 ---
 
 <div class="row">
-
 <div class="col-md-12" markdown="1">
-
-## What is a nuclear reactor?
 
 <img src="/img/dccook.jpg" alt="A nuclear power plant."
 style="max-width:300px;" class="rounded img-fluid float-end" title="A nuclear power
 plant." />
-
 A nuclear reactor is a system that contains and controls sustained nuclear chain reactions. Reactors are used for generating 
 electricity, moving aircraft carriers and submarines, producing medical isotopes for imaging and cancer treatment, 
 and for conducting research. 

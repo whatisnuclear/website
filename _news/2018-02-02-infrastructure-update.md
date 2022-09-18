@@ -3,7 +3,7 @@ layout: default
 title: Some updates to whatisnuclear.com
 category: blog
 description: Learn about the latest changes behind the scenes here related to Jekyll and github.
-author: Nick Touran
+author: nick
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: What famous people say about nuclear
+title: Nuclear-friendly statements of famous people
 description: These famous people have said positive things about nuclear energy
-author: Nick Touran
 image: /img/quotes/arnold.jpg
+byline_extra: Contributions from many on github
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# Nuclear-friendly statements of famous people
 On this page we have a collection of statements made by relatively famous people about
 nuclear energy. 
 <hr/>

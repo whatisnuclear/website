@@ -3,13 +3,14 @@ layout: default
 title: What is a nuclear fuel cycle?
 category: physics
 description: What is a nuclear fuel cycle? This page describes the concept and its various forms.
-author: Nick Touran
+author: nick
+byline: true
+date: 2009-06-15
+byline_extra: Back-end help from Maru Morell-Gonzalez
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# What is a nuclear fuel cycle?   
-##### By Nick Touran, June 2009. Back-end help from Maru Morell-Gonzalez
 A nuclear fuel cycle is the path that we put heavy atoms through in order to extract energy from
 them, starting at the day we find them and ending when their wastes have decayed to stability and
 are no longer dangerous. Fuel cycles can take on a wide variety of configurations, and different
@@ -19,14 +20,6 @@ the USA are operating on a once-through cycle (which is more of a line than a cy
 Europe and Asia go through a once- or twice-recycled cycle (which sounds funny). The economics,
 politics, and long-term sustainablity of nuclear energy depend critically on fuel cycles.  
 
-## Watch this cool video
-Before we go in, you should watch this video that makes the fuel cycle more clear. Areva made this
-cool promotional film about the nuclear fuel cycle with rockin' tunes. It shows footage of
-many processes of the fuel cycle and whets your appetite for learning more, which you can do below.
-
-
-<iframe src="https://www.youtube.com/embed/xlTnF2LJP60"
-width="480" height="385" style="margin-left:auto;margin-right:auto;display:block"></iframe>
 
 
 ## The front end of the fuel cycle (from the mine to the reactor)

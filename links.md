@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Useful links
+title: Interesting nuclear links
 description: Some useful links to other related sites
-author: Nick Touran
+author: nick
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-            
-# Interesting links
 
 This page contains links we consider useful or interesting in energy-related discussions.
+See also the [Nuclear Engineering Reading List]({% link nuclear-reading-list.md %}).
 
 <table class="table table-striped">
 <tr><th>Link</th><th >Comments</th></tr>

@@ -2,12 +2,13 @@
 layout: default
 title: Plug-in hybrid electric cars
 description: Plug-in hybrid electric vehicles can reduce our dependence on oil by orders of magnitude. See how they fit in with nuclear power. 
-author: Nick Touran
+author: nick
+date: 2010-05-12
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
             
-# A sustainable transportation idea
 
 <img class="float-end" style="width:250px;" src="/img/phev.png" alt="A plug-in hybrid-electric vehicle (PHEV)" title="A plug-in hybrid-electric vehicle(PHEV)" />
 Every so often, humanity comes up with great ideas. The plug-in hybrid electric vehicle (PHEV) is

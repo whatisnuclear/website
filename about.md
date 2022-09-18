@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "About us: people and philosophy"
+title: "About Whatisnuclear.com"
 description: About the people and philosophy of whatisnuclear.com, the public education site about nuclear energy.
-author: Nick Touran
+author: nick
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# About Whatisnuclear.com
 
 We are a group of nuclear engineers hoping to help the world learn some interesting and
 important information about nuclear energy. We find ourselves explaining things like waste recycling

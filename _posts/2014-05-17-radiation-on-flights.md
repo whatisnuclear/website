@@ -1,19 +1,14 @@
 ---
 layout: default
-title: Radiation on flights
+title: Radiation on Flights
 category: blog
 description: How much radiation do we encounter while flying on commercial flights?
-author: Nick Touran
+author: nick
 image: /img/crshower2_nasa_big.jpg
+date: 2014-05-17
+byline: true
 ---
 <div class="col-lg-8" markdown="1">
-
-# Radiation on Flights
-##### By Nick Touran, Ph.D., 2014-05-17
-
-> *ra-di-a-tion* &mdash; the emission of energy as electromagnetic waves or as moving
-> subatomic particles, especially high-energy particles that cause
-> ionization.
 
 Radiation exists in nature, and has since the beginning of time. Radio waves
 and light are examples of low-energy (harmless) radiation, while x-rays and gamma

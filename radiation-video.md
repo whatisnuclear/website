@@ -2,7 +2,7 @@
 layout: default
 title: Radiation Detection Video
 description: A video we made with some radiation detection equipment
-author: Nick Touran
+author: nick
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">

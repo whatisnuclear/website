@@ -2,15 +2,15 @@
 layout: default
 title: Nuclear Power Reading List
 description: Some links to good reading material about nuclear technology
-author: Nick Touran
+author: nick
 image: /img/kid_in_atom.jpg
+byline: true
+date: 2021-05-24
+updated: 2022-06-23
 ---
-<a name="top"/>
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-# Nuclear Power Reading List
-##### By Nick Touran, Ph.D. P.E., 2021-05-24, updated 2022
 
 This is a curated directory of reading material that may be interesting
 for people to learn more about nuclear power technology. Free items are
@@ -48,7 +48,7 @@ indicated with <span class="badge bg-success">Free!</span>
 </tr>
 {%- endfor -%}
 </table>
-<p> <a href="#top">&#8593; Top</a> </p>
+<p> <a href="#">&#8593; Top</a> </p>
 {%- endfor -%}
 
 

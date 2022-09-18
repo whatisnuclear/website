@@ -1,14 +1,13 @@
 ---
-title: Origin of nuclear energy
+title: How did all that energy get in the nucleus?  
 description: Where did the energy in nuclei come from
-author: Nick Touran
+author: nick
 layout: default
 date: 2007-01-01
+byline: True
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-# How did all that energy get in the nucleus?                            
-#####  {{ page.author }}, {{ page.date }}
 
 Just after the universe started, the only element around was hydrogen. The hydrogen collected
 together through gravity and became stars. The stars became massive enough that gravity allowed the

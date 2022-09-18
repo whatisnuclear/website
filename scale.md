@@ -3,12 +3,12 @@ layout: default
 title: Scale of Energy Usage
 description: How much energy do we use? What would it look like to store it all by lifting large objects to the top of tall buildings?
 image: /img/aircraft_carriers_on_burj_dubai.jpg
+byline: true
+author: nick
 ---
 
 <div class="row">
 <div class="col-md-8 col-md-offset-1" markdown="1">
-# What kind of scale are we dealing with?
-##### Contributed by: Nick Touran
 
 It&rsquo;s hard to conceptualize the amount of energy humankind uses every day.
 It&rsquo;s also very important to do so when thinking about solutions to our

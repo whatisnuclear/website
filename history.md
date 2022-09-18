@@ -3,12 +3,12 @@ layout: default
 title: History of Nuclear Energy
 category: concepts
 description: Learn the history of nuclear energy here, from Roentgen&rsquo;s discovery of x-rays, through the Manhattan project, up to Fukushima. 
-author: Nick Touran
+author: nick
+byline: true
 ---
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-# History of Nuclear Energy
 
 This page goes through a condensed version of the history of nuclear energy. Of course, there are
 many developments and people who are not covered. 

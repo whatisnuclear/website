@@ -2,11 +2,11 @@
 title: Real Life Nuclear Engineers
 description: First hand stories of young nuclear engineers getting into the field.
 layout: default
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">        
 
-# Real Nuclear Engineers
 
 We asked some nuclear engineers to write about their experiences so far in their lives. Here&rsquo;s
 what we got. 
