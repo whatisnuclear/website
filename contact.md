@@ -13,7 +13,12 @@ We welcome messages from our readers and will try to respond to any questions
 for feedback you have. Your personal information will not be used for anything
 except replying to you. 
 
-<div class="alert alert-success" role="alert"><strong>Gmail alert: </strong>Gmail tends to classify our replies as spam despite our many efforts to legitimize our email server. Check your spam folder if you don&rsquo;t hear back from us.</div>
+<div class="alert alert-success" role="alert"><strong>
+<span class="badge bg-danger ">GMail alert</span>
+</strong>Gmail tends to classify our replies as spam despite our many efforts to
+legitimize our email server. Check your spam folder if you don&rsquo;t hear back
+from us. Or add whatisnuclear.com to your approved domains in advance.
+</div>
 </div>
 </div>
 <div class="row">

@@ -393,7 +393,7 @@ The papers therein cover a wide variety of the things discussed on this page.
 Questions? Corrections? Comments? See someone who needs to be added to the wall of shame? Send us <a
 href="contact.html">a note</a>.
 
-<span class="label label-success">REDDIT ALERT</span> 
+<span class="badge bg-success">REDDIT ALERT</span> 
 A fairly lively discussion of the content of this page happened on Reddit <a href="https://www.reddit.com/r/energy/comments/217f78/a_superfuel_a_hard_look_at_thorium_myths/">in this thread</a>.
 
 </div>

@@ -36,7 +36,7 @@ Up and coming nuclear reactor powerhouses China and India both have substantial 
 Thorium-bearing minerals and not as much Uranium. So, expect this energy source to become a big deal
 in the not-too-distant future...
 
-<span class="label label-danger">Hype alert</span> &nbsp; If someone on the internet told you something unbelievable about Thorium, you might want to check out our <a href="{% link thorium-myths.md %}">Thorium Myths page</a> just to double check it.
+<span class="badge bg-danger">Hype alert</span> &nbsp; If someone on the internet told you something unbelievable about Thorium, you might want to check out our <a href="{% link thorium-myths.md %}">Thorium Myths page</a> just to double check it.
 
 
 #### On this page
@@ -120,7 +120,7 @@ obtaining bomb material is not.
 
 <h2 id ="lftr">Molten Salt Reactors</h2>
 
-<span class="label label-success">Update:</span> See our <a href="{% link msr.md %}">full page on Molten Salt Reactors</a> for more info.
+<span class="badge bg-success">Update:</span> See our <a href="{% link msr.md %}">full page on Molten Salt Reactors</a> for more info.
 
 One especially cool possibility suitable for the slow-neutron breeding capability of the Th-U fuel cycle
 is the molten salt reactor (MSR), or as one particular MSR is commonly known on the internet, the

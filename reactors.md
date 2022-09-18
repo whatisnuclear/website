@@ -241,7 +241,7 @@ variety of fuels.
 <div class="col-md-6" markdown="1"> 
 
 ### Molten Salt Reactor
-<span class="label label-success">Update!</span> There is now a [full page discussing MSRs in detail]({% link msr.md %}).
+<span class="badge bg-success">Update!</span> There is now a [full page discussing MSRs in detail]({% link msr.md %}).
 Molten Salt Reactor's (MSRs) are the internet's favorite reactor. They are unique so far in that they use fluid fuel.
 
 #### Pros:

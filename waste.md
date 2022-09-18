@@ -346,7 +346,7 @@ concept is called Partitioning and Transmutation and is discussed in elaborate d
 [this IAEA
 report](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management). 
 
-<span class="label label-success">See Also</span> See our [main recycling page]({% link
+<span class="badge bg-success">See Also</span> See our [main recycling page]({% link
 recycling.md %}) for a more thorough discussion of recycling.
 
 ### Transportation

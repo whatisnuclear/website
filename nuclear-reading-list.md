@@ -14,7 +14,7 @@ image: /img/kid_in_atom.jpg
 
 This is a curated directory of reading material that may be interesting
 for people to learn more about nuclear power technology. Free items are
-indicated with <span class="label label-success">Free!</span>
+indicated with <span class="badge bg-success">Free!</span>
 
 ## Contents
 
@@ -24,7 +24,7 @@ indicated with <span class="label label-success">Free!</span>
 {% endfor %}
 </ul>
 
-<span class="label label-success">Open source</span> You can contribute to this by
+<span class="badge bg-success">Open source</span> You can contribute to this by
 [editing this page on github]({{site.github_repo_url}}/_data/reading.yml)
 
 {% for category in site.data.reading %}
@@ -40,7 +40,7 @@ indicated with <span class="label label-success">Free!</span>
 <tr>
 <td>{{ item.author }}</td>
 <td markdown="1">
-[{{ item.title }}]({{ item.url }}){% if item.free %}&nbsp;<span class="label label-success">Free!</span>{% endif %}
+[{{ item.title }}]({{ item.url }}){% if item.free %}&nbsp;<span class="badge bg-success">Free!</span>{% endif %}
 </td>
 <td markdown="1">
 {{ item.description }}{% if item.date %} ({{ item.date }}){% endif %}
