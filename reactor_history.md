@@ -1722,12 +1722,12 @@ The UNT library was also really useful for this work.
 
 * Alvin Weinberg, *The First Nuclear Era* (<a
   href="https://www.amazon.com/First-Nuclear-Era-Times-Technological/dp/1563963582">Amazon
-  link</a>) (<a href="{% link _posts/2019-07-29-first-nuclear-era-notes-weinberg.md %}">my
+  link</a>) (<a href="{% link weinberg.md %}">my
   personal reading notes</a>)
 * <a
   href="https://www.energy.gov/management/downloads/hewlett-and-holl-atoms-peace-and-war">Hewlett
   and Holl, *Atoms for Peace and War: The Eisenhower Administration and the Atomic Energy
-  Commission*</a> (and don't miss <a href="{% link _posts/2019-12-07-atoms-for-peace-and-war.md %}">my
+  Commission*</a> (and don't miss <a href="{% link peace_and_war.md %}">my
   personal reading notes</a>)
 * [Alice L. Buck, *A History of the Atomic Energy Commission*:
   U.S. Department of Energy, July 1983. 41 pp.

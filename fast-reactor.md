@@ -16,8 +16,8 @@ byline_extra: Editing by Jesse Cheatham, Robert Petroski, and Brian Wagner
 Fast reactors are nuclear reactors that are designed to maintain their neutrons at high
 energies. Fast neutrons can unlock the energy in the dominant isotope of uranium (U238)
 and thus extend known fuel resources by many orders of magnitude, enabling nuclear power
-to achieve [long term sustainability]({% post_url
-2020-10-28-nuclear-energy-is-longterm-sustainable %}).
+to achieve [long term sustainability]({% link
+nuclear-sustainability.md %}).
 
 Whereas traditional reactors contain [moderators]({% link moderation.html %}) to slow down
 neutrons after they're emitted, fast reactors keep their neutrons moving quickly.  An

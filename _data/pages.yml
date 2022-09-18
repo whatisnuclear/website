@@ -1,73 +1,97 @@
-- title: Concepts
+- title: What is...?
   pages:
     - index
-    - nuclear-energy
+    - reactors
+    - waste
     - radioactivity
-    - history
     - recycling
+    - fast-reactor
+    - thorium
+    - isotopes
+    - propulsion
+    - space
+    - fusion
     - nuclear-engineer
-    - nuclear-engineer-people
+    - decay-heat
+    - non-proliferation
+    - moderation
+    - dose
     #- nuclear-as-clean-energy
 
-- title: Uses
-  pages:
-    - reactors
-    - propulsion
-      #- medicine
-    - geology
-    - space
-      #- weapons
 
-- title: Issues
+- title: History
   pages:
-    - waste
+    - reactor_history
+    - offshore-nuclear-plants
+    - weinberg
+    - peace_and_war
+    - rickover
+    - driscoll
+    - origin-of-nuclear-energy
+    - history
+
+- title: Reactors
+  pages:
+    - candu
+    - msr
+    - twr
+      #- lwr
+      #- gcr
+      #- lmfbr
+
+- title: Problems
+  pages:
     - economics
     - chernobyl-main
     - chernobyl-memories
     - fukushima
     - hanford
-    - non-proliferation
 
-- title: Reactor Tech
+- title: Reference
   pages:
-          #- lwr
-      #- gcr
-      #- lmfbr
-    - reactor_history
-    - fast-reactor
-    - msr
-    - thorium
-    - thorium-myths
-    - candu
-    - twr
-    - fusion
-
-- title: Details
-  pages:
-    - decay-heat
-    - math-behind-radioactive-decay
-    - moderation
-    - isotopes
-    - dose
-    - risk
-    - fuel-cycle
+    - nuclear-reading-list
     - energy-density
+    - geology
+    - math-behind-radioactive-decay
+    - primer-on-energy
+    - energy-flow
+    - risk
+    - links
+
+- title: Corrections
+  pages:
+    - nuclear-sustainability
+    - thorium-myths
+    - sodium-vs-salt
+    - greenpeace-radiocarbon-wrong
+    - fukushima-fish
+    - one-hundred-percent-renewables
+    - defending-pandoras-promise
+    
+
+- title: Fun
+  pages:
+    - radiation-on-flights
+    - quotes
+    - random
+    - bingo
     - barn-jams
+    - renaming-nuclear
+
+- title: More!
+  pages:
+    - nuclear-engineer-people
+    - fuel-cycle
     - power-basics
     - factoids
     - phev
     - solar-power
     - scale
     - scale-with-batteries
-    - energy-flow
-    - origin-of-nuclear-energy
+    - nuclear-sermon
+    - chengxu-to-obama
 
-- title: More
+- title: About
   pages:
     - about
-    - quotes
-    - nuclear-reading-list
-    - links
-    - bingo
-    - random
-
+    - contact

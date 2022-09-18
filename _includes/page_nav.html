@@ -18,20 +18,20 @@ next, lets build a link to it.
     <div class="row">
       <div class="col-12-md">
           {%- if forloop.first -%}
+          {%- else -%}
             <a href="/index.html" class="btn btn-success m-2" role="button">&#10094; Front Page</a>
-            {%- else -%}
             {%- assign previous = forloop.index0 | minus: 1 -%}
             {%- assign previous_page = pages[previous] | prepend:"/" | append:".html" -%}
             <a href="{{ previous_page }}" class="btn btn-success m-2" role="button">&#10094; Back</a>
-            {%- endif -%}
+          {%- endif -%}
           
-            {%- if forloop.last -%}
+          {%- if forloop.last -%}
             <button type="button" class="btn btn-success m-2 disabled">Next &#10095;</button>
-            {%- else -%}
+          {%- else -%}
             {%- assign next = forloop.index0 | plus: 1 -%}
             {%- assign next_page = pages[next] | prepend:"/" | append:".html" -%}
             <a href="{{ next_page  }}" class="btn btn-success m-2" role="button">Next &#10095;</a>
-            {%- endif -%}
+          {%- endif -%}
       </div>
     </div>
     <div class="clear"></div>

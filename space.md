@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Nuclear energy in Space!"
+title: "What is nuclear space technology?"
 description: Nuclear technology has great uses in space.
 byline: true
 author: nick

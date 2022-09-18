@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What are isotopes?
+title: What is an isotope?
 category: issues
 description: To understand nuclear issues, you must have a basic understanding of what exactly an isotope is. This page describes what isotopes are and why they are important.
 author: nick
@@ -10,10 +10,7 @@ author: nick
 <div class="col-md-8" markdown="1">
 
 
-Having a basic understanding of isotopes and nuclides is vital to understanding many aspects of
-nuclear energy. Here we present a quick and simple review (or preview!) of science class. 
 
-## Isotopes
 Elements are your basic chemical building blocks. They include things like hydrogen, oxygen, sodium,
 magnesium, iron, titanium..., anything on the periodic table of the elements. Each element on the
 periodic table has a different number of protons in its atomic nucleus (its dense center). Each

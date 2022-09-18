@@ -36,7 +36,7 @@ other form of fuel, providing many economic benefits:
 * Very small waste footprint (whereas fossil fuel plants discharge their waste to the air, nuclear
   plants contain all their lifetime waste in dry casks).
 * Very small land footprint
-* [Billion-year sustainability]({% post_url 2020-10-28-nuclear-energy-is-longterm-sustainable %})
+* [Billion-year sustainability]({% link nuclear-sustainability.md %})
 
 Thus, nuclear plants have positive long-term attributes as energy systems, but they
 require significant up-front capital cost. Unfortunately, modern economic analysis
@@ -493,8 +493,7 @@ src="/img/ops-shielding.jpg"  alt="OPS Shielding graphic "/></a>
 </div>
 
 <div class="alert alert-success" markdown="1">
-<b>Update</b>: There's now [a full page on OPS]({% post_url
-2020-01-26-offshore-power-systems %}).
+<b>Update</b>: There's now [a full page on OPS]({% link offshore-nuclear-plants.md %}).
 </div>
 
 This sounds crazy at first, but on second glance it actually is an incredible idea. From a

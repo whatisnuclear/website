@@ -13,7 +13,6 @@ byline: true
 <div class="col-md-8" markdown="1">
 
 <a name="dose"></a>
-## What is radiation dose?
 Radiation dose is a measurement of how much energy is deposited into a material from a source of 
 radiation (see <a href="{% link radioactivity.md %}">what is radiation</a>). It is measured in 
 units called rads. Dose gives a physical explanation of energy deposited in mass but does not 

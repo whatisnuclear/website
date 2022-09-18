@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Traveling Wave Reactors
+title: Traveling wave reactors
 description: Learn about Traveling Wave Reactors
 author: nick
 byline: true

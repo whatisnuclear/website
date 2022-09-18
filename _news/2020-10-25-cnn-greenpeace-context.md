@@ -10,7 +10,7 @@ excerpt: The total inventory of C-14 in the Fukushima tanks is made by cosmic ra
 
 # Contextualizing the record
 
-We added a [new blog post]({% post_url 2020-10-25-greenpeace-mistaken-on-radiocarbon-impact %}) adding context
+We added a [new blog post]({% link greenpeace-radiocarbon-wrong.md  %}) adding context
 to the Carbon-14 in Fukushima water.
 
 </div></div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greenpeace, CNN, The Hill miss context on radiocarbon release
+shorttitle: Greenpeace misleads
 category: blog
 description: > 
     CNN's headline based on Greenpeace's claim that releases of radiocarbon (C-14) could "Alter Human

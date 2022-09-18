@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is Nuclear Engineering?
+title: What is nuclear engineering?
 category: industry
 description: What do nuclear engineers do? This page discusses a few of the careers in the field, including nuclear energy, medical physics, plasma science, radiation detection, and nuclear materials, with extra detail on the nuclear energy side.
 author: nick

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nuclear Propulsion
+title: What is nuclear propulsion?
 description: Learn about how we use nuclear energy to propel ships
 author: nick
 date: 2018-02-17
@@ -120,7 +120,7 @@ charged by nearby nuclear power plants.
 * [Fast attacks & Boomers](http://americanhistory.si.edu/subs/operating/propulsion/reactor/index.html#) (Smithsonian)
 * [Submarine Power & Propulsion](http://americanhistory.si.edu/subs/operating/propulsion/index.html) (Smithsonian)
 * [Nuclear Marine Propulsion](https://en.wikipedia.org/wiki/Nuclear_marine_propulsion) (Wikipedia)
-* [Offshore nuclear power plants]({% post_url 2020-01-26-offshore-power-systems %}) ---
+* [Offshore nuclear power plants]({% link offshore-nuclear-plants.md %}) ---
   the idea of building central power plants at sea rather than using them for marine
 propulsion
 

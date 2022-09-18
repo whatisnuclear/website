@@ -5,11 +5,10 @@ description: A generator of innovative nuclear reactor ideas
 author: nick
 toc: true
 date: 2020-02-28
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-
-# {{ page.title }}
 
 Our [random reactor generator](./random) gives you a random reactor idea. It uses a few
 acronyms. This page explains them. 

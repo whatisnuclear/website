@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is Radioactivity?
+title: What is radioactivity?
 category: physics
 description: Learn what radiation is and what various forms it comes in.
 author: nick
@@ -47,8 +47,8 @@ related to nuclear energy.
 # Analogy between radiation and heat
 Radiation is a lot like heat, except you can't feel it or see if there's a fire.
 As everything around us is naturally a little bit warm, the world is also a little bit
-radioactive. Cosmic rays [rain down from outer space 24/7]({% post_url
-2014-05-17-radiation-on-flights %}). Radon gas has bubbled out of
+radioactive. Cosmic rays [rain down from outer space 24/7]({% link
+radiation-on-flights.md %}). Radon gas has bubbled out of
 rocks for billions of years. The heat inside the earth is about [50% due to radioactive
 decay of primordial uranium and
 thorium](https://en.wikipedia.org/wiki/Earth%27s_internal_heat_budget).
@@ -163,7 +163,7 @@ you check your house for radon gas.
 Cosmic rays are energetic particles that originate outside of earth, in the sun, distant stars, 
 galaxies, and supernovae. Most of these are protons. The atmosphere shields us from most 
 cosmic rays, but during air travel, one will accumulate much higher dose. Don't 
-believe it? Check out our [Radiation on Flights]({% post_url 2014-05-17-radiation-on-flights %}) page.
+believe it? Check out our [Radiation on Flights]({% link radiation-on-flights.md %}) page.
 
 # Video of radiation detection
 <a href="{% link radiation-video.md %}"><img src="/img/nim_bin.jpg" alt="A NIM-bin." title="A NIM-bin." /></a>

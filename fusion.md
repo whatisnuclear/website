@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nuclear Fusion
+title: What is nuclear fusion?
 description: Nuclear fusion powers the sun and all the stars. It is the process that forged everything heavier than Hydrogen. Long considered a holy grail energy source, it is being pursued worldwide.
 author: nick
 date: 2018-02-04

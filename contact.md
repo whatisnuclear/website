@@ -7,8 +7,6 @@ author: nick
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-# Contact us
-
 We welcome messages from our readers and will try to respond to any questions
 for feedback you have. Your personal information will not be used for anything
 except replying to you. 
@@ -17,7 +15,7 @@ except replying to you.
 <span class="badge bg-danger ">GMail alert</span>
 </strong>Gmail tends to classify our replies as spam despite our many efforts to
 legitimize our email server. Check your spam folder if you don&rsquo;t hear back
-from us. Or add whatisnuclear.com to your approved domains in advance.
+from us. Or add <span class="font-monospace">whatisnuclear.com</span> to your approved domains in advance.
 </div>
 </div>
 </div>

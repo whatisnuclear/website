@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Offshore nuclear power plants"
+subtitle: That time we almost built 8 GW-scale floating reactors
 
 category: blog
 description: In the 1970s, Westinghouse and Newport News formed a joint venture called Offshore Power Systems to mass produce floating nuclear power plants. Vast environmental and design studies were done, the facility was constructed, and 8 full-scale gigawatt-class PWRs were authorized for production.

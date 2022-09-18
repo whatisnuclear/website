@@ -5,6 +5,7 @@ category: blog
 description: Letter to Obama from Cheng Xu
 author: cheng
 byline: true
+date: 20108-12-20
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
