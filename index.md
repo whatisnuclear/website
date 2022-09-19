@@ -15,7 +15,7 @@ description: >
 
 
 <img  src="/img/reactor_200.png" class="img-fluid w-25 rounded float-end" alt="A nuclear reactor"/>
-In the late 1930s, we discovered that of some particularly large atoms found in
+In the late 1930s, we discovered that some particularly large atoms found in
 nature can be split into two (or *fission*), releasing a shocking amount of
 energy in the form of heat. Because the energy emerges from the atomic nucleus,
 we call it *nuclear energy*.
@@ -296,7 +296,7 @@ in bringing costs down.
 </div>
 
 ## A nuanced reality
-Nuclera fission's ability to responsibly produce global-scale, 24/7, (nearly)
+Nuclear fission's ability to responsibly produce global-scale, 24/7, (nearly)
 carbon-free energy is unmatched among known technologies.  
 
 Next-generation reactor designs exist that can further reduce waste, improve
