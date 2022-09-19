@@ -170,7 +170,7 @@ for supplying our energy while alleviating these struggles.
  Of course nothing's perfect. Long-standing questions and concerns abound
  regarding nuclear energy. Click for details.
 
-<div class="accordion" id="accordion">
+<div class="accordion" id="accordion2">
   <div class="accordion-item">
     <h2 class="accordion-header card-header" id="headingWOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWOne" aria-expanded="false" aria-controls="collapseWOne">
@@ -368,6 +368,8 @@ the Chernobyl accident by a mother and father</a> of one of our contributors, wh
   <figcaption class="blockquote-footer">
 Girl in Ann Arbor, MI
   </figcaption>
+</figure>
+<figure class="text-start">
   <blockquote class="blockquote">
 <p>&quot;I second that.&quot;</p>
   </blockquote>
