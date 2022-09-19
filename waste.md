@@ -451,10 +451,11 @@ ORIGEN-S from Oak Ridge by whatisnuclear.com.
 </div>
 
 <table class="table table-striped">
-<figcaption class="figure-caption"><strong>Table 1.</strong> Heavy metal composition of 4.2% enriched
+<caption><strong>Table 1.</strong> Heavy metal composition of 4.2% enriched
 nuclear fuel before and after running for about 3 years (40,000 MWd/MT). Minor
 actinides include neptunium, americium, and curium. This table does not include
-structural material such as zirconium and stainless steel.</figcaption> <tr><th
+structural material such as zirconium and stainless steel.</caption> 
+<tr><th
 ></th><th  >Charge</th><th >Discharge</th></tr>
 <tr><th>Uranium</th><td>100%</td><td>93.4%</td></tr> 
 <tr><th>Enrichment</th><td>4.20%</td><td>0.71%</td></tr> 
