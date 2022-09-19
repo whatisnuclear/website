@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Notes on *Atoms for Peace and War*
+title: Notes on <em>Atoms for Peace and War</em>
 category: blog
 description: Notes from reading the official Atomic Energy Commission's history from 1953 to 1961.
 author: nick

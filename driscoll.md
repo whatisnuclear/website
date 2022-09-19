@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to Kill Nuclear Power With Good Intentions --- A Primer
+title: How to Kill Nuclear Power With Good Intentions &mdash; A Primer
 category: blog
 description: > 
     We are all familiar with the arguments and tactics of the avowed opponents to nuclear
