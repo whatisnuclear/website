@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: What is nuclear energy?
 description: >
@@ -13,18 +10,17 @@ description: >
 <div class="row mt-3">
 <div class="col-md-8" markdown="1">
 
-
 <img  src="/img/reactor_200.png" class="img-fluid w-25 rounded float-end" alt="A nuclear reactor"/>
 In the late 1930s, we discovered that some particularly large atoms found in
 nature can be split into two (or *fission*), releasing a shocking amount of
-energy in the form of heat. Because the energy emerges from the atomic nucleus,
+energy as heat. Because the energy emerges from the atomic nucleus,
 we call it *nuclear energy*.
 
 When these atoms are arranged properly in a machine called a nuclear reactor,
 each splitting nucleus can induce its neighbors to split in turn, creating a
 controlled chain reaction.  Reactors can convert the released nuclear heat into
-electricity, shaft horsepower (for marine propulsion, etc.), building heating,
-desalinated water, hydrogen, and/or many other things useful to human
+electricity, shaft horsepower (to power ships), building heating,
+desalinated water, hydrogen, and many other things useful to human
 civilization.
 
 Today, about 430 commercial nuclear power plants worldwide produce around 400 GW
@@ -48,14 +44,14 @@ geographically, but nuclear is generally among the least popular forms of energy
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree">
       <div class="accordion-body">
-        Because nuclear fuel contains millions of times more energy per mass than anything else, it's
+        Because nuclear fuel contains millions of times more energy per mass than anything else, it is
         possible to keep all the byproducts accounted for and out of the biosphere, in strong
         contrast to fossil and biofuels which release much of their combustion wastes into the
         air, causing severe health and environmental problems.
 
 The following table shows how long a 100 Watt
 light bulb could run from using 1 kg of various fuels. The natural uranium undergoes nuclear fission
-and thus attains very high energy density (energy stored in a unit of mass).
+and thus attains extremely high energy density (energy stored in a unit of mass).
 
 <table class="table table-striped">
 <tr><th>Material</th><th >Energy Density (MJ/kg)</th><th >100W light bulb time (1kg)</th></tr>
@@ -196,7 +192,7 @@ what should be done with this high-level nuclear waste.
   geologic disposal in salt deposits that have been stable for 250 million years. Research in deep borehole technology is
   also looking promising. Finally, if we close the fuel cycle and [recycle spent fuel]({% link recycling.md %}), then it
   decays to safe levels in several hundred years rather than hundreds of thousands.
-  Furthermore, despite the fear, very few people, if any, have ever been injured by stored
+  Furthermore, despite the fear, few people, if any, have ever been injured by stored
   commercial nuclear waste.
 </p>
 
@@ -229,8 +225,8 @@ material. So, people worry about reactor safety.
 Nuclear energy has actually *saved* over 1.8 million lives by displacing air-pollution
 related deaths that would have occurred had fossil or biofuel plants been built instead of
 the clean-air nuclear ones [2]. This includes the health effects of the nuclear accidents.
-So they're like airplanes; when one goes down, it's a major disaster and huge story, but
-when you [look at the data](https://ourworldindata.org/safest-sources-of-energy), it's
+So they're like airplanes; when one goes down, it is a major disaster and huge story, but
+when you [look at the data](https://ourworldindata.org/safest-sources-of-energy), it is
 clear that nuclear reactors are one of the safest ways known to produce energy.
 And advanced designs can make them even safer.
       </p>
@@ -249,7 +245,7 @@ And advanced designs can make them even safer.
       <div class="accordion-body">
 <p class="card-text" markdown="1">
 The [first application of fission]({% link history.md %}) was as an atomic bomb. While nuclear reactors and atomic
-bombs are *very* different machines, there is some technology overlap, especially in fuel
+bombs are *significantly* different machines, there is some technology overlap, especially in fuel
 cycle facilities like enrichment and reprocessing plants. So, some people argue that
 having reactors around might make it easier to spread nuclear weapons.
 </p>
@@ -282,7 +278,7 @@ built, the fuel and operating costs are relatively cheap, but the capital cost i
 <h5 class="card-title">Cost Solutions</h5>
 <p class="card-text" markdown="1">
 If carbon dioxide is ever treated as a pollutant, then nuclear reactors will become much more competitive. 
-But there's definitely room to improve! Research is ongoing in many venues to reduce the cost of nuclear 
+But there is definitely room to improve! Research is ongoing in many venues to reduce the cost of nuclear 
 reactors. Countries that chose a standard design and built many of the same have succeeded
 in bringing costs down. 
 </p>

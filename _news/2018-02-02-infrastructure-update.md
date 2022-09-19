@@ -4,12 +4,10 @@ title: Some updates to whatisnuclear.com
 category: blog
 description: Learn about the latest changes behind the scenes here related to Jekyll and github.
 author: nick
+byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
-
-# Changes behind the scenes with Jekyll and github (meta-post) 
-##### 2018-02-02
 
 ### Old content revival 
 We revived some of the older content
