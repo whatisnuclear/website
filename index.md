@@ -37,7 +37,7 @@ geographically, but nuclear is generally among the least popular forms of energy
 
 ### Why are some people so excited about nuclear energy?
 
-**Click on each of the heading** to read more and find links to additional details.
+**Click on each of the headings** for more details.
 
 <div class="accordion" id="accordion">
   <div class="accordion-item">
