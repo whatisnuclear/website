@@ -1,4 +1,4 @@
-- title: What is...?
+- title: What is
   pages:
     - index
     - reactors
@@ -58,7 +58,7 @@
     - risk
     - links
 
-- title: Corrections
+- title: Clarifications
   pages:
     - nuclear-sustainability
     - thorium-myths

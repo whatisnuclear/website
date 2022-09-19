@@ -36,7 +36,7 @@ src="/img/half-life.png" alt="Graph of atoms vs. time for different half-lives"/
 <div class="caption">An illustration of decay vs. various half-lives</div>
 </div>
 
-As it applies to <a href="{% link nuclear-energy.md %}">nuclear energy</a>, many materials
+As it applies to nuclear energy, many materials
 created during the operation of a <a href="{% link reactors.md %}">reactor</a> are
 radioactive. As they decay, they emit radiation. The energy carried by this radiation is
 often sufficient to cause damage to biological cells and is therefore a health risk. Thus,
