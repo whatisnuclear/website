@@ -42,9 +42,9 @@ of nuclear waste is the leftover smaller nuclei, known as fission products.
 <img class="img-fluid" src="/img/fission-chain-reaction-plainsvg.svg" width="900"
 alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission products and
 3 neutrons."/></a>
-<caption>The fission process of a single atomic
+<figcaption class="figure-caption">The fission process of a single atomic
 nucleus. Note that Krypton and Cesium are two possible fission products, but
-many other pairs of elements also occur.</caption>
+many other pairs of elements also occur.</figcaption>
 </figure>
 
 From the outside, nuclear waste looks exactly like the fuel that was loaded into the
@@ -60,10 +60,10 @@ billions of atoms split. You basically get a huge variety of elements, shown bel
 <figure>
 <img class="img-fluid" src="/img/blank.png" data-echo="/img/fission-product-yields-u235-thermal-endf71-900.png"
 alt="A periodic table of the elements highlighting the ones that can emerge as fission
-products."/> <caption>The fission products include radioactive <a href="{% link
+products."/> <figcaption class="figure-caption">The fission products include radioactive <a href="{% link
 isotopes.md %}">isotopes</a> of the elements shown here. Color is proportional to the log
 of the probability they will show up (U-235 thermal fission from ENDF/VII.1).
-</caption>
+</figcaption>
 </figure>
 
 Nuclear fuel loaded into commercial reactors is generally in the form of solid
@@ -78,10 +78,10 @@ basically has the consistency of a teacup. Commercial nuclear waste is not green
 <a href="/img/uranium-pellet-lg.jpg">
 <img class="img-fluid" src="/img/uranium-pellet-sm.jpg"
 alt="A nuclear fuel pellet before being put in a reactor"/></a>
-<caption>This is what nuclear fuel looks like before it is used. Before the atoms split,
+<figcaption class="figure-caption">This is what nuclear fuel looks like before it is used. Before the atoms split,
 it is only slightly radioactive and can be handled with a glove. After fission occurs, it
 is hazardously radioactive and cannot be handled without shielding. (<a
-href="https://www.flickr.com/photos/nrcgov/15420174614">NRC photo</a>)</caption>
+href="https://www.flickr.com/photos/nrcgov/15420174614">NRC photo</a>)</figcaption>
 </figure>
 
 <div class="alert alert-success" role="alert" markdown="1">
@@ -104,12 +104,14 @@ src="/img/blank.png"
 data-echo="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
 class="img img-fluid center-block" ></a>  
 
-<caption markdown="1">How much energy comes out [via different mechanisms]({% link
+<figcaption class="figure-caption" markdown="1">
+How much energy comes out [via different mechanisms]({% link
 radioactivity.md%}#types-of-nuclear-radiation) after you fission 1 kg of Uranium-235. This
 much fission is typical of one day of operation of a large gigawatt-scale power plant,
 powering a city of about 1 million people. Note that in the long term, energy from the
 alpha-decay of materials heavier than uranium produce the majority of the heat rather than
-fission (not shown).</caption>
+fission (not shown).
+</figcaption>
 </figure>
 
 These delayed energetic emissions mean that nuclear waste is highly [radioactive]({% link
@@ -124,12 +126,12 @@ moment. Still, it does not transform from hazardous to benign for thousands of y
 <a href="/img/ingestion-radiotoxicity-nuclear-waste.png"><img
 src="/img/ingestion-radiotoxicity-nuclear-waste.png" alt="Graph showing radiotoxicity of
 nuclear waste decaying over time" class="img img-fluid center-block"></a>
-<caption>How dangerous nuclear waste is to eat as a function of time compared to eating
+<figcaption class="figure-caption">How dangerous nuclear waste is to eat as a function of time compared to eating
 natural uranium ore (dotted line). The various curves show that the toxicity decreases
 faster if you recycle the waste and burn the very long-lived radionuclides as
 fuel. (From <a
 href="https://www.researchgate.net/publication/252069412_Impact_Limits_of_Partitioning_and_Transmutation_Scenarios_on_Radiotoxicity_of_Actinides_in_Radioactive_Waste">Magil
-2003</a>)</caption> 
+2003</a>)</figcaption> 
 </figure>
 
 The nuclear waste question fundamentally asks whether or not humanity can prevent this
@@ -160,9 +162,9 @@ Don't miss [this great XKCD "what if" scenario](https://what-if.xkcd.com/29/) as
 <a href="/img/spent-fuel-pool.jpg">
 <img class="img-fluid" src="/img/blank.png" data-echo="/img/spent-fuel-pool-sm.jpg" alt="A spent fuel pool"/>
 </a>
-<caption>The spent fuel pool at a nuclear power plant. <a
+<figcaption class="figure-caption">The spent fuel pool at a nuclear power plant. <a
 href="https://www.flickr.com/photos/nrcgov/14698776453/">Photo by the NRC</a>
-</caption>
+</figcaption>
 </figure>
 
 After cooling in the spent fuel pools, nuclear waste is either recycled (France) or moved
@@ -174,21 +176,21 @@ several spent fuel assemblies each.
 <a href="/img/dry-casks.jpg">
 <img class="img-fluid" src="/img/dry-casks-sm.jpg" alt="Dry cask nuclear fuel storage"/>
 </a>
-<caption>Nuclear waste in a dry cask storage facility. <a
+<figcaption class="figure-caption">Nuclear waste in a dry cask storage facility. <a
 href="https://www.flickr.com/photos/nrcgov/36801710635/">Photo by the NRC</a>
-</caption>
+</figcaption>
 </figure>
 -->
 <figure>
 <a href="/img/paris-at-dry-cask.jpg">
 <img class="img-fluid" src="/img/blank.png" data-echo="/img/paris-at-dry-cask.jpg" alt="Dry cask nuclear fuel storage"/>
 </a>
-<caption>Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
+<figcaption class="figure-caption">Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
 Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: <a
 href="https://twitter.com/ParisOrtizWines/status/1195184970613936129/photo/1">Paris
 Ortiz-Wines</a>, Director of Outreach at <a
 href="https://twitter.com/envprogress">Environmental Progress</a>
-</caption>
+</figcaption>
 </figure>
 
 The following video shows a world-expert in nuclear waste walking amongst the spent fuel
@@ -249,9 +251,9 @@ project suffered what can only be called a political death.
 <img class="img-fluid" src="/img/blank.png" data-echo="/img/yucca-nrc-sm.jpg" alt="Yucca Mountain nuclear waste
 repository"/>
 </a>
-<caption>Yucca Mountain nuclear waste repository under construction <a
+<figcaption class="figure-caption">Yucca Mountain nuclear waste repository under construction <a
 href="https://www.flickr.com/photos/nrcgov/14492221880">Photo by the NRC</a>
-</caption>
+</figcaption>
 </figure>
 
 The US does have an operational nuclear waste repository in a massive salt formation in
@@ -263,9 +265,9 @@ nuclear waste rather than civilian, but many of the challenges are related.
 <img class="img-fluid" src="/img/blank.png" data-echo="/img/wipp-nrc-sm.jpg" alt="WIPP nuclear waste
 repository"/>
 </a>
-<caption>Waste Isolation Pilot Plant (WIPP) salt getting cleared <a
+<figcaption class="figure-caption">Waste Isolation Pilot Plant (WIPP) salt getting cleared <a
 href="https://www.flickr.com/photos/departmentofenergy/7604695116">Photo by the DOE</a>
-</caption>
+</figcaption>
 </figure>
 
 Finland is currently the world leader in long-term commercial nuclear waste disposal
@@ -296,9 +298,9 @@ biosphere for extra time.
 <a href="/img/deep-borehole.jpg">
 <img class="img-fluid" src="/img/blank.png" data-echo="/img/deep-borehole.jpg" alt="A deep borehole"/>
 </a>
-<caption>A deep borehole <a
+<figcaption class="figure-caption">A deep borehole <a
 href="https://www.osti.gov/servlets/purl/1420819">Courtesy of DOE</a>
-</caption>
+</figcaption>
 </figure>
 
 The US DOE planned a Deep Borehole Field Test to better understand the science of this
@@ -440,7 +442,7 @@ the **fission products**. The decay of each nuclide vs. time is shown below.
 
 <div class="thumbnail">
 <a href="/img/waste-curies-long.gif"><img src="/img/blank.png" data-echo="/img/waste-curies-long-small.gif" alt="Components of decay heat vs. time"></a>
-<div class="caption">
+<div class="figcaption">
 A chart of the activity of all the radioactive
 nuclides as a function of time up to 1 million years from 1 MT of nuclear
 waste, burned to 45 MWd/kg. Click for a larger view. Data was computed with
@@ -449,10 +451,10 @@ ORIGEN-S from Oak Ridge by whatisnuclear.com.
 </div>
 
 <table class="table table-striped">
-<caption><strong>Table 1.</strong> Heavy metal composition of 4.2% enriched
+<figcaption class="figure-caption"><strong>Table 1.</strong> Heavy metal composition of 4.2% enriched
 nuclear fuel before and after running for about 3 years (40,000 MWd/MT). Minor
 actinides include neptunium, americium, and curium. This table does not include
-structural material such as zirconium and stainless steel.</caption> <tr><th
+structural material such as zirconium and stainless steel.</figcaption> <tr><th
 ></th><th  >Charge</th><th >Discharge</th></tr>
 <tr><th>Uranium</th><td>100%</td><td>93.4%</td></tr> 
 <tr><th>Enrichment</th><td>4.20%</td><td>0.71%</td></tr> 
