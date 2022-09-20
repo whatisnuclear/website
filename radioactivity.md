@@ -30,11 +30,11 @@ released their energy. For example, if you start with 100 radioactive atoms with
 minute, 50 of them will have emitted their energy after 1 minute. After 2 minutes, there
 will be 25 left, and so on. 
 
-<div class="thumbnail" style="max-width:500px;">
-<a href="/img/half-life.png"><img class="img-fluid"
-src="/img/half-life.png" alt="Graph of atoms vs. time for different half-lives"/></a>
-<div class="caption">An illustration of decay vs. various half-lives</div>
-</div>
+<figure class="figure">
+<a href="/img/half-life.svg"><img class="img-fluid figure-img rounded"
+src="/img/half-life.svg" alt="Graph of atoms vs. time for different half-lives"/></a>
+<figcaption class="figure-caption">An illustration of decay vs. various half-lives</figcaption>
+</figure>
 
 As it applies to nuclear energy, many materials
 created during the operation of a <a href="{% link reactors.md %}">reactor</a> are
