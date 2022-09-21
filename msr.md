@@ -29,6 +29,8 @@ use Th at all.  And there are chloride salt based fast MSRs that are usually stu
 [nuclear waste]({% link waste.md %}) burners due to their extraordinary amount of very
 fast neutrons.
 
+</div>
+<div class="col-md-4" markdown="1"> 
 
 <div class="card border-success mb-3" >
   <div class="card-header text-success">On this page</div>
@@ -41,9 +43,15 @@ fast neutrons.
 <li><a href="{% link msr.md %}#ongoing">Ongoing work with MSRs</a></li>
 <li><a href="{% link msr.md %}#see_also">See also</a></li>
 </ul>
+
 </div>
 </div>
 
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-8" markdown="1"> 
 
 
 <h2 id="benefits">Benefits of Molten Salt Reactors</h2>
