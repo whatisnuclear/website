@@ -37,8 +37,12 @@ Up and coming nuclear reactor powerhouses China and India both have substantial 
 Thorium-bearing minerals and not as much Uranium. So, expect this energy source to become a big deal
 in the not-too-distant future...
 
-<span class="badge bg-danger">Hype alert</span> &nbsp; If someone on the internet told you something unbelievable about Thorium, you might want to check out our <a href="{% link thorium-myths.md %}">Thorium Myths page</a> just to double check it.
 
+</div>
+<div class="col-md-4" markdown="1">
+<span class="badge bg-danger">Hype alert</span> &nbsp; If someone on the internet told you
+something unbelievable about Thorium, you might want to check out our <a href="{% link
+thorium-myths.md %}">Thorium Myths page</a> just to double check it.
 
 #### On this page
 
@@ -47,6 +51,11 @@ in the not-too-distant future...
 * <a href="#prolif">What about making bombs?</a>
 * <a href="#lftr">Liquid Fluoride Thorium Reactors</a>
 * <a href="#refs">See also</a>
+
+</div>
+</div>
+<div class="row">
+<div class="col-md-8" markdown="1">
 
 <h2 id="benefits">What are the key benefits of Thorium?</h2>
 
