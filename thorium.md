@@ -5,6 +5,8 @@ category: physics
 description: A discussion of the Thorium nuclear fuel cycle for nuclear reactors. How is it different from Uranium? What's so good about it? What are its downsides?
 author: nick
 byline: true
+date: 2012-02-19
+updated: 2019-12-19
 image: /img/Thor.jpg
 ---
 
