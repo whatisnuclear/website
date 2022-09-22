@@ -134,20 +134,20 @@
       description: >
         A graduate-level classic textbook describing the physical concepts and
         mathematical methods used to predict the behavior of neutrons in nuclear reactors.
-      urls: https://www.osti.gov/biblio/4074688-nuclear-reactor-theory
+      url: https://www.osti.gov/biblio/4074688-nuclear-reactor-theory
     - author: M. A. Schultz.
       title: Control of nuclear reactors and power plants
       free: true
       date: 1961
       description: >
         An excellent and detailed textbook about how to control a chain reacting nuclear power plant
-      urls: https://catalog.hathitrust.org/Record/001619690
+      url: https://catalog.hathitrust.org/Record/001619690
     - author: Joseph A. Thie
       title: Reactor Noise
       free: true
       description: >
         An AEC monograph describing noise analysis in nuclear reactors
-      urls: https://babel.hathitrust.org/cgi/pt?id=uc1.b4118397&view=1up&seq=7
+      url: https://babel.hathitrust.org/cgi/pt?id=uc1.b4118397&view=1up&seq=7
     - author: Thomas J. Dolan (editor)
       title: Molten Salt Reactors and Thorium Energy
       free: false
