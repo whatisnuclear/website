@@ -108,8 +108,17 @@
 
 
 - category: Textbooks
-  description: Oldies but goodies.
+  description: Some new, some oldies but goodies.
   items:
+    - author: DOE Fundamentals
+      title: NUCLEAR PHYSICS AND REACTOR THEORY Vol 1 of 2
+      description: >
+        The Nuclear Physics and Reactor Theory Handbook was developed to assist nuclear facility
+        operating contractors in providing, operators, maintenance personnel, and the technical
+        staff with the necessary fundamentals training to ensure a basic understanding of nuclear
+        physics and reactor theory.
+      url: https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1
+      free: true
     - author: Lamarsh 
       title: Introduction to Nuclear Reactor Theory
       description: >
