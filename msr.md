@@ -11,9 +11,9 @@ image: /img/are.jpg
 <div class="col-md-8" markdown="1"> 
 
 <figure class="float-end w-50"> <a
-href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img class="img-fluid img-thumbnail rounded"
-src="/img/msr.png" alt="Molten salt reactor schematic from GenIV" title="Molten salt reactor schematic
-from GenIV" /></a>
+href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img
+class="img-fluid img-thumbnail rounded" src="/img/Molten_Salt_Reactor.svg" alt="Molten
+salt reactor schematic from GenIV" title="Molten salt reactor schematic from GenIV" /></a>
 </figure>
 
 Molten Salt Reactors (MSRs) are nuclear reactors that use a fluid fuel in the form of very
