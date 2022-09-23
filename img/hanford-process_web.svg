@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="187.42mm" height="35.171mm" version="1.1" viewBox="0 0 187.42 35.171" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="g" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="f" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="e" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="a" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="d" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="c" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="b" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g transform="translate(-19.672 -107.22)">
+  <g transform="translate(0 2.5124)" fill="#999" stroke="#000">
+   <rect x="42.976" y="111.43" width="10.204" height="6.9551" stroke-width=".30366"/>
+   <path transform="matrix(.26458 0 0 .26458 0 87)" d="m212.44 86.156a10.427 9.2371 0 0 0-10.428 9.2363 10.427 9.2371 0 0 0 0.1543 1.5781v21.564h20.854v-23.1h-0.1543a10.427 9.2371 0 0 0 2e-3 -0.04297 10.427 9.2371 0 0 0-10.428-9.2363z" stroke-width="1.2896"/>
+  </g>
+  <text x="50.848934" y="130.66484" fill="#000000" font-family="Sans" font-size="4.2333px" stroke-width=".14821px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0%" xml:space="preserve"><tspan x="50.848934" y="130.66484" fill="#000000" font-family="Sans" font-size="4.2333px" stroke-width=".14821px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">Production</tspan><tspan x="50.848934" y="133.31067"/><tspan x="50.848934" y="133.31067"/><tspan x="50.848934" y="135.9565" fill="#000000" font-family="Sans" font-size="4.2333px" stroke-width=".14821px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">Reactor</tspan></text>
+  <flowRoot transform="matrix(.14821 0 0 .14821 45.187 95.54)" fill="#000000" font-family="Sans" font-size="28.563px" letter-spacing="0px" stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:92.7%" xml:space="preserve"><flowRegion fill="#000000" font-family="Sans" font-size="28.563px" stroke-width="1px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><rect x="65.054" y="220.94" width="301.23" height="59.397" fill="#000" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/></flowRegion><flowPara>Irradiated </flowPara><flowPara>fuel</flowPara></flowRoot>
+  <g transform="translate(.39442 2.1954)" fill="#1a1a1a" fill-rule="evenodd">
+   <g transform="matrix(.40161 0 0 .40161 -.92118 64.193)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <g transform="matrix(.40161 0 0 .40161 -2.8747 64.193)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <g transform="matrix(.40161 0 0 .40161 -3.5123 65.439)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <g transform="matrix(.40161 0 0 .40161 -1.5587 65.439)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <g transform="matrix(.40161 0 0 .40161 -1.9838 66.772)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <g transform="matrix(.40161 0 0 .40161 1.0324 64.193)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <g transform="matrix(.40161 0 0 .40161 .39483 65.439)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <g transform="matrix(.40161 0 0 .40161 -.030214 66.772)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <g transform="matrix(.40161 0 0 .40161 -3.9373 66.772)">
+    <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+    <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+    <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+    <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+  </g>
+  <flowRoot transform="matrix(.26458 0 0 .26458 0 87)" fill="#000000" font-family="Sans" font-size="40px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:92.7%" xml:space="preserve"><flowRegion><rect x="53.5" y="203.2" width="77" height="55.5"/></flowRegion><flowPara>Fresh fuel</flowPara></flowRoot>
+  <flowRoot transform="matrix(.14821 0 0 .14821 -3.048 95.54)" fill="#000000" font-family="Sans" font-size="28.563px" letter-spacing="0px" stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:92.7%" xml:space="preserve"><flowRegion font-family="Sans" font-size="28.563px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><rect x="65.054" y="220.94" width="255.97" height="274.36" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/></flowRegion><flowPara>Fresh </flowPara><flowPara>fuel</flowPara></flowRoot>
+  <g transform="translate(0 1.4697)">
+   <g transform="translate(-7.0288)">
+    <g transform="matrix(.40161 0 0 .40161 59.402 73.524)" fill="#ff8080" fill-rule="evenodd">
+     <g transform="translate(-3.2666 -18.208)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+     <g transform="translate(-8.1309 -18.208)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+     <g transform="translate(-9.7184 -15.106)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+     <g transform="translate(-4.8541 -15.106)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+     <g transform="translate(-5.9125 -11.785)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+     <g transform="translate(1.5977 -18.208)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+     <g transform="translate(.01017 -15.106)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+     <g transform="translate(-1.0482 -11.785)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+     <g transform="translate(-10.777 -11.785)">
+      <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+      <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+      <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+      <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+     </g>
+    </g>
+   </g>
+   <g transform="matrix(.28216 0 0 .28216 33.5 74.457)" stroke-width=".065561">
+    <path d="m178.71 125.99-3.0682 5.317c2.7929 1.6128 5.9726 1.6128 8.7655 0l-3.0682-5.317c-0.0197 0.0131-0.0393 0.0262-0.059 0.0393-0.0721 0.0393-0.15079 0.0787-0.22946 0.11145-0.0787 0.0328-0.15735 0.0656-0.24258 0.0918-0.0852 0.0262-0.1639 0.0459-0.24913 0.0656-0.0852 0.0197-0.17045 0.0328-0.26224 0.0393-0.0852 7e-3 -0.17702 0.0131-0.2688 0.0131-0.0918 0-0.17701-7e-3 -0.2688-0.0131-0.0852-7e-3 -0.17701-0.0197-0.26224-0.0393-0.0852-0.0197-0.17046-0.0393-0.24913-0.0656-0.0852-0.0262-0.1639-0.0524-0.24258-0.0918-0.0787-0.0328-0.15734-0.0721-0.22946-0.11145-0.0262-0.0131-0.0459-0.0262-0.0656-0.0393z"/>
+    <path d="m175.64 116.12c-2.7929 1.6128-4.3795 4.3664-4.3795 7.5919h6.1365c0-0.0918 7e-3 -0.18357 0.0131-0.2688 7e-3 -0.0852 0.0262-0.17701 0.0393-0.26224 0.0197-0.0852 0.0393-0.17046 0.0656-0.24913 0.0262-0.0852 0.0524-0.16391 0.0918-0.24258 0.0328-0.0787 0.0721-0.15734 0.11146-0.22946 0.0393-0.0721 0.0852-0.14424 0.13112-0.21635 0.0459-0.0721 0.0983-0.13768 0.15079-0.20324 0.0524-0.0656 0.11145-0.12457 0.17045-0.18357s0.12457-0.11801 0.19013-0.17046c0.0656-0.0524 0.13112-0.1049 0.20324-0.15079 0.0524-0.0328 0.1049-0.0656 0.15735-0.0983z"/>
+    <path d="m184.41 116.12-3.0682 5.317c0.0524 0.0328 0.1049 0.059 0.15735 0.0983 0.0721 0.0459 0.13768 0.0983 0.20324 0.15079 0.0656 0.0525 0.12457 0.11146 0.19013 0.17046 0.059 0.059 0.118 0.12456 0.17045 0.18357 0.0524 0.0656 0.1049 0.13112 0.15079 0.20324 0.0459 0.0721 0.0918 0.14423 0.13113 0.21635 0.0393 0.0721 0.0787 0.15079 0.11145 0.22946 0.0328 0.0787 0.0656 0.15735 0.0918 0.24258 0.0262 0.0852 0.0459 0.1639 0.0656 0.24913 0.0197 0.0852 0.0328 0.17045 0.0393 0.26224 7e-3 0.0852 0.0131 0.17701 0.0131 0.2688h6.1365c-0.0131-3.2256-1.5997-5.9792-4.3926-7.5919z"/>
+    <circle cx="180.02" cy="123.71" r="1.7505"/>
+   </g>
+  </g>
+  <flowRoot transform="matrix(.11799 0 0 .11799 82.516 102.22)" fill="#000000" font-family="Sans" font-size="35.878px" letter-spacing="0px" stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:92.7%" xml:space="preserve"><flowRegion fill="#000000" font-family="Sans" font-size="35.878px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><rect x="65.054" y="220.94" width="254.45" height="83.181" fill="#000" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/></flowRegion><flowPara>Melted</flowPara><flowPara>fuel</flowPara></flowRoot>
+  <text x="131.75119" y="130.25453" fill="#000000" font-family="Sans" font-size="4.2333px" stroke-width=".13377px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0%" xml:space="preserve"><tspan x="131.75119" y="130.25453" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">Plutonium </tspan><tspan x="131.75119" y="135.54619" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">Chemistry</tspan></text>
+  <g transform="matrix(.73828 0 0 .49758 6.9804 57.528)" fill-rule="evenodd" shape-rendering="auto">
+   <g transform="matrix(1.0023 0 0 .67587 -12.067 37.637)" fill="#999" stroke="#000" stroke-width=".28">
+    <path d="m205.44 112.08v14.945c-0.15358 2.2597 3.0891 3.2257 4.993 3.6341 5.2528 0.88942 11.322 1.1943 15.972-1.8064 0.89222-0.70268 0.67911-1.5763 0.74344-2.4736v-14.299h-21.708z" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+    <ellipse cx="216.3" cy="112.39" rx="10.848" ry="3.7703" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   </g>
+   <ellipse cx="204.91" cy="113.44" rx="6.173" ry="1.2386" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" solid-color="#000000" stroke="#fff" stroke-width=".28178" style="isolation:auto;mix-blend-mode:normal"/>
+  </g>
+  <g fill="none" stroke="#000">
+   <path d="m84.555 116.59h9.638" marker-end="url(#e)" stroke-width=".23006"/>
+   <path d="m61.517 116.59h9.0977" marker-end="url(#a)" stroke-width=".22351"/>
+   <path d="m32.55 116.59h7.2066" marker-end="url(#d)" stroke-width=".19893"/>
+   <path d="m140.2 116.59h8.2872" marker-end="url(#c)" stroke-width=".21332"/>
+  </g>
+  <text x="157.90901" y="130.59973" fill="#000000" font-family="Sans" font-size="4.2333px" stroke-width=".13377px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0%" xml:space="preserve"><tspan x="157.90901" y="130.59973" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">Pure</tspan><tspan x="157.90901" y="135.89139" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">Plutonium</tspan></text>
+  <path d="m166.72 116.59h7.8369" fill="none" marker-end="url(#b)" stroke="#000" stroke-width=".20745"/>
+  <g transform="matrix(.17161 0 0 .17161 134.97 -20.686)">
+   <g stroke="#333" stroke-width="1.0545px">
+    <path d="m235.6 758.42 31 1.1569 0.034 81.872-29.945-3.5389z" fill="#ccc"/>
+    <path d="m266.6 759.61 35.968 1.5312 4.6278 8.7112s-8.2388 1.6834-14.36 9.3918c7e-3 -8e-3 -26.236-19.634-26.236-19.634z" fill="#333"/>
+    <path d="m292.76 779.38s11.498 25.421 0 36.478l-26.148 25.146c0.61958-0.18747 34.402-18.763 34.402-18.763" fill="#f9f9f9"/>
+    <path d="m322.51 763.64s10.306-4.4048 23.142-4.2355c15.773-0.63332 53.305 2.4303 68.634 24.989 14.936 21.98-5.3961 38.503-6.6875 39.72-6.3155 5.9529-31.824 17.963-58.123 15.98-28.729-2.1656-55.774-22.57-56.737-23.532-0.96245-0.96246-9.5385-32.838 5.3614-42.553 3.4089-2.5133 17.843-7.8505 24.41-10.369z" fill="#333"/>
+   </g>
+   <g fill="#ccc" stroke="#333" stroke-width="1.0545px">
+    <path d="m335.96 768.05 19.634-0.67372 0.57748-2.6949-6.0635-2.5986-7.5072 0.28876-6.4485 2.5986z"/>
+    <path d="m333.07 789.13 16.651 0.38497v-4.1386l-15.881-0.48123z"/>
+    <path d="m332.2 817.43 16.651 0.57746-6.3522 2.3099 6.5447 1.3474-6.7372 1.4437-9.8171-1.0587v-1.2512l4.4273-0.28876z"/>
+   </g>
+   <path d="m409.82 779.79-1.8375 43.011" fill="none" stroke="#fff" stroke-width=".31635"/>
+   <g fill="#6c5d53">
+    <circle transform="matrix(.26949 0 0 .26949 259.83 468.28)" cx="551.16" cy="1164.6" r="3.9143" color="#000000"/>
+    <circle transform="matrix(.26949 0 0 .26949 259.11 478.66)" cx="551.16" cy="1164.6" r="3.9143" color="#000000"/>
+    <circle transform="matrix(.26949 0 0 .26949 263.33 475.12)" cx="551.16" cy="1164.6" r="3.9143" color="#000000"/>
+    <circle transform="matrix(.26949 0 0 .26949 258.7 491.12)" cx="551.16" cy="1164.6" r="3.9143" color="#000000"/>
+    <circle transform="matrix(.26949 0 0 .26949 257.95 500.58)" cx="551.16" cy="1164.6" r="3.9143" color="#000000"/>
+   </g>
+   <path transform="matrix(.26949 0 0 .26949 218.99 463.11)" d="m177.88 1316.8c-0.78056-95.323-0.88685-214.03-0.19164-214.03 1.6192 0 95.506 71.186 95.098 72.105-10.44 23.545-13.999 46.304-11.824 75.609 1.4117 19.016 6.4186 47.124 10.313 57.898 0.28964 0.8012-55.271 55.067-89.103 87.027l-3.6214 3.421z" color="#000000" fill="#333" stroke="#333" stroke-width="1.9565"/>
+  </g>
+  <text x="191.1953" y="130.25453" fill="#000000" font-family="Sans" font-size="4.2333px" stroke-width=".13377px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0%" xml:space="preserve"><tspan x="191.1953" y="130.25453" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">Nuclear </tspan><tspan x="191.1953" y="135.54619" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">weapon</tspan></text>
+  <g transform="matrix(.29136 0 0 .26637 66.899 71.733)" fill-rule="evenodd" shape-rendering="auto" stroke="#808080" stroke-width="1.0583">
+   <path transform="scale(.26458)" d="m593.18 561.8a96.247 42.497 0 0 1-0.16602 1.4609 96.247 42.497 0 0 1-1.4375 4.2012 96.247 42.497 0 0 1-2.3808 4.1152 96.247 42.497 0 0 1-3.2988 3.9902 96.247 42.497 0 0 1-4.1836 3.8262 96.247 42.497 0 0 1-5.0293 3.6211 96.247 42.497 0 0 1-5.8223 3.3809 96.247 42.497 0 0 1-6.5586 3.1094 96.247 42.497 0 0 1-7.2266 2.8027 96.247 42.497 0 0 1-7.8262 2.4707 96.247 42.497 0 0 1-8.3457 2.1133 96.247 42.497 0 0 1-8.7812 1.7363 96.247 42.497 0 0 1-9.1289 1.3379 96.247 42.497 0 0 1-9.3867 0.93164 96.247 42.497 0 0 1-9.5508 0.51172 96.247 42.497 0 0 1-6.8086 0.10546 96.247 42.497 0 0 1-9.6094-0.21093 96.247 42.497 0 0 1-9.5117-0.63477 96.247 42.497 0 0 1-9.3223-1.0508 96.247 42.497 0 0 1-9.0371-1.457 96.247 42.497 0 0 1-8.6621-1.8477 96.247 42.497 0 0 1-8.2031-2.2207 96.247 42.497 0 0 1-7.6582-2.5703 96.247 42.497 0 0 1-7.0391-2.8965 96.247 42.497 0 0 1-6.3496-3.1914 96.247 42.497 0 0 1-5.5957-3.4551 96.247 42.497 0 0 1-4.7871-3.6836 96.247 42.497 0 0 1-3.9297-3.8789 96.247 42.497 0 0 1-3.0332-4.0312 96.247 42.497 0 0 1-2.1074-4.1445 96.247 42.497 0 0 1-1.1602-4.2168 96.247 42.497 0 0 1-0.0566-0.69922 102.53 153.8 0 0 0-6.6211 53.844 102.53 153.8 0 0 0 102.53 153.8 102.53 153.8 0 0 0 102.53-153.8 102.53 153.8 0 0 0-6.4453-53.369z" color="#000000" color-rendering="auto" fill="#8a916f" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+   <path transform="scale(.26458)" d="m588.59 545.79a96.247 42.497 0 0 0-1.6309-2.166 96.247 42.497 0 0 0-3.9297-3.877 96.247 42.497 0 0 0-4.7871-3.6856 96.247 42.497 0 0 0-5.5957-3.4551 96.247 42.497 0 0 0-6.3496-3.1914 96.247 42.497 0 0 0-7.0391-2.8965 96.247 42.497 0 0 0-7.6582-2.5703 96.247 42.497 0 0 0-8.2031-2.2207 96.247 42.497 0 0 0-8.6621-1.8477 96.247 42.497 0 0 0-9.0371-1.4551 96.247 42.497 0 0 0-9.3223-1.0508 96.247 42.497 0 0 0-9.5117-0.63476 96.247 42.497 0 0 0-9.6094-0.21289 96.247 42.497 0 0 0-6.8086 0.10547 96.247 42.497 0 0 0-9.5508 0.51171 96.247 42.497 0 0 0-9.3867 0.93165 96.247 42.497 0 0 0-9.1289 1.3398 96.247 42.497 0 0 0-8.7812 1.7344 96.247 42.497 0 0 0-8.3457 2.1133 96.247 42.497 0 0 0-7.8262 2.4707 96.247 42.497 0 0 0-7.2266 2.8047 96.247 42.497 0 0 0-6.5586 3.1074 96.247 42.497 0 0 0-5.8223 3.3809 96.247 42.497 0 0 0-5.0293 3.623 96.247 42.497 0 0 0-4.1836 3.8242 96.247 42.497 0 0 0-2.9766 3.5996 102.53 153.8 0 0 0-4.4375 15.256 96.247 42.497 0 0 0 0.0566 0.69922 96.247 42.497 0 0 0 1.1602 4.2168 96.247 42.497 0 0 0 2.1074 4.1445 96.247 42.497 0 0 0 3.0332 4.0312 96.247 42.497 0 0 0 3.9297 3.8789 96.247 42.497 0 0 0 4.7871 3.6836 96.247 42.497 0 0 0 5.5957 3.4551 96.247 42.497 0 0 0 6.3496 3.1914 96.247 42.497 0 0 0 7.0391 2.8965 96.247 42.497 0 0 0 7.6582 2.5703 96.247 42.497 0 0 0 8.2031 2.2207 96.247 42.497 0 0 0 8.6621 1.8477 96.247 42.497 0 0 0 9.0371 1.457 96.247 42.497 0 0 0 9.3223 1.0508 96.247 42.497 0 0 0 9.5117 0.63477 96.247 42.497 0 0 0 9.6094 0.21093 96.247 42.497 0 0 0 6.8086-0.10546 96.247 42.497 0 0 0 9.5508-0.51172 96.247 42.497 0 0 0 9.3867-0.93164 96.247 42.497 0 0 0 9.1289-1.3379 96.247 42.497 0 0 0 8.7812-1.7363 96.247 42.497 0 0 0 8.3457-2.1133 96.247 42.497 0 0 0 7.8262-2.4707 96.247 42.497 0 0 0 7.2266-2.8027 96.247 42.497 0 0 0 6.5586-3.1094 96.247 42.497 0 0 0 5.8223-3.3809 96.247 42.497 0 0 0 5.0293-3.6211 96.247 42.497 0 0 0 4.1836-3.8262 96.247 42.497 0 0 0 3.2988-3.9902 96.247 42.497 0 0 0 2.3808-4.1152 96.247 42.497 0 0 0 1.4375-4.2012 96.247 42.497 0 0 0 0.16602-1.4609 102.53 153.8 0 0 0-4.5957-16.014z" color="#000000" color-rendering="auto" fill="#df5" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  </g>
+  <g transform="matrix(0 .39795 -.57176 0 189.02 90.625)" fill="#ff7f2a" fill-rule="evenodd">
+   <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+   <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+   <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+   <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+  </g>
+  <g transform="matrix(.28216 0 0 .28216 63.811 74.457)" stroke-width=".065561">
+   <path d="m178.71 125.99-3.0682 5.317c2.7929 1.6128 5.9726 1.6128 8.7655 0l-3.0682-5.317c-0.0197 0.0131-0.0393 0.0262-0.059 0.0393-0.0721 0.0393-0.15079 0.0787-0.22946 0.11145-0.0787 0.0328-0.15735 0.0656-0.24258 0.0918-0.0852 0.0262-0.1639 0.0459-0.24913 0.0656-0.0852 0.0197-0.17045 0.0328-0.26224 0.0393-0.0852 7e-3 -0.17702 0.0131-0.2688 0.0131-0.0918 0-0.17701-7e-3 -0.2688-0.0131-0.0852-7e-3 -0.17701-0.0197-0.26224-0.0393-0.0852-0.0197-0.17046-0.0393-0.24913-0.0656-0.0852-0.0262-0.1639-0.0524-0.24258-0.0918-0.0787-0.0328-0.15734-0.0721-0.22946-0.11145-0.0262-0.0131-0.0459-0.0262-0.0656-0.0393z"/>
+   <path d="m175.64 116.12c-2.7929 1.6128-4.3795 4.3664-4.3795 7.5919h6.1365c0-0.0918 7e-3 -0.18357 0.0131-0.2688 7e-3 -0.0852 0.0262-0.17701 0.0393-0.26224 0.0197-0.0852 0.0393-0.17046 0.0656-0.24913 0.0262-0.0852 0.0524-0.16391 0.0918-0.24258 0.0328-0.0787 0.0721-0.15734 0.11146-0.22946 0.0393-0.0721 0.0852-0.14424 0.13112-0.21635 0.0459-0.0721 0.0983-0.13768 0.15079-0.20324 0.0524-0.0656 0.11145-0.12457 0.17045-0.18357s0.12457-0.11801 0.19013-0.17046c0.0656-0.0524 0.13112-0.1049 0.20324-0.15079 0.0524-0.0328 0.1049-0.0656 0.15735-0.0983z"/>
+   <path d="m184.41 116.12-3.0682 5.317c0.0524 0.0328 0.1049 0.059 0.15735 0.0983 0.0721 0.0459 0.13768 0.0983 0.20324 0.15079 0.0656 0.0525 0.12457 0.11146 0.19013 0.17046 0.059 0.059 0.118 0.12456 0.17045 0.18357 0.0524 0.0656 0.1049 0.13112 0.15079 0.20324 0.0459 0.0721 0.0918 0.14423 0.13113 0.21635 0.0393 0.0721 0.0787 0.15079 0.11145 0.22946 0.0328 0.0787 0.0656 0.15735 0.0918 0.24258 0.0262 0.0852 0.0459 0.1639 0.0656 0.24913 0.0197 0.0852 0.0328 0.17045 0.0393 0.26224 7e-3 0.0852 0.0131 0.17701 0.0131 0.2688h6.1365c-0.0131-3.2256-1.5997-5.9792-4.3926-7.5919z"/>
+   <circle cx="180.02" cy="123.71" r="1.7505"/>
+  </g>
+  <g transform="matrix(0 .39643 -.65187 0 198.32 93.707)" fill="#ff7f2a" fill-rule="evenodd">
+   <rect x="64.717" y="110.08" width="4.1652" height="23.328" stroke="#808080" stroke-width=".2803"/>
+   <ellipse cx="66.804" cy="133.54" rx="2.0823" ry="1.3569" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".28339" style="isolation:auto;mix-blend-mode:normal"/>
+   <rect x="64.857" y="128.24" width="3.8841" height="5.3056"/>
+   <ellipse cx="66.799" cy="110" rx="2.1334" ry="1.3566" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#808080" stroke-width=".1751" style="isolation:auto;mix-blend-mode:normal"/>
+  </g>
+  <path d="m115.53 117.21h4.9578" fill="none" marker-end="url(#g)" stroke="#000" stroke-width=".065"/>
+  <path d="m120.42 120.15h-4.9578" fill="none" marker-end="url(#f)" stroke="#000" stroke-width=".065"/>
+  <g transform="translate(-.18709 1.3096)">
+   <rect x="125.33" y="109.56" width="13.625" height="13.426" fill="#999" stroke="#000" stroke-width=".2497"/>
+   <g transform="matrix(.28216 0 0 .28216 81.34 81.195)" stroke-width=".065561">
+    <path d="m178.71 125.99-3.0682 5.317c2.7929 1.6128 5.9726 1.6128 8.7655 0l-3.0682-5.317c-0.0197 0.0131-0.0393 0.0262-0.059 0.0393-0.0721 0.0393-0.15079 0.0787-0.22946 0.11145-0.0787 0.0328-0.15735 0.0656-0.24258 0.0918-0.0852 0.0262-0.1639 0.0459-0.24913 0.0656-0.0852 0.0197-0.17045 0.0328-0.26224 0.0393-0.0852 7e-3 -0.17702 0.0131-0.2688 0.0131-0.0918 0-0.17701-7e-3 -0.2688-0.0131-0.0852-7e-3 -0.17701-0.0197-0.26224-0.0393-0.0852-0.0197-0.17046-0.0393-0.24913-0.0656-0.0852-0.0262-0.1639-0.0524-0.24258-0.0918-0.0787-0.0328-0.15734-0.0721-0.22946-0.11145-0.0262-0.0131-0.0459-0.0262-0.0656-0.0393z"/>
+    <path d="m175.64 116.12c-2.7929 1.6128-4.3795 4.3664-4.3795 7.5919h6.1365c0-0.0918 7e-3 -0.18357 0.0131-0.2688 7e-3 -0.0852 0.0262-0.17701 0.0393-0.26224 0.0197-0.0852 0.0393-0.17046 0.0656-0.24913 0.0262-0.0852 0.0524-0.16391 0.0918-0.24258 0.0328-0.0787 0.0721-0.15734 0.11146-0.22946 0.0393-0.0721 0.0852-0.14424 0.13112-0.21635 0.0459-0.0721 0.0983-0.13768 0.15079-0.20324 0.0524-0.0656 0.11145-0.12457 0.17045-0.18357s0.12457-0.11801 0.19013-0.17046c0.0656-0.0524 0.13112-0.1049 0.20324-0.15079 0.0524-0.0328 0.1049-0.0656 0.15735-0.0983z"/>
+    <path d="m184.41 116.12-3.0682 5.317c0.0524 0.0328 0.1049 0.059 0.15735 0.0983 0.0721 0.0459 0.13768 0.0983 0.20324 0.15079 0.0656 0.0525 0.12457 0.11146 0.19013 0.17046 0.059 0.059 0.118 0.12456 0.17045 0.18357 0.0524 0.0656 0.1049 0.13112 0.15079 0.20324 0.0459 0.0721 0.0918 0.14423 0.13113 0.21635 0.0393 0.0721 0.0787 0.15079 0.11145 0.22946 0.0328 0.0787 0.0656 0.15735 0.0918 0.24258 0.0262 0.0852 0.0459 0.1639 0.0656 0.24913 0.0197 0.0852 0.0328 0.17045 0.0393 0.26224 7e-3 0.0852 0.0131 0.17701 0.0131 0.2688h6.1365c-0.0131-3.2256-1.5997-5.9792-4.3926-7.5919z"/>
+    <circle cx="180.02" cy="123.71" r="1.7505"/>
+   </g>
+  </g>
+  <text x="188.09" y="142.35995" fill="#666666" font-family="Sans" font-size="2.2994px" stroke-width=".080504px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0%" xml:space="preserve"><tspan x="188.09" y="142.35995" fill="#666666" font-family="Sans" font-size="2.2994px" stroke-width=".080504px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25">whatisnuclear.com</tspan></text>
+ </g>
+</svg>

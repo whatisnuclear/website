@@ -26,7 +26,7 @@ been answered quite skillfully by the legendary David MacKay in [Sustainable Ene
 Without the Hot Air](https://www.withouthotair.com/c24/page_162.shtml), but we figured we
 could add our own version as well. Here is the result:
 
-![Nuclear sustainability plot](/img/nuclear-sustainability.png){: .img-fluid }
+![Nuclear sustainability plot](/img/nuclear-sustainability_opt.svg){: .img-fluid }
 
 [Breeder reactors]({% link recycling.md %}) can power all of humanity for more than 4
 billion years.  By any reasonable definition, nuclear breeder reactors are indeed

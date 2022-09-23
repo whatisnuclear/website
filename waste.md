@@ -38,8 +38,8 @@ site.baseurl }}{% link reactors.md %}). The key component
 of nuclear waste is the leftover smaller nuclei, known as fission products.
 
 <figure>
-<a href="/img/fission-chain-reaction-plainsvg.svg">
-<img class="img-fluid" src="/img/fission-chain-reaction-plainsvg.svg" width="900"
+<a href="/img/fission-chain-reaction-optsvg.svg">
+<img class="img-fluid" src="/img/fission-chain-reaction-optsvg.svg" 
 alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission products and
 3 neutrons."/></a>
 <figcaption class="figure-caption">The fission process of a single atomic

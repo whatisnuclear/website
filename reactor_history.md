@@ -472,8 +472,9 @@ BWRs, a sodium-cooled fast reactor, and a sodium/graphite intermediate reactor.
 
 
   <figure>
-  <a href="/img/power-demonstration-reactor-program.png"><img
-src="/img/blank.png" data-echo="/img/power-demonstration-reactor-program.png" alt="Timeline of reactors the Power
+  <a href="/img/power-demonstration-reactor-program_opt.svg"><img
+src="/img/blank.png" data-echo="/img/power-demonstration-reactor-program_opt.svg" 
+alt="Timeline of reactors built by the Atomic Energy Commission during the Power
 Demonstration Reactor Program"
  class="img img-fluid center-block" ></a>
    <caption>The reactors of the 3+ phases of the AEC's Power Demonstration Reactor

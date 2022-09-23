@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="459.34" height="457.71" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-42.513 -34.303)">
+  <g transform="matrix(3.7107 0 0 3.7107 -812.43 -1717.2)">
+   <rect x="314.53" y="531.79" width="39.129" height="62.713" rx="3.279" ry="3.788" fill="#d33916" stroke="#001600" stroke-width="1.0427"/>
+   <path d="m312.16 479.86c1.1266-0.0417-7.7798-7.0256-34.371-7.0747s-32.871 6.9253-32.871 6.9253 13.485 27.869-13.473 114.88l97.805-0.1094c-30.353-86.758-17.091-114.62-17.091-114.62z" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-width="1.5403"/>
+   <g fill="none" stroke="#001600" stroke-width="6.6">
+    <ellipse transform="matrix(.0036569 .14836 -.093236 .0022982 294.54 426.88)" cx="794.17" cy="199.51" rx="221.54" ry="69.96"/>
+    <ellipse transform="matrix(.11012 -.099476 .062517 .069209 178.76 611.15)" cx="794.17" cy="199.51" rx="221.54" ry="69.96"/>
+    <ellipse transform="matrix(.12229 .084066 -.052832 .076857 193.69 464.81)" cx="794.17" cy="199.51" rx="221.54" ry="69.96"/>
+   </g>
+   <g stroke="#001600" stroke-width="6.6">
+    <ellipse transform="matrix(.12253 0 0 .12253 133.33 521.44)" cx="1322.8" cy="33.684" rx="14.251" ry="12.955"/>
+    <ellipse transform="matrix(.12253 0 0 .12253 121.77 565.42)" cx="1322.8" cy="33.684" rx="14.251" ry="12.955"/>
+    <ellipse transform="matrix(.12253 0 0 .12253 102.15 538.58)" cx="1322.8" cy="33.684" rx="14.251" ry="12.955"/>
+    <ellipse transform="matrix(.12253 0 0 .12253 128.2 481.19)" cx="1233.4" cy="529.88" rx="28.502" ry="29.798"/>
+   </g>
+   <polyline transform="matrix(.0094571 0 0 .010954 256.55 541.29)" points="7508 3396 8359 1884 7697 1837 8689 183 8264 1506 9020 1506 7508 3396" fill="#ff0" stroke="#000" stroke-width="84.228"/>
+  </g>
+ </g>
+</svg>

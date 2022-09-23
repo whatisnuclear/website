@@ -10,7 +10,9 @@ description: >
 <div class="row mt-3">
 <div class="col-md-8" markdown="1">
 
-<img  src="/img/reactor_200.png" class="img-fluid w-25 rounded float-end" alt="A nuclear reactor"/>
+<img  src="/img/reactor_web.svg" class="img-fluid w-25 rounded float-end" alt="An icon of
+a nuclear reactor with an atom symbol on a cooling tower and a lightning bolt on the
+reactor."/>
 In the late 1930s, we discovered that some particularly large atoms found in
 nature can be split into two (or *fission*), releasing a shocking amount of
 energy as heat. Because the energy emerges from the atomic nucleus,
@@ -90,8 +92,8 @@ density of nuclear fuel</a> page for details.</p>
           with nuclear and other zero-carbon processes, the overall carbon will trend to zero.
         </p>
         <figure>
-            <a href="/img/lifecycle-carbon-emissions-300dpi.png">
-              <img class="img-fluid center-block w-100" src="/img/lifecycle-carbon-emissions.svg" alt="graph
+            <a href="/img/lifecycle-carbon-emissions_opt.svg">
+              <img class="img-fluid center-block w-100" src="/img/lifecycle-carbon-emissions_opt.svg" alt="graph
               showing carbon intensity of energy sources in grams CO2-equivalent per kilowatt
               electric generated. Fossil and biomass are bad, in the 400-800 range. Solar PV
               is 40. Hydro is 24. Nuclear is 12. Wind is 11. There is an arrow saying that
@@ -148,7 +150,10 @@ years]({% link nuclear-sustainability.md %}) with advanced
 reactors. Even with conventional reactors, peak uranium is far off.
 
 
-<img src="/img/nuclear-sustainability.png" class="img img-fluid" alt="Graph showing breeding"/>
+<img src="/img/nuclear-sustainability_opt.svg" class="img img-fluid" alt="Bar graph
+showing how many years you could power the world using nuclear fuel from different
+sources. It starts with mined uranium in conventional reactors going just a few years
+to crustal uranium in breeder reactors going for 4 billion years."/>
 
 Humans use a lot of energy, and we're using more every day. Between 2000 and 2010, the world total 
 energy consumption rose by an astounding 29% [1]. Choices about our consumption of energy are fundamental 
@@ -183,7 +188,7 @@ form of energetic particles called [*radiation*]({% link radioactivity.md %}). T
 hazardous and must be kept isolated from the biosphere. We have not yet agreed on
 what should be done with this high-level nuclear waste.
 </p>
-<img src="/img/fission-chain-reaction-plainsvg.svg" class="card-img-top" alt="...">
+<img src="/img/fission-chain-reaction-optsvg.svg" class="card-img-top" alt="...">
 
 <h5 class="card-title">Waste solutions</h5>
 <p class="card-text" markdown="1">
@@ -218,7 +223,8 @@ Fukushima and Three Mile Island were caused by this effect. Unstable reactor des
 operation at Chernobyl led to a power excursion and widespread dispersal of radioactive
 material. So, people worry about reactor safety.
 </p>
-      <img src="/img/decay_heat_power.png" class="card-img-top" alt="...">
+      <img src="/img/decay_heat_power_opt.svg" class="card-img-top" alt="A graph showing
+power of a nuclear reactor before and after shutdown.">
 
       <h5 class="card-title">Safety solutions</h5>
       <p class="card-text" markdown="1">
