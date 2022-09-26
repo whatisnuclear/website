@@ -61,3 +61,12 @@ figure {
     max-width: 250px;
   }
 }
+
+
+.section-nav {
+  text-decoration: none;
+}
+.section-nav a {
+  text-decoration: none;
+  color: inherit
+}

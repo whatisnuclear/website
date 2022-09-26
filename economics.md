@@ -3,7 +3,6 @@ layout: default
 title: Economics of nuclear power
 description: Why are nuclear reactors expensive? Complexities due to radiation hazards are the crux. Learn what it is about nuclear reactors that causes them to generally cost a lot, and what can be done to reduce the cost
 author: nick
-toc: true
 image: /img/ops-shielding.jpg
 date: 2020-01-26
 byline: true
@@ -47,10 +46,31 @@ This page is about the economic struggles of nuclear and what can be done to all
 them so that it can continue to help out in the quest for long-term sustainable low-carbon
 energy.
 
-<hr />
-On this page:
+
+</div>
+
+
+
+<!--<div class="col-md-4 sticky-md-top text-muted" style="height: calc(100vh - 3rem);overflow-y: auto" markdown="1">-->
+<!--<div class="col-md-4 sticky-md-top mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted" style="height: calc(100vh - 3rem);overflow-y: auto">-->
+<div class="col-md-4 mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted" >
+<strong class="d-md-block h6 my-2">On this page</strong>
+<hr class=" d-md-block my-2">
+<div class="section-nav" id="tocContents">
+<nav id="TableOfContents" markdown="1">
+
 * Dummy list
 {:toc}
+
+</nav>
+</div>
+</div>
+
+
+
+</div>
+<div class="col-md-8" markdown="1">
+
 
 ## Early days
 

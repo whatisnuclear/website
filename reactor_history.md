@@ -3,7 +3,6 @@ layout: default
 title: Nuclear Reactor Development History
 description: Learn about the wide variety of nuclear reactor development programs that have happened up to about 1970
 author: nick
-toc: true
 image: /img/nuclear_rocket.jpg
 date: 2020-01-12
 byline: true
@@ -24,8 +23,7 @@ us navigate developments of the future.
 Our [economics page]({% link economics.md %}) discusses developments and
 economics from 1970 to the present.
 
-* Dummy list
-{:toc}
+
 
 ## The starting point
 
@@ -43,6 +41,24 @@ Developments in other countries are not well covered here. Also, the chains
 of events are difficult to classify so the time linearity of the following is not perfect.
 </div>
 
+</div>
+<div class="col-md-4 mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted"
+style="">
+
+<strong class="d-md-block h6 my-2">On this page</strong>
+
+<hr class="d-md-block my-2">
+<div class="" id="tocContents">
+<nav id="TableOfContents" class="section-nav" markdown="1">
+
+* Dummy list
+{:toc}
+
+</nav>
+</div>
+</div>
+
+<div class="col-md-8" markdown="1">
 ### Nuclear weapons production reactors
 Vast wealth and effort was first invested in nuclear reactor development because the
 unique characteristics of the atomic chain reaction could provide fundamental and dramatic
@@ -997,9 +1013,6 @@ Their component development and testing facility at Santa Susana was incredible.
 
 ### Direct nuclear superheat in Puerto Rico and South Dakota
 
-</div></div>
-<div class="row equal">
-<div class="col-md-8" markdown="1">
 As part of the PDRP, the nuclear industry embarked on a significant research
 program into the concept of direct nuclear superheat reactors, or *steam-cooled* reactors. These
 had a boiler region in the core where water is boiled, and then the resulting steam is

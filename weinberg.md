@@ -6,8 +6,10 @@ description: Commentary on Weinberg's incredible life and advice about building 
 author: nick
 date: 2019-07-29
 byline: true
+image: /img/weinberg-cover.jpg
 ---
-<div class="col-lg-8" markdown="1">
+<div class="row">
+<div class="col-md-8" markdown="1">
 
 Alvin Weinberg was an original Manhattan Project scientist who dramatically influenced the development of
 nuclear energy. He's a nuclear energy titan.
@@ -38,6 +40,22 @@ Tennessee.
 ](https://dlc.lib.utk.edu/spc/view?docId=ead/0012_003674_000000_0000/0012_003674_000000_0000.xml)
 
 There's also a more recent [documentary about Alvin Weinberg's life and work.](https://www.youtube.com/watch?v=OeTjXxWvPTc)
+
+</div>
+<div class="col-md-4 mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted" >
+<strong class="d-md-block h6 my-2">On this page</strong>
+<hr class=" d-md-block my-2">
+<div class="section-nav" id="tocContents">
+<nav id="TableOfContents" markdown="1">
+
+* Dummy list
+{:toc}
+
+</nav>
+</div>
+</div>
+
+<div class="col-md-8" markdown="1">
 
 # Chapter 1: Robert Hutchin's University of Chicago 
 
@@ -660,6 +678,7 @@ ABM](https://en.wikipedia.org/wiki/Nike_Zeus)
 * Final thought: 
   > To deny a rebirth of nuclear energy is to deny human ingenuity and aspiration.
 
+</div>
 </div>
 
 

@@ -11,6 +11,7 @@ date: 2020-01-26
 updated: 2020-12-29
 byline: true
 ---
+<div class="row">
 <div class="col-lg-8" markdown="1">
 <a href="/img/atlantic-generating-station-floating.jpg">
 <img class="img float-end img-fluid w-50 rounded" 
@@ -40,6 +41,24 @@ enticing characteristics are revealed. After all, the first power reactors were 
 to propel naval submarines, hundreds of which have prowled the seas since 1955. A civilian
 nuclear-powered merchant ship (NS *Savannah*) had been built and operated. The US Army's
 MH-1A *Sturgis* nuclear plant on a barge had helped power the Panama Canal for years. 
+
+</div>
+<div class="col-md-4 mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted"
+style="">
+
+<strong class="d-md-block h6 my-2">On this page</strong>
+
+<hr class="d-md-block my-2">
+<div class="" id="tocContents">
+<nav id="TableOfContents" class="section-nav" markdown="1">
+
+* Dummy list
+{:toc}
+
+</nav>
+</div>
+</div>
+<div class="col-md-8" markdown="1">
 
 ## The proposed Atlantic Generating Station
 PSE&G went to work on the idea quickly. They named their first FNPP site the Atlantic
@@ -512,4 +531,5 @@ Systems, Docket no. STN 50-437. June
 * [Before licensing floating nuclear powerplants many answers are needed](https://www.gao.gov/assets/emd-78-36.pdf) --- a US GAO report from 1978 before the license was issued
 
 
+</div>
 </div>

@@ -21,6 +21,9 @@ collections:
     directory: news
     permalink: /news/:year-:month-:day-:title.html
 
+kramdown:
+  toc_levels: "1,2,3"
+
 plugins: 
   - jekyll-sitemap
   - jekyll-time-to-read

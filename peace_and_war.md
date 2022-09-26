@@ -14,6 +14,11 @@ image: /img/castle-bravo-if-on-dc.png
 <div class="row">
 <div class="col-md-8" markdown="1">
 
+<figure>
+<img src="/img/atoms-for-peace-and-war-cover.jpg" alt="Cover of the book Atoms
+for Peace and War by Hewlett and Holl" class="img img-fluid center-block
+float-end w-25 rounded" >
+</figure>
 
 The [freely downloadable
 book](https://www.energy.gov/management/downloads/hewlett-and-holl-atoms-peace-and-war),
@@ -29,12 +34,6 @@ relevant links. I read it
 primarily from the perspective of understanding the development of commercial nuclear
 reactors and took more notes on topics relevant to this interest.
 
-
-  <figure>
-  <img src="/img/atoms-for-peace-and-war-cover.jpg" alt="Cover of the book" class="img img-fluid center-block float-end w-50 rounded" >
-  </figure>
-
-
 # The First few Chapters
 
 Eisenhower was elected on November 4, 1952. He was elected only 72 hours after the
@@ -47,8 +46,26 @@ motivated Eisenhower to direct the world in a peaceful direction. The stakes of 
 were now higher than ever. 
 
   <figure>
-  <img src="/img/atoms-for-peace-and-war-toc.png" alt="The table of contents" class="img img-fluid center-block" >
+  <img src="/img/atoms-for-peace-and-war-toc.png" alt="A picture of the table of
+  contents of the book Atoms for Peace and War by Hewlett and Holl" class="img
+  img-fluid center-block" >
   </figure>
+
+</div>
+<div class="col-md-4 mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted" >
+<strong class="d-md-block h6 my-2">On this page</strong>
+<hr class=" d-md-block my-2">
+<div class="section-nav" id="tocContents">
+<nav id="TableOfContents" markdown="1">
+
+* Dummy list
+{:toc}
+
+</nav>
+</div>
+</div>
+
+<div class="col-md-8" markdown="1">
 
 Eisenhower also heard in this briefing that the first generation of electricity had occurred 
 in the Experimental Breeder Reactor-I in 1951, that a land-based prototype of a
