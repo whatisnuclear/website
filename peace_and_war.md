@@ -9,7 +9,7 @@ description: >
 author: nick
 byline: true
 date: 2019-12-07
-img: /img/castle-bravo-if-on-dc.png
+image: /img/castle-bravo-if-on-dc.png
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
