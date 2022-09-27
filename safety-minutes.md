@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nuclear Safety Minutes
+title: Safety Minutes
 description: >
     You may have heard about safety minutes at nuclear companies, where every
     meeting starts with some discussion of safety. Doing this demonstrates that your
@@ -18,8 +18,13 @@ You may have heard about safety minutes at nuclear companies, where every
 meeting starts with some discussion of safety. Doing this demonstrates that your
 organization is laser-focused on safety. 
 
+Safety minutes don't have to just be about nuclear safety. They can be about
+household safety or emergency preparedness too. 
+
 It's hard to come up with new and useful safety minutes with so many meetings going 
-on. Thus, we often end up hearing the same old ones again and again. This is a place
+on. Thus, we often end up hearing the same old ones again and again. 
+
+This is a place
 where we can list out a few of our favorites for sharing and collaboration.
 
 <button type="button" class="btn btn-success" onClick="javascript:randomlink()"><i class="fas fa-dice"></i> Random Safety Minute</button>
