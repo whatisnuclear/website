@@ -16,6 +16,12 @@
   <defs
      id="defs34">
     <rect
+       x="-188.68365"
+       y="-54.617569"
+       width="1346.6275"
+       height="632.01407"
+       id="rect7782" />
+    <rect
        x="663.46619"
        y="153.3244"
        width="258.26242"
@@ -79,6 +85,13 @@
       <g
          id="g958"
          transform="translate(0.58153273,-2.8193586)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.677336"
+           id="rect9736"
+           width="215.17065"
+           height="113.12254"
+           x="230.61748"
+           y="475.20505" />
         <g
            id="g35101"
            transform="matrix(0.513903,0,0,0.513903,113.32428,248.60406)">
@@ -194,7 +207,7 @@
              y="0"><tspan
                x="838.9473"
                y="212.16516"
-               id="tspan6518">1
+               id="tspan9948">1
 </tspan></text>
           <path
              style="fill:none;stroke:#000000;stroke-width:2.07508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -261,7 +274,7 @@
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23448);fill:#000000;fill-opacity:1;stroke:none"><tspan
              x="663.4668"
              y="188.71484"
-             id="tspan6520">Safety</tspan></text>
+             id="tspan9950">Safety</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.31747462,0,0,0.31747462,27.839109,509.81895)"
@@ -269,7 +282,7 @@
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23448-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
              x="663.4668"
              y="188.71484"
-             id="tspan6522">Nuclear</tspan></text>
+             id="tspan9952">Nuclear</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.31747462,0,0,0.31747462,180.09733,509.81895)"
@@ -277,7 +290,12 @@
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23448-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
              x="663.4668"
              y="188.71484"
-             id="tspan6524">Minutes</tspan></text>
+             id="tspan9954">Minutes</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26949093,0,0,0.26949093,229.81823,474.83425)"
+           id="text7780"
+           style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect7782)" />
       </g>
     </g>
   </g>
