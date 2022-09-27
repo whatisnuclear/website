@@ -20,7 +20,7 @@ Happy innovating!
 
 
 <a onClick="history.go(0);" class="btn btn-success m-2" role="button"> 
-    <i class="fas fa-redo-alt"></i>Again!
+    <i class="fas fa-dice"></i> Again!
 </a>
 <a 
     href="https://onestop.delaware.gov/Start_Account" class="btn btn-success m-2" role="button"> 

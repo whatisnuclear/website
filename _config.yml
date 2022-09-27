@@ -20,10 +20,10 @@ collections:
     output: true
     directory: news
     permalink: /news/:year-:month-:day-:title.html
-  safety_minutes:
+  safetyminutes:
     output: true
-    directory: safety_minutes
-    permalink: /safety_minutes/:title.html
+    directory: safetyminutes
+    permalink: /safety-minutes/:title.html
 
 kramdown:
   toc_levels: "1,2,3"

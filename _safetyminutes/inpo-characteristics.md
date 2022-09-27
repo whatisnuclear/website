@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: safety
 title: Traits of a healthy nuclear safety culture
 date: 2022-09-26
 byline: true

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: safety
 title: The EBR-1 core melt
 date: 2022-09-26
 byline: true
@@ -80,6 +80,8 @@ effects will happen.
 2. [Ray Haroldsen, The Story of the BORAX Nuclear Reactor and the EBR-I Meltdown 1 (a good first-person telling of the story)](https://www.ne.anl.gov/pdfs/reactors/Story-of-BORAX-Reactor-by-Ray-Haroldsen-v2.pdf)
 
 3. [Kittel, J.H., Novick, M., and Buchanan, R.F. THE EBR-I MELTDOWN–PHYSICAL AND METALLURGICAL CHANGES IN THE CORE. Final Report–Metallurgy Program 7.2.18. United States: N. p., 1957. Web. doi:10.2172/4322934. 4 (tons of excellent pictures of the melted fuel)](https://www.osti.gov/biblio/4322934-ebr-meltdown-physical-metallurgical-changes-core-final-report-metallurgy-program#)
+
+
 
 </div>
 </div>

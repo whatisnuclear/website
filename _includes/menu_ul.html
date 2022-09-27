@@ -2,8 +2,8 @@
 {%- for item in include.items -%}
     {%- if item == "index" -%}
     {%- assign item_url= "/" -%}
-    {%- elsif item == "safety_minutes" -%}
-    {%- assign item_url= "/safety_minutes/" -%}
+    {%- elsif item == "safety-minutes" -%}
+    {%- assign item_url= "/safety-minutes/" -%}
     {%- else -%}
     {%- assign item_url = item | prepend:"/" |  append: ".html" -%}
     {%- endif -%}

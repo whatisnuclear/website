@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: safety
 title: The Fermi-1 core melt
 date: 2022-09-26
 byline: true

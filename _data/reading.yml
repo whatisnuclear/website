@@ -287,6 +287,20 @@
        Many videos about different nuclear topics
      url: https://www.youtube.com/channel/UCEHOQ63gD01fSKbClY9XvSQ/videos
      date: 2022
+   - author: IAEA
+     title: "Design Features and Operating Experience of Experimental Fast Reactors"
+     free: true
+     description: >
+       Good descriptions of previous small fast reactors
+     url: https://www.iaea.org/publications/8493/design-features-and-operating-experience-of-experimental-fast-reactors
+     date: 2013
+   - author: Dan Wooten
+     title: "Lessons Learned from Fast Flux Test Facility Experience"
+     free: true
+     description: >
+        Valuable lessons learned from the FFTF
+     url: https://gain.inl.gov/Shared%20Documents/Fast%20Flux%20Test%20Facility%20Documents/02%20Lessons%20Learned-FFTF-IAEA-CN-245-13LLFR17.pdf
+     date: 2017
 
 - category: Comic books and videos
   description: People used to make comics about nuclear power
@@ -332,7 +346,7 @@
        related publications</a> at the DOE historical publications page
    - author: Walker and Wellock
      free: true
-     title: A Short History of Nuclear Regulation, 1946–2009
+     title: A Short History of Nuclear Regulation, 1946-2009
      url: https://www.nrc.gov/reading-rm/doc-collections/nuregs/brochures/br0175/index.html
      description: >
         A brief overview of some significant
@@ -351,11 +365,38 @@
         influenced today's dominance of light-water reactors, and a history of the various
         goings on that brought nuclear power to where it is today.
 
+   - author: Pranab Samanta, David Diamond, and William Horak
+     title: NRC Regulatory History of Non-Light Water Reactors (1950-2019)
+     free: true
+     date: "2019-06-10"
+     url: https://www.nrc.gov/docs/ML1928/ML19282B504.pdf
+     description: >
+      This report describes the U.S. Nuclear Regulatory Commission's (NRC's) history with
+      the licensing of non-light water reactors (non-LWRs). The focus is on regulatory policy
+      and licensing issues that have arisen in the past so that NRC staff will be in a better
+      position to deal with these matters in the future
    - author: Spencer Weart
-     title: The Rise of Nuclaer Fear
      free: false
+     title: The Rise of Nuclear Fear
      date: 2012
      url: https://www.goodreads.com/book/show/13601839-the-rise-of-nuclear-fear
      description: >
        Definitive history of the psychology of the atom
+   - author: John Thompson
+     free: true
+     title: Significant Operational Experience - 7 Major Events with Regulatory Implications
+     url: https://www.nrc.gov/docs/ML1600/ML16006A288.pdf
+     description: >
+        A slide deck describing the 7 major events that shaped the industry's regulations.
 
+   - author: NUMARK Associates, et al
+     free: true
+     title: ADVANCED NON-LIGHT-WATER REACTORS MATERIALS AND OPERATIONAL EXPERIENCE
+     date: 2019-03
+     url: https://www.nrc.gov/docs/ML1835/ML18353B121.pdf
+     description: >
+        This report summarizes the available domestic and international
+        operating experience (OpE) for both power and research advanced
+        non-light-water reactors with regard to materials and component
+        integrity. It focuses on both sodium-cooled fast reactors (SFRs) and
+        high-temperature gas-cooled reactors (HTGRs).
