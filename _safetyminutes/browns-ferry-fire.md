@@ -1,6 +1,7 @@
 ---
 layout: safety
 title: The Browns Ferry Fire
+description: Do not use candles to check for air leaks
 date: 2022-09-27
 byline: true
 author: nick

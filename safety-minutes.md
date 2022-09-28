@@ -14,6 +14,8 @@ image: /img/nuclear-safety-minute.png
 <div class="row">
 <div class="col-md-8" markdown="1">
 
+<img class="img-fluid w-25 float-end" src="/img/nuclear-safety-minute.png"/>
+
 You may have heard about safety minutes at nuclear companies, where every
 meeting starts with some discussion of safety. Doing this demonstrates that your
 organization is laser-focused on safety. 
