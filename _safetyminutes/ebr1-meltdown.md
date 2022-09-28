@@ -1,6 +1,7 @@
 ---
 layout: safety
 title: The EBR-1 core melt
+description: Fuel pin mechanical design is hard.
 date: 2022-09-26
 byline: true
 author: nick

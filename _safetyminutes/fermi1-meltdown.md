@@ -1,6 +1,7 @@
 ---
 layout: safety
 title: The Fermi-1 core melt
+description: Sometimes adding core catchers can lead to problems
 date: 2022-09-26
 byline: true
 author: nick

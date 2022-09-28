@@ -1,6 +1,7 @@
 ---
 layout: safety
 title: Ladder Safety
+description: A few tidbits about using ladders properly.
 date: 2022-09-27
 byline: true
 ---
