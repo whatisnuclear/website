@@ -29,7 +29,7 @@ Power Program, previously called the Argonne Low Power Reactor, ALPR. It was
 designed to be built on the tundra above the DEW line to power radar stations.
 It suffered an explosion on January 3, 1961 that resulted in 3 gruesome casualties.
 
-<figure class="figure float-end w-100">
+<figure class="figure w-100">
 <a href="/img/sl-1-core.jpg"><img class="figure-img img-fluid rounded"
 src="/img/sl-1-core_sm.jpg"  alt="The destroyed SL-1 nuclear core after the accident"/></a> 
 <figcaption class="figure-caption" markdown="1">
