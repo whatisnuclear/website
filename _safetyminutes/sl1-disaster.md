@@ -48,7 +48,7 @@ Steam formed in the core and accelerated the 7-foot column of water above it at
 160 feet per second towards the upper head; a 10,000 psi water hammer. The
 momentum transferred to the shield plugs, which ejected at 50 feet per second,
 and then lifted the entire reactor head about 9 feet up. [1]. Two of the three
-men died instantly,one pinned to the ceiling by an ejected shield plug, and the
+men died instantly, one pinned to the ceiling by an ejected shield plug, and the
 other thrown sideways onto a shield [4].
 
 Automatic heat detection alarms were received at the fire department of the
