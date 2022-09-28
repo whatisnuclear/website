@@ -1,6 +1,9 @@
 ---
 layout: safety
 title: The SL-1 disaster
+description: >
+    Lessons learned and brief summary of the gruesome SL-1 nuclear reactor
+    accident from 1961.
 date: 2022-09-27
 byline: true
 author: nick
