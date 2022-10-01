@@ -2,55 +2,167 @@
 layout: default
 title: What is nuclear recycling?
 description: >
-  Did you know that typical nuclear reactors only use about 1% of the energy in their fuel, 
-  and that nuclear waste is recyclable? This page talks about nuclear breeder reactors
-  and nuclear recycling. 
+  Learn about recycling nuclear waste and breeder reactors. Did you know that
+  typical nuclear reactors only use about 1% of the energy in their fuel, and
+  that nuclear waste is recyclable? 
 author: nick
 image: /img/atomic-recycling.png
 date: 2009-03-01
-updated: 2020-10-05
+updated: 2022-10-01
 byline: true
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
 <a name="recycling"></a>
-<img class="float-end" style="max-width:150px;" src="img/atomic-recycling.png" alt="Recycle symbol with atom inside it" />
-Nuclear waste is recyclable. Once reactor fuel (uranium or thorium) is used in a reactor, it can be
-treated and put into another reactor as fuel. In fact, typical reactors only extract a few percent
-of the energy in their fuel. You could power the entire US electricity grid off of the energy in
-nuclear waste for almost 100 years ([details]({% link factoids.md %})). If you recycle the waste,
-the final waste that is left over decays to harmlessness within a few hundred years, rather than a
-million years as with standard (unrecycled) nuclear waste. However, recycling nuclear
-waste generally involves performing complex chemistry processes in a radiologically
-shielded area and can be rather expensive and also generate significant amounts of
-radioactive material in liquid form.
 
-This page explains how this interesting process is possible.
+<img class="img-fluid float-end w-25" src="img/atomic-recycling.png"
+alt="Recycle symbol with atom inside it" />
 
-## Nuclear Transformations
-<img class="float-end" src="/img/breeding.svg" title="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays." alt="An image of U-238 becoming Pu-239 via neutron absorption and two beta-decays."/>
-Before you go on, recall that Uranium exists in nature as 2 <a
-href="{% link isotopes.md %}">isotopes</a>: the less common U-235, and the more common U-238.
-Conventional reactors mainly split U-235 to produce power, and the U-238 is often considered
-useless. When a standard reactor runs low on U-235, it must be refueled, even though there is a lot
-of U-238 still in there. 
+Nuclear waste is recyclable. Once reactor fuel (uranium or thorium) is used in a
+reactor, it can be treated and put into another reactor as fuel. 
 
-A common type of nuclear reaction is called beta-decay. When a nucleus has more neutrons than it
-would like to have, it often beta-decays by breaking a neutron into a proton and an electron. The
-electron (called a beta-particle in this case, since it originated in the nucleus) flies off into
-nature, and the main result seen in the nucleus is a neutron converting to a proton (see figure). 
+Nuclear fuel used today almost all starts out as natural uranium, which has two
+<a href="{% link isotopes.md %}">isotopes</a>
+in it, Uranium-238 and Uranium-235.  The minority isotope (U-235) can
+sustain a nuclear chain reaction. We call such isotopes <em>fissile</em>. The 
+other isotopes (U-238 and Thorium-232) are <em>fertile</em>, meaning they could
+be changed into fissile nuclides in a reactor, but cannot sustain a chain
+reaction on their own. Natural fuel forms are shown below.
 
-When U-238 absorbs a neutron in a nuclear reactor, it becomes U-239, which is just the isotope of
-Uranium with one extra neutron than U-238. This beta-decays quickly and becomes Np-239. Then, the
-Np-239 beta-decays again to become Pu-239, which is a fissile isotope that can power nuclear
-reactors. 
+<img class="img-fluid mx-auto d-block" src="img/fuelcycle-natural.svg" alt="Diagram showing
+natural Uranium and natural thorium isotopic composition" />
 
-The "useless" U-238 is the secret to recycling nuclear fuel. When it absorbs a single
-neutron, it goes through a series of nuclear reactions within a few days and turns into a very
-splittable isotope of Plutonium, Pu-239. The Pu-239 acts a lot like the U-235 that powers
-conventional reactors, so if you convert your U-238 to Pu-239 as you run your reactor, you can then
-use that Pu-239 to continue powering your reactor, or others!
+Because it contains some fissile material naturally, it is possible to build a
+few kinds of nuclear reactors directly fueled with natural uranium. The first
+man-made nuclear reactors used natural uranium and ultra-pure graphite. Canada's
+CANDU reactors use natural uranium with heavy water. But many new benefits arise
+if you mechanically concentrate the U-235 to a higher fraction. This difficult
+process is done in <em>uranium enrichment plants</em>. Most power reactors today
+are fueled with low-enriched uranium. Note that as uranium is enriched more,
+larger piles of depleted uranium (mostly U-238) are left over as tails. The 
+following figure shows fuel forms enabled by enrichment.
+
+<img class="img-fluid mx-auto d-block" src="img/fuelcycle-enrich.svg" alt="Diagram showing a
+number of different isotopic compositions that can be made in a uranium
+enrichment plant, including low-enriched uranium, highly-enriched uranium,
+and thorium mixed with enriched uranium." />
+
+Once the neutron chain reaction begins in a reactor, a number of key things happen
+to the atoms:
+
+* Most (**but not all**) of the fissile atoms get split by the neutrons into smaller atoms called
+  *fission products*, releasing the nuclear energy as heat. As these fission
+  products build up, they eventually absorb lots of neutrons themselves, 
+  requiring the reactor to refuel with new fissile atoms.
+* Many of the fertile atoms absorb neutrons too, after which:
+    * Some directly fission into fission products as above
+    * Some go through a series of nuclear reactions to become fissile nuclides
+      * Some of these newly-generated fissile atoms get fissioned right away
+      * Others of the newly-generated fissile atoms **remain after the chain reaction stops**
+
+
+When a nucleus has too many neutrons to remain stable, it can undergo a nuclear
+transformation called beta-decay breaking a neutron into a proton and an
+electron. The electron (called a beta-particle because it originated in the
+nucleus) flies off into nature. 
+
+When U-238 absorbs a neutron in a reactor, it becomes U-239, the isotope with
+one extra neutron than U-238. This unstable nuclide beta-decays quickly into
+Np-239. Then, the Np-239 beta-decays again to become Pu-239, a fissile isotope
+that can power nuclear reactors. A analogous process happens when Thorium-232
+absorbs a neutron to become fissile Uranium-233.
+
+<img class="img-fluid mx-auto d-block" src="/img/breeding.svg" title="An image of U-238 becoming
+Pu-239 via neutron absorption and two beta-decays and Th-232 becoming U-233" alt="An image of U-238
+becoming Pu-239 via neutron absorption and two beta-decays. Also Thorium-232 becoming Uranium-233 
+via breeding."/>
+
+The fissile atoms left over in the used fuel (red in the figure below) are what
+can be recycled. How many fissile atoms are in the used fuel depends strongly on
+the kind of reactor used. Typical reactors leave just a little bit, but special
+reactors called *breeder reactors* can actually leave more fissile material than
+they started with! More on that later.
+
+<img class="img-fluid mx-auto d-block" src="img/fuelcycle-irradiated.svg" alt="Diagram showing 
+the isotopic composition of used nuclear fuel after being irradiated in a reactor." />
+
+All reactors have some fissile material left over when the fuel is discharged. 
+If you pull this material out and put it into a *reprocessing plant* you can 
+separate out the constituents and then remix them as desired for your fuel cycle.
+Recycling has several use cases:
+
+* **Sustainability** —­ You can separate the fissile material from the neutron-absorbing fission products
+  and refabricate it into new fuel for another reactor, thereby improving your overall
+  fuel efficiency. This effectively increases the miles-per-gallon of your reactor. 
+* **Radiotoxicity reduction** — If you recycle your fuel in [fast-neutron reactors]({% link fast-reactor.md %}), 
+  you can transmute the waste nuclides from ones with 10,000-year half-lives to ones with 200-year half-lives, 
+  reducing the long-term radiotoxicity of your waste. (See more at the [waste page]({% link waste.md %})).
+* **Waste Design** — You can change the physical form of your waste into something extra
+  compatible with its ultimate repository, e.g. by vitrifying it, grouting it, and so on.
+* **Military weapons** — The original reprocessing was done to obtain weapons-grade plutonium
+  from natural uranium fueled reactors [at Hanford]({% link hanford.md %}). Other countries
+  have used reprocessing of special weapons-production reactor fuel for similar purposes.
+  Note that this is less of a concern for power reactors because the isotopic composition
+  of the plutonium that remains is not ideal for nuclear weapons.
+
+
+## Breeder Reactors and Recycling
+
+Breeder reactors are nuclear reactors configured to generate more fissile fuel
+from fertile potential fuel during operation than they consume.  The net gain in
+converting fertile material into fissile material implies that **all** of the
+fertile natural resources shown in the first image of this page can be utilized
+in reactors. Contrast this with non-breeder reactors, which can effectively only
+use the tiny red box's worth. 
+
+The sustainability implications of breeder reactors are astounding. If you use
+breeder reactors, nuclear fuel resources can [last for billions of years]({%
+link nuclear-sustainability.md
+%}).
+
+The trick to making a breeder reactor comes down to knowing something about nuclear
+physics. The key facts are:
+
+* When fast neutrons cause a fission, more secondary neutrons are released than
+  if a slow neutron causes fission
+* The likelihood of any nuclide capturing a neutron decreases rapidly
+  when the neutron is moving really fast (faster than 1 MeV), but the likelihood
+  of a fast neutron causing fission stays reasonably high.
+* U-233 emits more neutrons per fission when split by a slow neutron than 
+  U-235 or Pu-239, and has a better capture-to-fission ratio.
+
+The net result of these facts can be summarized with a plot of eta (η), which
+is the number of neutrons released in fission per neutron absorbed in fuel. When
+eta is sufficiently higher than 2.0, you can make a breeder reactor. Thus, the options are:
+
+* Make a thorium/U-233 breeder with slow neutrons (left-hand side), or
+* Make a uranium/plutonium breeder with fast neutrons (right-hand side) 
+
+
+<img class="img-fluid mx-auto d-block" src="img/eta_good.svg" alt="A plot of eta, 
+the number of neutrons released per absorption in the fuel for fissile nuclides
+U-233, Pu-239, and U-235. This shows how to make a breeder reactor." />
+
+Both of these configurations have sufficient excess neutrons to allow you to pack in lots of 
+fertile material while still sustaining a nuclear chain reaction. The more fertile
+material you pack in, the more neutrons get invested in it, generating fissile material.
+
+<div class="alert alert-success" role="alert" markdown="1">
+<strong>Note:</strong> 
+You can read more about [fast reactors]({% link fast-reactor.md %}) and [thorium
+reactors]({% link thorium.md %}).  Note that all thorium are necessarily breeder
+reactors, since natural thorium has no fissile component.
+</div>
+
+Recycling and breeding are often thought of together, but they are on separate axes. 
+Countries like France recycle fuel from non-breeder reactors. Most long-term 
+sustainable nuclear plans involve using breeder reactors plus recycling. It is also
+possible to use a breeder reactor without recycling at all using advanced deep-burn fuels.
+
+<img class="img-fluid mx-auto d-block" src="img/breeding-vs-recycling.svg" alt="Diagram showing
+examples of reactors that recycle vs. not recycle compared to breed vs. not
+breed." />
 
 
 ## Nuclear Fuel cycles
@@ -58,8 +170,6 @@ A nuclear fuel cycle is the path that nuclear fuel (Uranium, Thorium, Plutonium,
 is used to generate power in a nuclear reactor. Our <a href="{% link fuel-cycle.md %}">fuel cycle
 page</a> has more info. They describe where the material comes from and where it ends up. Different
 fuel cycles range from very simple to fairly complicated. We describe several of these below. 
-
-<div class="alert alert-success" role="alert"><strong>Note:</strong> Besides the U-Pu fuel cycle described here, the <a href="{% link thorium.md %}">Thorium-Uranium fuel cycle</a> is analogous and can also be recycled.</div>
 
 <a name="oncethrough"></a>
 ### Once Through Cycle

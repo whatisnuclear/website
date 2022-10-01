@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="169.4803mm"
+   height="146.74434mm"
+   viewBox="0 0 169.48031 146.74434"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="breeding-vs-recycling.svg"
+   inkscape:export-filename="/pool/Projects/outreach/outreach-material/infosheets/breeding-vs-recyclingn.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0897757"
+     inkscape:cx="235.82835"
+     inkscape:cy="288.13269"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true"
+     lock-margins="true"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:snap-bbox="true" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker74206"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path74204" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path73347" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path73350" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker74094"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path74092" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path73344" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker74050"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path74048" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path73229" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path73223" />
+    </marker>
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="102.92424"
+       height="58.335693"
+       id="rect15775" />
+    <rect
+       x="120.92653"
+       y="136.76729"
+       width="114.90239"
+       height="104.89186"
+       id="rect3638" />
+    <rect
+       x="120.92653"
+       y="136.76729"
+       width="202.30211"
+       height="110.77882"
+       id="rect3638-0" />
+    <rect
+       x="120.92653"
+       y="136.76729"
+       width="202.30211"
+       height="110.77882"
+       id="rect3638-01" />
+    <rect
+       x="120.92653"
+       y="136.76729"
+       width="202.30211"
+       height="110.77882"
+       id="rect3638-6" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="113.36427"
+       height="30.253725"
+       id="rect15775-2" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="113.36427"
+       height="30.253725"
+       id="rect15775-2-3" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="50.8316"
+       height="24.282688"
+       id="rect15775-2-9" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="156.45822"
+       height="31.775906"
+       id="rect15775-2-9-6" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="126.60851"
+       height="65.787491"
+       id="rect15775-2-9-4" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="131.19942"
+       height="71.570908"
+       id="rect15775-4" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="113.36427"
+       height="30.253725"
+       id="rect15775-2-9-8" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="94.256531"
+       height="26.060646"
+       id="rect15775-6" />
+    <marker
+       style="overflow:visible"
+       id="marker74206-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path74204-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path73347-1" />
+    </marker>
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="156.04649"
+       height="63.010044"
+       id="rect15775-2-9-4-3" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="126.60851"
+       height="65.787491"
+       id="rect15775-2-9-4-0" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="131.19942"
+       height="71.570908"
+       id="rect15775-4-6" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="113.36427"
+       height="30.253725"
+       id="rect15775-2-3-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.232702,-21.059148)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.728709;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect133221"
+       width="169.875"
+       height="147.22731"
+       x="16.185928"
+       y="21.182547" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.25125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.492092,37.549912 H 186.62161"
+       id="path857" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0750216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0750216, 0.0750216;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 18.717681,92.518824 H 186.19799"
+       id="path857-4" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-17.500528,83.578591)"
+       id="text3636"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect3638)"
+       x="31.007812"
+       y="0"><tspan
+         x="144.09961"
+         y="150.92383"
+         id="tspan5782">Breeder 
+</tspan><tspan
+         x="145.55273"
+         y="170.92383"
+         id="tspan5784">reactors</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-29.01018,24.53434)"
+       id="text3636-2"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect3638-0)"
+       x="49.433594"
+       y="0"><tspan
+         x="171.91699"
+         y="150.92383"
+         id="tspan5786">Non-breeder
+</tspan><tspan
+         x="189.25293"
+         y="170.92383"
+         id="tspan5788">reactors</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.357969,-14.65644)"
+       id="text3636-9"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect3638-01)"
+       x="67.027344"
+       y="0"><tspan
+         x="169.95215"
+         y="150.92383"
+         id="tspan5790">No recycling 
+</tspan><tspan
+         x="153.6748"
+         y="170.92383"
+         id="tspan5792">(Open fuel cycle)</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,79.771608,-13.43148)"
+       id="text3636-21"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect3638-6)"
+       x="72.53125"
+       y="0"><tspan
+         x="183.83105"
+         y="150.92383"
+         id="tspan5794">Recycling
+</tspan><tspan
+         x="148.1709"
+         y="170.92383"
+         id="tspan5796">(Closed fuel cycle)</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.106937"
+       id="rect14561"
+       width="46.224632"
+       height="14.63976"
+       x="58.092888"
+       y="46.21611"
+       ry="3.4308805" />
+    <text
+       xml:space="preserve"
+       id="text15773"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;stroke-width:0.264583"
+       x="59.474251"
+       y="54.638763"><tspan
+         id="tspan134026"
+         style="stroke-width:0.264583">Most power </tspan><tspan
+         id="tspan134028"
+         style="stroke-width:0.264583">reactors</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.109498"
+       id="rect14561-7"
+       width="49.955486"
+       height="14.203354"
+       x="121.98544"
+       y="64.592247"
+       ry="3.3286071" />
+    <text
+       xml:space="preserve"
+       id="text15773-4"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;stroke-width:0.264583"
+       x="146.94975"
+       y="70.178772"><tspan
+         sodipodi:role="line"
+         id="tspan3629"
+         x="146.94975"
+         y="70.178772"><tspan
+           id="tspan134032"
+           style="stroke-width:0.264583"><tspan
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan134030">Some HEU</tspan></tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan3631"
+         x="146.94975"
+         y="75.470436"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan134034">experimental reactors</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0908662"
+       id="rect14561-7-4"
+       width="55.060162"
+       height="8.8741951"
+       x="54.11731"
+       y="67.266029"
+       ry="2.0796993" />
+    <text
+       xml:space="preserve"
+       id="text15773-4-6"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;stroke-width:0.264583"
+       x="81.543007"
+       y="72.805901"><tspan
+         id="tspan134044"
+         style="stroke-width:0.264583"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan134042">Many reactor </tspan></tspan><tspan
+         id="tspan134048"
+         style="stroke-width:0.264583"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan134046">prototypes</tspan></tspan></text>
+    <g
+       id="g109951"
+       transform="translate(2.8637213,3.1863191)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0683648"
+         id="rect14561-0"
+         width="31.249439"
+         height="8.8506556"
+         x="127.25347"
+         y="42.708225"
+         ry="2.074183" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,82.049347,-40.969079)"
+         id="text15773-7"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15775-2)"><tspan
+           x="179.01367"
+           y="338.95117"
+           id="tspan5798">French LWRs</tspan></text>
+    </g>
+    <g
+       id="g109914"
+       transform="translate(7.7596097,5.1410996)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0472984"
+         id="rect14561-0-0"
+         width="14.92236"
+         height="8.8717222"
+         x="130.87602"
+         y="106.50631"
+         ry="2.0791199" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,86.153949,22.802332)"
+         id="text15773-7-5"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15775-2-9)"><tspan
+           x="179.01367"
+           y="338.95117"
+           id="tspan5800">SFRs</tspan></text>
+    </g>
+    <g
+       id="g109928"
+       transform="translate(0,0.03720909)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0950735"
+         id="rect14561-0-0-0"
+         width="38.0863"
+         height="14.044385"
+         x="60.625095"
+         y="122.97698"
+         ry="3.2913525" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,15.561304,39.250708)"
+         id="text15773-7-5-6"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-4)"
+         x="60.675781"
+         y="0"><tspan
+           x="182.52051"
+           y="338.95117"
+           id="tspan5802">Traveling wave </tspan><tspan
+           x="209.49316"
+           y="358.95117"
+           id="tspan5804">reactors</tspan></text>
+    </g>
+    <g
+       id="g109923"
+       transform="translate(0.51124668)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0631183"
+         id="rect14561-0-0-0-3"
+         width="23.289431"
+         height="10.122888"
+         x="67.512283"
+         y="140.16582"
+         ry="2.3723352" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,15.060398,57.087422)"
+         id="text15773-7-5-6-78"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-4-0)"
+         x="60.675781"
+         y="0"><tspan
+           x="209.60254"
+           y="338.95117"
+           id="tspan5806">CANDLE</tspan></text>
+    </g>
+    <g
+       id="g109933"
+       transform="translate(-1.379427)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.101344"
+         id="rect14561-0-0-0-7"
+         width="42.881767"
+         height="14.173512"
+         x="59.606789"
+         y="105.71432"
+         ry="3.3216138" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,13.028828,21.642298)"
+         id="text15773-7-5-6-7"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-4-3)"
+         x="45.183594"
+         y="0"><tspan
+           x="211.02832"
+           y="338.95117"
+           id="tspan5808">Fast mixed-</tspan><tspan
+           x="183.81348"
+           y="358.95117"
+           id="tspan5810">spectrum reactors</tspan></text>
+    </g>
+    <g
+       id="g109919"
+       transform="translate(3.690515,5.1410996)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.073786"
+         id="rect14561-0-0-7"
+         width="36.424316"
+         height="8.8452339"
+         x="124.84608"
+         y="120.67914"
+         ry="2.0729127" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,80.596415,36.999124)"
+         id="text15773-7-5-7"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15775-2-9-6)"><tspan
+           x="179.01367"
+           y="338.95117"
+           id="tspan5812">Thorium MSRs</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.728;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker74206);marker-end:url(#TriangleOutM)"
+       d="m 166.46672,31.829099 c 0,0 3.98241,-0.354939 4.03094,-3.976672 0.0497,-3.710277 -3.95433,-3.556411 -3.95433,-3.556411 0,0 -3.28321,0.520635 -3.30199,3.90127 -0.0188,3.380635 3.22538,3.631813 3.22538,3.631813 z"
+       id="path73200"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.728;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker74206-0);marker-end:url(#TriangleOutM-0)"
+       d="m 91.928248,28.340549 9.203322,0.0093"
+       id="path73200-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0700042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0700042, 0.0700042;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 111.25745,22.053139 V 166.03342"
+       id="path972" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.24883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 47.074814,23.031067 V 167.01135"
+       id="path972-1" />
+  </g>
+</svg>

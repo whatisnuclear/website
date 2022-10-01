@@ -829,7 +829,7 @@ additional equipment: pumps, valves, instrumentation, controls, heaters, and pip
 North American Aviation contributed $2.5M to the $10M cost of research, development,
 and construction of the 20 MWt Sodium Reactor Experiment (SRE) at Santa Susana, CA. 
 
-Heavily informed by the AEC's S1G submarine prototype reactor in New  York and the [Sodium
+Heavily informed by the AEC's S1G submarine prototype reactor in New York and the [Sodium
 Reactor Experiment](https://en.wikipedia.org/wiki/Sodium_Reactor_Experiment) north of LA,
 the [Hallam Nuclear Power
 Facility](https://en.wikipedia.org/wiki/Hallam_Nuclear_Generating_Station) was a 75 MWe
