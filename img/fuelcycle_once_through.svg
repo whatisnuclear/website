@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="265.69922mm"
    height="51.600117mm"
    viewBox="0 0 265.69922 51.600117"
    version="1.1"
    id="svg4875"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="once-through.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="fuelcycle_once_through.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4869">
     <marker
@@ -83,8 +83,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="467.77594"
-     inkscape:cy="-33.509046"
+     inkscape:cx="467.70063"
+     inkscape:cy="-33.335034"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,10 +93,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata4872">
     <rdf:RDF>
@@ -105,7 +106,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,6 +120,8 @@
        inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
        inkscape:export-xdpi="72.775581"
        inkscape:export-ydpi="72.775581">
+      <title
+         id="title926">Natural uranium ore is extracted from the ground at the mine. The enrichment plant increases the concentration of U-235 in the natural uranium up to around 4 percent.</title>
       <rect
          y="151.59509"
          x="46.12141"
@@ -137,17 +139,17 @@
            x="108.05474"
            id="tspan2483"
            sodipodi:role="line"
-           style="font-size:18.35141563px;line-height:1.25">Mine and </tspan><tspan
+           style="font-size:18.3514px;line-height:1.25">Mine and </tspan><tspan
            id="tspan6345"
            y="201.58618"
            x="105.13805"
            sodipodi:role="line"
-           style="font-size:18.35141563px;line-height:1.25">enrichment</tspan><tspan
+           style="font-size:18.3514px;line-height:1.25">enrichment</tspan><tspan
            id="tspan6347"
            y="224.52545"
            x="105.13805"
            sodipodi:role="line"
-           style="font-size:18.35141563px;line-height:1.25">plant</tspan></text>
+           style="font-size:18.3514px;line-height:1.25">plant</tspan></text>
     </g>
     <g
        id="g3828"
@@ -155,6 +157,8 @@
        inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
        inkscape:export-xdpi="72.775581"
        inkscape:export-ydpi="72.775581">
+      <title
+         id="title922">This is a regular reactor, of which there are about 100 of in the USA. It is water cooled and requires enriched uranium.</title>
       <rect
          y="421.44324"
          x="256.91803"
@@ -180,17 +184,17 @@
       <text
          id="text3798"
          y="455.99429"
-         x="331.56223"
+         x="336.44955"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="455.99429"
-           x="336.64816"
+           x="336.44955"
            id="tspan3800"
            sodipodi:role="line"
            style="font-size:32px;line-height:1.25">Standard </tspan><tspan
            id="tspan3802"
            y="495.99429"
-           x="331.56223"
+           x="336.44955"
            sodipodi:role="line"
            style="font-size:32px;line-height:1.25">Reactor</tspan></text>
     </g>
@@ -200,6 +204,8 @@
        inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
        inkscape:export-xdpi="72.775581"
        inkscape:export-ydpi="72.775581">
+      <title
+         id="title924">This is enriched Uranium, with about 4 percent U-235 and the rest U-238.</title>
       <path
          d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
          inkscape:randomized="0"
@@ -226,7 +232,7 @@
            x="112.85684"
            id="tspan3861"
            sodipodi:role="line"
-           style="font-size:57.98281479px;line-height:1.25">U</tspan></text>
+           style="font-size:57.9828px;line-height:1.25">U</tspan></text>
     </g>
     <g
        id="g3992"
@@ -234,6 +240,8 @@
        inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
        inkscape:export-xdpi="72.775581"
        inkscape:export-ydpi="72.775581">
+      <title
+         id="title898">In a once through cycle, the waste goes straight into a waste repository, where it is supposed to stay for up to a million years.</title>
       <rect
          y="574.56006"
          x="402.04071"
@@ -258,118 +266,22 @@
          style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text3982"
-         y="638.13947"
-         x="473.37152"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+         y="659.5141"
+         x="464.77872"
+         style="font-style:normal;font-weight:normal;font-size:10.9849px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.915404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(1.0267634,0.97393424)"><tspan
            id="tspan3988"
-           y="638.13947"
-           x="477.57669"
+           y="659.5141"
+           x="464.77872"
            sodipodi:role="line"
-           style="font-size:26.45841599px;line-height:1.25">Long-term </tspan><tspan
+           style="font-size:24.2201px;line-height:1.25;stroke-width:0.915404px">Long-term </tspan><tspan
            id="tspan3986"
-           y="671.21246"
-           x="473.37152"
+           y="689.78925"
+           x="464.77872"
            sodipodi:role="line"
-           style="font-size:26.45841599px;line-height:1.25">storage</tspan></text>
+           style="font-size:24.2201px;line-height:1.25;stroke-width:0.915404px">storage</tspan></text>
     </g>
-    <rect
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.94375932;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4007"
-       width="25.622694"
-       height="50.656357"
-       x="198.14919"
-       y="105.08846"
-       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
-       inkscape:export-xdpi="72.775581"
-       inkscape:export-ydpi="72.775581" />
-    <g
-       id="g3884"
-       transform="matrix(0.1469294,0,0,0.1469294,174.89422,74.106457)"
-       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
-       inkscape:export-xdpi="72.775581"
-       inkscape:export-ydpi="72.775581">
-      <path
-         transform="translate(115.15739,2.0202894)"
-         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="1.0471976"
-         sodipodi:r2="36.79438"
-         sodipodi:r1="42.486492"
-         sodipodi:cy="415.96609"
-         sodipodi:cx="130.30968"
-         sodipodi:sides="6"
-         id="path3863"
-         style="opacity:1;fill:#ff55dd;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
-      <text
-         id="text3869"
-         y="433.41278"
-         x="214.30365"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="433.41278"
-           x="214.30365"
-           id="tspan3871"
-           sodipodi:role="line"
-           style="font-size:51.66386414px;line-height:1.25">Pu</tspan></text>
-    </g>
-    <g
-       id="g3879"
-       transform="matrix(0.1469294,0,0,0.1469294,171.03525,74.614186)"
-       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
-       inkscape:export-xdpi="72.775581"
-       inkscape:export-ydpi="72.775581">
-      <path
-         transform="translate(141.42136,83.842645)"
-         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="1.0471976"
-         sodipodi:r2="36.79438"
-         sodipodi:r1="42.486492"
-         sodipodi:cy="415.96609"
-         sodipodi:cx="130.30968"
-         sodipodi:sides="6"
-         id="path3873"
-         style="opacity:1;fill:#bc5fd3;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
-      <text
-         id="text3875"
-         y="517.23511"
-         x="242.56761"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="517.23511"
-           x="242.56761"
-           id="tspan3877"
-           sodipodi:role="line"
-           style="font-size:51.66386414px;line-height:1.25">FP</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.15637732px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42969811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="210.72841"
-       y="110.12337"
-       id="text4009"
-       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
-       inkscape:export-xdpi="72.775581"
-       inkscape:export-ydpi="72.775581"><tspan
-         sodipodi:role="line"
-         id="tspan4011"
-         x="210.72841"
-         y="110.12337"
-         style="font-size:4.77753687px;line-height:1.25;stroke-width:0.42969811px">Nuclear</tspan><tspan
-         sodipodi:role="line"
-         x="210.72841"
-         y="116.09529"
-         id="tspan4013"
-         style="font-size:4.77753687px;line-height:1.25;stroke-width:0.42969811px"> Waste</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.63744038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
@@ -403,39 +315,141 @@
        inkscape:export-xdpi="72.775581"
        inkscape:export-ydpi="72.775581" />
     <g
-       transform="matrix(0.42969813,0,0,0.42969813,-3.1263779,-149.20975)"
-       id="g6400"
-       inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
-       inkscape:export-xdpi="72.775581"
-       inkscape:export-ydpi="72.775581">
-      <path
-         transform="matrix(0.3419363,0,0,0.3419363,452.65855,490.80369)"
-         d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="1.0471976"
-         sodipodi:r2="36.79438"
-         sodipodi:r1="42.486492"
-         sodipodi:cy="415.96609"
-         sodipodi:cx="130.30968"
-         sodipodi:sides="6"
-         id="path6402"
-         style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
+       id="g918">
+      <title
+         id="title920">When the reactor runs for a few years, the waste is made up of depleted uranium (with very little U-235 left), plutonium and other actinides, and the fission products.</title>
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.94375932;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4007"
+         width="25.622694"
+         height="50.656357"
+         x="198.14919"
+         y="105.08846"
+         inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
+         inkscape:export-xdpi="72.775581"
+         inkscape:export-ydpi="72.775581" />
+      <g
+         id="g3884"
+         transform="matrix(0.1469294,0,0,0.1469294,174.89422,74.106457)"
+         inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
+         inkscape:export-xdpi="72.775581"
+         inkscape:export-ydpi="72.775581">
+        <path
+           transform="translate(115.15739,2.0202894)"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.5707963"
+           sodipodi:arg1="1.0471976"
+           sodipodi:r2="36.79438"
+           sodipodi:r1="42.486492"
+           sodipodi:cy="415.96609"
+           sodipodi:cx="130.30968"
+           sodipodi:sides="6"
+           id="path3863"
+           style="opacity:1;fill:#ff55dd;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <text
+           id="text3869"
+           y="433.41278"
+           x="214.30365"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="433.41278"
+             x="214.30365"
+             id="tspan3871"
+             sodipodi:role="line"
+             style="font-size:51.6639px;line-height:1.25">Pu</tspan></text>
+      </g>
+      <g
+         id="g3879"
+         transform="matrix(0.1469294,0,0,0.1469294,171.03525,74.614186)"
+         inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
+         inkscape:export-xdpi="72.775581"
+         inkscape:export-ydpi="72.775581">
+        <path
+           transform="translate(141.42136,83.842645)"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.5707963"
+           sodipodi:arg1="1.0471976"
+           sodipodi:r2="36.79438"
+           sodipodi:r1="42.486492"
+           sodipodi:cy="415.96609"
+           sodipodi:cx="130.30968"
+           sodipodi:sides="6"
+           id="path3873"
+           style="opacity:1;fill:#bc5fd3;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <text
+           id="text3875"
+           y="517.23511"
+           x="242.56761"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="517.23511"
+             x="242.56761"
+             id="tspan3877"
+             sodipodi:role="line"
+             style="font-size:51.6639px;line-height:1.25">FP</tspan></text>
+      </g>
       <text
-         transform="scale(0.9576901,1.0441791)"
-         id="text6404"
-         y="613.39899"
-         x="511.24643"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.15638px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.429698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="210.72841"
+         y="110.12337"
+         id="text4009"
+         inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
+         inkscape:export-xdpi="72.775581"
+         inkscape:export-ydpi="72.775581"><tspan
+           sodipodi:role="line"
+           id="tspan4011"
+           x="210.72841"
+           y="110.12337"
+           style="font-size:4.77754px;line-height:1.25;stroke-width:0.429698px">Nuclear</tspan><tspan
+           sodipodi:role="line"
+           x="210.72841"
+           y="116.09529"
+           id="tspan4013"
+           style="font-size:4.77754px;line-height:1.25;stroke-width:0.429698px"> Waste</tspan></text>
+      <g
+         transform="matrix(0.42969813,0,0,0.42969813,-3.1263779,-149.20975)"
+         id="g6400"
+         inkscape:export-filename="/home/ntouran/Documents/whatisnuclear/projects/once_through_cycle_sm.png"
+         inkscape:export-xdpi="72.775581"
+         inkscape:export-ydpi="72.775581">
+        <path
+           transform="matrix(0.3419363,0,0,0.3419363,452.65855,490.80369)"
+           d="m 151.55292,452.76048 -42.48649,0 -21.243245,-36.79439 21.243245,-36.79438 42.48649,0 21.24325,36.79439 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.5707963"
+           sodipodi:arg1="1.0471976"
+           sodipodi:r2="36.79438"
+           sodipodi:r1="42.486492"
+           sodipodi:cy="415.96609"
+           sodipodi:cx="130.30968"
+           sodipodi:sides="6"
+           id="path6402"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.23699999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <text
+           transform="scale(0.9576901,1.0441791)"
+           id="text6404"
            y="613.39899"
            x="511.24643"
-           id="tspan6406"
-           sodipodi:role="line"
-           style="font-size:19.82642746px;line-height:1.25">U</tspan></text>
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="613.39899"
+             x="511.24643"
+             id="tspan6406"
+             sodipodi:role="line"
+             style="font-size:19.8264px;line-height:1.25">U</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
