@@ -19,12 +19,12 @@ the nucleus. All isotopes of a particular element act chemically-identically to 
 shows the periodic table of the elements. Each element listed has many (between 2 and 20+) isotopes. 
 
 <div class="thumbnail">        
-<img src="/img/periodic_table_of_elements.png" alt="Periodic table of elements (from wikipedia)" title="Periodic table of the elements (from wikipedia.org)"/>
+<img class="img-fluid" src="/img/periodic_table_of_elements.png" alt="Periodic table of elements (from wikipedia)" title="Periodic table of the elements (from wikipedia.org)"/>
 <p><strong>Figure 1.</strong> The Periodic Table of the Elements</p>
 </div>
 <p>The arrow points to Iron (Fe), which has a few isotopes shown in Figure 2. </p>
 <div class="thumbnail">        
-<img src="/img/feIsotopes.png" alt="Isotopes of Iron" title="A few isotopes of Iron" />
+<img class="img-fluid" src="/img/feIsotopes.png" alt="Isotopes of Iron" title="A few isotopes of Iron" />
 <p><strong>Figure 2.</strong>The isotopes of Iron</p>
 </div>
 
@@ -32,7 +32,7 @@ Make sense? Great. One particularly relevant set of isotopes acting chemically s
 neutronically different are those of the element Uranium, shown below in Figure 3. 
 
 <div class="thumbnail">        
-<img src="/img/uraniumIsotopes.png" alt="Isotopes of Uranium" title="A few isotopes of Uranium" />
+<img class="img-fluid" src="/img/uraniumIsotopes.png" alt="Isotopes of Uranium" title="A few isotopes of Uranium" />
 <p><strong>Figure 3.</strong>The isotopes of Uranium</p>
 </div>
 

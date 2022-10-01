@@ -158,7 +158,7 @@ reactors, since natural thorium has no fissile component.
 Recycling and breeding are often thought of together, but they are on separate axes. 
 Countries like France recycle fuel from non-breeder reactors. Most long-term 
 sustainable nuclear plans involve using breeder reactors plus recycling. It is also
-possible to use a breeder reactor without recycling at all using advanced deep-burn fuels.
+possible to use a breeder reactor without recycling at all using [advanced deep-burn fuels]({% link twr.md %}).
 
 <img class="img-fluid mx-auto d-block" src="img/breeding-vs-recycling.svg" alt="Diagram showing
 examples of reactors that recycle vs. not recycle compared to breed vs. not

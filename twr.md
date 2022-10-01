@@ -5,11 +5,13 @@ description: Learn about Traveling Wave Reactors
 author: nick
 byline: true
 date: 2009-03-12
+image: /img/traveling_wave.png
 ---
 <div class="row">
 
 <div class="col-md-8" markdown="1">
 
+<img alt="A traveling wave" title="a traveling wave" class="img-fluid w-25 float-end"  src="/img/traveling_wave.png"/>
 
 <a name="what"></a>
 Traveling-wave reactors (TWRs) are advanced nuclear reactors that are capable of eventually running
@@ -38,7 +40,6 @@ through it.
 <li><a href="#whynew">Why have&rsquo;t we built them before?</a></li>
 <li><a href="#refs">See also</a></li>
 </ul>
-<img alt="A traveling wave" title="a traveling wave" style="border:0;width:300px" src="/img/traveling_wave.png"/>
 
 
 <a name="motivation"></a>
