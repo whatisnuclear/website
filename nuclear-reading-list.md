@@ -6,7 +6,7 @@ author: nick
 image: /img/kid_in_atom.jpg
 byline: true
 date: 2021-05-24
-updated: 2022-06-23
+updated: 2022-10-02
 ---
 <div class="row">
 <div class="col-md-12" markdown="1">

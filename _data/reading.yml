@@ -52,10 +52,27 @@
         Shows you that Reactor Physics isn't Rocket Science Explains why Reactors are much
         safer than you might think. Enables anyone to understand how a Nuclear Reactor
         works. 
+    - author: Meredith Angwin
+      title: "Shorting the Grid: The Hidden Fragility of Our Electric Grid"
+      url: https://www.goodreads.com/book/show/55716079-shorting-the-grid
+      free: false
+      date: 2020
+      description: >
+        A general overview of electricity generation and governance. Contains
+        plenty of discussion of nuclear compared to other electricity generating
+        technologies.
+      
 
 
 - category: Academic reports and articles
   items: 
+
+   - author: UNECE
+     title: Technology Brief Nuclear Power (PDF)
+     date: 2021
+     free: true
+     url: https://unece.org/sites/default/files/2021-08/Nuclear%20power%20brief_EN_0.pdf
+     description: An incredible collection of data from the UN scientists describing nuclear energy from a climate perspective. 
    - author: MIT
      title: The Future of Nuclear Energy in a Carbon-Constrained World
      date: 2018
@@ -80,6 +97,27 @@
 - category: Documentaries and videos
   description: Feature length and shorter documentaries and videos about nuclear
   items:
+    - author: Isabelle Boemeke
+      title: Nuclear power is our best hope to ditch fossil fuels (TED talk)
+      date: 2022
+      free: true
+      description: >
+        A TED talk from the world's first nuclear TikTok influencer describing the case for nuclear in 10 mins
+      url: https://www.ted.com/talks/isabelle_boemeke_nuclear_power_is_our_best_hope_to_ditch_fossil_fuels
+    - author: Kurzgesagt - In a Nutshell
+      title: Worst Nuclear Accidents in History
+      date: 2021
+      free: true
+      description: >
+        An amazingly animated 10-minute summary of nuclear safety on YouTube
+      url: https://www.youtube.com/watch?v=Jzfpyo-q-RM
+    - author: Kurzgesagt - In a Nutshell
+      title: Do we Need Nuclear Energy to Stop Climate Change?
+      date: 2021
+      free: true
+      description: >
+        An animated 10-minute summary of why nuclear is needed to help fight climate change
+      url: https://www.youtube.com/watch?v=EhAemz1v7dQ
     - author: Robert Stone
       title: Pandora's Promise
       date: 2013
@@ -105,6 +143,13 @@
         a foundational principle for the green movement - being anti-nuclear - from within
         the movement itself.
       url: https://vimeo.com/731323125
+    - author: De Avondshow met Arjen Lubach | VPRO
+      title: Nuclear Energy - Zondag met Lubach (S09)
+      free: true
+      date: 2018
+      description: >
+        A hilarious discussion of nuclear energy in the Dutch language (with english subtitles)
+      url: https://www.youtube.com/watch?v=YjFWiMJdotM
 
 
 - category: Textbooks
@@ -229,13 +274,13 @@
      url: https://www.nuclearinnovationalliance.org/advanced-nuclear-reactor-technology-primer
      date: September 2021
    - author: Charles Till and Yoon Chang
-     title: "Plentiful Energy: The Story of the Integral Fast Reactor"
+     title: "Plentiful Energy: The Story of the Integral Fast Reactor" (PDF)
      free: true
      description: >
        A book describing the development of a fast-neutron breeder reactor.
      url: http://www.thesciencecouncil.com/pdfs/PlentifulEnergy.pdf
    - author: IAEA
-     title: Advances in Small Modular Reactor Technology Developments
+     title: Advances in Small Modular Reactor Technology Developments (PDF)
      date: 2020
      description: Modern info about small modular reactors
      url: https://aris.iaea.org/Publications/SMR_Book_2020.pdf 
@@ -295,7 +340,7 @@
      url: https://www.iaea.org/publications/8493/design-features-and-operating-experience-of-experimental-fast-reactors
      date: 2013
    - author: Dan Wooten
-     title: "Lessons Learned from Fast Flux Test Facility Experience"
+     title: "Lessons Learned from Fast Flux Test Facility Experience" (PDF)
      free: true
      description: >
         Valuable lessons learned from the FFTF
@@ -366,7 +411,7 @@
         goings on that brought nuclear power to where it is today.
 
    - author: Pranab Samanta, David Diamond, and William Horak
-     title: NRC Regulatory History of Non-Light Water Reactors (1950-2019)
+     title: NRC Regulatory History of Non-Light Water Reactors (1950-2019) (PDF)
      free: true
      date: "2019-06-10"
      url: https://www.nrc.gov/docs/ML1928/ML19282B504.pdf
@@ -384,14 +429,14 @@
        Definitive history of the psychology of the atom
    - author: John Thompson
      free: true
-     title: Significant Operational Experience - 7 Major Events with Regulatory Implications
+     title: Significant Operational Experience - 7 Major Events with Regulatory Implications (PDF)
      url: https://www.nrc.gov/docs/ML1600/ML16006A288.pdf
      description: >
         A slide deck describing the 7 major events that shaped the industry's regulations.
 
    - author: NUMARK Associates, et al
      free: true
-     title: ADVANCED NON-LIGHT-WATER REACTORS MATERIALS AND OPERATIONAL EXPERIENCE
+     title: ADVANCED NON-LIGHT-WATER REACTORS MATERIALS AND OPERATIONAL EXPERIENCE (PDF)
      date: 2019-03
      url: https://www.nrc.gov/docs/ML1835/ML18353B121.pdf
      description: >
