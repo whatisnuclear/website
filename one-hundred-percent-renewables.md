@@ -6,6 +6,7 @@ description: Commentary on why 100% renewables actually supports anti-nuclear co
 author: nick
 date: 2018-02-19
 byline: true
+image: /img/renewable-venn-diagram.png
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
