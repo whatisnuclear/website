@@ -26,7 +26,7 @@ at Hanford, and at least 9 weapons production reactors operated there through th
 
 ## What happened at Hanford?
 
-<img src="/img/hanford-process-web.svg" alt="A depiction of how fresh fuel is put into
+<img src="/img/hanford-process_web.svg" alt="A depiction of how fresh fuel is put into
 a reactor to make irradiated fuel and then melted down in a vat of acid and hooked to a
 chemical plant so that pure plutonium can be extracted and fabricated into a nuclear
 weapon." class="img img-fluid"/>
