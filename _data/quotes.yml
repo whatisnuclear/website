@@ -281,3 +281,32 @@
       venue: "Sustainable Energy – without the hot air"
       url: https://www.withouthotair.com/c24/page_169.shtml
 
+- name: Jane Fonda
+  title: Actor and anti-nuclear activist
+  fame: 2
+  expertise: 1
+  img: fonda.jpg
+  img_src: https://upload.wikimedia.org/wikipedia/commons/4/46/Jane_Fonda_Cannes_2015.jpg
+  quotes:
+    - quote: >
+        Am I happy about the need to rely on nuclear energy right now? No, but
+        [as we] phase gradually out of fossil fuels, as we build up our sustainable green
+        energy sector... we need a bridge.
+      date: 2022-10-18
+      venue: "Interview"
+      url: https://calmatters.org/newsletters/whatmatters/2022/10/jane-fonda-blasts-prop-30-foes/
+
+- name: Greta Thurnberg
+  title: Climate Activist
+  fame: 3
+  expertise: 1
+  img: thurnberg.jpg
+  img_src: https://en.wikipedia.org/wiki/Greta_Thunberg#/media/File:Glastonbury2022_(218_of_413)_(52182434551)_(cropped)_(cropped).jpg
+  quotes:
+    - quote: >
+        It depends - If we have them already running, I feel that it is a mistake to close
+        them down in order to focus on coal.
+      date: 2022-10-12
+      venue: "Talk show interview on German TV"
+      url: https://www.daserste.de/information/talk/maischberger/videos/english-Greta-Thunberg-Exklusiv-Interview-maischberger-video-100.html
+
