@@ -44,19 +44,28 @@ Now cut the sorted dates off the list (hacky)
 {% for name in names %}
 {% assign person = site.data.quotes | where: "name", name | first%}
 {% assign quotes = person.quotes  %}
-<h2>{{ person.name }}</h2>
-{% if person.img %}
+
+<a name="{{person.name|slugify}}"/> 
+<h2 class="mb-0">{{ person.name }} <a href="#{{person.name|slugify}}">&#167;</a></h2>
+{%- if person.title %}
+<h6>{{ person.title }}</h6>
+{%- endif -%}
+{%- if person.img -%}
 <img src="/img/quotes/{{person.img}}" style="max-height:150px;" class="img img-fluid
 float-end" alt="Image of {{person.name}}" title="Image of
-{{person.name}} {% if person.img_src%}(from {{person.img_src}}){%endif%}"/>
-{% endif%}
-{% if person.title %}
-<h5><em>{{person.title }}</em></h5>
-{%endif%}
-{%  for quote in quotes -%}
-<h5 markdown="1">[{%- if quote.venue -%}{{quote.venue}}, {%endif%}{{ quote.date }}]({{quote.url}})</h5>
+{{person.name}} {% if person.img_src %}(from {{person.img_src}}){%endif%}"/>
+{%- endif %}
 
-> {{ quote.quote}}
+{%  for quote in quotes -%}
+
+<figure class="text-start">
+  <blockquote class="blockquote">
+    <p>{{ quote.quote}}</p>
+  </blockquote>
+  <figcaption class="text-center blockquote-footer">
+    <cite markdown="1" title="Source Title">[{%- if quote.venue -%}{{quote.venue}}, {% endif %}{{ quote.date }}]({{quote.url}})</cite> </figcaption>
+</figure>
+
 
 {% endfor %}
 {% endfor %}
