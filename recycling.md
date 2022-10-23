@@ -227,10 +227,13 @@ nuclear power can <a href="{% link nuclear-sustainability.md %}">truly be consid
 
 
 ## Additional Reading
+
 * <a href="http://www-pub.iaea.org/books/IAEABooks/7112/Implications-of-Partitioning-and-Transmutation-in-Radioactive-Waste-Management">Implications of Partitioning and Transmutation in Radioactive Waste Management, IAEA Technical Reports Series 435</a>
 * [Bunn, The Economics of Reprocessing Versus Direct Disposal of Spent Nuclear
   Fuel](http://nrs.harvard.edu/urn-3:HUL.InstRepos:30209100) -- A report suggesting that
   reprocessing only becomes economical after fuel costs exceed $360/kg
+* [Principles of Fast, Thermal, and Breeder
+  reactors](https://www.youtube.com/watch?v=YsZE_YhUXh4) -- And old but useful video about this information
 * Our <a href="{% link fuel-cycle.md %}">fuel cycle page</a>
 * <a href="{% link isotopes.md %}#enrichment">Our explanation of enrichment</a>
 * <a href="{% link waste.md %}">Our nuclear waste page</a>

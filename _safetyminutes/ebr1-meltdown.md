@@ -82,6 +82,7 @@ effects will happen.
 
 3. [Kittel, J.H., Novick, M., and Buchanan, R.F. THE EBR-I MELTDOWN–PHYSICAL AND METALLURGICAL CHANGES IN THE CORE. Final Report–Metallurgy Program 7.2.18. United States: N. p., 1957. Web. doi:10.2172/4322934. 4 (tons of excellent pictures of the melted fuel)](https://www.osti.gov/biblio/4322934-ebr-meltdown-physical-metallurgical-changes-core-final-report-metallurgy-program#)
 
+4. [EBR-I Core Disassembly after Meltdown](https://www.youtube.com/watch?v=FY74p-HDVsQ) -- Video from the event
 
 
 </div>

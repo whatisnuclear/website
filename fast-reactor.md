@@ -291,12 +291,15 @@ close together to begin with.
 </ul>
 <p> Questions? Comments? Send us <a href="contact.html">a note</a>.</p>
 
-<h2>References</h2>
-<p>Here are some good overview references for continued learning</p>
-<ol>
-<li><a href="http://www-pub.iaea.org/books/IAEABooks/7581/Fast-Reactor-Database-2006-Update">The Fast Reactor Database, IAEA-TECDOC-1531</a></li>
-<li><a href="http://www-pub.iaea.org/books/IAEABooks/8667/Status-of-Fast-Reactor-Research-and-Technology-Development">Status of Fast Reactor Research and Technology Development, IAEA TECDOC 1691</a></li>
-</ol>
+## References
+
+Here are some good overview references for continued learning
+
+* [The Fast Reactor Database, IAEA-TECDOC-1531](http://www-pub.iaea.org/books/IAEABooks/7581/Fast-Reactor-Database-2006-Update)
+* [Status of Fast Reactor Research and Technology Development, IAEA TECDOC 1691](http://www-pub.iaea.org/books/IAEABooks/8667/Status-of-Fast-Reactor-Research-and-Technology-Development)
+* [Breeder Reactors](https://www.osti.gov/biblio/1135678) -- A 1971 booklet summarizing breeder reactors.
+* [Advanced Nuclear Reactors](https://babel.hathitrust.org/cgi/pt?id=coo.31924071415222&view=1up&seq=1) -- A 1975 summary of breeder development in the USA
+
 </div>
 </div>
      

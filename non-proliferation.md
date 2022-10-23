@@ -145,5 +145,7 @@ inventorying, tracking, and detecting these materials as well.
   collection of writings collected at the request of Congress for better understanding the
   various aspects of nuclear non-proliferation policy.
 
+* [Nuclear proliferation and Safeguards](https://babel.hathitrust.org/cgi/pt?id=uc1.b5132018&view=1up&seq=26) --- A 270 pg report to Congress from 1977 summarizing the situation
+
 </div>
 </div>
