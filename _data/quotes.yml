@@ -310,3 +310,26 @@
       venue: "Talk show interview on German TV"
       url: https://www.daserste.de/information/talk/maischberger/videos/english-Greta-Thunberg-Exklusiv-Interview-maischberger-video-100.html
 
+
+- name: Ansel Adams
+  title: Photographer
+  fame: 5
+  expertise: 2
+  img: adams.jpg
+  img_src: https://en.wikipedia.org/wiki/Ansel_Adams#/media/File:Ansel_Adams_and_camera.jpg
+  quotes:
+    - quote: >
+        The point is that waste is a solvable problem. There are a lot of scientists 
+        who are much more moderate and support nuclear power, but for some reason, they
+        don't get heard. Relating simple facts about something's being safe doesn't 
+        get the same attention as telling people that something is scary and dramatic
+        and dangerous.
+      url: https://www.iplayboy.com/issue/19830501
+      venue: Playboy interview
+      date: 1983-05-01
+    - quote: >
+        I had my teeth examined when I was a little kid. I bet I had more radiation than 
+        I'd ever get around a nuclear plant for a year.
+      url: https://www.iplayboy.com/issue/19830501
+      venue: Playboy interview
+      date: 1983-05-01
