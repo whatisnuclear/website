@@ -255,7 +255,7 @@ bombs are *significantly* different machines, there is some technology overlap, 
 cycle facilities like enrichment and reprocessing plants. So, some people argue that
 having reactors around might make it easier to spread nuclear weapons.
 </p>
-<h5 class="card-title">Prolifertaion solutions</h5>
+<h5 class="card-title">Proliferation solutions</h5>
       <p class="card-text" markdown="1">
 It is important for nuclear facilities to monitor nuclear material. That said, advanced
 designs are being developed that reduce reliance on enrichment. Actually, nuclear reactors
