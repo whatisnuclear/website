@@ -233,6 +233,9 @@ var layout = {barmode: 'stack', yaxis: {
 
 Plotly.newPlot('plot', data, layout);
 
+// compute initial values
+computeFeed();
+
 
 </script>
 
