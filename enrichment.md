@@ -108,6 +108,12 @@ tails_assay.addEventListener("input",(e)=>{
 feed_assay.addEventListener("input",(e)=>{
   computeFeed();
 })
+product_mass.addEventListener("input",(e)=>{
+  computeFeed();
+})
+feed_mass.addEventListener("input",(e)=>{
+  computeFeed();
+})
 range.addEventListener("input",(e)=>{
     let val = parseFloat(e.target.value);
     if (val<parseFloat(feed_assay.value)) {
@@ -165,7 +171,7 @@ function computeFeed() {
     // compute MF/MP = feed factor
     let mode = document.querySelector('input[name="mode"]:checked').value
     let feed_factor = (number.value - tails_assay.value)/(feed_assay.value-tails_assay.value)
-    feed_factor= feed_factor.toFixed(3);
+    feed_factor= feed_factor;
     if (mode=="1") {
         feed_mass.value = (feed_factor * product_mass.value).toFixed(3);
     }
