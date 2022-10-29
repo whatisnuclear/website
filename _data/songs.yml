@@ -45,6 +45,26 @@
     date: 1980
     description: >
       Tongue-in-cheek song about being radioactive.
+  - artist: Christy Moore
+    title: House Down In Carne
+    album: 
+    anti: true
+    url: https://www.youtube.com/embed/b_uFP_rh2l8
+    date: 1980
+    description: >
+      The Ballad Of Nuke Power. I cripple and maim and cause death and decay"
+      Musically excellent for sure.
+
+  - artist: Tuff Darts
+    title: (Your Love Is Like) Nuclear Waste
+    album: 
+    anti: true
+    url: https://www.youtube.com/embed/Dro6Ysjd5RQ 
+    date: 1978
+    description: >
+      Kind of a power ballad. Your body is a danger to the human race! They should slap
+      "contaminated" right across your face!
+
   - artist: WAND
     title: No Dosimeter
     album: 
@@ -127,6 +147,16 @@
       where everyone started finding lots of uranium and we stopped focusing
       on breeder reactors. 
 
+  - artist: Warren Smith 
+    title: Uranium Rock
+    album: 
+    anti: false
+    url: https://www.youtube.com/embed/CUJQsoYxS3s
+    date: 1958
+    description: >
+      An early rock song about making money by uranium mining.
+
+
 - category: Nuclear war songs
   description: >
     Gotta have at least a few nuclear war songs
@@ -142,6 +172,16 @@
 
       If they push that button, your ass has got to go! Whatchu gonna do
       without your ass?
+
+  - artist: Louvin Brothers
+    title: Great Atomic Power
+    album: 
+    anti: false
+    url: https://www.youtube.com/embed/-5i4ZGVQGa8
+    date: 1952
+    description: >
+      A song encouraging people to accept Jesus before they get
+      bombed to oblivion.
 
 - category: Nuclear-adjacent songs
   description: >
