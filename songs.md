@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Nuclear Songs
-description: Our favorite anti-nuclear and pro-nuclear songs.
+title: Nuclear Energy Songs
+description: Our favorite anti-nuclear and pro-nuclear energy songs.
 image: /img/songs.jpg
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-Here are some pro- and anti-nuclear power songs. There are far more
-nuclear war songs than nuclear power ones, but we tried to limit
-these to just the ones about nuclear power.
+Here are some pro- and anti-nuclear energy songs. There are far more
+nuclear war songs than nuclear energy ones, but we tried to limit
+these to just the ones about nuclear energy. Though a few war ones
+slipped in anyway...
 
 <hr/>
 
