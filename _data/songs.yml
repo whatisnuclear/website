@@ -115,6 +115,17 @@
     description: >
       A country song about how atomic power was given by the mighty hand of God
       and should be used for good rather than destruction.
+      
+  - artist: Elton Britt
+    title: Uranium Fever
+    album: 
+    anti: false
+    url: https://www.youtube.com/embed/acMqxcdxE0E
+    date: 1955
+    description: >
+      A catchy country song about mining uranium for the AEC. This is the era
+      where everyone started finding lots of uranium and we stopped focusing
+      on breeder reactors. 
 
 - category: Nuclear war songs
   description: >
