@@ -35,10 +35,12 @@ slipped in anyway...
 <h2 class="mb-0">{{song.artist }} - {{ song.title }} ({{song.date}}) <a href="#{{song.title|slugify}}">&#167;</a></h2>
 <p>{{song.description}}</p>
 
-<iframe width="560" height="315" src="{{song.url}}"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+<div class="container text-center my-0 ratio ratio-16x9">
+<iframe src="{{song.url}}"
+title="{{song.title}}" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
+</div>
 {% endfor %}
 <hr />
 {% endfor %}
