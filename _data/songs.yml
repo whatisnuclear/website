@@ -1,0 +1,70 @@
+
+- artist: Gil Scott Heron
+  title: We almost Lost Detroit
+  anti: true
+  album: Bridges
+  url: https://www.youtube.com/embed/cpNUqNe0U5g
+  date: 1977
+  description: >
+    A super-chill tune all about the Fermi 1 accident where a liner
+    of a core catcher broke off and blocked the coolant inlets of a 
+    few assemblies, causing them to overheat and melt. Fermi 1
+    was an early sodium-metal cooled fast neutron reactor.
+
+- artist: Peter, Paul, and Mary
+  title: Power
+  album: Such is Love
+  anti: true
+  url: https://www.youtube.com/embed/ZOWb7Xu1onM 
+  date: 1983
+  description: >
+    A nice folky song by one of my childhood favorite groups. This one prefers
+    the comforting glow of the woodfire, never mind that biofuel combustion
+    kills about 4 million people per year with air pollution, according to the
+    WHO. 
+
+- artist: Kraftwerk
+  title: Radioactivity
+  album: Radio-Activity
+  anti: true
+  url: https://www.youtube.com/embed/0EBTn_3DBYo
+  date: 1975
+  description: >
+    A truly excellent sounding electronic song from the pioneers of techno.
+    Sadly, they're German...so, yeah. 
+
+- artist: Alice Cooper
+  title: Nuclear Infected
+  album: Flush the Fashion
+  anti: true
+  url: https://www.youtube.com/embed/Mk9XRBsCaug
+  date: 1980
+  description: >
+    Tongue-in-cheek song about being radioactive.
+
+- artist: Baba Brinkman
+  title: Molten Salt
+  album: Bright Future
+  anti: false
+  url: https://www.youtube.com/embed/TvsckP198L0
+  date: 2021
+  description: >
+    Nuclear reactor rap.
+    
+- artist: Him and the Layers
+  title: HalleNuclear
+  album: 
+  anti: false
+  url: https://www.youtube.com/embed/vw4-3BrPZTk
+  date: 2020
+  description: >
+    A beautiful song by some beautiful nearly-naked men from New Zealand's
+    most iconic topical pop group.
+    
+- artist: Sir Lancelot 
+  title: Atomic Energy
+  url: https://www.youtube.com/embed/S_eY1W7Ezw4
+  date: 1947
+  description: >
+    A calypso song pondering the tradeoffs involved when humans harness
+    great physical powers.
