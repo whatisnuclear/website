@@ -45,6 +45,7 @@
     date: 1980
     description: >
       Tongue-in-cheek song about being radioactive.
+
   - artist: Christy Moore
     title: House Down In Carne
     album: 
@@ -65,6 +66,16 @@
     description: >
       Kind of a power ballad. Your body is a danger to the human race! They should slap
       "contaminated" right across your face!
+
+  - artist: Timbuk 3
+    title: The Future's So Bright, I Gotta Wear Shades
+    album: The Future's So Bright, I Gotta Wear Shades
+    anti: true
+    url: https://www.youtube.com/embed/8qrriKcwvlY
+    date: 1986
+    description: >
+      A song about a nuclear scientist thinking about how bright the future will be
+      because of nuclear catastrophe. 
 
   - artist: WAND
     title: No Dosimeter
