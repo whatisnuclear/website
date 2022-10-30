@@ -12,9 +12,21 @@ mathjax: true
         <div class="col-md-8">
     
         
-        <p>This page derives the basic equation of radioactive decay. This equation allows us to figure out how many radioactive atoms are left after any amount of time. There are many general forms of the equation that deal with chains of nuclides, but here we only worry about the basics. WARNING: there is a little bit of calculus involved. </p>
+        <p>This page derives the basic equation of radioactive decay. This
+        equation allows us to figure out how many radioactive atoms are left
+        after any amount of time. There are many general forms of the equation
+        that deal with chains of nuclides, but here we only worry about the
+        basics. WARNING: there is a little bit of calculus involved. </p>
+
+        <p>Try out our <a href="{% link half-life.md %}">Interactive half-life calculator!</a></p>
+
            <h1>Number of atoms at any given time</h1>
-           <p>We start by noting that the speed of radioactive decays occurring in a sample is proportional to the number of radioactive atoms in the sample. This isn&rsquo;t hard to believe. If you had 10 jumping beans and saw one jump every second, you&rsquo;d expect to see about 10 jumps per second if you had 100. Mathematically, we represent this as 
+
+           <p>We start by noting that the speed of radioactive decays occurring
+           in a sample is proportional to the number of radioactive atoms in the
+           sample. This isn&rsquo;t hard to believe. If you had 10 jumping beans
+           and saw one jump every second, you&rsquo;d expect to see about 10
+           jumps per second if you had 100. Mathematically, we represent this as
            $$-\frac{dN}{dt}=N\lambda$$ where \(\frac{dN}{dt}\) is the number of decays per second the batch of atoms is undergoing, \(N\) is the current number of radioactive atoms, and \(\lambda\) is a constant (called the decay constant) which is characteristic of any particular radioactive atom representing the likelihood that any individual atom will decay at any given time. Atoms that decay faster have larger decay constants, and so on. </p>
            <p>Now that we know the rate at which our sample is decaying, we can integrate this rate to figure out the total number of atoms that have decayed at any given time. Unfortunately we can&rsquo;t just multiply by time because the decay rate is changing as the number of atoms changes. So we&rsquo;re forced to use calculus. Here we go, step-by-step:
            $$ \begin{aligned} 

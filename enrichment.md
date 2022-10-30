@@ -83,7 +83,9 @@ LEU
 </div>
 </div>
 
-<div id='plot'></div>
+<div class="row">
+<div class="col-12" id='plot'> </div>
+</div>
 
 
 
@@ -234,10 +236,19 @@ var trace2 = {
 var data = [trace1, trace2];
 
 var layout = {barmode: 'stack', yaxis: {
-    type: 'log', autorange: true
-}};
+    type: 'log', autorange: true, 
+}, 
+autosize: true,
+  margin: {
+      t: 0
+    },
+};
 
 Plotly.newPlot('plot', data, layout);
+
+window.onresize = function() {
+    Plotly.relayout('plot', {})
+}
 
 // compute initial values
 computeFeed();
