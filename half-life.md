@@ -12,8 +12,24 @@ image: /img/half-life.jpg
 <div class="col-12" markdown="1">
 
 <div class="row">
-<div class="col-8" markdown="1">
-<label for="halflife" class="form-label">Half-life (years)</label>
+<div class="col-8">
+
+
+<div class="row">
+<div class="col-4">
+<span class="float-start fw-light fst-italic">&#8592; less stable</span>
+</div>
+<div class="col-4 text-center">
+<label for="halflife" class="form-label">
+Half-life (years)
+</label>
+</div>
+<div class="col-4">
+<span class="float-end fw-light fst-italic">more stable &#8594;</span>
+</div>
+</div>
+
+
 <input type="range" value="5.0" step="1" min="1" class="form-range" id="halflife">
 </div>
 <div class="col-2" markdown="1">
