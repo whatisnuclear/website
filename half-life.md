@@ -36,37 +36,43 @@ Half-life (years)
 <label for="value">Half-life</label>
 <input type="input" value="5.0" class="form-control" id="value">
 </div>
-<div class="col-2">
+<div class="col-1 px-0 mx-0">
 <label for="hl-range-select">Half-life Range</label>
 <select class="form-select" aria-label="Half-life Range" id="hl-range-select">
   <option value="100">100</option>
   <option value="1000">1,000</option>
-  <option value="10000">10,000</option>
-  <option value="100000">100,000</option>
-  <option value="1000000">1,000,000</option>
-  <option value="10000000">10,000,000</option>
+  <option value="10000">10 k</option>
+  <option value="100000">100 k</option>
+  <option value="1000000">1 M</option>
+  <option value="10000000">10 M</option>
+  <option value="100000000">100 M</option>
+  <option value="1000000000">1 B</option>
+  <option value="10000000000">10 B</option>
 </select>
 </div>
 </div>
 <div class="row">
 
-<div class="col-3" markdown="1">
+<div class="col-3">
 <label for="maxtime" class="form-label">Max time to show (years)</label>
 <input type="range" value="50.0" min="1" step="1" class="form-range" id="maxtime">
 </div>
-<div class="col-1" markdown="1">
+<div class="col-2">
 <label for="maxtime-val">Max time</label>
 <input type="input" value="50.0" class="form-control" id="maxtime-val">
 </div>
-<div class="col-2">
+<div class="col-1 px-0 mx-0">
 <label for="time-range-select">Time Range</label>
 <select class="form-select" aria-label="Time Range" id="time-range-select">
   <option value="100">100</option>
   <option value="1000">1,000</option>
-  <option value="10000">10,000</option>
-  <option value="100000">100,000</option>
-  <option value="1000000">1,000,000</option>
-  <option value="10000000">10,000,000</option>
+  <option value="10000">10 k</option>
+  <option value="100000">100 k</option>
+  <option value="1000000">1 M</option>
+  <option value="10000000">10 M</option>
+  <option value="100000000">100 M</option>
+  <option value="1000000000">1 B</option>
+  <option value="10000000000">10 B</option>
 </select>
 </div>
 <div class="col-2" markdown="1">
