@@ -123,6 +123,11 @@ uranium in your hand without accumulating a hazardous dose.
 
 Learn more about [the math here]({% link math-behind-radioactive-decay.html %}).
 
+This graph depicts a single nuclide with its single half-life decaying to stability. Nuclear
+waste is typically composed of thousands of different [nuclides]({% link isotopes.md %}) that
+each have their own unique half-life, and often decay to other radioactive daughter
+nuclides before making it to stability.
+
 Learn about solutions to nuclear waste [here]({% link waste.md %}).
 
 <script src='https://cdn.plot.ly/plotly-2.16.1.min.js'></script>
