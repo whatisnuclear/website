@@ -9,18 +9,18 @@ image: /img/half-life.jpg
 ---
 
 <div class="row">
-<div class="col-md-12" markdown="1">
+<div class="col-12" markdown="1">
 
 <div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-8" markdown="1">
 <label for="halflife" class="form-label">Half-life (years)</label>
 <input type="range" value="5.0" step="1" min="1" class="form-range" id="halflife">
 </div>
-<div class="col-md-2" markdown="1">
+<div class="col-2" markdown="1">
 <label for="value">Half-life</label>
 <input type="input" value="5.0" class="form-control" id="value">
 </div>
-<div class="col-md-2">
+<div class="col-2">
 <label for="hl-range-select">Half-life Range</label>
 <select class="form-select" aria-label="Half-life Range" id="hl-range-select">
   <option value="100">100</option>
@@ -34,15 +34,15 @@ image: /img/half-life.jpg
 </div>
 <div class="row">
 
-<div class="col-md-3" markdown="1">
+<div class="col-3" markdown="1">
 <label for="maxtime" class="form-label">Max time to show (years)</label>
 <input type="range" value="50.0" min="1" step="1" class="form-range" id="maxtime">
 </div>
-<div class="col-md-1" markdown="1">
+<div class="col-1" markdown="1">
 <label for="maxtime-val">Max time</label>
 <input type="input" value="50.0" class="form-control" id="maxtime-val">
 </div>
-<div class="col-md-2">
+<div class="col-2">
 <label for="time-range-select">Time Range</label>
 <select class="form-select" aria-label="Time Range" id="time-range-select">
   <option value="100">100</option>
@@ -53,15 +53,15 @@ image: /img/half-life.jpg
   <option value="10000000">10,000,000</option>
 </select>
 </div>
-<div class="col-md-2" markdown="1">
+<div class="col-2" markdown="1">
 <label for="numbars-range" class="form-label">Number of bars</label>
 <input type="range" value="15" min="1" step="1" class="form-range" id="numbars-range">
 </div>
-<div class="col-md-2" markdown="1">
+<div class="col-2" markdown="1">
 <label for="numbars-val" class="form-label">Number of bars</label>
 <input type="input" value="15" class="form-control" id="numbars-val">
 </div>
-<div class="col-md-2" markdown="1">
+<div class="col-2" markdown="1">
 <!-- disable logx for now b/c bars get misleadingly wide -->
 <div class="form-check">
   <input hidden class="form-check-input" type="checkbox" value="" id="logx">
@@ -321,6 +321,7 @@ var layout = {barmode: 'stack',
         size: 18,
     },
     orientation: "h",
+    bgcolor: 'rgba(255,255,255,0.8)'
   }, 
   autosize: true,
   margin: {
