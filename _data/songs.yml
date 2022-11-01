@@ -129,8 +129,16 @@
 
 - category: General nuclear songs
   description: >
-    These at least mention nuclear
+    These talk about nuclear energy.
   songs:
+
+  - artist: Penney File 
+    title: Working in a Nuclear Power Plant
+    url: https://www.youtube.com/embed/DDQQQEQeG5A
+    date: "2000?"
+    description: >
+      A highly technical Christmas song with a bunch of truly funny
+      reactor operator stuff. Definitely written by a nuclear professional.
 
   - artist: Sir Lancelot 
     title: Atomic Energy
