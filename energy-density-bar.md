@@ -45,12 +45,15 @@ var layout = {barmode: 'stack',
       text: 'Energy Density',
         },
       nticks: 500,
-      range: [0.0, 80.0e6]
+      range: [0.0, 80.0e6],
+      fixedrange: true
     }, 
   xaxis: { autotick: true, 
-  title: {
-        text: 'Fuel', 
-  }},
+    title: {
+          text: 'Fuel', 
+      },
+    fixedrange: true,
+  },
   autosize: true,
   margin: {
       t: 0
