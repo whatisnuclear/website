@@ -16,6 +16,8 @@ the most physically unique thing about nuclear power is that the energy density 
 fuel is about 2 million times higher than that of any chemical (like fossil fuel, biofuel, or
 batteries).
 
+See results graphed on a linear-axis bar graph [here]({% link energy-density-bar.md %}).
+
 ## Details of the computation
 The easy way to compute energy density of nuclear fuels is to figure out how
 much fission energy can be released from 1 mole of the fuel. The equation for
