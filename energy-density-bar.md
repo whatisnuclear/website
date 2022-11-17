@@ -11,7 +11,7 @@ image: /img/kid_in_atom.jpg
 <div class="row">
 <div class="col-12" markdown="1">
 
-[Energy density]({% link energy-density.md %}) measures how many Joules of energy are in a kilogram of fuel. [Relevant xkcd](https://xkcd.com/1162/).
+[Energy density]({% link energy-density.md %}) measures how much energy is in a certain mass of fuel. [Relevant xkcd](https://xkcd.com/1162/).
 
 
 <div class="row">
@@ -43,7 +43,7 @@ var layout = {barmode: 'stack',
   yaxis: {
       type: 'linear', autorange: false ,
       title: { 
-      text: 'Energy Density',
+      text: 'Energy Density (MJ/kg)',
         },
       nticks: 500,
       range: [0.0, 80.0e6],
