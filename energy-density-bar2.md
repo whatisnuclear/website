@@ -15,6 +15,8 @@ image: /img/kid_in_atom.jpg
 
 [Energy density]({% link energy-density.md %}) measures how much energy is in a certain mass of fuel. [Relevant xkcd](https://xkcd.com/1162/).
 
+(Scroll down...)
+
 </div>
 </div>
 
@@ -31,8 +33,6 @@ image: /img/kid_in_atom.jpg
 Learn more about [breeder reactors here]({% link recycling.md %}).
 
 <hr/>
-
-
 
 
 </div>
@@ -59,7 +59,7 @@ let data= [
 var draw = SVG().addTo('#plot').size('100%', '100%');
 
 var pattern = draw.pattern(10, 10, function(add) {
-  add.rect(10,10).fill('orange')
+  add.rect(10,10).fill('firebrick')
   add.rect(5,5)
   add.rect(5,5).move(5,5)
 });
@@ -67,13 +67,26 @@ var pattern = draw.pattern(10, 10, function(add) {
 
 data.forEach((val, index, array) => {
   var rect = draw.rect(100, val.val/divisor).attr({ fill: pattern }).move(110*index, (height-val.val/divisor));
-  var back = draw.rect(100, 40).attr({fill: "white"}).move(110*index, (height))
+  var back = draw.rect(100, labelHeight).attr({fill: "white"}).move(110*index, (height))
   var text = draw.text(val.label).font({
   size: 12,
   family: 'Menlo, sans-serif',
-  anchor: 'end',
+  anchor: 'middle',
   fill: '#000'
 }).move(110*index, height)
 })
+
+let numBars = 500;
+for (let i = 0; i < numBars; i++) {
+    let y = i*height/numBars
+    line = draw.line(0, 0, 500, 0).stroke({ width: 1, color: "#111" }).move(0,y)
+    var text = draw.text(String((divisor*(height-i*height/numBars)/1e6).toFixed(1))+"M MJ/kg").font({
+      size: 12,
+      family: 'Menlo, sans-serif',
+      anchor: 'middle',
+      fill: '#000'
+    }).move(110*3, y)
+}
+
 
 </script>

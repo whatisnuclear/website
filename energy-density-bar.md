@@ -62,12 +62,13 @@ var layout = {barmode: 'stack',
 };
 
 var config = {
-  'displayModeBar': false
+  displayModeBar: false,
+  staticPlot: false
 }
 
 let data = [bars];
 
-Plotly.newPlot('plot', data, layout, config);
+Plotly.newPlot('plot', data, layout, config );
 
 </script>
 
