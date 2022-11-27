@@ -87,11 +87,21 @@ LEU
 <div class="col-12" id='plot'> </div>
 </div>
 
+<div class="row">
+<div class="col-12">
+<p class="text-center">
+<button id="save" class="btn btn-primary" 
+role="button"><i class="fa fa-clipboard fa-lg"></i> Copy
+current settings to clipboard</button></p>
+ </div>
+</div>
+
 
 
 <script src='https://cdn.plot.ly/plotly-2.16.1.min.js'></script>
 
 <script>
+
 
 let range=document.getElementById("enrich");
 let number=document.getElementById('enrich-text')
@@ -103,6 +113,8 @@ let product_mass=document.getElementById('product-mass')
 let tails_mass=document.getElementById('tails-mass')
 let swu=document.getElementById('swu-mass')
 let mode=document.getElementById('mode')
+let prod_const=document.getElementById('productConstant')
+let save=document.getElementById('save')
 
 tails_assay.addEventListener("input",(e)=>{
   computeFeed();
@@ -140,6 +152,10 @@ select.addEventListener("change",(e)=>{
     range.value=e.target.value;
     setRange(e.target.value);
     computeFeed();
+})
+
+save.addEventListener("click", (e) => {
+  copySettingsToClipboard();
 })
 
 function setRange(val) {
@@ -219,6 +235,36 @@ function vx(x) {
 
 }
 
+function setInputVals() {
+  // These can all be passed in as query params
+  const input = new URLSearchParams(window.location.search);
+  tails_assay.value = input.get("tails-assay") || 0.25;
+  feed_assay.value = input.get("feed-assay") || 0.711;
+  number.value = input.get("enrich") || 0.4;
+  range.value=number.value;
+  feed_mass.value = input.get("feed-mass") || 0;
+  product_mass.value = input.get("product-mass") || 1;
+  feed_mass.value = input.get("feed-mass") || 1;
+  if (input.get("mode") == "0") {
+      // check a checkbox
+      prod_const.checked=true
+  };
+}
+
+function copySettingsToClipboard() {
+  let params = new URLSearchParams([
+    ["tails-assay", tails_assay.value], 
+    ["feed-assay", feed_assay.value],
+    ["enrich", number.value],
+    ["feed-mass", feed_mass.value],
+    ["product-mass", product_mass.value],
+    ["mode", prod_const.checked ? "0" : "1"],
+  ]);
+
+  let text = new URL(`${location.protocol + '//' + location.host + location.pathname}?${params}`);
+  navigator.clipboard.writeText(text);
+}
+
 var trace1 = {
   x: ['Feed', 'Product', 'Tails'],
   y: [20, 14, 23],
@@ -251,6 +297,7 @@ window.onresize = function() {
 }
 
 // compute initial values
+setInputVals();
 computeFeed();
 
 

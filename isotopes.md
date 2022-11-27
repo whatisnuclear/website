@@ -51,6 +51,9 @@ alike. To create a chain reaction, you must <em>enrich</em> natural Uranium to c
 typical nuclear reactor requires about 3.5% U-235, whereas a nuclear weapon requires more than 90%
 U-235. See figure below. 
 
+<a href="{% link enrichment.md %}">Try our interactive enrichment calculator</a>
+
+
 Enrichment is a very difficult process, as the mass difference between each isotope is minuscule.
 The US developed enrichment at Oak Ridge during World War II as part of the Manhattan Project. The
 newsworthy item about it is that anyone who can enrich can create highly-enriched uranium, a good
