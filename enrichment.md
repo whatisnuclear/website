@@ -240,7 +240,7 @@ function setInputVals() {
   const input = new URLSearchParams(window.location.search);
   tails_assay.value = input.get("tails-assay") || 0.25;
   feed_assay.value = input.get("feed-assay") || 0.711;
-  number.value = input.get("enrich") || 0.4;
+  number.value = input.get("enrich") || 4.0;
   range.value=number.value;
   feed_mass.value = input.get("feed-mass") || 0;
   product_mass.value = input.get("product-mass") || 1;
