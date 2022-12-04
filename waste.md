@@ -1,6 +1,9 @@
 ---
 layout: default
-title: What is nuclear waste?
+# we keep oscillating between what about the waste and what is nuclear waste?
+# People on big twitter threads to constantly ask, verbatim, what about the waste, 
+# so I feel tempted to make it that again for now.
+title: What about nuclear waste?
 category: physics
 description: >
     What about nuclear waste? Is it appropriate to expand nuclear power in light of it?
@@ -32,7 +35,7 @@ going deeper. Here, you will learn:
 * [What is the composition of nuclear waste?](#composition)
 
 <a name="what"></a>
-## What exactly is Nuclear Waste?
+## What is nuclear waste?
 Nuclear energy is released when a nuclear fuel nucleus snaps into two in a [reactor]({{
 site.baseurl }}{% link reactors.md %}). The key component
 of nuclear waste is the leftover smaller nuclei, known as fission products.
@@ -211,7 +214,8 @@ To our knowledge, no one has been injured or killed by commercial nuclear waste 
 cask storage. While future incidents are possible, it is fairly clear that the rate of
 injury from this material pales almost in insignificance compared to the 8 million people
 per year who actually do die from [air pollution complications caused by fossil fuel and
-biofuel emissions (WHO numbers)](https://www.who.int/health-topics/air-pollution). 
+biofuel particulate emissions (WHO numbers)](https://www.who.int/health-topics/air-pollution). 
+Not to mention potential future mortality due to climate change.
 
 The fact that nuclear plants keep all of their waste on site for their entire lifecycle can 
 be considered a major positive environmental attribute compared with energy sources that emit vast
