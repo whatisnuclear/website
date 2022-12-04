@@ -85,11 +85,13 @@ density of nuclear fuel</a> page for details.</p>
     <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne">
       <div class="accordion-body">
         <p>
-          Splitting atoms is a carbon-free process, so nuclear power is a
-          global solution to climate change. While some processes in the overall lifecycle
-          are currently carbon-emitting, the net result is that nuclear is nearly as low-carbon
-          as you can get. Once we electrify construction and mining equipment and power it all
-          with nuclear and other zero-carbon processes, the overall carbon will trend to zero.
+          Splitting atoms is a carbon-free process, so nuclear power is a global
+          solution to climate change. While <a href="{% link
+          nuclear-lifecycle-co2.md %}">some processes in the overall
+          lifecycle</a> are currently carbon-emitting, the net result is that
+          nuclear is nearly as low-carbon as you can get. Once we electrify
+          construction and mining equipment and power it all with nuclear and
+          other zero-carbon processes, the overall carbon will trend to zero.
         </p>
         <figure>
             <a href="/img/lifecycle-carbon-emissions_opt.svg">
@@ -418,3 +420,5 @@ of the IPCC</a>)</li>
 <div class="col-md-12">
 <a href="{% link reactors.md %}" class="btn btn-success m-1" role="button">Next &#10095;</a>
 </div></div>
+
+
