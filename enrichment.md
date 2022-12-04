@@ -63,6 +63,12 @@ LEU
     Compute feed mass from given product mass
   </label>
 </div>
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="mode" value="2" id="inputConstant" >
+  <label class="form-check-label" for="inputConstant">
+    Compute resources needed for a kWh-electric
+  </label>
+</div>
 
 <div class="row">
 <div class="col-md-3">
@@ -80,6 +86,29 @@ LEU
 <div class="col-md-3">
 <label for="swu-mass" class="form-label">SWU (kg-SWU or tonne-SWU)</label>
 <input type="input" value="" placeholder="SWUs" class="form-control" id="swu-mass" readonly>
+</div>
+</div>
+
+<hr/>
+<div class="row">
+<div class="col-md-3">
+<label for="burnup" class="form-label">Avg. burnup (MWd/kgHM or MWd/MTHM)</label>
+<input type="input" value="" placeholder="Avg. burnup" class="form-control" id="burnup" >
+</div>
+<div class="col-md-3">
+<label for="eff" class="form-label">Thermal efficiency (%)</label>
+<input type="input" value="" placeholder="Thermal efficiency" class="form-control" id="eff" >
+</div>
+<div class="col-md-3" markdown="1">
+<label for="rx-select" class="form-label">Or choose reactor preset</label>
+<select class="form-select" aria-label="Reactor presets" id="rx-select">
+  <option value="" selected>Choose Reactor Preset</option>
+  <option value="LWR">Light-water reactor</option>
+  <option value="SFR">Sodium-cooled fast reactor</option>
+  <option value="TMSR">Molten salt reactor (slow)</option>
+  <option value="MSFR">Molten salt fast reactor</option>
+  <option value="SGR">Sodium Graphite Reactor</option>
+</select>
 </div>
 </div>
 
@@ -115,6 +144,9 @@ let swu=document.getElementById('swu-mass')
 let mode=document.getElementById('mode')
 let prod_const=document.getElementById('productConstant')
 let save=document.getElementById('save')
+let rxselect=document.getElementById('rx-select')
+let burnup=document.getElementById('burnup')
+let eff=document.getElementById('eff')
 
 tails_assay.addEventListener("input",(e)=>{
   computeFeed();
@@ -156,6 +188,31 @@ select.addEventListener("change",(e)=>{
 
 save.addEventListener("click", (e) => {
   copySettingsToClipboard();
+})
+
+rxselect.addEventListener("change",(e)=>{
+    if (!e.target.value) {
+        return;
+    }
+    // probably need to set enrichment and product mass in order for
+    // these presets to really work meaningfully. And then in order
+    // to handle breeders we'd need to add in recycling parameters. 
+    // Pretty soon this will be another version of VISION, etc.
+    switch (e.target.value){
+      case "LWR":
+        burnup.value=60.0;
+        eff.value=33.0
+        break
+      case "SFR":
+        burnup.value=150.0;
+        eff.value=39.0;
+        break;
+      case "SGR":
+        burnup.value=60.0;
+        eff.value=39.0;
+        break;
+
+    }
 })
 
 function setRange(val) {
