@@ -235,8 +235,7 @@ Potassium-40 is found all around, including in bananas and in salt-substitutes a
 4. Mara Hvistendahl, <a href="https://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/">&quot;Coal Ash Is More Radioactive 
    than Nuclear Waste,&quot;</a> Scientific American (2007).
 5. <a href="https://www.eia.gov/nuclear/spent_fuel/">Energy Information Administration - Spent Nuclear Fuel</a>
-6. <a href="https://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB">National Library of Medicine, Hazardous Substances Data Bank</a>
-7. <a href="https://emergency.cdc.gov/radiation/isotopes/cesium.asp">Center for Disease Control and Prevention: Radioisotope Brief: Cesium-137</a>
+6. <a href="https://emergency.cdc.gov/radiation/isotopes/cesium.asp">Center for Disease Control and Prevention: Radioisotope Brief: Cesium-137</a>
 
 
 </div>
