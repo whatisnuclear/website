@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thorium myths
-description: As much as we love Thorium, there are way too many myths and misconceptions about it going on. We set them straight here. 
+description: As much as we love Thorium, there are way too many myths about it going around. We set them straight here. 
 author: nick
 image: /img/Thor.jpg
 date: 2014-03-13
@@ -20,42 +20,45 @@ Thorium was so named in the 1820s, well before its nuclear properties were disco
 </div>
 
 **Dear Internet,** we need to have a talk about Thorium. Almost all the
-borderline-miraculous things people say it does online are associated with advanced
-nuclear technology (e.g. breeding and low-pressure coolant systems) and apply to both
-thorium and uranium fuels. Generally, you can swap the word "thorium" out for "advanced
-nuclear".
+borderline-miraculous things people say it does online are associated with
+advanced nuclear technology (e.g. [breeding](% link recycling.md %}) and
+low-pressure coolant systems) and apply to both thorium and uranium fuels.
+Generally, you can swap the word "thorium" out for "advanced nuclear".
 
 ## Motivation
-The things being said on the internet have become largely misleading, if not all-out
-inaccurate. Every internet person I meet in real life who finds out that I am a nuclear engineer
-asks me why we aren't using the end-all, be-all that is thorium. Every post regarding nuclear
-energy is packed full of comments claiming that Thorium will end all concerns about
-nuclear energy and that Uranium is only in use due to some dark dark conspiracy.
+The things being said on the internet have become largely misleading, if not
+all-out inaccurate. Every internet person I meet in real life who finds out that
+I am a nuclear engineer asks me why we aren't using the end-all, be-all that is
+thorium. Every post regarding nuclear energy is packed full of comments claiming
+that Thorium will end all concerns about nuclear energy and that Uranium is only
+in use due to some dark dark conspiracy.
 
-Some places on the internet have become echo-chambers for this kind of thing, and while it's
-great to spread awareness of thorium, blatant disregard of the associated challenges is a detriment
-to civilization's energy debate. Besides, taking a moderate viewpoint lends credibility to any
-cause. This page will try to point people in the right direction if they get lost.
+Some places on the internet have become echo-chambers for this kind of thing,
+and while it's great to spread awareness of thorium, blatant disregard of the
+associated challenges is a detriment to civilization's energy debate. Besides,
+taking a moderate viewpoint lends credibility to any cause. This page will try
+to point people in the right direction if they get lost.
 
-Thorium has one primary advantage, which is that it **uniquely allows [breeding]({% link
-recycling.md %}) with [slow neutrons]({% link moderation.html %})**. Breeding is possible with
-[fast neutrons]({% link fast-reactor.md %}) in any fuel, but doing it with slow neutrons
-is kind of neat. Everything else you may have heard is suspect.
+Thorium has one primary advantage, which is that it **uniquely allows
+[breeding]({% link recycling.md %}) with [slow neutrons]({% link moderation.html
+%})**. Breeding is possible with [fast neutrons]({% link fast-reactor.md %}) in
+any fuel, but doing it with slow neutrons is kind of neat. Everything else you
+may have heard is suspect.
 
 ## On this page:
 <ul>
-<li><a href="#myth1">Misconception #1: Development of Thorium reactors got canceled because they couldn't make bombs!</a></li>
-<li><a href="#myth2">Misconception #2: Thorium reactors never need enrichment!</a></li>
-<li><a href="#myth3">Misconception #3: Thorium reactors cannot make bombs!</a></li>
-<li><a href="#myth4">Misconception #4: There's more Thorium than Uranium, and that is really important!</a></li>
-<li><a href="#myth5">Misconception #5: Thorium reactors exclusively make waste that is safe in hundreds of years!</a></li>
-<li><a href="#myth6">Misconception #6: Thorium reactors and Molten Salt Reactors are the same thing!</a></li>
+<li><a href="#myth1">Myth #1: Development of Thorium reactors got canceled because they couldn't make bombs!</a></li>
+<li><a href="#myth2">Myth #2: Thorium reactors never need enrichment!</a></li>
+<li><a href="#myth3">Myth #3: Thorium reactors cannot make bombs!</a></li>
+<li><a href="#myth4">Myth #4: There's more Thorium than Uranium, and that is really important!</a></li>
+<li><a href="#myth5">Myth #5: Thorium reactors exclusively make waste that is safe in hundreds of years!</a></li>
+<li><a href="#myth6">Myth #6: Thorium reactors and Molten Salt Reactors are the same thing!</a></li>
 <li><a href="#wall">Wall of Shame!</a></li>
 </ul>
 <hr/>
 
 <a name="myth1"></a>
-## Misconception #1: Development of Thorium reactors was stopped because they couldn't make bombs!
+## Myth #1: Development of Thorium reactors was stopped because they couldn't make bombs!
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Nope. It was economics. When you add a neutron poison like thorium into your core, you
 need to add extra enriched uranium, which is extra expensive. Simple as that.
@@ -107,7 +110,7 @@ However, when MSRs were finally given their chance in the 1950s and 60s, their (
 inability to make bombs was not to blame for the cancellation. 
 
 <a name="myth2"></a>
-## Misconception #2: Thorium reactors never need enrichment!
+## Myth #2: Thorium reactors never need enrichment!
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Like all reactors, Thorium reactors need some fissile material to start up. Thorium itself
 is a neutron poison and needs to be irradiated by neutrons (coming from somewhere) in
@@ -127,7 +130,7 @@ amount of fissile in fast spectrum reactors is always more than in slow-neutron 
 TL;DR: They do to start up, and U-Pu breeders like the LMFBR can do the same so it's not Thorium specific.
 <a name="myth3"></a>
 
-## Misconception #3: Thorium reactors cannot make bombs!
+## Myth #3: Thorium reactors cannot make bombs!
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
 
 Nuclear reactors, by their nature, split atoms in a chain reaction to release energy
@@ -211,7 +214,7 @@ are so dire, nuclear power plants need to have baseline proliferation safeguards
 Thorium-powered reactors, whether fluid fueled or not, are no exception.
 
 <a name="myth4"></a>
-## Misconception #4: There's more Thorium than Uranium, and that is really important!
+## Myth #4: There's more Thorium than Uranium, and that is really important!
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-warning">MISLEADING</button></span> 
 This one is mostly true, but also partially false. The average crustal concentration of Thorium is
 0.00060%, compared with 0.00018% for Uranium [3]. But, the oceanic abundance of Th is
@@ -220,7 +223,7 @@ contain 1.4x10<sup>21</sup> kg of water, that amounts to 56,000 tonnes of Th and
 of Uranium. Moreover, mining the entire crust is difficult, whereas the ocean delivers to you. While
 seawater extraction of uranium is not yet competitive with traditional mining (it&rsquo;s hovering
 around 4x more expensive), it is possible and may become economical in the near future. So while
-Misconception 4 is correct with respect to the crust, it&rsquo;s not necessarily relevant from a
+Myth 4 is correct with respect to the crust, it&rsquo;s not necessarily relevant from a
 global resource perspective, and there may very well be more accessible Uranium available to us. The
 crust is estimated to weigh around 1.0x10<sup>22</sup> kg, so overall, there is actually more Th.
 If you want to get very technical and start including asteroid and star mining, the abundance of Th
@@ -236,7 +239,7 @@ economically extract Th from lots of common sands). And remember, if we close th
 (whether using Th-U or U-Pu), the fuel resources are a non-issue for millenia.  
 
 <a name="myth5"></a>
-## Misconception #5: Thorium reactors are the only ones that make waste that is safe in hundreds of years!
+## Myth #5: Thorium reactors uniquely make waste that is safe in hundreds of years!
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
 Undenatured Thorium cycles certainly produce fewer transuranic elements (Np, Pu, Am, Cm,+), which
 are the major dangerous nuclides in <a href="{% link waste.md %}">nuclear waste</a> in the 10,000+
@@ -248,10 +251,10 @@ correct. If they say Thorium is the only game in town that can reduce waste like
 not correct.
 
 <a name="myth6"></a>
-## Misconception #6: Thorium reactors and Molten Salt Reactors are the same thing!
+## Myth #6: Thorium reactors and Molten Salt Reactors are the same thing!
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">NOT ALWAYS</button></span> 
 On one hand you can choose between a Th-U fuel cycle and a U-Pu fuel cycle. On the other hand, you
-can choose between a fluid fueled reactor (like a MSR) or a solid fueled reactor (like a LWR or a
+can choose between a fluid fueled reactor (like a [MSR]({% link msr.md %})) or a solid fueled reactor (like a LWR or a
 sodium-cooled fast reactor). Now, the Th-U cycle works really really well with MSRs, and
 that&rsquo;s why they are often discussed together. There&rsquo;s nothing wrong with this, but
 it&rsquo;s nice to know what benefits come from which choice. The Th-U fuel cycle can be (and has
@@ -264,10 +267,10 @@ low/zero fabrication cost, low fissile requirement, low excess reactivity (since
 
 The attributes that come from choosing the Th-U fuel cycle over the U-Pu cycle include:
 the possibility of slow-neutron (thermal) breeding (as demonstrated in the Shippingport
-LWR), the reduced production of minor actinides (see Misconception #5), allowing nuclear
+LWR), the reduced production of minor actinides (see Myth #5), allowing nuclear
 waste to be safer without aggressive reprocessing, and the ability to use the Thorium
 mineral base instead of the Uranium minerals (useful if your country has Th but no U. See
-Misconception #4).
+Myth #4).
 <hr/>
 
 # Disclaimer
@@ -300,13 +303,13 @@ entire video is misleading.
 
 * [Richard Martin, "Uranium Is So Last Century — Enter Thorium, the New Green
   Nuke"](https://www.wired.com/2009/12/ff_new_nukes/) An article about the primary Thorium
-  proponent, Kirk Sorensen. Hits every single misconception, and is accidentally misleading
+  proponent, Kirk Sorensen. Hits every single myth, and is accidentally misleading
   on many accounts.
 
 * [Pascal-Emmanuel Gobry,"This energy source could solve all of our problems — so why is
   no one talking about
 it?"](https://theweek.com/articles/450000/energy-source-could-solve-all-problems--why-no-talking-about)
-Woah this is a really good yarn. Again, hits most misconceptions but even makes up some
+Woah this is a really good yarn. Again, hits most myths but even makes up some
 new ones. Best quote: 
 
   > If these systems fail, the reactor starts going into meltdown.
@@ -330,7 +333,7 @@ quote:
 * [Thorium: a safer nuclear
   power](https://www.csmonitor.com/Environment/Energy-Voices/2014/0328/Thorium-a-safer-nuclear-power)
 This one, focused on China and India's development programs, touches on most of the
-misconceptions and confuses higher melting point as a safety advantage (only relevant for
+myths and confuses higher melting point as a safety advantage (only relevant for
 solid fuel). Whoops! 
 
 * [World's first thorium reactor ready to be built for cheaper, safer nuclear
@@ -341,7 +344,7 @@ operation, etc. The whole nine yards!
 
 * [Thorium as a Secure Nuclear Fuel Alternative by A. Canon Bryan](
   http://ensec.org/index.php?option=com_content&amp;view=article&amp;id=187:thorium-as-a-secure-nuclear-fuel-alternative&amp;catid=94:0409content&amp;Itemid=342) This
-one hits every single misconception, almost in order. It <a
+one hits every single myth, almost in order. It <a
 href="https://www.reddit.com/r/todayilearned/comments/2dbh9c/til_experimental_thorium_nuclear_fission_isnt/">was
 posted on reddit TIL</a> and was making it to the front page. A link to this page was
 posted as a comment and made it to the top comment. The TIL mods then flagged the post as
@@ -396,6 +399,10 @@ href="contact.html">a note</a>.
 
 <span class="badge bg-success">REDDIT ALERT</span> 
 A fairly lively discussion of the content of this page happened on Reddit <a href="https://www.reddit.com/r/energy/comments/217f78/a_superfuel_a_hard_look_at_thorium_myths/">in this thread</a>.
+
+## See Also
+* [Krepel, COMPARISON OF 16 REACTORS NEUTRONIC PERFORMANCE IN CLOSED TH-U AND U-PU CYCLES](https://www.gen-4.org/gif/upload/docs/application/pdf/2020-06/geniv_dr_jiri_krepelfinal_24june2020_2020-06-24_08-48-31_646.pdf)
+  * [associated journal publication](https://doi.org/10.1016/j.anucene.2019.01.013)
 
 </div>
 </div>
