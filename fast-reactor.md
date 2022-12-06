@@ -19,7 +19,7 @@ and thus extend known fuel resources by many orders of magnitude, enabling nucle
 to achieve [long term sustainability]({% link
 nuclear-sustainability.md %}).
 
-Whereas traditional reactors contain [moderators]({% link moderation.html %}) to slow down
+Whereas traditional reactors contain [moderators]({% link moderation.md %}) to slow down
 neutrons after they're emitted, fast reactors keep their neutrons moving quickly.  An
 average slow neutron moves around at about 2200 m/s while a fast neutron might be cruising
 well above 9 million m/s, which is about 3% of the speed of light.
@@ -144,7 +144,7 @@ reactors have maintained the interest of much of the forward-looking nuclear cro
 
 
 <h2 id="details">Technical Details</h2>
-It might be wise to go read <a href="{% link moderation.html %}">our moderation
+It might be wise to go read <a href="{% link moderation.md %}">our moderation
 page</a> for a second and come back when you understand that neutrons emerge from
 fission reactions at high speeds and that we typically like to slow them down to thermal
 energies in order to increase their chances of continuing the chain reaction. This is what

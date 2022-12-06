@@ -1341,7 +1341,7 @@ in Arkansas provided fast-reactor physics data.
   <div class="card-header text-white bg-success"><strong>Fast vs. thermal neutrons</strong></div>
   <div class="card-body" markdown="1">
 Neutrons emerge from a splitting nucleus at about 10,000 miles per second.  They are
-generally slowed down to a few miles per second by a *[moderator]({% link moderation.html
+generally slowed down to a few miles per second by a *[moderator]({% link moderation.md
 %})* to minimize the amount of fissile fuel required. Once slowed down, they are called
 *thermal* neutrons indicating that they are at equilibrium with the thermal agitation of
 the atoms or molecules at the temperature of the materials in the reactor.

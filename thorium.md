@@ -59,7 +59,7 @@ thorium-myths.md %}">Thorium Myths page</a> just to double check it.
 
 <h2 id="benefits">What are the key benefits of Thorium?</h2>
 
-* **Thorium cycles exclusively allow [slow-neutron]({% link moderation.html %}) breeder reactors** (as
+* **Thorium cycles exclusively allow [slow-neutron]({% link moderation.md %}) breeder reactors** (as
   opposed to [fast breeders]({% link fast-reactor.md %})). More neutrons are released per neutron
   absorbed in the fuel in a traditional (slow-neutron) type of reactor. This means that if the fuel is
   [reprocessed]({% link recycling.md %}), reactors could be fueled without mining any additional

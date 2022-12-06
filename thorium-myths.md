@@ -40,7 +40,7 @@ taking a moderate viewpoint lends credibility to any cause. This page will try
 to point people in the right direction if they get lost.
 
 Thorium has one primary advantage, which is that it **uniquely allows
-[breeding]({% link recycling.md %}) with [slow neutrons]({% link moderation.html
+[breeding]({% link recycling.md %}) with [slow neutrons]({% link moderation.md
 %})**. Breeding is possible with [fast neutrons]({% link fast-reactor.md %}) in
 any fuel, but doing it with slow neutrons is kind of neat. Everything else you
 may have heard is suspect.

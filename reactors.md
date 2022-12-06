@@ -142,7 +142,7 @@ fuel pellets stacked in zirconium tubes. They could possibly burn [thorium]({% l
 
 #### Pros:
 * Strong negative void coefficient &mdash; reactor cools down if water starts bubbling 
-  because the coolant is the [moderator]({% link moderation.html %}), which is required to sustain 
+  because the coolant is the [moderator]({% link moderation.md %}), which is required to sustain 
   the chain reaction
 
 * Secondary loop keeps [radioactive]({% link radioactivity.md %}) stuff away from turbines, 

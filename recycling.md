@@ -239,6 +239,7 @@ nuclear power can <a href="{% link nuclear-sustainability.md %}">truly be consid
 * <a href="{% link waste.md %}">Our nuclear waste page</a>
 * <a href="{% link fast-reactor.md %}">Our Breeder reactors page</a>
 * <a href="https://en.wikipedia.org/wiki/Yucca_mountain">Yucca Mountain (Wikipedia)</a>
+* Our [Moderation]({% link moderation.md %}) page
 
 </div>
 </div>
