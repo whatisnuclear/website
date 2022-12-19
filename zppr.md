@@ -26,21 +26,21 @@ across a listing of motion pictures. It listed three:
 * [Principles of Thermal, Fast, and Breeder Reactors (1963)](https://www.youtube.com/watch?v=YsZE_YhUXh4)
 * [A Breeder in the Desert (1965)](https://www.youtube.com/watch?v=Y4Ks2TA8h4M)
 
-I had seen the latter two, but never heard of the first, which was about the
+I had seen the latter two, but had never heard of the first, which was about the
 Zero Power Plutonium Reactor (ZPPR), now called the Zero Power Physics Reactor.
-I searched around but couldn't find a copy of it anywhere. There [mention of it
+I searched around but couldn't find a copy of it anywhere. There was [mention of it
 in the National Archives](https://catalog.archives.gov/id/88308), but it was
 clearly labeled with: **This item has not been digitized**. I [pinged the
 National Labs on Twitter but heard
 nothing](https://twitter.com/whatisnuclear/status/1584024975518093314).
 
 [Having
-written](https://en.wikipedia.org/w/index.php?title=Zero_Power_Physics_Reactor&diff=prev&oldid=1025855316)
+briefly pounded out](https://en.wikipedia.org/w/index.php?title=Zero_Power_Physics_Reactor&diff=prev&oldid=1025855316)
 the [Wikipedia page on
 ZPPR,](https://en.wikipedia.org/wiki/Zero_Power_Physics_Reactor) I felt a
-special dedication to preserving some historical information about this
+slightly special dedication to preserving more historical information about this
 facility. So I decided to look into what the process was for digitizing old
-films from the National Archives. 
+16mm films from the National Archives. 
 
 I e-mailed the Archives and they pointed me to the [Item Approval Request
 Form](https://www.archives.gov/research/order/item-approval-form.html).  You
@@ -51,8 +51,8 @@ After you get approval, you head over to the [Archive's list of approved
 film-scanning
 vendors](https://www.archives.gov/research/motion-pictures/vendors) and send the
 approval form in for quotes. I sent it in to the two that can handle films that
-are only available on master copies. They sent quotes back in a few
-days. 
+are only available as masters due to an I on my IAR form (as instructed). They
+sent quotes back in a few days. 
 
 There was some variation depending on what resolution you request it in, how
 much compression the files will have, and how they deliver the files.  For a 28
@@ -66,11 +66,11 @@ then required the purchase of a USB hard drive and shipping, since uploading
 the 345 GB would be way more expensive with their upload fees. This bumped
 the total cost up to over $900. 
 
-Anyway I convinced my SO to let me do it because I just like nuclear history
-that much. I authorized the scan and then waited for a while. They got it
-done and sent the hard drive via FedEx. I loaded the 345 GB file onto my NAS 
-and then used ffmpeg to make a h246 version of it that was only 23.4 GB.
-Then I uploaded that to YouTube. Thank goodness for fiber!
+I convinced my SO to let me do it because I just like nuclear history that much.
+I authorized the scan and then waited for a while. They got it done and sent the
+hard drive via FedEx. I loaded the 345 GB file onto my NAS and then used ffmpeg
+to make a h246 version of it that was only 23.4 GB. Thank goodness for my big
+AMD 5950 CPU. Then I uploaded that to YouTube. Thank goodness for fiber!
 
 It premiered on YouTube on December 19th, 2022 at noon PT.
 
@@ -78,6 +78,7 @@ Along the way, my colleague Michael Castillo found [a booklet listing
 dozens more AEC videos](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater).
 Given the pricing, we're gonna have to crowd-fund the rest of them I guess :)
 
+If anyone needs the 345 GB ProRes-format version, [let me know]({% link contact.md %}).
 
 
 ## See Also
