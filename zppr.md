@@ -81,10 +81,14 @@ Given the pricing, we're gonna have to crowd-fund the rest of them I guess :) In
 my opinion the most interesting and valuable next ones to get (in order) would
 be the ones about:
 
-1. The NS Savannah nuclear-propelled ship (NAIDs [88199](https://catalog.archives.gov/id/88199) and [88200](https://catalog.archives.gov/id/88200))
-2. The ML-1 mobile reactor [(NAID 88191)](https://catalog.archives.gov/id/88191)
-3. The Hallam sodium-graphite reactor [(NAID 88153)](https://catalog.archives.gov/id/88153)
-4. The Piqua organic-cooled reactor [(NAID 88218)](https://catalog.archives.gov/id/88218)
+1. The Hallam sodium-graphite reactor [(NAID 88153)](https://catalog.archives.gov/id/88153)
+2. The NS Savannah nuclear-propelled ship (NAIDs [88199](https://catalog.archives.gov/id/88199) and [88200](https://catalog.archives.gov/id/88200))
+3. The Piqua organic-cooled reactor [(NAID 88218)](https://catalog.archives.gov/id/88218) (Note that [a 480p scan exists](https://www.youtube.com/watch?v=cH06vZZZSZw))
+
+A lot of them already have good scans, like the ML-1 mobile reactor one [(NAID
+88191)](https://catalog.archives.gov/id/88191) ([HD
+scan](https://www.youtube.com/watch?v=PPPp5rtu04A))
+
 
 If anyone needs the 345 GB ProRes-format version, [let me know]({% link contact.md %}).
 
