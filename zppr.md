@@ -74,9 +74,17 @@ AMD 5950 CPU. Then I uploaded that to YouTube. Thank goodness for fiber!
 
 It premiered on YouTube on December 19th, 2022 at noon PT.
 
-Along the way, my colleague Michael Castillo found [a booklet listing
-dozens more AEC videos](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater).
-Given the pricing, we're gonna have to crowd-fund the rest of them I guess :)
+Along the way, my colleague Michael Castillo found [a booklet listing dozens
+more AEC
+videos](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater).
+Given the pricing, we're gonna have to crowd-fund the rest of them I guess :) In
+my opinion the most interesting and valuable next ones to get (in order) would
+be the ones about:
+
+1. The NS Savannah nuclear-propelled ship
+2. The ML-1 mobile reactor
+3. The Hallam sodium-graphite reactor
+4. The Piqua organic-cooled reactor
 
 If anyone needs the 345 GB ProRes-format version, [let me know]({% link contact.md %}).
 
