@@ -81,20 +81,30 @@ Given the pricing, we're gonna have to crowd-fund the rest of them I guess :) In
 my opinion the most interesting and valuable next ones to get (in order) would
 be the ones about:
 
-1. The Hallam sodium-graphite reactor [(NAID 88153)](https://catalog.archives.gov/id/88153)
-2. The NS Savannah nuclear-propelled ship (NAIDs [88199](https://catalog.archives.gov/id/88199) and [88200](https://catalog.archives.gov/id/88200))
-3. The Piqua organic-cooled reactor [(NAID 88218)](https://catalog.archives.gov/id/88218) (Note that [a 480p scan exists](https://www.youtube.com/watch?v=cH06vZZZSZw))
+* The Hallam sodium-graphite reactor [(NAID 88153)](https://catalog.archives.gov/id/88153)
+  * Also **Operating Experience, Hallam** [(NAID 88207)](https://catalog.archives.gov/id/88207)
+  * Unclear where to find:  **Retirement of the Hallam Nuclear Power Facility
+    (1970)**, referred to as [AVN 0511 in here](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
+* Sodium Reactor Experiment [(NAID 88259)](https://catalog.archives.gov/id/88259) 19 mins
+  * Sodium Reactor Experiment Fabrication[(NAID 88420)](https://catalog.archives.gov/id/88420) 20 mins
+* REMOTE REPAIR AND MODIFICATION OF THE HRE-2 CORE VESSEL ([NAID 88244](https://catalog.archives.gov/id/88244))
+* The NS Savannah nuclear-propelled ship (NAIDs [88199](https://catalog.archives.gov/id/88199) and [88200](https://catalog.archives.gov/id/88200))
+* The Piqua organic-cooled reactor [(NAID 88218)](https://catalog.archives.gov/id/88218) (Note that [a 480p scan exists](https://www.youtube.com/watch?v=cH06vZZZSZw))
 
 A lot of them already have good scans, like the ML-1 mobile reactor one [(NAID
 88191)](https://catalog.archives.gov/id/88191) ([HD
 scan](https://www.youtube.com/watch?v=PPPp5rtu04A))
 
+There appears to be an archive with 26 episodes of 
+**The Magic of the Atom** at the [American Archive of Public Broadcasting](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=all&f%5Bseries_titles%5D%5B%5D=The+Magic+of+the+Atom&per_page=50&sort=episode_number_sort+asc), none of which appears digitized yet. So it would be fun to check in with them about how to get things scanned as well.
 
 If anyone needs the 345 GB ProRes-format version, [let me know]({% link contact.md %}).
 
 
 ## See Also
 * [ZPPR wikipedia page](https://en.wikipedia.org/wiki/Zero_Power_Physics_Reactor)
+* [Film and Video Catalogue Peaceful Applications of Nuclear Energy 1927-1998](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
+* [Another catalog](https://files.eric.ed.gov/fulltext/ED067128.pdf)
 
 </div>
 </div>
