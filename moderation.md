@@ -8,7 +8,7 @@ byline: true
 mathjax: true
 date: 2007-04-21
 updated: 2022-12-06
-image: /img/u_235f.gif
+image: /img/u_235f.png
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
@@ -35,7 +35,7 @@ neutron whizzing by if it's going slow (see Figure 1).
 
 <figure>
 <div>
-<img src="/img/u_235f.gif" alt="U-235 fission cross-section" class="img-fluid rounded" title="U-235 fission cross-section" />
+<img src="/img/u_235f.png" alt="U-235 fission cross-section" class="img-fluid rounded" title="U-235 fission cross-section" />
 </div>
 <caption><strong>Figure 1</strong> The probability splitting a
 U<sub>235</sub> nucleus vs. the energy of the incoming neutron. Notice how much more
