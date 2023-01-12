@@ -2,9 +2,10 @@
 layout: default
 title: What is nuclear energy?
 description: >
-    Nuclear power plants produce sustainable and reliable clean-air heat and electricity
-    with almost no lifecycle carbon emissions. The downsides must be weighed against these benefits.
-    Here you will learn about the nuances behind nuclear power and nuclear energy in general.
+    Nuclear fission power plants make sustainable, reliable, and clean heat and electricity
+    with almost no lifecycle greenhouse gas emissions. However, they are expensive and generate radioactive
+    material. Here you will learn about the nuances of nuclear energy.
+image: /img/dc_cook.jpg
 ---
 
 <div class="row mt-3">
