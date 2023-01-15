@@ -118,14 +118,182 @@ at the top of the core from those at the bottom.
 </div>
     
 <div class="row" id="types">
-<div class="col-md-8" markdown="1">
+<div class="col-md-12" markdown="1">
 ## Types of Reactors
-There are many different kinds of nuclear fuel forms and cooling materials can be used in a nuclear 
-reactor. As a result, there are thousands of different possible nuclear reactor designs. Here, 
-we discuss a few of the designs that have been built before, but don't limit your 
-imagination; over a million other reactor designs are possible. Dream up your own! Or, for fun you
-can try our [Random Reactor Concept Generator](./random) or see a list of over a million
-options.
+
+There are many different kinds of nuclear fuel forms, [moderators]({% link
+moderation.md %}), and cooling materials can be used in a nuclear reactor. As a
+result, there are thousands of different possible nuclear reactor designs. Here,
+we discuss a few of the designs that have been built before, but don't limit
+your imagination; over a million other reactor designs are possible. Dream up
+your own! Or, for fun you can try our [Random Reactor Concept
+Generator](./random) or see a list of over a million options.
+
+
+<table class="table table-bordered">
+
+<tr>
+<th>Coolant &#8595;/ Moderator &#8594;</th>
+<th>Water</th>
+<th>Heavy water</th>
+<th>Graphite</th>
+<th>Not moderated</th>
+<th>Molten salt</th>
+<th>Beryllium</th>
+</tr>
+
+<tr><th>Water</th>
+<td markdown="1">
+* Light-water reactor (LWR)
+  * Pressurized Water Reactor (PWR)
+  * Boiling Water Reactor (PWR)
+* VVER
+</td>
+<td> </td>
+<td markdown="1">
+* 9 Pu-production reactors at Hanford
+* RBMK (e.g. Chernobyl)
+</td>
+<td markdown="1">
+* Steam-cooled fast reactors<sup>1</sup>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+
+<tr><th>Heavy water</th>
+<td></td>
+<td markdown="1">
+* CANDU 
+* Savannah River Pu-production reactors 
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+
+<tr><th>Molten sodium metal</th>
+<td></td>
+<td markdown="1">
+* Sodium-Deuterium Reactor<sup>1</sup>
+</td>
+<td markdown="1">
+* Sodium-Graphite Reactor (SGR)
+  * SRE
+  * Hallam
+</td>
+<td markdown="1">
+* Sodium-cooled Fast Reactor (SFR)
+  * EBR-II
+  * FFTF
+  * Phenix
+</td>
+<td markdown="1"> </td>
+<td markdown="1">
+* Sodium-Beryllium Reactors
+  * Submarine Intermediate Reactor (SIR)
+  * Seawolf
+* *Aircraft Reactor Experiment<sup>2</sup>*
+</td>
+</tr>
+<tr><th>Molten lead metal</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td markdown="1">
+* USSR Alfa-class submarines<sup>3</sup>
+</td>
+</tr>
+
+<tr><th>Molten salt</th>
+<td></td>
+<td></td>
+<td markdown="1">
+* Molten Salt Reactor (MSR)
+   * MSRE
+   * LFTR
+* Fluoride High-temperature Reactors (FHR)<sup>1</sup>
+</td>
+<td markdown="1">
+* Fast MSR
+   * Molten Chloride Fast Reactor (MCFR)<sup>1</sup>
+</td>
+<td></td>
+<td markdown="1">
+* Aircraft Reactor Experiment<sup>3</sup>
+</td>
+</tr>
+
+<tr><th>CO<sub>2</sub></th>
+<td></td>
+<td></td>
+<td markdown="1">
+* Gas-Graphite reactors
+  * Early French reactors like EDF1
+  * UK's Advanced Gas Reactors (AGR)
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr><th>Air</th>
+<td markdown="1">
+* Heat Transfer Reactor Experiments (HTRE) 1-3
+</td>
+<td></td>
+<td markdown="1">
+* ORNL's X-10 reactor
+* UK's Windscale piles
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr><th>Helium</th>
+<td></td>
+<td></td>
+<td markdown="1">
+* High-temperature gas reactor (HTGR)
+  *  Peach Bottom
+  *  Fort St. Vrain
+  *  HTTR
+  *  Dragon
+  *  HTR-10
+  *  AVR
+  *  THTR-300
+
+(sometimes aka Pebble Bed reactor)
+</td>
+<td markdown="1">
+* Helium-cooled fast reactor<sup>1</sup>
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr><th>Nitrogen</th>
+<td markdown="1">
+* ML-1 mobile reactor
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+
+1. Proposed and studied, but never built.
+2. The ARE had sodium metal coolant in the reflector but was primarily molten salt cooled.
+3. The Alfa-class submarines are fairly unknown, but had sufficient Be to consider them moderated reactors, not fast.
+
+
 </div>
 </div>
 
