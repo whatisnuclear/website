@@ -44,7 +44,7 @@ src="/img/half-life.svg" alt="Graph of atoms vs. time for different half-lives"/
 
 Materials with shorter half-lives are the most dangerous, since they are
 'shooting out bullets' rapidly and can cause faster cell damage. Fortunately, 
-they naturally decay to stability faster. Materials with shorter half-live cause
+they naturally decay to stability faster. Materials with longer half-live cause
 less rapid cell damage but are around longer.
 
 Many materials created during the operation of a <a href="{% link reactors.md
