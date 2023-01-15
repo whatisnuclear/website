@@ -155,7 +155,11 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
   * Boiling Water Reactor (BWR)
 * VVER
 </td>
-<td></td>
+<td markdown="1">
+* Winfrith
+* Fugen
+* Advanced CANDU (ACR)<sup>1</sup>
+</td>
 <td markdown="1">
 * 9 Pu-production reactors at Hanford
 * RBMK (e.g. Chernobyl)
@@ -170,11 +174,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
       
 <tr>
 <th>Heavy water</th>
-<td markdown="1">
-* Winfrith
-* Fugen
-* Advanced CANDU (ACR)<sup>1</sup>
-</td>
+<td></td>
 <td markdown="1">
 * CANDU 
 * Savannah River Pu-production reactors 
