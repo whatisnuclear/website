@@ -129,6 +129,11 @@ your imagination; over a million other reactor designs are possible. Dream up
 your own! Or, for fun you can try our [Random Reactor Concept
 Generator](./random) or see a list of over a million options.
 
+A incomplete subset of reactor types broken down by coolant and moderator is shown
+below.  For simplicity, we limit it to reactors that have either been built, are
+under construction, or have been the subject of significant experimentation
+and/or study. Reactors concepts in all boxes have been proposed, and some reactors
+that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 
 <table class="table table-bordered">
 
@@ -138,39 +143,46 @@ Generator](./random) or see a list of over a million options.
 <th>Heavy water</th>
 <th>Graphite</th>
 <th>Not moderated</th>
-<th>Molten salt</th>
 <th>Beryllium</th>
+<th>Organic</th>
 </tr>
 
-<tr><th>Water</th>
+<tr>
+<th>Water</th>
 <td markdown="1">
 * Light-water reactor (LWR)
   * Pressurized Water Reactor (PWR)
-  * Boiling Water Reactor (PWR)
+  * Boiling Water Reactor (BWR)
 * VVER
 </td>
-<td> </td>
+<td></td>
 <td markdown="1">
 * 9 Pu-production reactors at Hanford
 * RBMK (e.g. Chernobyl)
+* AMB-100 and AMB-200
 </td>
 <td markdown="1">
 * Steam-cooled fast reactors<sup>1</sup>
 </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr><th>Heavy water</th>
 <td></td>
+<td></td>
+</tr> 
+      
+<tr>
+<th>Heavy water</th>
+<td markdown="1">
+* Winfrith
+* Fugen
+* Advanced CANDU (ACR)<sup>1</sup>
+</td>
 <td markdown="1">
 * CANDU 
 * Savannah River Pu-production reactors 
 </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr><th>Molten sodium metal</th>
@@ -184,28 +196,32 @@ Generator](./random) or see a list of over a million options.
   * Hallam
 </td>
 <td markdown="1">
-* Sodium-cooled Fast Reactor (SFR)
+* Sodium-cooled fast reactor (SFR)
   * EBR-II
   * FFTF
   * Phenix
 </td>
-<td markdown="1"> </td>
 <td markdown="1">
 * Sodium-Beryllium Reactors
   * Submarine Intermediate Reactor (SIR)
   * Seawolf
-* *Aircraft Reactor Experiment<sup>2</sup>*
 </td>
+<td markdown="1"> </td>
 </tr>
-<tr><th>Molten lead metal</th>
-<td></td>
-<td></td>
+
+<tr>
+<th>Molten lead metal</th>
 <td></td>
 <td></td>
 <td></td>
 <td markdown="1">
+* Lead-cooled fast reactor
+  * BREST-300
+</td>
+<td markdown="1">
 * USSR Alfa-class submarines<sup>3</sup>
 </td>
+<td></td>
 </tr>
 
 <tr><th>Molten salt</th>
@@ -221,10 +237,10 @@ Generator](./random) or see a list of over a million options.
 * Fast MSR
    * Molten Chloride Fast Reactor (MCFR)<sup>1</sup>
 </td>
-<td></td>
 <td markdown="1">
-* Aircraft Reactor Experiment<sup>3</sup>
+* Aircraft Reactor Experiment<sup>2</sup>
 </td>
+<td></td>
 </tr>
 
 <tr><th>CO<sub>2</sub></th>
@@ -286,7 +302,34 @@ Generator](./random) or see a list of over a million options.
 <td></td>
 <td></td>
 </tr>
+
+<tr><th>Organic (e.g. terphenyl)</th>
+<td markdown="1"> </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td markdown="1">
+* Organic moderated reactor (OMR)
+  * OMRE
+  * Piqua
+</td>
+</tr>
+
+<tr><th>Liquid Hydrogen</th>
+<td markdown="1"></td>
+<td></td>
+<td markdown="1">
+* Nuclear Thermal Rockets
+  * NERVA
+</td>
+<td></td>
+<td></td>
+<td markdown="1">
+</td>
+</tr>
 </table>
+
 
 
 1. Proposed and studied, but never built.
