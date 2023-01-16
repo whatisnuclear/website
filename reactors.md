@@ -176,7 +176,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <th>Heavy water</th>
 <td></td>
 <td markdown="1">
-* CANDU 
+* [CANDU](https://en.wikipedia.org/wiki/CANDU_reactor)
 * Savannah River Pu-production reactors 
 </td>
 <td></td>
@@ -299,7 +299,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 
 <tr><th>Nitrogen</th>
 <td markdown="1">
-* ML-1 mobile reactor
+* [ML-1 mobile reactor](https://en.wikipedia.org/wiki/ML-1)
 </td>
 <td></td>
 <td></td>
@@ -311,13 +311,15 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <tr><th>Organic (e.g. terphenyl)</th>
 <td markdown="1"> </td>
 <td></td>
-<td></td>
+<td markdown="1">
+* [Whiteshell Reactor 1 (WR-1)](https://en.wikipedia.org/wiki/WR-1)
+</td>
 <td></td>
 <td></td>
 <td markdown="1">
 * Organic moderated reactor (OMR)
-  * OMRE
-  * Piqua
+  * [OMRE](https://en.wikipedia.org/wiki/Organic_nuclear_reactor#Major_experiments)
+  * [Piqua](https://en.wikipedia.org/wiki/Piqua_Nuclear_Generating_Station)
 </td>
 </tr>
 
@@ -390,7 +392,7 @@ heads over to the turbine to spin it.
 * Primary coolant is in direct contact with turbines, so if a fuel rod had a leak, radioactive material could 
   be placed on the turbine. This complicates maintenance as the staff must be dressed for radioactive environments.
 * Can't breed new fuel &mdash; susceptible to "uranium shortage"
-* Does not typically perform well in station blackout events, as in Fukushima.
+* Does not typically perform well in station blackout events, as in the Fukushima Daiichi accident.
 
 </div>
 </div>
