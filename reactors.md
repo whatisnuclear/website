@@ -245,7 +245,11 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 
 <tr><th>CO<sub>2</sub></th>
 <td></td>
-<td></td>
+<td markdown="1">
+* Heavy Water Gas Cooled Reactors (HWGCR)
+  * EL4 in France
+  * Bohunice A1 KS-150 in Slovakia
+</td>
 <td markdown="1">
 * Gas-Graphite reactors
   * Early French reactors like EDF1
