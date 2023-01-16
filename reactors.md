@@ -252,8 +252,9 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </td>
 <td markdown="1">
 * Gas-Graphite reactors
-  * Early French reactors like EDF1
-  * UK's Advanced Gas Reactors (AGR)
+  * Early French UNGG reactors (like EDF1)
+  * Early UK Magnox reactors
+  * Advanced Gas Reactors (AGR)
 </td>
 <td></td>
 <td></td>
