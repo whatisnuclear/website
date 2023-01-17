@@ -156,9 +156,9 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 * VVER
 </td>
 <td markdown="1">
-* Winfrith
-* Fugen
-* Advanced CANDU (ACR)<sup>1</sup>
+* [Winfrith](https://en.wikipedia.org/wiki/Winfrith#Winfrith_Steam_Generating_Heavy_Water_Reactor)
+* [Fugen](https://en.wikipedia.org/wiki/Fugen_Nuclear_Power_Plant)
+* [Advanced CANDU (ACR)](https://en.wikipedia.org/wiki/Advanced_CANDU_reactor)<sup>1</sup>
 </td>
 <td markdown="1">
 * 9 Pu-production reactors at Hanford
@@ -203,7 +203,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </td>
 <td markdown="1">
 * Sodium-Beryllium Reactors
-  * Submarine Intermediate Reactor (SIR)
+  * [Submarine Intermediate Reactor (SIR/S1G)](https://en.wikipedia.org/wiki/S1G_reactor)
   * [Seawolf](https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-575))
 </td>
 <td markdown="1"> </td>
@@ -230,7 +230,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td markdown="1">
 * Molten Salt Reactor (MSR)
    * [MSRE](https://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment)
-   * [TMS-LF1](https://en.wikipedia.org/wiki/TMSR-LF1)
+   * [TMSR-LF1](https://en.wikipedia.org/wiki/TMSR-LF1)
 * Fluoride High-temperature Reactors (FHR)<sup>1</sup>
 </td>
 <td markdown="1">
@@ -238,7 +238,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
    * Molten Chloride Fast Reactor (MCFR)<sup>1</sup>
 </td>
 <td markdown="1">
-* Aircraft Reactor Experiment<sup>2</sup>
+* [Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment)<sup>2</sup>
 </td>
 <td></td>
 </tr>
@@ -248,13 +248,13 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td markdown="1">
 * Heavy Water Gas Cooled Reactors (HWGCR)
   * EL4 in France
-  * Bohunice A1 KS-150 in Slovakia
+  * [Bohunice A1 KS-150](https://en.wikipedia.org/wiki/KS_150) in Slovakia
 </td>
 <td markdown="1">
 * Gas-Graphite reactors
   * Early French [UNGG reactors](https://en.wikipedia.org/wiki/UNGG_reactor) (like EDF1)
   * Early UK [Magnox reactors](https://en.wikipedia.org/wiki/Magnox)
-  * Advanced Gas Reactors (AGR)
+  * [Advanced Gas Reactors (AGR)](https://en.wikipedia.org/wiki/Advanced_Gas-cooled_Reactor)
 </td>
 <td></td>
 <td></td>
@@ -268,7 +268,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td markdown="1">
 * ORNL's [X-10 reactor](https://en.wikipedia.org/wiki/X-10_Graphite_Reactor)
-* UK's Windscale piles
+* UK's [Windscale piles](https://en.wikipedia.org/wiki/Windscale_Piles)
 </td>
 <td></td>
 <td></td>
@@ -279,16 +279,16 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td></td>
 <td markdown="1">
-* High-temperature gas reactor (HTGR)
+* [High-temperature gas reactor (HTGR)](https://en.wikipedia.org/wiki/High-temperature_gas_reactor)
   *  [Peach Bottom](https://en.wikipedia.org/wiki/Peach_Bottom_Nuclear_Generating_Station)
-  *  Fort St. Vrain
-  *  HTTR
-  *  Dragon
-  *  HTR-10
-  *  AVR
-  *  THTR-300
+  *  [Fort St. Vrain](https://en.wikipedia.org/wiki/Fort_St._Vrain_Generating_Station)
+  *  [HTTR](https://en.wikipedia.org/wiki/High-temperature_engineering_test_reactor)
+  *  [Dragon](https://en.wikipedia.org/wiki/Dragon_reactor)
+  *  [HTR-10](https://en.wikipedia.org/wiki/HTR-10)
+  *  [HTR-PM](https://en.wikipedia.org/wiki/HTR-PM)
+  *  [AVR pebble bed](https://en.wikipedia.org/wiki/AVR_reactor)
+  *  [THTR-300](https://en.wikipedia.org/wiki/THTR-300)
 
-(sometimes aka Pebble Bed reactor)
 </td>
 <td markdown="1">
 * Helium-cooled fast reactor<sup>1</sup>
