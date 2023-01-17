@@ -247,8 +247,9 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td markdown="1">
 * Heavy Water Gas Cooled Reactors (HWGCR)
-  * EL4 in France
+  * [EL4](https://en.wikipedia.org/wiki/Brennilis_Nuclear_Power_Plant) in France
   * [Bohunice A1 KS-150](https://en.wikipedia.org/wiki/KS_150) in Slovakia
+  * [Lucens](https://en.wikipedia.org/wiki/Lucens_reactor)
 </td>
 <td markdown="1">
 * Gas-Graphite reactors
@@ -320,6 +321,8 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 * Organic moderated reactor (OMR)
   * [OMRE](https://en.wikipedia.org/wiki/Organic_nuclear_reactor#Major_experiments)
   * [Piqua](https://en.wikipedia.org/wiki/Piqua_Nuclear_Generating_Station)
+  * [Arbus](https://inis.iaea.org/search/search.aspx?orig_q=RN:12616557)
+  * [EOCR](https://www.osti.gov/biblio/4735797)<sup>4</sup>
 </td>
 </tr>
 
@@ -342,6 +345,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 1. Proposed and studied, but never built.
 2. The ARE had sodium metal coolant in the reflector but was primarily molten salt cooled.
 3. The Alfa-class submarines are fairly unknown, but had sufficient Be to consider them moderated reactors, not fast.
+4. Constructed but never fueled or operated
 
 
 </div>
