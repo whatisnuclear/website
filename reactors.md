@@ -151,8 +151,8 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <th>Water</th>
 <td markdown="1">
 * Light-water reactor (LWR)
-  * Pressurized Water Reactor (PWR)
-  * Boiling Water Reactor (BWR)
+  * [Pressurized Water Reactor (PWR)](https://en.wikipedia.org/wiki/Pressurized_water_reactor)
+  * [Boiling Water Reactor (BWR)](https://en.wikipedia.org/wiki/Boiling_water_reactor)
 * VVER
 </td>
 <td markdown="1">
@@ -162,7 +162,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </td>
 <td markdown="1">
 * 9 Pu-production reactors at Hanford
-* RBMK (e.g. Chernobyl)
+* [RBMK](https://en.wikipedia.org/wiki/RBMK) (e.g. Chernobyl)
 * AMB-100 and AMB-200
 </td>
 <td markdown="1">
@@ -192,19 +192,19 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </td>
 <td markdown="1">
 * Sodium-Graphite Reactor (SGR)
-  * SRE
-  * Hallam
+  * [SRE](https://en.wikipedia.org/wiki/Sodium_Reactor_Experiment)
+  * [Hallam](https://en.wikipedia.org/wiki/Hallam_Nuclear_Power_Facility)
 </td>
 <td markdown="1">
 * Sodium-cooled fast reactor (SFR)
-  * EBR-II
-  * FFTF
-  * Phenix
+  * [EBR-II](https://en.wikipedia.org/wiki/Experimental_Breeder_Reactor_II)
+  * [FFTF](https://en.wikipedia.org/wiki/Fast_Flux_Test_Facility)
+  * [Phenix](https://en.wikipedia.org/wiki/Ph%C3%A9nix)
 </td>
 <td markdown="1">
 * Sodium-Beryllium Reactors
   * Submarine Intermediate Reactor (SIR)
-  * Seawolf
+  * [Seawolf](https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-575))
 </td>
 <td markdown="1"> </td>
 </tr>
@@ -216,10 +216,10 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td markdown="1">
 * Lead-cooled fast reactor
-  * BREST-300
+  * [BREST-300](https://en.wikipedia.org/wiki/BREST_(reactor)#BREST-300)
 </td>
 <td markdown="1">
-* USSR Alfa-class submarines<sup>3</sup>
+* USSR [Alfa-class submarines](https://en.wikipedia.org/wiki/Alfa-class_submarine)<sup>3</sup>
 </td>
 <td></td>
 </tr>
@@ -229,8 +229,8 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td markdown="1">
 * Molten Salt Reactor (MSR)
-   * MSRE
-   * LFTR
+   * [MSRE](https://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment)
+   * [TMS-LF1](https://en.wikipedia.org/wiki/TMSR-LF1)
 * Fluoride High-temperature Reactors (FHR)<sup>1</sup>
 </td>
 <td markdown="1">
@@ -252,8 +252,8 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </td>
 <td markdown="1">
 * Gas-Graphite reactors
-  * Early French UNGG reactors (like EDF1)
-  * Early UK Magnox reactors
+  * Early French [UNGG reactors](https://en.wikipedia.org/wiki/UNGG_reactor) (like EDF1)
+  * Early UK [Magnox reactors](https://en.wikipedia.org/wiki/Magnox)
   * Advanced Gas Reactors (AGR)
 </td>
 <td></td>
@@ -263,11 +263,11 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 
 <tr><th>Air</th>
 <td markdown="1">
-* Heat Transfer Reactor Experiments (HTRE) 1-3
+* [Heat Transfer Reactor Experiments (HTRE) 1-3](https://en.wikipedia.org/wiki/Aircraft_Nuclear_Propulsion#Heat_Transfer_Reactor_Experiments)
 </td>
 <td></td>
 <td markdown="1">
-* ORNL's X-10 reactor
+* ORNL's [X-10 reactor](https://en.wikipedia.org/wiki/X-10_Graphite_Reactor)
 * UK's Windscale piles
 </td>
 <td></td>
@@ -280,7 +280,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td markdown="1">
 * High-temperature gas reactor (HTGR)
-  *  Peach Bottom
+  *  [Peach Bottom](https://en.wikipedia.org/wiki/Peach_Bottom_Nuclear_Generating_Station)
   *  Fort St. Vrain
   *  HTTR
   *  Dragon
@@ -328,7 +328,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td markdown="1">
 * Nuclear Thermal Rockets
-  * NERVA
+  * [NERVA](https://en.wikipedia.org/wiki/NERVA)
 </td>
 <td></td>
 <td></td>
