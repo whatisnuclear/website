@@ -158,6 +158,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td markdown="1">
 * [Winfrith](https://en.wikipedia.org/wiki/Winfrith#Winfrith_Steam_Generating_Heavy_Water_Reactor)
 * [Fugen](https://en.wikipedia.org/wiki/Fugen_Nuclear_Power_Plant)
+* [Gentilly-1 CANDU-BLW](https://www.cnl.ca/environmental-stewardship/gentilly-1-prototype-reactor/)
 * [Advanced CANDU (ACR)](https://en.wikipedia.org/wiki/Advanced_CANDU_reactor)<sup>1</sup>
 </td>
 <td markdown="1">
@@ -311,10 +312,10 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 
 <tr><th>Organic (e.g. terphenyl)</th>
 <td markdown="1"> </td>
-<td></td>
 <td markdown="1">
 * [Whiteshell Reactor 1 (WR-1)](https://en.wikipedia.org/wiki/WR-1)
 </td>
+<td></td>
 <td></td>
 <td></td>
 <td markdown="1">
