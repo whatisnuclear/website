@@ -305,7 +305,9 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td markdown="1">
 * Helium-cooled fast reactor<sup>1</sup>
 </td>
-<td>* [EBOR](https://en.wikipedia.org/wiki/EBOR)</td>
+<td markdown="1">
+* [EBOR](https://en.wikipedia.org/wiki/EBOR)
+</td>
 <td></td>
 <td></td>
 </tr>
