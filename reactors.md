@@ -203,9 +203,11 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </td>
 <td markdown="1">
 * Sodium-cooled fast reactor (SFR)
+  * [Fermi-1](https://en.wikipedia.org/wiki/Fermi_1)
   * [EBR-II](https://en.wikipedia.org/wiki/Experimental_Breeder_Reactor_II)
   * [FFTF](https://en.wikipedia.org/wiki/Fast_Flux_Test_Facility)
   * [Phenix](https://en.wikipedia.org/wiki/Ph%C3%A9nix)
+  * [BN-800](https://en.wikipedia.org/wiki/BN-800_reactor)
 </td>
 <td markdown="1">
 * Sodium-Beryllium Reactors
