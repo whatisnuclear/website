@@ -145,15 +145,16 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <th>Not moderated</th>
 <th>Beryllium</th>
 <th>Organic</th>
+<th>Hydrogen/Hydride</th>
 </tr>
 
 <tr>
 <th>Water</th>
 <td markdown="1">
 * Light-water reactor (LWR)
-  * [Pressurized Water Reactor (PWR)](https://en.wikipedia.org/wiki/Pressurized_water_reactor)
-  * [Boiling Water Reactor (BWR)](https://en.wikipedia.org/wiki/Boiling_water_reactor)
-* VVER
+  * [PWR](https://en.wikipedia.org/wiki/Pressurized_water_reactor)
+    * [VVER](https://en.wikipedia.org/wiki/VVER)
+  * [BWR](https://en.wikipedia.org/wiki/Boiling_water_reactor)
 </td>
 <td markdown="1">
 * [Winfrith](https://en.wikipedia.org/wiki/Winfrith#Winfrith_Steam_Generating_Heavy_Water_Reactor)
@@ -171,6 +172,9 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </td>
 <td></td>
 <td></td>
+<td markdown="1">
+* [TRIGA](https://en.wikipedia.org/wiki/TRIGA)
+</td>
 </tr> 
       
 <tr>
@@ -180,6 +184,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 * [CANDU](https://en.wikipedia.org/wiki/CANDU_reactor)
 * Savannah River Pu-production reactors 
 </td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -208,6 +213,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
   * [Seawolf](https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-575))
 </td>
 <td markdown="1"> </td>
+<td markdown="1"> </td>
 </tr>
 
 <tr>
@@ -222,6 +228,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td markdown="1">
 * USSR [Alfa-class submarines](https://en.wikipedia.org/wiki/Alfa-class_submarine)<sup>3</sup>
 </td>
+<td></td>
 <td></td>
 </tr>
 
@@ -242,6 +249,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 * [Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment)<sup>2</sup>
 </td>
 <td></td>
+<td></td>
 </tr>
 
 <tr><th>CO<sub>2</sub></th>
@@ -261,6 +269,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 
 <tr><th>Air</th>
@@ -272,6 +281,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 * ORNL's [X-10 reactor](https://en.wikipedia.org/wiki/X-10_Graphite_Reactor)
 * UK's [Windscale piles](https://en.wikipedia.org/wiki/Windscale_Piles)
 </td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -290,11 +300,12 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
   *  [HTR-PM](https://en.wikipedia.org/wiki/HTR-PM)
   *  [AVR pebble bed](https://en.wikipedia.org/wiki/AVR_reactor)
   *  [THTR-300](https://en.wikipedia.org/wiki/THTR-300)
-
+* [Ultra-High Temperature Reactor Experiment (UHTREX)](https://en.wikipedia.org/wiki/UHTREX)
 </td>
 <td markdown="1">
 * Helium-cooled fast reactor<sup>1</sup>
 </td>
+<td>* [EBOR](https://en.wikipedia.org/wiki/EBOR)</td>
 <td></td>
 <td></td>
 </tr>
@@ -303,6 +314,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td markdown="1">
 * [ML-1 mobile reactor](https://en.wikipedia.org/wiki/ML-1)
 </td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -325,6 +337,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
   * [Arbus](https://inis.iaea.org/search/search.aspx?orig_q=RN:12616557)
   * [EOCR](https://www.osti.gov/biblio/4735797)<sup>4</sup>
 </td>
+<td></td>
 </tr>
 
 <tr><th>Liquid Hydrogen</th>
@@ -338,6 +351,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 <td markdown="1">
 </td>
+<td></td>
 </tr>
 </table>
 

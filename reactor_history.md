@@ -1675,7 +1675,7 @@ chain-reacting machines, usually in remote areas, often without power generating
 equipment, that are used to understand the performance  of any new reactors operating
 principles. They are made after critical assemblies and before prototype reactors. We have
 run over a dozen REs, including the BORAX series, LAPRE-1 and 2, LAMPRE, HTRE-1 through 3,
-GCRE, OMRE, SRE, MSRE, ARE, HRE-1 and 2.
+GCRE, OMRE, SRE, MSRE, ARE, HRE-1 and 2, UHTREX.
   </div>
 </div>
 
