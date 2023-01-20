@@ -7,6 +7,14 @@ author: nick
 image: /img/dccook.jpg
 byline: true
 ---
+<style>
+.rxtable p {
+    margin-bottom: 0
+}
+</style>
+
+
+
 
 <div class="row">
 <div class="col-md-12" markdown="1">
@@ -135,23 +143,41 @@ under construction, or have been the subject of significant experimentation
 and/or study. Reactors concepts in all boxes have been proposed, and some reactors
 that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 
-<table class="table table-bordered">
+<div class="table-responsive">
+<table class="table table-bordered border-dark table-sm rxtable">
 
-<tr>
-<th>Coolant &#8595;/ Moderator &#8594;</th>
-<th>Water</th>
-<th>Heavy water</th>
-<th>Graphite</th>
-<th>Not moderated</th>
-<th>Beryllium</th>
-<th>Organic</th>
-<th>Hydrogen/Hydride</th>
+<thead class="table-primary border-dark">
+
+<tr class="text-center">
+<th scope="col" class="m-0 p-0">
+  <table class="table table-sm table-borderless m-0 p-0">
+    <tr>
+      <td class="table-success">
+      Coolant &#8595;
+      </td>
+      <td class="table-primary">
+      Moderator &#8594;
+      </td>
+    </tr>
+  </table>
+</th>
+<th scope="col">Water</th>
+<th scope="col">Heavy water</th>
+<th scope="col">Graphite</th>
+<th scope="col">Not moderated</th>
+<th scope="col">Beryllium</th>
+<th scope="col">Organic</th>
+<th scope="col">Hydrogen / Hydride</th>
 </tr>
+</thead>
 
+<tbody>
 <tr>
-<th>Water</th>
+<th class="table-success align-middle">
+Water
+</th>
 <td markdown="1">
-* Light-water reactor (LWR)
+Light-water reactors (LWR)
   * [PWR](https://en.wikipedia.org/wiki/Pressurized_water_reactor)
     * [VVER](https://en.wikipedia.org/wiki/VVER)
   * [BWR](https://en.wikipedia.org/wiki/Boiling_water_reactor)
@@ -168,17 +194,19 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 * AMB-100 and AMB-200
 </td>
 <td markdown="1">
-* Steam-cooled fast reactors<sup>1</sup>
+Steam-cooled fast reactors<sup>1</sup>
 </td>
 <td></td>
 <td></td>
 <td markdown="1">
-* [TRIGA](https://en.wikipedia.org/wiki/TRIGA)
+[TRIGA](https://en.wikipedia.org/wiki/TRIGA)
 </td>
 </tr> 
       
 <tr>
-<th>Heavy water</th>
+<th class="table-success align-middle">
+Heavy water
+</th>
 <td></td>
 <td markdown="1">
 * [CANDU](https://en.wikipedia.org/wiki/CANDU_reactor)
@@ -191,18 +219,21 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 </tr>
 
-<tr><th>Molten sodium metal</th>
+<tr>
+<th class="table-success align-middle">
+Molten sodium metal
+</th>
 <td></td>
 <td markdown="1">
-* Sodium-Deuterium Reactor<sup>1</sup>
+Sodium-Deuterium Reactor<sup>1</sup>
 </td>
 <td markdown="1">
-* Sodium-Graphite Reactor (SGR)
+Sodium-Graphite Reactors (SGR)
   * [SRE](https://en.wikipedia.org/wiki/Sodium_Reactor_Experiment)
   * [Hallam](https://en.wikipedia.org/wiki/Hallam_Nuclear_Power_Facility)
 </td>
 <td markdown="1">
-* Sodium-cooled fast reactor (SFR)
+Sodium-cooled fast reactors (SFR)
   * [Fermi-1](https://en.wikipedia.org/wiki/Fermi_1)
   * [EBR-II](https://en.wikipedia.org/wiki/Experimental_Breeder_Reactor_II)
   * [FFTF](https://en.wikipedia.org/wiki/Fast_Flux_Test_Facility)
@@ -210,7 +241,7 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
   * [BN-800](https://en.wikipedia.org/wiki/BN-800_reactor)
 </td>
 <td markdown="1">
-* Sodium-Beryllium Reactors
+Sodium-Beryllium Reactors
   * [Submarine Intermediate Reactor (SIR/S1G)](https://en.wikipedia.org/wiki/S1G_reactor)
   * [Seawolf](https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-575))
 </td>
@@ -219,22 +250,27 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </tr>
 
 <tr>
-<th>Molten lead metal</th>
+<th class="table-success align-middle">
+Molten lead metal
+</th>
 <td></td>
 <td></td>
 <td></td>
 <td markdown="1">
-* Lead-cooled fast reactor
+Lead-cooled fast reactors
   * [BREST-300](https://en.wikipedia.org/wiki/BREST_(reactor)#BREST-300)
 </td>
 <td markdown="1">
-* USSR [Alfa-class submarines](https://en.wikipedia.org/wiki/Alfa-class_submarine)<sup>3</sup>
+[Alfa-class submarines](https://en.wikipedia.org/wiki/Alfa-class_submarine)<sup>3</sup>
 </td>
 <td></td>
 <td></td>
 </tr>
 
-<tr><th>Molten salt</th>
+<tr>
+<th class="table-success align-middle">
+Molten salt
+</th>
 <td></td>
 <td></td>
 <td markdown="1">
@@ -244,26 +280,29 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 * Fluoride High-temperature Reactors (FHR)<sup>1</sup>
 </td>
 <td markdown="1">
-* Fast MSR
+Fast MSR
    * Molten Chloride Fast Reactor (MCFR)<sup>1</sup>
 </td>
 <td markdown="1">
-* [Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment)<sup>2</sup>
+[Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment)<sup>2</sup>
 </td>
 <td></td>
 <td></td>
 </tr>
 
-<tr><th>CO<sub>2</sub></th>
+<tr>
+<th class="table-success align-middle">
+CO<sub>2</sub>
+</th>
 <td></td>
 <td markdown="1">
-* Heavy Water Gas Cooled Reactors (HWGCR)
+Heavy Water Gas Cooled Reactors (HWGCR)
   * [EL4](https://en.wikipedia.org/wiki/Brennilis_Nuclear_Power_Plant) in France
   * [Bohunice A1 KS-150](https://en.wikipedia.org/wiki/KS_150) in Slovakia
   * [Lucens](https://en.wikipedia.org/wiki/Lucens_reactor)
 </td>
 <td markdown="1">
-* Gas-Graphite reactors
+Gas-Graphite reactors
   * Early French [UNGG reactors](https://en.wikipedia.org/wiki/UNGG_reactor) (like EDF1)
   * Early UK [Magnox reactors](https://en.wikipedia.org/wiki/Magnox)
   * [Advanced Gas Reactors (AGR)](https://en.wikipedia.org/wiki/Advanced_Gas-cooled_Reactor)
@@ -274,9 +313,12 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 </tr>
 
-<tr><th>Air</th>
+<tr>
+<th class="table-success align-middle">
+Air
+</th>
 <td markdown="1">
-* [Heat Transfer Reactor Experiments (HTRE) 1-3](https://en.wikipedia.org/wiki/Aircraft_Nuclear_Propulsion#Heat_Transfer_Reactor_Experiments)
+[Heat Transfer Reactor Experiments (HTRE) 1-3](https://en.wikipedia.org/wiki/Aircraft_Nuclear_Propulsion#Heat_Transfer_Reactor_Experiments)
 </td>
 <td></td>
 <td markdown="1">
@@ -289,7 +331,10 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 </tr>
 
-<tr><th>Helium</th>
+<tr>
+<th class="table-success align-middle">
+Helium
+</th>
 <td></td>
 <td></td>
 <td markdown="1">
@@ -305,18 +350,21 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 * [Ultra-High Temperature Reactor Experiment (UHTREX)](https://en.wikipedia.org/wiki/UHTREX)
 </td>
 <td markdown="1">
-* Helium-cooled fast reactor<sup>1</sup>
+Helium-cooled fast reactors<sup>1</sup>
 </td>
 <td markdown="1">
-* [EBOR](https://en.wikipedia.org/wiki/EBOR)
+[EBOR](https://en.wikipedia.org/wiki/EBOR)
 </td>
 <td></td>
 <td></td>
 </tr>
 
-<tr><th>Nitrogen</th>
+<tr>
+<th class="table-success align-middle">
+Nitrogen
+</th>
 <td markdown="1">
-* [ML-1 mobile reactor](https://en.wikipedia.org/wiki/ML-1)
+[ML-1 mobile reactor](https://en.wikipedia.org/wiki/ML-1)
 </td>
 <td></td>
 <td></td>
@@ -326,16 +374,19 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 </tr>
 
-<tr><th>Organic (e.g. terphenyl)</th>
+<tr>
+<th class="table-success align-middle">
+Organic (e.g. terphenyl)
+</th>
 <td markdown="1"> </td>
 <td markdown="1">
-* [Whiteshell Reactor 1 (WR-1)](https://en.wikipedia.org/wiki/WR-1)
+[Whiteshell Reactor 1 (WR-1)](https://en.wikipedia.org/wiki/WR-1)
 </td>
 <td></td>
 <td></td>
 <td></td>
 <td markdown="1">
-* Organic moderated reactor (OMR)
+Organic moderated reactors (OMR)
   * [OMRE](https://en.wikipedia.org/wiki/Organic_nuclear_reactor#Major_experiments)
   * [Piqua](https://en.wikipedia.org/wiki/Piqua_Nuclear_Generating_Station)
   * [Arbus](https://inis.iaea.org/search/search.aspx?orig_q=RN:12616557)
@@ -344,11 +395,14 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 <td></td>
 </tr>
 
-<tr><th>Liquid Hydrogen</th>
+<tr>
+<th class="table-success align-middle">
+Liquid Hydrogen
+</th>
 <td markdown="1"></td>
 <td></td>
 <td markdown="1">
-* Nuclear Thermal Rockets
+Nuclear Thermal Rockets
   * [NERVA](https://en.wikipedia.org/wiki/NERVA)
 </td>
 <td></td>
@@ -357,7 +411,9 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 </td>
 <td></td>
 </tr>
+</tbody>
 </table>
+</div>
 
 
 
