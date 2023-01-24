@@ -181,6 +181,7 @@ Light-water reactors (LWR)
   * [PWR](https://en.wikipedia.org/wiki/Pressurized_water_reactor)
     * [VVER](https://en.wikipedia.org/wiki/VVER)
   * [BWR](https://en.wikipedia.org/wiki/Boiling_water_reactor)
+  * [SLOWPOKE](https://en.wikipedia.org/wiki/SLOWPOKE_reactor)
 </td>
 <td markdown="1">
 * [Winfrith](https://en.wikipedia.org/wiki/Winfrith#Winfrith_Steam_Generating_Heavy_Water_Reactor)
@@ -322,13 +323,14 @@ Air
 </td>
 <td></td>
 <td markdown="1">
+* [CP-1](https://en.wikipedia.org/wiki/Chicago_Pile-1)
 * ORNL's [X-10 reactor](https://en.wikipedia.org/wiki/X-10_Graphite_Reactor)
 * UK's [Windscale piles](https://en.wikipedia.org/wiki/Windscale_Piles)
 </td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>[AGR-201](http://dx.doi.org/10.5772/intechopen.105799)</td>
 </tr>
 
 <tr>
