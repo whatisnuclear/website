@@ -14,7 +14,7 @@ byline: true
 
 
 <div class="float-end"> 
-<img class="thumbnail" src="/img/radioactive.png" style="width:120px;" alt="Radioactivity" title="Radioactivity" />
+<img class="img-thumbnail" src="/img/radioactive.png" style="width:120px;" alt="Radioactivity" title="Radioactivity" />
 </div>
 
 Radioactive atoms contain energy that pours out spontaneously as energetic
@@ -121,7 +121,7 @@ fraction of our daily dose.
 
 #### Smoke detectors
 <div class="float-end"> 
-<img class="thumbnail" src="/img/smoke_detector.png" style="width:120px;" alt="A smoke detector." title="A smoke detector." />
+<img class="img-thumbnail" src="/img/smoke_detector.png" style="width:120px;" alt="A smoke detector." title="A smoke detector." />
 </div>
 Smoke detectors make use of the isotope Americium-241. This isotope emits
 alpha-particles at energies up to 5.4 MeV. The energetic alpha particles are

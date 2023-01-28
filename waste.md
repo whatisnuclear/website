@@ -425,7 +425,7 @@ density of the atom.
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<div class="float-end"> <img class="thumbnail" src="/img/blank.png" data-echo="img/fuel_assembly.jpg" alt="A chopped
+<div class="float-end"> <img class="img-thumbnail" src="/img/blank.png" data-echo="img/fuel_assembly.jpg" alt="A chopped
 section of a spent fuel (nuclear waste) assembly (this particular one is actually a
 mock-up)" title="The top of a fuel assembly (this particular one is actually a mock-up)"
 /></div>
@@ -444,7 +444,7 @@ concern when it comes to storing them for more than 100,000 years. Fortunately, 
 fissionable in fast reactors and can thus be used as fuel! This still would leave us with
 the **fission products**. The decay of each nuclide vs. time is shown below.
 
-<div class="thumbnail">
+<div class="img-thumbnail">
 <a href="/img/waste-curies-long.gif"><img src="/img/blank.png" data-echo="/img/waste-curies-long-small.gif" alt="Components of decay heat vs. time"></a>
 <div class="figcaption">
 A chart of the activity of all the radioactive
