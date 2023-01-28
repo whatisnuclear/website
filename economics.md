@@ -496,19 +496,19 @@ documents.
 
 <div class="row">
 <div class="col-md-6">
-<div class="thumbnail">
+<figure>
 <a href="/img/OPS_SER_1981.jpg"><img class="img-fluid"
 src="/img/OPS_SER_1981.jpg"  alt="Safety Evaluation Report for Offshore Power Systems
 floating nuclear power plants"/></a> 
-<div class="caption"><p>A SER from OPS's first 8 plants</p></div>
-</div>
+<caption><p>A SER from OPS's first 8 plants</p></caption>
+</figure>
 </div>
 <div class="col-md-6">
-<div class="thumbnail">
+<figure>
 <a href="/img/ops-shielding.jpg"><img class="img-fluid"
 src="/img/ops-shielding.jpg"  alt="OPS Shielding graphic "/></a> 
-<div class="caption"><p>A graphic showing one of the assembly line steps of a gigantic PWR</p></div>
-</div>
+<caption><p>A graphic showing one of the assembly line steps of a gigantic PWR</p></caption>
+</figure>
 </div>
 </div>
 

@@ -86,15 +86,20 @@ so we just say better safe than sorry and minimize our radiation exposure.
 To help you determine how much radiation you are OK with, you first have to know how much radiation you already 
 get. We provide the following data.
 
-<div class="thumbnail">
+<figure>
 <img src="/img/rad_effects.png" alt="Radiation doses and expected life impacts of various activities."/>
+<caption>
 <p><strong>Figure 1.</strong>  Dose equivalences from several activities and health risks of other activities.</p>
-</div>
+</caption>
+</figure>
 
-<div class="thumbnail">
-<img src="/img/doses-in-perspective.jpg" alt="Radiation doses in perspective (from the NRC)." title="Radiation doses in perspective (from the NRC)."/>
+<figure>
+<img src="/img/doses-in-perspective.jpg" alt="Radiation doses in perspective
+(from the NRC)." title="Radiation doses in perspective (from the NRC)."/>
+<caption>
 <p><strong>Figure 2.</strong>  A logarithmic plot of doses you get from various sources.</p>
-</div>
+</caption>
+</figure>
 
 As you can see, you get radiation from many things you may not expect. Flying brings you 
 outside the protection of many layers of atmosphere that shield us from cosmic radiation 

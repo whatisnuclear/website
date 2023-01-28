@@ -444,12 +444,16 @@ destroyed freedom in the expansion of their own ruthless philosophy".  While inv
 in conventional weapons could only be recovered as scrap in times of peace, the nuclear
 material being stockpiled could be used later for peaceful purposes:
 
-> But when the day comes that our atomic armament is no longer required to deter 
-> aggression, the nuclear material which it contains can be easily converted into 
-> energy sources to provide very great amounts of power to turn the wheels of industry,
-> furnish us with light, heat, transportation, and the many other conveniences 
-> and blessing of peace. We who work in the Atomic Energy Commission work with 
-> the vision of that day before us.
+<figure>
+<blockquote class="blockquote text-start">
+But when the day comes that our atomic armament is no longer required to deter 
+aggression, the nuclear material which it contains can be easily converted into 
+energy sources to provide very great amounts of power to turn the wheels of industry,
+furnish us with light, heat, transportation, and the many other conveniences 
+and blessing of peace. We who work in the Atomic Energy Commission work with 
+the vision of that day before us.
+</blockquote>
+</figure>
 
 <div class="alert alert-success" markdown="1">
 Sidenote: this vision really did come true when between 2003 and 2013, fully 10% of the
@@ -689,26 +693,38 @@ their own dime because they were convinced at this time that commercial nuclear 
 to be big business.  Regarding the proposed large-scale Dresden BWR, GE's VP McCune said
 in 1956 that:
 
-> I have already testified that the developmental work required to produce this plant,
-> particularly fuel element development, will be very expensive. Unless we obtain
-> substantial future business, we will lose considerable sums on the Dresden station. At
-> the time we contracted to build this plant for Commonwealth, we were well aware of this.
-> We are aware also of the difficult technical problems ahead of us and of the large
-> investments in developmental facilities, these very expensive tools of the trade, which
-> would be required.
->
-> Moreover, when we signed the Commonwealth contract, we faced serious problems in
-> addition to the technical ones. The regulatory and licensing situation was still
-> unsettled. The Commission was just beginning to break down the information barriers.
-> Above all, the liability problem had not been resolved. 
->
-> Nevertheless, we took on the Dresden station because we were convinced that by doing so
-> we would serve the long-run interests of our share owners, our responsibilities to the
-> system of private enterprise, and the national interest. Out decision to go forward was
-> also based on the belief that Congress expected this kind of a job to be done by private
-> industry. We had faith that Congress, and particularly this committee, as well as the
-> Commission, wanted to encourage private development and would take all reasonable steps
-> to promote that development.
+<figure>
+<blockquote class="blockquote text-start">
+<p>
+I have already testified that the developmental work required to produce this plant,
+particularly fuel element development, will be very expensive. Unless we obtain
+substantial future business, we will lose considerable sums on the Dresden station. At
+the time we contracted to build this plant for Commonwealth, we were well aware of this.
+We are aware also of the difficult technical problems ahead of us and of the large
+investments in developmental facilities, these very expensive tools of the trade, which
+would be required.
+</p>
+<p>
+Moreover, when we signed the Commonwealth contract, we faced serious problems in
+addition to the technical ones. The regulatory and licensing situation was still
+unsettled. The Commission was just beginning to break down the information barriers.
+Above all, the liability problem had not been resolved. 
+</p>
+<p>
+Nevertheless, we took on the Dresden station because we were convinced that by doing so
+we would serve the long-run interests of our share owners, our responsibilities to the
+system of private enterprise, and the national interest. Out decision to go forward was
+also based on the belief that Congress expected this kind of a job to be done by private
+industry. We had faith that Congress, and particularly this committee, as well as the
+Commission, wanted to encourage private development and would take all reasonable steps
+to promote that development.
+</p>
+</blockquote>
+ <figcaption class="blockquote-footer text-end">
+  GE VP McCune, 1956
+</figcaption>
+</figure>
+
 
 Soon, GE enlisted services of their steam turbine-generator department for the plant
 design, their induction motor department for special motors, their carboloy department for
@@ -814,7 +830,7 @@ In 1964, GE sold the Oyster Creek reactor to Jersey Central Light at a guarantee
 capital cost that was competitive with fossil fuels. Widespread euphoria spread throughout the
 nuclear developers. At a State of the Lab speech, Alvin Weinberg shouted:
 
-> Economic nuclear power is here!
+<blockquote class="blockquote fst-italic">Economic nuclear power is here!</blockquote>
 
 Between 1963 and 1966, 10 utilities purchase 12 PWRs and BWRs from GE and Westinghouse
 under these turnkey contracts.
@@ -988,9 +1004,13 @@ full of carbonaceous material. A three-phase core disassembly/rehab program was 
 As the rehab was ongoing, it became clear that Milton Shaw, the director of Reactor
 Development at the AEC, had given up on the organic concept:
 
-> There is an expression used around our office about reactor projects. It is not 
-> those that have the slow death that worries us; **it is those that have a life after 
-> death**.
+<figure>
+<blockquote class="blockquote text-start" markdown="1">
+There is an expression used around our office about reactor projects. It is not 
+those that have the slow death that worries us; **it is those that have a life after 
+death**.
+</blockquote>
+</figure>
 
 He concluded that the AEC would support the Piqua facility but would otherwise discontinue
 all work on the organic cooled concept. The writing was on the wall. In the [FY1969
@@ -998,12 +1018,16 @@ authorization hearings of the
 AEC](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03584657j&view=1up&seq=481), the
 announcement to terminate the Piqua contract was made:
 
-> The Commission is in the process of terminating the operating contract for the Piqua
-> reactor project.  Several factors entered into this decision including: an increasing need
-> for available resources (manpower and funding) by higher priority programs; little
-> programmatic interest since support for organic cooled and moderated reactors and the
-> HWOCR concept has been phased out; the technical problems which continue to delay
-> reoperation of the plant and the unlikelihood of the City to purchase the plant.
+<figure>
+<blockquote class="blockquote text-start" markdown="1">
+The Commission is in the process of terminating the operating contract for the Piqua
+reactor project.  Several factors entered into this decision including: an increasing need
+for available resources (manpower and funding) by higher priority programs; little
+programmatic interest since support for organic cooled and moderated reactors and the
+HWOCR concept has been phased out; the technical problems which continue to delay
+reoperation of the plant and the unlikelihood of the City to purchase the plant.
+</blockquote>
+</figure>
 
 Today the small dome still stands, and [it looks
 like](https://www.google.com/maps/@40.1317141,-84.235193,3a,75y,67.34h,98.75t/data=!3m6!1e1!3m4!1sR97FfsWU3y0G4INi-rkd_A!2e0!7i16384!8i8192?hl=en)
@@ -1298,14 +1322,19 @@ efficiency and neutron economy, combining the phenomenal low-pressure coolant pr
 of sodium metal with the phenomenal neutron moderation properties of heavy water. The key
 challenge, of course, was sodium-water isolation.
 
-> The principal problem in the SDR is a psychological one. Many people have a feeling that
-> sodium and water react explosively; they do not react explosively. Hydrogen and oxygen
-> do react explosively. The pyrotechnics that you may have seen on sodium combining with
-> H<sub>2</sub>O is principally one in which hydrogen has reacted with oxygen in the air. The
-> reaction rate is of the order of microseconds; it is truly an explosive reaction.
-> Sodium and water can be handled quite safely and quite easily, as I will show you later.
-
--- Edward Bernsohn, Nuclear Development Corporation of America [on the SDR](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095054832&view=1up&seq=55&size=125)
+<figure>
+<blockquote class="blockquote text-start">
+The principal problem in the SDR is a psychological one. Many people have a feeling that
+sodium and water react explosively; they do not react explosively. Hydrogen and oxygen
+do react explosively. The pyrotechnics that you may have seen on sodium combining with
+H<sub>2</sub>O is principally one in which hydrogen has reacted with oxygen in the air. The
+reaction rate is of the order of microseconds; it is truly an explosive reaction.
+Sodium and water can be handled quite safely and quite easily, as I will show you later.
+</blockquote>
+<figcaption class="text-end" markdown="1">
+Edward Bernsohn, Nuclear Development Corporation of America [on the SDR](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095054832&view=1up&seq=55&size=125)
+</figcaption>
+</figure>
 
 NDA ran some significant component and reactor mock-up experiments and flow-loops with
 water and sodium. 
@@ -1362,9 +1391,12 @@ Breeder Reactors*)
 </figure>
 
 In 1966, the AEC stated:
-
-> The Nation's extensive industrial capabilities and resources are being brought to bear
-> heavily on the LMFBR development program.
+<figure>
+<blockquote class="blockquote text-start">
+The Nation's extensive industrial capabilities and resources are being brought to bear
+heavily on the LMFBR development program.
+</blockquote>
+</figure>
 
 The technical study areas were defined and systematically pushed forward: fuels and
 materials, reprocessing and recycling, physics, nuclear safety, sodium technology,
@@ -1568,7 +1600,10 @@ Still, it's abundantly clear that developing new kinds of reactors for commoditi
 purposes is a grueling challenge, not for the faint of heart. An old-timer once
 whispered to me at a comically over-optimistic talk at a conference:
 
-> Nick, you see, these guys just haven't been run over by the nuclear bus yet!
+
+<blockquote class="blockquote fst-italic">
+Nick, you see, these guys just haven't been run over by the nuclear bus yet!
+</blockquote>
 
 The more we study and understand the nuclear bus, the more likely we'll be able to prepare
 for and leverage it when it comes in our future reactor developments. We must not fear the
@@ -1622,12 +1657,17 @@ Outcomes of these activities:
 
 <div class="alert alert-success" markdown="1">
 
-> Reactor development, like any heavy-engineering development, is an inverted pyramid:
-> at the apex of the pyramid is the original idea, supported by theory and a few
-> experiments; but as the chosen system becomes an engineering and then a commercial
-> reality, the resources required to carry out the development increase greatly.
-
-— Alvin Weinberg, *The First Nuclear Era*
+<figure>
+<blockquote class="blockquote text-start">
+Reactor development, like any heavy-engineering development, is an inverted pyramid:
+at the apex of the pyramid is the original idea, supported by theory and a few
+experiments; but as the chosen system becomes an engineering and then a commercial
+reality, the resources required to carry out the development increase greatly.
+</blockquote>
+<figcaption class="text-end" markdown="1">
+Alvin Weinberg, *The First Nuclear Era*
+</figcaption>
+</figure>
 
 </div>
 </div>
