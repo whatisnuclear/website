@@ -13,10 +13,12 @@ image: /img/Thor.jpg
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<div class="float-end"> <img width="200" class="thumbnail" alt="Thor by Marten Eskil Winge" title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with thunder, lightning, storms, oak trees, strength, the protection of mankind, healing, and fertility. Thorium was so named in the 1820s, well before its nuclear properties were discovered in 1942. Coincidence? " src="/img/Thor.jpg"/>
-</div>
-
-
+ <img width="444" height="323" class="img-thumbnail m-2 img-fluid w-25 float-end" alt="Thor by Marten Eskil
+ Winge" title="Thor by Marten Eskil Winge. Thor is a mythical Norse god
+ associated with thunder, lightning, storms, oak trees, strength, the protection
+ of mankind, healing, and fertility. Thorium was so named in the 1820s, well
+ before its nuclear properties were discovered in 1942. Coincidence? "
+ src="/img/Thor.jpg"/>
 Thorium is a basic element of nature, like Iron and Uranium. Like Uranium, its properties allow it
 to be used to fuel a nuclear chain reaction that can run a power plant and make electricity (among
 other things). Thorium itself will not split and release energy. Rather, when it is exposed to
