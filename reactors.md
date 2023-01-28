@@ -83,13 +83,16 @@ water. The coolant heats up and goes off to a turbine to spin a generator or dri
 <a name="animated"></a>
 ## Animated reactor system
 
-<img class="img-thumbnail center-block img-fluid" src="/img/nrc-pwr-opt.gif" alt="A nice animation of a nuclear reactor from the NRC." title="A nice animation of a nuclear reactor from the NRC."/>
-       
-The image above (reproduced from [the NRC](https://www.nrc.gov)) shows a nuclear reactor heating up water and spinning 
+<div class="img-thumbnail ratio ratio-16x9">
+<video autoplay loop muted playsinline>
+  <source src="/img/nrc-pwr-opt.webm" type="video/webm" />
+  <source src="/img/nrc-pwr-opt.mp4" type="video/mp4" />
+</video>
+</div>
+The animation above (reproduced from [the NRC](https://www.nrc.gov)) shows a nuclear reactor heating up water and whirling 
 a generator to produce electricity. It captures the essence of the system well. The water coming into the condenser 
-and then going right back out would be water from a river, lake, or ocean. It goes out the cooling towers. As you 
+and then going right back out is water from a river, lake, or ocean. It goes out the cooling towers. As you 
 can see, this water does not go near the radioactivity, which is in the reactor vessel.
-
 </div>
   
 </div>
