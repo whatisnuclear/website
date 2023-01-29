@@ -32,6 +32,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-time-to-read
   - jekyll-feed
+  - jekyll-image-size
 
 feed:
     collections:

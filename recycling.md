@@ -12,12 +12,11 @@ updated: 2022-10-01
 byline: true
 ---
 <div class="row">
-<div class="col-md-8" markdown="1">
-
-<a name="recycling"></a>
+<div id="recycling" class="col-md-8" markdown="1">
 
 <img class="img-fluid float-end w-25" src="img/atomic-recycling.png"
-alt="Recycle symbol with atom inside it" />
+{% imagesize img/atomic-recycling.png:props %}  
+alt="Recycle symbol with atom inside it" >
 
 Nuclear waste is recyclable. Once reactor fuel (uranium or thorium) is used in a
 reactor, it can be treated and put into another reactor as fuel. 
@@ -30,8 +29,9 @@ other isotopes (U-238 and Thorium-232) are <em>fertile</em>, meaning they could
 be changed into fissile nuclides in a reactor, but cannot sustain a chain
 reaction on their own. Natural fuel forms are shown below.
 
-<img class="img-fluid mx-auto d-block" src="img/fuelcycle-natural.svg" alt="Diagram showing
-natural Uranium and natural thorium isotopic composition" />
+<img class="img-fluid mx-auto d-block w-100" src="img/fuelcycle-natural.svg" alt="Diagram showing
+natural Uranium and natural thorium isotopic composition" 
+{% imagesize img/fuelcycle-natural.svg:props %} >
 
 Because it contains some fissile material naturally, it is possible to build a
 few kinds of nuclear reactors directly fueled with natural uranium. The first
@@ -43,10 +43,11 @@ are fueled with low-enriched uranium. Note that as uranium is enriched more,
 larger piles of depleted uranium (mostly U-238) are left over as tails. The 
 following figure shows fuel forms enabled by enrichment.
 
-<img class="img-fluid mx-auto d-block" src="img/fuelcycle-enrich.svg" alt="Diagram showing a
+<img class="img-fluid mx-auto d-block w-100" src="img/fuelcycle-enrich.svg" alt="Diagram showing a
 number of different isotopic compositions that can be made in a uranium
 enrichment plant, including low-enriched uranium, highly-enriched uranium,
-and thorium mixed with enriched uranium." />
+and thorium mixed with enriched uranium."
+{% imagesize img/fuelcycle-enrich.svg:props %} >
 
 Once the neutron chain reaction begins in a reactor, a number of key things happen
 to the atoms:
@@ -73,10 +74,11 @@ Np-239. Then, the Np-239 beta-decays again to become Pu-239, a fissile isotope
 that can power nuclear reactors. A analogous process happens when Thorium-232
 absorbs a neutron to become fissile Uranium-233.
 
-<img class="img-fluid mx-auto d-block" src="/img/breeding.svg" title="An image of U-238 becoming
+<img class="img-fluid mx-auto d-block w-100" src="/img/breeding.svg" title="An image of U-238 becoming
 Pu-239 via neutron absorption and two beta-decays and Th-232 becoming U-233" alt="An image of U-238
 becoming Pu-239 via neutron absorption and two beta-decays. Also Thorium-232 becoming Uranium-233 
-via breeding."/>
+via breeding."
+{% imagesize img/breeding.svg:props %}  >
 
 The fissile atoms left over in the used fuel (red in the figure below) are what
 can be recycled. How many fissile atoms are in the used fuel depends strongly on
@@ -84,8 +86,9 @@ the kind of reactor used. Typical reactors leave just a little bit, but special
 reactors called *breeder reactors* can actually leave more fissile material than
 they started with! More on that later.
 
-<img class="img-fluid mx-auto d-block" src="img/fuelcycle-irradiated.svg" alt="Diagram showing 
-the isotopic composition of used nuclear fuel after being irradiated in a reactor." />
+<img class="img-fluid mx-auto d-block w-100" src="img/fuelcycle-irradiated.svg" alt="Diagram showing 
+the isotopic composition of used nuclear fuel after being irradiated in a reactor." 
+{% imagesize img/fuelcycle-irradiated.svg:props %}  >
 
 All reactors have some fissile material left over when the fuel is discharged. 
 If you pull this material out and put it into a *reprocessing plant* you can 
@@ -139,10 +142,11 @@ eta is sufficiently higher than 2.0, you can make a breeder reactor. Thus, the o
 * Make a thorium/U-233 breeder with slow neutrons (left-hand side), or
 * Make a uranium/plutonium breeder with fast neutrons (right-hand side) 
 
-
-<img class="img-fluid mx-auto d-block" src="img/eta_good.svg" alt="A plot of eta, 
+<img class="img-fluid mx-auto d-block w-100" src="img/eta_good.svg" alt="A plot of eta, 
 the number of neutrons released per absorption in the fuel for fissile nuclides
-U-233, Pu-239, and U-235. This shows how to make a breeder reactor." />
+U-233, Pu-239, and U-235. This shows how to make a breeder reactor." 
+title="A plot of eta vs. incident neutron energy"
+{% imagesize img/eta_good.svg:props %}  >
 
 Both of these configurations have sufficient excess neutrons to allow you to pack in lots of 
 fertile material while still sustaining a nuclear chain reaction. The more fertile
@@ -155,15 +159,16 @@ reactors]({% link thorium.md %}).  Note that all thorium are necessarily breeder
 reactors, since natural thorium has no fissile component.
 </div>
 
-Recycling and breeding are often thought of together, but they are on separate axes. 
-Countries like France recycle fuel from non-breeder reactors. Most long-term 
-sustainable nuclear plans involve using breeder reactors plus recycling. It is also
-possible to use a breeder reactor without recycling at all using [advanced deep-burn fuels]({% link twr.md %}).
+Recycling and breeding are often thought of together, but they are on separate
+axes.  Countries like France recycle fuel from non-breeder reactors. Most
+long-term sustainable nuclear plans involve using breeder reactors plus
+recycling. It is also possible to use a breeder reactor without recycling at all
+using [advanced deep-burn fuels]({% link twr.md %}).
 
-<img class="img-fluid mx-auto d-block" src="img/breeding-vs-recycling.svg" alt="Diagram showing
+<img class="img-fluid mx-auto d-block w-100" src="img/breeding-vs-recycling.svg" alt="Diagram showing
 examples of reactors that recycle vs. not recycle compared to breed vs. not
-breed." />
-
+breed." 
+{% imagesize img/breeding-vs-recycling.svg:props %}  >
 
 ## Nuclear Fuel cycles
 A nuclear fuel cycle is the path that nuclear fuel (Uranium, Thorium, Plutonium, etc.) takes as it
@@ -171,9 +176,12 @@ is used to generate power in a nuclear reactor. Our <a href="{% link fuel-cycle.
 page</a> has more info. They describe where the material comes from and where it ends up. Different
 fuel cycles range from very simple to fairly complicated. We describe several of these below. 
 
-<a name="oncethrough"></a>
-### Once Through Cycle
-<object type="image/svg+xml" data="/img/fuelcycle_once_through.svg" alt="A picture of a once-through fuel cycle." class="img-fluid">Browser doesn't support SVG</object>
+<h3 id="oncethrough">Once-Through Fuel Cycle</h3>
+<!-- Use object here because we want the title tooltiops -->
+<object type="image/svg+xml" data="/img/fuelcycle_once_through.svg" title="A
+picture of a once-through fuel cycle." class="img-fluid w-100"
+{% imagesize img/fuelcycle_once_through.svg:props %}  
+>Browser doesn't support SVG</object>
 <p class="caption"><strong>Figure 1.</strong> A once-through fuel cycle. Hover for more info.</p>
 
 The simplest fuel cycle is the once-through cycle. It is the de-facto standard in most operating
@@ -186,10 +194,11 @@ the most abundant element on Earth, and in this kind of cycle, the global supply
 could run low within 200 years. So much for sustainability! There are some deep-burn once-through
 cycles out there that have good sustainability properties though. 
 
-
-
 <h3 id="closed">Closed Fuel Cycle</h3>
-<object type="image/svg+xml" data="/img/fuelcycle_recycle.svg" alt="A picture of a MOX recycle fuel cycle." class="img-fluid">Browser doesn't support SVG</object>
+<object type="image/svg+xml" data="/img/fuelcycle_recycle.svg" title="A picture of
+a MOX recycle fuel cycle." class="img-fluid w-100"
+{% imagesize img/fuelcycle_recycle.svg:props %}  
+>Browser doesn't support SVG</object>
 <p class="caption"><strong>Figure 2.</strong> A closed fuel cycle. Here nuclear material is recycled. </p>
 Closing the fuel cycle involves recycling the nuclear waste as new fuel. Since the main component of
 nuclear waste is Uranium-238 (which can be transmuted to Plutonium, especially with advanced breeder
@@ -206,10 +215,13 @@ possibly be stolen, bringing a rogue entity closer to having a nuclear weapon. F
 the USA does not currently recycle. There are ways to solve these issues. 
 
 
-
 <h3 id="breeder">Breeder Fuel Cycle</h3>
-<object type="image/svg+xml" data="/img/fuelcycle_breeder.svg" class="img-fluid">Browser doesn't support SVG</object>
-<p class="caption"><strong>Figure 3.</strong> A closed fuel cycle with breeding. More fissile material is created from breeding than is used to make energy. Hover over images for more info.</p>
+<object type="image/svg+xml" data="/img/fuelcycle_breeder.svg" class="img-fluid w-100"
+{% imagesize img/fuelcycle_breeder.svg:props %}  
+>Browser doesn't support SVG</object>
+<p class="caption"><strong>Figure 3.</strong> A closed fuel cycle with breeding.
+More fissile material is created from breeding than is used to make energy.
+Hover over images for more info.</p>
 
 <a href="{% link fast-reactor.md %}">Breeder reactors</a> can create as much or more fissile
 material (atoms that readily split) than they use. These special reactors are designed to have extra

@@ -11,7 +11,7 @@ image: /img/dc_cook.jpg
 <div class="row mt-3">
 <div class="col-md-8" markdown="1">
 
-<img  src="/img/reactor_web.svg" class="img-fluid w-25 float-end" alt="An icon of
+<img src="/img/reactor_web.svg" class="img-fluid w-25 float-end" alt="An icon of
 a nuclear reactor with an atom symbol on a cooling tower and a lightning bolt on the
 reactor."/>
 In the late 1930s, we discovered that some particularly large atoms found in
