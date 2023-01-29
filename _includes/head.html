@@ -14,7 +14,7 @@
   <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" >
-  <meta property="og:site_name" content="What is nuclear?" />
+  <meta property="og:site_name" content="What is nuclear?" >
   <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | escape }}{% endif %}" >
   <meta property="og:image" content="{{ site.url }}{{ page.image | default: "/img/reactor.png" }}" >
   {% if page.summary %}
