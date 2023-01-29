@@ -104,6 +104,7 @@ most toxic waste, the fact that nuclear waste becomes less toxic with time is qu
 
 <figure> <a href="/img/fission-energy.svg"><img
 src="/img/blank.png"
+{% imagesize /img/fission-energy.svg:props %} 
 data-echo="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
 class="img img-fluid center-block" ></a>  
 
