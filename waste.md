@@ -34,8 +34,7 @@ going deeper. Here, you will learn:
 * [How much waste do we make?](#howmuch)
 * [What is the composition of nuclear waste?](#composition)
 
-<a name="what"></a>
-## What is nuclear waste?
+<h2 id="what">What is nuclear waste?</h2>
 Nuclear energy is released when a nuclear fuel nucleus snaps into two in a [reactor]({{
 site.baseurl }}{% link reactors.md %}). The key component
 of nuclear waste is the leftover smaller nuclei, known as fission products.
@@ -94,9 +93,7 @@ fuel*. These terms are intended to indicate that it is recyclable, but they all 
 the stuff known commonly as *nuclear waste*. 
 </div>
 
-<a name="hazards"></a>
-<br/>
-## What are the hazards of nuclear waste?
+<h2 id="hazards"> What are the hazards of nuclear waste?</h2>
 
 When a nucleus splits, most of the energy is released immediately and carried off by
 coolant to do useful work. However, energy continues to be released for thousands of years
@@ -151,9 +148,7 @@ charge of the world's first man-made nuclear chain reaction), who stated:
 Since he made that statement, we have gained more than 60 years of experience with nuclear
 power stations. So how have we done?
 
-
-## What do we currently do with our nuclear waste?
-<a name="current"></a>
+<h2 id="current">What do we currently do with our nuclear waste?</h2>
 In practice, the spent fuel is never unshielded. It is kept underwater (water is an
 excellent shield) for 5--8 years in *spent fuel pools* until the radiation levels decay to
 levels that can be cooled without water.
@@ -203,7 +198,6 @@ in dry casks at the Columbia Generating Station in Washington state.
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" 
   src="https://www.youtube.com/embed/EUvvIzH2W6g" 
-  frameborder="0"
   srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/EUvvIzH2W6g?autoplay=1><img src=https://img.youtube.com/vi/EUvvIzH2W6g/hqdefault.jpg alt='Waste finland video'><span>▶</span></a>"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
@@ -232,8 +226,8 @@ into glass in a process called
 vitrification](https://www.radioactivity.eu.com/site/pages/Vitrified_HA_Waste.htm), and
 then stored in air-draft cooling racks.
 
-<a name="whattodo"></a>
-## What are the long-term options for nuclear waste?
+<h2 id="whattodo">What are the long-term options for nuclear waste?</h2>
+
 
 Dry cask storage above ground is quite stable, but both nuclear advocates and opponents
 can agree that there are reasons to try to get it even further away from the biosphere.
@@ -284,7 +278,6 @@ an excellent video describing the plan.
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" 
   src="https://www.youtube.com/embed/A9vWhoT_45s" 
-  frameborder="0"
   srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/A9vWhoT_45s?autoplay=1><img src=https://img.youtube.com/vi/A9vWhoT_45s/hqdefault.jpg alt='Waste finland video'><span>▶</span></a>"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
@@ -367,7 +360,6 @@ spikes.
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" 
   src="https://www.youtube.com/embed/Rmp3_CLx4VY" 
-  frameborder="0"
   srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/Rmp3_CLx4VY?autoplay=1><img src=https://img.youtube.com/vi/Rmp3_CLx4VY/hqdefault.jpg alt='Waste video'><span>▶</span></a>"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
@@ -396,9 +388,10 @@ Other things have been proposed as a solution for nuclear waste but are mostly b
   But only a tiny fraction of the material has found useful scientific/military uses at
   this point, and it's unlikely the rest will be too useful, again because of the hazards.
 
-<a name="howmuch"></a>
+<h2 id="howmuch">
+How much nuclear waste does nuclear energy create?
+</h2>
 
-## How much nuclear waste does nuclear energy create?
 If all the electricity use of the USA was distributed evenly among its population, and all of it came 
 from nuclear power, then the amount of nuclear waste each person would generate per year would be 
 **39.5 grams**. That's the weight of seven U. S. quarters of waste, per year! A detailed description 
@@ -431,8 +424,9 @@ section of a spent fuel (nuclear waste) assembly (this particular one is actuall
 mock-up)" title="The top of a fuel assembly (this particular one is actually a mock-up)"
 /></div>
 
-<a name="composition"></a>
-## Composition of nuclear waste
+<h2 id="composition">
+Composition of nuclear waste
+</h2>
 
 Spent nuclear fuel composition varies depending on what was put into the reactor, how long
 the reactor operated, and how long the waste has been sitting out of the reactor. A
@@ -475,8 +469,9 @@ structural material such as zirconium and stainless steel.</caption>
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<a name="refs"></a>
-## See Also
+<h2 id="refs">
+See Also
+</h2>
  * [Management and Disposal of High-Level Radioactive Waste: Global Progress and Solutions
    (OECD/NEA 2020)](http://www.oecd-nea.org/rwm/pubs/2020/7532-dgr-geological-disposal-radioactive-waste.pdf)
    -- OECD/NEA pdf report on the situation with waste from 2020
