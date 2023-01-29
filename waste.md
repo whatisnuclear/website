@@ -42,7 +42,7 @@ of nuclear waste is the leftover smaller nuclei, known as fission products.
 <figure>
 <a href="/img/fission-chain-reaction-optsvg.svg">
 <img class="img-fluid w-100" src="/img/fission-chain-reaction-optsvg.svg" 
-  
+{% imagesize /img/fission-chain-reaction-optsvg.svg:props %}  
 alt="A nuclear chain reaction showing a fuel nucleus splitting into 2 fission products and
 3 neutrons."/></a>
 <figcaption class="figure-caption">The fission process of a single atomic
@@ -62,7 +62,7 @@ billions of atoms split. You basically get a huge variety of elements, shown bel
 
 <figure>
 <img class="img-fluid" src="/img/blank.png" data-echo="/img/fission-product-yields-u235-thermal-endf71-900.png"
-  
+{% imagesize /img/fission-product-yields-u235-thermal-endf71-900.png:props %}  
 alt="A periodic table of the elements highlighting the ones that can emerge as fission
 products."/> <figcaption class="figure-caption">The fission products include radioactive <a href="{% link
 isotopes.md %}">isotopes</a> of the elements shown here. Color is proportional to the log
