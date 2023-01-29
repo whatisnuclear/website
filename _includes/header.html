@@ -1,26 +1,29 @@
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark" >
-      <div class="container-fluid">
-          <a class="navbar-brand" href="/"><img class="navbar-brand-icon"
-              src="/img/reactor_web.svg" width="40" height="40" alt="A small icon of a cooling tower with an atom
-              symbol on it and a reactor with a lightning symbol on it."/></a>
-          <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-          </button>
-        {%- assign page_name = page.path | split:"." | first -%}
-        <div class="navbar-collapse collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            {%- for section in site.data.pages -%}
-                <li class="nav-item dropdown ">
-                  <a href="#" class="nav-link dropdown-toggle {% if section.pages contains
-                           page_name %}active{% endif %}" data-bs-toggle="dropdown" aria-expanded="false" >
-                      {{ section.title }} 
-                      <span class="caret{% if section.pages contains page_name %} orange{%- endif -%}"></span>
-                  </a>
-                    {%- include menu_ul.html items=section.pages folder=section.title -%}
-                </li>
-            {%- endfor -%}
-            <li class="nav-item"><a class="nav-link" title="Link to RSS Feed" href="/feed.xml"><i class="fa fa-rss"></i></a></li>
-          </ul>
-        </div>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" >
+  <div class="container-fluid">
+      <a class="navbar-brand" href="/"><img class="navbar-brand-icon"
+      src="/img/reactor_web.svg" width="40" height="40" alt="A small icon of a
+      cooling tower with an atom symbol on it and a reactor with a lightning
+      symbol on it."/></a>
+      <button type="button" class="navbar-toggler" data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false"
+      aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      {%- assign page_name = page.path | split:"." | first -%}
+      <div class="navbar-collapse collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        {%- for section in site.data.pages -%}
+          <li class="nav-item dropdown ">
+          <a href="#" class="nav-link dropdown-toggle {% if section.pages contains page_name %}active{% endif %}" data-bs-toggle="dropdown" aria-expanded="false" >
+          {{ section.title }} 
+            <span class="caret{% if section.pages contains page_name %} orange{%- endif -%}"></span>
+          </a>
+          {%- include menu_ul.html items=section.pages folder=section.title -%}
+          </li>
+        {%- endfor -%}
+          <li class="nav-item"><a class="nav-link" title="Link to RSS Feed" href="/feed.xml"><i class="fa fa-rss"></i></a></li>
+        </ul>
       </div>
-    </nav>
+  </div>
+</nav>
