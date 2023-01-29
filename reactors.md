@@ -11,8 +11,7 @@ byline: true
 <div class="col-md-12" markdown="1">
 
 <img src="/img/dccook.jpg" alt="A nuclear power plant." 
-class="rounded img-fluid float-end w-25" title="A nuclear power plant." 
-{% imagesize /img/dccook.jpg:props %}  />
+class="rounded img-fluid float-end w-25" title="A nuclear power plant." {% imagesize /img/dccook.jpg:props %}  />
 A nuclear reactor is a system that contains and controls sustained nuclear chain reactions. Reactors are used for generating 
 electricity, moving aircraft carriers and submarines, producing medical isotopes for imaging and cancer treatment, 
 and for conducting research. 
@@ -64,8 +63,7 @@ water. The coolant heats up and goes off to a turbine to spin a generator or dri
 
 <img src="/img/simulator.jpg" class="rounded
 img-fluid" alt="A training simulator (exact replica) of a control room."
-title="A training simulator (exact replica) of a control room."
-{% imagesize /img/simulator.jpg:props %}  />
+title="A training simulator (exact replica) of a control room." {% imagesize /img/simulator.jpg:props %}  />
 </div>
        
 </div>
@@ -94,8 +92,7 @@ can see, this water does not go near the radioactivity, which is in the reactor 
 
 
 ### Fuel pins
-<img class="img-thumbnail center-block img-fluid" src="/img/hex_pin_labels.png" alt="A fuel pin" title="A fuel pin" 
-{% imagesize /img/hex_pin_labels.png:props %}  />
+<img class="img-thumbnail center-block img-fluid" src="/img/hex_pin_labels.png" alt="A fuel pin" title="A fuel pin" {% imagesize /img/hex_pin_labels.png:props %}  />
 The smallest unit of the reactor is the fuel pin. These are typically uranium-oxide (UO<sub>2</sub>), 
 but can take on other forms, including <a href="{% link thorium.md %}">thorium</a>-bearing material. 
 They are often surrounded by a metal tube (called the cladding) to keep fission products from escaping 
@@ -106,8 +103,7 @@ into the coolant.
 
 <h3 class="text-center">Fuel assembly</h3>
 <img class="img-thumbnail center-block img-fluid" src="/img/hex_assembly.gif"
-alt="A fuel assembly" title="A fuel assembly" 
-{% imagesize /img/hex_assembly.gif:props %}  />
+alt="A fuel assembly" title="A fuel assembly" {% imagesize /img/hex_assembly.gif:props %}  />
 Fuel assemblies are bundles of fuel pins. Fuel is put in and taken out of the reactor in assemblies. 
 The assemblies have some structural material to keep the pins close but not touching, 
 so that there's room for coolant.
@@ -115,8 +111,7 @@ so that there's room for coolant.
 
 <div class="col-md-4" markdown="1">
 <h3 class="text-center">Full core</h3>
-<img class="img-thumbnail center-block img-fluid" src="/img/hex_core2.gif" alt="A full core" title="A full core" 
-{% imagesize /img/hex_core2.gif:props %}  />
+<img class="img-thumbnail center-block img-fluid" src="/img/hex_core2.gif" alt="A full core" title="A full core" {% imagesize /img/hex_core2.gif:props %}  />
 This is a full core, made up of several hundred assemblies. Some assemblies are control assemblies. 
 Various fuel assemblies around the core have different fuel in them. They vary in [enrichment]({% link isotopes.md %}#enrichment) 
 and age, among other parameters. The assemblies may also vary with height, with different enrichments 

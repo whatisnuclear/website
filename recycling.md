@@ -30,8 +30,7 @@ be changed into fissile nuclides in a reactor, but cannot sustain a chain
 reaction on their own. Natural fuel forms are shown below.
 
 <img class="img-fluid mx-auto d-block w-100" src="img/fuelcycle-natural.svg" alt="Diagram showing
-natural Uranium and natural thorium isotopic composition" 
-{% imagesize img/fuelcycle-natural.svg:props %} >
+natural Uranium and natural thorium isotopic composition" {% imagesize img/fuelcycle-natural.svg:props %} >
 
 Because it contains some fissile material naturally, it is possible to build a
 few kinds of nuclear reactors directly fueled with natural uranium. The first
@@ -46,8 +45,7 @@ following figure shows fuel forms enabled by enrichment.
 <img class="img-fluid mx-auto d-block w-100" src="img/fuelcycle-enrich.svg" alt="Diagram showing a
 number of different isotopic compositions that can be made in a uranium
 enrichment plant, including low-enriched uranium, highly-enriched uranium,
-and thorium mixed with enriched uranium."
-{% imagesize img/fuelcycle-enrich.svg:props %} >
+and thorium mixed with enriched uranium." {% imagesize img/fuelcycle-enrich.svg:props %} >
 
 Once the neutron chain reaction begins in a reactor, a number of key things happen
 to the atoms:
@@ -77,8 +75,7 @@ absorbs a neutron to become fissile Uranium-233.
 <img class="img-fluid mx-auto d-block w-100" src="/img/breeding.svg" title="An image of U-238 becoming
 Pu-239 via neutron absorption and two beta-decays and Th-232 becoming U-233" alt="An image of U-238
 becoming Pu-239 via neutron absorption and two beta-decays. Also Thorium-232 becoming Uranium-233 
-via breeding."
-{% imagesize img/breeding.svg:props %}  >
+via breeding." {% imagesize img/breeding.svg:props %}  >
 
 The fissile atoms left over in the used fuel (red in the figure below) are what
 can be recycled. How many fissile atoms are in the used fuel depends strongly on
@@ -87,8 +84,7 @@ reactors called *breeder reactors* can actually leave more fissile material than
 they started with! More on that later.
 
 <img class="img-fluid mx-auto d-block w-100" src="img/fuelcycle-irradiated.svg" alt="Diagram showing 
-the isotopic composition of used nuclear fuel after being irradiated in a reactor." 
-{% imagesize img/fuelcycle-irradiated.svg:props %}  >
+the isotopic composition of used nuclear fuel after being irradiated in a reactor." {% imagesize img/fuelcycle-irradiated.svg:props %}  >
 
 All reactors have some fissile material left over when the fuel is discharged. 
 If you pull this material out and put it into a *reprocessing plant* you can 
@@ -145,8 +141,7 @@ eta is sufficiently higher than 2.0, you can make a breeder reactor. Thus, the o
 <img class="img-fluid mx-auto d-block w-100" src="img/eta_good.svg" alt="A plot of eta, 
 the number of neutrons released per absorption in the fuel for fissile nuclides
 U-233, Pu-239, and U-235. This shows how to make a breeder reactor." 
-title="A plot of eta vs. incident neutron energy"
-{% imagesize img/eta_good.svg:props %}  >
+title="A plot of eta vs. incident neutron energy" {% imagesize img/eta_good.svg:props %}  >
 
 Both of these configurations have sufficient excess neutrons to allow you to pack in lots of 
 fertile material while still sustaining a nuclear chain reaction. The more fertile
@@ -167,8 +162,7 @@ using [advanced deep-burn fuels]({% link twr.md %}).
 
 <img class="img-fluid mx-auto d-block w-100" src="img/breeding-vs-recycling.svg" alt="Diagram showing
 examples of reactors that recycle vs. not recycle compared to breed vs. not
-breed." 
-{% imagesize img/breeding-vs-recycling.svg:props %}  >
+breed." {% imagesize img/breeding-vs-recycling.svg:props %}  >
 
 ## Nuclear Fuel cycles
 A nuclear fuel cycle is the path that nuclear fuel (Uranium, Thorium, Plutonium, etc.) takes as it

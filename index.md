@@ -13,8 +13,7 @@ image: /img/dc_cook.jpg
 
 <img src="/img/reactor_web.svg" class="img-fluid w-25 float-end" alt="An icon of
 a nuclear reactor with an atom symbol on a cooling tower and a lightning bolt on the
-reactor."
-{% imagesize img/reactor_web.svg:props %} />
+reactor." {% imagesize img/reactor_web.svg:props %} />
 In the late 1930s, we discovered that some particularly large atoms found in
 nature can be split into two (or *fission*), releasing a shocking amount of
 energy as heat. Because the energy emerges from the atomic nucleus,
