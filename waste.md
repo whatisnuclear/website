@@ -81,6 +81,7 @@ basically has the consistency of a teacup. Commercial nuclear waste is not green
 <figure>
 <a href="/img/uranium-pellet-lg.jpg">
 <img class="img-fluid" src="/img/uranium-pellet-sm.jpg"
+{% imagesize /img/uranium-pellet-sm.jpg:props %} 
 alt="A nuclear fuel pellet before being put in a reactor"/></a>
 <figcaption class="figure-caption">This is what nuclear fuel looks like before it is used. Before the atoms split,
 it is only slightly radioactive and can be handled with a glove. After fission occurs, it
