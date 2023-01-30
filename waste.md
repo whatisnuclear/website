@@ -128,7 +128,9 @@ moment. Still, it does not transform from hazardous to benign for thousands of y
 
 <figure>
 <a href="/img/ingestion-radiotoxicity-nuclear-waste.png"><img
-src="/img/ingestion-radiotoxicity-nuclear-waste.png" alt="Graph showing radiotoxicity of
+src="/img/ingestion-radiotoxicity-nuclear-waste.png" 
+{% imagesize /img/ingestion-radiotoxicity-nuclear-waste.png:props %} 
+alt="Graph showing radiotoxicity of
 nuclear waste decaying over time" class="img img-fluid center-block"></a>
 <figcaption class="figure-caption">How dangerous nuclear waste is to eat as a function of time compared to eating
 natural uranium ore (dotted line). The various curves show that the toxicity decreases
@@ -162,7 +164,9 @@ Don't miss [this great XKCD "what if" scenario](https://what-if.xkcd.com/29/) as
 
 <figure>
 <a href="/img/spent-fuel-pool.jpg">
-<img class="img-fluid" src="/img/blank.png" data-echo="/img/spent-fuel-pool-sm.jpg" alt="A spent fuel pool"/>
+<img class="img-fluid" src="/img/blank.png" 
+data-echo="/img/spent-fuel-pool-sm.jpg" {% imagesize /img/spent-fuel-pool-sm.jpg:props %} 
+alt="A spent fuel pool"/>
 </a>
 <figcaption class="figure-caption">The spent fuel pool at a nuclear power plant. <a
 href="https://www.flickr.com/photos/nrcgov/14698776453/">Photo by the NRC</a>
@@ -185,7 +189,9 @@ href="https://www.flickr.com/photos/nrcgov/36801710635/">Photo by the NRC</a>
 -->
 <figure>
 <a href="/img/paris-at-dry-cask.jpg">
-<img class="img-fluid" src="/img/blank.png" data-echo="/img/paris-at-dry-cask.jpg" alt="Dry cask nuclear fuel storage"/>
+<img class="img-fluid" src="/img/blank.png" 
+data-echo="/img/paris-at-dry-cask.jpg" {% imagesize /img/paris-at-dry-cask.jpg %}
+alt="Dry cask nuclear fuel storage"/>
 </a>
 <figcaption class="figure-caption">Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
 Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: <a
@@ -201,12 +207,11 @@ in dry casks at the Columbia Generating Station in Washington state.
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" 
   src="https://www.youtube.com/embed/EUvvIzH2W6g" 
+  title="Finland nuclear waste solution video"
   srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/EUvvIzH2W6g?autoplay=1><img src=https://img.youtube.com/vi/EUvvIzH2W6g/hqdefault.jpg alt='Waste finland video'><span>▶</span></a>"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-
-
 
 To our knowledge, no one has been injured or killed by commercial nuclear waste in dry
 cask storage. While future incidents are possible, it is fairly clear that the rate of
@@ -250,7 +255,8 @@ project suffered what can only be called a political death.
 
 <figure>
 <a href="/img/yucca-nrc-large.jpg">
-<img class="img-fluid" src="/img/blank.png" data-echo="/img/yucca-nrc-sm.jpg" alt="Yucca Mountain nuclear waste
+<img class="img-fluid" src="/img/blank.png" {% imagesize /img/yucca-nrc-sm.jpg:props %} 
+data-echo="/img/yucca-nrc-sm.jpg" alt="Yucca Mountain nuclear waste
 repository"/>
 </a>
 <figcaption class="figure-caption">Yucca Mountain nuclear waste repository under construction <a
@@ -264,7 +270,9 @@ nuclear waste rather than civilian, but many of the challenges are related.
 
 <figure>
 <a href="/img/wipp-nrc-lg.jpg">
-<img class="img-fluid" src="/img/blank.png" data-echo="/img/wipp-nrc-sm.jpg" alt="WIPP nuclear waste
+<img class="img-fluid" src="/img/blank.png" 
+data-echo="/img/wipp-nrc-sm.jpg" {% imagesize /img/wipp-nrc-sm.jpg:props %}
+alt="WIPP nuclear waste
 repository"/>
 </a>
 <figcaption class="figure-caption">Waste Isolation Pilot Plant (WIPP) salt getting cleared <a
@@ -297,7 +305,9 @@ biosphere for extra time.
 
 <figure>
 <a href="/img/deep-borehole.jpg">
-<img class="img-fluid" src="/img/blank.png" data-echo="/img/deep-borehole.jpg" alt="A deep borehole"/>
+<img class="img-fluid" src="/img/blank.png" 
+data-echo="/img/deep-borehole.jpg" {% imagesize /img/deep-borehole.jpg:props %}
+alt="A deep borehole"/>
 </a>
 <figcaption class="figure-caption">A deep borehole <a
 href="https://www.osti.gov/servlets/purl/1420819">Courtesy of DOE</a>
@@ -363,7 +373,12 @@ spikes.
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" 
   src="https://www.youtube.com/embed/Rmp3_CLx4VY" 
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/Rmp3_CLx4VY?autoplay=1><img src=https://img.youtube.com/vi/Rmp3_CLx4VY/hqdefault.jpg alt='Waste video'><span>▶</span></a>"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5
+  sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a
+  href=https://www.youtube.com/embed/Rmp3_CLx4VY?autoplay=1><img
+  src=https://img.youtube.com/vi/Rmp3_CLx4VY/hqdefault.jpg alt='Waste
+  video'><span>▶</span></a>"
+  title="Nuclear waste package video"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
@@ -397,8 +412,8 @@ How much nuclear waste does nuclear energy create?
 
 If all the electricity use of the USA was distributed evenly among its population, and all of it came 
 from nuclear power, then the amount of nuclear waste each person would generate per year would be 
-**39.5 grams**. That's the weight of seven U. S. quarters of waste, per year! A detailed description 
-of this result can be found [here](/assets/waste_per_person.pdf). If we got all our electricity 
+**39.5 grams**. That's the weight of seven U. S. quarters of waste, per year! [A detailed description 
+of this calculation is here](/assets/waste_per_person.pdf). If we got all our electricity 
 from coal and natural gas, expect to have over 10,000 kilograms of CO<sub>2</sub>/yr attributed to 
 each person, not to mention other poisonous emissions directly to the biosphere 
 (based on EIA [emissions
@@ -422,7 +437,9 @@ density of the atom.
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<div class="float-end"> <img class="img-thumbnail" src="/img/blank.png" data-echo="img/fuel_assembly.jpg" alt="A chopped
+<div class="float-end"> <img class="img-thumbnail" src="/img/blank.png" 
+data-echo="img/fuel_assembly.jpg" {% imagesize /img/fuel_assembly.jpg:props %}
+alt="A chopped
 section of a spent fuel (nuclear waste) assembly (this particular one is actually a
 mock-up)" title="The top of a fuel assembly (this particular one is actually a mock-up)"
 /></div>
@@ -443,7 +460,9 @@ fissionable in fast reactors and can thus be used as fuel! This still would leav
 the **fission products**. The decay of each nuclide vs. time is shown below.
 
 <div class="img-thumbnail">
-<a href="/img/waste-curies-long.gif"><img src="/img/blank.png" data-echo="/img/waste-curies-long-small.gif" alt="Components of decay heat vs. time"></a>
+<a href="/img/waste-curies-long.gif"><img src="/img/blank.png" 
+data-echo="/img/waste-curies-long-small.gif" {% imagesize /img/waste-curies-long-small.gif:props %}
+alt="Components of decay heat vs. time"></a>
 <div class="figcaption">
 A chart of the activity of all the radioactive
 nuclides as a function of time up to 1 million years from 1 MT of nuclear
@@ -497,8 +516,8 @@ summarizing much of the current state of nuclear waste management
  * [The Onkalo nuclear waste repository (wiki)](https://en.wikipedia.org/wiki/Onkalo_spent_nuclear_fuel_repository)
  * [The Hiding Place: Inside the World's First Long-Term Storage Facility for Highly Radioactive Nuclear Waste](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste)
  * [Energy Northwest Video of dry casks](https://www.youtube.com/watch?v=EUvvIzH2W6g)
- * [Sam Brinton's Informal Bibliography on Nuclear Waste
-   Resources](https://docs.google.com/document/d/1N4GKU7aZWAsjRRCzMLkI84t6_r-9ml_TO5JlD8MtAbk) -- A nuclear waste professional's list of resources. Written up [here](https://neutronbytes.com/2016/08/06/what-to-read-about-nuclear-waste/).
+ * [Informal Bibliography on Nuclear Waste
+   Resources](https://docs.google.com/document/d/1N4GKU7aZWAsjRRCzMLkI84t6_r-9ml_TO5JlD8MtAbk) -- A nuclear waste professional's list of resources. [Explanation of the resources here](https://neutronbytes.com/2016/08/06/what-to-read-about-nuclear-waste/).
 
 </div>
 </div>
