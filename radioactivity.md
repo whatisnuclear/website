@@ -241,5 +241,3 @@ Potassium-40 is found all around, including in bananas and in salt-substitutes a
 </div>
 </div>
 
-  <script src="https://fastly.jsdelivr.net/npm/echarts@5.4.0/dist/echarts.min.js"></script>
-  <script src="/assets/plot-natural-dose.js"></script>
