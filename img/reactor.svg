@@ -2,12 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="459.33926"
-   height="457.71161"
+   width="462"
+   height="462"
    id="svg3124"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="reactor.svg"
+   inkscape:export-filename="/home/nick/Web/whatisnuclear/img/reactor.png"
+   inkscape:export-xdpi="83.120003"
+   inkscape:export-ydpi="83.120003"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,22 +27,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="341.43156"
-     inkscape:cy="325.26912"
+     inkscape:zoom="3.0353076"
+     inkscape:cx="362.40149"
+     inkscape:cy="37.228516"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1495"
+     inkscape:window-height="749"
+     inkscape:window-x="269"
+     inkscape:window-y="182"
+     inkscape:window-maximized="0"
      inkscape:pagecheckerboard="0"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-top="0.2"
+     fit-margin-left="0.2"
+     fit-margin-right="0.2"
+     fit-margin-bottom="0.2"
+     lock-margins="true" />
   <metadata
      id="metadata3129">
     <rdf:RDF>
@@ -55,10 +59,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-42.512756,-34.302914)">
+     transform="translate(-42.312759,-34.102936)">
+    <rect
+       style="fill:#ffffff;stroke-width:3.77953"
+       id="rect1007"
+       width="460"
+       height="460"
+       x="44.26424"
+       y="35.167957" />
     <g
        id="g4274"
-       transform="matrix(3.7107353,0,0,3.7107353,-812.43228,-1717.2216)"
+       transform="matrix(3.7297735,0,0,3.7297735,-816.81863,-1724.2079)"
        inkscape:export-filename="/home/nick/Documents/whatisnuclear/projects/reactor_icon_60.png"
        inkscape:export-xdpi="11.7982"
        inkscape:export-ydpi="11.7982">
