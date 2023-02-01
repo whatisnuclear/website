@@ -113,7 +113,7 @@ on the moon), so that&rsquo;s something to keep in mind.
         (2000).</li> <li>UNSCEAR 2000 REPORT Vol. I, SOURCES AND EFFECTS OF IONIZING
         RADIATION, &quot;Occupational radiation exposures,&quot; <a
     href="http://www.unscear.org/docs/reports/annexe.pdf">Annex E</a> (2000).</li>
-   <li>DA Schauer, <a href="http://www.ncrppublications.org/Reports/160">Ionizing
+   <li>DA Schauer, <a href="https://doi.org/10.1097/01.hp.0000356672.44380.b7">Ionizing
            Radiation Exposure of the Population of the United States (2009).</a></li>
    <li>E. Pukkala, et. al., <a
            href="http://www.bmj.com/content/325/7364/567">Incidence of cancer among

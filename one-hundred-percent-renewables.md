@@ -19,7 +19,7 @@ is nuclear energy. Behold:
 Today, the world is powered 85% by fossil fuels and we've realized this isn't great 
 for a sustainable future. So we want to switch to things that will power our lives
 without harming the environment. Lots of people have opinions about best choices, but 
-if we agree that atmospheric carbon is the problem, then this simple graph<sup><a href="https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_annex-iii.pdf">1</a></sup> shows our options:
+if we agree that atmospheric carbon is the problem, then this simple graph<sup><a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf">1</a></sup> shows our options:
 
 <figure>
 <img class="img-fluid center-block"
@@ -36,7 +36,7 @@ many of them made the switch and started supporting nuclear because it's extreme
 * James Hansen, famous climate scientist, [became strongly pro-nuclear](https://www.theguardian.com/environment/2015/dec/03/nuclear-power-paves-the-only-viable-path-forward-on-climate-change).
 * James Lovelock, who originated Gaia Theory, has become [strongly pro-nuclear](http://www.jameslovelock.org/nuclear-energy-for-the-21st-century/).
 * Patrick Moore, co-founder of Greenpeace, [has become pro-nuclear](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/14/AR2006041401209.html) (before he started denying climate change outright, but that's another story).
-* Author Gwyneth Cravens documented her switch to being pronuclear in the book [Power to Save the World](http://cravenspowertosavetheworld.com/)
+* Author Gwyneth Cravens documented her switch to being pronuclear in the book [Power to Save the World](https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World)
 * Recent movie [The New Fire](http://newfiremovie.com/) is all about millenials starting nuclear companies to combat climate change.
 
 A lot of momentum and support for nukes grew because of climate change. That's certainly how I got
