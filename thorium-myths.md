@@ -18,7 +18,7 @@ healing, and fertility.  Thorium was so named in the 1820s, well before its
 nuclear properties were discovered in 1942. Coincidence?" src="img/Thor.jpg"/>
 **Dear Internet,** we need to have a talk about Thorium. Almost all the
 borderline-miraculous things people say it does online are associated with
-advanced nuclear technology (e.g. [breeding](% link recycling.md %}) and
+advanced nuclear technology (e.g. [breeding]({% link recycling.md %}) and
 low-pressure coolant systems) and apply to both thorium and uranium fuels.
 Generally, you can swap the word "thorium" out for "advanced nuclear".
 

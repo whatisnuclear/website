@@ -13,7 +13,7 @@ be easy to just charge some batteries during the day with a solar plant and then
 the night. Critics of this idea frequently tell proponents to &quot;do the math.&quot; This page
 does the math and tries to help you understand the energy storage issue in concrete, visualizable
 numbers. We attempted this with pumped storage using <a
-href="https://www.whatisnuclear.com{% link scale.md %}">aircraft carriers before</a>, but this time
+href="{% link scale.md %}">aircraft carriers before</a>, but this time
 we're using batteries.
 
 Robert Stone, the filmmaker who brought us the documentary Pandora's Promise, suggested at a
