@@ -82,7 +82,7 @@ Many people use them interchangeably, including experts in the field. Just read 
 <li>
 <a href="https://en.wikipedia.org/wiki/Table_of_nuclides_%28complete%29">Complete Table of Nuclides [wikipedia.org]</a></li>
 <li><a href="http://www.ptable.com">High quality periodic table</a></li>
-<li><a href="http://www.nndc.bnl.gov/chart/">Table of Nuclides with very much data from the National Nuclear Data Center</a></li>
+<li><a href="https://www.nndc.bnl.gov/nudat3/">Table of Nuclides with very much data from the National Nuclear Data Center</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Isotope">Isotope [wikipedia.org]</a></li>
 </ol>
 

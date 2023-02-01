@@ -165,7 +165,7 @@ already like 4 startups working on them, and China is developing them as well).
 * <a href="https://en.wikipedia.org/wiki/Thorium_fuel_cycle">Thorium fuel cycle [wikipedia]</a>
 * <a href="http://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment">Molten Salt Reactor Experiment [wikipedia]</a>
 * <a href="http://www.amazon.com/First-Nuclear-Era-Times-Technological/dp/1563963582">The First Nuclear Era [amazon.com]</a>
-* <a href="http://www.thehindu.com/opinion/op-ed/nuclear-power-is-our-gateway-to-a-prosperous-future/article2601471.ece">Nuclear Power is our gateway to a prosperous future</a> - An Op-Ed by A.P.J. Abdul Kalam, a former president of India
+* <a href="https://www.thehindu.com/opinion/op-ed/nuclear-power-is-our-gateway-to-a-prosperous-future/article2601471.ece">Nuclear Power is our gateway to a prosperous future</a> - An Op-Ed by A.P.J. Abdul Kalam, a former president of India
 * <a href="https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor">Liquid Fluoride Thorium Reactor [wikipedia]</a>
 * <a href="https://ans.tandfonline.com/toc/unct20/194/2">Special May 2016 Edition of Nuclear Technology on Thorium</a>
 

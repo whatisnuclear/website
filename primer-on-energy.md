@@ -170,7 +170,7 @@ class="img-fluid center-block"
 src="https://partofthething.com/thoughts/wp-content/uploads/poll-support-energy-expansion.png"
 alt="graph showing people love wind and solar" width="578" height="348" /> 
 <figcaption>Data from <a
-href="http://www.pewinternet.org/2016/10/04/the-politics-of-climate/ps_2016-10-04_politics-of-climate_0-09/">Pew
+href="https://www.pewresearch.org/science/2016/10/04/the-politics-of-climate/">Pew
 Research Center</a></figcaption>
 </figure>
 
@@ -194,7 +194,7 @@ that kind of energy in batteries and pumped hydro? Read on!
 As I looked over the live data in my area from Bonneville Power Administration (BPA), this challenge
 became even more clear. This organization controls vast swaths of power plants, dams, and wind farms
 in Washington, Oregon, Idaho, and Montana (<a
-href="https://www.bpa.gov/news/pubs/maps/NW_Utility.pdf">pdf map of their control area</a>). Here's
+href="https://data-bpagis.hub.arcgis.com/apps/bpa-utility-customers/explore">map of their control area</a>). Here's
 the sources of energy used by the BPA in the first half of December, 2017.
 
 <figure>
@@ -279,7 +279,7 @@ src="https://partofthething.com/thoughts/wp-content/uploads/solar_in_july_and_ja
 map showing less sun in winter" width="651" height="835" />
 <figcaption>Shocking as it may be, solar energy
 is way less intense in the winter (Source: <a
-href="http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/">NREL</a>)</figcaption>
+href="https://www.nrel.gov/gis/solar-resource-maps.html">NREL</a>)</figcaption>
 </figure>
 
 In some areas, wind and solar seasonal variations can cancel each other out to some degree, while in
@@ -292,7 +292,7 @@ environmentally impactful for this problem on a grid scale. You have to mine and
 lithium from somewhere.
 
 Another interesting curve to watch out for is Figure 12 in <a
-href="http://maecourses.ucsd.edu/MAE119/WI_2015/PDF-PublishedDocuments/EvaluatingLimits_of_SolarPVPenetration_w_Storage_Denhom2009.pdf">this
+href="https://doi.org/10.1016/j.enpol.2006.10.014">this
 research paper</a> (Energy Policy 35 (2007) 4424–4433) out of NREL. It shows the cost of solar
 systems with different size energy storage facilities as a function of system energy percentage.
 You'll note that in these system models, the cost reaches a nearly vertical line as penetration
@@ -334,11 +334,11 @@ I'm hoping to secure a hydro tour.
 
 ### Scientific infighting in the energy source debate
 There's a raging scientific debate going on on this topic. Stanford's Mark Jacobsen <a
-href="http://www.pnas.org/content/112/49/15060">published a low-cost 100% renewables plan</a> in 
+href="https://www.pnas.org/doi/10.1073/pnas.1510028112">published a low-cost 100% renewables plan</a> in 
 May 2015. It didn't even call for batteries (he thinks they're dumb too) or biomass at all, relying
 completely on pumped hydro and hydrogen for energy storage. In June 2016, a 21-strong
 wide-ranging team of scientists led by Clack (formerly of NOAA) <a
-href="http://www.pnas.org/content/114/26/6722.full">published an analysis of the plan</a> in the
+href="https://www.pnas.org/doi/full/10.1073/pnas.1610381114">published an analysis of the plan</a> in the
 same journal, finding that Jacobsen's work "involves errors, inappropriate methods, and implausible
 assumptions." Clack states: "A policy prescription that overpromises on the benefits of relying on a
 narrower portfolio of technologies options could be counterproductive, seriously impeding the move

@@ -496,7 +496,7 @@ natural uranium instead of enriched.
 * Can theoretically be modified to produce weapons-grade plutonium slightly faster than conventional reactors could be.
 
 #### See Also
-* [CANTEACH](https://betacanteach.candu.org/Pages/Welcome.aspx) --- The most comprehensive
+* [CANTEACH](https://canteach.candu.org/Pages/Welcome.aspx) --- The most comprehensive
   public domain educational and reference library on CANDU technology.
 
 </div>

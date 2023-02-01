@@ -1102,7 +1102,7 @@ A critical assembly testing crazy nuclear superheat assemblies
 <a href="/img/domes_beach_lg.jpg"><img class="img img-fluid"
 src="/img/blank.png" data-echo="/img/domes_beach_md.jpg" alt="Modern picture of BONUS dome on beach"/></a> 
 <caption><a
-href="https://en.wikipedia.org/wiki/Boiling_Nuclear_Superheater_(BONUS)_Reactor_Facility)">BONUS</a>,
+href="https://en.wikipedia.org/wiki/Boiling_Nuclear_Superheater_(BONUS)_Reactor_Facility">BONUS</a>,
 near Rincón, Puerto Rico, may have been the most picturesque nuclear plant ever.  (Credit
 <a href="https://www.flickr.com/photos/cogdog/22279683402">Alan Levine
 CC-BY-2.0</a>)</caption> 
@@ -1847,7 +1847,7 @@ The UNT library was also really useful for this work.
 * [Hewlett and Duncan, *Nuclear Navy,
   1946-1962*](https://www.energy.gov/management/downloads/hewlett-and-duncan-nuclear-navy-1946-1962)
 * More [DOE official
-  histories](https://www.energy.gov/management/history/historical-resources/history-publications)
+  histories](https://www.energy.gov/lm/history-publications)
 * <a
   href="https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-83-5082">The
   Bradbury Years</a> — A description mostly of weapons work at LANL from 1945-1970.

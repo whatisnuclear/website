@@ -443,7 +443,7 @@ at Port-au-Prince, Haiti after a devastating earthquake.
 Many teams are talking about and actually building shipyard constructed FNPPs today. Most
 of the modern concepts do not have the massive concrete breakwater.
 In 2016, MIT published a study of a new [Offshore Floating Nuclear Plant
-Concept](https://doi.org/10.13182/NT15-49G).  in 2019, China [announced that they would
+Concept](https://dspace.mit.edu/handle/1721.1/106334).  in 2019, China [announced that they would
 start building FNPPs to power islets and offshore drilling platforms in the South China
 Sea.](https://www.asiatimes.com/2019/03/article/ocean-going-nuclear-plants-for-south-china-sea/)
 In December 2019, the Russian [Akademik

@@ -557,7 +557,7 @@ entry](https://www.worldcat.org/title/physical-theory-of-neutron-chain-reactors/
   negative. A book came out in 1988 with many of their conclusions called [Net Energy Analysis, by
   Daniel spreng](https://www.amazon.com/Net-Energy-Analysis-Requirements-Systems/dp/0275927962).
   Ethanol from corn came out worst. Nuclear was like 10x (only!?). Spreng wrote [this related
-  document](https://icus.org/wp-content/uploads/2017/04/Spreng-Daniel-Substitutional-Relationships-between-Energy-Time-and-Information.pdf)
+  document](https://doi.org/10.1016/0301-4215(93)90204-S)
   about his time at IEA, which is actually really cool. 
   <figure>
   <a href="/img/time-energy-information-triangle.png"><img src="/img/time-energy-information-triangle.png" alt="The Time-Information-Energy triangle" class="img img-fluid center-block" width="400"></a>

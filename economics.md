@@ -234,7 +234,7 @@ chose BWRs. Construction trends in these countries is described in detail in
 Lovering, 2016<sup>9</sup>. The Korean approach of choosing one design,
 optimizing the heck out of it, and building lots of them is described lucidly
 by KunMo Chung in [this enlightening Titans of Nuclear podcast
-episode](https://www.titansofnuclear.com/kunmochung).
+episode](https://www.titansofnuclear.com/experts/KunMoChung).
 
 ## Nuclear renaissance?
 Starting around 2003, phenomenal NPP operation and capacity factors combined with growing
@@ -296,7 +296,7 @@ data](https://ourworldindata.org/what-is-the-safest-form-of-energy) comparing th
 effects of fossil fuels (~6 million deaths/year) to nuclear (up to 4000 deaths ever) is
 hard to ignore. The ensuing debate here reaches well beyond science and into personal
 identity itself. Progress is being made as this identity issue is being [recognized by
-climate-inspired advocates](https://www.titansofnuclear.com/benheard) of nuclear energy.
+climate-inspired advocates](https://www.titansofnuclear.com/experts/benheard) of nuclear energy.
 
 
 ### New builds

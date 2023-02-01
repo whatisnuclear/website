@@ -57,7 +57,7 @@ from the table above. Dose equivalent is supposed to approximate the biological 
 different types of radiation so the Sv (or rem) is used as the unit to regulate 
 the amount of dose an individual receives, rather than rads.
 
-Find more details offsite at: <a href="http://www.euronuclear.org/info/encyclopedia/r/radiation-weight-factor.htm">Radiation Weight Factor [euronuclear.org]</a>
+Find more details offsite at: <a href="https://www.euronuclear.org/glossary/radiation-weighting-factors/">Radiation Weight Factor [euronuclear.org]</a>
 
 ## How much dose equivalent is safe?
 
@@ -123,7 +123,7 @@ Living near a nuclear power plant doesn't even register on the graph.
 * <a href="https://energy.gov/ehss/radiation-safety-training-materials">Radiation info from DOE [pdf]</a>
 * <a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/bio-effects-radiation.html">Biological effects of radiation (NRC)</a>
 * <a href="https://www.nrc.gov/reading-rm/doc-collections/cfr/part020/">CFR-20 regulations (NRC)</a>
-* <a href="https://www.epa.gov/rpdweb00/understand/calculate.html">Calculate your radiation dose</a>
+* <a href="https://www.epa.gov/radiation/calculate-your-radiation-dose">Calculate your radiation dose</a>
 
 </div>
 </div>
