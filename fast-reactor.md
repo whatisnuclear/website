@@ -51,8 +51,7 @@ reactor*.
 </div>
 </div>
 <div class="row">
-<div class="col-md-6" markdown="1">
-<a name="bigdeal"></a>   
+<div id="bigdeal" class="col-md-6" markdown="1">
 ## Pros
 
 * Fast reactors get more neutrons out of their primary fuel than traditional reactors,

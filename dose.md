@@ -10,9 +10,8 @@ byline: true
 
 
 <div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-md-8" markdown="1" id="dose">
 
-<a name="dose"></a>
 Radiation dose is a measurement of how much energy is deposited into a material from a source of 
 radiation (see <a href="{% link radioactivity.md %}">what is radiation</a>). It is measured in 
 units called rads. Dose gives a physical explanation of energy deposited in mass but does not 
@@ -25,8 +24,7 @@ dose in a single flight from D.C. to L.A. than you get from living next to a nuc
 for a whole year.
 </div>
 
-<a name="doseequiv"></a>
-## What is dose equivalent?
+<h2 id="doseequiv">What is dose equivalent?</h2>
 Great question. Different types of radiation have different effects on the body because 
 of the way they deposit their energy. To meaningfully interpret different doses of radiation, 
 we modify a given dose by something called a quality factor that depends on the type of radiation. 
@@ -107,8 +105,7 @@ from the stars. Naturally radioactive building materials give more dose than che
 Living near a nuclear power plant doesn't even register on the graph.
 
 
-<a name="protect"></a>
-## How do you minimize your dose around a radioactive source?
+<h2 id="protect">How do you minimize your dose around a radioactive source?</h2>
 1. **Time** – Limit the time that you are located in a radiation area.  Less time means less absorbed dose for a given source.
 2. **Distance** – The more distance that is put between you and the source decreases the intensity of the exposure from that source.
 3. **Shielding** – Shielding is quite simply putting material between you and the source to lower intensity of the radiation.

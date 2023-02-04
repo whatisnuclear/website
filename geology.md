@@ -193,8 +193,7 @@ distributions for the most part strongly suggests that this is true.
 <li><a href="https://en.wikipedia.org/wiki/Age_of_solar_system">Age of the solar system [Wikipedia]</a></li>
 </ol>
 
-<a name="references"></a>
-<h1>References</h1>
+<h1 id="references">References</h1>
 <ol>
 <li><a href="http://www.onafarawayday.com/Radiogenic/home.htm">Dickin, A.P, &quot;Radiogenic Isotope Geology.&quot; United Kingdom: University Press, Cambridge, (2005).</a> -- An excellent resource for all your geologic dating needs</li>
 <li><a href="http://onlinelibrary.wiley.com/doi/10.1029/JZ067i003p01161/abstract">Murthy, Patterson, &quot;Primary Isochron of Zero Age for Meteorites and the Earth,&quot; J. Geophysical Research, 67, 1, (1962).</a></li>

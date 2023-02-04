@@ -83,8 +83,7 @@ earth-moon gravitational system).','trail', true);">*</a>]</sup>. Water can be h
 used in showers. Heat can be reflected onto an engine that turns a turbine, generating electricity.
 Well-designed buildings can use the greenhouse effect for passive heating on colder days.  
 
-<a name="references"></a>
-# References
+<h2 id="references">References</h2>
 
 * http://www.sailgb.com/c/solar_panels/
 * http://www.nrel.gov/gis/images/us_pv_annual_may2004.jpg  

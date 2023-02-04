@@ -11,9 +11,8 @@ image: /img/traveling_wave.png
 
 <div class="col-md-8" markdown="1">
 
-<img alt="A traveling wave" title="a traveling wave" class="img-fluid w-25 float-end"  src="/img/traveling_wave.png"/>
+<img id="what" alt="A traveling wave" title="a traveling wave" class="img-fluid w-25 float-end"  src="/img/traveling_wave.png"/>
 
-<a name="what"></a>
 Traveling-wave reactors (TWRs) are advanced nuclear reactors that are capable of eventually running
 &quot;forever&quot; given only depleted uranium fuel. The concept is similar to a candle: given a
 match, a candle will burn from top to bottom. If you kept putting more wax beneath the candle, it
@@ -42,8 +41,7 @@ through it.
 </ul>
 
 
-<a name="motivation"></a>
-## What is the motivation behind TWRs?   
+<h2 id="motivation">What is the motivation behind TWRs?</h2>
 Nuclear reactors are typically fueled with uranium that has been enriched from its natural form to
 have more of the splittable isotope than usual. The process of enrichment for creating nuclear
 reactor fuel is mechanically identical to the process of creating nuclear weapon material (but
@@ -57,8 +55,7 @@ to reach highly-sustainable operation (meaning current uranium resources will la
 years instead of hundreds with current technology) with minimal enrichment and without reprocessing. 
 
 
-<a name="howwork"></a>
-## How do TWRs work?   
+<h2 id="howwork">How do TWRs work?</h2>
 As you can learn <a href="{% link recycling.md %}">elsewhere on this site</a>, the poorly splitting
 isotope of uranium (U-238) can be converted to easily splitting plutonium given the investment of a
 single neutron. When a second neutron comes around, the newly transformed plutonium will readily
@@ -74,8 +71,7 @@ sustaining a chain reaction. To prevent these from bringing the reactions to sto
 href="{% link fast-reactor.md %}">fast reactors</a>. Only they have the neutron economy to reach TWR
 operation.  
 
-<a name="whynew"></a>
-## Why haven&rsquo;t we built TWRs before?   
+<h2 id="whynew">Why haven&rsquo;t we built TWRs before?</h2>
 TWRs are are unique among reactors in that they require a minimum fuel burnup in order to work.
 It&rsquo;s a matter of conservation of neutrons -- enough of them must be absorbed in the depleted
 uranium (DU) before it becomes a useful fuel. The amount of time required for the fuel to stay in
@@ -87,8 +83,7 @@ handle. Publications from TerraPower LLC.  (see refs) suggest that near-term TWR
 burnup.
 
 
-<a name="refs"></a>
-## See Also
+<h2 id="refs">See Also</h2>
 
 <ul> 
 <li>Touran, N; Hejzlar, P; Mazurkiewicz, S; Petroski, R; Walter, J; Whitmer, C, &quot;Technical Considerations and Capabilities of a Near-Term Deployable Traveling Wave Reactor Core,&quot; Trans. Am. Nucl. Soc., 104, p. 934, (2011).</li>

@@ -90,8 +90,8 @@ LEU
 <div class="row">
 <div class="col-12">
 <p class="text-center">
-<button id="save" class="btn btn-primary" 
-role="button"><i class="fa fa-clipboard fa-lg"></i> Copy
+<button id="save" class="btn btn-primary">
+<i class="fa fa-clipboard fa-lg"></i> Copy
 current settings to clipboard</button></p>
  </div>
 </div>

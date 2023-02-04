@@ -38,9 +38,8 @@ neutronically different are those of the element Uranium, shown below in Figure 
 
 <hr/>
 
-<a name="enrichment"></a>
 
-## Enrichment 
+<h2 id="enrichment">Enrichment</h2>
 
 Now that you know what isotopes are, you can understand exactly what *enrichment* is.  
 
@@ -76,8 +75,7 @@ Many people use them interchangeably, including experts in the field. Just read 
 
 
 
-<a name="references"></a>        
-<h1>See Also</h1>
+<h1 id="references">See Also</h1>
 <ol>
 <li>
 <a href="https://en.wikipedia.org/wiki/Table_of_nuclides_%28complete%29">Complete Table of Nuclides [wikipedia.org]</a></li>

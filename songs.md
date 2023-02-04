@@ -25,14 +25,12 @@ slipped in anyway...
 </ul>
 
 {% for section in site.data.songs %}
-<a name="{{section.category|slugify}}"/> 
-<h1>{{section.category}} <a href="#{{section.category|slugify}}">&#167;</a></h1>
+<h1 id="{{section.category|slugify}}">{{section.category}} <a href="#{{section.category|slugify}}">&#167;</a></h1>
 <p>{{section.description}}</p>
 
 {% for song in section.songs %}
 
-<a name="{{song.title|slugify}}"/> 
-<h2 class="mb-0">{{song.artist }} - {{ song.title }} ({{song.date}}) <a href="#{{song.title|slugify}}">&#167;</a></h2>
+<h2 id="{{song.title|slugify}}" class="mb-0">{{song.artist }} - {{ song.title }} ({{song.date}}) <a href="#{{song.title|slugify}}">&#167;</a></h2>
 <p>{{song.description}}</p>
 
 <div class="container text-center my-0 ratio ratio-16x9">

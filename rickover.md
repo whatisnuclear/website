@@ -112,9 +112,9 @@ June 5, 1953
 <hr />
 ## Notes
 
-<a name="1"/>1 - Interestingly, in the decades after Rickover published this memo, we now
+<p id="1">1 - Interestingly, in the decades after Rickover published this memo, we now
 have reactors that get beyond 60,000 mwd/ton burnup using low-enriched uranium in high
-temperature/high pressure water.
+temperature/high pressure water.</p>
 
 
 </div>

@@ -54,8 +54,7 @@ may have heard is suspect.
 </ul>
 <hr/>
 
-<a name="myth1"></a>
-## Myth #1: Development of Thorium reactors was stopped because they couldn't make bombs!
+<h2 id="myth1">Myth #1: Development of Thorium reactors was stopped because they couldn't make bombs!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Nope. It was economics. When you add a neutron poison like thorium into your core, you
 need to add extra enriched uranium, which is extra expensive. Simple as that.
@@ -106,8 +105,7 @@ only way to go. This gave them the technical head start that has arguably led to
 However, when MSRs were finally given their chance in the 1950s and 60s, their (non-existant)
 inability to make bombs was not to blame for the cancellation. 
 
-<a name="myth2"></a>
-## Myth #2: Thorium reactors never need enrichment!
+<h2 id="myth2" Myth #2: Thorium reactors never need enrichment!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Like all reactors, Thorium reactors need some fissile material to start up. Thorium itself
 is a neutron poison and needs to be irradiated by neutrons (coming from somewhere) in
@@ -125,9 +123,8 @@ fissile material (because they make have a better breeding neutron economy), but
 amount of fissile in fast spectrum reactors is always more than in slow-neutron reactors.
 
 TL;DR: They do to start up, and U-Pu breeders like the LMFBR can do the same so it's not Thorium specific.
-<a name="myth3"></a>
 
-## Myth #3: Thorium reactors cannot make bombs!
+<h2 id="myth3">Myth #3: Thorium reactors cannot make bombs!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
 
 Nuclear reactors, by their nature, split atoms in a chain reaction to release energy
@@ -210,8 +207,7 @@ in any reactor, because they're so difficult! But since the consequences of prol
 are so dire, nuclear power plants need to have baseline proliferation safeguards in place.
 Thorium-powered reactors, whether fluid fueled or not, are no exception.
 
-<a name="myth4"></a>
-## Myth #4: There's more Thorium than Uranium, and that is really important!
+<h2 id="myth4">Myth #4: There's more Thorium than Uranium, and that is really important!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-warning">MISLEADING</button></span> 
 This one is mostly true, but also partially false. The average crustal concentration of Thorium is
 0.00060%, compared with 0.00018% for Uranium [3]. But, the oceanic abundance of Th is
@@ -235,8 +231,7 @@ Another point, if you look at the known reserves of economically extractable Tho
 economically extract Th from lots of common sands). And remember, if we close the fuel cycle
 (whether using Th-U or U-Pu), the fuel resources are a non-issue for millenia.  
 
-<a name="myth5"></a>
-## Myth #5: Thorium reactors uniquely make waste that is safe in hundreds of years!
+<h2 id="myth5">Myth #5: Thorium reactors uniquely make waste that is safe in hundreds of years!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
 Undenatured Thorium cycles certainly produce fewer transuranic elements (Np, Pu, Am, Cm,+), which
 are the major dangerous nuclides in <a href="{% link waste.md %}">nuclear waste</a> in the 10,000+
@@ -247,8 +242,7 @@ reprocessing. So, if someone says that MSR/LFTR waste is better than traditional
 correct. If they say Thorium is the only game in town that can reduce waste like this, then they are
 not correct.
 
-<a name="myth6"></a>
-## Myth #6: Thorium reactors and Molten Salt Reactors are the same thing!
+<h2 id="myth6">Myth #6: Thorium reactors and Molten Salt Reactors are the same thing!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">NOT ALWAYS</button></span> 
 On one hand you can choose between a Th-U fuel cycle and a U-Pu fuel cycle. On the other hand, you
 can choose between a fluid fueled reactor (like a [MSR]({% link msr.md %})) or a solid fueled reactor (like a LWR or a
@@ -282,8 +276,7 @@ as nuclear fuel</a>, as well as a big <a href="{% link msr.md %}">page about the
 fueled molten salt reactors (MSRs)</a> that are good at using it.
 </div>
 
-<a name="wall"></a>
-# The Wall of Shame
+<h1 id="wall">The Wall of Shame</h1>
 
 This section shows a few examples of articles that propagate the misinformation
 represented by the myths. Oftentimes, people ask us how on Earth they were able to read
@@ -369,8 +362,7 @@ intentionally tries to say that thorium is the exclusive fuel for breeding.
 
 
 
-<a name="refs"></a>
-## References
+<h2 id="refs">References</h2>
 
 <ol > 
 <li>&quot;An Evaluation of the Molten Salt Breeder Reactor,&quot; U.S. Atomic Energy Commission, WASH-1222, (1972). <a href="http://www.energyfromthorium.com/pdf/WASH-1222.pdf">[pdf]</a></li>

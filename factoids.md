@@ -70,8 +70,7 @@ let them fall on a pulley, spinning generators.
 # Discussions
 
 
-<a name="disfueldensity"></a>
-## Factoid 1: Energy Density
+<h2 id="disfueldensity">Factoid 1: Energy Density</h2>
 There are a couple issues with this statement. Firstly, it is a factoid of
 scale. You probably can&rsquo;t actually generate 100W of electricity with a
 kilogram of wood nor with a kilogram of uranium. You need a big power plant to
@@ -86,8 +85,7 @@ may be able to get up to 50%. So we left out the conversions to give you a
 better feel of how much energy is inherently stored in materials. 
 <a href="{% link isotopes.md %}#enrichment">More on enrichment</a>
 
-<a name="disrecycle"></a>
-## Factoid 2: Recycling Waste
+<h2 id="disrecycle">Factoid 2: Recycling Waste</h2>
 While technically realistic, this factoid would require much to be done in
 order to actually happen. Enough nuclear power plants to power the entire USA
 would need to be built. Only nuclear reactors can run on nuclear waste, not
@@ -106,8 +104,7 @@ WAY more carbon/pollutants, and would decay to stability much faster than the
 original waste. 
 <a href="{% link recycling.md %}">More on recycling nuclear waste</a>
 
-<a name="diswasteperperson"></a>
-## Factoid 3: Waste per Person
+<h2 id="diswasteperperson">Factoid 3: Waste per Person</h2>
 Of course, the 40 grams of stuff are highly toxic. But the beauty is the toxic
 stuff never spewed into the atmosphere like in fossil plants. We can contain
 this stuff. This assumes no recycling or anything, just business as usual with
@@ -115,8 +112,7 @@ all nukes. Again, it would take a lot to replace all the coal plants with
 nukes. Wind and solar and hydro can help out here! Let&rsquo;s do it! 
 <a href="{% link waste.md %}">More on nuclear waste</a>
 
-<a name="disamountofu"></a>
-## Factoid 4: Amount of Uranium
+<h2 id="disamountofu">Factoid 4: Amount of Uranium</h2>
 
 **UPDATE:** See our [Nuclear Sustainability post]({% link nuclear-sustainability.md %})
 
@@ -132,15 +128,13 @@ element Thorium instead of Uranium, which gives us even more time. So, this is
 certainly something to worry about if we decide to build a lot of nuclear
 plants soon, but it just means we have to do things correctly. 
 
-<a name="dislanduse"></a>
-## Factoid 5: Land Use
+<h2 id="dislanduse">Factoid 5: Land Use</h2>
 Keep in mind 33% efficient solar cells are not commonplace yet. If you used
 solar-thermal, you might be able to get 33% efficiency cheaply. The solar plant
 would still require some kind of storage to provide power through the night.  
 <a href="{% link solar-power.md %}">More on solar power</a>
 
-<a name="disscale"></a>
-## Factoid 6: Scale of energy usage
+<h2 id="disscale">Factoid 6: Scale of energy usage</h2>
 The point here is that we use unfathomable amounts of energy, and when we talk
 about storing energy from solar and wind, we need to keep this in mind if we
 want to be realistic.   

@@ -29,7 +29,7 @@ indicated with <span class="badge bg-success">Free!</span>
 
 {% for category in site.data.reading %}
 
-## <a name="{{category.category|slugify}}"/>{{ category.category }} <a href="#{{category.category|slugify}}">&#167;</a>
+<h2 id="{{category.category|slugify}}">{{ category.category }} <a href="#{{category.category|slugify}}">&#167;</a> </h2>
 
 {{ category.description }}
 
