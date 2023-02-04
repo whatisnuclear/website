@@ -81,8 +81,8 @@ Given the pricing, we're gonna have to crowd-fund the rest of them I guess :) In
 my opinion the most interesting and valuable next ones to get (in order) would
 be the ones about:
 
-* The Hallam sodium-graphite reactor [(NAID 88153)](https://catalog.archives.gov/id/88153)
-  * Also **Operating Experience, Hallam** [(NAID 88207)](https://catalog.archives.gov/id/88207)
+* The Hallam sodium-graphite reactor [(NAID 88153)](https://catalog.archives.gov/id/88153) <span class="badge bg-danger">In progress!</span>
+  * Also **Operating Experience, Hallam** [(NAID 88207)](https://catalog.archives.gov/id/88207) <span class="badge bg-danger">In progress!</span>
   * Unclear where to find:  **Retirement of the Hallam Nuclear Power Facility
     (1970)**, referred to as [AVN 0511 in here](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
 * Sodium Reactor Experiment [(NAID 88259)](https://catalog.archives.gov/id/88259) 19 mins
@@ -92,9 +92,12 @@ be the ones about:
 * Organic Moderated Reactor Experiment (OMRE) ([NAID 88405](https://catalog.archives.gov/id/88405))
 
 Some of them already have scans, like the others listed at the top, and:
-
-*  the ML-1 mobile reactor one [(NAID 88191)](https://catalog.archives.gov/id/88191) ([HD scan](https://www.youtube.com/watch?v=PPPp5rtu04A))
-* The Piqua organic-cooled reactor [(NAID 88218)](https://catalog.archives.gov/id/88218) (Note that [a 480p scan exists](https://www.youtube.com/watch?v=cH06vZZZSZw))
+* The ML-1 mobile reactor one [(NAID
+  88191)](https://catalog.archives.gov/id/88191) ([HD
+  scan](https://www.youtube.com/watch?v=PPPp5rtu04A))
+* The Piqua organic-cooled reactor [(NAID
+  88218)](https://catalog.archives.gov/id/88218) (Note that [a 480p scan
+  exists](https://www.youtube.com/watch?v=cH06vZZZSZw))
 
 There appears to be an archive with 26 episodes of 
 **The Magic of the Atom** at the [American Archive of Public Broadcasting](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=all&f%5Bseries_titles%5D%5B%5D=The+Magic+of+the+Atom&per_page=50&sort=episode_number_sort+asc), none of which appears digitized yet. So it would be fun to check in with them about how to get things scanned as well.

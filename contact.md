@@ -11,18 +11,19 @@ We welcome messages from our readers and will try to respond to any questions
 for feedback you have. Your personal information will not be used for anything
 except replying to you. 
 
-<div class="alert alert-success" role="alert"><strong>
-<span class="badge bg-danger ">GMail alert</span>
-</strong>Gmail tends to classify our replies as spam despite our many efforts to
+<div class="alert alert-success" role="alert">
+<strong><span class="badge bg-danger ">GMail alert</span></strong>
+Gmail tends to classify our replies as spam despite our many efforts to
 legitimize our email server. Check your spam folder if you don&rsquo;t hear back
-from us. Or add <span class="font-monospace">whatisnuclear.com</span> to your approved domains in advance.
+from us. Or add <span class="font-monospace">whatisnuclear.com</span> to your
+approved domains in advance.
 </div>
 </div>
 </div>
 <div class="row">
 
 <div class="col-md-6">    
-<form class="form-horizontal" role="form" method="post" action="/cgi-bin/mail.py">
+<form class="form-horizontal" method="post" action="/cgi-bin/mail.py">
 <div class="form-group">
 <label for="contact_name">Name</label>
 <input type="text" class="form-control" name="contact_name" id="contact_name" placeholder="Enter name">
