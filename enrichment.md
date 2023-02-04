@@ -21,21 +21,21 @@ a given amount of enriched uranium at a certain enrichment, and so on. Learn mor
 Tails assay (wt %)
 </div>
 <div class="col-md-1 text-nowrap" markdown="1">
-<input type="input" value="0.25" placeholder="Tails" class="form-control" id="tails-assay">
+<input type="text" value="0.25" placeholder="Tails" class="form-control" id="tails-assay">
 </div>
 <div class="col-md-2">Feed assay (wt %)</div>
 <div class="col-md-1"> 
-<input type="input" value="0.711" placeholder="Feed assay" class="form-control" id="feed-assay">
+<input type="text" value="0.711" placeholder="Feed assay" class="form-control" id="feed-assay">
 </div>
 </div>
 
 <div class="row">
-<label for="enrichment" class="form-label">Product Enrichment (wt %)</label>
+<label for="enrich" class="form-label">Product Enrichment (wt %)</label>
 <div class="col-md-4" markdown="1">
 <input type="range" value="4.0" step="0.1" class="form-range" id="enrich">
 </div>
 <div class="col-md-2" markdown="1">
-<input type="input" value="4.0" class="form-control" id="enrich-text">
+<input type="text" value="4.0" class="form-control" id="enrich-text">
 </div>
 <div class="col-md-4" markdown="1">
 <select class="form-select" aria-label="Presets" id="enrich-select">
@@ -67,19 +67,19 @@ LEU
 <div class="row">
 <div class="col-md-3">
 <label for="feed-mass" class="form-label">Feed mass (kg or tonne)</label>
-<input type="input" value="" placeholder="Feed mass" class="form-control" id="feed-mass">
+<input type="text" value="" placeholder="Feed mass" class="form-control" id="feed-mass">
 </div>
 <div class="col-md-3">
 <label for="product-mass" class="form-label">Product mass (kg or tonne)</label>
-<input type="input" value="1" placeholder="Product mass" class="form-control" id="product-mass">
+<input type="text" value="1" placeholder="Product mass" class="form-control" id="product-mass">
 </div>
 <div class="col-md-3">
 <label for="tails-mass" class="form-label">Tails mass (kg or tonne)</label>
-<input type="input" value="" placeholder="Tails mass" class="form-control" id="tails-mass" readonly>
+<input type="text" value="" placeholder="Tails mass" class="form-control" id="tails-mass" readonly>
 </div>
 <div class="col-md-3">
 <label for="swu-mass" class="form-label">SWU (kg-SWU or tonne-SWU)</label>
-<input type="input" value="" placeholder="SWUs" class="form-control" id="swu-mass" readonly>
+<input type="text" value="" placeholder="SWUs" class="form-control" id="swu-mass" readonly>
 </div>
 </div>
 

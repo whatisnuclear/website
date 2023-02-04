@@ -17,7 +17,7 @@ by the GM meter. We detect radiation from A Cobalt-60 check source, salt
 substitute, a Thorium lantern mantle, Uranium mineral, a smoke detector, and an
 old fiesta-ware plate.   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bOdYpDaFGQc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bOdYpDaFGQc"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *Special thanks to [Chris Rycroft](https://people.math.wisc.edu/~chr/) for narrating this for us.*
 

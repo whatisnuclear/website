@@ -39,4 +39,4 @@ of a Los Alamos National Lab effort to commercialize space-based nuclear reactor
 Here's an excellent summary of nuclear technology in space from an
 astronuclear engineer named Chris Morrison:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/39LGrJkDmho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/39LGrJkDmho"  allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -212,8 +212,8 @@ NPP capacity factors would never exceed 60%–65%<sup>1,2</sup>. However, betwee
 
 <figure> <a href="/img/nuclear-capacity-factors-2019.png"><img
 src="/img/nuclear-capacity-factors-2019.png" alt="US nuclear capacity factors through 2019"
-class="img img-fluid center-block" ></a> <caption>The capacity factors of the US
-nuclear fleet has risen amazingly since the 1970s</caption> </figure>
+class="img img-fluid center-block" ></a> <figcaption>The capacity factors of the US
+nuclear fleet has risen amazingly since the 1970s</figcaption> </figure>
 
 With the plants producing power more of the time, electricity sales revenue went up
 proportionally, and the economic challenges of the 1970s were effectively licked, even
@@ -223,10 +223,10 @@ flattened out the nuclear growth curve.
 
 <figure> <a href="/img/pris-rx-vs-time.png"><img
 src="/img/pris-rx-vs-time.png" alt="Nuclear capacity vs. time from IAEA"
-class="img img-fluid center-block" ></a> <caption>Total capacity of nuclear power
+class="img img-fluid center-block" ></a> <figcaption>Total capacity of nuclear power
 in different world regions. Between 1975 and 1988 the world added 250 GW of 
 carbon-free nuclear capacity. That's 20 GW/year! (from <a
-href="https://www.iaea.org/resources/databases/power-reactor-information-system-pris">IAEA PRIS</a>)</caption> </figure>
+href="https://www.iaea.org/resources/databases/power-reactor-information-system-pris">IAEA PRIS</a>)</figcaption> </figure>
 
 Outside the US, many countries took a focused single-design focused approach. France
 chose the PWR and produced them in serial. South Korea did similar. Japan largely
@@ -274,7 +274,7 @@ American fracked gas is now influencing the world energy markets.
 
 <figure> <a href="/img/us_primary_energy.png"><img
 src="/img/us_primary_energy.png" alt="US primary energy vs. time graph from EIA"
-class="img img-fluid center-block" ></a> <caption>Coal is reducing and largely being replaced by fracked natural gas (Source: <a href="https://www.eia.gov/energyexplained/us-energy-facts/">US EIA</a>)</caption> </figure>
+class="img img-fluid center-block" ></a> <figcaption>Coal is reducing and largely being replaced by fracked natural gas (Source: <a href="https://www.eia.gov/energyexplained/us-energy-facts/">US EIA</a>)</figcaption> </figure>
 
 Nuclear plants do not benefit from the new access to cheap fracked fuel and experience
 this as a reduction in electricity sales revenue. Thus, the nuclear industry must reduce
@@ -332,9 +332,9 @@ different reactor models.
 
   <figure> <a href="/img/PWR_construction_kudankulm_lg.jpg"><img
 src="/img/PWR_construction_kudankulm_lg.jpg" alt="Nuclear plant under construction"
-class="img img-fluid center-block" ></a> <caption>PWR Under construction in India
+class="img img-fluid center-block" ></a> <figcaption>PWR Under construction in India
 (Credit <a href="https://www.flickr.com/photos/iaea_imagebank/3441138290">IAEA CC
-BY-SA-2.0</a>)</caption> </figure>
+BY-SA-2.0</a>)</figcaption> </figure>
 
 ## Improving modern nuclear power economics
 
@@ -500,14 +500,14 @@ documents.
 <a href="/img/OPS_SER_1981.jpg"><img class="img-fluid"
 src="/img/OPS_SER_1981.jpg"  alt="Safety Evaluation Report for Offshore Power Systems
 floating nuclear power plants"/></a> 
-<caption><p>A SER from OPS's first 8 plants</p></caption>
+<figcaption><p>A SER from OPS's first 8 plants</p></figcaption>
 </figure>
 </div>
 <div class="col-md-6">
 <figure>
 <a href="/img/ops-shielding.jpg"><img class="img-fluid"
 src="/img/ops-shielding.jpg"  alt="OPS Shielding graphic "/></a> 
-<caption><p>A graphic showing one of the assembly line steps of a gigantic PWR</p></caption>
+<figcaption><p>A graphic showing one of the assembly line steps of a gigantic PWR</p></figcaption>
 </figure>
 </div>
 </div>

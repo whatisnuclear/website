@@ -14,7 +14,7 @@ byline: true
 
 This is the story about how this 1970 film about ZPPR ended up on YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jmvbbRRYb6k" frameborder="0"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmvbbRRYb6k" 
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 On October 22, 2022, I was reading an old Atomic Energy Commission booklet

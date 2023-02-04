@@ -60,7 +60,7 @@ deadly. The ranges are summarized by the following DOE figure:
 <figure>
 <a href="img/dose.jpg"><img class="img-fluid" 
 src="/img/dose_low.jpg" alt="Dose range chart from DOE"/></a>
-<caption>A graph from DOE of many orders of magnitude of radiation.</caption>
+<figcaption>A graph from DOE of many orders of magnitude of radiation.</figcaption>
 </figure>
 
 [This

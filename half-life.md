@@ -34,7 +34,7 @@ Half-life (years)
 </div>
 <div class="col-2" markdown="1">
 <label for="value">Half-life</label>
-<input type="input" value="5.0" class="form-control" id="value">
+<input type="text" value="5.0" class="form-control" id="value">
 </div>
 <div class="col-1 px-0 mx-0">
 <label for="hl-range-select">Half-life Range</label>
@@ -59,7 +59,7 @@ Half-life (years)
 </div>
 <div class="col-2">
 <label for="maxtime-val">Max time</label>
-<input type="input" value="50.0" class="form-control" id="maxtime-val">
+<input type="text" value="50.0" class="form-control" id="maxtime-val">
 </div>
 <div class="col-1 px-0 mx-0">
 <label for="time-range-select">Time Range</label>
@@ -81,7 +81,7 @@ Half-life (years)
 </div>
 <div class="col-2" markdown="1">
 <label for="numbars-val" class="form-label">Number of bars</label>
-<input type="input" value="15" class="form-control" id="numbars-val">
+<input type="text" value="15" class="form-control" id="numbars-val">
 </div>
 <div class="col-2" markdown="1">
 <!-- disable logx for now b/c bars get misleadingly wide -->

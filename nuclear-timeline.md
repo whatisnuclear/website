@@ -12,7 +12,7 @@ See our <a href="{% link history.md %}">history page</a> for further discussion 
 This timeline is also <a href="/assets/nuclear_timeline.pdf">available as a PDF [5 MB]</a>.
 
 <div class="thumbnail">  
-<img src="/img/nuclear_timeline.png"/>
+<img src="/img/nuclear_timeline.png" alt="a large timeline of nuclear history"/>
 </div>
 
 Visit <a href="/">our main page</a> to learn more about nuclear energy.

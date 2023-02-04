@@ -61,7 +61,7 @@ solar-thermal facilities where energy can be stored for several hours as heat.
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gGx_ur3FDvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGx_ur3FDvo" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To make it even more confusing, some reactors use both sodium metal and molten salt. For
 example, the [Aircraft Reactor Experiment

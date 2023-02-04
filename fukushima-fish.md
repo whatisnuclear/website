@@ -63,10 +63,10 @@ not likely how it works.</p>
 
 
 </blockquote>
-<figcaption class="blockquote-footer">
+<div class="blockquote-footer">
 Delvan Neville <cite title="Oregon State University">Oregon
 State University</cite>
-</figcaption>
+</div>
 
 <div class="alert alert-info" role="alert">Note: The dose conversion
 factors used above are for a healthy adult (based on the NRC 10 CFR20

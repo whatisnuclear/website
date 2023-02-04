@@ -88,17 +88,17 @@ get. We provide the following data.
 
 <figure>
 <img src="/img/rad_effects.png" alt="Radiation doses and expected life impacts of various activities."/>
-<caption>
+<figcaption>
 <p><strong>Figure 1.</strong>  Dose equivalences from several activities and health risks of other activities.</p>
-</caption>
+</figcaption>
 </figure>
 
 <figure>
 <img src="/img/doses-in-perspective.jpg" alt="Radiation doses in perspective
 (from the NRC)." title="Radiation doses in perspective (from the NRC)."/>
-<caption>
+<figcaption>
 <p><strong>Figure 2.</strong>  A logarithmic plot of doses you get from various sources.</p>
-</caption>
+</figcaption>
 </figure>
 
 As you can see, you get radiation from many things you may not expect. Flying brings you 

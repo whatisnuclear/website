@@ -37,7 +37,7 @@ slipped in anyway...
 
 <div class="container text-center my-0 ratio ratio-16x9">
 <iframe src="{{song.url}}"
-title="{{song.title}}" frameborder="0" allow="accelerometer; autoplay;
+title="{{song.title}}"  allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>

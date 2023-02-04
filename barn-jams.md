@@ -167,14 +167,14 @@ Thus, nuclear data is the connection between fundamental nuclear physics and
 the applications of nuclear engineering.  
 <figure>
 <img class="img img-fluid" src="/barn-jams/u235_w_experiments.png" alt="U235 n,fis w/data">
-<caption>
+<figcaption>
 <h4>Cross sections for U-235 fission</h4>
 This plot shows the fission cross section of U-235 for neutrons with energies
 between 100 and 120 electron-Volts (eV). Shown are measured data points from
 Weston, 1992, as well as the smooth line from the ENDF/B-VII.1 evaluation
 (which uses nuclear models to fill in experimental gaps). You can browse the
 latest US data evaluation over at the National Nuclear Data Center [3]. 
-</caption>
+</figcaption>
 </figure>
 
 

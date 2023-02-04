@@ -262,7 +262,7 @@ periods. An even bigger challenge is <em>seasonal</em> intermittency. There is ~
 areas in the winter than there is in the summer. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Sq9Uq1DqhU8"
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From the previous discussion, it should be clear

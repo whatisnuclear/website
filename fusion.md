@@ -59,7 +59,7 @@ In 2017, international nuclear engineering superstar, Professor Rachel Slaybaugh
 featuring several people involved in fusion development at Stanford. The full talk is very
 interesting and can be seen here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HwUVcPlkQsI" frameborder="0"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HwUVcPlkQsI" 
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Fusion fuels

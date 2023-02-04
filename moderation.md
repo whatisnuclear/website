@@ -37,9 +37,9 @@ neutron whizzing by if it's going slow (see Figure 1).
 <div>
 <img src="/img/u_235f.png" alt="U-235 fission cross-section" class="img-fluid rounded" title="U-235 fission cross-section" />
 </div>
-<caption><strong>Figure 1</strong> The probability splitting a
+<figcaption><strong>Figure 1</strong> The probability splitting a
 U<sub>235</sub> nucleus vs. the energy of the incoming neutron. Notice how much more
-probable fission is for slower neutrons. Also note logarithmic scale.</caption>
+probable fission is for slower neutrons. Also note logarithmic scale.</figcaption>
 </figure>
 
 When neutrons collide with atoms, they slow down. Due to conservation of
@@ -87,7 +87,7 @@ moderators below:
 materials in a nuclear reactor" class="img-fluid rounded" title="Moderating
 parameters" />
 </div>
-<caption><strong>Figure 2</strong> Slowing-down parameters (from Duderstadt & Hamilton, pg 324) </caption>
+<figcaption><strong>Figure 2</strong> Slowing-down parameters (from Duderstadt & Hamilton, pg 324) </figcaption>
 </figure>
 
 As you can see in the last column, deuterium (heavy hydrogen) is by far the best

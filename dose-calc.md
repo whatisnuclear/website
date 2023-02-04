@@ -15,7 +15,7 @@ image: /img/beirvii.png
 <div class="row">
 <div class="col-lg-2 col-md-3 col-sm-4 col-6">
 <label for="rate">Dose Rate</label>
-<input type="input" value="0.7" class="form-control" id="rate">
+<input type="text" value="0.7" class="form-control" id="rate">
 </div>
 <div class="col-lg-2 col-md-3 col-sm-4 col-6">
 <label for="rate-units">Units</label>

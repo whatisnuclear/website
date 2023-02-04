@@ -99,7 +99,7 @@ could produce plutonium for the bomb.
   reaction](https://en.wikipedia.org/wiki/Chicago_Pile-1). Younger people should be allowed at such
   events so that history may live on longer. Sidenote, check out this 1967 [film produced by Argonne
 about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4).
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w_6K6arW3h4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w_6K6arW3h4"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * 22 - For high powered Pu-producing reactors, Helium seemed like the natural coolant because it was
   neutron-transparent. Wigner worried: high
   temperature helium-cooling was an engineering nightmare: how to contain high-temperature fission
@@ -159,7 +159,7 @@ about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4)
   These are the first documented reactor brainstorming sessions. 
   <figure>
   <a href="/img/new-piles-committee-reactors.png"><img src="/img/new-piles-committee-reactors.png" alt="Some early reactor ideas from a New Piles Committee meeting" class="img img-fluid center-block" width="400"></a>
-   <caption>Some early reactor ideas from MUC-LAO-42</caption>
+   <figcaption>Some early reactor ideas from MUC-LAO-42</figcaption>
   </figure>
 * 40 - Only a few thousand tons of uranium known. This (incorrect) assumption led to the push for
   breeder reactors early on, since it was thought that was the only way to make significant
@@ -232,7 +232,7 @@ about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4)
   cover.](https://www.scientificamerican.com/magazine/sa/1951/10-01/)
   <figure>
   <a href="/img/litr-sa-cover.jpg"><img src="/img/litr-sa-cover.jpg" alt="The Scientific American cover showing LITR Cerenkov radiation" class="img img-fluid center-block" width="200"></a>
-   <caption>The Scientific American cover showing LITR Cerenkov radiation</caption>
+   <figcaption>The Scientific American cover showing LITR Cerenkov radiation</figcaption>
   </figure>
 * 86 - Bulk Shielding Reactor (BSR) was MTR in a swimming pool for shield design of Nautilus and nuclear aircraft.
   It was done cheaply and was copied into hundreds of universities. The basis of the [Swimming Pool
@@ -245,7 +245,7 @@ about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4)
   it](https://www.ornl.gov/blog/ornl-reporter/lofty-ambitions) at least.
   <figure>
   <a href="/img/tsf.jpg"><img src="/img/tsf.jpg" alt="The Tower Shielding Facility" class="img img-fluid center-block" width="300"></a>
-   <caption>The Tower Shielding Facility at ORNL, where nuclear reactors were operated in the air (from link above)</caption>
+   <figcaption>The Tower Shielding Facility at ORNL, where nuclear reactors were operated in the air (from link above)</figcaption>
   </figure>
 * 87 - a copy of the Bulk Shielding Facility (BSF) was built in 5 months in Geneva for 1955 UN conference on Peaceful uses of
   Atomic energy. It was later sold to Switzerland for $250k and operated at 10 MW for many years. People lined up for hours to see
@@ -255,13 +255,13 @@ about CP-1: The Day Tomorrow Began](https://www.youtube.com/watch?v=w_6K6arW3h4)
   proceedings from the conference are available](https://catalog.hathitrust.org/Record/002241506). 
   <figure>
   <a href="/img/geneva-reactor-people.jpg"><img src="/img/geneva-reactor-people.jpg" alt="People in Geneva looking down into a reactor" class="img img-fluid center-block" width="300"></a>
-   <caption markdown="1">People viewing the reactor at the UN conference on Atoms for Peace (from [delegation
-report](https://catalog.hathitrust.org/Record/102363648))</caption>
+   <figcaption markdown="1">People viewing the reactor at the UN conference on Atoms for Peace (from [delegation
+report](https://catalog.hathitrust.org/Record/102363648))</figcaption>
   </figure>
   <figure>
   <a href="/img/geneva-reactor.jpg"><img src="/img/geneva-reactor.jpg" alt="Schematic of the reactor" class="img img-fluid center-block" width="300"></a>
-   <caption markdown="1">Schematic view of the Geneva reactor (from [delegation
-report](https://catalog.hathitrust.org/Record/102363648))</caption>
+   <figcaption markdown="1">Schematic view of the Geneva reactor (from [delegation
+report](https://catalog.hathitrust.org/Record/102363648))</figcaption>
   </figure>
 * 88 - ORR had confinement at negative pressure, not containment. Early use of term?
 * 89 - Tom Cole did a maximum consequence report that was horrendous. W refused to release it
@@ -561,8 +561,8 @@ entry](https://www.worldcat.org/title/physical-theory-of-neutron-chain-reactors/
   about his time at IEA, which is actually really cool. 
   <figure>
   <a href="/img/time-energy-information-triangle.png"><img src="/img/time-energy-information-triangle.png" alt="The Time-Information-Energy triangle" class="img img-fluid center-block" width="400"></a>
-   <caption>Time-Energy-Information Triangle that suggests energy lets you do
-things faster, and information may help you be more efficient.</caption>
+   <figcaption>Time-Energy-Information Triangle that suggests energy lets you do
+things faster, and information may help you be more efficient.</figcaption>
   </figure>
 * 223 - In 1973 nuclear was faltering and people wanted the government to come in and save it.  Carbon dioxide was just becoming a thing. Interestingly, this sounds a lot like [what's happening today](https://www.forbes.com/sites/jamesconca/2019/07/26/oilgas-industry-not-happy-with-ohio-legislation-that-preserves-nuclear/#135985e21ec9). What's old is new again!
 * 224 - IEA study still said nuclear moratorium wouldn't cause the us to freeze in the dark. Unpopular in the nuclear community, and W was disappointed  too. 

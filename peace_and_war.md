@@ -500,7 +500,7 @@ favoring big private utilities.
 
   <figure>
   <img src="/img/hallam.jpg" alt="Hallam Reactor" class="img img-fluid center-block" >
-<caption>The Hallam sodium-graphite reactor only operated for like a year</caption>
+<figcaption>The Hallam sodium-graphite reactor only operated for like a year</figcaption>
   </figure>
 
 
@@ -724,9 +724,9 @@ ended up in front of the White House.
 
 
   <figure>
-  <img src="/img/Nuclear War Survival Skills.jpg" alt="Nuclear War Survival Skills" class="img img-fluid center-block" width="360">
-<caption>Free book I discovered while reading about On the Beach. Get yours <a href="http://www.oism.org/nwss/">here</a>, but
-you might want to print it out.</caption>
+  <img src="/img/Nuclear%20War%20Survival%20Skills.jpg" alt="Nuclear War Survival Skills" class="img img-fluid center-block" width="360">
+<figcaption>Free book I discovered while reading about On the Beach. Get yours <a href="http://www.oism.org/nwss/">here</a>, but
+you might want to print it out.</figcaption>
   </figure>
 
 
@@ -768,7 +768,7 @@ Rickover listed the ways it was different from a Naval system but didn't find an
 major design flaws.
   <figure>
   <img src="/img/NSsavannah-1962.jpg" alt="The NS Savannah passing under the Golden Gate bridge" class="img img-fluid center-block " >
-<caption>The NS Savannah sails under the Golden Gate bridge</caption>
+<figcaption>The NS Savannah sails under the Golden Gate bridge</figcaption>
   </figure>
 
 508 More talk and references about evaluating the promise and future of nuclear
@@ -786,7 +786,7 @@ high priority.
 
   <figure>
   <img src="/img/aec-plan-2.png" alt="Planned reactors 2" class="img img-fluid center-block " >
-  <caption>The AEC reactor plan as of 1960. The focus was on economics.</caption>
+  <figcaption>The AEC reactor plan as of 1960. The focus was on economics.</figcaption>
   </figure>
 
 
@@ -820,7 +820,7 @@ ML-1 barely mentioned, Plus a small BWR? What's that?
 
   <figure>
   <img src="/img/ml1.jpg" alt="A mockup of the ML-1 reactor" class="img img-fluid center-block" >
-<caption>A mock-up of the ML-1 microreactor for military purposes</caption>
+<figcaption>A mock-up of the ML-1 microreactor for military purposes</figcaption>
   </figure>
 
 521 Nuclear navy went on crazy adventures to the north pole and whatnot, like Jules
@@ -835,8 +835,8 @@ and peaceful nuclear explosions
 
   <figure>
   <img src="/img/plowshare.jpg" alt="From TID-3522. Project Rulison" class="img img-fluid center-block " >
-<caption>Some fracking for gas with nuclear explosives. From TID-3522. Project
-Rulison</caption>
+<figcaption>Some fracking for gas with nuclear explosives. From TID-3522. Project
+Rulison</figcaption>
   </figure>
 
 

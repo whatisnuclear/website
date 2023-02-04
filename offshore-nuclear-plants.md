@@ -363,7 +363,7 @@ severe accidents. Specifically, the NRC required a minimum delay time of 2 days.
 <figure>
 <a href="/img/OPS_SER_1981.jpg"><img class="img-fluid"
 src="/img/OPS_SER_1981.jpg" alt="The Safety Evaluation report for OPS"/></a>
-<caption>The OPS Safety Evaluation Report<sup>8</sup></caption>
+<figcaption>The OPS Safety Evaluation Report<sup>8</sup></figcaption>
 </figure>
 
 By 1981, OPS had invested $125 million into its manufacturing facility on Blount
@@ -383,7 +383,7 @@ the first 8 3411 MWt reactors [was issued on December 17.
 <a href="/img/ops-manufacturing-license.jpg"><img class="img-fluid"
 src="/img/ops-manufacturing-license.jpg" alt="The manufacturing license for the first 8
 offshore reactors"/></a>
-<caption>A note discussing the  manufacturing license issued by the NRC to construct 8 floating reactors</caption>
+<figcaption>A note discussing the  manufacturing license issued by the NRC to construct 8 floating reactors</figcaption>
 </figure>
 
 ## So what happened?

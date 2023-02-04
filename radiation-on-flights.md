@@ -92,7 +92,7 @@ Outside of the atmosphere, cosmic radiation poses a major
 problem for interplanetary travel (like for manned missions to Mars or a colony
 on the moon), so that&rsquo;s something to keep in mind. 
 
-<h1 id="references">See Also</h1>
+<h1 id="seealso">See Also</h1>
 
 * [Basics of radioactivity]({% link radioactivity.md %}) &mdash; review of what radiation is
 * [Radioactive dose]({% link dose.md %}) &mdash; more info about the units of radioactive dose

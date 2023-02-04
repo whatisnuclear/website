@@ -263,8 +263,7 @@ h5eXFwBg165dGDdunN7jPf/889i1axdefvlleHp6ws/PD/7+/rVGvXTt2hVRUVEYNGgQBg8ejMcf
 f7xV9bUaO/Z33nlHr29ekiT07t0bO3bswIQJE3D16lW8/fbbCA4OxuDBg/VGOD3cX21IzXWWLVuG
 8vJy+Pn5wdfXFytWrDDzUbYMNc/J4sWLcfv2bb1lD7f4garrWN27d69zX4a2b+sezoPqC+ambh8z
 btw4+Pn5oX///hg+fDjWrl2LLl26GDx/Le18SqI1vD0REZHZKLLFT0SkZAx+IiKFYfATESkMg5+I
-SGEY/ERECsPgJyJSmP8DHJjnxBBU87QAAAAASUVORK5CYII=
-">
+SGEY/ERECsPgJyJSmP8DHJjnxBBU87QAAAAASUVORK5CYII=">
 
 That seems like a lot, but is hard to visualize. Let's look at the plot in terms of volume. It will
 still be huge numbers, but we can visualize it better by stacking the batteries up on a full
@@ -479,8 +478,7 @@ gwbpnO+vf/0rNm7ciFdeeQXu7u7w9fWFn59fqdEqLVu2RFRUFIKDgxEaGopOnTrVqtqpvmufP3++
 Tq1dkiS0b98e69evx9ChQ3H9+nW8//77CAoKQmhoqM7IpCfrz2Upuc2sWbOQn58PX19feHt7Y/bs
 2QpfZc1Qsk2mT5+Ou3fv6qx7smcPFH0u1aZNm3KPVdb+dd2T+aD4Q299bVC8fNCgQfD19UXnzp3R
 s2dPLFq0CC1atCiz/Wpie0qitrwtERFRpVlEz56IyNIx2RMRWQAmeyIiC8BkT0RkAZjsiYgsAJM9
-EZEF+D8HTJWhPIRskwAAAABJRU5ErkJggg==
-">
+EZEF+D8HTJWhPIRskwAAAABJRU5ErkJggg==">
 
 So, with modern electric-car Lithium-ion batteries, the football field would have to be stacked 6
 meters (~18 feet) tall to store enough energy for one night from one power plant. The next question
@@ -690,8 +688,7 @@ CS+//DJ8fX0RFBSEdu3albtCpGHDhlAqlejcuTO6du2KwMBAixnf1LbdH374YZmxcEmS0LJlS2zY
 sAFDhgzBlStX8N5776Fjx47o2rVrmauAHh0frojmPO+++y6KiooQFBSE1q1bIzo62shbWTNo7pM3
 3ngDd+7cKfPaoz11oPScUZMmTR67roqWfxI8mgcPT0Br2w8Pn4+KikJQUBDatm2LyMhILFmyBJ6e
 nhXuw5q2TyVhCX96iIhIL1bXUyciepIx1ImIrAhDnYjIijDUiYisCEOdiMiKMNSJiKzI/wOvZakX
-oVPP/wAAAABJRU5ErkJggg==
-">
+oVPP/wAAAABJRU5ErkJggg==">
 
 In all cases, the storage facility adds at least an additional <code>$</code>1 billion to a power
 plant, just based on battery materials alone. Assuming we don't want to build lots of 14 meter tall
