@@ -10,7 +10,8 @@ byline: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<img src="/img/blank.png" data-echo="img/applications.jpg" class="img-fluid"/>
+<img src="/img/blank.png" data-echo="img/applications.jpg" class="img-fluid"
+alt="A few pictures of applications of nuclear energy"/>
 *"You have to know the past to understand the present"* — Carl Sagan
 
 The dream for economical nuclear power was born well before the discovery of nuclear
@@ -69,8 +70,8 @@ As in CP-1, they had natural uranium fuel dispersed in a graphite moderator.
 <figure>
 <a href="/img/building_b_reactor.jpg"><img class="img-fluid"
 src="/img/blank.png" data-echo="/img/building_b_reactor.jpg" alt="Workers laying graphite in the B reactor"/></a>
-<caption>Workers laying graphite in the Hanford B plutonium production
-reactor under construction (from HAER-WA-164)</caption>
+<figcaption>Workers laying graphite in the Hanford B plutonium production
+reactor under construction (from HAER-WA-164)</figcaption>
 </figure>
 
 Unlike CP-1, the Hanford reactors were cooled with ordinary water. Since water is a
@@ -93,7 +94,7 @@ conventional power plants.
 
 <figure> <a href="/img/new-piles-committee-reactors.png"><img
 src="/img/blank.png" data-echo="/img/new-piles-committee-reactors.png" alt="Some early reactor ideas from a New Piles
-Committee meeting" class="img img-fluid center-block" ></a> <caption>Some
+Committee meeting" class="img img-fluid center-block" ></a> <figcaption>Some
 early reactor ideas from <a
 href="https://technicalreports.ornl.gov/1944/3445605702870.pdf">MUC-LAO-42</a>. See also
 the <a href="https://technicalreports.ornl.gov/1944/3445605715063.pdf">Piles of the Future
@@ -102,7 +103,7 @@ is recorded. They thought pressurized water would lead to corrosion issues at hi
 temperature and considered liquid metal (specifically lead-bismuth) to be the most
 promising coolant. Written 5 days after Hanford B came online, it does have a <a
 href="/img/Piles_of_the_future_shielding.jpg">pretty funny suggestion</a> about gold being the
-best shield.</caption> </figure>
+best shield.</figcaption> </figure>
 
 ### Putting nuclear heat to work
 
@@ -146,10 +147,10 @@ first water-cooled, water-moderated reactor.
 <figure>
 <a href="/img/litr_top.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/litr_top_sm.jpg" alt="The LITR reactor top"/></a>
-<caption>The LITR, the first
+<figcaption>The LITR, the first
 water-cooled, water-moderated reactor, in 1950 at ORNL (<a
 href="https://www.flickr.com/photos/oakridgelab/45752034864">CC-BY-2.0
-ORNL</a>)</caption> 
+ORNL</a>)</figcaption> 
 </figure>
 </div>
 
@@ -157,8 +158,8 @@ ORNL</a>)</caption>
 <figure>
 <a href="/img/mtr_construction_1951.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/mtr_construction_1951_sm.jpg" alt="The MTR under construction"/></a>
-<caption>The MTR under construction in 1951 (<a
-href="https://www.loc.gov/pictures/item/id0443.photos.220007p/resource/">source</a>)></caption> 
+<figcaption>The MTR under construction in 1951 (<a
+href="https://www.loc.gov/pictures/item/id0443.photos.220007p/resource/">source</a>)></figcaption> 
 </figure>
 </div>
 
@@ -166,9 +167,9 @@ href="https://www.loc.gov/pictures/item/id0443.photos.220007p/resource/">source<
 <figure>
 <a href="/img/mtr_1955_hd.6d.017.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/mtr_1955_hd.6d.017_sm.jpg" alt="The MTR core"/></a>
-<caption><p>The MTR core (<a
+<figcaption><p>The MTR core (<a
 href="https://www.flickr.com/photos/departmentofenergy/10729606635/in/album-72157637416489424/">AEC
-photo</a>)</p></caption> 
+photo</a>)</p></figcaption> 
 </figure>
 </div>
 
@@ -205,9 +206,9 @@ water reactor (Project Wizard).
 <figure>
 <a href="/img/s1w_reactor.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/s1w_reactor.jpg" alt="The S1W Nautilus prototype in Idaho"/></a>
-<caption><p>The STG/S1W Nautilus PWR prototype in Idaho (<a
+<figcaption><p>The STG/S1W Nautilus PWR prototype in Idaho (<a
 href="https://www.nrl.navy.mil/news/releases/nrl-history-phil-abelson-atomic-age">NRL
-Atomic Age</a>)</p></caption> 
+Atomic Age</a>)</p></figcaption> 
 </figure>
 </div>
 
@@ -215,10 +216,10 @@ Atomic Age</a>)</p></caption>
 <figure>
 <a href="/img/s1g_sphere.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/s1g_sphere.jpg" alt="The S1G dome in New York"/></a>
-<caption><p>The sphere for the SIR/S1G Seawolf sodium-beryllium prototype in New York
+<figcaption><p>The sphere for the SIR/S1G Seawolf sodium-beryllium prototype in New York
 (from <em>Atomic Shield</em>, <a
 href="http://images.google.com/hosted/life/c4707d71d407ce7d.html">higher-res from
-LIFE</a>)</p></caption> 
+LIFE</a>)</p></figcaption> 
 </figure> 
 </div>
 
@@ -270,10 +271,10 @@ from the USS Nautilus on Jan 17, 1955:
   <a href="/img/launch_of_nautilus.jpg"><img
 src="/img/blank.png" data-echo="/img/launch_of_nautilus_sm.jpg" alt="Launch of the Nautilus with lots of people"
  class="img img-fluid center-block"></a>
-   <caption>The launch of the USS Nautilus (SSN-571). Click the photo to enlarge; you will
+   <figcaption>The launch of the USS Nautilus (SSN-571). Click the photo to enlarge; you will
 not be disappointed. (Credit: Naval History and Heritage
 Command photo <a
-href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/ua-collection/ua-475-05-02-launching-of-uss-nautilus--ssn-571--.html">UA 475.05.02</a>)</caption>
+href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/ua-collection/ua-475-05-02-launching-of-uss-nautilus--ssn-571--.html">UA 475.05.02</a>)</figcaption>
   </figure>
 
 The astoundingly high energy density of nuclear fuel allowed the submariners to gallivant on wild new
@@ -312,8 +313,8 @@ on nuclear-powered cruise missiles and scramjets was performed.
 <figure>
 <a href="/img/nuclear_rocket.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/nuclear_rocket_sm.jpg" alt="A wild looking nuclear jet engine concept art"/></a>
-<caption><p>A nuclear-powered jet engine concept (from <a
-href="https://www.osti.gov/biblio/1048124-comprehensive-technical-report-general-electric-direct-air-cycle-aircraft-nuclear-propulsion-program-program-summary-references">APEX-901</a>)</p></caption> 
+<figcaption><p>A nuclear-powered jet engine concept (from <a
+href="https://www.osti.gov/biblio/1048124-comprehensive-technical-report-general-electric-direct-air-cycle-aircraft-nuclear-propulsion-program-program-summary-references">APEX-901</a>)</p></figcaption> 
 </figure>
 </div>
 
@@ -321,7 +322,7 @@ href="https://www.osti.gov/biblio/1048124-comprehensive-technical-report-general
 <figure>
 <a href="/img/HTRE-3.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/HTRE-3-sm.jpg" alt="The HTRE-2 nuclear-heated jet engine"/></a>
-<caption><p>An actual test of a nuclear-powered jet engine in Idaho, called HTRE-2 (photo by me)</p></caption> 
+<figcaption><p>An actual test of a nuclear-powered jet engine in Idaho, called HTRE-2 (photo by me)</p></figcaption> 
 </figure>
 </div>
 
@@ -357,12 +358,12 @@ job.
   <figure>
   <a href="/img/ml1.jpg"><img class="img-fluid" 
   src="/img/blank.png" data-echo="/img/ml1_sm.jpg" alt="A truck-mounted nitrogen-cooled military microreactor"/></a>
-  <caption>
+  <figcaption>
     <p>
     The nitrogen-cooled <a href="https://en.wikipedia.org/wiki/ML-1">ML-1 military microreactor</a>. 
     See also: <a href="https://www.youtube.com/watch?v=PPPp5rtu04A">this documentary about ML-1</a>.
     </p>
-  </caption> 
+  </figcaption> 
   </figure>
   </div>
 
@@ -370,10 +371,10 @@ job.
   <figure>
   <a href="/img/appr1-core-in-crit-facility.jpg">
   <img src="/img/blank.png" data-echo="/img/appr1-core-in-crit-facility.jpg" class="img img-fluid"/></a>
-  <caption markdown="1">
+  <figcaption markdown="1">
     The APPR-1 core in the critical testing facility (from [APPR-1
     construction](https://babel.hathitrust.org/cgi/pt?id=umn.31951d038026231&view=1up&seq=52))
-  </caption> 
+  </figcaption> 
   </figure>
   </div>
 </div>
@@ -418,9 +419,9 @@ Private funding, ownership, and operation was on its way.
 <figure>
   <a href="/img/geneva-reactor.jpg">
   <img src="/img/blank.png" data-echo="/img/geneva-reactor.jpg" alt="Schematic of the reactor" class="img img-fluid center-block" ></a>
-   <caption markdown="1">Schematic view of the reactor that ORNL flew in and built at the Geneva conference (from [delegation
+   <figcaption markdown="1">Schematic view of the reactor that ORNL flew in and built at the Geneva conference (from [delegation
 report](https://catalog.hathitrust.org/Record/102363648))
-</caption> 
+</figcaption> 
 </figure>
 </div>
 
@@ -428,9 +429,9 @@ report](https://catalog.hathitrust.org/Record/102363648))
 <figure>
   <a href="/img/geneva-reactor-people.jpg">
   <img src="/img/blank.png" data-echo="/img/geneva-reactor-people.jpg" alt="People in Geneva looking down into a reactor" class="img img-fluid center-block"></a>
-   <caption markdown="1">People viewing the reactor at the UN conference on Atoms for Peace (from [delegation
+   <figcaption markdown="1">People viewing the reactor at the UN conference on Atoms for Peace (from [delegation
 report](https://catalog.hathitrust.org/Record/102363648))
-</caption> 
+</figcaption> 
 </figure>
 </div>
 
@@ -516,9 +517,9 @@ src="/img/blank.png" data-echo="/img/power-demonstration-reactor-program_opt.svg
 alt="Timeline of reactors built by the Atomic Energy Commission during the Power
 Demonstration Reactor Program"
  class="img img-fluid center-block" ></a>
-   <caption>The reactors of the 3+ phases of the AEC's Power Demonstration Reactor
+   <figcaption>The reactors of the 3+ phases of the AEC's Power Demonstration Reactor
 Program (PDRP). These were funded jointly by the AEC and the commercial partners. Note that
-several of the reactors are what we would consider today exotic.</caption>
+several of the reactors are what we would consider today exotic.</figcaption>
   </figure>
 
 
@@ -538,9 +539,9 @@ commercial nuclear power plant.
 <figure>
 <a href="img/shippingport_construction1.jpg"><img src="/img/blank.png" data-echo="img/shippingport_construction1.jpg" alt="Construction of
 Shippingport" class="img img-fluid"/></a>
-<caption>
+<figcaption>
 Construction of a boiler chamber in the Shippingport PWR (from <a href="https://www.loc.gov/resource/hhh.pa1658.photos/?sp=74" >Library of Congress</a>)
-</caption> 
+</figcaption> 
 </figure>
 </div>
 
@@ -552,11 +553,11 @@ Construction of a boiler chamber in the Shippingport PWR (from <a href="https://
   img-fluid center-block">
   </a>
 
-   <caption markdown="1">One of the Shippingport heat exchangers
+   <figcaption markdown="1">One of the Shippingport heat exchangers
 being installed. The plant had 2 steam generators of the Babcock and Wilcox U-tube design
 and 2 Foster Wheeler straight-pipe designs (from <a
 href="https://www.loc.gov/resource/hhh.pa1658.photos/?sp=91">Lib of Cong.</a>) 
-</caption>
+</figcaption>
 </figure>
 </div>
 
@@ -610,10 +611,10 @@ a deluge of orders became the majority of today's nuclear fleet.
 <a href="/img/palo_verde.jpg"><img class="img img-fluid"
 src="/img/blank.png" data-echo="/img/palo_verde.jpg"  alt="The Palo Verde Nuclear Station, 3 giant PWRs in Arizona"/></a> 
 
-<caption>The Palo Verde Nuclear Station, made of 3 giant PWRs in
+<figcaption>The Palo Verde Nuclear Station, made of 3 giant PWRs in
 Arizona that went into service in the late 1980s (<a
 href="https://en.wikipedia.org/wiki/Palo_Verde_Nuclear_Generating_Station#/media/File:PaloVerdeNuclearGeneratingStation.jpg">source</a>)
-</caption>
+</figcaption>
 </figure>
 
 A land-based prototype for the *NS Savannah* merchant ship's core was built and operated
@@ -759,7 +760,7 @@ plant operated well. After Dresden came Humboldt Bay with natural circulation.
 <a href="/img/BWR_development_history.jpg"><img
 src="/img/blank.png" data-echo="/img/BWR_development_history.jpg" alt="Timeline of BWR development history"
 class="img img-fluid center-block" ></a>
-<caption>BWR development history/timeline/geneology (from <a href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=33">ANL Summer school, 1961</a>)</caption> </figure>
+<figcaption>BWR development history/timeline/geneology (from <a href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=33">ANL Summer school, 1961</a>)</figcaption> </figure>
 
 
 There was one tragedy along the BWR development pathway. The Army's SL-1 in Idaho was part
@@ -775,8 +776,8 @@ to Combustion Engineering after the plant was operational.
 <a href="/img/sl-1.jpg"><img class="img img-fluid"
 src="/img/blank.png" data-echo="/img/sl-1.jpg"  alt="The SL-1/ALPR reactor"/></a> 
 
-<caption><p>The SL-1 reactor in Idaho in 1960, before the accident (from <a href="https://www.flickr.com/photos/departmentofenergy/10731009074/in/album-72157637416489424/">DOE</a>)</p>
-</caption>
+<figcaption><p>The SL-1 reactor in Idaho in 1960, before the accident (from <a href="https://www.flickr.com/photos/departmentofenergy/10731009074/in/album-72157637416489424/">DOE</a>)</p>
+</figcaption>
 </figure>
 
 Before the accident, the reactor had been shutdown and the night-shift workers were
@@ -814,10 +815,10 @@ childhood. I grew up about 10 miles from Big Rock, which operated well until my 
 <a href="/img/big_rock.jpg"><img class="img img-fluid"
 src="/img/blank.png" data-echo="/img/big_rock.jpg"  alt="Big Rock Point reactor"/></a> 
 
-<caption>The Big Rock Point nuclear plant near Charlevoix, MI was an
+<figcaption>The Big Rock Point nuclear plant near Charlevoix, MI was an
 experimental BWR (from <a
 href="https://www.flickr.com/photos/departmentofenergy/10822113216/in/album-72157637416489424/">DOE</a>)
-</caption>
+</figcaption>
 </figure>
 
 Elk River was another small "hook-on" reactor that added steam to an
@@ -896,9 +897,9 @@ the AEC, and it was grouted in place by 1969.
 
   <figure> <a href="/img/hallam_grid.jpg"><img
 src="/img/blank.png" data-echo="/img/hallam_grid.jpg" alt="The grid plate of the Hallam nuclear power facility under construction"
- class="img img-fluid center-block" ></a> <caption>The Hallam Nuclear Power Facility
+ class="img img-fluid center-block" ></a> <figcaption>The Hallam Nuclear Power Facility
 grid plate during construction (from <a
-href="https://catalog.hathitrust.org/Record/100901692">Mahlmeister 1961</a>)</caption>
+href="https://catalog.hathitrust.org/Record/100901692">Mahlmeister 1961</a>)</figcaption>
 </figure>
 
 Today, the fossil side of the plant still operates, and if you look at [a satellite
@@ -961,12 +962,12 @@ class="img-fluid center-block" ></a>
 </div>
 
 </div>
-<caption>The Organic Moderated Reactor Experiment in Idaho provided Atomics International
+<figcaption>The Organic Moderated Reactor Experiment in Idaho provided Atomics International
 with the technology and experience to design and build the Piqua plant (from <a
 href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095000009&view=thumb&seq=233">AI
 Annual Report 1959</a> and <a
 href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095000124&view=1up&seq=14">Nov 1956
-Prog. Report</a>)</caption> 
+Prog. Report</a>)</figcaption> 
 </figure>
 
 As a follow-up to OMRE, the AEC contracted AI to build the Experimental Organic Cooled
@@ -990,9 +991,9 @@ as *The Atomic City*.
 <a href="/img/piqua_ops.jpg"><img
 src="/img/blank.png" data-echo="/img/piqua_ops.jpg" alt="Piqua operation in 1964"
 class="img img-fluid center-block" ></a>
-<caption>Piqua operational history in 1964 (from <a
+<figcaption>Piqua operational history in 1964 (from <a
 href="https://digital.library.unt.edu/ark:/67531/metadc860838/">Progress report
-5</a>)</caption> </figure>
+5</a>)</figcaption> </figure>
 
 In 1966, two control rods were found to not move freely in their guide tubes, and four fuel
 elements required abnormally high forces to unseat and would not reseat. The obstruction
@@ -1090,10 +1091,10 @@ temperature, considering burnup, corrosion, and erosion.
 <a href="/img/superheat-critical.jpg"><img class="img img-fluid"
 src="/img/blank.png" data-echo="/img/superheat-critical.jpg"  alt="Lots of little rods arranged in a hexagon"/></a> 
 
-<caption>
+<figcaption>
 A critical assembly testing crazy nuclear superheat assemblies 
 (from <a href="https://digital.library.unt.edu/ark:/67531/metadc784223/m2/1/high_res_d/metadc784223.pdf">mtg 6</a>)
-</caption>
+</figcaption>
 </figure>
 </div>
 
@@ -1101,11 +1102,11 @@ A critical assembly testing crazy nuclear superheat assemblies
 <figure>
 <a href="/img/domes_beach_lg.jpg"><img class="img img-fluid"
 src="/img/blank.png" data-echo="/img/domes_beach_md.jpg" alt="Modern picture of BONUS dome on beach"/></a> 
-<caption><a
+<figcaption><a
 href="https://en.wikipedia.org/wiki/Boiling_Nuclear_Superheater_(BONUS)_Reactor_Facility">BONUS</a>,
 near Rincón, Puerto Rico, may have been the most picturesque nuclear plant ever.  (Credit
 <a href="https://www.flickr.com/photos/cogdog/22279683402">Alan Levine
-CC-BY-2.0</a>)</caption> 
+CC-BY-2.0</a>)</figcaption> 
 </figure>
 
 </div></div>
@@ -1149,10 +1150,10 @@ to support the Army's ANPP, specifically for mobile, truck-mounted reactors (ML-
 <figure>
 <a href="/img/gcre.jpg"><img class="img img-fluid"
 src="/img/blank.png" data-echo="/img/gcre.jpg" alt="The Gas-cooled reactor experiment"/></a> 
-<caption>
+<figcaption>
 The Gas-Cooled Reactor Experiment at the NTRS in 1962 
 (<a href="https://www.flickr.com/photos/departmentofenergy/10731010624/in/album-72157637416489424/">AEC</a>)
-</caption> 
+</figcaption> 
 </figure>
 
 The success in the UK in graphite-moderated, CO<sub>2</sub>-cooled, dual-purpose MAGNOX
@@ -1196,9 +1197,9 @@ around December, 1960.
 <a href="/img/nerva.jpg"><img
 src="/img/blank.png" data-echo="/img/nerva.jpg" alt="The NERVA hydrogen-cooled test from Project Rover, a nuclear
 rocket" class="img img-fluid center-block" ></a>
-<caption>The NERVA hydrogen-cooled test from Project Rover, a nuclear rocket program (from
+<figcaption>The NERVA hydrogen-cooled test from Project Rover, a nuclear rocket program (from
 <a href="https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-83-5082">The Bradbury Years</a>
-)</caption>
+)</figcaption>
 </figure>
 </div>
 
@@ -1207,11 +1208,11 @@ rocket" class="img img-fluid center-block" ></a>
 <a href="/img/fsv_psrv_test.jpg"><img
 src="/img/blank.png" data-echo="/img/fsv_psrv_test.jpg" alt="A scale model of a prestressed concrete reactor vessel for Ft.
 St. Vrain" class="img img-fluid center-block" ></a>
-<caption>The scale model prestressed concrete reactor vessel GA tested in accident
+<figcaption>The scale model prestressed concrete reactor vessel GA tested in accident
 conditions for Fort St. Vrain (from <a
 href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015001309528&view=1up&seq=171">AEC
 Annual Report 1967</a>)
-</caption> 
+</figcaption> 
 </figure>
 </div>
 
@@ -1265,7 +1266,7 @@ turns out to be the cheapest option as the design evolves.
 <figure>
 <a href="/img/cvtr_site.jpg"><img
 src="/img/blank.png" data-echo="/img/cvtr_site.jpg" alt="CVTR site with hydro, fossil, and nuclear plant" class="img img-fluid center-block" ></a>
-<caption>The CVTR was on an interesting site with a hydro plant, a fossil plant, and a nuclear plant all capable of producing power at the same time. This was thought to be unique in the world. (<a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015014494622&view=1up&seq=741">source</a>)</caption>
+<figcaption>The CVTR was on an interesting site with a hydro plant, a fossil plant, and a nuclear plant all capable of producing power at the same time. This was thought to be unique in the world. (<a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015014494622&view=1up&seq=741">source</a>)</figcaption>
 </figure>
 
 Interesting control mechanisms were considered for CVTR, including shim control by
@@ -1290,8 +1291,8 @@ for the ECNG reactor. They figured they could run at 500 psig coolant pressure a
 <figure>
 <a href="/img/ecng_schematic.jpg"><img
 src="/img/blank.png" data-echo="/img/ecng_schematic.jpg" alt="The ECNG tube reactor schematic" class="img img-fluid center-block" ></a>
-<caption>ECNG D<sub>2</sub>O-moderated, CO<sub>2</sub>-cooled pressure tube reactor with bottom fuel handling machine (<a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095054832&view=1up&seq=81">source</a>)
-</caption>
+<figcaption>ECNG D<sub>2</sub>O-moderated, CO<sub>2</sub>-cooled pressure tube reactor with bottom fuel handling machine (<a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095054832&view=1up&seq=81">source</a>)
+</figcaption>
 </figure>
 
 </div>
@@ -1300,9 +1301,9 @@ src="/img/blank.png" data-echo="/img/ecng_schematic.jpg" alt="The ECNG tube reac
 <figure>
 <a href="/img/ecng_corrosion_loop.jpg"><img
 src="/img/blank.png" data-echo="/img/ecng_corrosion_loop.jpg" alt="The ECNG corrosion loop" class="img img-fluid center-block" ></a>
-<caption>
+<figcaption>
 The ECNG corrosion loop (<a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095054832&view=1up&seq=81">source</a>)
-</caption> 
+</figcaption> 
 </figure>
 </div>
 
@@ -1343,7 +1344,7 @@ water and sodium.
 <a href="/img/sdr_mockup.jpg">
 <img src="/img/blank.png" data-echo="/img/sdr_mockup.jpg" alt="The
 Sodium-Deuterium system mockup." class="img img-fluid" ></a>
-<caption><p>A mockup of the sodium-deuterium reactor.</p></caption>
+<figcaption><p>A mockup of the sodium-deuterium reactor.</p></figcaption>
 </figure>
 
 The SDR program, for better or for worse, never made it out of component testing.
@@ -1385,9 +1386,9 @@ nuclear development.
 <figure>
 <a href="/img/sfr_dev.jpg"><img
 src="/img/blank.png" data-echo="/img/sfr_dev.jpg" alt="Plot showing timeline of SFRs" class="img img-fluid center-block" ></a>
-<caption markdown="1">Fast reactor developments in various countries (Adapted from *Fast
+<figcaption markdown="1">Fast reactor developments in various countries (Adapted from *Fast
 Breeder Reactors*)
-</caption>
+</figcaption>
 </figure>
 
 In 1966, the AEC stated:
@@ -1449,12 +1450,12 @@ equally massive. This development program was absolutely gigantic.
 <figure>
 <a href="/img/hengelo_sg_test_facility.jpg"><img
 src="/img/blank.png" data-echo="/img/hengelo_sg_test_facility.jpg" alt="A steam-generator test facility" class="img img-fluid center-block " ></a>
-<caption>The Hengelo Steam-Generator Test Facility in the
+<figcaption>The Hengelo Steam-Generator Test Facility in the
 Netherlands, a SFR components test facility supporting the European SNR-300 project, which
 by the way was tragically abandoned right after it was completed and fueled due to post-Chernobyl
 protests (<a
 href="https://babel.hathitrust.org/cgi/pt?id=coo.31924108954300&view=1up&seq=147">source</a>)
-</caption>
+</figcaption>
 </figure>
 </div>
 
@@ -1462,9 +1463,9 @@ href="https://babel.hathitrust.org/cgi/pt?id=coo.31924108954300&view=1up&seq=147
 <figure>
 <a href="/img/fftf_head.jpg"><img
 src="/img/blank.png" data-echo="/img/fftf_head.jpg" alt="The FFTF head in 1974" class="img img-fluid center-block" ></a>
-<caption>
+<figcaption>
 The FFTF vessel head in 1974 (<a href="https://www.flickr.com/photos/departmentofenergy/11240679093/in/album-72157637130454183/">source</a>)
-</caption> 
+</figcaption> 
 </figure>
 
 </div>
@@ -1494,9 +1495,9 @@ compact reactors, likely to be used by the military for remote power.
 <figure>
 <a href="/img/LAPRE-II_lid_and_hx.jpg"><img
 src="/img/blank.png" data-echo="/img/LAPRE-II_lid_and_hx.jpg" alt="The LAPRE-II reactor" class="img img-fluid center-block" ></a>
-<caption markdown="1">The LAPRE-II reactor with lid and heat exchanger (from [LAPRE-II Report
+<figcaption markdown="1">The LAPRE-II reactor with lid and heat exchanger (from [LAPRE-II Report
 1958](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086458299&view=1up&seq=3))
-</caption>
+</figcaption>
 </figure>
 </div>
 
@@ -1504,9 +1505,9 @@ src="/img/blank.png" data-echo="/img/LAPRE-II_lid_and_hx.jpg" alt="The LAPRE-II 
 <figure>
 <a href="/img/are.jpg"><img
 src="/img/blank.png" data-echo="/img/are.jpg" alt="ARE" class="img img-fluid center-block" ></a>
-<caption markdown="1">
+<figcaption markdown="1">
 The [Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment) (first molten salt reactor)
-</caption> 
+</figcaption> 
 </figure>
 </div>
 
@@ -1529,9 +1530,9 @@ runs.
 <figure>
 <a href="/img/HRE.jpg"><img
 src="/img/blank.png" data-echo="/img/HRE.jpg" alt="The Homogeneous reactor experiment" class="img img-fluid center-block" ></a>
-<caption>
+<figcaption>
 The HRE vessel. This reactor was just "a pot, a pipe, and a pump".
-</caption>
+</figcaption>
 </figure>
 </div>
 
@@ -1539,11 +1540,11 @@ The HRE vessel. This reactor was just "a pot, a pipe, and a pump".
 <figure>
 <a href="/img/flow_vis_loop.jpg"><img
 src="/img/blank.png" data-echo="/img/flow_vis_loop.jpg" alt="A flow visualization loop." class="img img-fluid center-block" ></a>
-<caption markdown="1">
+<figcaption markdown="1">
 A flow-visualization loop. In lieu of CFD
 calculations, early reactor developers cut out plexiglass models in 2-D shapes of things
 like the HRE in this photo. (HRE Progress Report July 1958)
-</caption>
+</figcaption>
 </figure>
 </div>
 
@@ -1551,11 +1552,11 @@ like the HRE in this photo. (HRE Progress Report July 1958)
 <figure>
 <a href="/img/HRE_cfd.jpg"><img
 src="/img/blank.png" data-echo="/img/HRE_cfd.jpg" alt="The result of the flow test" class="img img-fluid center-block" ></a>
-<caption markdown="1">
+<figcaption markdown="1">
 A Milling-Yellow solution is used, which exhibits an optical
 property called *flow double refraction*. This causes interference due to viscous stresses
 in moving liquid. Who needs CFD when you can do it analog with models!
-</caption> 
+</figcaption> 
 </figure>
 </div>
 
@@ -1613,11 +1614,11 @@ nuclear bus. We also must not pretend it isn't out there lurking.
 <a href="/img/costs_1961.jpg"><img
 src="/img/blank.png" data-echo="/img/costs_1961.jpg" alt="Construction costs of nuclear reactors up to 1961"
 class="img img-fluid center-block" ></a>
-<caption>
+<figcaption>
 Nuclear reactor capital cost was still high in 1961, though some estimates showed
 BWRs doing well in the near future (from the <a
 href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=321&size=175">ANL Summer program, 1961</a>)
-</caption>
+</figcaption>
 </figure>
 
 ### Development trends
@@ -1677,9 +1678,9 @@ Alvin Weinberg, *The First Nuclear Era*
 <figure>
 <a href="/img/triangle.png"><img
 src="/img/blank.png" data-echo="/img/triangle.png" alt="Alvin Weinberg inverted pyramid" class="img img-fluid center-block" ></a>
-<caption markdown="1">
+<figcaption markdown="1">
 Alvin Weinberg's inverted pyramid of reactor development
-</caption> 
+</figcaption> 
 </figure>
 
 </div>
@@ -2086,9 +2087,9 @@ RAND study!
 <a href="/img/evesr-critical-experiment-aped-4204.jpg"><img class="img-fluid"
 src="/img/blank.png" data-echo="/img/evesr-critical-experiment-aped-4204.jpg" alt="Picture of a exotic-looking
 nuclear core"/></a> 
-<caption><p>A critical
+<figcaption><p>A critical
 test of the EVESR (from <a
-href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095157510&view=1up&seq=1">APED-4204</a>)</p></caption>
+href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095157510&view=1up&seq=1">APED-4204</a>)</p></figcaption>
 </figure>
 
 * [Nuclear Superheat Meeting No.
