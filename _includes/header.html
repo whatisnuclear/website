@@ -11,6 +11,13 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       {%- assign page_name = page.path | split:"." | first -%}
+      {% comment %}
+      Check last letter for / in pages to handle activating the heading for e.g. news/ and safety_minutes/
+      {% endcomment %}
+      {%- assign last_letter = page.url | split:"" | last -%}
+      {%- if last_letter  == "/" -%}
+      {%- assign page_name = page_name | append:"/" -%}
+      {%- endif -%}
       <div class="navbar-collapse collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         {%- for section in site.data.pages -%}

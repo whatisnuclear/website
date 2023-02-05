@@ -102,4 +102,5 @@
 - title: About
   pages:
     - about
+    - news/
     - contact
