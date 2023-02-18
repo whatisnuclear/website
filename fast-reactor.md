@@ -7,7 +7,7 @@ description: |
     more common slow-neutron (thermal) reactors.
 author: nick
 date: 2009-09-21
-image: "/img/fast_neutron.png"
+image: /img/fast_neutron_bigger.png
 byline: true
 byline_extra: Editing by Jesse Cheatham, Robert Petroski, and Brian Wagner
 ---
