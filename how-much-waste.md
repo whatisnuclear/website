@@ -3,8 +3,8 @@ layout: default
 title: How much nuclear waste is there?
 category: physics
 description: >
-    How much nuclear waste has been made in the USA (and world)? If you were
-    to stack it up on a football field, how high would the nuclear waste be?
+    How much nuclear waste has been made in the USA? If you were to stack it up on a
+    football field, how high would the nuclear waste be?
 author: nick
 image: "/img/all-waste-fps_sm.jpg"
 date: 2023-02-19
@@ -13,12 +13,12 @@ byline: true
 <div class="row">
 <div class="col-lg-8" markdown="1">
 
-When talking about nuclear waste, people often try to characterize how much there is with
-a convenient and relatable visual, often a football field. However, the numbers people
-quote are all over the map: 10 yards, 24 feet, 50 feet, etc. are all claimed.
-Furthermore, it's never quite clear what assumptions and details are being considered.
-This page does the math and gives a clear answer to how much waste there is in the USA
-relative to a football field.
+When talking about nuclear waste, people often characterize how much there is with a
+convenient and relatable visual, usually a football field. However, the numbers people
+quote are all over the map: 10 yards, 24 feet, 50 feet, and more! Also, it's never quite
+clear what assumptions and details are being considered. This page attempts to reconcile
+this situation by doing the math and giving a verifiable answer to how much waste there is
+in the USA relative to a football field.
 
 (If you just want to know what nuclear waste is and what's to be done about it, go 
 to [our nuclear waste page]({% link waste.md %}).)
@@ -37,8 +37,8 @@ This would look like so:
 
 <figure>
 <a href="img/all-us-waste-in-casks.jpg">
-<img class="img-fluid w-75" src="/img/all-us-waste-in-casks_sm.jpg" 
-{% imagesize /img/all-us-waste-in-casks_sm.jpg:props %}  
+<img class="img-fluid w-75" src="/img/all-us-waste-in-casks.jpg" 
+{% imagesize /img/all-us-waste-in-casks.jpg:props %}  
 alt="A depiction of all the US nuclear waste stacked up on a football field in dry casks."/></a>
 <a href="img/all-waste-cask-closeup.jpg">
 <img class="img-fluid w-75" src="/img/all-waste-cask-closeup_sm.jpg" 
