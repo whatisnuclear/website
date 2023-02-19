@@ -86,7 +86,7 @@ only the fission products are left over.
 Typical reactors get about 50 MWd/kg out of their fuel on average, which represents
 roughly 5% of the total nuclear energy in each pellet. The rest is regular U-238, which is
 usable as fuel in breeder reactors. The **stack of fission products on a football field,
-then would be just 15 cm high** (5.9 inche).
+then would be just 15 cm high** (5.9 inches).
 
 This would look roughly like this:
 
