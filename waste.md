@@ -35,9 +35,9 @@ going deeper. Here, you will learn:
 * [What is the composition of nuclear waste?](#composition)
 
 <h2 id="what">What is nuclear waste?</h2>
-Nuclear energy is released when a nuclear fuel nucleus snaps into two in a [reactor]({{
-site.baseurl }}{% link reactors.md %}). The key component
-of nuclear waste is the leftover smaller nuclei, known as fission products.
+Nuclear energy is released when a nuclear fuel nucleus snaps into two in a [reactor]({%
+link reactors.md %}). The key component of nuclear waste is the leftover smaller nuclei,
+known as fission products.
 
 <figure>
 <a href="/img/fission-chain-reaction-optsvg.svg">
@@ -409,6 +409,9 @@ Other things have been proposed as a solution for nuclear waste but are mostly b
 <h2 id="howmuch">
 How much nuclear waste does nuclear energy create?
 </h2>
+
+We have [depictions of nuclear waste stacked up on a football field here]({% link
+how-much-waste.md %}).
 
 If all the electricity use of the USA was distributed evenly among its population, and all of it came 
 from nuclear power, then the amount of nuclear waste each person would generate per year would be 
