@@ -190,14 +190,14 @@ href="https://www.flickr.com/photos/nrcgov/36801710635/">Photo by the NRC</a>
 <figure>
 <a href="/img/paris-at-dry-cask.jpg">
 <img class="img-fluid" src="/img/blank.png" 
-data-echo="/img/paris-at-dry-cask.jpg" {% imagesize /img/paris-at-dry-cask.jpg %}
+data-echo="/img/paris-at-dry-cask.jpg" {% imagesize /img/paris-at-dry-cask.jpg:props %}
 alt="Dry cask nuclear fuel storage"/>
 </a>
-<figcaption class="figure-caption">Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
-Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: <a
-href="https://twitter.com/ParisOrtizWines/status/1195184970613936129/photo/1">Paris
-Ortiz-Wines</a>, Director of Outreach at <a
-href="https://twitter.com/envprogress">Environmental Progress</a>
+<figcaption class="figure-caption">
+Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
+Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: 
+<a href="https://twitter.com/ParisOrtizWines/status/1195184970613936129/photo/1">Paris Ortiz-Wines</a>, 
+Director of Outreach at <a href="https://twitter.com/envprogress">Environmental Progress</a>
 </figcaption>
 </figure>
 
