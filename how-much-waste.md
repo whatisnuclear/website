@@ -13,12 +13,13 @@ byline: true
 <div class="row">
 <div class="col-lg-8" markdown="1">
 
-When talking about nuclear waste, people often characterize how much there is with a
-convenient and relatable visual, usually a football field. However, the numbers people
-quote are all over the map: 10 yards, 24 feet, 50 feet, and more! Also, it's never quite
-clear what assumptions and details are being considered. This page attempts to reconcile
-this situation by doing the math and giving a verifiable answer to how much waste there is
-in the USA relative to a football field.
+When talking about nuclear waste, people often characterize how much there is
+with a convenient and relatable visual, usually a football field. However, the
+numbers people quote for the height of the stack are all over the map: 10 yards,
+24 feet, 50 feet, and more! Also, it's never quite clear what assumptions and
+details are being considered. This page attempts to reconcile this situation by
+doing the math and giving a verifiable answer to how much waste there is in the
+USA relative to a football field.
 
 (If you just want to know what nuclear waste is and what's to be done about it, go 
 to [our nuclear waste page]({% link waste.md %}).)
@@ -26,7 +27,8 @@ to [our nuclear waste page]({% link waste.md %}).)
 # How many dry casks could store all US waste?
 
 Given the facts below, as of 2023, we can estimate that all fuel assemblies ever
-discharged in the history of the USA power reactor history would fit in 8516 casks.
+discharged in the history of the USA power reactor history would fit in 8516 dry
+casks.
 
 We can fit 27 HI-STORM 100 casks between the goal lines of a football field and 14 of them
 between the side lines. Thus, we have to stack them 23 times to fit them all. That means
@@ -48,6 +50,14 @@ alt="A closerup view of the nuclear waste casks stacked on a football field"/></
 as of 2023 stacked up on a football field in dry casks storage containers
 </figcaption>
 </figure>
+
+In motion:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J1QydqOFZF4"
+title="Waste storage casks stacked"  allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
 
 # How much actual used fuel material is in those casks?
 
@@ -90,15 +100,13 @@ then would be just 15 cm high** (5.9 inches).
 
 This would look roughly like this:
 
-<figure>
-<a href="img/all-waste-fps.jpg">
-<img class="img-fluid w-75" src="/img/all-waste-fps_sm.jpg" 
-{% imagesize /img/all-waste-fps_sm.jpg:props %}  
-alt="A depiction of all the actual fission products (true waste) in US used nuclear fuel stacked up on a football field."/></a>
-<figcaption markdown="1" class="figure-caption">A depiction of all the actual fission
-products (true waste) in US used nuclear fuel as of 2023 stacked up on a football field.
-</figcaption>
-</figure>
+<figure> <a href="img/all-waste-fps.jpg"> <img class="img-fluid w-75"
+src="/img/all-waste-fps_sm.jpg" {% imagesize /img/all-waste-fps_sm.jpg:props %}
+alt="A depiction of all the actual fission products (true waste) in US used
+nuclear fuel stacked up on a football field."/></a> <figcaption markdown="1"
+class="figure-caption">A depiction of all the actual fission products (true
+waste) in US used nuclear fuel as of 2023 stacked up on a football field.
+</figcaption> </figure>
 
 # Basic facts
 
@@ -153,7 +161,6 @@ As for the nuclear fuel pellets themselves:
   * Typical PWRs and BWRs fission about 5-6% of their uranium atoms before being
     discharged in the USA.
 
-Now we can do the calculations above. 
 
 </div>
 </div>
