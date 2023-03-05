@@ -105,7 +105,7 @@ only way to go. This gave them the technical head start that has arguably led to
 However, when MSRs were finally given their chance in the 1950s and 60s, their (non-existant)
 inability to make bombs was not to blame for the cancellation. 
 
-<h2 id="myth2" Myth #2: Thorium reactors never need enrichment!</h2>
+<h2 id="myth2">Myth #2: Thorium reactors never need enrichment!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
 Like all reactors, Thorium reactors need some fissile material to start up. Thorium itself
 is a neutron poison and needs to be irradiated by neutrons (coming from somewhere) in
