@@ -10,6 +10,12 @@ dist/fonts
 dist/js
 dist/syntax.css
 dist/bootstrap*
+dist/reveal*
+dist/theme
+dist/reset.css
+dist/css/joplin.css
 vendor*
-
+node_modules
+package-lock.json
+package.json
 

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+<head>
+{% include head.html %}
+<link rel="stylesheet" href="../dist/reveal.css">
+<link rel="stylesheet" href="../dist/theme/night.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.2.0/chart.min.js"></script>
+<style>
+.reveal .footer {
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  font-size: 0.5em;
+  color: #444444;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="reveal">
+<div class="slides">
+
+{{ content }}
+
+</div> 
+
+  <div class='footer'>
+    CC-BY-NC whatisnuclear.com
+  </div>
+</div> 
+
+<script src="../dist/reveal.js"></script>
+<script src="../dist/reveal.js-plugins/notes/notes.js"></script>
+<script src="../dist/reveal.js-plugins/zoom/zoom.js"></script>
+<script src="../dist/reveal.js-plugins/chart/plugin.js"></script>
+<script>
+    Reveal.initialize({
+        mouseWheel: true,
+        plugins: [ RevealChart, RevealNotes, RevealZoom],
+        width: 960*1.5,
+        height: 700*1.5,
+        hash: true,
+        slideNumber: "c/t",
+        chart: {
+            defaults: { 
+                color: 'lightgray', // color of labels
+                scale: { 
+                    beginAtZero: true, 
+                    ticks: { stepSize: 1 },
+                    grid: { color: "lightgray" } , // color of grid lines
+                },
+            },
+            pie: { backgroundColor: [ ["rgba(0,0,0,.8)" , "rgba(220,20,20,.8)", "rgba(20,220,20,.8)", "rgba(220,220,20,.8)", "rgba(20,20,220,.8)"] ]},
+        },
+    });
+</script>
+</body>
+</html>

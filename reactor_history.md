@@ -427,10 +427,9 @@ report](https://catalog.hathitrust.org/Record/102363648))
 
 <div class="col-md-6">
 <figure>
-  <a href="/img/geneva-reactor-people.jpg">
-  <img src="/img/blank.png" data-echo="/img/geneva-reactor-people.jpg" alt="People in Geneva looking down into a reactor" class="img img-fluid center-block"></a>
-   <figcaption markdown="1">People viewing the reactor at the UN conference on Atoms for Peace (from [delegation
-report](https://catalog.hathitrust.org/Record/102363648))
+  <a href="/img/geneva-reactor-people2.jpg">
+  <img src="/img/blank.png" data-echo="/img/geneva-reactor-people2.jpg" alt="People in Geneva looking down into a reactor" class="img img-fluid center-block"></a>
+   <figcaption markdown="1">People viewing the reactor at the UN conference on Atoms for Peace (from [ORNL](https://www.flickr.com/photos/oakridgelab/46476010391/in/photolist-2dNVGFZ))
 </figcaption> 
 </figure>
 </div>
