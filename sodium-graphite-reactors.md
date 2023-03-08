@@ -3,7 +3,7 @@ layout: default
 title: Sodium Graphite Reactors
 description: > 
     The Sodium Graphite Reactor (SGR) is a nearly-forgotten nuclear reactor
-    design  intended to make economical power by combining the
+    design intended to make economical power by combining the
     high-temperature/low-pressure nature of sodium metal coolant with the fuel
     efficiency enabled by a graphite moderator.
 author: nick
@@ -16,7 +16,7 @@ date: 2023-02-27
 
 In the 1950s, hordes of nuclear reactor designers were rushing to find out
 [which combination of coolant, moderator, and fuel types]({% link
-reactors.md#types %}) would be the most economical for commercial power
+reactors.md %}#types) would be the most economical for commercial power
 production. Along the way, someone came up with the idea of using 
 sodium metal coolant with graphite moderator. The idea here was to capture
 the following benefits:
@@ -40,10 +40,19 @@ The first two benefits are shared with the far more well-known sodium-cooled fas
 (SFR) design, but the last one is what's special about SGRs. When high-fissile fuel such
 as HALEU or HEU or Plutonium is a little hard to come by, SGRs shine.
 
-We developed, and built, and operated two SGRs:
+The first vocal champion of the SGR design was [Chauncey
+Starr](https://en.wikipedia.org/wiki/Chauncey_Starr), known for later founding
+the non-profit, [Electrical Power Research Institute
+(EPRI)](https://en.wikipedia.org/wiki/Electric_Power_Research_Institute). He edited an entire volume
+that was released globally at the 2nd Atoms for Peace convention in 1958.
 
-* A reactor experiment: Sodium Reactor Experiment (SRE) outside of L.A., California
-* A power prototype: Hallam Nuclear Power Facility a few miles SE of Lincoln, Nebraska. 
+
+
+As was typical in the [history of reactor development]({%link reactor_history.md
+%}), we developed, built, and operated two SGRs:
+
+* A reactor experiment: Sodium Reactor Experiment (SRE) 29 miles NW of Los Angeles, California.
+* A power prototype: Hallam Nuclear Power Facility (HNPF) 18 miles SE of Lincoln, Nebraska. 
 
 # See Also
 
