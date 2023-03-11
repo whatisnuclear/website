@@ -1,26 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-<head>
-{% include head.html %}
-</head>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    {% include head.html %}
+  </head>
 
   <body>
-
-    {% include header.html %}
-    {% include jumbotron.html %}
-
+    {% include header.html %} {% include jumbotron.html %}
 
     <div class="container">
-     
-    {{ content }}
-
-    {% include page_nav.html %}
-
-    {% include footer.html %}
-
-    </div>  <!-- end container-->
-
+      {{ content }} {% include page_nav.html %} {% include footer.html %}
+    </div>
+    <!-- end container-->
   </body>
-
 </html>
