@@ -1,29 +1,30 @@
 ---
 title: Nuclear energy slide deck for schools, etc.
 description: > 
-  This is freely-available slide deck covering nuclear energy at a high-school
-  level, intended to be used by teachers or parents or anyone who wants to talk
-  about nuclear energy.
+  This is a (slightly) customizable and freely-available slide deck covering
+  nuclear energy at a high-school level, intended to be used by teachers or
+  parents or anyone who wants to talk about nuclear energy.
 author: nick
 layout: default
-date: 2023-03-08
-image: /img/enrichment-ss.png
+date: 2023-03-10
+image: /img/slides.png
 ---
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-These slides describe our current energy context and explains how nuclear energy
-fits in. Produced by Nick Touran of <a
-href="https://whatisnuclear.com">whatisnuclear.com</a> with CC-BY-NC hoping
-they'd be used around the world.
+The [whatisnuclear slide deck]({% link slides/nuclear-overview.html %})
+describes our current energy context and explains how nuclear energy fits in. We
+are releasing them with CC-BY-NC licensing hoping they'd be used around the
+world.
 
 The slides are made with [reveal.js](https://revealjs.com), which is a web-based
-slide technology.  It is a **two dimensional** slide deck, where you go **left to
-right** for each major section and then **down** to see the details. You can use
-the arrow keys to navigate. It's organized so that you can always just do the
-first few slides of a section before pressing the right arrow key to go on to
-the next topic, so you can cull the slides as needed for your audience or time
-allotment.
+slide technology somewhat similar to Powerpoint, but you just present them from
+the browser. It is a **two dimensional** slide deck, where you go **left to
+right** for each major section and then
+**down** to see the details. You can use the arrow keys to navigate. It's
+organized so that you can always just do the first few slides of a section
+before pressing the right arrow key to go on to the next topic, so you can cull
+the slides as needed for your audience or time allotment.
 
 To navigate through all slides in order, press the **space** bar rather than the
 arrow keys. Use the **Home** and **End** buttons to go to the beginning or end of
@@ -31,6 +32,8 @@ the deck.
 
 There is a speaker view and speaker notes that describe to you the presenter what's
 going on. Press the **S** key to open speaker view in a separate window.
+
+Many images lazy-load, so you should have an internet connection to give this presentation.
 
 ## Make it your own!
 You can enter values here that will show up in the author, date, and location 
