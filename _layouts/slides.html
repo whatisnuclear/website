@@ -42,32 +42,11 @@
     <script>
       Reveal.initialize({
         mouseWheel: true,
-        plugins: [RevealChart, RevealNotes, RevealZoom],
+        plugins: [RevealNotes, RevealZoom],
         width: 960 * 1.5,
         height: 700 * 1.5,
         hash: true,
         slideNumber: "c/t",
-        chart: {
-          defaults: {
-            color: "lightgray", // color of labels
-            scale: {
-              beginAtZero: true,
-              ticks: { stepSize: 1 },
-              grid: { color: "lightgray" }, // color of grid lines
-            },
-          },
-          pie: {
-            backgroundColor: [
-              [
-                "rgba(0,0,0,.8)",
-                "rgba(220,20,20,.8)",
-                "rgba(20,220,20,.8)",
-                "rgba(220,220,20,.8)",
-                "rgba(20,20,220,.8)",
-              ],
-            ],
-          },
-        },
       });
     </script>
   </body>
