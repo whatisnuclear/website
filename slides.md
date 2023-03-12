@@ -12,10 +12,11 @@ image: /img/slides.png
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-The [whatisnuclear slide deck]({% link slides/nuclear-overview.html %})
-describes our current energy context and explains how nuclear energy fits in. We
-are releasing them with CC-BY-NC licensing hoping they'd be used around the
-world.
+The slide deck here describes our current energy context and explains how
+nuclear energy fits in. We are releasing them with CC-BY-NC licensing hoping
+they'd be used around the world.
+
+<h2 class="text-center" markdown="1">[Click here to view the slides]({% link slides/nuclear-overview.html %})</h2>
 
 The slides are made with [reveal.js](https://revealjs.com), which is a web-based
 slide technology somewhat similar to Powerpoint, but you just present them from
