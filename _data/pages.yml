@@ -36,6 +36,7 @@
     - candu
     - msr
     - twr
+    - sodium-graphite-reactors
       #- lwr
       #- gcr
       #- lmfbr
