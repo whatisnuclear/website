@@ -27,11 +27,13 @@ resources digitized, and to Scott Margheim for coordinating the digitization
 efforts.
 
 <figure>
-<iframe width="560" height="315"
+<div class="ratio ratio-16x9">
+<iframe
 src="https://www.youtube.com/embed/ey1MO_1DkL4?start=20" title="A video about
 the Hallam SGR" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe> 
+</div>
 <figcaption markdown="1">1963 Atomic Energy Commission
 video about Hallam, digitized from the National Archives thanks to by [Nebraska
 Public Power District](https://www.nppd.com/) 
@@ -51,10 +53,12 @@ The second film  contains mostly the same footage as the first, but
 in a condensed version.
 
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JHbRZiejKRI"
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/JHbRZiejKRI"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe> 
+</div>
 <figcaption markdown="1">1964 Atomic Energy Commission
 video about Hallam, digitized from the National Archives
 thanks to by [Nebraska Public Power District](https://www.nppd.com/)
@@ -65,14 +69,17 @@ Independently of whatisnuclear.com, NPPD also digitized two other Hallam videos 
 are well worth watching:
 
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gV9FjSIEKUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/gV9FjSIEKUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 <figcaption markdown="1">A film about the construction of the Sheldon station digitized by NPPD.
 </figcaption> 
 </figure>
-<figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hd7CJvZ6ZAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<figure>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/hd7CJvZ6ZAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 <figcaption markdown="1">A film about the construction of the Sheldon station digitized by NPPD. This one includes a great shot of the Hallam reactor vessel after it fell off the truck
 and rolled several hundred yards through a corn field.
 </figcaption> 

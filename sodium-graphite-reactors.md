@@ -45,7 +45,9 @@ as HALEU or HEU or Plutonium is a little hard to come by, SGRs shine. This condi
 in any country that is not aggressively reprocessing its spent nuclear fuel.
 
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ey1MO_1DkL4?start=20" title="A video about the Hallam SGR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/ey1MO_1DkL4?start=20" title="A video about the Hallam SGR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 <figcaption markdown="1">1963 Atomic Energy Commission video about Hallam,
 digitized from the National Archives thanks to by [Nebraska Public Power
 District](https://www.nppd.com/). See our [announcement of the world re-premier
