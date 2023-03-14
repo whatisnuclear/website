@@ -122,7 +122,7 @@ plant have fed steam into a shared turbine.
 * [Atomic Energy in Nebraska 2 Sheldon Station Construction](https://www.youtube.com/watch?v=hd7CJvZ6ZAg)  -- 
   related video also digitized by Nebraska Public Power District, including an amazing shot of the reactor
   vessel after it rolled off the truck into a corn field (without significant damage). 
-* [Operational Experience, Hallam](https://youtu.be/JHbRZiejKRI) -- A 1964 video
+* [Operational Experience, Hallam](https://www.youtube.com/watch?v=H1kazdkkB5o) -- A 1964 video
   summarizing the operating experience. Footage is 
   basically the same as the 1963 video posted above, but condensed. 
 

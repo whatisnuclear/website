@@ -81,8 +81,8 @@ Given the pricing, we're gonna have to crowd-fund the rest of them I guess :) In
 my opinion the most interesting and valuable next ones to get (in order) would
 be the ones about:
 
-* The Hallam sodium-graphite reactor [(NAID 88153)](https://catalog.archives.gov/id/88153) <span class="badge bg-danger">In progress!</span>
-  * Also **Operating Experience, Hallam** [(NAID 88207)](https://catalog.archives.gov/id/88207) <span class="badge bg-danger">In progress!</span>
+* The [Hallam Nuclear Power Facility (a sodium-graphite reactor)](https://www.youtube.com/watch?v=ey1MO_1DkL4) [(NAID 88153)](https://catalog.archives.gov/id/88153) <span class="badge bg-info">Got it!</span>
+  * Also [Operating Experience, Hallam](https://www.youtube.com/watch?v=H1kazdkkB5o) [(NAID 88207)](https://catalog.archives.gov/id/88207) <span class="badge bg-info">Got it!</span>
   * Unclear where to find:  **Retirement of the Hallam Nuclear Power Facility
     (1970)**, referred to as [AVN 0511 in here](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
 * Sodium Reactor Experiment [(NAID 88259)](https://catalog.archives.gov/id/88259) 19 mins
