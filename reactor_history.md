@@ -855,7 +855,8 @@ more exotic developments of the days gone by.
 Liquid metal is an excellent coolant fluid, enabling low-pressure operation, phenomenal
 heat transfer, and thrillingly little corrosion. It was used in the EBR-I fast-neutron
 reactor in 1951. Since fast-neutron reactors require far more fissile material to start
-up, a sodium-cooled, graphite-moderated reactor was envisioned as a potential candidate
+up, a [sodium-cooled, graphite-moderated reactor]({%
+link sodium-graphite-reactors.md %}) was envisioned as a potential candidate
 for producing low-cost nuclear electricity. This would allow low-pressure operation
 without all the expensive and thick pressure containment systems and backup cooling while
 also allowing the reactor to run on natural or very-slightly enriched fuel.
@@ -914,6 +915,13 @@ fast-neutron reactors. It's curious to wonder if a sodium-graphite reactor with 
 expanded knowledge-base wouldn't perform significantly better than Hallam did. Then again,
 some of the world's newfound sodium experience (e.g. Monju, SuperPhénix) has not been
 positive.
+</div>
+
+<div class="alert alert-info" markdown="1">
+<span class="badge bg-success">Video alert</span> 
+After learning more about Hallam, we got [an old video of it scanned in 4K and
+posted online]({% link _news/2023-03-13-hallam-historical-films-scanned.md %})
+with sponsorship from NPPD.
 </div>
 
 
@@ -1993,7 +2001,8 @@ RAND study!
   Reactors)
 * [Experimental testing of core component handling equipment and handling techniques for
   Hallam Nuclear Power Facility (1964)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095005693&view=1up&seq=1)
-* [Video of Hallam (silent)](http://ansnuclearcafe.org/2019/11/08/hallam-nuclear-station-on-1960s-tv/)
+* [23 minute video of Hallam](https://www.youtube.com/watch?v=ey1MO_1DkL4&t=20s)
+* [Shorter video of Hallam (silent)](http://ansnuclearcafe.org/2019/11/08/hallam-nuclear-station-on-1960s-tv/)
 * [My Research at the Knolls Atomic Power Laboratory (1946 -
   1963)](http://www.etheric.com/Fred/KAPL.pdf) — Fred LaViolette's history, including some
   very unique photos inside the S1G/D1G sphere

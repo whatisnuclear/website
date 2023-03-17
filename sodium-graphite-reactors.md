@@ -125,6 +125,7 @@ plant have fed steam into a shared turbine.
 * [Operational Experience, Hallam](https://www.youtube.com/watch?v=H1kazdkkB5o) -- A 1964 video
   summarizing the operating experience. Footage is 
   basically the same as the 1963 video posted above, but condensed. 
+* [Our reactor history page's SGR section]({% link reactor_history.md %}#the-hallam-sodium-graphite-reactor-in-nebraska)
 
 </div>
 </div>
