@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173.42mm" height="130.5mm" version="1.1" viewBox="0 0 173.42 130.5" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="a" overflow="visible" orient="auto">
+   <path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+ </defs>
+ <g transform="translate(-10.999 -7.6683)">
+  <g transform="matrix(.55673 0 0 .55673 7.1295 -32.928)">
+   <rect x="90.787" y="81.85" width="38.638" height="41.037" fill="#ffc0c0" fill-rule="evenodd" stroke="#000" stroke-width="1.7"/>
+   <text x="103.69061" y="98.273102" fill="#000000" font-family="'Bitstream Vera Sans'" style="line-height:0%" xml:space="preserve"><tspan x="103.69061" y="98.273102" font-size="10px" style="line-height:1.25">26</tspan></text>
+   <text x="104.19842" y="113.67793" fill="#0532b9" font-family="'Bitstream Vera Sans'" style="line-height:0%" xml:space="preserve"><tspan x="104.19842" y="113.67793" fill="#0532b9" font-size="10px" style="line-height:1.25">Fe</tspan></text>
+  </g>
+  <g>
+   <rect x="85.459" y="53.55" width="21.511" height="22.847" fill="#b3b3b3" fill-rule="evenodd" stroke="#000" stroke-width=".94644"/>
+   <g font-family="'Bitstream Vera Sans'" stroke-width=".26458">
+    <text x="91.336662" y="59.386013" fill="#000000" font-size="5.5673px" style="line-height:0%" xml:space="preserve"><tspan x="91.336662" y="59.386013" style="line-height:1.25">26p</tspan><tspan x="91.336662" y="66.345154" style="line-height:1.25">31n</tspan></text>
+    <text x="89.281769" y="71.537064" fill="#0532b9" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="89.281769" y="71.537064" fill="#0532b9" font-size="5.5673px" stroke-width=".26458" style="line-height:1.25">Fe-57</tspan></text>
+    <text x="83.786324" y="74.400238" fill="#000000" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="83.786324" y="74.400238" font-size="10.583px" stroke-width=".26458" style="line-height:1.25"> </tspan></text>
+   </g>
+   <rect x="134.45" y="53.55" width="21.511" height="22.847" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-width=".94644"/>
+   <text x="140.39662" y="59.386013" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="5.5673px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="140.39662" y="59.386013" style="line-height:1.25">26p</tspan><tspan x="140.39662" y="66.345154" style="line-height:1.25">32n</tspan></text>
+   <text x="138.29005" y="71.573753" fill="#0532b9" font-family="'Bitstream Vera Sans'" font-size="3.175px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="138.29005" y="71.573753" fill="#0532b9" font-size="5.5673px" stroke-width=".26458" style="line-height:1.25">Fe-59</tspan></text>
+   <rect x="36.468" y="53.55" width="21.511" height="22.847" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-width=".94644"/>
+   <text x="42.276699" y="59.386013" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="5.5673px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="42.276699" y="59.386013" style="line-height:1.25">26p</tspan><tspan x="42.276699" y="66.345154" style="line-height:1.25">29n</tspan></text>
+   <text x="40.236752" y="71.537064" fill="#0532b9" font-family="'Bitstream Vera Sans'" font-size="3.175px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="40.236752" y="71.537064" fill="#0532b9" font-size="5.5673px" stroke-width=".26458" style="line-height:1.25">Fe-55</tspan></text>
+   <rect x="11.972" y="53.55" width="21.511" height="22.847" fill="#b3b3b3" fill-rule="evenodd" stroke="#000" stroke-width=".94644"/>
+   <text x="17.746723" y="59.386013" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="5.5673px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="17.746723" y="59.386013" style="line-height:1.25">26p</tspan><tspan x="17.746723" y="66.345154" style="line-height:1.25">28n</tspan></text>
+   <text x="15.624537" y="71.537064" fill="#0532b9" font-family="'Bitstream Vera Sans'" font-size="3.175px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="15.624537" y="71.537064" fill="#0532b9" font-size="5.5673px" stroke-width=".26458" style="line-height:1.25">Fe-54</tspan></text>
+   <rect x="60.963" y="53.55" width="21.511" height="22.847" fill="#b3b3b3" fill-rule="evenodd" stroke="#000" stroke-width=".94644"/>
+   <text x="66.654457" y="59.386013" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="5.5673px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="66.654457" y="59.386013" style="line-height:1.25">26p</tspan><tspan x="66.654457" y="66.345154" style="line-height:1.25">30n </tspan></text>
+   <text x="64.694008" y="71.573753" fill="#0532b9" font-family="'Bitstream Vera Sans'" font-size="3.175px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="64.694008" y="71.573753" fill="#0532b9" font-size="5.5673px" stroke-width=".26458" style="line-height:1.25">Fe-56</tspan></text>
+   <rect x="109.95" y="53.55" width="21.511" height="22.847" fill="#b3b3b3" fill-rule="evenodd" stroke="#000" stroke-width=".94644"/>
+   <text x="115.86666" y="59.386013" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="5.5673px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="115.86666" y="59.386013" style="line-height:1.25">26p</tspan><tspan x="115.86666" y="66.345154" style="line-height:1.25">32n</tspan></text>
+   <text x="113.75941" y="71.573753" fill="#0532b9" font-family="'Bitstream Vera Sans'" font-size="3.175px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="113.75941" y="71.573753" fill="#0532b9" font-size="5.5673px" stroke-width=".26458" style="line-height:1.25">Fe-58</tspan></text>
+   <rect x="158.95" y="53.55" width="21.511" height="22.847" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-width=".94644"/>
+   <text x="164.92659" y="59.386013" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="5.5673px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="164.92659" y="59.386013" style="line-height:1.25">26p</tspan><tspan x="164.92659" y="66.345154" style="line-height:1.25">33n</tspan></text>
+   <text x="162.80443" y="71.573753" fill="#0532b9" font-family="'Bitstream Vera Sans'" font-size="3.175px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="162.80443" y="71.573753" fill="#0532b9" font-size="5.5673px" stroke-width=".26458" style="line-height:1.25">Fe-60</tspan></text>
+  </g>
+  <path d="m57.119 37.182c0.53454 10.424-46.77 6.6067-44.364 13.288" fill="none" stroke="#000" stroke-width=".20041px"/>
+  <path d="m80.027 36.834c-0.26727 18.442 95.545 2.476 95.545 13.969" fill="none" stroke="#000" stroke-width=".20041px"/>
+  <g fill="#000000" font-family="'Bitstream Vera Sans'" stroke-width=".26458">
+   <text x="17.236233" y="74.82605" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="17.236233" y="74.82605" font-size="3.175px" stroke-width=".26458" style="line-height:1.25">STABLE</tspan></text>
+   <text x="65.985725" y="74.82605" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="65.985725" y="74.82605" font-size="3.175px" stroke-width=".26458" style="line-height:1.25">STABLE</tspan></text>
+   <text x="90.360466" y="74.82605" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="90.360466" y="74.82605" font-size="3.175px" stroke-width=".26458" style="line-height:1.25">STABLE</tspan></text>
+   <text x="114.73522" y="74.82605" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="114.73522" y="74.82605" font-size="3.175px" stroke-width=".26458" style="line-height:1.25">STABLE</tspan></text>
+   <text x="40.086254" y="74.518318" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="40.086254" y="74.518318" font-size="3.175px" stroke-width=".26458" style="line-height:1.25">2.7 years</tspan></text>
+   <text x="138.75262" y="74.546227" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="138.75262" y="74.546227" font-size="3.175px" stroke-width=".26458" style="line-height:1.25">44 days</tspan></text>
+   <text x="161.40266" y="74.518318" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="161.40266" y="74.518318" font-size="3.175px" stroke-width=".26458" style="line-height:1.25">1E6 years</tspan></text>
+   <text x="86.408119" y="35.298054" font-size="4.0974px" style="line-height:0%" xml:space="preserve"><tspan x="86.408119" y="35.298054" style="line-height:1.25">Mass=55.845 is the abundance-averaged mass</tspan><tspan x="86.408119" y="40.419853" style="line-height:1.25">of the stable isotopes of Iron</tspan></text>
+   <text x="63.724998" y="33.748409" font-size="3.175px" style="line-height:0%" xml:space="preserve"><tspan x="63.724998" y="33.748409" font-size="3.175px" stroke-width=".26458" style="line-height:1.25">55.845</tspan></text>
+   <text x="85.116112" y="11.219107" font-size="4.0154px" style="line-height:0%" xml:space="preserve"><tspan x="85.116112" y="11.219107" style="line-height:1.25">All isotopes of Iron have 26 protons. Therefore, </tspan><tspan x="85.116112" y="16.238419" style="line-height:1.25">they are <tspan fill="#0000ff" stroke-width=".26458">chemically identical</tspan>. On the other hand, </tspan><tspan x="85.116112" y="21.257732" style="line-height:1.25">the nuclear properties among isotopes can be </tspan><tspan x="85.116112" y="26.277044" style="line-height:1.25"><tspan fill="#0000ff" stroke-width=".26458">very different</tspan>. </tspan></text>
+   <text x="18.309223" y="92.523117" font-size="4.5144px" style="line-height:0%" xml:space="preserve"><tspan x="18.309223" y="92.523117" style="line-height:1.25">Unstable isotopes decay in one way or another.</tspan><tspan x="18.309223" y="98.166115" style="line-height:1.25"> </tspan><tspan x="18.309223" y="103.80912" style="line-height:1.25">This one emits an electron from the nucleus (called a beta-particle), </tspan><tspan x="18.309223" y="109.45212" style="line-height:1.25">converting a neutron into a proton and becoming Cobalt-59, </tspan><tspan x="18.309223" y="115.09512" style="line-height:1.25">with 27 protons and 31 neutrons.</tspan><tspan x="18.309223" y="120.73811" style="line-height:1.25"> </tspan><tspan x="18.309223" y="126.38112" style="line-height:1.25">It does this with a half-life of 44 days. So after 44 days, half of your </tspan><tspan x="18.309223" y="132.02412" style="line-height:1.25">Iron-59 would have turned into Co-59, which is stable. </tspan><tspan x="18.309223" y="137.66711" style="line-height:1.25"> </tspan></text>
+  </g>
+  <path d="m37.418 100.36c2.94-6.6817 102.1 0.26726 109.85-6.949 4.5436-4.009-0.13628-15.533-0.13628-15.533" fill="none" marker-end="url(#a)" stroke="#000dff" stroke-width=".26458px"/>
+  <text x="18.157192" y="82.173492" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="3.175px" stroke-width=".26458" style="line-height:0%" xml:space="preserve"><tspan x="18.157192" y="82.173492" font-size="4.2599px" stroke-width=".26458" style="line-height:1.25">Each iron isotope has a different number of neutrons</tspan></text>
+ </g>
+</svg>

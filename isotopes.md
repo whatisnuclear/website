@@ -24,7 +24,7 @@ shows the periodic table of the elements. Each element listed has many (between 
 </div>
 <p>The arrow points to Iron (Fe), which has a few isotopes shown in Figure 2. </p>
 <div class="thumbnail">        
-<img class="img-fluid" src="/img/feIsotopes.png" alt="Isotopes of Iron" title="A few isotopes of Iron" />
+<img class="img-fluid" src="/img/isotopes-iron-opt.svg" alt="Isotopes of Iron" title="A few isotopes of Iron" />
 <p><strong>Figure 2.</strong>The isotopes of Iron</p>
 </div>
 
@@ -32,7 +32,7 @@ Make sense? Great. One particularly relevant set of isotopes acting chemically s
 neutronically different are those of the element Uranium, shown below in Figure 3. 
 
 <div class="thumbnail">        
-<img class="img-fluid" src="/img/uraniumIsotopes.png" alt="Isotopes of Uranium" title="A few isotopes of Uranium" />
+<img class="img-fluid" src="/img/isotopes-uranium-opt.svg" alt="Isotopes of Uranium" title="A few isotopes of Uranium" />
 <p><strong>Figure 3.</strong>The isotopes of Uranium</p>
 </div>
 
