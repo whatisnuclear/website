@@ -18,7 +18,7 @@ mermaid: true
 
 The term _advanced_ in nuclear is used loosely to mean "reactors that are better
 than ones you're worried about". Due to the fact that a huge number of somewhat
-exotic reactor types were build and tested in the 1950s and 1960s, the term is
+exotic reactor types were built and tested in the 1950s and 1960s, the term is
 somewhat misleading and complex.  Depending on who you talk to, advanced
 reactors can mean a number of quite different things:
 
@@ -251,7 +251,8 @@ types of reactors. Which ones are *advanced* and which ones are not is pretty su
 
 {% include_relative _reactor-types-mermaid.html %}
 
-Special thanks to Brett Rampal and Adam Stein for discussing this [with "us" here](https://twitter.com/whatisnuclear/status/1646927354370068481).
+Special thanks to Brett Rampal and Adam Stein for discussing this [with "us"
+here](https://twitter.com/whatisnuclear/status/1646927354370068481).
 </div>
 </div>
 
