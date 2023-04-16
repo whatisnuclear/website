@@ -6,6 +6,8 @@ description: Nuclear reactors are machines that convert energy stored in atoms i
 author: nick
 image: /img/dccook.jpg
 byline: true
+mermaid: true
+
 ---
 <div class="row">
 <div class="col-md-12" markdown="1">
@@ -420,6 +422,66 @@ Nuclear Thermal Rockets
 3. The Alfa-class submarines are fairly unknown, but had sufficient Be to consider them moderated reactors, not fast.
 4. Constructed but never fueled or operated
 
+Another view of the options is shown below:
+
+<pre class="mermaid">
+graph TD
+
+    TRL([Choose\ntechnology\nreadiness\nlevel]) --> High --> Construction
+    TRL --> MedT[Medium] --> Construction
+    TRL --> Low --> Construction
+    
+    Construction([Choose\nconstruction\nstyle]) --> Modular --> Size
+    Construction --> Stick --> Size
+
+    Size([Choose\nsize]) --> Micro --> Moderator
+    Size --> Small -->Moderator
+    Size --> Medium -->Moderator
+    Size --> Large --> Moderator
+    Size --> Gargantuan --> Moderator
+
+    Moderator([Choose\nmoderator])  --> MWater[Water] --> FFM
+    Moderator --> MHW[Heavy Water] --> FFM
+    Moderator --> None --> FFM
+    Moderator --> Graphite --> FFM
+    Moderator --> Beryllium --> FFM
+    Moderator --> MOrganic[Organic] --> FFM
+    Moderator --> Hydride --> FFM
+
+    FFM([Choose\nfuel\nform]) --> Oxide --> FC
+    FFM --> Metal --> FC
+    FFM --> Nitride --> FC
+    FFM --> Carbide --> FC
+    FFM --> MSF[Molten salt] --> FC
+    FFM --> LMF[Liquid metal] --> FC
+
+    FC([Choose\nfuel\ncycle]) --> LEU[LEU converter] --> Coolant
+    FC --> NU[Natural uranium\nconverter] --> Coolant
+    FC --> HALEU[HALEU converter] --> Coolant
+    FC --> HEU[HEU burner] --> Coolant
+    FC --> PU[Plutonium burner] --> Coolant
+    FC --> UPU[U-Pu breeder] --> Coolant
+    FC --> THU[Th-U breeder] --> Coolant
+
+    Coolant([Choose\ncoolant]) --> Gas --> CO2
+    Gas --> Nitrogen
+    Gas --> He
+    Gas --> Air
+    Coolant --> Water --> LW["Light\nwater"] --> BWR
+    LW --> PWR
+    Water --> HW["Heavy\nwater"]
+    Water --> Steam
+    Coolant --> LM[Liquid Metal] --> Na["Sodium/\nNaK"]
+    LM --> Lead["Lead/\nPbBi"]
+    LM --> Mercury
+    Coolant --> Salt["Molten\nSalt"]
+    Salt --> Fluoride
+    Salt --> Chloride
+    Coolant --> Organic
+    Coolant --> LH["Liquid\nHydrogen"]
+    Coolant --> HP["Heat\nPipe"]
+    Coolant --> OTH["Other\n(Sulfate,\nplasma,\ndust)"]
+</pre>
 
 </div>
 </div>
@@ -588,3 +650,23 @@ at just producing electricity.
 
 </div>
 </div>
+
+<script>
+var config = {
+    startOnLoad:true,
+    htmlLabels:true,
+    flowchart:{
+        curve:'basis',
+        useMaxWidth:true
+        stroke:'gray',
+        fill:'honeydew',
+        diagramPadding: 3,
+        nodeSpacing: 5,
+        rankSpacing: 5,
+    },
+    securityLevel:'loose'
+    fontSize: 20,
+};
+
+mermaid.initialize(config);
+</script>

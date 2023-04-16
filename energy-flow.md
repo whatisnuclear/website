@@ -18,7 +18,7 @@ Most items are individually clickable to give you more info (mostly Wikipedia li
 UPDATE: This [was remixed by @OperadorNuclear really
 well](https://twitter.com/OperadorNuclear/status/1403800198132994059).
 
-<div class="mermaid">
+<pre class="mermaid">
 graph TD
 
 	big["Big bang"] --> Protons[(Protons)] --> Stars[("Ancient stars<br/> (nuclear fusion)")]
@@ -96,7 +96,7 @@ click big "https://en.wikipedia.org/wiki/Big_Bang"
     click lung "https://en.wikipedia.org/wiki/Respiratory_disease"
     
     click warming "https://climate.nasa.gov/evidence/"
-</div>
+</pre>
 
 You can download this as a jpg [here](/img/energy-flow.jpg).
 
