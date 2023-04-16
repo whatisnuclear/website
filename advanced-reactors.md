@@ -9,6 +9,8 @@ description: >
 author: nick
 byline: true
 date: 2023-04-16
+image: /img/reactor-type-graph.png
+mermaid: true
 ---
 
 <div class="row">
@@ -244,5 +246,31 @@ improvements such as
 
 <p class="caption">Naming of reactors</p>
 
+As described in the [reactors page]({% link reactors.md %}), there are literally millions of different
+types of reactors. Which ones are *advanced* and which ones are not is pretty subjective.
+
+{% include_relative _reactor-types-mermaid.html %}
+
+Special thanks to Brett Rampal and Adam Stein for discussing this [with "us" here](https://twitter.com/whatisnuclear/status/1646927354370068481).
 </div>
 </div>
+
+<script>
+var config = {
+    startOnLoad:true,
+    htmlLabels:true,
+    flowchart:{
+        curve:'basis',
+        useMaxWidth:true
+        stroke:'gray',
+        fill:'honeydew',
+        diagramPadding: 3,
+        nodeSpacing: 5,
+        rankSpacing: 5,
+    },
+    securityLevel:'loose'
+    fontSize: 20,
+};
+
+mermaid.initialize(config);
+</script>
