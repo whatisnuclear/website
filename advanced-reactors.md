@@ -65,7 +65,7 @@ Such advancements may include:
 ## *Generation-IV* vs. *Advanced* 
 
 Related to definition 2, in 2000, experts in the international nuclear power
-community came together to in the Generation-IV International Forum (GIF) to
+community came together in the Generation-IV International Forum (GIF) to
 help guide the industry's path forward. Over 100 experts looked through 130
 reactor types proposed and chose [the 6 most promising reactor
 types](https://www.gen-4.org/gif/jcms/c_40465/generation-iv-systems) that they
