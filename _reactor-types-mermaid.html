@@ -8,11 +8,21 @@ graph TD
     Construction([Choose\nconstruction\nstyle]) --> Modular --> Size
     Construction --> Stick --> Size
 
-    Size([Choose\nsize]) --> Micro --> Moderator
-    Size --> Small -->Moderator
-    Size --> Medium -->Moderator
-    Size --> Large --> Moderator
-    Size --> Gargantuan --> Moderator
+    Size([Choose\nsize]) --> Micro --> Cycle
+    Size --> Small --> Cycle
+    Size --> Medium --> Cycle
+    Size --> Large --> Cycle
+    Size --> Gargantuan --> Cycle
+
+    Cycle([Choose\npower cycle]) --> Rankine --> Moderator
+    Cycle --> Brayton -->Moderator
+    Cycle --> Stirling -->Moderator
+    Cycle --> Piston --> Moderator
+    Cycle --> Chemical --> Moderator
+    Cycle --> Thermionic --> Moderator
+    Cycle --> Ion[Ion capture] --> Moderator
+    Cycle --> Inturbine[In-\nturbine\ncombustion] --> Moderator
+    Cycle --> Other --> Moderator
 
     Moderator([Choose\nmoderator])  --> MWater[Water] --> FFM
     Moderator --> MHW[Heavy Water] --> FFM
@@ -26,6 +36,7 @@ graph TD
     FFM --> Metal --> FC
     FFM --> Nitride --> FC
     FFM --> Carbide --> FC
+    FFM --> TRISO --> FC
     FFM --> MSF[Molten salt] --> FC
     FFM --> LMF[Liquid metal] --> FC
 
@@ -43,8 +54,8 @@ graph TD
     Gas --> Air
     Coolant --> Water --> LW["Light\nwater"] --> BWR
     LW --> PWR
+    LW --> Steam
     Water --> HW["Heavy\nwater"]
-    Water --> Steam
     Coolant --> LM[Liquid Metal] --> Na["Sodium/\nNaK"]
     LM --> Lead["Lead/\nPbBi"]
     LM --> Mercury
@@ -52,6 +63,7 @@ graph TD
     Salt --> Fluoride
     Salt --> Chloride
     Coolant --> Organic
+    Coolant --> Sulfur
     Coolant --> LH["Liquid\nHydrogen"]
     Coolant --> HP["Heat\nPipe"]
     Coolant --> OTH["Other\n(Sulfate,\nplasma,\ndust)"]
