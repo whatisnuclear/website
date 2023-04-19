@@ -23,7 +23,7 @@ reactor_history.md %}), the term is somewhat misleading and complex.  Depending
 on who you talk to, advanced reactors can mean a number of quite different
 things:
 
-## Definition 1: Reactors that incorporated hard-learned lessons from the past into the design
+# Definition 1: Reactors that incorporated hard-learned lessons from the past into the design
 
 These advanced reactors have incorporated real-world, experience-informed lessons learned from
 previous versions of any given reactor make into newer, better, more optimized models. They
@@ -34,7 +34,7 @@ and are sitting around ready for people to purchase them. Examples:
 - Westinghouse's Advanced Passive 1000 (AP1000)
 - KEPCO's Advanced Power Reactor 1400 (APR-1400)
 
-## Definition 2: Reactors that, once built, could theoretically have extended capabilities beyond modern LWRs
+# Definition 2: Reactors that, once built, could theoretically have extended capabilities beyond modern LWRs
 
 These advanced reactors have characteristics designed to enhance the performance beyond the
 (already stellar) capabilities of the workhorse reactor fleet of light-water reactors (LWRs).
@@ -62,7 +62,7 @@ Such advancements may include:
     (e.g. microreactors like the Army's [ML-1](https://en.wikipedia.org/wiki/ML-1))
 
 
-## *Generation-IV* vs. *Advanced* 
+# *Generation-IV* vs. *Advanced* 
 
 Related to definition 2, in 2000, experts in the international nuclear power
 community came together in the Generation-IV International Forum (GIF) to
@@ -246,6 +246,8 @@ improvements such as
 </table>
 
 <p class="caption">Naming of reactors</p>
+
+# Chart of reactor design choices
 
 As described in the [reactors page]({% link reactors.md %}), there are literally millions of different
 types of reactors. Which ones are *advanced* and which ones are not is pretty subjective.
