@@ -4,13 +4,10 @@ title: Nuclear energy factlets and calculations
 description: >
   A collection of nuclear-energy related calculations with references.
 author: nick
-#image: /img/reactor.png
+image: /img/equations-wow.png
 date: 2023-04-29
-byline: true
+byline: false
 permalink: /calcs/
-# hmm maybe I don't want these to be independent pages with menus and stuff
-# would be nice to just have them have the results and then a collapsed
-# section for details
 # this should replace the factoids page. 
 ---
 <div class="row">
@@ -30,6 +27,7 @@ Here are a number of interesting factlets about nuclear energy, including detail
 {% endfor %}
 </ul>
 
+Have a good idea for a new factlet? [Contact us!]({% link contact.md %})
 
 </div>
 </div>
