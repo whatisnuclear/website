@@ -64,19 +64,18 @@
     - energy-flow
     - risk
     - links
+    - calcs/
 
 - title: Clarifications
   pages:
     - nuclear-sustainability
     - nuclear-lifecycle-co2
     - thorium-myths
-    - how-much-waste
     - sodium-vs-salt
     - greenpeace-radiocarbon-wrong
     - fukushima-fish
     - one-hundred-percent-renewables
     - defending-pandoras-promise
-    
 
 - title: Fun
   pages:

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: calc
 title: How much nuclear waste is there?
 category: physics
 description: >
@@ -9,6 +9,13 @@ author: nick
 image: "/img/all-waste-fps_sm.jpg"
 date: 2023-02-19
 byline: true
+factlets: 
+    - All the spent nuclear fuel in the USA would fit on a football field 
+      in fully-shielded dry casks stacked 135 meters (148 yards) high.
+    - All the spent nuclear fuel in the USA would fit on a football field 
+      stacked as pellets 3 meter (3.3 yards) high
+    - All the fission products in spent nuclear fuel in the USA would fit on a
+      football field stacked 15 cm (5.9 inches) high
 ---
 <div class="row">
 <div class="col-lg-8" markdown="1">

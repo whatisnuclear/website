@@ -411,7 +411,7 @@ How much nuclear waste does nuclear energy create?
 </h2>
 
 We have [depictions of nuclear waste stacked up on a football field here]({% link
-how-much-waste.md %}).
+_calcs/how-much-waste.md %}).
 
 If all the electricity use of the USA was distributed evenly among its population, and all of it came 
 from nuclear power, then the amount of nuclear waste each person would generate per year would be 

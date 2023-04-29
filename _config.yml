@@ -24,6 +24,10 @@ collections:
     output: true
     directory: safetyminutes
     permalink: /safety-minutes/:title.html
+  calcs:
+    output: true
+    directory: calcs
+    permalink: /calcs/:title.html
 
 kramdown:
   toc_levels: "1,2,3"
