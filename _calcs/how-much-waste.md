@@ -45,11 +45,11 @@ yards).
 This would look like so:
 
 <figure>
-<a href="img/all-us-waste-in-casks.jpg">
+<a href="/img/all-us-waste-in-casks.jpg">
 <img class="img-fluid w-75" src="/img/all-us-waste-in-casks.jpg" 
 {% imagesize /img/all-us-waste-in-casks.jpg:props %}  
 alt="A depiction of all the US nuclear waste stacked up on a football field in dry casks."/></a>
-<a href="img/all-waste-cask-closeup.jpg">
+<a href="/img/all-waste-cask-closeup.jpg">
 <img class="img-fluid w-75" src="/img/all-waste-cask-closeup_sm.jpg" 
 {% imagesize /img/all-waste-cask-closeup_sm.jpg:props %}  
 alt="A closerup view of the nuclear waste casks stacked on a football field"/></a>
@@ -83,7 +83,7 @@ a **stack of spent fuel pellets 3.0 meters tall** (3.3 yards/9.84 feet/118 inche
 This would look roughly like this:
 
 <figure>
-<a href="img/all-waste-pellets.jpg">
+<a href="/img/all-waste-pellets.jpg">
 <img class="img-fluid w-75" src="/img/all-waste-pellets_sm.jpg" 
 {% imagesize /img/all-waste-pellets_sm.jpg:props %}  
 alt="A depiction of all the US nuclear waste stacked up on a football field in UO₂ pellets."/></a>
@@ -107,7 +107,7 @@ then would be just 15 cm high** (5.9 inches).
 
 This would look roughly like this:
 
-<figure> <a href="img/all-waste-fps.jpg"> <img class="img-fluid w-75"
+<figure> <a href="/img/all-waste-fps.jpg"> <img class="img-fluid w-75"
 src="/img/all-waste-fps_sm.jpg" {% imagesize /img/all-waste-fps_sm.jpg:props %}
 alt="A depiction of all the actual fission products (true waste) in US used
 nuclear fuel stacked up on a football field."/></a> <figcaption markdown="1"
