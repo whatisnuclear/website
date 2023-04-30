@@ -4,6 +4,7 @@ title: Computing the energy density of nuclear fuel
 category: concepts
 description: How to compute energy density of nuclear fuel
 author: nick
+date: 2020-10-30
 mathjax: true
 byline: true
 ---
@@ -74,40 +75,12 @@ more appropriate.
 
 ## Comparison with other fuels
 
-A single fuel pellet may weigh [about 10
-grams](https://www.cameco.com/uranium_101/fuel-processing/fuel-manufacturing/). This would
-have 8.8 grams of heavy metal in it (the rest is oxygen), so it contains 35,000 MJ in a
-typical reactor and at least 700,000 MJ in a breeder reactor. Thus we can compare its
-content to other fuels. 
+A single pellet of fuel contains as much energy as the following:
 
-{% comment %}
-    units "46 MW*d/kg * 10 grams * 238/(238+32)" "MJ"
-    units "46 MW*d/kg * 10 grams * 238/(238+32)/(30 MJ/kg)" "ton"
-    units "46 MW*d/kg * 10 grams * 238/(238+32)/(43 MJ/kg)" "ton"
+{% include_relative _calcs/_energy-equiv-table.md %}
 
-    crude oil volumetric energy density 37 MJ/L
-    units "46 MW*d/kg * 10 grams * 238/(238+32)/(37 MJ/L)" "gallon"
-
-    NG STP 0.0364 MJ/L
-    units "46 MW*d/kg * 10 grams * 238/(238+32)/(0.0364 MJ/L)" "ft^3"
-{% endcomment %}
-
-{:.table .table-striped}
-| Material | Energy Density<br/> (MJ/kg)| Equivalent to<br/> fuel pellet in LWR | Equivalent to fuel<br/> pellet in breeder|
-|-----|-----|-----|-----|
-| Coal | 30  | 1.3 tons | 22 tons |
-| Oil |  42 | 250 gallons  | 4350 gallons |
-| Natural Gas |  53.5  | 34,000 cubic ft | 590,000 cubic ft
-| Lithium | 43 | 0.9 tons | 16 tons |
-
-
-Note: The characteristics of the power generation system affect exactly how much usable
-energy is extracted. For instance, if a power plant makes heat to be converted to
-electricity, the thermal efficiency ($$\epsilon_{th}$$) determines how much of the heat
-gets converted to electricity. These values vary from around 35-45% for coal plants and
-advanced nuclear plants to 33% for typical nuclear plants, to above 60% for combined cycle
-natural gas plants. Thus, from a electricity point of view, the values above would be
-20-50% less.
+Details of the calculation are found in the [pellet comparison calculation]({%
+link _calcs/energy-equivalents-of-one-fuel-pellet.md %}).
 
 ## Other Complications
 
