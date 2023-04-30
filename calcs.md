@@ -15,17 +15,40 @@ permalink: /calcs/
 
 Here are a number of interesting factlets about nuclear energy, including details of the calculations.
 
-<ul class="dense">
+</div>
+</div>
+
+{% capture imgs  %}
+{%- for calc in site.calcs -%}
+{{ calc.image }},
+{%-endfor-%}
+{% endcapture%}
+
+{% assign imgs = imgs|split:","|uniq |compact %}
+
+
+<div class="dense">
+
+<div class="row">
+<div class="col-lg-8" markdown="1">
 {% for calc in site.calcs %}
-<li markdown="1">
-**[{{ calc.title}}]({{calc.url}})**
+**[{{ calc.title }}]({{ calc.url }})**
 <ul>
 {% for factlet in calc.factlets %}
 <li>{{ factlet }}</li>
 {% endfor %}
-</ul></li>
-{% endfor %}
 </ul>
+{% endfor %}
+</div>
+
+<div class="col-lg-4" markdown="1">
+{% for img in imgs %}
+<p>
+<img class="img-fluid rounded p-1" src="{{ img }}"/>
+</p>
+{% endfor %}
+</div>
+
 
 Have a good idea for a new factlet? [Contact us!]({% link contact.md %})
 
