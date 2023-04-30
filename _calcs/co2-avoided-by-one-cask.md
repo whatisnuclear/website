@@ -26,7 +26,7 @@ alt="A nuclear dry casks with text explaining that it represents 2 million tonne
 In 2017, there were 3482 PWR assemblies discharged in the USA, initially
 containing 1526.5 tonnes of uranium, and that on average the assemblies were
 burned to 46.2 MWd/kgHM [[EIA](https://www.eia.gov/nuclear/spent_fuel/)]. HM
-mean heavy metal, and refers to the mass of initial uranium of the fresh
+means heavy metal, and refers to the mass of initial uranium of the fresh
 assembly.  This means that a single average 2017 PWR assembly gave out 21.5
 GW-days of (thermal) energy.
 
