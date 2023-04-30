@@ -7,7 +7,7 @@ author: nick
 updated: 2023-04-29
 date: 2008-09-08
 byline: true
-image: /img/sodacans.png
+image: /img/sodacans-wide.png
 factlets: 
     - If you got 100% of your electricity from today's nuclear power plants for
       your entire lifetime, you'd be responsible for 8.7 floz of nuclear waste;
@@ -19,8 +19,10 @@ mathjax: true
 ---
 
 
+<div class="row">
+<div class="col-lg-8" markdown="1">
 
-This explains the amount of nuclear waste each person
+This explains the amount of [nuclear waste/spent fuel]({% link waste.md %}) each person
 in the USA would generate if all electricity came from nuclear power. First, we
 need to know how much nuclear waste is generated for each bit of electricity
 created from nuclear power. To do this, we check the EIA for yearly waste
@@ -111,12 +113,17 @@ Calculations:
     units -1 --verbose --digits 2 "76.4 years * (1.2e4 kWh/year)/(800 MW*day/kg*0.39)/(5 grams/cm^3)" "floz"
 	76.4 years * (1.2e4 kWh/year)/(800 MW*day/kg*0.39)/(5 grams/cm^3) = 0.83 floz
 
+*[The 2008 version of this calc is here](/assets/waste_per_person.pdf) for posterity*.
 
+</div>
+<div class="col-lg-4" markdown="1">
 <figure>
 <a href="/img/sodacans.png">
-<img class="img-fluid w-25" src="/img/sodacans.png" 
+<img class="img-fluid w-100" src="/img/sodacans.png" 
 {% imagesize /img/sodacans.png:props %}  
 alt="A soda can of nuclear waste"/></a>
 <figcaption markdown="1" class="figure-caption">Each person would make 1 soda can of waste per lifetime.
 </figcaption>
 </figure>
+</div>
+</div>

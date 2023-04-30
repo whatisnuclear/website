@@ -415,8 +415,8 @@ _calcs/how-much-waste.md %}).
 
 If all the electricity use of the USA was distributed evenly among its population, and all of it came 
 from nuclear power, then the amount of nuclear waste each person would generate per year would be 
-**39.5 grams**. That's the weight of seven U. S. quarters of waste, per year! [A detailed description 
-of this calculation is here](/assets/waste_per_person.pdf). If we got all our electricity 
+**34 grams**. That's the weight of seven U. S. quarters of waste, per year! [A detailed description 
+of this calculation is here]({% link _calcs/how-much-nuclear-waste-per-capita.md %}). If we got all our electricity 
 from coal and natural gas, expect to have over 10,000 kilograms of CO<sub>2</sub>/yr attributed to 
 each person, not to mention other poisonous emissions directly to the biosphere 
 (based on EIA [emissions
