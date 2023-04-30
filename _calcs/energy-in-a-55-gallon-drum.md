@@ -54,7 +54,7 @@ more energy would have been extracted per volume.
 
 </div>
 
-<div class="col-lg-4" markdown="1">
+<div class="col-lg-4">
 
 <a href="/img/one-drum-text.jpg">
 <img class="img-fluid rounded" src="/img/one-drum-text.jpg" 
@@ -67,8 +67,9 @@ alt="A barrel in front of 60,000 houses"/></a>
 title="Barrel of waste video" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
-<figcaption markdown="1" class="figure-caption">A video version of this with slightly higher numbers (it assumes a brand new AP1000 reactor with higher burnup fuel rather than average discharge fuel).
-</figcaption>
+<figcaption markdown="1" class="figure-caption">A video version of this with
+slightly higher numbers (it assumes a brand new AP1000 reactor with higher
+burnup fuel rather than average discharge fuel).</figcaption>
 </figure>
 
 </div>
