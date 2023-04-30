@@ -67,7 +67,7 @@ alt="A barrel in front of 60,000 houses"/></a>
 title="Barrel of waste video" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
-<figcaption markdown="1" class="figure-caption">A video version of this with
+<figcaption class="figure-caption">A video version of this with
 slightly higher numbers (it assumes a brand new AP1000 reactor with higher
 burnup fuel rather than average discharge fuel).</figcaption>
 </figure>
