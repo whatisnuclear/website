@@ -2,7 +2,7 @@
 layout: calc
 title: How much CO₂ is avoided by each individual cask of nuclear waste?
 author: nick
-#image: /img/reactor.png
+image: /img/dry-cask-co2-meme.jpg
 date: 2021-12-21
 byline: true
 factlets: 
