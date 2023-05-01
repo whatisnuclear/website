@@ -43,6 +43,10 @@ Here are a number of interesting factlets about nuclear energy, including detail
 
 Have a good idea for a new factlet? [Contact us!]({% link contact.md %})
 
+Many/most of the calculations include command line inputs/outputs for the
+[incredible GNU Units](https://www.gnu.org/software/units/) program.  It handles
+unit conversions automatically, which simplifies things greatly.
+
 </div>
 
 <div class="col-lg-4" markdown="1">

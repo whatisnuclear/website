@@ -88,7 +88,10 @@ be the ones about:
 * Sodium Reactor Experiment [(NAID 88259)](https://catalog.archives.gov/id/88259) 19 mins
   * Sodium Reactor Experiment Fabrication [(NAID 88420)](https://catalog.archives.gov/id/88420) 20 mins
 * REMOTE REPAIR AND MODIFICATION OF THE HRE-2 CORE VESSEL ([NAID 88244](https://catalog.archives.gov/id/88244))
-* The NS Savannah nuclear-propelled ship (NAIDs [88199](https://catalog.archives.gov/id/88199) and [88200](https://catalog.archives.gov/id/88200))
+* The NS Savannah nuclear-propelled ship (28.5 min documentary from 1964) (NAIDs
+  [88199](https://catalog.archives.gov/id/88199) and
+  [88200](https://catalog.archives.gov/id/88200))
+  * A shorter 1960 film called Under Way (NAID [61214](https://catalog.archives.gov/id/61214))
 * Organic Moderated Reactor Experiment (OMRE) ([NAID 88405](https://catalog.archives.gov/id/88405))
 
 Some of them already have scans, like the others listed at the top, and:
