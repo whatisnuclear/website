@@ -1,0 +1,139 @@
+# This is a dataset of inputs. If you fill this in for any reactor, you can 
+# derive/compute many more interesting metrics for comparison, such as
+# specific power density, natural U required per kWh, 
+# SWUs/yr/kWh, and all sorts of good stuff.
+- name: Basics
+  vals:
+    - name: Make
+      description: Organization that designed the plant
+      examples: KEPCO, EDF, Westinghouse, GEH
+    - name: Model
+      description: Trade name of the reactor type
+      examples: APR-1400, AP1000, ABWR, BWR-4
+    - name: Plant
+      description: Individual plant name (if applicable), N/A if just talking about a design
+      examples: Diablo Canyon
+    - name: Unit
+      description: Individual unit name in a given plant (if applicable), N/A if just talking about a design
+      examples: Unit 2
+    - name: Rated thermal power
+      units: MW (thermal)
+      description: Peak thermal power of the core
+      why: To know how much heat it can make, roughly correlated with size
+    - name: Rated electric power
+      units: MW (electric)
+      description: Peak electric power of the power conversion cycle (if any)
+      why: To know how much electricity it can make, important for end use
+    - name: Utilized heat rate
+      units: BTU/hour (thermal)
+      description: How much thermal power is utilized for a productive process (e.g. industrial heat, desalination, hydrogen)
+      why: To know how much of the total power is being actually used rather than wasted to ambient
+    - name: Date announced
+      examples: "1962-05-12"
+      description: When the design/reactor was first announced
+      why: To know what era it's from, to make timelines
+    - name: Date licensed
+      examples: "1962-05-12"
+      description: The date that license to operate was first granted (blank if none)
+      why: To know if and when it has regulatory certification
+    - name: Date operational
+      examples: "1966-05-13"
+      description: The date that the first of these first entered production
+      why: To know if and when it started operating
+    - name: Availability factor
+      description: Fraction of the time that the plant is not in an outage (e.g. at any power). Not to be confused with capacity factor.
+      units: percent
+      examples: 93%
+      why: To know how long outages are
+    - name: Average Power Fraction
+      description: Average fraction of total rated power that is generated when operational.
+      units: percent
+      examples: 96%
+      why: To know how much load following is occurring, and to compute total capacity factor
+
+- name: Core
+  vals:
+    - name: Fuel form
+      description: What the fuel is made of 
+      examples: UO2, carbide, molten salt, metal
+      why: Basic
+    - name: Moderator
+      description: What moderator (if any) is used in the core?
+      examples: Water, heavy water, graphite, beryllium
+      why: Basic
+    - name: Average reload fissile fraction
+      description: Average fissile fraction of reload fuel in equilibrium (enrichment)
+      units: Mass percent 
+      examples: 3.2%
+      why: Important factor in fuel cycle practicality, sustainability, and economics
+    - name: Average initial fissile fraction
+      description: Average fissile fraction of initial core (enrichment)
+      units: Mass percent 
+      examples: 4.5%
+      why: Important factor in fuel cycle practicality, sustainability, and economics
+    - name: Initial heavy metal mass
+      description: Total heavy metal mass loaded into reactor at startup
+      units: metric tonnes of heavy metal (e.g. of uranium)
+      examples: 20 MT
+      why: Combined with fissile fraction, determines cost and resource needs of a new unit
+    - name: Average reload HM mass
+      description: Rate at which heavy metal mass is loaded into the core. 
+      units: metric tonnes of heavy metal per full-power year
+      examples: 3 MT
+      why: Sustainability and economics assessments
+    - name: Initial fuel source
+      description: Where the initial fuel is coming from in the fuel cycle
+      examples: Mined, recycled, downblended
+      why: To understand the fuel cycle
+    - name: Reload fuel source
+      description: Where the reload fuel is coming from in the fuel cycle
+      examples: Mined, recycled, downblended
+      why: To understand the fuel cycle
+    - name: Average core height
+      description: Average height of the core
+      units: m
+      examples: 4.2 m
+      why: To know the size
+    - name: Average core radius
+      description: Average radius of the core
+      units: m
+      examples: 4.2 m
+      why: To know the size
+    - name: Cycle length
+      description: Average time between startup and shutdown (e.g. for maintenance and/or refueling)
+      units: months
+      examples: 18 months
+      why: Needed for economics comparisons and operational assessments
+
+- name: Plant details
+  vals:
+    - name: Primary coolant
+      description: What material transfers heat between the splitting atoms and the first heat exchanger/steam generator?
+      why: Basic
+      examples: Water (PWR and BWR), sodium metal, helium, enriched chloride salt
+    - name: Secondary coolant
+      description: What material transfers heat between the first heat exchanger and the second heat exchanger/steam generator (if applicable)?
+      why: Basic
+      examples: Water (PWR), sodium metal, fluoride salt
+    - name: Tertiary coolant
+      description: What material transfers heat between the second and third heat exchanger/steam generator (if applicable)?
+      why: Basic
+      examples: Water, nitrate salt
+    - name: Quaternary coolant
+      description: What material transfers heat between the third and fourth heat exchanger/steam generator (if applicable)?
+      why: Basic
+      examples: Water
+    - name: Primary coolant pressure
+      description: The average pressure of the primary coolant.
+      units: kPa
+      examples: 16000 kPa
+      why: To understand the containment/cooling needs after depressurization
+    - name: Power cycle
+      description: What kind of power conversion system is in place?
+      examples: Steam Rankine, Gas Brayton, Stirling, thermoelectric, endothermic chemical reaction
+      why: To know overall capabilities
+    - name: Average coolant temperature at plant output
+      description: Average coolant temperature at inlet to turbine (or other process)
+      examples: 500 °C
+      units: °C
+      why: To know which end uses of the heat are available, and to know material choices

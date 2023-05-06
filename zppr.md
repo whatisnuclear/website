@@ -76,10 +76,12 @@ It premiered on YouTube on December 19th, 2022 at noon PT.
 
 Along the way, my colleague Michael Castillo found [a booklet listing dozens
 more AEC
-videos](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater).
-Given the pricing, we're gonna have to crowd-fund the rest of them I guess :) In
-my opinion the most interesting and valuable next ones to get (in order) would
-be the ones about:
+videos](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater)
+(and there's related/newer one
+[here](https://babel.hathitrust.org/cgi/pt?id=coo.31924004286914)).  Given the
+pricing, we're gonna have to crowd-fund the rest of them I guess :) In my
+opinion the most interesting and valuable next ones to get (in order) would be
+the ones about:
 
 * The [Hallam Nuclear Power Facility (a sodium-graphite reactor)](https://www.youtube.com/watch?v=ey1MO_1DkL4) [(NAID 88153)](https://catalog.archives.gov/id/88153) <span class="badge bg-info">Got it!</span>
   * Also [Operating Experience, Hallam](https://www.youtube.com/watch?v=H1kazdkkB5o) [(NAID 88207)](https://catalog.archives.gov/id/88207) <span class="badge bg-info">Got it!</span>

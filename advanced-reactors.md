@@ -163,90 +163,6 @@ improvements such as
 <div class="row">
 <div class="col-12" markdown="1">
 
-# Some potentially-useful language going forward
-
-<table class="table table-striped">
-<tr>
-<th>Term</th>
-<th>Definition</th>
-<th>Purpose</th>
-<th>Examples in nuclear</th>
-<th>Automotive analog</th>
-</tr>
-
-<tr>
-<th>Timeframe</th>
-<td>The timeframe in which the reactor was designed/built</td>
-<td>Differentiation, and to know what safety-systems are included</td>
-<td markdown="1">
-* Gen I 
-* Mark I
-* Gen IV
-* 1960's-era
-</td>
-<td markdown="1">
-* 1967 
-* 2021
-* 1931
-</td>
-</tr>
-
-<tr>
-<th>Make</th>
-<td>The company who manufactures the reactor</td>
-<td>To know where it came from</td>
-<td markdown="1">
-* GEH 
-* KEPCO
-* Westinghouse
-* EDF
-</td>
-<td markdown="1">
-* Ford 
-* Buick
-* Tesla
-</td>
-</tr>
-<tr>
-
-<th>Type</th>
-<td>The specific technology choices of a reactor, including coolant, moderator, and fuel</td>
-<td>To know what it can do</td>
-<td markdown="1">
-* Boiling Water Reactor (BWR)
-* Sodium-cooled fast Reactor (SFR)
-</td>
-<td markdown="1">
-* Electric car
-* Gas SUV
-* Semi-truck
-* Tricycle
-</td>
-</tr>
-
-<tr>
-<th>Model</th>
-<td>The vendor-chosen marketing name of the reactor</td>
-<td>To know which one it is</td>
-<td markdown="1">
-* BWR-2
-* ABWR
-* AP1000
-* APR-1400
-* Hualong One
-</td>
-<td markdown="1">
-* F-150
-* Model S
-* Beetle
-* Impreza
-</td>
-</tr>
-
-</table>
-
-<p class="caption">Naming of reactors</p>
-
 # Chart of reactor design choices
 
 As described in the [reactors page]({% link reactors.md %}), there are literally millions of different
@@ -254,10 +170,50 @@ types of reactors. Which ones are *advanced* and which ones are not is pretty su
 
 {% include_relative _reactor-types-mermaid.html %}
 
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12" markdown="1">
+
+# Useful reactor metric inputs
+
+Given these, many useful quantities can be computed for comparison, such as
+mined uranium and SWUs needed per kWh.
+
+<table class="table table-striped">
+<tr>
+<th>Metric</th>
+<th>Definition</th>
+<th>Purpose</th>
+<th>Units</th>
+<th>Examples</th>
+</tr>
+{% for section in site.data.metrics %}
+<tr>
+<td colspan="5" class="text-center fs-3 text-decoration-underline">
+{{ section.name }}
+</td>
+</tr>
+{% for metric in section.vals %}
+<tr>
+<td>{{ metric.name }}</td>
+<td>{{ metric.description }}</td>
+<td>{{ metric.why }}</td>
+<td>{{ metric.units }}</td>
+<td>{{ metric.examples }}</td>
+</tr>
+
+{% endfor %}
+{% endfor %}
+</table>
+
 Special thanks to Brett Rampal and Adam Stein for discussing this [with "us"
 here](https://twitter.com/whatisnuclear/status/1646927354370068481).
+
 </div>
 </div>
+
 
 <script>
 var config = {
