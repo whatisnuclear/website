@@ -4,6 +4,7 @@ title: Old Nuclear Energy Videos
 description: A directory of old nuclear energy videos including digitization status and efforts
 image: /img/zppr-thumb.jpg
 byline: true
+author: nick
 ---
 <div class="row">
 <div class="col-md-12" markdown="1">

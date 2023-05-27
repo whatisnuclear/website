@@ -14,7 +14,7 @@ mermaid: true
 ---
 
 <div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-md-10" markdown="1">
 
 The term _advanced_ in nuclear is used loosely to mean "reactors that are better
 than ones you're worried about". Due to the fact that a [huge number of somewhat
@@ -88,13 +88,10 @@ over reactor projects that were in construction or operation.
 In many senses, *advanced reactors* as used in modern discussions are basically
 identical to the *academic reactors* Rickover referred to way back in 1953. 
 
-<table class="table">
-<tr>
-<th>Academic reactor characteristics</th>
-<th>Practical reactor characteristics</th>
-</tr>
-<tr>
-<td markdown="1">
+<hr/>
+<div class="row">
+<div class="col-lg-6" markdown="1">
+<p class="text-decoration-underline fs-4">Academic reactor</p>
 
 1. It is simple.
 2. It is small.
@@ -105,22 +102,22 @@ identical to the *academic reactors* Rickover referred to way back in 1953.
 7. Very little development is required. It will use mostly "off-the-shelf" components.
 8. The reactor is in the study phase. It is not being built now.
 
-</td>
-<td markdown="1">
+</div>
+<div class="col-lg-6" markdown="1">
+<p class="text-decoration-underline fs-4">Practical reactor</p>
 
 1. It is being built now.
 2. It is behind schedule.
-3. It is requiring an immense amount of development an apparently trivial items.
+3. It is requiring an immense amount of development on apparently trivial items.
    Corrosion, in particular, is a problem.
 4. It is very expensive.
 5. It takes a long time to build because of the engineering development problems.
 6. It is large.
 7. It is heavy.
 8. It is complicated.
-
-</td>
-</tr>
-</table>
+</div>
+</div>
+<hr/>
 
 Basically, anyone can *say* that their reactor is way better than others that
 people have tried, but there's no reason to believe them even a little until

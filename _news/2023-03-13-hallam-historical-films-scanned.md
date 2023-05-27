@@ -93,5 +93,7 @@ This digitization effort kicked off after we found out about the existence of th
 videos in a film catalog linked on [our ZPPR video page]({% link zppr.md %}).
 There are lots more like this still. 
 
+See Also:
+* [Our Old Videos page]({% link old-videos.md %}).
 
 </div></div>

@@ -7,10 +7,8 @@ description: >
     reactors and practical reactors.
 author: "Admiral Hyman Rickover*"
 image: /img/rickover-1955.jpg
-byline_extra: Published on web by N. Touran
 byline: true
 date: 1953-06-05
-updated: 2022-08-23
 ---
 <div class="row">
 <div class="col-md-8" markdown="1">
@@ -19,10 +17,6 @@ updated: 2022-08-23
 <img alt="Hyman Rickover" title="Admiral Rickover in 1955" style="border:0;width:250px" src="/img/rickover-1955.jpg"/>
 </div>
 
-*\*This is a reproduction of Rickover's famous 'paper reactor' memo. The
-original was published in The Journal of Reactor Science and Technology, Volume 3, No. 3
-(which is classified) and reproduced many times, e.g. in [Congressional
-testimony](https://babel.hathitrust.org/cgi/pt?id=uc1.a0014447122&view=1up&seq=761&skin=2021&q1=The%20Journal%20of%20Reactor%20Science%20and%20Technology)*.
 
 Important decisions relative to the future development of atomic power must frequently be
 made by people who do not necessarily have an intimate knowledge of the technical aspects
@@ -38,6 +32,8 @@ aspects of the issue are resolved into their academic and practical components. 
 this resolution, it is possible to define in a general way those characteristics which
 distinguish the one from the other.
 
+<div class="row">
+<div class="col-xxl-6" markdown="1">
 An academic reactor or reactor plant almost always has the following basic characteristics:
 
 1. It is simple.
@@ -49,20 +45,24 @@ An academic reactor or reactor plant almost always has the following basic chara
 7. Very little development is required. It will use mostly "off-the-shelf" components.
 8. The reactor is in the study phase. It is not being built now.
 
+</div>
+<div class="col-xxl-6" markdown="1">
 On the other hand, a practical reactor plant can be distinguished by the following
 characteristics:
 
 1. It is being built now.
 2. It is behind schedule.
-3. It is requiring an immense amount of development an apparently trivial items.
+3. It is requiring an immense amount of development on apparently trivial items.
    Corrosion, in particular, is a problem.
 4. It is very expensive.
 5. It takes a long time to build because of the engineering development problems.
 6. It is large.
 7. It is heavy.
 8. It is complicated.
+</div>
+</div>
 
-A common example can be given to indicate the application of the above generalities :
+A common example can be given to indicate the application of the above generalities:
 
 A fairly conventional academic power reactor might use natural or slightly enriched
 uranium rods in which the burn-up is a minimum of 10,000 mwd / ton. The fission
@@ -111,6 +111,12 @@ June 5, 1953
 
 <hr />
 ## Notes
+
+*\*This is a reproduction of Rickover's famous 'paper reactor' memo, published
+on the web by N. Touran on 2022-08-23. The original was published in The Journal of Reactor
+Science and Technology, Volume 3, No. 3 (which is classified) and reproduced
+many times, e.g. in [Congressional
+testimony](https://babel.hathitrust.org/cgi/pt?id=uc1.a0014447122&view=1up&seq=761&skin=2021&q1=The%20Journal%20of%20Reactor%20Science%20and%20Technology)*.
 
 <p id="1">1 - Interestingly, in the decades after Rickover published this memo, we now
 have reactors that get beyond 60,000 mwd/ton burnup using low-enriched uranium in high
