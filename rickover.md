@@ -32,8 +32,6 @@ aspects of the issue are resolved into their academic and practical components. 
 this resolution, it is possible to define in a general way those characteristics which
 distinguish the one from the other.
 
-<div class="row">
-<div class="col-xxl-6" markdown="1">
 An academic reactor or reactor plant almost always has the following basic characteristics:
 
 1. It is simple.
@@ -45,8 +43,6 @@ An academic reactor or reactor plant almost always has the following basic chara
 7. Very little development is required. It will use mostly "off-the-shelf" components.
 8. The reactor is in the study phase. It is not being built now.
 
-</div>
-<div class="col-xxl-6" markdown="1">
 On the other hand, a practical reactor plant can be distinguished by the following
 characteristics:
 
@@ -59,8 +55,6 @@ characteristics:
 6. It is large.
 7. It is heavy.
 8. It is complicated.
-</div>
-</div>
 
 A common example can be given to indicate the application of the above generalities:
 
