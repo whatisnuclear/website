@@ -13,19 +13,24 @@ upon dozens of nuclear energy related videos. Many of these have been digitized,
 but not all. The [list of not-yet-digitized ones](#wantlist) is shown below the list of
 already-digitized ones.  We have been working to get a few digitized and are
 always looking for people who would like to help fund more digitizations. 
+You can read more about the process of digitization and see some results at [our
+announcement of the world re-premier of a Hallam film ]({% link
+_news/2023-03-13-hallam-historical-films-scanned.md %}) and [our ZPPR video
+page]({% link zppr.md %}).
+
+The summary data comes from various catalogs, such as:
+* [Energy Video Catalog (ERDA 1975)](https://www.google.com/books/edition/Energy_Films_Catalog/8CKtsJ7XNwcC?hl=en&gbpv=1&dq=%22ATOM+AND+THE+MAN+ON+THE+MOON%22&pg=PA14&printsec=frontcover)
+* [1965 directory](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater)
 
 # Old Video Directory
 
-Summary data from various catalogs, such as:
-* [Energy Video Catalog (ERDA 1975)](https://www.google.com/books/edition/Energy_Films_Catalog/8CKtsJ7XNwcC?hl=en&gbpv=1&dq=%22ATOM+AND+THE+MAN+ON+THE+MOON%22&pg=PA14&printsec=frontcover)
-* [1965 directory](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater)
 
 <table class="table table-striped">
 <tr>
 <th>Title</th>
 <th>National Archives ID</th>
 <th>Date</th>
-<th>Length</th>
+<th>Length (mins)</th>
 <th>Color</th>
 <th>Description</th>
 <th>Notes</th>
@@ -53,8 +58,8 @@ Not in archives
 
 </td>
 <td>{{ vid.date }}</td>
-<td>{{ vid.length }} mins</td>
-<td>{{ vid.color }}</td>
+<td>{{ vid.length }}</td>
+<td>{% if vid.color %}Y{% else %}N{% endif %}</td>
 <td>{{ vid.description|truncate: 900 }}</td>
 <td>{{ vid.notes }}</td>
 <td markdown="1">
@@ -81,7 +86,7 @@ Not in archives
 <th>Title</th>
 <th>National Archives ID</th>
 <th>Date</th>
-<th>Length</th>
+<th>Length (mins)</th>
 <th>Color</th>
 <th>Description</th>
 <th>Status</th>
@@ -107,8 +112,8 @@ Not in archives
 
 </td>
 <td>{{ vid.date }}</td>
-<td>{{ vid.length }} mins</td>
-<td>{{ vid.color }}</td>
+<td>{{ vid.length }}</td>
+<td>{% if vid.color %}Y{% else %}N{% endif %}</td>
 <td>{{ vid.description|truncate: 900 }}</td>
 <td>{{ vid.status }}</td>
 <td>{{ vid.notes }}</td>
