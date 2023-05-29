@@ -8,7 +8,7 @@
         A Bright Future: How some countries have solved climate change and the rest can
         follow
       url: http://www.brightfuturebook.com/
-      date: 2019-08-09
+      date: "2019-08-09"
       free: false
       description:  >
         Book based on a <a
@@ -18,28 +18,35 @@
       title: "Seeing the Light: The case for nuclear power in the 21st century"
       url: https://scottlmontgomery.com/seeing-the-light/
       free: false
-      date: 2017-09-14
+      date: "2017-09-14"
       description:  >
         A high-level overview of the case for nuclear from an energy policy professor.
     - author: Gweneth Cravens
       title: "Power to Save the World: The Truth about Nuclear Energy"
-      date: 2010-12-01
+      date: "2010-12-01"
       free: false
       url: https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World
       description:  >
         A climate-concerned nuclear skeptic re-asks the old questions and gets new and
         surprising answers.
     - author: Rauli Partanen, Janne Korhonen
+      title: "The Dark Horse: Nuclear Power and Climate Change"
+      url: https://www.amazon.com/Dark-Horse-Nuclear-Climate-Change-ebook/dp/B0897V374D/
+      free: false
+      date: "2020"
+      description: >
+        Context about the scale of the energy transition and information about nuclear power.
+    - author: Rauli Partanen, Janne Korhonen
       title: "Climate Gamble: Is Anti-Nuclear Activism Endangering Our Future?"
       url: https://climategamble.net/
       free: false
-      date: 2017
+      date: "2017"
       description: Good book about energy choices
     - author: Richard Garwin and Georges Charpak
       title: "Megawatts and Megatons: A Turning Point in the Nuclear Age"
       url: https://en.wikipedia.org/wiki/Megawatts_and_Megatons
       free: false
-      date: Oct, 2001
+      date: 2001-10
       description: >
         Good high-level overview about nuclear technology and reactor
         development programs
@@ -47,7 +54,7 @@
       title: "How to Drive a Nuclear Reactor"
       url: https://link.springer.com/book/10.1007/978-3-030-33876-3
       free: false
-      date: 2019
+      date: "2019"
       description: >
         Shows you that Reactor Physics isn't Rocket Science Explains why Reactors are much
         safer than you might think. Enables anyone to understand how a Nuclear Reactor
@@ -56,7 +63,7 @@
       title: "Shorting the Grid: The Hidden Fragility of Our Electric Grid"
       url: https://www.goodreads.com/book/show/55716079-shorting-the-grid
       free: false
-      date: 2020
+      date: "2020"
       description: >
         A general overview of electricity generation and governance. Contains
         plenty of discussion of nuclear compared to other electricity generating
@@ -69,31 +76,31 @@
 
    - author: UNECE
      title: Carbon Neutrality in the UNECE Region - Technology Interplay under the Carbon Neutrality Concept
-     date: October, 2022
+     date: "2022-10"
      free: true
      url: https://unece.org/sustainable-energy/publications/carbon-neutrality-unece-region-technology-interplay-under-carbon
      description: A broad-stroke comparison of different energy sources in terms of lifecycle impacts across many metrics 
    - author: UNECE
      title: Technology Brief Nuclear Power (PDF)
-     date: 2021
+     date: "2021"
      free: true
      url: https://unece.org/sites/default/files/2021-08/Nuclear%20power%20brief_EN_0.pdf
      description: An incredible collection of data from the UN scientists describing nuclear energy from a climate perspective. 
    - author: MIT
      title: The Future of Nuclear Energy in a Carbon-Constrained World
-     date: 2018
+     date: "2018"
      free: true
      url: https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/
      description: A relatively modern analysis of the nuclear industry
    - author: Jessica Lovering, Suzanne Hobbs Baker
      title: Can Nuclear Power Go Local?
-     date: 2021
+     date: "2021"
      free: true
      url: https://issues.org/nuclear-power-local-democratic-progressive-lovering-hobbs-baker/
      description: A vision for nuclear technology fulfilling progressive values
    - author: Richard Rhodes
      title: Why Nuclear Power Must Be Part of the Energy Solution
-     date: 2018-07-19
+     date: "2018-07-19"
      free: true
      url: https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate
      description: >
@@ -103,6 +110,13 @@
 - category: Documentaries and videos
   description: Feature length and shorter documentaries and videos about nuclear
   items:
+    - author: Oliver Stone
+      title: Nuclear Now!
+      date: 2023
+      free: false
+      description: >
+        A feature-length documentary describing the modern case for nuclear power
+      url: https://www.nuclearnowfilm.com/
     - author: Isabelle Boemeke
       title: Nuclear power is our best hope to ditch fossil fuels (TED talk)
       date: 2022
@@ -156,6 +170,18 @@
       description: >
         A hilarious discussion of nuclear energy in the Dutch language (with english subtitles)
       url: https://www.youtube.com/watch?v=YjFWiMJdotM
+    - title: Our Friend The Atom
+      url: https://www.youtube.com/watch?v=QRzl1wHc43I
+      date: 1957
+      author: Disney
+      free: true
+      description: A video companion to the Disney-produced nuclear book by the same title
+    - title: Atomic Energy Commission Videos
+      url: "/old-videos.html"
+      date: "1975 and earlier"
+      author: Atomic Energy Commission
+      free: true
+      description: A large collection of semi-technical films about nuclear power.
 
 
 - category: Textbooks
@@ -359,7 +385,7 @@
      description: >
        How nuclear plants can and do load follow
 
-- category: Comic books and videos
+- category: Comic books 
   description: People used to make comics about nuclear power
   items:
     - title: Adventures Inside the Atom
@@ -370,12 +396,6 @@
       description:  >
         A comic describing the basic concepts of nuclear fission technology
         from the very early days.
-    - title: Our Friend The Atom
-      url: https://www.youtube.com/watch?v=QRzl1wHc43I
-      date: 1957
-      author: Disney
-      free: true
-      description: A video companion to the Disney-produced nuclear book by the same title
     - title: "The Mighty Atom: The Story of Electricity from Amber to Atoms"
       url: https://mediacommons.unl.edu/luna/servlet/detail/UNL~113~113~838~1511325:Mighty-atom,-starring-Reddy-Kilowat
       date: 1958

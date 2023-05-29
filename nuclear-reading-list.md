@@ -6,7 +6,7 @@ author: nick
 image: /img/kid_in_atom.jpg
 byline: true
 date: 2021-05-24
-updated: 2022-10-02
+updated: 2023-05-29
 ---
 <div class="row">
 <div class="col-md-12" markdown="1">
@@ -32,10 +32,11 @@ indicated with <span class="badge bg-success">Free!</span>
 <h2 id="{{category.category|slugify}}">{{ category.category }} <a href="#{{category.category|slugify}}">&#167;</a> </h2>
 
 {{ category.description }}
+{% assign sorted = category.items | sort: 'date' | reverse %}
 
 <table class="table table-striped">
 <tr><th class="col-md-2">Author</th><th class="col-md-4">Title</th><th class="col-md-6">Description</th></tr>
-{%- for item in category.items -%}
+{%- for item in sorted -%}
 <!-- tried using markdown table but no line wrap was killing me -->
 <tr>
 <td>{{ item.author }}</td>
@@ -57,10 +58,12 @@ indicated with <span class="badge bg-success">Free!</span>
 * [CANTEACH](https://canteach.candu.org/) --- An epic collection of freely available
   information about CANDU reactors
 
-# Other reading lists
+# Other lists
 
 * [Neutron Bytes Nuclear Reading List](https://neutronbytes.com/nuclear-reading-list/) ---
   a good list.
+* [Old AEC Videos]({% link old-videos.md %}) ---
+  our list of old Atomic Energy Commission videos.
 
 </div>
 </div>

@@ -76,5 +76,6 @@ Not in archives
 
 * [Our announcement of the world re-premier of a Hallam film ]({% link _news/2023-03-13-hallam-historical-films-scanned.md %}).
 * [Our ZPPR video page]({% link zppr.md %}).
+* [Our nuclear reading list]({% link nuclear-reading-list.md %}).
 </div>
 </div>
