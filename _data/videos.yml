@@ -23,7 +23,6 @@
 
 - title: ATOMS ON THE FARM
   naid: 88122
-  #nara: https://catalog.archives.gov/id/88122
   date: 1961
   length: 12
   color: true
@@ -39,10 +38,26 @@
   notes: 
   status: Not yet digitized
   links: 
+  
+- title: FULL SPEED AHEAD
+  naid: 61220 
+  date: 1958
+  length: 15
+  color: true
+  description: > 
+    A nontechnical film for intermediate through college-level audiences. It
+    depicts the initial stages in the development of the first U. S. nuclear-
+    powered merchant ship, the N.S. Savannah. Included are the industrial and
+    technical procedures in building and testing the reactor, surveying harbors,
+    and laying the keel.
+  notes: 
+  status: ONLINE
+  links: 
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=Bo14h9_DKVY
 
 - title: THE NUCLEAR SHIP SAVANNAH
   naid: 88199
-  #nara: https://catalog.archives.gov/id/88122
   date: 1964
   length: 28.5
   color: true
@@ -92,6 +107,22 @@
     - name: On YouTube
       url: https://www.youtube.com/watch?v=vpmjK9EpPWA
 
+- title: Atomic Power and the United States
+  naid: 88107
+  date: 1959
+  length: 25
+  color: false
+  description: > 
+    This is a nontechnical film for intermediate through college-level audiences.
+    It summarizes activities of both the government and private industry in the
+    program for the development of economic production of electric power with
+    atomic energy. It compares conventional and nuclear approaches, and by
+    animation and live action explains six important nuclear power projects. It
+    outlines industry's contributions and the sharing of technical know-how
+    overseas through the Atoms for Peace Program.
+  notes: 
+  status: Not digitized
+  links: 
   
 - title: ATOMIC VENTURE
   naid: 88112
@@ -102,10 +133,10 @@
     This semitechnical film, which is a sequel to the 1958 film "Dresden Nuclear
     Power Station," covers the design and development of a large dual-cycle
     boiling-water reactor the 180,000-kw Dresden Nuclear Power Station built by
-    General Electric Company (GE) for the Com- monwealth Edison Company, Chicago,
+    General Electric Company (GE) for the Commonwealth Edison Company, Chicago,
     and the Nuclear Power Group, Inc., and the history of the project from its
     beginning in 1955 to its completion in 1959. The film shows major stages of
-    development, in- cluding clearance of the site 47 miles southwest of Chicago;
+    development, including clearance of the site 47 miles southwest of Chicago;
     ground- breaking; construction of foundations, sphere, and other buildings;
     manufacture of the containment vessel and fuel; shipment and arrival of major
     components; installation of the reactor core, reactor vessel, and
@@ -119,6 +150,25 @@
     - name: On YouTube
       url: https://www.youtube.com/watch?v=WmaPc27Avvw
       notes: Digitized by miSci, Schenectady, NY
+
+- title: "BORAX: Construction and Operation of a Boiling Water Reactor"
+  naid: 88125
+  date: 1955
+  length: 14
+  color: valse
+  description: > 
+    This nontechnical film for intermediate- through college-level audiences,
+    shows the equipping of a reactor with an electrical generating system, and the
+    operating of the nuclear power plant to light and power Arco, Idaho, the U. S.
+    community first served exclusively by nuclear power, for an hour on July 17,
+    1955.
+  notes: 
+  status: ONLINE
+  links: 
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=Cdd2BJI836g
+      notes: Digitized by ANL in 240p
+
 
 - title: HALLAM NUCLEAR POWER FACILITY
   naid: 88153
@@ -377,6 +427,68 @@
   status: Not Digitized
   links: 
 
+- title: "The Magnetic Bottle"
+  naid: 88178
+  date: 1958
+  length: 10
+  color: true
+  description: > 
+    This film is a concise summary, for the informed layman, of the United
+    States Sherwood Program, for research into controlled nuclear fusion. It
+    shows various operating experimental devices, explains their principles
+    and the many complex problems involved in possible future development of
+    full-scale machines to create unlimited industrial power by controlling a
+    continuous fusion process at millions of degrees of temperature.
+  notes: 
+  status: Not Digitized
+  links: 
+
+- title: "Metals Frontier"
+  naid: 88187
+  date: 1961
+  length: 22
+  color: true
+  description: > 
+    This semitechnical documentary film, a story of teamwork in research, is
+    designed for an audience with an appreciable degree of scientific
+    sophistication, primarily seniors and graduate students in the physical
+    sciences and engineering. Highlights in the operations of the Ames
+    Laboratory, a major installation of the USAEC, are shown by illustrating
+    the steps in the development of the process for the production of yttrium
+    metal. The film also gives insight into the facilities and the pioneering
+    tradition of Ames Laboratory in the investigation of the rare earths. The
+    film is panoramic in style, showing how basic research, development, and
+    production go along together. The following steps in metal processing are
+    shown: separation of yttrium from rare earths, conversion to fluoride,
+    reduction, and arc melting. Special emphasis is given to purity and to the
+    need for careful analytical control. The film also shows how the graduate
+    student fits into the laboratory's research program.
+  notes: 
+  status: Not Digitized
+  links: 
+  
+- title: "Of Man and Matter"
+  naid: 88205
+  date: 1963
+  length: 29
+  color: true
+  description: > 
+    This film describes the design, development and operation of the alternating
+    gradient synchrotron (AGS) at Brookhaven National Laboratory, shows the
+    various major components of this 33 billion-electron-volt particle
+    accelerator, and explains how the high energy protons produced in the
+    machine are used in physical research. An actual experiment is seen, in
+    which the particle beam is guided into a bubble chamber and the resultant
+    interactions with the target nuclei are photographed. The methods adopted in
+    scanning and analyzing the photographs are also shown. By means of a brief
+    lecture, a Brookhaven physicist explains that such gigantic and complex
+    machines as the AGS are necessary in order to study the fundamental
+    particles and the forces within the atomic nucleus that are the basic
+    components of all existing matter. 
+  notes: 
+  status: Not Digitized
+  links: 
+
 - title: The Many Faces of Argonne
   naid: 88183
   date: 1963
@@ -588,3 +700,542 @@
   links: 
     - name: On YouTube in 240p
       url: https://www.youtube.com/watch?v=Eo4Ue4VwrUA
+
+- title: PROJECT ROVER
+  naid: 52214
+  date: 1963
+  length: 21.5
+  color: true
+  description: >
+    This film is a 1962 progress report on the USAEC's Project Rover, a program
+    for the development of a nuclear rocket for spacecraft propulsion. An
+    animated explanation of the principle of the nuclear rocket is given
+    demonstrating the advantages of the nuclear rocket system. A survey of the
+    work at the Los Alamos Scientific Laboratory follows, showing work done in the
+    design, fabrication and testing of a Kiwi non- flying test reactor. This
+    includes: core configuration studies in a "Honeycomb," the reactor design
+    staff at work, the test facilities, the blending of graphite and uranium for
+    fuel, and construction of the re- actor components by contractors. Testing of
+    the Kiwi at the Nuclear Rocket Development Station in Nevada is shown
+  notes: 
+  status: ONLINE 
+  links: 
+    - name: Digitized by Los Alamos
+      url: https://www.youtube.com/watch?v=866C4qKgzeg
+
+- title: HARVEST OF AN ATOMIC AGE
+  naid: 88156
+  date: 1963
+  length: 20
+  color: true
+  description: >
+    Produced with the technical assistance of the USAEC, Brookhaven National
+    Laboratory and Michigan State University, the film illustrates the progress
+    achieved by U. S. scientists in using radiation to create new strains of
+    disease- and weather- resistant food crops with higher yields. We see both the
+    research work at USAEC's Brookhaven National Laboratory and the field work
+    with new varieties of commercial crops. The specific example shown is the
+    development of the Sanilac bean by Michigan State University plant
+    geneticists. The Sanilac bean is disease- resistant and stands upright,
+    permitting machine-harvesting. The film explains simply the theories of
+    radiation-induced plant mutations, the methods, and the complexity of the
+    long-term work
+  notes: 
+  status: Not digitized 
+  links: 
+  
+- title: ROUNDUP
+  naid: 88251
+  date: 1960
+  length: 18.25
+  color: true
+  description: >
+    This film describes the use of radiation to eradicate the screwworm fly in the
+    southeastern United States, an insect pest that had caused large losses to
+    livestock owners. The film describes how the screw- worm fly deposits its eggs
+    in a cut or insect bite on the skin of a warm- blooded animal. The eggs hatch
+    to worms that feed on live flesh and then fall to the ground, where they
+    burrow into the soil and change to pupae. Ten days later the fly emerges and
+    mates, and the cycle continues. The film shows typical cases of screwworm
+    infestation. Entomologists of the Agricultural Research Service suggested
+    that since screwworm flies mate only once, if a method of sexually sterilizing
+    flies could be found, eradication was possible. Since X ray was too ex-
+    pensive, radioactive cobalt ( 60 Co) was selected to do the sterilization job.
+    The plan was tested on the tiny island of Curasao off the coast of Venezuela,
+    where sterilized male flies were released from aircraft in patterns over the
+    island. In six months the pest was eliminated. Similar operations were
+    followed in Florida and other southeastern states. A huge screwworm factory
+    was built in Florida, where 50 mil- lion flies were reared and sterilized in a
+    week, with pupae subjected to 8000 roentgens of gamma rays. Ten million
+    sterilized male flies were airdropped on infested areas. Eventually the
+    screwworm fly was brought under full control and largely eradicated.
+    (Nontechnical: suitable for all audience levels.)
+  notes: 
+  status: Not digitized 
+  links: 
+    - name: Eradication of the Screwworm (2018)
+      url: https://www.youtube.com/watch?v=AXvObw8yuzs
+
+- title: Atoms for space
+  naid: 88119
+  date: 1962
+  length: 28.5
+  color: true
+  description: >
+    This film describes the development and use of compact nuclear power sources for
+    space under the Atomic Energy Commission's Systems for Nuclear Auxiliary Power
+    (SNAP) program. The film features the first use of atomic power in the nation's
+    space effort and briefly covers the uses of SNAP devices on land and sea. By
+    means of animation and models, the two basic concepts of the SNAP program are
+    shown. In one approach the energy of decay from radioactive isotopes is used to
+    generate electricity directly, without moving parts. This method is being
+    developed for the USAEC by the Martin Company, the aerospace division of the
+    Martin Marietta Corporation. A SNAP isotopic-power generator was launched on
+    board the Navy's Transit navigation satellite in June 1961, marking the first
+    use of nuclear power in space. The other SNAP approach uses, the heat from a
+    compact nuclear-fission reactor to generate electricity by a turbogenerator
+    system or by direct conversion. The nuclear- reactor systems being developed by
+    Atomics International, a division of North American Aviation, Inc., will provide
+    from 500 to 60,000 watts of electricity in space for one year. They can provide
+    power for a satellite network for worldwide communications, weather observation,
+    and navigation. The film briefly summarizes the importance of the use of space
+    in the areas of communications; weather observation; research; navigation;
+    astronomy and exploration; and the consequent need, as space technology
+    advances, for more com- pact electrical power sources. A detailed explanation is
+    given of the isotopic-power source aboard the Transit-4A navigational satellite,
+    which produces almost 3 electrical watts enough to power two of the satellite's
+    four navigational radio transmitter systems for five years or more. The
+    isotopic-powered navigation equipment is transmitting precise signals that are
+    being received all over the globe. The operational Transit satellite system
+    will provide navigational information from which aircraft and ships around the
+    world will be able to fix their positions within 0.1 mile. The film reviews the
+    various nuclear- reactor-powered units, including SNAP-2, which will provide
+    3000 watts of electricity in space for one year; SNAP-10A, which will pro- vide
+    500 watts for one year; and SNAP- 8, which will generate up to 60,000 watts and
+    will pioneer electric propulsion in the U. S. space program. SNAP power systems
+    in three satellites in 24-hr orbit around the earth could provide a worldwide TV
+    network with multilingual audio channels. Safety factors and safety testing of
+    both types of SNAP units are shown. Since the fuel of the isotopic devices is
+    radioactive itself, the capsule has been designed to keep it sealed on the
+    launching pad, during launch, and in orbit. The SNAP nuclear -reactor systems
+    are being so designed that, after a useful long life in space, they will shut
+    down, cool off radioactively for a long period, and finally burn up on reentry.
+    The small amount of remaining activity will be widely dispersed safely in, the
+    vast area of the outer atmosphere. SNAP systems also have uses in remote areas
+    on land and sea. An unmanned generator that transmits weather data to
+    permanent Canadian and U.S. weather stations is now in operation in the Canadian
+    Arctic (see film "Atomic Weatherman"). A more powerful version of this unit,
+    with a potential life of 10 years, is supplying power for an unmanned auto-
+    matic weather station in the Antarctic. Other SNAP devices will be used for sea
+    buoys, navigation beacons, and portable electric-power stations. The film also
+    briefly summarizes some of the planned space efforts of the future which will
+    use nuclear auxiliary power.
+  
+  notes: 
+  status: ONLINE 
+  links: 
+    - name: Digitized by PeriscopeFilm
+      url: https://www.youtube.com/watch?v=Q3XbiRrZY1g
+
+
+- title: Nuclear power for space - SNAP-9A
+  naid: 88196
+  date: 1963
+  length: 12
+  color: true
+  description: >
+    This is a semitechnical film for high-school- and college-level audiences.
+    After showing the launching of a new satellite, which is being wholly powered
+    by a nuclear generator, animation is used to explain the use of its isotopic
+    generator to create power to run electronic equipment, recording equipment,
+    and transmit data back to earth for analysis. The advantages of nuclear energy
+    are shown over the use of chemical energy and solar energy. The principles of
+    power generation by isotopic decay are explained, showing how thermocouples
+    convert the decaying isotopes' heat directly to electricity. A comparison of
+    the isotopes Plutonium- 23 8 and Curium-242, both used in SNAP isotope power
+    systems, is made. It discusses the design features of the SNAP- 9A which are
+    the result of 7 years of research. Safety tests of the iso- tope capsule,
+    including explosion tests, fire tests, impact tests, and re-entry tests are
+    shown.
+  notes: 
+  status: Not digitized 
+  links: 
+
+- title: Nuclear reactors for space
+  naid: 
+  date: 1961
+  length: 17
+  color: true
+  description: >
+    The SNAP program Systems for Nuclear Auxiliary Power is an AEC program to
+    develop long-lived auxiliary power from nuclear energy for use in satellites
+    and space vehicles. Compact atomic reactors being developed by Atomics
+    International for use in SNAP systems are shown in this semitechnical film.
+    Safety characteristics of the SNAP reactor during fabrication, testing,
+    transport, installation, launching, and use in space are described. Detailed
+    sequences filmed at Atomics International on fabrication and testing show the
+    simplicity and compactness of the reactors. Safety features are described in
+    scenes that illustrate shipping, launch- site activities, and launch of the
+    reactor into space. The burnup and dispersal of the reactor during reentry
+    into the atmosphere are shown in a detailed animation sequence. Many
+    beneficial uses of SNAP in the U. S. national space program are illustrated.
+    notes: 
+  status: Not digitized
+  links: 
+
+- title: Our nearest star
+  naid: 88214 
+  date: 1961
+  length: 12
+  color: true
+  description: >
+    A SNAP isotopic power system has been placed in orbit aboard the Transit-4A
+    navigational satellite. This simple, powerful device is the first application
+    of nuclear power in space. The system, which powers two of Transit's four
+    navigational radio transmitters, is designed to operate for five years or
+    more. Against a background of the Transit Program, this semitechnical film
+    follows the development and testing of the radioisotope fuel capsule and the
+    thermoelectric generator that make up this SNAP system. The film shows the
+    Thor-Able-Star gantry at Cape Kennedy as the SNAP unit is mounted on Transit,
+    and, when the system is launched, the view is from the blockhouse and the
+    launch pad.  
+  status: Not digitized
+  notes: Potentially mis-cataloged?
+  links: 
+    - name: Entry in American Archive of Public Broadcasting
+      url: https://americanarchive.org/catalog/cpb-aacip_512-xs5j961d26
+    - name: Identically-named film from the same time about the sun?
+      url: https://catalog.archives.gov/id/88215
+
+- title: "PAX ATOMIS: SNAP-7 TERRESTRIAL ISOTOPIC POWER SYSTEMS"
+  naid: 88216 
+  date: 1965
+  length: 25
+  color: true
+  description: >
+    Useful to both educated-lay-level and technical audiences, including high
+    school and college groups, this film summarizes the parallel development of a
+    family of fully shielded thermoelectric power converters and chemical
+    processing of the radioisotope Strontium-90 fuel. Laboratory procedures are
+    depicted for thermoelectric couple assembly into a compact operating system
+    capable of converting heat energy into electrical current without the need for
+    moving parts. Compacting of Strontium-90 raw material into ceramic titanate
+    pellets and encapsulation of the fuel pellets into high strength metal
+    containers are illustrated.
+    
+    Fully shielded Strontium-90 fueled, thermoelectric generators have been placed
+    into operational service at remote outposts from north of the Arctic Circle to
+    the South Pole. Developed by the U. S. Atomic Energy Commission under the SNAP
+    (Systems for Nuclear Auxiliary Power) program, they are now proving the
+    feasibility of reliable, un- attended electrical power production from heat
+    generated by decay of radioisotopes.
+
+    Installation of the SNAP -7 generator family to power unattended weather
+    stations in Antarctica and the Gulf of Mexico, navigational aids to shipping in
+    Chesapeake Bay and the Gulf of Mexico, deep sea acoustic research in the
+    Atlantic Ocean is depicted by means of film foot- age obtained during actual
+    installation and implantment at the operating sites.
+
+    The film concludes with a description of current development work and
+    predictions relating to the next generation of Strontium-90 thermo- electric
+    power supplies for terrestrial uses.
+  status: Not digitized
+  notes: 
+  links: 
+
+- title: "POWER FOR PROPULSION"
+  naid: 88222 
+  date: 1965
+  length: 25
+  color: true
+  description: >
+    This film traces the history of power sources for propulsion from Watt's tea
+    kettle to atomic rocket engines. The major steps are covered: Goddard's 1926
+    rocket engine, the German V-2's, U. S. Aerobees and Vikings, the Soviet 1957
+    Sputnik followed by the first astronauts and then reactor power for ships. The
+    importance of Robert Goddard's liquid rocket and Enrico Fermi's atomic pile is
+    stressed, with particular emphasis upon the inevitable fusion of these two
+    great power sources into one massive propulsion system. Animation sequences
+    are used to illustrate principles of rocketry, Newton's Law of Motion and
+    operation of nuclear rocket engines. Actual development of NERVA, Nuclear
+    Engine for Rocket Vehicle Application, is shown, including its first test
+    firing at the AEC-NASA Nuclear Rocket Development Station in Jackass Flats,
+    Nevada. Finally, U. S. developments for deep space payload missions to the
+    moon, a fly-by of Mercury, then Venus, Mars and beyond for new insights into
+    the universe.
+  status: Not digitized
+  notes: 
+  links: 
+
+- title: "SNAP III OPERATIONAL TESTS"
+  naid:  
+  date: 1960
+  length: 21.3
+  color: true
+  description: >
+    This semitechnical film describes operational tests (vibration, shock,
+    acceleration, fire, explosion, land and sea impact, effects of salt wa- ter,
+    aerodynamic heating, etc.) on the 4-lb SNAP HI isotopic-power unit, which uses
+    210 Po to generate more than 3 watts as a source of auxiliary power for space
+    vehicles. Conclusion: SNAP HI will operate effectively on launch and in orbit. 
+  status: ONLINE
+  notes: 
+  links: 
+    - name: Digitized by the Cape Canaveral Space Force Museum
+      url: https://www.youtube.com/watch?v=iUZDVeA-ewU
+
+- title: "SNAPSHOT"
+  naid:  
+  date: 1965
+  length: 29
+  color: true
+  description: >
+    This film with an introduction by Dr. Glenn T. Seaborg, Chairman of the U. S.
+    Atomic Energy Commission useful for both popular-level and technical audiences
+    describes the scheduled flight test in space of the 500-watt SNAP-10A nuclear
+    space power system. SNAP-lOAwill be mated to the forward end of an Atlas-Agena
+    booster system and launched from Vandenberg Air Force Base, California. Primary
+    objective of the SNAPSHOT flight, a cooperative effort of the Atomic Energy
+    Commission and the United States Air Force, is to obtain technical information
+    and demonstrate the utility of nuclear reactor power systems for application in
+    America's space programs. Atomics International is the U. S. Atomic Energy
+    Commission's prime contractor for SNAP-10A development. Orbital startup and
+    operation in space of the reactor and the thermoelectric power converter is
+    explained by animation. Highlighted in this film is the extensive development
+    and testing program which has resulted in the flight- ready SNAP-10A power
+    system. A series of qualification system tests, including a full- scale nuclear
+    system ground test in a simulated space environment, is reviewed and
+    summarized. This series of tests duplicated the environments the flight
+    system will endure through factory assembly, shipping, launch, and orbit
+    operation. The film explains the need for SNAP re- actor power systems in
+    current and future space projects. 
+  status: ONLINE
+  notes: 
+  links: 
+    - name: In the Nuclear Vault
+      url: https://www.youtube.com/watch?v=u9jI1Hdl5Yw
+
+- title: "Bikini Radiobiological Laboratory"
+  naid: 88124 
+  date: 1949
+  length: 22
+  color: true
+  description: >
+    This nontechnical film, for intermediate through college-level audi- ences,
+    explains studies of effects of radioactivity from the 1946 atomic tests at
+    Bikini Atoll, on plants and marine life in the area three years later.
+  status: ONLINE
+  notes: Features many scientists from the University of Washington
+  links: 
+    - name: Digitized at the National Archives 
+      url: https://catalog.archives.gov/id/88124
+    - name: In the Nuclear Vault
+      url: https://www.youtube.com/watch?v=j7K-fArwVGY
+
+
+- title: "RADIATION IN BIOLOGY: AN INTRODUCTION"
+  naid:  88234
+  date: 1962
+  length: 13.5
+  color: true
+  description: >
+    The purpose of this film is to explain to junior and senior high- school
+    students in biology, general science, or physics the meaning of high- energy
+    radiation and to show how this radiation is used in biological research. To
+    accomplish its objective, this film briefly reviews light from the sun (wave
+    radiation), radio waves, X rays, etc. It also touches on the various sources
+    of radiation (X-ray machines, nuclear reactors, cosmic rays, the sun, etc.).
+    Radioisotopes are defined, and their life is traced from production through
+    their use as tools in the study of radiation damage. The effect of radiation
+    on living cells is demonstrated by comparisons of plants grown from irradiated
+    and nonirradiated seeds and of mice that had been irradiated with those that
+    had not been irradiated. The film also shows the effects of radiation on bone
+    mar- row, on the protective lining of the intestine, and on chromosomes (mu-
+    tations). The use of radioisotopes to trace chemical processes in plants (the
+    absorption of nutrients) is also covered. Autoradiographs are explained, and
+    the function of a Geiger counter is outlined. The film was made under the
+    technical direction of Dr. Harvey Patt, Division of Biological and Medical
+    Research at USAEC's Argonne National Laboratory (ANL), and photographed at
+    ANL.
+  status: Not digitized
+  notes: 
+  links: 
+
+- title: "Atomic Weatherman: Strontium-90 Isotopic Applications"
+  naid:  88113
+  date: 1961
+  length: 18.5
+  color: true
+  description: >
+    This semitechnical film describes the world's first radioisotope- powered
+    weather station, which is operating unattended at a remote site in the
+    Canadian Arctic. The "atomic" weather station is powered by a thermoelectric
+    unit in which the heat from the decay of Strontium- 90 ( 90 Sr) is directly
+    converted into electricity. The film shows the major steps in the
+    identification, testing, and preparation of the 90 Sr titanite compound; the
+    loading of the radioisotope source in the weather- station generator; the
+    principle of direct conversion of heat into elec- tricity; the operation of
+    the generator; the weather-station equipment for sensing, data processing,
+    and control and transmission; the final testing; the 4000-mile journey north
+    into the remote Canadian Arctic aboard an icebreaker; the weather-station
+    installation; and the success- ful transmission of weather data. The film
+    explains the principal meth- ods of handling radioactive wastes from
+    nuclear- reactor operations; the techniques for recovering valuable
+    radioisotopes, such as 90 Sr; and the development of 90 Sr thermoelectric
+    sources for unique small-scale power applications. Brief information is also
+    given on other applications of Sr-90 thermoelectric devices.
+  status: ONLINE at Archives
+  notes: 
+  links: 
+    - name: Archives download link
+      url: https://catalog.archives.gov/id/88113
+    - name: Also on Youtube
+      url: https://www.youtube.com/watch?v=XrCAFMjdrLM
+
+- title: "The Atom and Industry"
+  naid: 102036500 
+  date: 1953
+  length: 10
+  color: false
+  description: >
+    This is a nontechnical film, for intermediate through college-level audiences,
+    describing the use of radioisotope tracers in industry for gauging thickness,
+    testing engine wear, monitoring oil in pipelines, etc
+  status: ONLINE
+  notes: 
+  links: 
+    - name: on Youtube
+      url: https://www.youtube.com/watch?v=GjmeYc_Ze54 
+
+- title: "Gauging Thickness with Radioisotopes"
+  naid: 88391 
+  date: 1958
+  length: 4.5
+  color: false
+  description: >
+    This technical film, for high school and college-level audiences, shows
+    briefly how beta gauges are used for precise measurement and control of
+    feed-back apparatus in steel, plastic, rubber, and paper manufacturing
+  status: Not digitized
+  notes: 
+  links: 
+
+- title: "INDUSTRIAL APPLICATIONS OF RADIOISOTOPES"
+  naid: 88165 
+  date: 1961
+  length: 57
+  color: true
+  description: >
+    This semitechnical film surveys the current widespread uses of radio-
+    isotopes throughout American industry. Three major areas of use are
+    described: nuclear gauging (thickness, density, and level), radiography, and
+    tracing with various examples of each filmed at 26 sites nation- wide,
+    including the rubber industry, thin strip metal production, plastics,
+    paper mills, nylons, food canning, cement, submarine construction, oil
+    industry, automobiles, etc. Covered briefly are luminescence, static
+    elimination, isotopic power, and uses of high- intensity radiation. Basic
+    principles are explained by animation, followed by examples of in-plant
+    uses. Benefits to the consumer and manufacturer are high- lighted. The
+    excellent safety record is noted. The film, although of interest to a wide
+    audience, is designed to acquaint industrial management with the
+    versatility, economy, and ease with which radioisotope techniques can be
+    adapted to plant requirements
+  status: Not digitized
+  notes: 
+  links: 
+
+- title: "OPPORTUNITY UNLIMITED: FRIENDLY ATOMS IN INDUSTRY"
+  naid: 1157938 
+  date: 1962
+  length: 28
+  color: true
+  description: >
+    This popular-level film, narrated by news commentator John Daly, surveys the
+    widespread use of radioisotopes by American industry to make better products
+    from ships to nylon hose more efficiently and with an impressive record of
+    safety. By means of animation and live action, the film explains what
+    radioisotopes are and how they are used to (1) measure and control the
+    thickness of sheet materials, (2) mea- sure densities of materials, (3)
+    control product quality, (4) increase flexibility and mobility of industrial
+    radiography (taking X-ray type pictures to assure safe construction), and
+    (5) act as tracers to follow physical movement and chemical reactions.
+    Examples are given of thickness gauges of nylon cord- rubber ply for
+    automobile tires, sheet plastic, and cord- rolled alloy sheets for computers
+    and space-age instruments, as well as examples of gauges which measure
+    densities without shutdown (such as gauges that measure sugar content in
+    apple- sauce, fat content, and moisture content in soil) and which measure
+    the level of liquids in cans. Industrial radiography with radioisotopes is
+    illustrated with the work on submarines. Uses of radioisotope tracers are
+    explained for engine-wear studies, product movement in oil pipe- lines, leak
+    detection in pipelines, etc.  status: Not digitized
+  status: Not digitized
+  notes: 
+  links: 
+
+- title: "RADIOISOTOPES: SAFE SERVANTS OF INDUSTRY"
+  naid: 88238 
+  date: 1963
+  length: 28
+  color: true
+  description: >
+    With emphasis on safety, this film surveys the widespread uses of
+    radioisotopes in industry. Animated explanations of the principles in-
+    volved in radioisotope gauging instruments, tracing and radiography are
+    given. Applications of these principles are shown in various pro- cesses in
+    the food industry, automotive research, road construction, heavy industry,
+    oil refining and shipping, and system troubleshooting.
+  status: Not digitized
+  notes: 
+  links: 
+
+- title: "Atoms at Work: The Latin American Exhibit"
+  naid: 88116 
+  date: 1961
+  length: 14
+  color: true
+  description: >
+    This film describes the Commission's exhibit on the peaceful uses of atomic
+    energy during the Latin-American tour, including Rio de Janeiro and Buenos
+    Aires. After the opening-day ceremonies, there is a flash- back showing the
+    construction of the exhibit structure and facilities (e.g., the concrete
+    foundation, the shield for the nuclear-research training reactor, the
+    erection of steel arches, and the nature and inflation of the air-
+    supported double-domed structure made of vinyl- coated nylon). The film
+    shows the various exhibits and facilities, including the three-screen
+    theater, the nuclear-power exhibit, the industrial-applications exhibit, the
+    agricultural exhibit, the medical exhibit, the health and safety exhibit,
+    the gamma tank, and the nuclear- research test reactor. (Nontechnical:
+    suitable for all audience levels.)
+  notes: 
+  status: ONLINE
+  links: 
+    - name: Digitized at the National Archives
+      url: https://catalog.archives.gov/id/88116
+    - name: Also on Youtube
+      url: https://www.youtube.com/watch?v=esJncRZZucM
+
+- title: "Atoms for Peace: Geneva 1958"
+  naid: 53012 
+  date: 1959
+  length: 15
+  color: false
+  description: >
+    This nontechnical film, for intermediate through college-level audi- ences,
+    reports on U. S. participation in the Second International Conference on
+    Peaceful Uses of Atomic Energy, held at Geneva in September 1958 under UN
+    auspices and attended by 6000 scientists and technicians of 69 nations and 9
+    international agencies. It points to the technical papers program and the
+    722 papers contributed by the United States; provides a quick look at the
+    Atoms For Peace Commercial Exposition held concurrently in Geneva; then
+    devotes coverage to the U. S. Technical Exhibit made up of 64 sections, many
+    with full-scale scientific devices in operation which covered four major
+    areas: Physical Sciences, Reactor Sciences and Technology, Life Sciences,
+    and Controlled Thermonuclear Research.
+  notes: 
+  status: ONLINE
+  links: 
+    - name: Digitized at the UN
+      url: https://www.unmultimedia.org/avlibrary/asset/2187/2187987/
+    - name: Also on Youtube
+      url: https://www.youtube.com/watch?v=xqQ0c6UAsMk
+      
