@@ -33,7 +33,8 @@ Summary data from various catalogs, such as:
 <th>Links</th>
 </tr>
 
-{% for vid in site.data.videos %}
+{% assign sorted = site.data.videos | sort: 'date' %}
+{% for vid in sorted %}
 
 <tr>
 
@@ -50,7 +51,7 @@ Not in archives
 <td>{{ vid.date }}</td>
 <td>{{ vid.length }} mins</td>
 <td>{{ vid.color }}</td>
-<td>{{ vid.description|truncate: 600 }}</td>
+<td>{{ vid.description|truncate: 900 }}</td>
 <td>{{ vid.status }}</td>
 <td>{{ vid.notes }}</td>
 <td markdown="1">
