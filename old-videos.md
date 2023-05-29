@@ -2,7 +2,7 @@
 layout: default
 title: Old Nuclear Energy Videos
 description: A directory of old nuclear energy videos including digitization status and efforts
-image: /img/zppr-thumb.jpg
+image: /img/camp-century-pull.jpg
 byline: true
 author: nick
 ---
