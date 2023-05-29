@@ -16,7 +16,6 @@ for people who would like to help fund more digitizations.
 # Old Video Directory
 
 Summary data from various catalogs, such as:
-
 * [Energy Video Catalog (ERDA 1975)](https://www.google.com/books/edition/Energy_Films_Catalog/8CKtsJ7XNwcC?hl=en&gbpv=1&dq=%22ATOM+AND+THE+MAN+ON+THE+MOON%22&pg=PA14&printsec=frontcover)
 * [1965 directory](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater)
 
