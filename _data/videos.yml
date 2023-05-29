@@ -18,7 +18,7 @@
     the University of Puerto Rico's College of Agriculture and Engineering, and
     aboard the Center's oceanographic ship.
   notes: 
-  status: Not digitized
+  priority: 3
   links: 
 
 - title: ATOMS ON THE FARM
@@ -36,7 +36,7 @@
     gamma irradiation, atomic energy work in medicine, screwworm fly eradication,
     food sterilization by irradiation, etc.
   notes: 
-  status: Not yet digitized
+  priority: 3
   links: 
   
 - title: FULL SPEED AHEAD
@@ -51,7 +51,6 @@
     technical procedures in building and testing the reactor, surveying harbors,
     and laying the keel.
   notes: 
-  status: ONLINE
   links: 
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Bo14h9_DKVY
@@ -83,7 +82,7 @@
     the significance of the Nuclear Ship Savannah as a pioneer in the use of nuclear
     power for world trade to benefit all mankind.
   notes: 
-  status: Maybe digitized
+  priority: 1
   links: 
     - name: Related NARA file 88200 
       url: https://catalog.archives.gov/id/88200
@@ -102,7 +101,6 @@
     core design; fuel element fabrication; erection of the reactor system's
     containment vessel; safety features; christening and launching.
   notes: 
-  status: ONLINE
   links: 
     - name: On YouTube
       url: https://www.youtube.com/watch?v=vpmjK9EpPWA
@@ -121,7 +119,7 @@
     outlines industry's contributions and the sharing of technical know-how
     overseas through the Atoms for Peace Program.
   notes: 
-  status: Not digitized
+  priority: 3
   links: 
   
 - title: ATOMIC VENTURE
@@ -145,7 +143,6 @@
     for Dresden carried out at GE's Vallecitos Atomic Laboratory near Pleasanton,
     Calif.
   notes: 
-  status: ONLINE
   links: 
     - name: On YouTube
       url: https://www.youtube.com/watch?v=WmaPc27Avvw
@@ -163,7 +160,6 @@
     community first served exclusively by nuclear power, for an hour on July 17,
     1955.
   notes: 
-  status: ONLINE
   links: 
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Cdd2BJI836g
@@ -187,7 +183,6 @@
     and generator. Also shown is fuel handling, cleaning and storage cells, fuel
     fabrication, and testing
   notes: 
-  status: ONLINE
   links: 
     - name: On YouTube
       url: https://www.youtube.com/watch?v=ey1MO_1DkL4
@@ -211,7 +206,6 @@
     the transportability of the system using mock-ups, simulated transportation
     of the ML-1 to the field and its start-up and criticality
   notes: 
-  status: ONLINE
   links: 
     - name: On YouTube
       url: https://www.youtube.com/watch?v=PPPp5rtu04A
@@ -238,7 +232,7 @@
     animated sequence that is also available as a separate film titled, "Basic
     Principles of Power Reactor Operation.
   notes: 
-  status: Not digitized
+  priority: 1
 
 - title: NUCLEAR ENERGY GOES RURAL
   naid: 88195
@@ -256,7 +250,7 @@
     is explained. Fuel operations are also explained, as well as the air
     monitoring system. 
   notes: 
-  status: Not digitized
+  priority: 3
 
 - title: NUCLEAR REACTORS FOR RESEARCH
   naid: 
@@ -269,7 +263,7 @@
     construction of a small homogeneous reactor. Operation of the reactor is
     described, and research uses are illustrated.
   notes: Not in the archives
-  status: Not digitized
+  priority: 2
 
 - title: THE PIQUA NUCLEAR POWER FACILITY
   naid: 88218 
@@ -286,7 +280,6 @@
     Idaho is shown, as well as of the design and construction of the Piqua
     facility.
   notes: 
-  status: Digitized
   links: 
     - name: On YouTube in SD
       url: https://www.youtube.com/watch?v=cH06vZZZSZw
@@ -311,7 +304,7 @@
     airlift of the packages, erection and assembly of the power plant, the work to
     achieve criticality, and the varied safety controls.
   notes: 
-  status: Partially Digitized
+  priority: 2
   links: 
     - name: Short clip on YouTube in SD with red tinge
       url: https://www.youtube.com/watch?v=yPscwg61ZAw
@@ -337,7 +330,6 @@
     testing of the reactor at McMurdo, safety aspects, and achievement of
     criticality.
   notes: 
-  status: Digitized
   links: 
     - name: On Youtube
       url: https://www.youtube.com/watch?v=GcgS_xnzvlA
@@ -363,7 +355,6 @@
   notes: > 
     Eisenhower uses a nuclear wand to start the Shippingport reactor in this one
     remotely.
-  status: Digitized
   links: 
     - name: On YouTube, digitized by PeriscopeFilm in SD
       url: https://www.youtube.com/watch?v=6hs_S7fUnoY
@@ -401,7 +392,6 @@
     and above.)
   notes: > 
     Extremely awesome. Featuring Mukluck the dog.
-  status: Digitized
   links: 
     - name: On YouTube
       url: https://www.youtube.com/watch?v=1Ujx_pND9wg
@@ -424,7 +414,7 @@
     representative atomic power plants in the United States, noting location and
     kilowatts of electrical power
   notes: 
-  status: Not Digitized
+  priority: 3
   links: 
 
 - title: "The Magnetic Bottle"
@@ -440,7 +430,7 @@
     full-scale machines to create unlimited industrial power by controlling a
     continuous fusion process at millions of degrees of temperature.
   notes: 
-  status: Not Digitized
+  priority: 2
   links: 
 
 - title: "Metals Frontier"
@@ -464,7 +454,7 @@
     need for careful analytical control. The film also shows how the graduate
     student fits into the laboratory's research program.
   notes: Reached out to Ames to see if they want to fund digitization
-  status: Not Digitized
+  priority: 3
   links: 
   
 - title: "Of Man and Matter"
@@ -486,7 +476,7 @@
     particles and the forces within the atomic nucleus that are the basic
     components of all existing matter. 
   notes: Reached out to BNL to see if they want to fund digitization
-  status: Not Digitized
+  priority: 3
   links: 
 
 - title: The Many Faces of Argonne
@@ -510,7 +500,7 @@
     massive shielding.
 
     Argonne's efforts in the power reactor field are summarized, using the
-    Experimental Breeder Reactor H as an example, with detailed explanation of
+    Experimental Breeder Reactor II as an example, with detailed explanation of
     its components, purposes, methods, etc.  
     
     Experiments to learn the effects of radiation on human beings are explained
@@ -524,7 +514,7 @@
     nature of matter. Argonne's relation to American universities is outlined,
     with views of the training of foreign students
   notes: 
-  status: Not Digitized
+  priority: 3
   links: 
 
 - title: ATOMS FOR PEACE
@@ -538,7 +528,6 @@
     atomic energy in industry, biology, medicine, and agriculture. It outlines
     the potential of nuclear power.
   notes: 
-  status: Digitized on NARA
   links: 
 
 - title: A DAWN'S EARLY LIGHT
@@ -553,7 +542,7 @@
     contains a section describing the development of nuclear power for submarine
     propulsion.
   notes: Produced by Westinghouse. Not in NARA.
-  status: Not digitized 
+  priority: 4
   links: 
 
 - title: MAN AND RADIATION
@@ -578,7 +567,7 @@
     material, a wood-plastic alloy, is also shown as one example of current
     research in the beneficial uses of radiation.
   notes: 
-  status: Not digitized 
+  priority: 3
   links: 
 
 - title: MAN AND THE ATOM
@@ -626,7 +615,7 @@
   notes: >
     There are three NAIDs for this one, 88180, 88181, and 88182. It's probably
     on more than one film reel due to length.
-  status: Not digitized 
+  priority: 2
   links: 
 
 - title: THE ATOM AND THE MAN ON THE MOON
@@ -652,7 +641,7 @@
     to the aircraft and other industries.
   
   notes: 
-  status: Not digitized 
+  priority: 3
   links: 
     title: Description link
     url: https://babel.hathitrust.org/cgi/pt?id=coo.31924004286914&view=1up&seq=29
@@ -696,7 +685,6 @@
     Program and the preliminary results of Project Gnome in the opening and
     closing scenes.
   notes: Lots of Edward Teller talking
-  status: Digitized 
   links: 
     - name: On YouTube in 240p
       url: https://www.youtube.com/watch?v=Eo4Ue4VwrUA
@@ -718,7 +706,6 @@
     fuel, and construction of the reactor components by contractors. Testing of
     the Kiwi at the Nuclear Rocket Development Station in Nevada is shown
   notes: 
-  status: ONLINE 
   links: 
     - name: Digitized by Los Alamos
       url: https://www.youtube.com/watch?v=866C4qKgzeg
@@ -741,7 +728,7 @@
     radiation-induced plant mutations, the methods, and the complexity of the
     long-term work
   notes: 
-  status: Not digitized 
+  priority: 4
   links: 
   
 - title: ROUNDUP
@@ -771,7 +758,7 @@
     screwworm fly was brought under full control and largely eradicated.
     (Nontechnical: suitable for all audience levels.)
   notes: 
-  status: Not digitized 
+  priority: 2
   links: 
     - name: Eradication of the Screwworm (2018)
       url: https://www.youtube.com/watch?v=AXvObw8yuzs
@@ -830,9 +817,7 @@
     buoys, navigation beacons, and portable electric-power stations. The film also
     briefly summarizes some of the planned space efforts of the future which will
     use nuclear auxiliary power.
-  
   notes: 
-  status: ONLINE 
   links: 
     - name: Digitized by PeriscopeFilm
       url: https://www.youtube.com/watch?v=Q3XbiRrZY1g
@@ -858,7 +843,7 @@
     including explosion tests, fire tests, impact tests, and re-entry tests are
     shown.
   notes: 
-  status: Not digitized 
+  priority: 3
   links: 
 
 - title: Nuclear reactors for space
@@ -880,7 +865,7 @@
     into the atmosphere are shown in a detailed animation sequence. Many
     beneficial uses of SNAP in the U. S. national space program are illustrated.
     notes: 
-  status: Not digitized
+  priority: 3
   links: 
 
 - title: Our nearest star
@@ -899,7 +884,7 @@
     Thor-Able-Star gantry at Cape Kennedy as the SNAP unit is mounted on Transit,
     and, when the system is launched, the view is from the blockhouse and the
     launch pad.  
-  status: Not digitized
+  priority: 4
   notes: Potentially mis-cataloged?
   links: 
     - name: Entry in American Archive of Public Broadcasting
@@ -939,7 +924,7 @@
     The film concludes with a description of current development work and
     predictions relating to the next generation of Strontium-90 thermoelectric
     power supplies for terrestrial uses.
-  status: Not digitized
+  priority: 3
   notes: 
   links: 
 
@@ -963,7 +948,7 @@
     Nevada. Finally, U. S. developments for deep space payload missions to the
     moon, a fly-by of Mercury, then Venus, Mars and beyond for new insights into
     the universe.
-  status: Not digitized
+  priority: 1
   notes: 
   links: 
 
@@ -978,7 +963,6 @@
     aerodynamic heating, etc.) on the 4-lb SNAP HI isotopic-power unit, which uses
     210 Po to generate more than 3 watts as a source of auxiliary power for space
     vehicles. Conclusion: SNAP HI will operate effectively on launch and in orbit. 
-  status: ONLINE
   notes: 
   links: 
     - name: Digitized by the Cape Canaveral Space Force Museum
@@ -1009,7 +993,6 @@
     system will endure through factory assembly, shipping, launch, and orbit
     operation. The film explains the need for SNAP reactor power systems in
     current and future space projects. 
-  status: ONLINE
   notes: 
   links: 
     - name: In the Nuclear Vault
@@ -1024,7 +1007,6 @@
     This nontechnical film, for intermediate through college-level audiences,
     explains studies of effects of radioactivity from the 1946 atomic tests at
     Bikini Atoll, on plants and marine life in the area three years later.
-  status: ONLINE
   notes: Features many scientists from the University of Washington
   links: 
     - name: Digitized at the National Archives 
@@ -1057,7 +1039,7 @@
     technical direction of Dr. Harvey Patt, Division of Biological and Medical
     Research at USAEC's Argonne National Laboratory (ANL), and photographed at
     ANL.
-  status: Not digitized
+  priority: 4
   notes: 
   links: 
 
@@ -1084,7 +1066,6 @@
     radioisotopes, such as 90 Sr; and the development of 90 Sr thermoelectric
     sources for unique small-scale power applications. Brief information is also
     given on other applications of Sr-90 thermoelectric devices.
-  status: ONLINE at Archives
   notes: 
   links: 
     - name: Archives download link
@@ -1101,7 +1082,6 @@
     This is a nontechnical film, for intermediate through college-level audiences,
     describing the use of radioisotope tracers in industry for gauging thickness,
     testing engine wear, monitoring oil in pipelines, etc
-  status: ONLINE
   notes: 
   links: 
     - name: on Youtube
@@ -1116,7 +1096,7 @@
     This technical film, for high school and college-level audiences, shows
     briefly how beta gauges are used for precise measurement and control of
     feed-back apparatus in steel, plastic, rubber, and paper manufacturing
-  status: Not digitized
+  priority: 4
   notes: 
   links: 
 
@@ -1140,7 +1120,7 @@
     audience, is designed to acquaint industrial management with the
     versatility, economy, and ease with which radioisotope techniques can be
     adapted to plant requirements
-  status: Not digitized
+  priority: 3
   notes: 
   links: 
 
@@ -1168,7 +1148,7 @@
     illustrated with the work on submarines. Uses of radioisotope tracers are
     explained for engine-wear studies, product movement in oil pipelines, leak
     detection in pipelines, etc.  status: Not digitized
-  status: Not digitized
+  priority: 3
   notes: 
   links: 
 
@@ -1184,7 +1164,7 @@
     Applications of these principles are shown in various processes in the
     food industry, automotive research, road construction, heavy industry, oil
     refining and shipping, and system troubleshooting.
-  status: Not digitized
+  priority: 4
   notes: 
   links: 
 
@@ -1207,7 +1187,6 @@
     the gamma tank, and the nuclear-research test reactor. (Nontechnical:
     suitable for all audience levels.)
   notes: 
-  status: ONLINE
   links: 
     - name: Digitized at the National Archives
       url: https://catalog.archives.gov/id/88116
@@ -1232,7 +1211,6 @@
     areas: Physical Sciences, Reactor Sciences and Technology, Life Sciences,
     and Controlled Thermonuclear Research.
   notes: 
-  status: ONLINE
   links: 
     - name: Digitized at the UN
       url: https://www.unmultimedia.org/avlibrary/asset/2187/2187987/
