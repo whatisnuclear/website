@@ -113,6 +113,7 @@ plant have fed steam into a shared turbine.
 
 # See Also
 
+* [Hallam SGR photos]({% link hallam-photos.md %})
 * [ANS Nuclear Cafe -- Hallam Nuclear Station on 1960's TV!](https://www.ans.org/news/article-2163/hallam-nuclear-station-on-1960s-tv/)
 * [Sheldon Power Station](https://en.wikipedia.org/wiki/Sheldon_Power_Station)
 * [Hallam Nuclear Power Facility](https://en.wikipedia.org/wiki/Hallam_Nuclear_Power_Facility)

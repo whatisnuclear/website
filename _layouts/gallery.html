@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{{ content }} {% for gallery in site.data.galleries %} {% if gallery.id ==
+page.galleryid %} {% for image in gallery.images %} {% assign remainder =
+forloop.index | modulo: 6 %} {% if forloop.first == true %}
+<div class="row">
+  {% endif %}
+
+  <div class="col col-xl-2 col-lg-4 col-md-6 col-sm-12 col-12 p-1">
+    <figure class="figure">
+      <a
+        href="{{ gallery.imagefolder }}/{{ image.name }}"
+        data-toggle="lightbox"
+        data-size="sm"
+        data-caption="{{image.text}}"
+        data-gallery="gallery"
+      >
+        <img src="/img/blank.png" data-echo="{{ gallery.imagefolder }}/{{ image.name }}" class="img-fluid"
+        alt="{{ image.text }}" title="{{ image.text }}">
+      </a>
+      <figcaption class="figure-caption">
+        {{ image.text}} {% if image.id %}({{image.id}}){% endif %}
+      </figcaption>
+    </figure>
+  </div>
+
+  {% if forloop.last == true %}
+</div>
+{% endif %} {% endfor %} {% endif %} {% endfor %}
+
+{% include lazyload.html %}

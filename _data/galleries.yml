@@ -1,0 +1,998 @@
+- id: hallam-decom
+  description: Hallam Decommissioning
+  imagefolder: /img/hallam-decom
+  sections:
+    - id: D
+      name: Reactor and Primary Loop Isolation
+      date: December, 1967
+    - id: E
+      name: Sodium service
+    - id: F
+      name: Building isolation
+    - id: Z
+      name: Miscellaneous
+  images:
+   - name: hallam-05-001.jpg
+     text: Insulation removed from block and throttle valves.
+     id: D-1
+   - name: hallam-05-002.jpg
+     text: 1st primary Na valve to remove 14" W/check.
+     id: D-2
+   - name: hallam-06-000.jpg
+     text: 3" Na service piping to be removed.
+     id: D-3
+   - name: hallam-06-001.jpg
+     text: Removing 18" CR. Mo. guard pipe.
+     id: D-4
+   - name: hallam-06-004.jpg
+     text: Removing 18" CR. Mo. guard pipe.
+     id: D-5
+   - name: hallam-06-005.jpg
+     text: Removing 18" CR. Mo. guard pipe.
+     id: D-6
+   - name: hallam-07-000.jpg
+     text: Freezing Na in line drain.
+     id: D-7
+   - name: hallam-07-001.jpg
+     text: Putting in more dry ice.
+     id: D-8
+   - name: hallam-07-004.jpg
+     text: Starting cut on lines 146 (drain).
+     id: D-9
+   - name: hallam-07-005.jpg
+     text: Starting cut on lines 146 (drain).
+     id: D-10
+   - name: hallam-08-000.jpg
+     text: Cut and full of Na (Line 146).
+     id: D-11
+   - name: hallam-08-001.jpg
+     text: Removing Line 146 W/ catch bucket.
+     id: D-12
+   - name: hallam-08-004.jpg
+     text: Showing Na in Line 146.
+     id: D-13
+   - name: hallam-08-005.jpg
+     text: Line 145, also full of Na.
+     id: D-14
+   - name: hallam-09-000.jpg
+     text: Line 145, also full of Na.
+     id: D-15
+   - name: hallam-09-001.jpg
+     text: Line 147 full of Na.
+     id: D-16
+   - name: hallam-09-004.jpg
+     text: "Setting up saw on line #239 inboard of valve."
+     id: D-17
+   - name: hallam-09-005.jpg
+     text: Running into track for straight cut.
+     id: D-18
+   - name: hallam-10-000.jpg
+     text: Setting saw on outboard of valve at same time.
+     id: D-19
+   - name: hallam-10-001.jpg
+     text:  Drilling pilot hole for 4" saw.
+     id: D-20
+   - name: hallam-10-004.jpg
+     text: Hole is between chain and drive wheel.
+     id: D-21
+   - name: hallam-10-005.jpg
+     text: Sawing 4" hole.
+     id: D-22
+   - name: hallam-11-000.jpg
+     text: Showing saw cut nearly through.
+     id: D-23
+   - name: hallam-11-001.jpg
+     text: Hole through -- sniffing inside pipe.
+     id: D-24
+   - name: hallam-11-004.jpg
+     text: Starting to install balloon.
+     id: D-25
+   - name: hallam-11-005.jpg
+     text: Pushing balloon past saw line.
+     id: D-26
+   - name: hallam-12-000.jpg
+     text: Balloon ready to inflate.
+     id: D-27
+   - name: hallam-12-001.jpg
+     text: Inflating balloon inside pipe.
+     id: D-28
+   - name: hallam-12-004.jpg
+     text: Starting straight cut.
+     id: D-29
+   - name: hallam-12-005.jpg
+     text: Close watch on cutter
+     id: D-30
+   - name: hallam-13-000.jpg
+     text: Running bevel cut on outboard side at same time.
+     id: D-32
+   - name: hallam-13-001.jpg
+     text: Loose and starting out of vault.
+     id: D-32
+   - name: hallam-13-004.jpg
+     text: Just room.
+     id: D-33
+   - name: hallam-13-005.jpg
+     text: Coming up.
+     id: D-34
+   - name: hallam-14-000.jpg
+     text: V303 and V304 together.
+     id: D-35
+   - name: hallam-14-001.jpg
+     text: Out and ready to be cut apart.
+     id: D-36
+   - name: hallam-14-004.jpg
+     text: Balloon in pipe (forming seal).
+     id: D-37
+   - name: hallam-14-005.jpg
+     text: Cap with nipple for balloon removal.
+     id: D-38
+   - name: hallam-15-000.jpg
+     text: Trying bag removal (outside).
+     id: D-39
+   - name: hallam-15-001.jpg
+     text: Trying bag removal (side).
+     id: D-40
+   - name: hallam-15-004.jpg
+     text: Trying bag removal (inside).
+     id: D-41
+   - name: hallam-15-005.jpg
+     text: Welding on cap. (loop side)
+     id: D-42
+   - name: hallam-16-000.jpg
+     text: Cap on. (reactor side)
+     id: D-43
+   - name: hallam-16-001.jpg
+     text: Showing inside guard pipe. (Reactor)
+     id: D-44
+   - name: hallam-16-004.jpg
+     text: Installing ring flange in guard cavity.
+     id: D-45
+   - name: hallam-16-005.jpg
+     text: Next
+     id: D-46
+   - name: hallam-17-000.jpg
+     text: On East side of Reactor (2 throttle and 1 block valve) with ovens on.
+     id: D-47
+   - name: hallam-17-001.jpg
+     text: Mountains of insulation. (5' deep)
+     id: D-48
+   - name: hallam-17-004.jpg
+     text: Removed from East block and throttle valves.
+     id: D-49
+   - name: hallam-17-005.jpg
+     text: The 1st block valve removal V3O1 cut from Reactor.
+     id: D-50
+   - name: hallam-18-000.jpg
+     text: Cut loose and starting out.
+     id: D-51
+   - name: hallam-18-001.jpg
+     text: Lots of room.
+     id: D-52
+   - name: hallam-18-004.jpg
+     text: No check valves on the block valves.
+     id: D-53
+   - name: hallam-18-005.jpg
+     text: Ready for storage -- waiting clean-up.
+     id: D-54
+   - name: hallam-19-000.jpg
+     text: "Cut started on Moderator Loop #286."
+     id: D-55
+   - name: hallam-19-001.jpg
+     text: Cutting Moderator loop with abrasive blade in skill saw.
+     id: D-56
+   - name: hallam-19-004.jpg
+     text: Moderator throttle valve V001.
+     id: D-57
+   - name: hallam-19-005.jpg
+     text: V001 going to storage.
+     id: D-58
+   - name: hallam-20-000.jpg
+     text: Modeator loop out of vault line is full of R/A Na.
+     id: D-59
+   - name: hallam-20-001.jpg
+     text: Loop going to storage.
+     id: D-60
+   - name: hallam-20-004.jpg
+     text: V103 cut off of V103 and going to storage.
+     id: D-61
+   - name: hallam-20-005.jpg
+     text: V104 being cut off of line 237.
+     id: D-62
+   - name: hallam-21-000.jpg
+     text: V104 and stub wiggling out of vault.
+     id: D-63
+   - name: hallam-21-001.jpg
+     text: Out and heading to storage.
+     id: D-64
+   - name: hallam-21-004.jpg
+     text: Waiting to be stored.
+     id: D-65
+   - name: hallam-21-005.jpg
+     text: V204 unwrapped from other lines and starting out.
+     id: D-66
+   - name: hallam-22-000.jpg
+     text: Going to storage.
+     id: D-67
+   - name: hallam-22-001.jpg
+     text: "Repaired heaters on line #234"
+     id: D-68
+   - name: hallam-22-004.jpg
+     text: Cal rod heaters salvaged for reactor steaming system.
+     id: D-69
+   - name: hallam-22-005.jpg
+     text: Installing heaters on steaming system.
+     id: D-70
+   - name: hallam-23-000.jpg
+     text: Installing heaters and ovens on steaming system.
+     id: D-71
+   - name: hallam-23-001.jpg
+     text: Header for steaming reactor.
+     id: D-72
+   - name: hallam-23-004.jpg
+     text: Header tied into reactor stubs.
+     id: D-73
+   - name: hallam-23-005.jpg
+     text: "VT #3 removed for reactor cleaning."
+     id: D-74
+   - name: hallam-24-010.jpg
+     text: East reactor steaming Header complete.
+     id: D-75
+   - name: hallam-24-001.jpg
+     text: West reactor steaming Header complete.
+     id: D-76
+   - name: hallam-24-004.jpg
+     text: Reactor steaming system. Steam N₂ supply heating, and mixing station.
+     id: D-77
+   - name: hallam-24-005.jpg
+     text: Reactor steaming system. Effluent condensing system.
+     id: D-78
+   - name: hallam-25-000.jpg
+     text: Instrumentation on effluence system condenser.
+     id: D-79
+   - name: hallam-25-001.jpg
+     text: Condenser - condensate level pot and instrumentation.
+     id: D-80
+   - name: hallam-25-004.jpg
+     text: Repaired ovens and insulation on line 234. (ref. D-68)
+     id: D-81
+   - name: hallam-25-005.jpg
+     text: Piping for St. N₂ reaction of primary Na pumps
+     id: D-82
+   - name: hallam-26-000.jpg
+     text: "Typical pipe connection to primary Na pumps. (#2 pump)"
+     id: D-83
+   - name: hallam-26-001.jpg
+     text: Inspection of loops -- digging out residue for sample.
+     id: D-84
+   - name: hallam-26-004.jpg
+     text: Dipper of NaOH from primary line.
+     id: D-84
+   - name: hallam-26-005.jpg
+     text: NaOH sample from primary line.
+     id: D-86
+   - name: hallam-27-000.jpg
+     text: Primary RA/NA pump w/oven
+     id: D-87
+   - name: hallam-27-001.jpg
+     text: Half of pump bowl oven removed
+     id: D-88
+   - name: hallam-27-004.jpg
+     text: Ovens removed from pump.
+     id: D-89
+   - name: hallam-27-005.jpg
+     text: Suction and discharge lines cut.
+     id: D-90
+   - name: hallam-28-000.jpg
+     text: Showing depth of NaOH in pump suction nozzle.
+     id: D-91
+   - name: hallam-28-001.jpg
+     text: Cuttings laying of NaOH in pump sunction nozzle.
+     id: D-92
+   - name: hallam-28-004.jpg
+     text: NaOH in pump suction pipe.
+     id: D-93
+   - name: hallam-28-005.jpg
+     text: NaOH in pump suction pipe.
+     id: D-94
+   - name: hallam-29-000.jpg
+     text: Closurer plates installed on primary pump and loops.
+     id: D-95
+   - name: hallam-29-001.jpg
+     text: St. N₂ line sealed pump now ready for removal (Ref. D-83)
+     id: D-96
+   - name: hallam-29-004.jpg
+     text: Final primary stainless steel closure on main heat transfer stubs out of the reactor.
+     id: D-97
+   - name: hallam-29-005.jpg
+     text: Fitting final secondary Cr. Mo. closure
+     id: D-98
+   - name: hallam-30-000.jpg
+     text: Welding out.
+     id: D-99
+   - name: hallam-30-001.jpg
+     text: Completed -- wrapped with asbestos to restart cooling.
+     id: D-100
+   - name: hallam-30-004.jpg
+     text: Hooked up to primary Na pump.
+     id: D-101
+   - name: hallam-30-005.jpg
+     text: Yep it's loose. (about 68,000 lbs.)
+     id: D-102
+   - name: hallam-31-000.jpg
+     text: Just clearing stairway.
+     id: D-103
+   - name: hallam-31-001.jpg
+     text: Plug out of floor.
+     id: D-104
+   - name: hallam-31-004.jpg
+     text: Pump bowl out.
+     id: D-105 
+   - name: hallam-31-005.jpg
+     text: Clearance on electrical tray.
+     id: D-106
+   - name: hallam-32-000.jpg
+     text: Going to shipping skid.
+     id: D-107
+   - name: hallam-32-001.jpg
+     text: Fitting into skid.
+     id: D-108
+   - name: hallam-32-004.jpg
+     text: Bolted and banded.
+     id: D-109
+   - name: hallam-32-005.jpg
+     text: Laying down.
+     id: D-110
+   - name: hallam-33-000.jpg
+     text: Laying down.
+     id: D-111
+   - name: hallam-33-001.jpg
+     text: Hooked up flat to load out.
+     id: D-112
+   - name: hallam-33-004.jpg
+     text: Going to railroad car.
+     id: D-113
+   - name: hallam-33-005.jpg
+     text: Over the car.
+     id: D-114
+   - name: hallam-34-000.jpg
+     text: Waiting for a ride.
+     id: D-115
+   - name: hallam-34-001.jpg
+     text: Pump out now for balance leg.
+     id: D-116
+   - name: hallam-34-004.jpg
+     text: Rolled out and starting up.
+     id: D-117
+   - name: hallam-34-005.jpg
+     text: Up, out, and ...
+     id: D-118
+   - name: hallam-35-000.jpg
+     text: away.
+     id: D-119
+   - name: hallam-35-001.jpg
+     text: Starting to lay down.
+     id: D-120
+   - name: hallam-35-004.jpg
+     text: I believe it will fit.
+     id: D-121
+   - name: hallam-35-005.jpg
+     text: A box full.
+     id: D-122
+   - name: hallam-36-000.jpg
+     text: Boxing the ovens (I.E. D-87 and D-88)
+     id: D-123
+   - name: hallam-36-001.jpg
+     text: 3 primary Na pumps and related parts ready to go.
+     id: D-124
+   - name: hallam-36-004.jpg
+     text: This is where we'll end up.
+     id: D-125
+   - name: hallam-37-001.jpg
+     text: Disconnecting primary Na. pumps
+     id: E-1
+   - name: hallam-37-002.jpg
+     text: Starting out with very little free room.
+     id: E-2
+   - name: hallam-37-004.jpg
+     text: Pretty close.
+     id: E-3
+   - name: hallam-37-005.jpg
+     text: It's going to fit.
+     id: E-4
+   - name: hallam-38-000.jpg
+     text: We made it.
+     id: E-5
+   - name: hallam-38-001.jpg
+     text: Partly stripped pipe in the primary Na service vault.
+     id: E-6
+   - name: hallam-38-004.jpg
+     text: Removing vapor trap 7.
+     id: E-7
+   - name: hallam-38-005.jpg
+     text: Containment drain tank removed for system.
+     id: E-8
+   - name: hallam-39-000.jpg
+     text: Waiting to be cleaned for use on reactor steaming.
+     id: E-9
+   - name: hallam-39-001.jpg
+     text: Carbon trap up, out of vault.
+     id: E-10
+   - name: hallam-39-004.jpg
+     text: Setting on skid for off site shipment.
+     id: E-11
+   - name: hallam-39-005.jpg
+     text: Economizer loose and swung under hatch.
+     id: E-12
+   - name: hallam-40-000.jpg
+     text: Starting up.
+     id: E-13
+   - name: hallam-40-001.jpg
+     text: Out of vault. Going to pallet for shipment.
+     id: E-14
+   - name: hallam-40-004.jpg
+     text: Na service vault piping.
+     id: E-15
+   - name: hallam-40-005.jpg
+     text: Primary Na plugging meters waiting to be boxed.
+     id: E-16
+   - name: hallam-41-000.jpg
+     text: Nearly complete in primary Na service vault.
+     id: E-17
+   - name: hallam-41-001.jpg
+     text: There's the bottom
+     id: E-18
+   - name: hallam-41-004.jpg
+     text: E.M. (electro-magnetic) pump on skid.
+     id: E-19
+   - name: hallam-41-005.jpg
+     text: The last of the Na service (i.e. E-18)
+     id: E-20
+   - name: hallam-42-001.jpg
+     text: "Plug #5 welded in place."
+     id: F-1
+   - name: hallam-42-002.jpg
+     text: Typical horizontal conduit closures.
+     id: F-2
+   - name: hallam-42-005.jpg
+     text: Typical vertical conduit closures sealed on the bottom.
+     id: F-3
+   - name: hallam-42-006.jpg
+     text: Typical vertical valve operating shaft penetration closure sealed on the bottom.
+     id: F-4
+   - name: hallam-43-000.jpg
+     text: Removing electrical for building isolation.
+     id: F-5
+   - name: hallam-43-001.jpg
+     text: Disconnecting control room panels.
+     id: F-6
+   - name: hallam-43-004.jpg
+     text: Wire through column line 13 on 14 line side
+     id: F-7
+   - name: hallam-43-005.jpg
+     text: Column line 13 on 12 line side.
+     id: F-8
+   - name: hallam-44-000.jpg
+     text: Wire and tray removed.
+     id: F-9
+   - name: hallam-44-001.jpg
+     text: Typical square floor plug welded in place.
+     id: F-10
+   - name: hallam-44-004.jpg
+     text: Fabricating closure late for primary Na pump floor opening.
+     id: F-11
+   - name: hallam-44-005.jpg
+     text: Starting to install closure plate on reactor.
+     id: F-12
+   - name: hallam-45-000.jpg
+     text: Nearly covered with ½" plate.
+     id: F-13
+   - name: hallam-45-001.jpg
+     text: Hole from steam generator room into IHX vault to be sealed.
+     id: F-14
+   - name: hallam-45-004.jpg
+     text: Pit in laundry room.
+     id: F-15
+   - name: hallam-45-005.jpg
+     text: Bulk head into tunnel.
+     id: F-16
+   - name: hallam-46-000.jpg
+     text: Tunnel into radiated waste building.
+     id: F-17
+   - name: hallam-46-001.jpg
+     text: From tunnel, back into reactor building
+     id: F-18
+   - name: hallam-46-004.jpg
+     text: Installing closure in primary Na pump floor opening (i.e. F-11)
+     id: F-19
+   - name: hallam-46-005.jpg
+     text: Completed closure, ready for concrete.
+     id: F-20
+   - name: hallam-47-000.jpg
+     text: "Nuclear instrumentation pit #1. Typical seal of all nuclear instrument pits."
+     id: F-21
+   - name: hallam-47-001.jpg
+     text: Fit up of reactor face shield cover plate. (i.e. F-13)
+     id: F-22
+   - name: hallam-47-004.jpg
+     text: Typical plug and butt weld joint on R.F.S.
+     id: F-28
+   - name: hallam-47-005.jpg
+     text: Instrument and control panels being removed from control room.
+     id: F-29
+   - name: hallam-48-000.jpg
+     text: On skids and ready.
+     id: F-25
+   - name: hallam-48-001.jpg
+     text: Snubbing Constant spring hanger. (Na pipe in reactor containment.)
+     id: F-26
+   - name: hallam-48-004.jpg
+     text: Snubbed with Hanger removed.
+     id: F-27
+   - name: hallam-48-005.jpg
+     text: completed Closure.
+     id: F-28
+   - name: hallam-49-000.jpg
+     text: Radial weld on reactor face cover plate.
+     id: F-29
+   - name: hallam-49-001.jpg
+     text: Showing radial, butt and plug welds on R.F.S. cover.
+     id: F-30
+   - name: hallam-49-004.jpg
+     text: Seal welding moderator pits.
+     id: F-31
+   - name: hallam-49-005.jpg
+     text: Penetrations in steam generator room ready to pour.
+     id: F-32
+   - name: hallam-50-000.jpg
+     text: Moderator can grapple storage pits.
+     id: F-33
+   - name: hallam-50-001.jpg
+     text: Wrapping building vent filters.
+     id: F-34
+   - name: hallam-50-004.jpg
+     text: "Installing filters in pit #19."
+     id: F-35
+   - name: hallam-50-005.jpg
+     text: Charcoal filters
+     id: F-36
+   - name: hallam-51-000.jpg
+     text: "First filters in pit #19"
+     id: F-37
+   - name: hallam-51-001.jpg
+     text: "Pouring first filters in pit #19"
+     id: F-38
+   - name: hallam-51-004.jpg
+     text: Last filters in place
+     id: F-39
+   - name: hallam-51-005.jpg
+     text: "Full of concrete and filters, pit #19"
+     id: F-40
+   - name: hallam-52-000.jpg
+     text: Instrument connection seal on reactor
+     id: F-41
+   - name: hallam-52-001.jpg
+     text: Dye check of R.F.S. cover plate weld.
+     id: F-42
+   - name: hallam-52-004.jpg
+     text: Reinstalling wash cell plugs for weld.
+     id: F-43
+   - name: hallam-52-005.jpg
+     text: Moderator can grapple storage pit ready for concrete.
+     id: F-44
+   - name: hallam-53-000.jpg
+     text: Pouring sealant on serroband seal.
+     id: F-45
+   - name: hallam-53-001.jpg
+     text: Removing piping for wall removal.
+     id: F-46
+   - name: hallam-53-004.jpg
+     text: Removing block wall for new support wall.
+     id: F-47
+   - name: hallam-53-005.jpg
+     text: Removing wall into IHX N₂ coolers for new support wall.
+     id: F-48
+   - name: hallam-54-000.jpg
+     text: Water lines removed at E line.
+     id: F-49
+   - name: hallam-54-001.jpg
+     text: "Rebar in pit #19"
+     id: F-50
+   - name: hallam-54-004.jpg
+     text: "Stairway #9 chipped, ready for form and rebar."
+     id: F-51
+   - name: hallam-54-005.jpg
+     text: Pouring miscellaneous small floor penetrations.
+     id: F-52
+   - name: hallam-55-000.jpg
+     text: "Removing vestibule of stairway #8"
+     id: F-53
+   - name: hallam-55-001.jpg
+     text: Typical fuel cell closure.
+     id: F-54
+   - name: hallam-55-004.jpg
+     text: Final pour on Pit 19
+     id: F-55
+   - name: hallam-55-005.jpg
+     text: First pour around reactor
+     id: F-56
+   - name: hallam-56-000.jpg
+     text: Reactor nearly complete
+     id: F-57
+   - name: hallam-56-001.jpg
+     text: Just the rubbing left
+     id: F-58
+   - name: hallam-56-004.jpg
+     text: N₂ trench in High Bay
+     id: F-59
+   - name: hallam-56-005.jpg
+     text: F-60
+     id:
+   - name: hallam-57-000.jpg
+     text: Pour completed - final cover plate laying in place
+     id: F-61
+   - name: hallam-57-001.jpg
+     text: Finishing off fuel wash cells
+     id: F-62
+   - name: hallam-57-004.jpg
+     text: "Shore under stairway #8"
+     id: F-63
+   - name: hallam-57-005.jpg
+     text: "Bush hammering stair #8"
+     id: F-64
+   - name: hallam-58-000.jpg
+     text: "Stair #8 ready for concrete"
+     id: F-65
+   - name: hallam-58-001.jpg
+     text: Fuel shipping cask loading pit ready for concrete
+     id: F-66
+   - name: hallam-58-004.jpg
+     text: Pouring fuel shipping cask pit; moderator can grapple pit poured
+     id: F-67
+   - name: hallam-58-005.jpg
+     text: Pouring disconnect cell
+     id: F-68
+   - name: hallam-59-000.jpg
+     text: Pouring moderator can grapple extension pits
+     id: F-69
+   - name: hallam-59-001.jpg
+     text: Melt cell ready to pour
+     id: F-70
+   - name: hallam-59-004.jpg
+     text: "Primary Na pump #1 pour (IE D-101)"
+     id: F-72
+   - name: hallam-59-005.jpg
+     text: "Stairway #9 poured (ie F-51)"
+     id: F-71
+   - name: hallam-60-000.jpg
+     text: Pouring pipe penetrations in steam generator room
+     id: F-73
+   - name: hallam-60-001.jpg
+     text: Pouring NaK and electrical in Low Bay
+     id: F-74
+   - name: hallam-60-004.jpg
+     text: Cooling water lines in fan room - sealed
+     id: F-75
+   - name: hallam-60-005.jpg
+     text: Cutting beam pockets in Pit 17
+     id: F-76
+   - name: hallam-61-000.jpg
+     text: Installing rebar in Ay pier of floor support structure
+     id: F-77
+   - name: hallam-61-001.jpg
+     text: Ready for concrete
+     id: F-78
+   - name: hallam-61-004.jpg
+     text: South reactor cooling trench
+     id: F-60
+   - name: hallam-61-005.jpg
+     text: We poured through here
+     id: F-80
+   - name: hallam-62-000.jpg
+     text: Keyway on top of piers
+     id: F-81
+   - name: hallam-62-001.jpg
+     text: Starting to form beams
+     id: F-82
+   - name: hallam-62-004.jpg
+     text: "Start of form for Hatch #1"
+     id: F-83
+   - name: hallam-62-005.jpg
+     text: "One section of Hatch #1 rebar in place"
+     id: F-84
+   - name: hallam-63-000.jpg
+     text: Placing center beam section of rebar
+     id: F-85
+   - name: hallam-63-001.jpg
+     text: Forming west end of beam
+     id: F-86
+   - name: hallam-63-004.jpg
+     text: Pipeway at Cy and 22 lines
+     id: F-87
+   - name: hallam-63-005.jpg 
+     text: Manway hatch at Cy and 21 lines
+     id: F-88
+   - name: hallam-64-000.jpg
+     text: "Chipping staircase #1"
+     id: F-89
+   - name: hallam-64-001.jpg
+     text: "Vestibule removed from stairway #7"
+     id: F-90
+   - name: hallam-64-004.jpg
+     text: Cutting out cooling lines on 24 line wall
+     id: F-91
+   - name: hallam-64-005.jpg
+     text: Filling fuel cells with grout (ie F-54)
+     id: F-92
+   - name: hallam-65-000.jpg
+     text: "Bank #3 poured low for reinstallation of covers"
+     id: F-93
+   - name: hallam-65-001.jpg
+     text: "Covers tacked in place on Bank #3"
+     id: F-93
+   - name: hallam-65-004.jpg
+     text: Putting neat cement on before pouring
+     id: F-95
+   - name: hallam-65-005.jpg
+     text: East west wall - first lift poured
+     id: F-96
+   - name: hallam-66-000.jpg
+     text: Beam under steam generator floor at Ay line
+     id: F-97
+   - name: hallam-66-001.jpg
+     text: By pier under steam generator room floor
+     id: F-98
+   - name: hallam-66-004.jpg
+     text: Cutting out cooling water lines in E line wall (ie F-49)
+     id: F-99
+   - name: hallam-66-005.jpg
+     text: Plug 9b - because of this.
+     id: F-100
+   - name: hallam-67-000.jpg
+     text: We had to do this - bottom of plug 9b
+     id: F-101
+   - name: hallam-67-001.jpg
+     text: Installing key plug in middle layer of plug 10
+     id: F-102
+   - name: hallam-67-004.jpg
+     text: The last of plug 10
+     id: F-103
+   - name: hallam-67-005.jpg
+     text: Ready for rebar and then concrete (ie F-99)
+     id: F-104
+   - name: hallam-68-000.jpg
+     text: Partly repacked (ie F-91)
+     id: F-105
+   - name: hallam-68-001.jpg
+     text: East west wall completed
+     id: F-106
+   - name: hallam-68-004.jpg
+     text: Forming North south wall
+     id: F-107
+   - name: hallam-68-005.jpg
+     text: Rebar in place -- ready to pour (i.e. 84)
+     id: F-108
+   - name: hallam-69-000.jpg
+     text: "Pouring Hatch #1"
+     id: F-109
+   - name: hallam-69-001.jpg
+     text: "Pouring pit #17 (i.e. 76)"
+     id: F-110
+   - name: hallam-69-004.jpg
+     text: Weld of final cover plate over reactor and pipe trench
+     id: F-111
+   - name: hallam-69-005.jpg
+     text: Sealed - line 24 (i.e. 105 & 91)
+     id: F-112
+   - name: hallam-70-000.jpg
+     text: "Cy line pier and beam under steam generator room #1"
+     id: F-113
+   - name: hallam-70-001.jpg
+     text: "North-south wall under aux. bay floor and hatch #1"
+     id: F-114
+   - name: hallam-71-005.jpg
+     text: Building ramp to load rig.
+     id: Z-1
+   - name: hallam-71-006.jpg
+     text: Starting up
+     id: Z-2
+   - name: hallam-71-003.jpg
+     text: Just a fit.
+     id: Z-3
+   - name: hallam-71-004.jpg
+     text: A full 60' car.
+     id: Z-4
+   - name: hallam-72-000.jpg
+     text: "#1 Block and Throttle on pallet for off site shipment."
+     id: Z-5
+   - name: hallam-72-001.jpg
+     text: "#1 Block and throttle boxed, and #2 block and throttle on pallet."
+     id: Z-6
+   - name: hallam-72-004.jpg
+     text: 'Burning Na. (2nd Na line #268-14")'
+     id: Z-7
+   - name: hallam-72-005.jpg
+     text: Burning Na in expansion tank.
+     id: Z-8
+   - name: hallam-73-000.jpg
+     text: Scrapped out MI and T/C wire from 2nd Na pipeway into IHX vault.
+     id: Z-9
+   - name: hallam-73-001.jpg
+     text: Hauling Na pipe to be cleaned.
+     id: Z-10
+   - name: hallam-73-004.jpg
+     text: It burns fast.
+     id: Z-11
+   - name: hallam-73-005.jpg
+     text: Final Wash.
+     id: Z-12
+   - name: hallam-74-000.jpg
+     text: VTs and small valves sealed, ready to be boxed for shipment
+     id: Z-13
+   - name: hallam-74-001.jpg
+     text: Pallet full of VTs.
+     id: Z-14
+   - name: hallam-74-004.jpg
+     text: Diaphragm valves ready for insulation filler and N₂ purge for shipment.
+     id: Z-15
+   - name: hallam-74-005.jpg
+     text: Some Na service pipe.
+     id: Z-16
+   - name: hallam-75-000.jpg
+     text: Waiting to be cleaned
+     id: Z-17
+   - name: hallam-75-001.jpg
+     text: Motors from IHX N₂ coolers
+     id: Z-18
+   - name: hallam-75-004.jpg
+     text: EM pump being disassembled for junk.
+     id: Z-19
+   - name: hallam-75-005.jpg
+     text: Removing lead wool from shielding window.
+     id: Z-20
+   - name: hallam-76-000.jpg
+     text: R/A evaporator disconnecting.
+     id: Z-21
+   - name: hallam-76-001.jpg
+     text: R/A compressors before disconnecting starts
+     id: Z-22
+   - name: hallam-76-004.jpg
+     text: R/A compressor going out.
+     id: Z-23
+   - name: hallam-76-005.jpg
+     text: Waiting to go be boxed.
+     id: Z-24
+   - name: hallam-77-000.jpg
+     text: R/A compressor, inner and aftercooler, being boxed.
+     id: Z-25
+   - name: hallam-77-001.jpg
+     text: 2 R/A compressors and 2 tanks on the skid.
+     id: Z-26
+   - name: hallam-77-004.jpg
+     text: Disconnecting R/A vent gas tanks for R/A survey
+     id: Z-27
+   - name: hallam-77-005.jpg
+     text: Disconnecting R/A vent gas tanks for R/A survey
+     id: Z-28
+   - name: hallam-78-000.jpg
+     text: Removed closed loop heat exchanger.
+     id: Z-29
+   - name: hallam-78-001.jpg
+     text: Removing roll-up door.
+     id: Z-30
+   - name: hallam-78-004.jpg
+     text: Rmoving conduit from high bay floor.
+     id: Z-31
+   - name: hallam-78-005.jpg
+     text: Removing MG sets and removing MG panels
+     id: Z-32
+   - name: hallam-79-000.jpg
+     text: 480V "C" switch gear disconnected.
+     id: Z-33
+   - name: hallam-79-001.jpg
+     text: Foundation and structural instrument pit disconnecting
+     id: Z-34
+   - name: hallam-79-004.jpg
+     text: Rigged to remove window (ref. Z-20)
+     id: Z-35
+   - name: hallam-79-005.jpg
+     text: Started out
+     id: Z-36
+   - name: hallam-80-000.jpg
+     text: Going good
+     id: Z-37
+   - name: hallam-80-001.jpg
+     text: Rigging to lift out.
+     id: Z-38
+   - name: hallam-80-004.jpg
+     text: Started up
+     id: Z-39
+   - name: hallam-80-005.jpg
+     text: Out
+     id: Z-40
+   - name: hallam-81-000.jpg
+     text: On pallet waiting to be boxed with dessicant and expansion tank on.
+     id: Z-41
+   - name: hallam-81-001.jpg
+     text: Removing N₂ panel.
+     id: Z-42
+   - name: hallam-81-004.jpg
+     text: N₂ and He panels out, waiting to be boxed
+     id: Z-43
+   - name: hallam-81-005.jpg
+     text: 4160 gear slid over, taping buses
+     id: Z-44
+   - name: hallam-82-000.jpg
+     text: Nearly taped buss
+     id: Z-45
+   - name: hallam-82-001.jpg
+     text: Boxing sealed manipulators
+     id: Z-46
+   - name: hallam-82-004.jpg
+     text: Removing N₂ low pressure tank. He low pressure tank next.
+     id: Z-47
+   - name: hallam-82-005.jpg
+     text: Electrical removal from floor on High Bay
+     id: Z-48
+   - name: hallam-83-000.jpg
+     text: Open intermediate R/A waste tank for inspection
+     id: Z-49
+   - name: hallam-83-001.jpg
+     text: R/A waste in bottom of intermediate R/A tank
+     id: Z-50
+   - name: hallam-83-004.jpg
+     text: Showing contaminated material in the bottom of the intermediate R/A tank
+     id: Z-51
+   - name: hallam-83-005.jpg
+     text: Removing section of R/A tanks
+     id: Z-52
+   - name: hallam-84-000.jpg
+     text: Section of R/A waste tank coming out to go to storage in primary Na vault
+     id: Z-53
+   - name: hallam-84-001.jpg
+     text: R/A waste tunnel isolated at reactor building end (ie F-16)
+     id: Z-54
+   - name: hallam-84-004.jpg
+     text: R/A waste tunnel isolated at R/A waste building end (ie F-17)
+     id: Z-55
+   - name: hallam-84-005.jpg
+     text: Cutting up intermediate level R/A tank
+     id: Z-56
+   - name: hallam-85-000.jpg
+     text: Wrapped contaminated sections of tank
+     id: Z-57
+   - name: hallam-85-001.jpg
+     text: Going to primary Na vault for final storage
+     id: Z-58
+   - name: hallam-85-004.jpg
+     text: 4160V Gear on its way out
+     id: Z-59
+   - name: hallam-86-000.jpg
+     text: 
+     id: 
+   - name: hallam-86-001.jpg
+     text:
+     id:
+   - name: hallam-86-002.jpg
+     text:
+     id:
+   - name: hallam-86-003.jpg
+     text:
+     id:
+   - name: hallam-86-004.jpg
+     text:
+     id:
+   - name: hallam-86-005.jpg
+     text:
+     id:
+   - name: hallam-86-006.jpg
+     text:
+     id:
+   - name: hallam-87-000.jpg
+     text:
+     id:
+   - name: hallam-87-001.jpg
+     text:
+     id:
+   - name: hallam-87-002.jpg
+     text:
+     id:

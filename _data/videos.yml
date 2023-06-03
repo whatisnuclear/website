@@ -849,7 +849,7 @@
   links: 
 
 - title: Nuclear reactors for space
-  naid: 
+  naid: 88198
   date: 1961
   length: 17
   color: true
@@ -868,6 +868,7 @@
     beneficial uses of SNAP in the U. S. national space program are illustrated.
     notes: 
   priority: 3
+  notes: National Archives incorrectly has "reactor" without the plural in the title
   links: 
 
 - title: Our nearest star

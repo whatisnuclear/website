@@ -1,18 +1,28 @@
-<hr>
+<hr />
 <footer class="text-center">
+  <form method="get" id="search" action="https://duckduckgo.com/">
+    <input type="hidden" name="sites" value="whatisnuclear.com" />
+    <input
+      class="search"
+      type="text"
+      name="q"
+      maxlength="300"
+      placeholder="Search"
+    />
+    <input type="submit" value="Search" />
+  </form>
 
-<form method="get" id="search" action="https://duckduckgo.com/">
-<input type="hidden" name="sites" value="whatisnuclear.com">
-<input class="search" type="text" name="q" maxlength="300" placeholder="Search">
-<input type="submit" value="Search"></form>
+  <p>
+    &copy; Whatisnuclear.com 2007-2023 |
+    <a href="{% link license.md %}">CC-BY-NC</a> |
+    <a href="{% link contact.md %}">Contact</a> |
+    <a href="{% link about.md %}">About</a> |
+    <a href="https://github.com/whatisnuclear/website">GitHub</a> |
+    <a href="https://twitter.com/whatisnuclear">Twitter</a>
+  </p>
+</footer>
+<script src="/dist/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js"></script>
 
-<p>&copy; Whatisnuclear.com 2007-2023 |
-<a href="{% link license.md %}">CC-BY-NC</a> | 
-<a href="{% link contact.md %}">Contact</a> | 
-<a href="{% link about.md %}">About</a> | 
-<a href="https://github.com/whatisnuclear/website">GitHub</a> | 
-<a href="https://twitter.com/whatisnuclear">Twitter</a>  
-</p>
-
-</footer> 
-<script src="/dist/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js" ></script>
+{% if page.layout == "gallery" %}
+<script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.2/dist/index.bundle.min.js"></script>
+{% endif %}

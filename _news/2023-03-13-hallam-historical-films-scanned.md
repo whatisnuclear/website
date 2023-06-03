@@ -85,9 +85,11 @@ and rolled several hundred yards through a corn field.
 </figcaption> 
 </figure>
 
-In other exciting news, NPPD has also been scanning high-resolution photos from
+In other exciting news, NPPD has also been scanning photos from
 the Sheldon Station office showing the construction and operation of the Hallam
-reactor in even more thrilling detail. More to come on that!
+reactor in even more thrilling detail. They have already sent us [hundreds
+of photos from the Hallam decommissioning]({% link hallam-photos.md %}).
+More to come on that!
 
 This digitization effort kicked off after we found out about the existence of the Hallam
 videos in a film catalog linked on [our ZPPR video page]({% link zppr.md %}).
@@ -95,5 +97,6 @@ There are lots more like this still.
 
 See Also:
 * [Our Old Videos page]({% link old-videos.md %}).
+* [Hallam SGR photos]({% link hallam-photos.md %})
 
 </div></div>
