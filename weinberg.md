@@ -21,6 +21,7 @@ In August, 2010, I purchased and read Alvin Weinberg's autobiography, *The First
 It so moved me that I wrote
 a 5-star review, which concluded:
 
+{:.blockquote}
 > It's like he's a guiding
 > light, speaking to me about my passions from the grave. An eloquent writer, his
 > book is not necessarily targeted towards engineers like myself, but would be
@@ -85,6 +86,7 @@ could produce plutonium for the bomb.
 * 12 - W showed Wigner his beryllium diffusion problems. Wigner understood deeply in minutes, suggested next few
   weeks of work. He says:
 
+  {:.blockquote}
   > From my very first meeting I sensed that here was a theoretical physicist of an order I had
   > never before encountered."
 
@@ -351,6 +353,7 @@ powered long-range bombers. The eventual development of the ICBM eliminated the 
   He'd be happy with the current state of affairs where multiple startups are working on 
   various MSR manifestations.
 
+  {:.blockquote}
   > Why didn't the molten-salt system, so elegant and so well thought-out, prevail? I've
   > already given the political reason: that the fast breeder arrived first and was
   > therefore able to consolidate its political position within the AEC. But there was
@@ -402,9 +405,12 @@ quote:](https://books.google.com/books?id=VLraAwAAQBAJ&pg=PA723&dq=%22before+thi
 * 145 - Eisenhower plan was going to [use nukes to make water for the Middle East and solve the Israeli-Arab conflict](https://www.jta.org/1968/05/29/archive/gen-eisenhower-proposes-plan-for-nuclear-powered-mid-east-desalting-plants). 
 * 146 - They coined "nuclear powered agro-industrial complexes" -- Detroit/Yale kids I spoke to once would have loved this.
 * 147 - W gives Zinger to Rubin (soon PM of Israel) when asked if it was silly:
+
+  {:.blockquote}
   > But Mr ambassador, is our drawing up of plans
   > in Tennessee for agro industrial complexes for the middle east any sillier than Theodore Herzl's
   > drawing up of plans for Israel, in a Vienna cafe in 1896?
+
 * By late 1960s, GE price list was proven way too low and LA's dreams of 1.6 GW desal nearby went away.
   Prices were 3x GE list. 
 * 148 - W visualizes new technological society based almost entirely in electricity! Other
@@ -464,8 +470,9 @@ entry](https://www.worldcat.org/title/physical-theory-of-neutron-chain-reactors/
 
 * 175 - [Lilienthal](https://en.wikipedia.org/wiki/David_E._Lilienthal) first went public with opposition to nuclear energy in 1963.
 * Good framing of antinuclear sentiment. 
-
 * 176 - ANS paper has Faustian bargain
+
+  {:.blockquote}
   > and then in a 1972 paper titled "[Social Institutions and Nuclear
   > Energy](https://doi.org/10.1126/science.177.4043.27 )," I first used the expression
   > "Faustian bargain" to characterize nuclear energy: "We nuclear people have made a
@@ -562,8 +569,10 @@ entry](https://www.worldcat.org/title/physical-theory-of-neutron-chain-reactors/
   <figure>
   <a href="/img/time-energy-information-triangle.png"><img src="/img/time-energy-information-triangle.png" alt="The Time-Information-Energy triangle" class="img img-fluid center-block" width="400"></a>
    <figcaption>Time-Energy-Information Triangle that suggests energy lets you do
-things faster, and information may help you be more efficient.</figcaption>
+things faster, and information may help you be more efficient.
+  </figcaption>
   </figure>
+
 * 223 - In 1973 nuclear was faltering and people wanted the government to come in and save it.  Carbon dioxide was just becoming a thing. Interestingly, this sounds a lot like [what's happening today](https://www.forbes.com/sites/jamesconca/2019/07/26/oilgas-industry-not-happy-with-ohio-legislation-that-preserves-nuclear/#135985e21ec9). What's old is new again!
 * 224 - IEA study still said nuclear moratorium wouldn't cause the us to freeze in the dark. Unpopular in the nuclear community, and W was disappointed  too. 
 * 225 - So we should start thinking of nuclear systems that might be acceptable for all! Also a solar world.
@@ -587,12 +596,17 @@ things faster, and information may help you be more efficient.</figcaption>
   1985 was largely ignored. [Weinberg, The Second Nuclear ERA: A nuclear
   renaissance (1985)](https://doi.org/10.1016/0360-5442(85)90098-2)
 * 231 - W explains concisely why LWRs dominate:
+
+  {:.blockquote}
   > ...pressurized water had been chosen to power submarines because such reactors are compact and
   > simple. Their advent on land was entirely due to Rickover's dominance in reactor development in
   > the 1950's' and once established, the light-water reactor could not be displaced by a competing
   > reactor.
+
 * 232 - Italy shut down all nukes after Chernobyl.
 * again says Pius is best bet
+
+  {:.blockquote}
   > In any case, the dominance of the existing vendors, Westinghouse and General Electric
   > --- not to speak of the French Framatome, German KWU, and the Japanese Hitachi and
   > Toshiba --- probably means that the next generation of reactors will incorporate
@@ -653,8 +667,12 @@ ABM](https://en.wikipedia.org/wiki/Nike_Zeus)
 
 # Chapter 15: Could We Have Done Better?
 * The excitement of limitless energy led him: 
-  > No wonder that I more or less ignored the warnings of the early pessimists --- that nuclear energy was far more difficult than
-  > we young enthusiasts imagined.
+
+  {:.blockquote}
+  > No wonder that I more or less ignored the warnings of the early pessimists
+  > --- that nuclear energy was far more difficult than > we young enthusiasts
+  > imagined.
+
 * 273 - James Conant (Roosevelt's personal contact with Manhattan project) predicted in 1951 that
   nuclear would fail for Fermi's reasons, and that solar would displace nuclear.  Notably, Conant
   also didn't believe for a long time that a chain reaction would ever be possible. 
@@ -674,8 +692,13 @@ ABM](https://en.wikipedia.org/wiki/Nike_Zeus)
 * 280 - Sometimes feels like the old joke about the General who says he got his first medal by mistake and got the others because of the first one. 
   But he stopped getting honorary degrees as nuclear fell from favor
 * 281 - Goethe's Faust was redeemed: 
+
+  {:.blockquote}
   > Who e'er aspiring struggles on, for him there is salvation
+
 * Final thought: 
+
+  {:.blockquote}
   > To deny a rebirth of nuclear energy is to deny human ingenuity and aspiration.
 
 </div>

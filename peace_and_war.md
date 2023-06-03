@@ -219,6 +219,7 @@ production.
 to life, as the menace of city-destroying weapons was now coupled to radioactive
 fallout clouds thousands of miles long. 
 
+{:.blockquote}
 > But Castle, like Upshot-Knothole, did taint the sweet taste of success with a
 > sickening reality: man-kind had succeeded in producing a weapon that could destroy
 > large areas and threaten life over thousands of square miles.
@@ -230,6 +231,7 @@ fallout clouds thousands of miles long.
 182 On March 31, 1954, Strauss told the world that the bomb could take out any city, even
 New York. This made headlines. General Fields described the fallout danger lucidly:
 
+{:.blockquote}
 > If *Bravo* had been detonated in Washington, D.C., instead of Bikini, Fields
 > illustrated with a diagram, that lifetime dose in the Washington-Baltimore area would
 > have been 5,000 roentgens; in Philadelphia, more than 1,000 roentgens; in New York
@@ -250,6 +252,7 @@ rejected by Hafstad in 1953: "the blunt fact seems to be that we are now too lat
 
 194 Commissioner Murray concluded:
 
+{:.blockquote}
 > "For years, the splitting atom, packaged in weapons has been our main shield
 > against the Barbarians --- now, in addition, it is to become a God-given instrument
 > to do the constructive work of mankind."
@@ -275,6 +278,7 @@ fuel for 7 years and take the used fuel back, but would charge for any fissile
 material consumed in reactor. This was quickly approved and had far-reaching
 implications in the development of the nuclear industry. 
 
+{:.blockquote}
 > ... but more likely it resulted from the general manager's cool and competent
 > presentation. Nichols reduced the decision to the practical perspective of the
 > engineer-administrator. The plan seemed a sensible first step toward a distant goal,
@@ -284,6 +288,7 @@ implications in the development of the nuclear industry.
 204 People were really excited about developing nuclear power to help the world.
 Voorhis said:
 
+{:.blockquote}
 > In part the resolution of the present crisis in the world, depends on the
 > relative success of the free world, as contrasted with the totalitarian world, in
 > building a quality of life that is good for all its people and I believe atomic
@@ -291,6 +296,7 @@ Voorhis said:
 
 Pastore said:
 
+{:.blockquote}
 > Are we not trying to win the hearts and minds of people in other parts of the world?
 > That is the great inspiration that was given to the world in the speech made by
 > the President. Are we winning that race?
@@ -312,6 +318,7 @@ with the Soviet Union related to fissionable material, commercial nuclear, resea
 reactors, and weapons testing. Within the administration, there was some foot
 dragging:
 
+{:.blockquote}
 > Strauss said he did not oppose the President's proposal; he merely wished to warn
 > that Atoms for Peace would not soon take precedence over Atoms for War.
 
@@ -414,6 +421,7 @@ needed the US to delay so they could catch up.
 
 296 These authors are great:
 
+{:.blockquote}
 > But as in tempering steel, the more the commission threw cold water on the
 > linkage the harder it became. 
 
@@ -455,6 +463,7 @@ R&D confirmed that a recent *Fortune* article was correct in that a large attack
 would kill 7 million Americans and render hundreds of square miles uninhabitable for
 perhaps a generation (largely from Sr-90). Worse:
 
+{:.blockquote}
 > Gavin predicted that American retaliation against Russia
 > would spread death from radiation across Asia to Japan and the Philippines. Or if
 > the winds blew the other way, an attack on eastern Russia could eventually kill
@@ -469,6 +478,7 @@ could be designed to have much less fallout.
 347 Strauss' talk of clean nuclear weapons exposed the AEC to scathing criticism from
 the press. 
 
+{:.blockquote}
 > Ralph Lapp wrote a devastating critique in the *Bulletin of the Atomic
 > Scientists*, when he observed that Strauss single-handedly had invented "humanitarian
 > H-bombs." ... "War is a dirty business," Lapp observed. "Part of the madness of
@@ -508,6 +518,7 @@ The AEC at this time was worried that once the government funded some nuclear
 development costs, private industry would expect it to fund all future development
 costs too. 
 
+{:.blockquote}
 > Strauss immediately voiced his concern that, once the Commission opened the door,
 > there would be no way to close it. 
 
@@ -522,6 +533,7 @@ almost ubiquitously depend on large government development programs.
 gesture" to end weapons testing without reliable inspection, and said this great
 line:
 
+{:.blockquote}
 > We cannot salute the future with bold words while we surrender it with feeble
 > deeds.
 
@@ -531,6 +543,7 @@ nuclear incineration.
 
 367 Stevenson had a way of describing the power of nuclear bombs. 
 
+{:.blockquote}
 > He noted the power of a 20 MT bomb --- as "if every man, woman, and child on earth
 > were each carrying a 16 pound bundle of dynamite --- enough to blow him to
 > smithereens, and then some."
@@ -599,6 +612,7 @@ this reason.
 American efforts in the power demonstration program had proven that the private
 industry in the USA could not finance the development of commercial nuclear power.
 
+{:.blockquote}
 > ... industry had badly underestimated the difficulties involved in designing and
 > building nuclear power plants.
 
@@ -606,6 +620,7 @@ Inflation and rising cost estimates were dampening industry interest in nuclear
 power. The Shippingport unit under construction had escalated to be 5-10x the costs
 for fossil-fueled plants. Meanwhile the UK's gas reactor program was focused.
 
+{:.blockquote}
 > Shippingport was hardly an attractive selling point for American technology.
 
 410 Still angry about the defeat of Gore-Holifield, democratic senator Anderson held
