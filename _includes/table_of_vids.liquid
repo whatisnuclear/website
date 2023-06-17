@@ -1,0 +1,36 @@
+<table class="table table-striped">
+  <tr>
+    <th>Title</th>
+    <th>National Archives ID</th>
+    <th>Date</th>
+    <th>Length (mins)</th>
+    <th>Color</th>
+    <th>Description</th>
+    <th>Notes</th>
+    <th>Links</th>
+  </tr>
+
+  {% for vid in include.vids %}
+
+<tr>
+<td>{{ vid.title }}</td>
+<td markdown="1">
+{% if vid.naid %} [{{ vid.naid }}](https://catalog.archives.gov/id/{{
+vid.naid
+}}) {% else %} Not in archives {% endif %}
+</td>
+<td>{{ vid.date }}</td>
+<td>{{ vid.length }}</td>
+<td>{% if vid.color %}Y{% else %}N{% endif %}</td>
+<td>{{ vid.description | truncate: 900 }}</td>
+<td>{{ vid.notes }}</td>
+<td markdown="1">
+{% if vid.links %} {% for link in vid.links %} [{{ link.name }}]({{
+link.url
+}}) {% if link.notes %} ({{ link.notes }}) {% endif %} <br/>{% endfor %} {%
+endif %}
+</td>
+</tr>
+
+  {% endfor %}
+</table>

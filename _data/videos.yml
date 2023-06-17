@@ -81,12 +81,12 @@
     foreign ports, the film ends with a statement by President Lyndon B. Johnson on
     the significance of the Nuclear Ship Savannah as a pioneer in the use of nuclear
     power for world trade to benefit all mankind.
-  notes: 
+  notes: Being scanned now!
   priority: 1
   links: 
     - name: Related NARA file 88200 
       url: https://catalog.archives.gov/id/88200
-      notes: maybe same one? shorter/longer version?
+      notes: This is the shorter version
 
 - title: UNDER WAY
   naid: 61214
@@ -165,13 +165,13 @@
       url: https://www.youtube.com/watch?v=Cdd2BJI836g
       notes: Digitized by ANL in 240p
 
-
 - title: HALLAM NUCLEAR POWER FACILITY
   naid: 88153
   date: 1963
   length: 20
   color: true
-  description: > 
+  win: true
+  description: >
     This film shows the setting and location of the reactor built jointly by USAEC
     and the Consumers' Public Power District of Nebraska. An explanation of this
     type of reactor, using a liquid metal coolant, is given stressing its
@@ -181,12 +181,55 @@
     installation and operation of safety rods, use of an intermediate heat
     exchanger, installation of steam piping and the installation of the turbine
     and generator. Also shown is fuel handling, cleaning and storage cells, fuel
-    fabrication, and testing
-  notes: 
-  links: 
+    fabrication, and testing.
+  notes:
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=ey1MO_1DkL4
-      notes: Digitized by whatisnuclear.com :)
+      notes: Special thanks to NPPD
+    - name: Our announcement page
+      url: https://whatisnuclear.com/news/2023-03-13-hallam-historical-films-scanned.html
+
+- title: Hallam, Operating Experience
+  naid: 88207
+  date: 1964
+  length: 7.2
+  color: true
+  win: true
+  description: >
+    This describes the operation of the 79-megawatt electric Hallam Nuclear Power
+    Facility which is powered by a 252-megawatt sodium-graphite reactor.
+    Demonstrates Hallam's heat transfer cycle and plant operation features,
+    including fuel transfer and sodium handling.
+  notes: 
+    Basically a condensed version of 88153
+  links: 
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=H1kazdkkB5o
+      notes: Special thanks to NPPD
+    - name: Our announcement page
+      url: https://whatisnuclear.com/news/2023-03-13-hallam-historical-films-scanned.html
+
+- title: In Search of a Critical Moment
+  naid: 88308
+  date: 1970
+  length: 29
+  color: true
+  win: true
+  description: >
+    This film tells the story of the Zero Power Plutonium Reactor (ZPPR), which
+    was a special test reactor in Idaho designed to supply information essential
+    to the development of economic fast-breeder, central-station, nuclear-power
+    plants. The film shows the construction of the ZPPR by the Argonne National
+    Laboratory, its many safety features, plutonium handling and storage, the
+    computer that analyzes the data obtained by the reactor, and the fuel loading
+    and attainment of reactor criticality.
+  notes:
+  links:
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=jmvbbRRYb6k
+    - name: Our announcement page
+      url: https://whatisnuclear.com/news/2022-12-19-zppr-film-scanned.html
 
 - title: ML-1 MOBILE NUCLEAR POWER PLANT
   naid: 88191
@@ -231,7 +274,7 @@
     explains the basic principles of power reactor construction and operation in an
     animated sequence that is also available as a separate film titled, "Basic
     Principles of Power Reactor Operation.
-  notes: 
+  notes:  Being scanned now!
   priority: 1
 
 - title: NUCLEAR ENERGY GOES RURAL
@@ -303,7 +346,7 @@
     determine heat transfer and flow characteristics. The film recounts the
     airlift of the packages, erection and assembly of the power plant, the work to
     achieve criticality, and the varied safety controls.
-  notes: 
+  notes: Being scanned now!
   priority: 1
   links: 
     - name: Short clip on YouTube in SD with red tinge
@@ -1221,4 +1264,24 @@
       url: https://www.unmultimedia.org/avlibrary/asset/2187/2187987/
     - name: Also on Youtube
       url: https://www.youtube.com/watch?v=xqQ0c6UAsMk
+      
+
+- title: "REMOTE REPAIR AND MODIFICATION OF THE HRE-2 CORE VESSEL"
+  naid: 88244 
+  date: 1961
+  length: 20
+  color: true
+  priority: 1
+  description: >
+    Illustrates the remote repair and modification of the HRE-2 core vessel,
+    following the formation of two holes which permitted transfer of fuel to the
+    blanket side of the reactor.  Shows how special equipment had to be designed
+    for repairing the HRE-2, and the problems involved in working with the reactor
+    where the radiation level in the vessel was greater than 100,000 Roentgen per
+    hour.
+  notes: Being scanned now!
+  links: 
+    - name: ORNL-2886
+      url: https://www.osti.gov/biblio/4158813
+      notes: Document describing the process
       

@@ -6,141 +6,78 @@ image: /img/camp-century-pull.jpg
 byline: true
 author: nick
 ---
+
 <div class="row">
 <div class="col-md-12" markdown="1">
 In the olden days, the Atomic Energy Commission and other commissioned dozens
 upon dozens of nuclear energy related videos. Many of these have been digitized,
-but not all. The [list of not-yet-digitized ones](#wantlist) is shown below the list of
-already-digitized ones.  We have been working to get a few digitized and are
-always looking for people who would like to help fund more digitizations. 
+but not all. The [list of not-yet-digitized ones](#wantlist) is shown below the
+list of already-digitized ones.  We have been working to get a few digitized and
+are always looking for people who would like to help fund more digitizations. 
 You can read more about the process of digitization and see some results at [our
-announcement of the world re-premier of a Hallam film ]({% link
-_news/2023-03-13-hallam-historical-films-scanned.md %}) and [our ZPPR video
-page]({% link zppr.md %}).
+ZPPR video page]({% link _news/2022-12-19-zppr-film-scanned.md %}) and [our
+announcement of the world re-premier of a Hallam film]({% link
+_news/2023-03-13-hallam-historical-films-scanned.md %}).
+</div>
+</div>
 
+<div class="row">
+<div class="col-md-6" markdown="1">
 The summary data comes from various catalogs, such as:
-* [Energy Video Catalog (ERDA 1975)](https://www.google.com/books/edition/Energy_Films_Catalog/8CKtsJ7XNwcC?hl=en&gbpv=1&dq=%22ATOM+AND+THE+MAN+ON+THE+MOON%22&pg=PA14&printsec=frontcover)
-* [1965 directory](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater)
 
-# Old Video Directory
+- [Energy Video Catalog (ERDA 1975)](https://www.google.com/books/edition/Energy_Films_Catalog/8CKtsJ7XNwcC?hl=en&gbpv=1&dq=%22ATOM+AND+THE+MAN+ON+THE+MOON%22&pg=PA14&printsec=frontcover)
+- [1965 directory](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater)
+- [1928-1998 catalog from IAEA](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
 
+</div>
+<div class="col-md-6" markdown="1">
+On this page:
 
-<table class="table table-striped">
-<tr>
-<th>Title</th>
-<th>National Archives ID</th>
-<th>Date</th>
-<th>Length (mins)</th>
-<th>Color</th>
-<th>Description</th>
-<th>Notes</th>
-<th>Links</th>
-</tr>
+<div class="" id="tocContents">
+<nav id="TableOfContents" class="section-nav text-muted" markdown="1">
+* Dummy list
+{:toc}
+</nav>
+</div>
 
-{% assign vids_gotten = site.data.videos | where: "priority", empty  | sort: "date" %}
+</div>
+</div>
+<div class="row">
+<div class="col-md-12" markdown="1">
+
+{% assign vids_gotten = site.data.videos | where: "priority", empty  %}
+{% assign vids_gotten_win = vids_gotten | where: "win", "true"  | sort: "date" %}
+{% assign vids_gotten_other = vids_gotten | where: "win", empty  | sort: "date" %}
 {% assign vids_wanted = site.data.videos | where_exp: "item", "item.priority > 0" %}
 
 {% assign grouped_wanted = vids_wanted | group_by: 'priority' %}
 {% assign prioritiesSorted = grouped_wanted | sort: "name" %}
 
-{% for vid in vids_gotten %}
-
-<tr>
-
-<td>{{ vid.title }}</td>
-<td markdown="1">
-
-{% if vid.naid %}
-[{{ vid.naid }}](https://catalog.archives.gov/id/{{ vid.naid }})
-{% else %}
-Not in archives
-{% endif %}
-
-</td>
-<td>{{ vid.date }}</td>
-<td>{{ vid.length }}</td>
-<td>{% if vid.color %}Y{% else %}N{% endif %}</td>
-<td>{{ vid.description|truncate: 900 }}</td>
-<td>{{ vid.notes }}</td>
-<td markdown="1">
-
-{% if vid.links %}
-{% for link in vid.links %}
-[{{ link.name }}]({{ link.url }}) 
-{% if link.notes %}
-({{ link.notes }})
-{% endif %}
-{% endfor %}
-{% endif %}
-
-</td>
-</tr>
-
-{% endfor %}
-</table>
-
-# <a name="wantlist"></a> List of not-yet-digitized videos in order of want
-
-<table class="table table-striped">
-<tr>
-<th>Title</th>
-<th>National Archives ID</th>
-<th>Date</th>
-<th>Length (mins)</th>
-<th>Color</th>
-<th>Description</th>
-<th>Status</th>
-<th>Notes</th>
-<th>Links</th>
-</tr>
-
+{% assign sorted_wanted= '' | split: '' %}
 {% for pri in prioritiesSorted %}
-
-{% assign sorted_wanted = pri.items | sort: 'date' %}
-{% for vid in sorted_wanted %}
-
-<tr>
-
-<td>{{ vid.title }}</td>
-<td markdown="1">
-
-{% if vid.naid %}
-[{{ vid.naid }}](https://catalog.archives.gov/id/{{ vid.naid }})
-{% else %}
-Not in archives
-{% endif %}
-
-</td>
-<td>{{ vid.date }}</td>
-<td>{{ vid.length }}</td>
-<td>{% if vid.color %}Y{% else %}N{% endif %}</td>
-<td>{{ vid.description|truncate: 900 }}</td>
-<td>{{ vid.status }}</td>
-<td>{{ vid.notes }}</td>
-<td markdown="1">
-
-{% if vid.links %}
-{% for link in vid.links %}
-[{{ link.name }}]({{ link.url }}) 
-{% if link.notes %}
-({{ link.notes }})
-{% endif %}
+{% assign sorted_this_pri = pri.items | sort: 'date' %}
+{% assign sorted_wanted = sorted_wanted | concat: sorted_this_pri %}
 {% endfor %}
-{% endif %}
 
-</td>
-</tr>
+# Videos digitized by whatisnuclear
 
-{% endfor %}
-{% endfor %}
-</table>
+{% include table_of_vids.liquid vids=vids_gotten_win %}
 
+# Videos digitized by others
 
-## See Also
+{% include table_of_vids.liquid vids=vids_gotten_other %}
 
-* [A collection of hundreds of more related videos at the National Archives](https://catalog.archives.gov/search-within/88086).
-* [Our announcement of the world re-premier of a Hallam film ]({% link _news/2023-03-13-hallam-historical-films-scanned.md %}).
-* [Our ZPPR video page]({% link zppr.md %}).
-* [Our nuclear reading list]({% link nuclear-reading-list.md %}).
+# Videos not yet digitized in order of want
+
+<a name="wantlist"></a>
+
+{% include table_of_vids.liquid vids=sorted_wanted %}
+
+# See Also
+
+- [A collection of hundreds of more related videos at the National Archives](https://catalog.archives.gov/search-within/88086).
+- [Our announcement of the world re-premier of a Hallam film ]({% link _news/2023-03-13-hallam-historical-films-scanned.md %}).
+- [Our ZPPR video page]({% link _news/2022-12-19-zppr-film-scanned.md %}).
+- [Our nuclear reading list]({% link nuclear-reading-list.md %}).
 </div>
 </div>

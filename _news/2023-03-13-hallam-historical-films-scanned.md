@@ -3,18 +3,20 @@ layout: default
 title: Digitization of historical films about Nebraska's pioneering Hallam Sodium Graphite Reactor.
 author: nick
 category: news
-description: The Nebraska Public Power District has generously sponsored the digitization
-    of two early 1960s films about the historic Hallam Nuclear Power Facility 
-    just south of Lincoln, NE.
+description:
+  The Nebraska Public Power District has generously sponsored the digitization
+  of two early 1960s films about the historic Hallam Nuclear Power Facility
+  just south of Lincoln, NE.
 byline: True
 image: /img/hallam-fuel.jpg
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
 We're excited to announce the world "re-premier" of two historic videos about
 Nebraska's pioneering nuclear power experience with the Hallam Nuclear Power
-Facility at the Sheldon Power Station.  
+Facility at the Sheldon Power Station.
 
 The [Nebraska Public Power District](https://www.nppd.com/) has generously
 sponsored the digitization of two early 1960s films about the historic Hallam
@@ -49,7 +51,7 @@ power) without requiring above ~4% enrichment. The SGR is a nearly-forgotten
 super-capable reactor that has significant operational experience. Hopefully
 these videos will help us remember them.
 
-The second film  contains mostly the same footage as the first, but
+The second film contains mostly the same footage as the first, but
 in a condensed version.
 
 <figure>
@@ -65,7 +67,7 @@ thanks to by [Nebraska Public Power District](https://www.nppd.com/)
 </figcaption> 
 </figure>
 
-Independently of whatisnuclear.com, NPPD also digitized two other Hallam videos that 
+Independently of whatisnuclear.com, NPPD also digitized two other Hallam videos that
 are well worth watching:
 
 <figure>
@@ -92,11 +94,12 @@ of photos from the Hallam decommissioning]({% link hallam-photos.md %}).
 More to come on that!
 
 This digitization effort kicked off after we found out about the existence of the Hallam
-videos in a film catalog linked on [our ZPPR video page]({% link zppr.md %}).
-There are lots more like this still. 
+videos in a film catalog linked on [our ZPPR video page]({% link _news/2022-12-19-zppr-film-scanned.md %}).
+There are lots more like this still.
 
 See Also:
-* [Our Old Videos page]({% link old-videos.md %}).
-* [Hallam SGR photos]({% link hallam-photos.md %})
+
+- [Our Old Videos page]({% link old-videos.md %}).
+- [Hallam SGR photos]({% link hallam-photos.md %})
 
 </div></div>
