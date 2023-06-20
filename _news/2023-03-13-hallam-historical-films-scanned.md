@@ -9,6 +9,7 @@ description:
   just south of Lincoln, NE.
 byline: True
 image: /img/hallam-fuel.jpg
+tag: videos
 ---
 
 <div class="row">
@@ -101,5 +102,8 @@ See Also:
 
 - [Our Old Videos page]({% link old-videos.md %}).
 - [Hallam SGR photos]({% link hallam-photos.md %})
+
+All our video digitization announcements:
+{% include taglist.liquid tag="videos" %}
 
 </div></div>
