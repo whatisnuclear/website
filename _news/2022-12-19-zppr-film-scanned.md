@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news
 title: Historical AEC film about ZPPR scanned
 description: >
   This is the story of how we found and digitized an old AEC film

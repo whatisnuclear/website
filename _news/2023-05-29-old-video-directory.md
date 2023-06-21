@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news
 title: List of old Atomic Energy Commission videos posted
 author: nick
 category: news
@@ -7,6 +7,7 @@ description: Help us digitize
 byline: True
 image: /img/camp-century-pull.jpg
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 

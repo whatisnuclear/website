@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news
 title: ZPPR video, reactor types by coolant and moderator, plus cleanups.
 author: nick
 category: news

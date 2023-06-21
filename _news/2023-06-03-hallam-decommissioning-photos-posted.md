@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news
 title: 329 rare photos from Hallam decommissioning posted
 author: nick
 category: news

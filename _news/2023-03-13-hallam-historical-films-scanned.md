@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news
 title: Digitization of historical films about Nebraska's pioneering Hallam Sodium Graphite Reactor.
 author: nick
 category: news
