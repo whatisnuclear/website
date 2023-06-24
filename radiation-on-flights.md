@@ -8,6 +8,7 @@ image: /img/crshower2_nasa_big.jpg
 date: 2014-05-17
 byline: true
 ---
+
 <div class="col-lg-8" markdown="1">
 
 Radiation exists in nature, and has since the beginning of time. Radio waves
@@ -19,18 +20,32 @@ natural (and radioactive) element radon in the air, but 1/6 of your background
 (on average) comes from cosmic rays [1]. These rays are of interest when thinking
 about radiation on flights.
 
+<figure>
+<div class="ratio ratio-16x9">
+
+<iframe src="https://www.youtube.com/embed/njKl-WmbcEg" title="Me with a Geiger
+counter on a flight" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe> </div>
+<figcaption markdown="1">
+My Geiger counter on a flight
+</figcaption> 
+</figure>
+
 ## Cosmic rays and air showers
 
-<a href="/img/crshower2_nasa_big.jpg"><img class="img-fluid rounded float-end w-50"
+<figure class="float-end w-50">
+<a href="/img/crshower2_nasa_big.jpg"><img class="img-fluid rounded"
 src="/img/crshower2_nasa_big.jpg"  alt="An air shower"/></a> 
-<div class="caption"><p>Radiation from space hits Earth 24/7 (Swordy via <a
-href="https://apod.nasa.gov/apod/ap060814.html">NASA APOD</a>)</p></div>
+<figcaption ><p>Radiation from space hits Earth 24/7 (Swordy via <a
+href="https://apod.nasa.gov/apod/ap060814.html">NASA APOD</a>)</p></figcaption>
+</figure>
 
 Cosmic rays are energetic particles from space. Most of them are protons that
 probably got shot out of exploding stars (supernova) in our galaxy. They are
 flying around the galaxy and hit Earth very regularly. When they hit the
-atmosphere, they cause an *air shower*, where hundreds of less energetic
-particles are produced from one incident cosmic ray.  Because of the way Earth's
+atmosphere, they cause an _air shower_, where hundreds of less energetic
+particles are produced from one incident cosmic ray. Because of the way Earth's
 magnetic field is oriented, it's easier for galactic cosmic rays to reach the
 ground on the polar regions than it is at the equator.
 
@@ -52,7 +67,7 @@ operators receive less than half of this.
 
 Just for fun, I thought I'd take some radiation measurements on a flight. I had
 to fly from Detroit to Paris for work recently, so I brought along my Geiger
-counter and GPS to keep track of radiation vs. altitude. Check it out: 
+counter and GPS to keep track of radiation vs. altitude. Check it out:
 
 <figure class="figure">
 <img class="center img-fluid rounded figure-img" src="/img/dose_and_alt_vs_time.png" alt="radioactive dose
@@ -67,11 +82,11 @@ per minute.</figcaption>
 
 <img class="rounded float-start w-50 p-3" src="/img/detector.jpg"
        alt="the radiation detector used to make the
-       measurements" title="the detector used to make the measurements"/> 
+       measurements" title="the detector used to make the measurements"/>
 You can clearly see that the dose increases with altitude. Since this is a polar
 flight, the dose is higher than average for normal flights. A typical dose rate
 at cruising altitudes in polar regions is 7 &micro;Sv/h, while equatorial
-flights would be more like 2.5  	&micro;Sv/h [1]. This means that you&rsquo;d
+flights would be more like 2.5 &micro;Sv/h [1]. This means that you&rsquo;d
 have to be in the air in polar regions (US to Europe, etc.) for about 21 hours
 to get the same dose as a full mouth series of dental X-rays (150 &micro;Sv).
 The average background + medical + occupational dose to someone in the US is
@@ -86,26 +101,26 @@ cancer or other damage. A 2002 study of 10,000 airline pilots was performed
 over 17 years that found that &quot;no marked risk of cancer attributable to
 cosmic radiation is observed in airline pilots.&quot; [4] So as long as
 you&rsquo;re flying less than an airline pilot, you have nothing to worry
-about. 
+about.
 
 Outside of the atmosphere, cosmic radiation poses a major
 problem for interplanetary travel (like for manned missions to Mars or a colony
-on the moon), so that&rsquo;s something to keep in mind. 
+on the moon), so that&rsquo;s something to keep in mind.
 
 <h1 id="seealso">See Also</h1>
 
-* [Basics of radioactivity]({% link radioactivity.md %}) &mdash; review of what radiation is
-* [Radioactive dose]({% link dose.md %}) &mdash; more info about the units of radioactive dose
-* [Air shower (Wikipedia)](http://en.wikipedia.org/wiki/Air_shower_%28physics%29)
+- [Basics of radioactivity]({% link radioactivity.md %}) &mdash; review of what radiation is
+- [Radioactive dose]({% link dose.md %}) &mdash; more info about the units of radioactive dose
+- [Air shower (Wikipedia)](http://en.wikipedia.org/wiki/Air_shower_%28physics%29)
   &mdash; more info about the cascade of particles that comes raining down after a
   high energy cosmic ray interacts with the atmosphere
-* [Background radiation (Wikipedia)](http://en.wikipedia.org/wiki/Background_radiation) 
+- [Background radiation (Wikipedia)](http://en.wikipedia.org/wiki/Background_radiation)
   &mdash; tables detailing the various components of background radiation
-* [NASA live simulation of dose rates in air](https://iswa.ccmc.gsfc.nasa.gov/IswaSystemWebApp/index.jsp?i_1=664&l_1=40&t_1=270&w_1=600&h_1=620&s_1=0_0_0&i_2=665&l_2=652&t_2=268&w_2=700&h_2=370&s_2=0_0_10_3&i_3=666&l_3=655&t_3=647&w_3=640&h_3=500&s_3=0_0_10_3) &mdash; an incredible simulation
+- [NASA live simulation of dose rates in air](https://iswa.ccmc.gsfc.nasa.gov/IswaSystemWebApp/index.jsp?i_1=664&l_1=40&t_1=270&w_1=600&h_1=620&s_1=0_0_0&i_2=665&l_2=652&t_2=268&w_2=700&h_2=370&s_2=0_0_10_3&i_3=666&l_3=655&t_3=647&w_3=640&h_3=500&s_3=0_0_10_3) &mdash; an incredible simulation
   showing realistic current dose rates
 
-
 # References
+
 <ol>
     <li>UNSCEAR 2000 REPORT Vol. I, SOURCES AND EFFECTS OF IONIZING RADIATION,
         &quot;Exposures from natural radiation sources,&quot; <a
@@ -121,4 +136,3 @@ on the moon), so that&rsquo;s something to keep in mind.
    (2002).</a></li>
 </ol>
 </div>
-
