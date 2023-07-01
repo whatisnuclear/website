@@ -106,5 +106,8 @@
 - title: About
   pages:
     - about
-    - news/
     - contact
+
+- title: News
+  pages:
+    - news/

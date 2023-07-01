@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Whatisnuclear News
+title: News and posts
 description: >
-    News and info about whatisnuclear.com itself.
+  News and tweet-like posts from whatisnuclear.
 permalink: /news/
 image: /img/dc_cook.jpg
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 

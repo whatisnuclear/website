@@ -13,8 +13,8 @@
 <link
   href="{{ '/feed.xml' | relative_url }}"
   rel="alternate"
-  title="{{ site.title | escape
-    }}"type="application/rss+xml">
+  title="{{ site.title | escape }}"
+  type="application/rss+xml" />
 {%- if jekyll.environment == 
 "production" and site.google_analytics -%}
   {% include google-analytics.html %}
@@ -27,7 +27,7 @@
 <meta content="What is nuclear?" property="og:site_name" />
 <meta content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | escape }}{% endif %}" property="og:title" />
 <meta content="{{ site.url }}{{ page.image | default:
-  '/img/reactor.png' }}" property="og:image">
+            '/img/reactor.png' }}" property="og:image">
 {% if page.summary %}
   <meta content="{{ page.summary }}" property="og:description" />
 {%- elsif page.description -%}
@@ -57,7 +57,7 @@
 {%- endif -%}
 {% unless page.nocss %}
   <link href="{{
-    '/dist/font-awesome/css/all.min.css' | relative_url }}" rel="stylesheet"> <link href="{{ '/dist/bootstrap-5.2.1-dist/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
+                        '/dist/font-awesome/css/all.min.css' | relative_url }}" rel="stylesheet"> <link href="{{ '/dist/bootstrap-5.2.1-dist/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
   <link href="{{ '/dist/whatisnuclear.css' | relative_url }}" rel="stylesheet">
 {%- endunless -%}
 {% if page.mathjax %}
@@ -69,3 +69,25 @@
   </script>
 {% endif %}
 
+{% if page.comments %}
+  <script>
+    var remark_config = {
+      host: 'https://comments.whatisnuclear.com',
+      site_id: 'whatisnuclear',
+      no_footer: true
+    };
+  </script>
+  <script>
+    !function (e, n) {
+      for (var o = 0; o < e.length; o = o + 1) {
+        var r = n.createElement ('script'),
+          c = '.js',
+          d = n.head || n.body;
+        'noModule' in r ? (r.type = 'module', c = '.mjs') : r.async = !0,
+        r.defer = !0,
+        r.src = remark_config.host + '/web/' + e[o] + c,
+        d.appendChild (r);
+      }
+    } (remark_config.components || ['embed'], document);
+  </script>
+{% endif %}

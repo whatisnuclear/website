@@ -8,6 +8,7 @@ description: There's a wooden cube aboard the nuclear ship Savannah representing
 byline: True
 image: /img/savannah-wooden-cube.jpg
 mathjax: true
+comments: true
 ---
 
 <div class="row">
