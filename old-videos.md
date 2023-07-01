@@ -5,16 +5,18 @@ description: A directory of old nuclear energy videos including digitization sta
 image: /img/camp-century-pull.jpg
 byline: true
 author: nick
+reading_time: false
 ---
 
 <div class="row">
 <div class="col-md-12" markdown="1">
 In the olden days, the Atomic Energy Commission and other commissioned dozens
 upon dozens of nuclear energy related videos. Many of these have been digitized,
-but not all. The [list of not-yet-digitized ones](#wantlist) is shown below the
-list of already-digitized ones.  We have been working to get a few digitized and
-are always looking for people who would like to help fund more digitizations. 
-You can read more about the process of digitization and see some results at [our
+but not all. The [list of not-yet-digitized
+ones](#videos-not-yet-digitized-in-order-of-want) is shown below the list of
+already-digitized ones.  We have been working to get a few digitized and are
+always looking for people who would like to help fund more digitizations.  You
+can read more about the process of digitization and see some results at [our
 ZPPR video page]({% link _news/2022-12-19-zppr-film-scanned.md %}) and [our
 announcement of the world re-premier of a Hallam film]({% link
 _news/2023-03-13-hallam-historical-films-scanned.md %}).
