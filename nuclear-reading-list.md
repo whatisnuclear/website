@@ -7,10 +7,11 @@ image: /img/kid_in_atom.jpg
 byline: true
 date: 2021-05-24
 updated: 2023-05-29
+comments: true
 ---
+
 <div class="row">
 <div class="col-md-12" markdown="1">
-
 
 This is a curated directory of reading material that may be interesting
 for people to learn more about nuclear power technology. Free items are
@@ -52,17 +53,16 @@ indicated with <span class="badge bg-success">Free!</span>
 <p> <a href="#">&#8593; Top</a> </p>
 {%- endfor -%}
 
-
 # Other educational websites
 
-* [CANTEACH](https://canteach.candu.org/) --- An epic collection of freely available
+- [CANTEACH](https://canteach.candu.org/) --- An epic collection of freely available
   information about CANDU reactors
 
 # Other lists
 
-* [Neutron Bytes Nuclear Reading List](https://neutronbytes.com/nuclear-reading-list/) ---
+- [Neutron Bytes Nuclear Reading List](https://neutronbytes.com/nuclear-reading-list/) ---
   a good list.
-* [Old AEC Videos]({% link old-videos.md %}) ---
+- [Old AEC Videos]({% link old-videos.md %}) ---
   our list of old Atomic Energy Commission videos.
 
 </div>

@@ -3,15 +3,17 @@ layout: default
 title: Greenpeace, CNN, The Hill miss context on radiocarbon release
 shorttitle: Greenpeace misleads
 category: blog
-description: > 
-    CNN's headline based on Greenpeace's claim that releases of radiocarbon (C-14) could "Alter Human
-    DNA" are at odds with impacts seen from natural C-14 production and historical releases
+description: >
+  CNN's headline based on Greenpeace's claim that releases of radiocarbon (C-14) could "Alter Human
+  DNA" are at odds with impacts seen from natural C-14 production and historical releases
 author: nick
 image: /img/blog-fukushima-c14-comparison.png
 mathjax: true
 date: 2020-10-25
 byline: true
+comments: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
@@ -55,8 +57,8 @@ combined**.
 You've heard of using carbon dating to figure out how old things are. This works
 because $$^{14}$$C is created continuously in our atmosphere when cosmic protons interact with
 our atmosphere. $$^{14}$$C has been made in our air constantly since well before humans evolved.
-How much is produced? [Kanu, et al](https://doi.org/10.1002/2015GL066921) shows that 
-2.2(±0.6)e26 atoms of $$^{14}$$C are produced this way per year. 
+How much is produced? [Kanu, et al](https://doi.org/10.1002/2015GL066921) shows that
+2.2(±0.6)e26 atoms of $$^{14}$$C are produced this way per year.
 
 Again dividing by Avogadro's number and multiplying by 14 grams/mol, we see that nature
 places 5100 grams of $$^{14}$$C per year into our atmosphere. This is equal to 14 grams per day.
@@ -77,29 +79,29 @@ and 60 grams of $$^{14}$$C per year for at least 20 years. At this rate (again v
 than the total inventory at Fukushima released every year), it was assessed that the
 natural dose from $$^{14}$$C could nearly double for critical populations due to local
 concentrations. That could arguably be concerning for people sensitive to 2x their natural
-background dose. 
+background dose.
 
 But since the Fukushima release is so much smaller than this, and we didn't see an
 alteration of human DNA from those larger releases, there is a good chance that the
 Fukushima discharges will not alter human DNA.
 
 ## Citations
-* [TEPCO presentation June 30, 2020 on radionuclide
+
+- [TEPCO presentation June 30, 2020 on radionuclide
   concentrations showing C-14 concentrations well below the legal limit](https://www.tepco.co.jp/en/decommission/progress/watertreatment/images/tankarea_en.pdf)
-* The original Greenpeace report, entitled [Stemming the Tide 2020: The Reality of the
+- The original Greenpeace report, entitled [Stemming the Tide 2020: The Reality of the
   Fukushima Radioactive Water
   Crisis](https://storage.googleapis.com/planet4-japan-stateless/2020/10/5768c541-the-reality-of-the-fukushima-radioactive-water-crisis_en_summary.pdf)
-* [European Parliament report on the Sellafield reprocessing plant](http://www.wise-paris.org/english/reports/STOAFinalStudyEN.pdf) 
-* Atmospheric production rate from [Kanu, et al](https://doi.org/10.1002/2015GL066921)
-* [NNDC data for half life](https://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=14C&unc=nds)
-
+- [European Parliament report on the Sellafield reprocessing plant](http://www.wise-paris.org/english/reports/STOAFinalStudyEN.pdf)
+- Atmospheric production rate from [Kanu, et al](https://doi.org/10.1002/2015GL066921)
+- [NNDC data for half life](https://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=14C&unc=nds)
 
 ## See Also
-* [Conca article in Forbes from 2019 explaining further context](https://www.forbes.com/sites/jamesconca/2019/09/12/its-really-ok-if-japan-dumps-radioactive-fukushima-water-into-the-ocean/#3636f309b298)
-* [UNSCEAR 2008 Appendix
+
+- [Conca article in Forbes from 2019 explaining further context](https://www.forbes.com/sites/jamesconca/2019/09/12/its-really-ok-if-japan-dumps-radioactive-fukushima-water-into-the-ocean/#3636f309b298)
+- [UNSCEAR 2008 Appendix
   B](https://www.unscear.org/docs/publications/2008/UNSCEAR_2008_Annex-B-CORR.pdf) showing
   radionuclide releases from other facilities
 
 </div>
 </div>
-

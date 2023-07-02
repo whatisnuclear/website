@@ -10,6 +10,7 @@ byline: true
 reading_time: false
 date: 2023-06-03
 image: /img/hallam-decom/hallam-19-004.jpg
+comments: true
 ---
 
 The photos below come from the decommissioning process of the [Hallam Nuclear
@@ -22,8 +23,7 @@ Station](https://en.wikipedia.org/wiki/Sheldon_Power_Station). After visiting
 the site and looking through the albums, I asked [Nebraska Public Power
 District](https://www.nppd.com/) if they'd be willing to scan them (and [also
 sponsor the digitization of a related film]({% link
-_news/2023-03-13-hallam-historical-films-scanned.md %})).  They graciously
+_news/2023-03-13-hallam-historical-films-scanned.md %})). They graciously
 agreed and sent me the scanned PDF. Special thanks to Scott Margheim and John
 McClure at NPPD for all the efforts in getting this done. We cropped the images
 and transcribed the captions to get them into this form.
-

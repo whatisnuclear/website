@@ -74,7 +74,7 @@ For any questions or concerns regarding the privacy policy, please send us a mes
 via our [contact form]({% link contact.md %}).
 
 _This privacy policy was derived from a GPL template from
-[ArthurGareginyan](https://github.com/ArthurGareginyan/privacy-policy-template/)_
+[ArthurGareginyan](https://github.com/ArthurGareginyan/privacy-policy-template/)_.
 
 </div>
 </div>
