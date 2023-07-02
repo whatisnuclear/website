@@ -6,6 +6,7 @@ category: news
 description: Help us digitize
 byline: True
 image: /img/camp-century-pull.jpg
+comments: true
 ---
 
 <div class="row">

@@ -6,6 +6,7 @@ image: /img/camp-century-pull.jpg
 byline: true
 author: nick
 reading_time: false
+comments: true
 ---
 
 <div class="row">

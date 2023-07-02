@@ -5,6 +5,7 @@ author: nick
 category: news
 byline: True
 image: /img/hallam-decom/hallam-19-004.jpg
+comments: true
 ---
 
 <div class="row">
