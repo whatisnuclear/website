@@ -20,7 +20,7 @@ In the 1950s, hordes of nuclear reactor designers were rushing to find out
 [which combination of coolant, moderator, and fuel types]({% link reactors.md
 %}#types) would be the most economical for commercial power production. Along
 the way, someone came up with the idea of using sodium metal coolant with
-graphite moderator. It's a sodium-cooled *slow* reactor (as opposed to the more
+graphite moderator. It's a sodium-cooled _slow_ reactor (as opposed to the more
 common sodium-cooled fast reactor). The idea here was to capture the following
 benefits:
 
@@ -49,7 +49,7 @@ in any country that is not aggressively reprocessing its spent nuclear fuel.
 <iframe src="https://www.youtube.com/embed/ey1MO_1DkL4?start=20" title="A video about the Hallam SGR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <figcaption markdown="1">1963 Atomic Energy Commission video about Hallam,
-digitized from the National Archives thanks to by [Nebraska Public Power
+digitized from the National Archives thanks to  [Nebraska Public Power
 District](https://www.nppd.com/). See our [announcement of the world re-premier
 of this film here]({% link _news/2023-03-13-hallam-historical-films-scanned.md %}).
 </figcaption> 
@@ -79,9 +79,9 @@ issues. SRE had a coolant issue that led to melted fuel, and Hallam had issues
 with the moderator cans leaking, allowing sodium to contact the graphite and
 cause swelling. The vendor, Atomics International, figured out solutions to
 these issues but did not make enough progress to convince Consumers Public Power
-District (the utility partner) to purchase Hallam at that time.  Thus, as was
+District (the utility partner) to purchase Hallam at that time. Thus, as was
 the deal in the AEC's Power Demonstration Reactor Program (PDRP), the AEC would
-decommission the plant. 
+decommission the plant.
 
 Consumers entered into the experimental reactor program knowing they needed the
 power for their customers one way or another. Because sodium-cooled reactors can
@@ -89,10 +89,10 @@ generate steam of the exact same quality as a coal plant, they decided to build
 a coal-fired plant right next to the HNPF and hook it up to the **exact same
 turbine-generator set**. When the nuclear plant would be down, the coal plant
 could fill the gap, and the customers could have reliable power. The plant
-as a whole was (and still is) called Sheldon Power Station. 
+as a whole was (and still is) called Sheldon Power Station.
 
 As far as we're aware, this was the only time in history that a nuclear and coal
-plant have fed steam into a shared turbine. 
+plant have fed steam into a shared turbine.
 
 <figure>
   <a href="/img/hallam-overhead.jpg">
@@ -113,20 +113,20 @@ plant have fed steam into a shared turbine.
 
 # See Also
 
-* [Hallam SGR photos]({% link hallam-photos.md %})
-* [ANS Nuclear Cafe -- Hallam Nuclear Station on 1960's TV!](https://www.ans.org/news/article-2163/hallam-nuclear-station-on-1960s-tv/)
-* [Sheldon Power Station](https://en.wikipedia.org/wiki/Sheldon_Power_Station)
-* [Hallam Nuclear Power Facility](https://en.wikipedia.org/wiki/Hallam_Nuclear_Power_Facility)
-* [Sodium Reactor Experiment](https://en.wikipedia.org/wiki/Sodium_Reactor_Experiment)
-* [Atomic Energy in Nebraska 1 Sheldon Station Construction](https://www.youtube.com/watch?v=gV9FjSIEKUo) -- 
+- [Hallam SGR photos]({% link hallam-photos.md %})
+- [ANS Nuclear Cafe -- Hallam Nuclear Station on 1960's TV!](https://www.ans.org/news/article-2163/hallam-nuclear-station-on-1960s-tv/)
+- [Sheldon Power Station](https://en.wikipedia.org/wiki/Sheldon_Power_Station)
+- [Hallam Nuclear Power Facility](https://en.wikipedia.org/wiki/Hallam_Nuclear_Power_Facility)
+- [Sodium Reactor Experiment](https://en.wikipedia.org/wiki/Sodium_Reactor_Experiment)
+- [Atomic Energy in Nebraska 1 Sheldon Station Construction](https://www.youtube.com/watch?v=gV9FjSIEKUo) --
   related video also digitized by Nebraska Public Power District
-* [Atomic Energy in Nebraska 2 Sheldon Station Construction](https://www.youtube.com/watch?v=hd7CJvZ6ZAg)  -- 
+- [Atomic Energy in Nebraska 2 Sheldon Station Construction](https://www.youtube.com/watch?v=hd7CJvZ6ZAg) --
   related video also digitized by Nebraska Public Power District, including an amazing shot of the reactor
-  vessel after it rolled off the truck into a corn field (without significant damage). 
-* [Operational Experience, Hallam](https://www.youtube.com/watch?v=H1kazdkkB5o) -- A 1964 video
-  summarizing the operating experience. Footage is 
-  basically the same as the 1963 video posted above, but condensed. 
-* [Our reactor history page's SGR section]({% link reactor_history.md %}#the-hallam-sodium-graphite-reactor-in-nebraska)
+  vessel after it rolled off the truck into a corn field (without significant damage).
+- [Operational Experience, Hallam](https://www.youtube.com/watch?v=H1kazdkkB5o) -- A 1964 video
+  summarizing the operating experience. Footage is
+  basically the same as the 1963 video posted above, but condensed.
+- [Our reactor history page's SGR section]({% link reactor_history.md %}#the-hallam-sodium-graphite-reactor-in-nebraska)
 
 </div>
 </div>

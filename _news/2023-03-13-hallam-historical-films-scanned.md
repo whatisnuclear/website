@@ -38,7 +38,7 @@ encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe> 
 </div>
 <figcaption markdown="1">1963 Atomic Energy Commission
-video about Hallam, digitized from the National Archives thanks to by [Nebraska
+video about Hallam, digitized from the National Archives thanks to [Nebraska
 Public Power District](https://www.nppd.com/) 
 </figcaption> 
 </figure>
@@ -64,7 +64,7 @@ allowfullscreen></iframe>
 </div>
 <figcaption markdown="1">1964 Atomic Energy Commission
 video about Hallam, digitized from the National Archives
-thanks to by [Nebraska Public Power District](https://www.nppd.com/)
+thanks to [Nebraska Public Power District](https://www.nppd.com/)
 </figcaption> 
 </figure>
 

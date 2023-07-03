@@ -346,9 +346,12 @@
     determine heat transfer and flow characteristics. The film recounts the
     airlift of the packages, erection and assembly of the power plant, the work to
     achieve criticality, and the varied safety controls.
-  notes: Being scanned now!
-  priority: 1
+  notes: 
+  win: true
   links: 
+    - name: On YouTube in 4K
+      url: https://www.youtube.com/watch?v=T9S1P54n1FA
+      notes: Thanks to Ross Koningstein for his help
     - name: Short clip on YouTube in SD with red tinge
       url: https://www.youtube.com/watch?v=yPscwg61ZAw
 
