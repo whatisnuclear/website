@@ -18,10 +18,14 @@ tag: videos
 
 We're **extremely** excited to announce the first of _four_ historical nuclear
 films in our latest batch of 4K digitizations from 16mm film at the National
-Archives. It features the 1 MWe **PM-1 military microreactor** that the US Army
-manufactured and tested in a factory, disassembled and air-lifted to the closest
-airfield by C-130, trucked to site, re-assembled, and then powered a remote Cold
-War radar station back in 1962. It was a PWR that could be operated by a crew of 2.
+Archives. It features the 1 MWe **PM-1 military microreactor**, a small modular
+reactor that the US Army manufactured and tested in a factory, disassembled into
+16 modules, and air-lifted to the closest airfield by C-130, trucked to site,
+re-assembled, and then powered a remote Cold War radar station back in 1962. It
+had direct air cooling, meaning it did not need to be near any water supply. It
+was designed to be disassembled, moved, and re-assembled as necessary. No field
+welding was needed for re-assembly. It was a PWR that could be operated by a
+crew of 2.
 
 <figure>
 <div class="ratio ratio-16x9">
@@ -92,6 +96,32 @@ Thanks to Ross Koningstein for his help in making this happen.
   </a>
   <figcaption>There were 5 reactors total built in the Army Nuclear Power Program in remote locations.</figcaption>
 </figure>
+
+Contents of the film by timestamp include:
+
+- 00:00 Intro
+- 02:30 Package (module) descriptions
+- 03:04 Primary system modules
+- 03:23 Secondary system modules
+- 03:41 Turbine/generator module
+- 03:55 Switchgear module
+- 04:43 Heat transfer equipment module
+- 05:21 Maintenance module
+- 05:50 Decontamination and water chemistry module
+- 06:22 Animations of design
+- 08:37 Fuel element fabrication
+- 10:00 Core testing in the critical facility
+- 12:20 Magnetic jack control rod drives
+- 13:01 Flow testing in 1/4 scale model
+- 13:27 Factory fab and initial assembly
+- 13:51 Airlifting the reactor and flight testing
+- 15:10 Field re-assembly
+- 15:45 Startup testing and criticality
+- 17:10 2-person operation team
+- 17:40 Safety and reliability
+- 19:05 Summary
+
+_These are loaded into the youtube video as chapters for your convenience._
 
 ## See Also
 

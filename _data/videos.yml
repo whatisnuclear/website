@@ -274,8 +274,14 @@
     explains the basic principles of power reactor construction and operation in an
     animated sequence that is also available as a separate film titled, "Basic
     Principles of Power Reactor Operation.
-  notes:  Being scanned now!
-  priority: 1
+  notes:  
+  win: true
+  links:
+    - name: Our announcement page
+      url: https://whatisnuclear.com/news/2023-07-04-the-new-power-film-about-nrts.html
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=LmdLgYqJLqs
+      notes: Digitized with a red tinge
 
 - title: NUCLEAR ENERGY GOES RURAL
   naid: 88195
@@ -349,11 +355,11 @@
   notes: 
   win: true
   links: 
+    - name: Our announcement page
+      url: http://localhost:4000/news/2023-07-03-film-about-pm1-microreactor-in-wyoming.html
     - name: On YouTube in 4K
       url: https://www.youtube.com/watch?v=T9S1P54n1FA
       notes: Thanks to Ross Koningstein for his help
-    - name: Short clip on YouTube in SD with red tinge
-      url: https://www.youtube.com/watch?v=yPscwg61ZAw
 
 - title: PM-3A NUCLEAR POWER PLANT ANTARCTICA
   naid: 88221 
