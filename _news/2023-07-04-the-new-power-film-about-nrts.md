@@ -48,6 +48,42 @@ Digitized by us from the National Archives ([NAID
 
 Thanks to Ross Koningstein for his help in making this happen.
 
+</div></div>
+
+<div class="row">
+<div class="col-md-12" markdown="1">
+
+## Some stills from the film
+
+<div class="row">
+ {% for index in (1..22) %} 
+  <div class="col col-xl-3 col-lg-4 col-md-6 col-sm-12 col-12 p-0">
+    <figure class="figure">
+      <a
+        href="/img/nrts-{{index| prepend: '00' | slice: -2, 2 }}.jpg"
+      >
+        <img
+          src="/img/nrts-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
+          class="img-fluid"
+        />
+      </a>
+    </figure>
+  </div>
+ {% endfor %}
+  </div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-8" markdown="1">
+
+## Read more about NRTS/INL
+
+* [Proving the Principle -- A history of the INL](https://inl.gov/factsheet/proving-the-principle/)
+* [About INL](https://inl.gov/about-inl/)
+
+
+
 Contents of the film by timestamp include:
 
 - 00:00 Intro and pioneering
@@ -95,9 +131,11 @@ They apparently called it Prototype Prairie (2:05)
 
 ## See Also
 
-- [Our Old Videos page]({% link old-videos.md %}) with a running list of the available and yet-to-be-scanned films
-  out there. If you're interested in helping to get some of these scanned, [contact us]({% link contact.md %})!
-- [A tweet about this announcement](https://twitter.com/whatisnuclear/status/1675950732175118336)
+- [Our Old Videos page]({% link old-videos.md %}) with a running list of the
+  available and yet-to-be-scanned films out there. If you're interested in helping
+  to get some of these scanned, check out [our digitization
+  GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
+  and/or [contact us]({% link contact.md %})!
 
 All our video digitization announcements:
 {% include taglist.liquid tag="videos" %}

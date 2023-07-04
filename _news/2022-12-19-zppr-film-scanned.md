@@ -96,7 +96,11 @@ If anyone needs the 345 GB ProRes-format version, [let me know]({% link contact.
 - [ZPPR wikipedia page](https://en.wikipedia.org/wiki/Zero_Power_Physics_Reactor)
 - [Film and Video Catalogue Peaceful Applications of Nuclear Energy 1927-1998](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
 - [Another catalog](https://files.eric.ed.gov/fulltext/ED067128.pdf)
-- [Our Old Videos page]({% link old-videos.md %}).
+- [Our Old Videos page]({% link old-videos.md %}) with a running list of the
+  available and yet-to-be-scanned films out there. If you're interested in helping
+  to get some of these scanned, check out [our digitization
+  GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
+  and/or [contact us]({% link contact.md %})!
 
 All our video digitization announcements:
 {% include taglist.liquid tag="videos" %}
