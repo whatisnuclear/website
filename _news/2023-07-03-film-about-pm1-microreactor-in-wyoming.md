@@ -79,11 +79,20 @@ Thanks to Ross Koningstein for his help in making this happen.
 ## Read more about PM-1
 
 - [PM-1 Nuclear Power Program First Quarterly Report (1960)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015094994988&view=1up&seq=3)
+- [PM-1 NUCLEAR POWER PLANT PROGRAM. Quarterly Progress Report No. 2 for June 1 to August 31, 1959](https://www.osti.gov/biblio/4167059)
+- [PM-1 NUCLEAR POWER PLANT PROGRAM 3RD QUARTERLY PROGRESS REPORT FOR SEPTEMBER 1 TO NOVEMBER 30, 1959](https://www.osti.gov/biblio/4150785)
+- [PM-1 NUCLEAR POWER PLANT PROGRAM. Quarterly Progress Report No. 4 for December 1, 1959 to February 29, 1960](https://www.osti.gov/biblio/4159522)
+- [PM-1 NUCLEAR POWER PLANT PROGRAM. Quarterly Progress Report No. 4 for December 1, 1959 to February 29, 1960](https://www.osti.gov/biblio/4159522)
+- [PM-1 NUCLEAR POWER PLANT PROGRAM 5TH QUARTERLY PROGRESS REPORT FOR MARCH 1, 1960 TO MAY 31, 1960](https://www.osti.gov/biblio/4153065)
+- [PM-1 NUCLEAR POWER PLANT PROGRAM. Sixth Quarterly Progress Report, June 1, 1960 to August 31, 1960](https://www.osti.gov/biblio/4796875)
 - [PM-1 Critical Experiments and Zero Power Testing (1961)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015094994996&view=1up&seq=3)
 - [PM-1 Design Analysis](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03914092j&view=1up&seq=37)
   (from Proceedings of the ANPP Reactor Analysis Seminar)
 - [Description of PM-1 criticality in Annual report to Congress - U.S. Atomic Energy Commission. 1962.](https://babel.hathitrust.org/cgi/pt?id=mdp.39015001309411&view=1up&seq=363)
+- [PM Research and Development Program: 1st Quarterly Progress Report, April 15, 1961 to June 30, 1961](https://digital.library.unt.edu/ark:/67531/metadc303768/)
+- [PM RESEARCH AND DEVELOPMENT PROGRAM. Quarterly Progress Report No. 8, January 1, 1963 to March 31, 1963](https://www.osti.gov/biblio/4664260)
 - [Power Reactors in Small Packages](https://babel.hathitrust.org/cgi/pt?id=uc1.a0003433729&view=1up&seq=1)
+- [Record of Decision FORMER SUNDANCE AIR FORCE STATION, PM-1 REACTOR SITE OFF-SITE RELEASE (2011)](https://semspub.epa.gov/work/08/1216052.pdf)
 
 <figure class="figure">
   <a
