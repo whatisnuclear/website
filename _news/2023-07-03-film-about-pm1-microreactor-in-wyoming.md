@@ -95,6 +95,10 @@ Thanks to Ross Koningstein for his help in making this happen.
 - [Power Reactors in Small Packages](https://babel.hathitrust.org/cgi/pt?id=uc1.a0003433729&view=1up&seq=1)
 - [Record of Decision FORMER SUNDANCE AIR FORCE STATION, PM-1 REACTOR SITE OFF-SITE RELEASE (2011)](https://semspub.epa.gov/work/08/1216052.pdf)
 
+As for what happened later, I've requested a copy of [PM-1 FINAL SUMMARY
+REPORT](https://apps.dtic.mil/sti/citations/AD0832917) through the FOIA and will
+let you know if I get it.
+
 <figure class="figure">
   <a
     href="/img/anpp-map.jpg"

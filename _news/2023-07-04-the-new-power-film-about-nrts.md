@@ -134,6 +134,7 @@ They apparently called it Prototype Prairie (2:05)
   to get some of these scanned, check out [our digitization
   GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
   and/or [contact us]({% link contact.md %})!
+- [A tweet about this announcement](https://twitter.com/whatisnuclear/status/1676484526254739459)
 
 All our video digitization announcements:
 {% include taglist.liquid tag="videos" %}
