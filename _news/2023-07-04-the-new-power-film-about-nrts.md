@@ -10,10 +10,10 @@ description: >
   Testing Station (NRTS), known today as the Idaho National Lab (INL).  This is
   the second of _four_ historical nuclear films in our latest batch of 4K
   digitizations from 16mm film at the National Archives.
-
 byline: True
 image: /img/nrts-thumb.jpg
 tag: videos
+comments: true
 ---
 
 <div class="row">
@@ -79,10 +79,8 @@ Thanks to Ross Koningstein for his help in making this happen.
 
 ## Read more about NRTS/INL
 
-* [Proving the Principle -- A history of the INL](https://inl.gov/factsheet/proving-the-principle/)
-* [About INL](https://inl.gov/about-inl/)
-
-
+- [Proving the Principle -- A history of the INL](https://inl.gov/factsheet/proving-the-principle/)
+- [About INL](https://inl.gov/about-inl/)
 
 Contents of the film by timestamp include:
 
