@@ -10,6 +10,7 @@ categories:
 image: /img/zppr-thumb.jpg
 byline: true
 tag: videos
+comments: true
 ---
 
 <div class="row">

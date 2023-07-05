@@ -10,6 +10,7 @@ description:
 byline: True
 image: /img/hallam-fuel.jpg
 tag: videos
+comments: true
 ---
 
 <div class="row">
