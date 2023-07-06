@@ -86,5 +86,10 @@ Other links:
 - [A collection of hundreds of more related videos at the National Archives](https://catalog.archives.gov/search-within/88086).
 - [Our nuclear reading list]({% link nuclear-reading-list.md %}).
 
+If you're interested in helping to get some of these scanned, check out [our
+digitization
+GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
+and/or [contact us]({% link contact.md %})!
+
 </div>
 </div>
