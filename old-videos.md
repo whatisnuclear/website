@@ -78,9 +78,13 @@ On this page:
 
 # See Also
 
+All our video digitization announcements:
+{% include taglist.liquid tag="videos" %}
+
+Other links:
+
 - [A collection of hundreds of more related videos at the National Archives](https://catalog.archives.gov/search-within/88086).
-- [Our announcement of the world re-premier of a Hallam film ]({% link _news/2023-03-13-hallam-historical-films-scanned.md %}).
-- [Our ZPPR video page]({% link _news/2022-12-19-zppr-film-scanned.md %}).
 - [Our nuclear reading list]({% link nuclear-reading-list.md %}).
+
 </div>
 </div>

@@ -31,10 +31,7 @@ Not in archives
           <ul>
 {% for link in vid.links %}
 <li markdown="1">
-[{{ link.name }}]({{ link.url }})
-{% if link.notes %}
-({{ link.notes }})
-{% endif %}
+[{{ link.name }}]({{ link.url }}) {% if link.notes %} ({{ link.notes }}) {% endif %}
 </li>
 {% endfor %}
           </ul>

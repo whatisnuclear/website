@@ -1280,7 +1280,6 @@
   date: 1961
   length: 20
   color: true
-  priority: 1
   description: >
     Illustrates the remote repair and modification of the HRE-2 core vessel,
     following the formation of two holes which permitted transfer of fuel to the
@@ -1288,8 +1287,13 @@
     for repairing the HRE-2, and the problems involved in working with the reactor
     where the radiation level in the vessel was greater than 100,000 Roentgen per
     hour.
-  notes: Being scanned now!
+  notes: 
+  win: true
   links: 
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=Dc2VZav17Ag
+    - name: Our announcement page
+      url: https://whatisnuclear.com/news/2023-07-05-film-about-hre2-vessel-leak-and-repair.html
     - name: ORNL-2886
       url: https://www.osti.gov/biblio/4158813
       notes: Document describing the process
