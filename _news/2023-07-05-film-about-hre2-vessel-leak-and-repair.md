@@ -1,7 +1,7 @@
 ---
 layout: news
 title: >
-  1961 film, "Remote Repair and Modification of the HRE-2 Core Vessel" digitized
+  1961 film, 'Remote Repair and Modification of the HRE-2 Core Vessel' digitized
 author: nick
 category: news
 description: >
