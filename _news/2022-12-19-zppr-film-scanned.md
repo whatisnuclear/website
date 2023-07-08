@@ -73,7 +73,7 @@ the total cost up to over $900.
 I convinced my SO to let me do it because I just like nuclear history that much.
 I authorized the scan and then waited for a while. They got it done and sent the
 hard drive via FedEx. I loaded the 345 GB file onto my NAS and then used ffmpeg
-to make a h246 version of it that was only 23.4 GB. Thank goodness for my big
+to make a h264 version of it that was only 23.4 GB. Thank goodness for my big
 AMD 5950 CPU. Then I uploaded that to YouTube. Thank goodness for fiber!
 
 It premiered on YouTube on December 19th, 2022 at noon PT.

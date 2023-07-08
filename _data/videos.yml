@@ -1298,3 +1298,24 @@
       url: https://www.osti.gov/biblio/4158813
       notes: Document describing the process
       
+- title: "Power Reactors USA"
+  naid: 88224 
+  date: 1958
+  length: 51
+  color: true
+  description: >
+    Comprehensive survey of the U.S. power reactor programm - covering technical
+    planning, construction and operational experience associated with the
+    Shippingport pressurized water reactor, the Army Package power reactor, the
+    Indian Point and Yankee projects, Argonne Laboratory's experimental boiling
+    water reactor, the Pleasanton, Dresden, and Monroe projects, the Idaho organic
+    moderated reactor experiment, experimental breeder reactor 1, and homogenous
+    reactor experiments 1 and 2.
+  notes: Possibly mis-cataloged at NARA as 1964? and in IAEA catalog as 15 mins instead of 51?
+  links: 
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=fF1Z9YmWgJE
+      notes: Re-hosted from US Army site
+    - name: US Army Corps of Engineers Digital Library
+      url: https://usace.contentdm.oclc.org/digital/collection/p16021coll1/id/101/rec/5
+      
