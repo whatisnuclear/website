@@ -1319,3 +1319,104 @@
     - name: US Army Corps of Engineers Digital Library
       url: https://usace.contentdm.oclc.org/digital/collection/p16021coll1/id/101/rec/5
       
+
+- title: BONUS for Puerto Rico
+  naid: 46354
+  date: 1967
+  length: 20
+  color: true
+  description: >
+    The film describes the construction and initial operation of a small, unique
+    nuclear power station, the Boiling Nuclear Superheat Reactor, in the
+    picturesque, tropical setting of Puerto Rico. Through animation, the film
+    compares nuclear superheat reactors with other types and briefly describes the
+    joint arrangements between the United States Atomic Energy Commission and the
+    Puerto Rico Water Resources Authority for construction and operation of this
+    first nuclear power plant in the tropics.
+  notes: In IAEA catalog
+  priority: 1
+
+- title: Desalting the seas
+  naid: 54015
+  date: 1967
+  length: 17
+  color: true
+  description: >
+    Describes the various methods of purifying saline waters through the use of
+    nuclear energy (the crystallization or freezing process, the membrane or
+    squeezing process, the distillation or boiling process), with particular
+    emphasis on large scale dual-purpose nuclear-electric desalting plants which
+    will not only purify water but will also produce large amounts of electric
+    power simultaneously
+  notes: In IAEA catalog
+  links: 
+    - name: On YouTube!
+      url: https://www.youtube.com/watch?v=0KeclXO9kXY
+      notes: Uploaded 4 days before I made this DB entry... eerie!
+    - name: Other copy?
+      url: https://catalog.archives.gov/id/89058
+      notes: Worth asking NARA which one is easier/better
+
+- title: Atomic Revolution in Wood
+  naid: 1157934
+  date: 1969
+  length: 23
+  color: true
+  description: >
+    The film shows a new, peaceful application of nuclear energy - the fusing of
+    wood and plastic by irradiation into a combination-substance which has all the
+    aesthetic appeal of wood, but is greatly improved in hardness, resistance and
+    durability. The film explains the process for making this new material and
+    describes its superior characteristics and woodworking properties in
+    comparison to plain wood.
+  notes: Sounds kind of like those new timber buildings. In IAEA catalog.
+  links: 
+  priority: 2
+
+- title: Douglas Point - Nuclear Power Station
+  naid: 
+  date: 1968
+  length: 26
+  color: true
+  description: >
+    This film describes the construction of the Douglas Point Reactor. Douglas
+    point is 120 miles north-west of the city of Toronto and this CANDU (Canadian
+    Deuterium) reactor is the first full scale nuclear power station in Canada 
+  notes: In IAEA catalog
+  links: 
+    - name: On YouTube!
+      url: https://www.youtube.com/watch?v=dk-3X7hTJKA
+
+- title: The Bitter and the Sweet
+  naid: 88316
+  date: 1971
+  length: 30
+  color: true
+  description: >
+    All aspects of desalting technology, and a capsule report on the status of
+    commercial desalting in the western hemisphere given. Blueprints the
+    Agro-industrial complex idea: the belief that the technologies of desalting
+    and nuclear energy must converge to prevent world poverty. Shows nuclear
+    energy to be cheapest source of power - as opposed to coal, oil, gas - to
+    drive conversion systems in desalting water
+  notes: In IAEA catalog
+  priority: 2
+
+- title: Atomschiff Otto Hahn
+  date: 1971
+  length: 37
+  color: true
+  description: >
+    'Otto Hahn' is the first nuclear propelled ship in Germany, which went critical
+    in 1968. As a research vessel, it is being used to accumulate and evaluate
+    operational experience for the development of a new, improved generation of
+    nuclear ships. The film describes the nuclear reactor system of the ship
+    throughout the phases of designing, testing and assembling of components, and
+    the operation of the various reactor systems. Especial emphasis is placed on the
+    reactor core and the control rods, the primary and secondary shielding, the
+    safety containment, and the fuel system.
+  notes: In IAEA catalog
+  priority: 2
+  links: 
+    - name: 1 minute clip
+      url: https://www.ardmediathek.de/video/berichte-vom-tage/atomschiff-otto-hahn-vor-dem-stapellauf-stumm/ndr/Y3JpZDovL25kci5kZS9lYTQ2YjBiOS05YmRhLTQ1N2EtYjNmZi1mMDlkOTIyMzhmODc
