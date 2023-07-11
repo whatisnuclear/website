@@ -1,29 +1,43 @@
+<div class="table-responsive-md">
 <table class="table table-striped">
   <tr>
+    <th>Metadata</th>
     <th>Title</th>
-    <th>National Archives ID</th>
-    <th>Date</th>
-    <th>Length (mins)</th>
-    <th>Color</th>
     <th>Description</th>
     <th>Notes</th>
     <th>Links</th>
   </tr>
   {% for vid in include.vids %}
     <tr>
-      <td>{{ vid.title }}</td>
-      <td markdown="1">
+      <td>
+        <table class="table">
+        <tr>
+          <td>NARA ID</td>
+<td markdown="1">
 {% if vid.naid %}
 [{{ vid.naid }}](https://catalog.archives.gov/id/{{ vid.naid }})
 {% else %}
 Not in archives
 {% endif %}
 </td>
-      <td>{{ vid.date }}</td>
-      <td>{{ vid.length }}</td>
-      <td>
-        {% if vid.color %}Y{% else %}N{% endif %}
+        </tr>
+        <tr>
+          <td>Date</td>
+          <td>{{ vid.date }}</td>
+        </tr>
+        <tr>
+          <td>Length</td>
+          <td>{{ vid.length }} mins</td>
+        </tr>
+        <tr>
+          <td>Color</td>
+          <td>
+          {% if vid.color %}Y{% else %}N{% endif %}
+          </td>
+        </tr>
+        </table>
       </td>
+      <td>{{ vid.title }}</td>
       <td>{{ vid.description | truncate: 900 }}</td>
       <td>{{ vid.notes }}</td>
       <td>
@@ -40,3 +54,4 @@ Not in archives
     </tr>
   {% endfor %}
 </table>
+</div>
