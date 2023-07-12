@@ -119,8 +119,11 @@ _These are loaded into the youtube video as chapters for your convenience._
 
 ## See Also
 
-- [Our Old Videos page]({% link old-videos.md %}) with a running list of the available and yet-to-be-scanned films
-  out there. If you're interested in helping to get some of these scanned, [contact us]({% link contact.md %})!
+- [Our Old Videos page]({% link old-videos.md %}) with a running list of the
+  available and yet-to-be-scanned films out there. If you're interested in helping
+  to get some of these scanned, check out [our digitization
+  GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
+  and/or [contact us]({% link contact.md %})!
 - [Tweet announcement of this](https://twitter.com/whatisnuclear/status/1676807927225806849)
 
 All our video digitization announcements:

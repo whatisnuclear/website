@@ -81,9 +81,13 @@
     foreign ports, the film ends with a statement by President Lyndon B. Johnson on
     the significance of the Nuclear Ship Savannah as a pioneer in the use of nuclear
     power for world trade to benefit all mankind.
-  notes: Being scanned now!
-  priority: 1
+  win: true
   links: 
+    - name: Our announcement page
+      url: https://whatisnuclear.com/news/2023-07-12-the-nuclear-ship-savannah-film-digitized.html
+    - name: On YouTube!
+      url: https://www.youtube.com/watch?v=SA8W2Xpz2hA
+      notes: Thanks to Ross Koningstein for help
     - name: Related NARA file 88200 
       url: https://catalog.archives.gov/id/88200
       notes: This is the shorter version
@@ -281,7 +285,6 @@
       url: https://whatisnuclear.com/news/2023-07-04-the-new-power-film-about-nrts.html
     - name: On YouTube
       url: https://www.youtube.com/watch?v=LmdLgYqJLqs
-      notes: Digitized with a red tinge
 
 - title: NUCLEAR ENERGY GOES RURAL
   naid: 88195
