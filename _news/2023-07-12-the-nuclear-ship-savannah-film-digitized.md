@@ -78,7 +78,7 @@ to our film-scanning GoFundMe (linked below).
 - [US MARAD N.S. Savannah Site](https://www.maritime.dot.gov/nssavannah)
 - [Tour of NS Savannah](https://maritime.org/tour/savannah/)
 - [Literature review of N.S. Savannah](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095050384&view=1up&seq=1)
-- [Nuclear merchant ship reactor final safeguards report : environmental analysis of NS "Savannah" Operation at Camden](https://babel.hathitrust.org/cgi/pt?id=umn.31951d04030082d&view=thumb&seq=1)
+- [N.S. Savannah Engineering Drawings](https://www.loc.gov/resource/hhh.dc1047.sheet?st=gallery)
 - [Step inside the world's only nuclear-powered passenger ship -- built in 1959 (NPR)](https://www.npr.org/2023/06/23/1182973358/step-aboard-the-nuclear-powered-passenger-ship-of-tomorrow-from-1959)
 
 Contents of the film by timestamp include:
