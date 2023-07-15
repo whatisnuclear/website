@@ -1423,3 +1423,37 @@
   links: 
     - name: 1 minute clip
       url: https://www.ardmediathek.de/video/berichte-vom-tage/atomschiff-otto-hahn-vor-dem-stapellauf-stumm/ndr/Y3JpZDovL25kci5kZS9lYTQ2YjBiOS05YmRhLTQ1N2EtYjNmZi1mMDlkOTIyMzhmODc
+
+- title: "Miracle in the Desert: The story of Hanford"
+  date: 1966
+  length: 29
+  color: true
+  description: >
+    Tells the story of the development during World War II of the Hanford Engineer Works in
+    Southeastern Washington. The construction of the billion dollar plant was based on the
+    discovery in 1941 of the new element 94, plutonium, in California by Dr. Glenn T.
+    Seaborg and the demonstration of the first successful nuclear chain reaction in Chicago by
+    Dr. Enrico Fermi in 1942. Hanford's broad research efforts in the fields of metallurgy,
+    radiation effects, biology, aquatic biology, atmospheric physics and other peaceful uses of
+    atomic energy are summarized
+  notes: In IAEA catalog
+  priority: 2
+  links: 
+    - name: Digitized in low res
+      url: https://footagefarm.com/reel-details/science/chemistry/miracle-in-the-desert---the-story-of-hanford-r1-of-3
+
+- title: "Nuclear innovations in process control"
+  date: 1971
+  length: 17
+  color: true
+  description: >
+    Depicts the great versatility and sophistication of nuclear methods now available for
+    control of industrial processes and nondestructive testing. The rapid response-time of
+    these techniques makes it possible to incorporate nuclear instrumentation into a loop that
+    provides, for example, automatic control of paper production, and into many steps of the
+    processing of iron ore. The techniques are used in determining; moisture content and
+    impurities in materials, alloy composition , highway road density, defects in turbine
+    blades, and the basic crystal structure of a metal.
+  notes: In IAEA catalog
+  priority: 3
+  links: 
