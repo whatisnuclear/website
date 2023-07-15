@@ -81,6 +81,10 @@ to our film-scanning GoFundMe (linked below).
 - [N.S. Savannah Engineering Drawings](https://www.loc.gov/resource/hhh.dc1047.sheet?st=gallery)
 - [Step inside the world's only nuclear-powered passenger ship -- built in 1959 (NPR)](https://www.npr.org/2023/06/23/1182973358/step-aboard-the-nuclear-powered-passenger-ship-of-tomorrow-from-1959)
 
+The film was produced for the USAEC and the US Maritime Administration by
+Orleans Film Productions. It was originally sold for $85 per print, including
+shipping case.
+
 Contents of the film by timestamp include:
 
 - 00:00 Intro Sea Trials
@@ -108,6 +112,41 @@ Contents of the film by timestamp include:
 
 _These are loaded into the youtube video as chapters for your convenience._
 
+## Photos from video production
+
+Right after we digitized this, Alice Orleans Jordon, the daughter of the film's
+producer, Sam Orleans, reached out and shared some photos from their personal
+collection. She's in the film as a child at 22:07 with her mother. She recalls:
+
+{:.blockquote}
+
+> They served us fruit cocktail for these takes. I remember it was chilled. I
+> was so impressed! There was a white baby grand piano in the lounge--I learned to
+> play chopsticks on it. The lounge had white, plush carpet. I remember how good
+> it felt on my bare feet!
+
+Here are her photos:
+
+</div></div>
+
+<div class="row">
+<div class="col-md-12" markdown="1">
+
+<div class="row">
+ {% for index in (1..16) %} 
+  <div class="col col-xl-3 col-lg-4 col-md-6 col-sm-12 col-12 p-0">
+    <figure class="figure">
+    <a href="/img/orleans/orleans_savannah_collection_{{index| prepend: '00' | slice: -2, 2 }}.jpg">
+    <img src="/img/blank.png" data-echo="/img/orleans/orleans_savannah_collection_{{index| prepend: '00' | slice: -2, 2 }}.jpg" alt="Photo from Sam Orleans" class="img img-fluid" ></a>
+    </figure>
+  </div>
+ {% endfor %}
+  </div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-8" markdown="1">
 ## See Also
 
 - [Our Old Videos page]({% link old-videos.md %}) with a running list of the
@@ -121,3 +160,5 @@ All our video digitization announcements:
 {% include taglist.liquid tag="videos" %}
 
 </div></div>
+
+{% include lazyload.html %}
