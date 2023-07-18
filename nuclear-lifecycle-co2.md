@@ -21,11 +21,11 @@ comments: true
 
 {{ page.description }}
 
-![Nuclear low carbon plot](/img/nuclear-lifecycle.svg){: .img-fluid }
+![Nuclear low carbon plot](/img/nuclear-lifecycle.svg){: .img-fluid .w-100}
 
 For reference, solar photovoltaic lifecycle emissions are around 40 gCO₂-eq/kWh.
 
-![All low carbon plot](/img/lifecycle-carbon-emissions_opt.svg){: .img-fluid }
+![All low carbon plot](/img/lifecycle-carbon-emissions_opt.svg){: .img-fluid .w-100}
 
 Fossil fuel and biofuel energy systems work by combusting a carbon-based fuel
 in the presence of oxygen. A reaction between molecular electrons occurs,
