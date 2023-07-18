@@ -8,10 +8,11 @@ image: /img/Rb-Sr-clock1.png
 mathjax: true
 date: 2014-04-27
 byline: true
+comments: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
-
 
 You may have heard that the Earth is 4.54 billion years old. This was calculated by taking
 precise measurements of things in the dirt and in meteorites and using the principles of
@@ -21,7 +22,7 @@ radioactive decay to determine an age. This page will show you how that was done
 
 Radioactive nuclides decay with a half-life. If the half-life of a material is 100 years
 and you have 1 kg of it, 100 years from now you will only have 0.5 kg of it. The rest will
-have decayed into a different nuclide (called a *daughter* nuclide). Several
+have decayed into a different nuclide (called a _daughter_ nuclide). Several
 radioactive nuclides exist in nature with half-lives long enough to be useful for geologic
 dating.
 
@@ -32,10 +33,10 @@ cooling to become a rock. It naturally has different concentrations of Rb and Sr
 different parts of the rock because these don't necessarily mix perfectly. This is
 shown schematically in Figure 1. Once it cools all the way and crystallizes, it is
 considered "born" and atoms can no longer come in or out of the system. At this
-point, its radiometric clock starts ticking. 
+point, its radiometric clock starts ticking.
 
 <div class="thumbnail">        
-    <img src="/img/Rb-Sr-clock1.png" alt="cartoon of a rock it differing concentrations of Rb and Sb in different sections of the rock"/>
+    <img class="img-fluid" src="/img/Rb-Sr-clock1.png" alt="cartoon of a rock it differing concentrations of Rb and Sb in different sections of the rock"/>
     <p><strong>Figure 1.</strong> Schematic diagram of a rock with different concentrations of Rb and Sb throughout.</p>
 </div>
 
@@ -50,7 +51,6 @@ the relative amounts of Sr87 and Rb87, we can figure out how old the rock is!
 decay</a> shows us that the number of Sr87 nuclides that exist after some time t is: 
 $$\text{Sr87}_{\text{now}}=   \left(e^{\lambda t}-1 \right)\text{Rb87}_{\text{now}} +\text{Sr87}_{\text{orig}} $$</div>
 
-
 <div><p>We can measure \(\text{Sr87}_{\text{now}}\), \(\text{Rb87}_{\text{now}}\), and
 \(\lambda\), but we can&rsquo;t measure \(\text{Sr87}_{\text{orig}}\) (no one was around
 to measure it back then). So what do we do? We use something called an <em>isochron</em>.
@@ -61,7 +61,6 @@ originally had different mixtures of Rb and Sr, we can expect to get different p
 each sample we measure, and if all samples have the same age, then we expect to see a
 straight line (hence the name isochron).</p>
 
-
 <p>We plot all our measurements and then fit a line through them. The slope of the line can
 then be solved for \(t\), giving us the age of the rock. As a bonus, the intercept (\(b\))
 of the line tells us the value of \(\text{Sr87}_{\text{orig}}\) because we know the line
@@ -71,7 +70,7 @@ and how it increases with time.
 </div>
 
 <div class="thumbnail">  
-    <img src="/img/rb-sr.gif" alt="animated graph of Sr87 vs. Rb87 with time"/>
+    <img class="img-fluid" src="/img/rb-sr.gif" alt="animated graph of Sr87 vs. Rb87 with time"/>
     <p><strong>Figure 2.</strong> The isochrons of the Rb/Sr clock. Note that the values of the axes are actually normalized by Sr86 because the mass spectrometers used to take these measurements are much more accurate at relative values than they are at absolutes. It works because Sr86 is stable and not radiogenic and therefore stays constant with time. </p>
 </div>
 
@@ -98,8 +97,7 @@ from leaded gasoline).
 
 Many other methods have been used to date the Earth, with many different sets of
 radioactive nuclides (and other methods). They are all consistent with Patterson's
-measurement. This is how we know how old the Earth is. 
-
+measurement. This is how we know how old the Earth is.
 
 The mathematical details of the lead-lead isotopic clock are less straightforward than
 those of the Rb-Sr method. On the other hand, since only lead is involved (instead of two
@@ -109,22 +107,22 @@ derivation, but you can find it elsewhere[1]. The end result is that the slope o
 isochron with Pb207 concentrations graphed against Pb206 (both relative to non-radiogenic
 Pb204) is equal to:
 
-$$ m = \frac{N_{U235}}{N_{U238}} \frac{e^{\lambda_{U235} t}-1}{e^{\lambda_{U238} t}-1}$$
-          
+$$ m = \frac{N*{U235}}{N*{U238}} \frac{e^{\lambda*{U235} t}-1}{e^{\lambda*{U238} t}-1}$$
+
 <p>Data from several meteorites and from a few terrestrial sources are shown in Figure 3. The data have been replotted from the tables of [2]. </p>
 <div class="thumbnail">        
-    <img src="/img/pb-pb-isochron.png" class="center" alt="Plot of lead isotopic ratios on the geochron whose slope gives the age of the Earth."/>
+    <img src="/img/pb-pb-isochron.png" class="img-fluid center" alt="Plot of lead isotopic ratios on the geochron whose slope gives the age of the Earth."/>
     <p class="caption"><strong>Figure 3.</strong>The Pb-Pb isochron of several meteorites and deep Earth samples. Since this determines the age of the Earth, it is also known as the Geochron.</p>
 </div>
 
 The best-fit line shown in Figure 3 has a slope of 0.602459. Unfortunately, the geochron
 equation above is transcendental, meaning there&rsquo;s no algebraic solution for it and
 it has to be solved numerically. Conveniently, this is very trivial with a few lines of
-Python. Using 
+Python. Using
 <a href="https://github.com/partofthething/whatisnuclear/blob/master/whatisnuclear/age_of_earth/lead_geochron.py">this python program that I wrote</a>, I am able to instantly
 calculate the age of the Earth to be 4.51 billion years using lead isotopic measurements
 alone. Cool! This is within the uncertainty claimed by Patterson.
-       
+
 Note that Uranium-235 decays to Lead-207 and that Uranium-238 decays to Lead-206. There
 are short-lived details in these decay chains, but they don&rsquo;t matter on the
 timescales we&rsquo;re dealing with. See the decay chain link in the See Also section
@@ -150,7 +148,7 @@ much evidence for The Big Bang that created the universe 13.8 billion years ago.
 This created all the building blocks of atoms. Since then, the atoms, both large
 and small have been forged in stars in the processes of stellar
 nucleosynthesis.
-       
+
 <hr/>
 
 # Assumptions made during radiogenic isotopic geology
@@ -159,6 +157,7 @@ There are certainly some assumptions made to perform these calculations. Let's g
 some of them.
 
 ## The half-lives of radioactive decay have remained constant since the formation of the Earth
+
 This assumption, also known as Uniformitarianism, needs to be justified before
 considering the calculations on this page accurate. If the half-lives change, then
 we're out of luck. Fortunately, there is a lot of evidence that they don't
@@ -177,7 +176,6 @@ The fact that lunar, meteorite, and terrestrial samples all have consistent isot
 distributions for the most part strongly suggests that this is true.
 
 <hr/>
-
 
 ## See Also
 
