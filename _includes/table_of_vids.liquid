@@ -1,57 +1,53 @@
-<div class="table-responsive-md">
-<table class="table table-striped">
-  <tr>
-    <th>Metadata</th>
-    <th>Title</th>
-    <th>Description</th>
-    <th>Notes</th>
-    <th>Links</th>
-  </tr>
+  <div class="row bg-dark text-light">
+    <div class="col col-lg-2">Metadata</div>
+    <div class="col col-lg-2">Title</div>
+    <div class="col col-lg-4">Description</div>
+    <div class="col col-lg-2">Notes</div>
+    <div class="col col-lg-2">Links</div>
+  </div>
   {% for vid in include.vids %}
-    <tr>
-      <td>
-        <table class="table">
-        <tr>
-          <td>NARA ID</td>
-<td markdown="1">
-{% if vid.naid %}
-[{{ vid.naid }}](https://catalog.archives.gov/id/{{ vid.naid }})
-{% else %}
+<div class="row" id="{{vid.naid}}">
+  <div class="col-12 col-lg-2">
+        <div class="row">
+          <div class="col">NARA ID</div>
+<div class="col">
+{%- if vid.naid -%}
+<a href="https://catalog.archives.gov/id/{{ vid.naid }}">{{vid.naid}}</a>
+<a href="#{{vid.naid}}">&#167;</a>
+{%- else -%}
 Not in archives
-{% endif %}
-</td>
-        </tr>
-        <tr>
-          <td>Date</td>
-          <td>{{ vid.date }}</td>
-        </tr>
-        <tr>
-          <td>Length</td>
-          <td>{{ vid.length }} mins</td>
-        </tr>
-        <tr>
-          <td>Color</td>
-          <td>
+{%- endif %}
+</div>
+</div>
+        <div class="row">
+          <div class="col">Date</div>
+          <div class="col">{{ vid.date }}</div>
+        </div>
+        <div class="row">
+          <div class="col">Length</div>
+          <div class="col">{{ vid.length }} mins</div>
+        </div>
+        <div class="row">
+          <div class="col">Color</div>
+          <div class="col">
           {% if vid.color %}Y{% else %}N{% endif %}
-          </td>
-        </tr>
-        </table>
-      </td>
-      <td>{{ vid.title }}</td>
-      <td>{{ vid.description | truncate: 900 }}</td>
-      <td>{{ vid.notes }}</td>
-      <td>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-2">{{ vid.title }}</div>
+      <div class="col-12 col-lg-4">{{ vid.description | truncate: 900 }}</div>
+      <div class="col-12 col-lg-2">{{ vid.notes }}</div>
+      <div class="col-12 col-lg-2">
         {% if vid.links %}
           <ul>
 {% for link in vid.links %}
-<li markdown="1">
-[{{ link.name }}]({{ link.url }}) {% if link.notes %} ({{ link.notes }}) {% endif %}
+<li>
+<a href="{{link.url}}">{{ link.name }}</a> {% if link.notes %} ({{ link.notes }}) {% endif %}
 </li>
 {% endfor %}
           </ul>
         {% endif %}
-      </td>
-    </tr>
+      </div>
+    </div>
+<hr/>
   {% endfor %}
-</table>
-</div>
