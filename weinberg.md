@@ -6,7 +6,7 @@ description: Commentary on Weinberg's incredible life and advice about building 
 author: nick
 date: 2019-07-29
 byline: true
-image: /img/weinberg-cover.jpg
+image: /img/weinberg-cover-top.jpg
 ---
 
 <div class="row">
