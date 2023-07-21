@@ -60,7 +60,7 @@ were now higher than ever.
 <nav id="TableOfContents" markdown="1">
 
 - Dummy list
-  {:toc}
+{:toc}
 
 </nav>
 </div>

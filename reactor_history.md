@@ -51,7 +51,7 @@ style="">
 <nav id="TableOfContents" class="section-nav" markdown="1">
 
 - Dummy list
-  {:toc}
+{:toc}
 
 </nav>
 </div>

@@ -54,7 +54,8 @@ work.](https://www.youtube.com/watch?v=OeTjXxWvPTc)
 <div class="section-nav" id="tocContents">
 <nav id="TableOfContents" markdown="1">
 
-- Dummy list {:toc}
+- Dummy list
+{:toc}
 
 </nav>
 </div>
