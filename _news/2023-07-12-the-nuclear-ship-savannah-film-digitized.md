@@ -16,9 +16,9 @@ comments: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-For the grand finale of our June/July 2023 batch of film digitizations, we're
-**extraordinarily** excited to announce the recent digitization of a 1964 film
-all about everyone's favorite nuclear-powered cargo ship: The N.S. Savannah!
+We're **extraordinarily** excited to announce the recent digitization of a 1964
+film all about everyone's favorite nuclear-powered cargo/passenger ship: The N.S.
+Savannah!
 
 <figure>
 <div class="ratio ratio-16x9">
@@ -71,6 +71,7 @@ to our film-scanning GoFundMe (linked below).
 
 <div class="row">
 <div class="col-md-8" markdown="1">
+
 ## Read more about N.S. Savannah
 
 - [Wikipedia entry](https://en.wikipedia.org/wiki/NS_Savannah)
@@ -112,6 +113,82 @@ Contents of the film by timestamp include:
 
 _These are loaded into the youtube video as chapters for your convenience._
 
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-8" markdown="1">
+
+## The N.S. Savannah at the Seattle World's Fair 1962
+
+My journey to digitizing this video actually started when [I happened
+upon](https://twitter.com/whatisnuclear/status/1652827641819574273) [a quote in
+an old document that
+said](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/who%20we%20are/engineering%20history/landmarks/87-ns-savannah-1962.pdf):
+
+<blockquote class="blockquote">
+"Considered by some marine engineers the most beautiful ship ever built, the
+sleek white SAVANNAH was shown off to the crowds at the 1962 Seattle World’s
+Fair"
+</blockquote>
+
+And so, I sought out a picture of N.S. Savannah in Seattle. By going through the
+newspaper archives around the time of her visit, [I found a bad-quality scan of
+Savannah with the Space
+Needle](https://twitter.com/whatisnuclear/status/1654133262309281795). The more
+I looked, the more I decided I needed to get this film digitized, hoping it
+would have shots from Seattle. And sure enough, it did. But I also wanted to see
+if I could find the photo from the newspaper. I called local museums and
+libraries. The MOHAI in Seattle dug through their records and found negatives of
+Savannah. I ordered scans of two of them and get the rights to post them here.
+Behold!
+
+</div>
+</div>
+
+<div class="row">
+  <div class="col col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0">
+    <figure class="figure">
+      <a
+        href="/img/1986.5.14092.1_crop.jpg"
+      >
+        <img
+          data-echo="/img/1986.5.14092.1_crop_sm.jpg"
+          scr="/img/blank.png"
+          class="img-fluid"
+          alt="The N.S. Savannah nuclear powered cargo ship in Elliot Bay by the Space Needle, Seattle, visiting the World's Fair in 1962"
+        />
+      </a>
+      <figcaption>
+      The N.S. Savannah in Elliot Bay by the Space
+      Needle, Seattle, visiting the World's Fair in 1962.
+      (Credit: MOHAI, Seattle
+      Post-Intelligencer Collection, 1986.5.14092.1, photo by Harvey Davis)
+      </figcaption>
+    </figure>
+  </div>
+  <div class="col col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0">
+    <figure class="figure">
+      <a
+        href="/img/1986.5.14093.1_md.jpg"
+      >
+        <img
+          data-echo="/img/1986.5.14093.1_sm.jpg"
+          class="img-fluid"
+          scr="/img/blank.png"
+          alt="The N.S. Savannah nuclear powered cargo ship in Seattle at the 1962 World's fair pulling into the pier with a band playing."
+        />
+      </a>
+      <figcaption>
+      The N.S. Savannah nuclear powered cargo ship in Seattle at the 1962 World's fair pulling into the pier with a band playing.
+      (Credit: MOHAI, Seattle Post-Intelligencer Collection, 1986.5.14093.1)
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="row">
+<div class="col-md-8" markdown="1">
 ## Photos from video production
 
 Right after we digitized this, Alice Orleans Jordon, the daughter of the film's
