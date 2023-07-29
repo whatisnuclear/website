@@ -134,14 +134,16 @@ Fair"
 
 And so, I sought out a picture of N.S. Savannah in Seattle. By going through the
 newspaper archives around the time of her visit, [I found a bad-quality scan of
-Savannah with the Space
-Needle](https://twitter.com/whatisnuclear/status/1654133262309281795). The more
-I looked, the more I decided I needed to get this film digitized, hoping it
-would have shots from Seattle. And sure enough, it did. But I also wanted to see
-if I could find the photo from the newspaper. I called local museums and
-libraries. The MOHAI in Seattle dug through their records and found negatives of
-Savannah. I ordered scans of two of them and get the rights to post them here.
-Behold!
+the Savannah with the Space
+Needle](https://twitter.com/whatisnuclear/status/1654133262309281795) from the
+[October 2 1962
+Seattle PI newspaper](https://infoweb-newsbank-com.ezproxy.spl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C12EB6BE1393489FA580F5880B8B058E&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A142FE773BA94746A%2540EANX-NB-16D6365F762EAF47%25402437940-16D630242953EE36%25402-16D630242953EE36%2540/hlterms%3A).
+The more I looked, the more I decided I needed to get this film digitized,
+hoping it would have shots from Seattle. And sure enough, it did. But I also
+wanted to see if I could find the photo from the newspaper. I called local
+museums and libraries. The MOHAI in Seattle dug through their records and found
+negatives of Savannah. I ordered scans of two of them and get the rights to post
+them here. Behold!
 
 </div>
 </div>
@@ -161,7 +163,7 @@ Behold!
       </a>
       <figcaption>
       The N.S. Savannah in Elliot Bay by the Space
-      Needle, Seattle, visiting the World's Fair in 1962.
+      Needle, Seattle, visiting the World's Fair in 1962. Fireboat Duwamish in the foreground.
       (Credit: MOHAI, Seattle
       Post-Intelligencer Collection, 1986.5.14092.1, photo by Harvey Davis)
       </figcaption>
