@@ -88,9 +88,6 @@ function copySettingsToClipboard() {
   let text = new URL(`${location.protocol + '//' + location.host}` + '/slides/nuclear-overview.html' + `?${params}`);
   window.location = text;
 }
-
-
-
 </script>
 
 </div>
