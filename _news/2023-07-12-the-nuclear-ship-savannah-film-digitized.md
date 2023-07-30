@@ -156,7 +156,7 @@ them here. Behold!
       >
         <img
           data-echo="/img/1986.5.14092.1_crop_sm.jpg"
-          scr="/img/blank.png"
+          src="/img/blank.png"
           class="img-fluid"
           alt="The N.S. Savannah nuclear powered cargo ship in Elliot Bay by the Space Needle, Seattle, visiting the World's Fair in 1962"
         />
@@ -177,7 +177,7 @@ them here. Behold!
         <img
           data-echo="/img/1986.5.14093.1_sm.jpg"
           class="img-fluid"
-          scr="/img/blank.png"
+          src="/img/blank.png"
           alt="The N.S. Savannah nuclear powered cargo ship in Seattle at the 1962 World's fair pulling into the pier with a band playing."
         />
       </a>
