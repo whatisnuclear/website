@@ -3,7 +3,7 @@ layout: slides
 title: Shipping Nuclear Power Out To See
 description: >
   A talk about nuclear power on ships.
-image: /img/slides-blank.png
+image: /img-slide/offshore-reactors-slide1.png
 ---
 
 <section
@@ -31,10 +31,6 @@ image: /img/slides-blank.png
   <p class="frontmatter small">
     <span id="date"></span>
   </p>
-  <p class="attribution">
-    Slides courtesy of
-    <a href="/slides.html">whatisnuclear.com</a>
-  </p>
 </section>
 
 <!-- prettier-ignore -->
@@ -56,8 +52,8 @@ image: /img/slides-blank.png
   function setInputVals() {
     // These can all be passed in as query params
     const input = new URLSearchParams(window.location.search);
-    event.innerText = input.get("event") || "";
-    presenter.innerText = input.get("presenter") || "";
+    event.innerText = input.get("event") || "Science on Tap";
+    presenter.innerText = input.get("presenter") || "Nick Touran PhD, PE";
     date.innerText = input.get("date") || now.toLocaleDateString();
     let newtitle = input.get("title");
     if (newtitle) {
