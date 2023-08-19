@@ -700,8 +700,8 @@
   notes: 
   priority: 3
   links: 
-    title: Description link
-    url: https://babel.hathitrust.org/cgi/pt?id=coo.31924004286914&view=1up&seq=29
+    - name: Description link
+      url: https://babel.hathitrust.org/cgi/pt?id=coo.31924004286914&view=1up&seq=29
     
 - title: PROJECT GNOME
   naid: 52213
