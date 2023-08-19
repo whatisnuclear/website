@@ -2,9 +2,9 @@
 layout: default
 title: What is nuclear energy?
 description: >
-    Nuclear fission power plants make sustainable, reliable, and clean heat and electricity
-    with almost no lifecycle greenhouse gas emissions. However, they are expensive and generate radioactive
-    material. Here you will learn about the nuances of nuclear energy.
+  Nuclear fission power plants make sustainable, reliable, and clean heat and electricity
+  with almost no lifecycle greenhouse gas emissions. However, they are expensive and generate radioactive
+  material. Here you will learn about the nuances of nuclear energy.
 image: /img/dc_cook.jpg
 ---
 
@@ -15,13 +15,13 @@ image: /img/dc_cook.jpg
 a nuclear reactor with an atom symbol on a cooling tower and a lightning bolt on the
 reactor." {% imagesize img/reactor_web.svg:props %} />
 In the late 1930s, we discovered that some particularly large atoms found in
-nature can be split into two (or *fission*), releasing a shocking amount of
+nature can be split into two (or _fission_), releasing a shocking amount of
 energy as heat. Because the energy emerges from the atomic nucleus,
-we call it *nuclear energy*.
+we call it _nuclear energy_.
 
 When these atoms are arranged properly in a machine called a nuclear reactor,
 each splitting nucleus can induce its neighbors to split in turn, creating a
-controlled chain reaction.  Reactors can convert the released nuclear heat into
+controlled chain reaction. Reactors can convert the released nuclear heat into
 electricity, shaft horsepower (to power ships), building heating,
 desalinated water, hydrogen, and many other things useful to human
 civilization.
@@ -127,6 +127,7 @@ density of nuclear fuel</a> page for details.</p>
 
         While uncommonly done due to current market structures, today's nuclear reactors are perfectly capable
         of ramping their power up and down daily, to the tune of 2-5% full power per minute!
+
 <figure>
 <img src="/img/load_follow.png" class="img img-fluid" alt="Graph showing that nuclear reactors can load follow"/>
             <figcaption>
@@ -134,12 +135,11 @@ density of nuclear fuel</a> page for details.</p>
             </figcaption>
 </figure>
 
-
         This can be an important complement to low-carbon but uncontrollably-intermittent power sources like wind and solar.
       </div>
     </div>
-  </div>
 
+  </div>
 
   <div class="accordion-item">
     <h2 class="accordion-header card-header" id="headingFour">
@@ -153,27 +153,25 @@ We have enough nuclear fuel resources to power the world for [literally billions
 years]({% link nuclear-sustainability.md %}) with advanced
 reactors. Even with conventional reactors, peak uranium is far off.
 
-
 <img src="/img/nuclear-sustainability_opt.svg" class="img img-fluid" alt="Bar graph
 showing how many years you could power the world using nuclear fuel from different
 sources. It starts with mined uranium in conventional reactors going just a few years
 to crustal uranium in breeder reactors going for 4 billion years."/>
 
-Humans use a lot of energy, and we're using more every day. Between 2000 and 2010, the world total 
-energy consumption rose by an astounding 29% [1]. Choices about our consumption of energy are fundamental 
-to the primary geopolitical and environmental struggles of our day. Nuclear energy is a strong candidate 
+Humans use a lot of energy, and we're using more every day. Between 2000 and 2010, the world total
+energy consumption rose by an astounding 29% [1]. Choices about our consumption of energy are fundamental
+to the primary geopolitical and environmental struggles of our day. Nuclear energy is a strong candidate
 for supplying our energy while alleviating these struggles.
-</div>
-</div>
-</div>
-</div>
 
-
+</div>
+</div>
+</div>
+</div>
 
 ### What are the downsides of nuclear energy?
 
- Of course nothing's perfect. Long-standing questions and concerns abound
- regarding nuclear energy. Click for details.
+Of course nothing's perfect. Long-standing questions and concerns abound
+regarding nuclear energy. Click for details.
 
 <div class="accordion" id="accordion2">
   <div class="accordion-item">
@@ -206,6 +204,7 @@ what should be done with this high-level nuclear waste.
 </p>
 
 We have a detailed page dedicated to <a href="{% link waste.md %}" class="card-link">nuclear waste here.</a>
+
 </div>
 </div>
 </div>
@@ -232,16 +231,18 @@ power of a nuclear reactor before and after shutdown.">
 
       <h5 class="card-title">Safety solutions</h5>
       <p class="card-text" markdown="1">
-Nuclear energy has actually *saved* over 1.8 million lives by displacing air-pollution
+
+Nuclear energy has actually _saved_ over 1.8 million lives by displacing air-pollution
 related deaths that would have occurred had fossil or biofuel plants been built instead of
 the clean-air nuclear ones [2]. This includes the health effects of the nuclear accidents.
 So they're like airplanes; when one goes down, it is a major disaster and huge story, but
 when you [look at the data](https://ourworldindata.org/safest-sources-of-energy), it is
 clear that nuclear reactors are one of the safest ways known to produce energy.
 And advanced designs can make them even safer.
-      </p>
-      <a href="{% link risk.md %}" class="card-link">Nuclear safety and risk details</a>
-      </div>
+</p>
+<a href="{% link risk.md %}" class="card-link">Nuclear safety and risk details</a>
+</div>
+
   </div>
   </div>
 
@@ -302,8 +303,9 @@ in bringing costs down.
 </div>
 
 ## A nuanced reality
+
 Nuclear fission's ability to responsibly produce global-scale, 24/7, (nearly)
-carbon-free energy is unmatched among known technologies.  
+carbon-free energy is unmatched among known technologies.
 
 Next-generation reactor designs exist that can further reduce waste, improve
 safety, increase proliferation resistance, and reduce costs. Even if someone
@@ -311,7 +313,7 @@ doesn't support current nuclear, it is difficult for them to disregard all possi
 improvements. We humans have made impressive accomplishments before.
 
 Of all the known energy resources, nuclear is perhaps the most passionately
-debated and least understood.  Our goal is to explain what makes some people so
+debated and least understood. Our goal is to explain what makes some people so
 excited and supportive, and what makes others so passionately opposed. There are
 many sides to each story. Let's explore them deeper.
 
@@ -322,15 +324,15 @@ gas, intermittency, and nuclear</a></p>
 
 ## Fission and Fusion
 
-There are two fundamental nuclear processes considered for energy production: fission and fusion. 
+There are two fundamental nuclear processes considered for energy production: fission and fusion.
 
-* **Fission** is the energetic splitting of large atoms such as Uranium or Plutonium into two
+- **Fission** is the energetic splitting of large atoms such as Uranium or Plutonium into two
   smaller atoms, called fission products. To split an atom, you have to hit it with a neutron.
   Several neutrons are also released which can go on to split other nearby atoms, producing a nuclear
   chain reaction of sustained energy release. This nuclear reaction was the first of the two to be
   discovered. All commercial <a href="{% link reactors.md %}">nuclear power plants</a> in operation
   use this reaction to generate heat which they turn into electricity.
-* **Fusion** is the combining of two small atoms such as Hydrogen or Helium to produce heavier atoms
+- **Fusion** is the combining of two small atoms such as Hydrogen or Helium to produce heavier atoms
   and energy. These reactions can release more energy than fission without producing as many
   radioactive byproducts. Fusion reactions occur in the sun, generally using Hydrogen as fuel and
   producing Helium as waste (fun fact: Helium was discovered in the sun and named after the Greek Sun
@@ -341,16 +343,15 @@ There are two fundamental nuclear processes considered for energy production: fi
 ## Where to go from here
 
 Take a look at the navigation bar on the top of the page (or click the line-icon
-if you're on a small screen).  You'll find information on all sorts of relevant
+if you're on a small screen). You'll find information on all sorts of relevant
 topics. To get started, check out the [what is a nuclear reactor?]({% link
 reactors.md %}) page.
 
 Other highlights include:
 
-* [Nuclear reactor development history]({% link reactor_history.md %})
-* [Age of the Earth]({% link geology.md %})
-* [Radiation on flights]({% link radiation-on-flights.md %})
-
+- [Nuclear reactor development history]({% link reactor_history.md %})
+- [Age of the Earth]({% link geology.md %})
+- [Radiation on flights]({% link radiation-on-flights.md %})
 
 <div class="alert alert-success" role="alert">
 One of our more unique features is a <a href="{% link chernobyl-memories.html %}" class="alert-link">personal account of 
@@ -361,11 +362,10 @@ the Chernobyl accident by a mother and father</a> of one of our contributors, wh
 
 <div class="col-md-4">
 
-
 {% include featured.html %}
 
 <h4>Our goal</h4>
-<p>To answer this common sentiment: </p> 
+<p>To answer this common sentiment: </p>
 
 <figure class="text-start">
   <blockquote class="blockquote">
@@ -397,7 +397,6 @@ Guy standing there
 
 </div>
 
-
 </div>
       
 <div class="row">
@@ -417,10 +416,7 @@ of the IPCC</a>)</li>
 </div>
 </div>
 
-
 <div class="row">
 <div class="col-md-12">
 <a href="{% link reactors.md %}" class="btn btn-success m-1" role="button">Next &#10095;</a>
 </div></div>
-
-
