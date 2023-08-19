@@ -31,8 +31,9 @@ of electricity, enough to power 400 million average households. About one-fifth
 of the USA's electricity comes from nuclear power, which represents about half
 of the country's zero-carbon electricity.
 
-Nuclear energy is controversial due to concerns about radiation. Public support varies
-geographically, but nuclear is generally among the least popular forms of energy.
+Nuclear energy is controversial due to concerns about radiation. Public support
+varies geographically and over time, but as of 2023, polls show that a majority
+of people support expanding nuclear power.
 
 ### Why are some people so excited about nuclear energy?
 
