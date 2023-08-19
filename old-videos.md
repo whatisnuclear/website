@@ -15,12 +15,16 @@ In the olden days, the Atomic Energy Commission and other commissioned dozens
 upon dozens of nuclear energy related videos. Many of these have been digitized,
 but not all. The [list of not-yet-digitized
 ones](#videos-not-yet-digitized-in-order-of-want) is shown below the list of
-already-digitized ones.  We have been working to get a few digitized and are
-always looking for people who would like to help fund more digitizations.  You
+already-digitized ones.  We have been working to get a few digitized.  You
 can read more about the process of digitization and see some results at [our
 ZPPR video page]({% link _news/2022-12-19-zppr-film-scanned.md %}) and [our
 announcement of the world re-premier of a Hallam film]({% link
 _news/2023-03-13-hallam-historical-films-scanned.md %}).
+If you're interested in helping to get more of these scanned, check out [our
+digitization
+GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
+and/or [contact us]({% link contact.md %})!
+
 </div>
 </div>
 
@@ -85,11 +89,6 @@ Other links:
 
 - [A collection of hundreds of more related videos at the National Archives](https://catalog.archives.gov/search-within/88086).
 - [Our nuclear reading list]({% link nuclear-reading-list.md %}).
-
-If you're interested in helping to get some of these scanned, check out [our
-digitization
-GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
-and/or [contact us]({% link contact.md %})!
 
 </div>
 </div>
