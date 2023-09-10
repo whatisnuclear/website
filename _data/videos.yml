@@ -305,7 +305,7 @@
   priority: 3
 
 - title: NUCLEAR REACTORS FOR RESEARCH
-  naid: 
+  naid: 88197
   date: 1955
   length: 15
   color: true
@@ -314,8 +314,10 @@
     reactor type and describes the components and the various steps in the
     construction of a small homogeneous reactor. Operation of the reactor is
     described, and research uses are illustrated.
-  notes: Not in the archives
-  priority: 2
+  notes: NARA version says no sound, but Periscope found sound
+  links: 
+    - name: Digitized by Periscope
+      url: https://www.youtube.com/watch?v=J1CL5GELNW8
 
 - title: THE PIQUA NUCLEAR POWER FACILITY
   naid: 88218 
@@ -1456,4 +1458,16 @@
     blades, and the basic crystal structure of a metal.
   notes: In IAEA catalog
   priority: 3
+  links:
+
+- title: "Headstart on tomorrow"
+  date: 1962
+  length: 12
+  color: true
+  description: >
+    Description of the construction and operation of Big Rock Nuclear Power Plant in Charlevoix, MI
+    from Consumers Energy. Narrated by Ronald Reagan.
+  notes: Not in National Archives
   links: 
+    - name: Digitized by Periscope Film
+      url: https://www.youtube.com/watch?v=YSMIoXzkSZA
