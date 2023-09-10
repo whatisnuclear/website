@@ -4,7 +4,9 @@ title: What about Hanford?
 description: What happened at Hanford is pretty unrelated to commercial nuclear energy
 author: nick
 byline: true
+image: /img/hanford-process.png
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
