@@ -25,15 +25,14 @@ water reactors. A variety of small technical problems arose that proved
 expensive to fix permanently, and so the project was eventually abandoned, and
 today's BWRs sadly do not superheat their steam.
 
-Today, we received in the mail a hard drive containing this documentary, digitized off
+We just received in the mail a hard drive containing this documentary, digitized off
 of 16mm film from the National Archives for (what we believe is) the first time
 ever. Now, the story of BONUS, its construction, and initial operation, can
 stream to you in living color wherever you are. Enjoy!
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe
-src="https://www.youtube.com/embed/SA8W2Xpz2hA" title="BONUS for Puerto Rico" 
+<iframe src="https://www.youtube.com/embed/yRYfUsY5W8o?si=8NOIyCMyoPpDCzIK" title="BONUS for Puerto Rico" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
@@ -48,7 +47,7 @@ and uploaded by us, sourced from the US National Archives.
 <b>Catalog description: </b> {{ vid.description }}
 </blockquote>
 
-Thanks to Brett Rampal for fully funding the digitization of this film.
+Thanks to Brett Rampal for funding the digitization of this film.
 
 </div></div>
 
@@ -58,7 +57,7 @@ Thanks to Brett Rampal for fully funding the digitization of this film.
 ## Some stills from the film
 
 <div class="row">
- {% for index in (0..28) %} 
+ {% for index in (0..24) %} 
   <div class="col col-xl-4 col-lg-6 col-md-8 col-sm-12 col-12 p-0">
     <figure class="figure">
       <a
@@ -89,28 +88,19 @@ Thanks to Brett Rampal for fully funding the digitization of this film.
 
 Contents of the film by timestamp include:
 
-- 00:00 Intro Sea Trials
-- 01:52 Intro credits
-- 02:21 The S.S. Savannah steam ship
-- 03:57 Conventional Merchant Marine
-- 04:59 Nuclear-powered ships
-- 06:04 Proposal by Eisenhower
-- 07:01 Start of Construction
-- 08:02 Schematic power cycle
-- 09:05 Shielding
-- 10:04 Component manufacturing
-- 10:37 Training operators
-- 12:06 Full-size mockup
-- 13:07 Retractable stabilizers and launching
-- 14:15 Reactor test assembly
-- 17:05 Final assembly and Fueling
-- 18:19 Head installation and criticality
-- 19:14 Sea trials
-- 20:55 First port of call
-- 25:32 Panama Canal
-- 26:08 Seattle World's Fair
-- 26:49 Service in Galveston
-- 27:26 Message from Lyndon B. Johnson
+- 00:00 Intro credits
+- 01:12 Introduction
+- 03:48 Clearing the site
+- 04:41 Ground-breaking ceremony
+- 06:37 Vessel fabrication
+- 07:40 Animations of operating principles
+- 09:16 Arrival of vessel in San Juan
+- 11:07 Completion of containment shell and turbine
+- 15:55 Repairs during construction
+- 16:45 Installing control rods
+- 17:44 Installing fuel assemblies
+- 19:15 Initial criticality and operation
+- 20:49 Summary
 
 _These are loaded into the youtube video as chapters for your convenience._
 
