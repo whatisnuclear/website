@@ -7,7 +7,7 @@ category: news
 description: >
   See the story of the BONUS nuclear reactor in Puerto Rico in full color.
 byline: True
-image: /img/bonus-03.jpg
+image: /img/bonus-02.jpg
 tag: videos
 comments: true
 ---
