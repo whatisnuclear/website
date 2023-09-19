@@ -1328,7 +1328,7 @@
 - title: BONUS for Puerto Rico
   naid: 46354
   date: 1967
-  length: 20
+  length: 22
   color: true
   description: >
     The film describes the construction and initial operation of a small, unique
@@ -1338,8 +1338,14 @@
     joint arrangements between the United States Atomic Energy Commission and the
     Puerto Rico Water Resources Authority for construction and operation of this
     first nuclear power plant in the tropics.
-  notes: FUNDING SECURED! In IAEA catalog.
-  priority: 1
+  notes: In IAEA catalog.
+  win: true
+  links: 
+    - name: Our announcement page
+      url: https://whatisnuclear.com/news/2023-09-19-film-about-bonus-reactor-in-puerto-rico.html
+    - name: On YouTube!
+      url: https://www.youtube.com/watch?v=yRYfUsY5W8o
+      notes: Thanks to Brett Rampal for making this happen
 
 - title: Desalting the seas
   naid: 54015
