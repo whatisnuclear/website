@@ -9,7 +9,7 @@ description: >
   This reactor was manufactured in a factory, flown by C-130 to an airfield, and
   then trucked to the remote site near Sundance, WY as part of the Army Nuclear Power Program.
 byline: True
-image: /img/pm1-05.jpg
+image: /img/pm1/pm1-05.jpg
 tag: videos
 comments: true
 ---
@@ -61,10 +61,10 @@ Thanks to Ross Koningstein for his help in making this happen.
   <div class="col col-xl-4 col-lg-6 col-md-8 col-sm-12 col-12 p-0">
     <figure class="figure">
       <a
-        href="/img/pm1-{{index| prepend: '00' | slice: -2, 2 }}.jpg"
+        href="/img/pm1/pm1-{{index| prepend: '00' | slice: -2, 2 }}.jpg"
       >
         <img
-          src="/img/pm1-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
+          src="/img/pm1/pm1-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid"
         />
       </a>
