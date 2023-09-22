@@ -16,10 +16,11 @@ comments: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-I got it! The PM-1 Final Summary Report was delivered to me yesterday after I
-filed a FOIA request to the military library that had it cataloged (at their
-recommendation). This is the pure-gold lessons-learned report from operating a 1
-MWe military microreactor in WY for 4 years.
+I got it! The [PM-1 Final Summary
+Report](/assets/PM-1%20Final%20Summary%20Report.pdf) was delivered to me
+yesterday after I filed a FOIA request to the military library that had it
+cataloged (at their recommendation). This is the pure-gold lessons-learned
+report from operating a 1 MWe military microreactor in WY for 4 years.
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-01.jpg" >
@@ -178,7 +179,7 @@ has a dim economic outlook based on this experience.
 
 Notably, they really were not impressed with how much maintenance the
 conventional (non-nuclear) parts of the plant required. "Perhaps another
-approach is required". Direct energy conversion, anyone?
+approach is necessary". Direct energy conversion, anyone?
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-16.jpg" >
