@@ -9,7 +9,7 @@ description: >
   a 1 MWe military microreactor in Wyoming for 4 years, broken down
   system by system. It covers staffing and overall costs as well.
 byline: True
-image: /img/pm1fsr-01.jpg
+image: /img/pm1/pm1fsr-01.jpg
 comments: true
 ---
 
