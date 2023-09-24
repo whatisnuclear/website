@@ -7,7 +7,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-time-to-read"
 end
-
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
 gem "jekyll-image-size", "~> 1.2"
+gem "jekyll-exif-data"

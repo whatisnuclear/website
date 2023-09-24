@@ -60,12 +60,14 @@ Thanks to Brett Rampal for funding the digitization of this film.
  {% for index in (0..24) %} 
   <div class="col col-xl-4 col-lg-6 col-md-8 col-sm-12 col-12 p-0">
     <figure class="figure">
-      <a
-        href="/img/bonus-{{index| prepend: '00' | slice: -2, 2 }}.jpg"
+    {% capture ipath %}/img/bonus-{{index| prepend: '00' | slice: -2, 2 }}.jpg{% endcapture %}
+     <a
+        href="{{ipath}}"
       >
         <img
-          src="/img/bonus-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
+          src="{{ipath}}"
           class="img-fluid"
+          alt="{{ ipath |remove_first: '/'| exif: 'image_description' }}"
         />
       </a>
     </figure>
@@ -83,6 +85,7 @@ Thanks to Brett Rampal for funding the digitization of this film.
 - [Wikipedia entry](https://en.wikipedia.org/wiki/Boiling_Nuclear_Superheater_Reactor_Facility)
 - [Nuclear Energy for Puerto Rico, ANS Nuclear Cafe](https://www.ans.org/news/article-1818/nuclear-energy-for-puerto-rico/)
 - [Boiling Nuclear Superheater (BONUS) Power Station : final summary design report](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095034941&view=1up&seq=1)
+- [BOILING NUCLEAR SUPERHEATER (BONUS) POWER STATION: PUNTA HIGUERA SITE NEAR RINCON, PUERTO RICO. Project Completion Report](https://doi.org/10.2172/4512116)
 - [BONUS, Puerto Rico, Decommissioned Reactor Site Office of Legacy Management](https://www.energy.gov/lm/bonus-puerto-rico-decommissioned-reactor-site)
 - [BOILING NUCLEAR SUPER-HEATER (BONUS) POWER STATION TECHNICAL SPECIFICATIONS](https://doi.org/10.2172/4768881)
 

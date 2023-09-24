@@ -38,6 +38,8 @@ plugins:
   - jekyll-time-to-read
   - jekyll-feed
   - jekyll-image-size
+  - jekyll-exif-data
+
 
 feed:
     collections:
