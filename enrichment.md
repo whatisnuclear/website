@@ -1,6 +1,6 @@
 ---
 title: Enrichment SWU calculator
-description: > 
+description: >
   Interactive nuclear enrichment and SWU calculator where
   you can enter a given feed or product mass and a product
   enrichment and it will tell you how much feed and SWU you
@@ -10,6 +10,7 @@ layout: default
 date: 2022-10-27
 image: /img/enrichment-ss.png
 ---
+
 <div class="row">
 <div class="col-md-12" markdown="1">
 
@@ -95,8 +96,6 @@ LEU
 current settings to clipboard</button></p>
  </div>
 </div>
-
-
 
 <script src='https://cdn.plot.ly/plotly-2.16.1.min.js'></script>
 
@@ -241,7 +240,8 @@ function setInputVals() {
   tails_assay.value = input.get("tails-assay") || 0.25;
   feed_assay.value = input.get("feed-assay") || 0.711;
   number.value = input.get("enrich") || 4.0;
-  range.value=number.value;
+  range.value = number.value;
+  setRange(number.value);
   feed_mass.value = input.get("feed-mass") || 0;
   product_mass.value = input.get("product-mass") || 1;
   feed_mass.value = input.get("feed-mass") || 1;
@@ -305,5 +305,3 @@ computeFeed();
 
 </div>
 </div>
-
-
