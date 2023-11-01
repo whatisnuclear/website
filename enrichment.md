@@ -100,11 +100,11 @@ LEU
 <h2>Economics inputs:</h2>
 <div class="row">
 <div class="col-md-3">
-<label for="feed-cost" class="form-label">Cost of Feed U3O8 ($/kgU)</label>
+<label for="feed-cost" class="form-label">Cost of Feed U<sub>3</sub>O<sub>8</sub> ($/kgU)</label>
 <input type="text" value="110" placeholder="Feed cost" class="form-control" id="feed-cost">
 </div>
 <div class="col-md-3">
-<label for="conversion-cost" class="form-label">Cost of Conversion to UF6 ($/kgU)</label>
+<label for="conversion-cost" class="form-label">Cost of Conversion to UF<sub>6</sub> ($/kgU)</label>
 <input type="text" value="16" placeholder="Conversion cost" class="form-control" id="conversion-cost">
 </div>
 <div class="col-md-3">
@@ -202,11 +202,29 @@ LEU
 <label for="reload-fab-cost" class="form-label">Fabrication (¢/kWh)</label>
 <input type="text" value="" placeholder="Fabricated fuel" class="form-control" id="reload-fab-cost" readonly>
 </div>
-<div class="col-md-2">
-<label for="waste-per-kwh" class="form-label">High-level waste (g/MWh)</label>
+</div>
+
+<div class="row">
+<div class="col-md-3">
+<label for="reload-feed-mass" class="form-label">Mining intensity (gU/MWh)</label>
+<input type="text" value="" title="How much uranium you have to mine per kWh generated" placeholder="Mined U" class="form-control" id="reload-feed-mass" readonly>
+</div>
+<div class="col-md-3">
+<label for="waste-per-kwh" class="form-label">High-level waste (gHM/MWh)</label>
 <input type="text" value="" placeholder="Waste" class="form-control" id="waste-per-kwh" readonly>
 </div>
 </div>
+
+Abbrevs:
+
+<ul>
+  <li>U - Uranium</li>
+  <li>HM - Heavy Metal (e.g. Uranium, Neptunium, Pu, Cm, etc.)</li>
+  <li>kWh - Kilowatt-hour electric</li>
+  <li>MWh - Megawatt-hour electric</li>
+  <li>MWd - Megawatt-day thermal</li>
+  <li>SWU - Separative Work Unit</li>
+</ul>
 
 <script src='https://cdn.plot.ly/plotly-2.16.1.min.js'></script>
 
@@ -244,6 +262,7 @@ let reload_feed_cost=document.getElementById('reload-feed-cost')
 let reload_fab_cost=document.getElementById('reload-fab-cost')
 let reload_conv_cost=document.getElementById('reload-conv-cost')
 let reload_waste=document.getElementById('waste-per-kwh')
+let reload_feed_mass=document.getElementById('reload-feed-mass')
 
 tails_assay.addEventListener("input",(e)=>{
   computeFeed();
@@ -430,6 +449,7 @@ function computeCost() {
     let swu_per_kwe = prod_kg_per_kwe * swu_factor;
     let feed_per_kwe = prod_kg_per_kwe * feed_factor;
 
+    // convert to cents
     let swu_cost_per_kwe = swu_per_kwe * swucost.value*100;
     let feed_cost_per_kwe = feed_per_kwe * feedcost.value*100
     let fab_cost_per_kwe = prod_kg_per_kwe*fabcost.value*100
@@ -442,6 +462,7 @@ function computeCost() {
     reload_fab_cost.value = fab_cost_per_kwe.toFixed(3);
     reload_conv_cost.value = conv_cost_per_kwe.toFixed(3);
     reload_waste.value = (prod_kg_per_kwe*1000000).toFixed(3);
+    reload_feed_mass.value = (feed_per_kwe*1000000).toFixed(3);
 }
 
 function vx(x) {
