@@ -286,6 +286,44 @@
     - name: On YouTube
       url: https://www.youtube.com/watch?v=LmdLgYqJLqs
 
+- title: A Breeder in the Desert
+  naid: 88126 
+  date: 1965
+  length: 29
+  color: false
+  description: > 
+    Argonne's Experimental Breeder Reactor II at the National
+    Reactor Testing Station in Idaho is shown in detail and many of the features
+    and operating characteristics of a large scale fast breeder reactor are de
+    scribed The EBR-II Fuel Cycle Facility first nuclear fuel reprocessing plant
+    completely integrated with a reactor is shown in operation 
+  notes:  
+  win: false
+  links:
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=Y4Ks2TA8h4M
+
+- title: Atomic Furnaces
+  naid: 88103
+  date: 1962
+  length: 28
+  color: false
+  description: > 
+    The operation principles and scientific applications of nuclear reactors
+    used as research tools in various projects are briefly described Types of
+    research that reactors and associated equipment make possible are shown at
+    length The Gamma Ray Spectrometer the Neutron Chopper and a new reactor
+    designed specifically for high and low radiation experiments in biology are
+    also described.  This film provides an in depth description of basic
+    research in the nuclear sciences at ERDA's Argonne National Laboratory 
+  notes: 
+  links:
+    - name: Digitized at Archives
+      url:  https://catalog.archives.gov/id/88103
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=AHXOxHwpwsY 
+
+
 - title: NUCLEAR ENERGY GOES RURAL
   naid: 88195
   date: 1963
@@ -388,7 +426,9 @@
     criticality.
   notes: 
   links: 
-    - name: On Youtube
+    - name: On Youtube HD
+      url: https://www.youtube.com/watch?v=7uJTQ32znKc
+    - name: On Youtube SD
       url: https://www.youtube.com/watch?v=GcgS_xnzvlA
     - name: "Related: Power for Continent Seven"
       url: https://www.youtube.com/watch?v=SSmQ7TUowao
@@ -487,8 +527,29 @@
     full-scale machines to create unlimited industrial power by controlling a
     continuous fusion process at millions of degrees of temperature.
   notes: 
-  priority: 2
+  priority: 1
   links: 
+
+- title: To Imitate the Sun
+  naid: 88325
+  date: 1971
+  length: 33
+  color: true
+  priority: 1
+  description: >
+    One of the rarest basic research programs now gripping the minds
+    of nuclear physicists the world over is controlled thermonuclear fusion After
+    more than a quarter century of research and experiment scientists believe they
+    are close to demonstrating the scientific feasibility of the fusion concept. 
+    
+    This film depicts the theoretical challenge of such controlled fusion and describes
+    many of the research machines that are being used to investigate plasmas of
+    thermonuclear regimes It also touches upon what environmental and economic 
+    advantages may accrue from future fusion power reactors The film also includes
+    descriptions of the four major American fusion devices Two X Two Astron Scyllac
+    and ORMAK as well as discussions on the modeling of plasmas by such internal
+    ring machines as the DC Octupole and the Spherator 
+  notes: This film won many honors at film festivals
 
 - title: "Metals Frontier"
   naid: 88187
