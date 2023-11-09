@@ -51,7 +51,7 @@ style="">
 <nav id="TableOfContents" class="section-nav" markdown="1">
 
 - Dummy list
-{:toc}
+  {:toc}
 
 </nav>
 </div>
@@ -69,7 +69,7 @@ As in CP-1, they had natural uranium fuel dispersed in a graphite moderator.
 <a href="/img/building_b_reactor.jpg"><img class="img-fluid"
 src="/img/blank.png" data-echo="/img/building_b_reactor.jpg" alt="Workers laying graphite in the B reactor"/></a>
 <figcaption>Workers laying graphite in the Hanford B plutonium production
-reactor under construction (from HAER-WA-164)</figcaption>
+reactor under construction (from <a href="https://www.loc.gov/resource/hhh.wa0703.photos/?sp=7&st=image">HAER-WA-164</a>)</figcaption>
 </figure>
 
 Unlike CP-1, the Hanford reactors were cooled with ordinary water. Since water is a
@@ -120,9 +120,10 @@ reactors, which generated heat only as a nuisance and were kept at low
 temperature. [Robert Oppenheimer explained this
 well](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03584627s&view=1up&seq=199).
 
-In 1947, the AEC proposed and funded four new reactors, all of which made use
-of new availability of enriched uranium rather than natural
-uranium. All four were completed in the early 1950s:
+In 1947, the AEC proposed and funded four new reactors, all of which made use of
+new availability of enriched uranium rather than natural uranium
+[[ref](https://babel.hathitrust.org/cgi/pt?id=uiug.30112101598057&seq=770)]. All
+four were completed in the early 1950s:
 
 - Fast reactor — A fast reactor to explore the possibilities of breeding (now known as EBR-1)
 - Navy thermal reactor — a prototype for submarine propulsion (now known as STR or S1W)
@@ -157,7 +158,7 @@ ORNL</a>)</figcaption>
 <a href="/img/mtr_construction_1951.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/mtr_construction_1951_sm.jpg" alt="The MTR under construction"/></a>
 <figcaption>The MTR under construction in 1951 (<a
-href="https://www.loc.gov/pictures/item/id0443.photos.220007p/resource/">source</a>)></figcaption> 
+href="https://www.loc.gov/pictures/item/id0443.photos.220007p/resource/">source</a>)</figcaption> 
 </figure>
 </div>
 
@@ -285,18 +286,27 @@ at the time (like Gwyneth Cravens) as deeply inspiring.
 
 #### The SIR and the _Seawolf_
 
-The sodium-cooled intermediate-spectrum power breeder that GE was working on for the AEC
-at KAPL got swooped into the Naval Reactors development program, and its first reactor
-became the land-based prototype for the _USS Seawolf_. At first, Rickover preferred the
-sodium-cooled approach with a beryllium reflector/moderator because it used silent
-electro-magnetic pumps and offered very high thermal efficiency. The prototype (S1G)
-experienced leaks in the superheaters due to an incompatibility between the liquid metal
-sodium and the particular steel used. Because of Rickover's insistence in building
-prototype concurrently with the real thing, the real _Seawolf_ also experienced
-superheater leaks. They plugged tubes, performed difficult repairs (sodium has high
-induced radioactivity and high chemical reactivity), and eventually bypassed the
-superheater. _Seawolf_ worked at reduced efficiency, logged some tens of thousands of
-hours, but eventually had its propulsion system swapped out for a PWR.
+The sodium-cooled intermediate-spectrum power breeder that GE was working on for
+the AEC at KAPL was initially intended to develop the world's first economic
+civilian power reactor. However, it got repurposed into the Naval Reactors
+development program on April 14, 1950 due to two factors: a) it had become clear
+by this time that the desired demonstration was more challenging than
+anticipated, and b) the darkening military situation with the USSR necessitated
+priority on military mobile submarine reactors
+[[source](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03584627s&view=1up&seq=25)].
+
+The reactor there became the land-based prototype for the _USS Seawolf_. At
+first, Rickover preferred the sodium-cooled approach with a beryllium
+reflector/moderator because it used silent electro-magnetic pumps and offered
+very high thermal efficiency. The prototype (S1G) experienced leaks in the
+superheaters due to an incompatibility between the liquid metal sodium and the
+particular steel used. Because of Rickover's insistence in building prototype
+concurrently with the real thing, the real _Seawolf_ also experienced
+superheater leaks. They plugged tubes, performed difficult repairs (sodium has
+high induced radioactivity and high chemical reactivity), and eventually
+bypassed the superheater. _Seawolf_ worked at reduced efficiency, logged some
+tens of thousands of hours, but eventually had its propulsion system swapped out
+for a PWR.
 
 ### Aircraft Nuclear Propulsion
 
@@ -1366,11 +1376,12 @@ the 5-year plan, originally set to be complete in 1958 but delayed until 1964.
 
 <div class="alert alert-success">
 <b>Enough uranium?</b> In the mid 1940s, reactor designers were concerned that
-insufficient uranium existed on Earth to produce significant amounts of power. By the
-1950s, this was no longer a concern, and economics was given top priority. Breeder
-development was deprioritized until the mid-1960s, when LWR tech was looking
-fully-developed, order books were filling up, energy demand projections were exponential,
-and global uranium supply became a question
+insufficient uranium existed on Earth to produce significant amounts of power
+(<a href="https://technicalreports.ornl.gov/1944/3445605715063.pdf">ref</a>). By
+the 1950s, this was no longer a concern, and economics was given top priority.
+Breeder development was deprioritized until the mid-1960s, when LWR tech was
+looking fully-developed, order books were filling up, energy demand projections
+were exponential, and global uranium supply became a question
 again.
 </div>
 

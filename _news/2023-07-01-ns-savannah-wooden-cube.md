@@ -64,5 +64,9 @@ Watt), so that uranium could do about 67,300 horsepower-years.
 and these engines typically have more like 44% thermal efficiency, so that much
 oil could do about 67,600 horsepower-years. We have reasonable equivalence!
 
+## See Also
+
+Better photo: https://www.flickr.com/photos/rocbolt/8370237926/in/album-72157632493733676/
+
 </div>
 </div>

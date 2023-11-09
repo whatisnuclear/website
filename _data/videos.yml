@@ -878,9 +878,11 @@
     screwworm fly was brought under full control and largely eradicated.
     (Nontechnical: suitable for all audience levels.)
   notes: 
-  priority: 2
+  win: true
   links: 
-    - name: Eradication of the Screwworm (2018)
+    - name: Digitized thanks to ANS!
+      url: https://www.youtube.com/watch?v=QFoOnS6CWSI 
+    - name: Related: Eradication of the Screwworm (2018)
       url: https://www.youtube.com/watch?v=AXvObw8yuzs
 
 - title: Atoms for space
@@ -1285,9 +1287,11 @@
     Applications of these principles are shown in various processes in the
     food industry, automotive research, road construction, heavy industry, oil
     refining and shipping, and system troubleshooting.
-  priority: 4
   notes: 
+  win: true
   links: 
+    - name: Digitized thanks to ANS!
+      url: https://www.youtube.com/watch?v=_4phBVVWRfQ
 
 - title: "Atoms at Work: The Latin American Exhibit"
   naid: 88116 

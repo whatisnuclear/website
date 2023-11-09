@@ -234,6 +234,7 @@ Here are her photos:
   GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
   and/or [contact us]({% link contact.md %})!
 - [Tweet announcement of this](https://twitter.com/whatisnuclear/status/1679261517571850240)
+- [A huge Flickr album featuring the Savannah](https://www.flickr.com/photos/rocbolt/albums/72157632493733676)
 
 All our video digitization announcements:
 {% include taglist.liquid tag="videos" %}

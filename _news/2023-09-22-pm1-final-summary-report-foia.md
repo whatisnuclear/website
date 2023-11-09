@@ -24,7 +24,9 @@ report from operating a 1 MWe military microreactor in WY for 4 years.
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-01.jpg" >
-<img src="/img/pm1/pm1fsr-01.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-01.jpg" class="img-fluid" 
+alt="{{ 'img/pm1/pm1fsr-01.jpg'| exif: 'image_description' }}"
+/>
 </a>
 </figure>
 
