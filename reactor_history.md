@@ -50,8 +50,9 @@ style="">
 <div class="" id="tocContents">
 <nav id="TableOfContents" class="section-nav" markdown="1">
 
+<!-- prettier-ignore -->
 - Dummy list
-  {:toc}
+{:toc}
 
 </nav>
 </div>
@@ -381,8 +382,8 @@ job.
   <a href="/img/appr1-core-in-crit-facility.jpg">
   <img src="/img/blank.png" data-echo="/img/appr1-core-in-crit-facility.jpg" class="img img-fluid"/></a>
   <figcaption markdown="1">
-    The APPR-1 core in the critical testing facility (from [APPR-1
-    construction](https://babel.hathitrust.org/cgi/pt?id=umn.31951d038026231&view=1up&seq=52))
+The APPR-1 core in the critical testing facility (from [APPR-1
+construction](https://babel.hathitrust.org/cgi/pt?id=umn.31951d038026231&view=1up&seq=52))
   </figcaption> 
   </figure>
   </div>
@@ -625,6 +626,7 @@ href="https://en.wikipedia.org/wiki/Palo_Verde_Nuclear_Generating_Station#/media
 </figcaption>
 </figure>
 
+PWRs for civilian nuclear-powered shipping were also developed.
 A land-based prototype for the _NS Savannah_ merchant ship's core was built and
 operated in Lynchburg, VA in February, 1960. This reactor had full-length fuel
 assemblies and provided information needed before finishing the NS Savannah
@@ -766,10 +768,10 @@ Dresden featured a dual-cycle steam system, and produced power in April, 1960. T
 plant operated well. After Dresden came Humboldt Bay with natural circulation.
 
 <figure>
-<a href="/img/bwr_development_history.jpg">
-<img src="/img/blank.png" data-echo="/img/bwr_development_history.jpg" alt="timeline of bwr development history"
+<a href="/img/BWR_development_history.jpg">
+<img src="/img/blank.png" data-echo="/img/BWR_development_history.jpg" alt="timeline of bwr development history"
 class="img img-fluid center-block" ></a>
-<figcaption>bwr development history/timeline/geneology (from <a href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=33">anl summer school, 1961</a>)</figcaption> </figure>
+<figcaption>BWR development history/timeline/genealogy (from <a href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=33">ANL summer school, 1961</a>)</figcaption> </figure>
 
 There was one tragedy along the BWR development pathway. The Army's SL-1 in Idaho was part
 of the Army Package Power Program, previously called the Argonne Low Power Reactor, ALPR.
