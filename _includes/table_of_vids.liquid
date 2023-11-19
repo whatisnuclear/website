@@ -6,19 +6,28 @@
     <div class="col col-lg-2">Links</div>
   </div>
   {% for vid in include.vids %}
-<div class="row" id="{{vid.naid}}">
+<div class="row" id="{{vid.title|slugify}}">
   <div class="col-12 col-lg-2">
         <div class="row">
           <div class="col">NARA ID</div>
-<div class="col">
-{%- if vid.naid -%}
-<a href="https://catalog.archives.gov/id/{{ vid.naid }}">{{vid.naid}}</a>
-<a href="#{{vid.naid}}">&#167;</a>
-{%- else -%}
-Not in archives
-{%- endif %}
-</div>
-</div>
+          <div class="col">
+            {%- if vid.naid -%}
+            <a href="https://catalog.archives.gov/id/{{ vid.naid }}">{{vid.naid}}</a>
+            {%- else -%}
+            -
+            {%- endif %}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">IAEA ID</div>
+          <div class="col">
+            {%- if vid.iaea -%}
+            {{ vid.iaea }}
+            {%- else -%}
+            -
+            {%- endif %}
+          </div>
+        </div>
         <div class="row">
           <div class="col">Date</div>
           <div class="col">{{ vid.date }}</div>
@@ -34,7 +43,10 @@ Not in archives
           </div>
         </div>
       </div>
-      <div class="col-12 col-lg-2">{{ vid.title }}</div>
+      <div class="col-12 col-lg-2">
+        <a href="#{{vid.title|slugify}}">&#167;</a>
+        {{ vid.title }}
+      </div>
       <div class="col-12 col-lg-4">{{ vid.description | truncate: 900 }}</div>
       <div class="col-12 col-lg-2">{{ vid.notes }}</div>
       <div class="col-12 col-lg-2">
