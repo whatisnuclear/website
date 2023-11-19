@@ -1781,7 +1781,7 @@
   priority: 2
   description: >
     The film presents a guided tour through the Naval Research Laboratory's
-    research reactor facility in Washington, D.G.. All visible components are
+    research reactor facility in Washington, DC. All visible components are
     pictured and described; composition of fuel elements, core assembly, and
     methods of exposing samples are explained by animation.
   notes: This was a HEU swimming-pool type research reactor
@@ -1824,3 +1824,18 @@
   links: 
     - name: Was part of Professional Medical Film
       url: https://en.wikipedia.org/wiki/Professional_Medical_Film
+
+- title: First Miles
+  iaea: AVN0120
+  date: 1959
+  length: 40
+  color: color
+  priority: 1
+  description: >
+    Describes the final stages of the construction of the world' s first
+    nuclear-powered icebreaker "Lenin", in Leningrad. By animation and live
+    action, information is given on the nuclear reactor, shielding system, control
+    deck, radiation control post, etc. The maiden trip on the icebreaker in the
+    Baltic is shown.
+  notes: No idea where to find a copy
+  links: 
