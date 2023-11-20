@@ -32,8 +32,9 @@ and/or [contact us]({% link contact.md %})!
 The summary data comes from various catalogs, such as:
 
 - [Energy Video Catalog (ERDA 1975)](https://www.google.com/books/edition/Energy_Films_Catalog/8CKtsJ7XNwcC?hl=en&gbpv=1&dq=%22ATOM+AND+THE+MAN+ON+THE+MOON%22&pg=PA14&printsec=frontcover)
-- [1965 directory](https://archive.org/details/16mmfilmcombined00usatrich/mode/2up?view=theater)
+- [AEC 1966-67 directory](https://archive.org/details/combined16mmfilm00usatrich/page/ii/mode/2up)
 - [1928-1998 catalog from IAEA](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
+- [AEC 1972 Combined Catalog](https://www.google.com/books/edition/Combined_Film_Catalog/Tw0JAQAAMAAJ?hl=en&gbpv=1)
 
 </div>
 <div class="col-md-6" markdown="1">
@@ -57,7 +58,7 @@ On this page:
 {% assign vids_wanted = site.data.videos | where_exp: "item", "item.priority > 0" %}
 
 {% assign grouped_wanted = vids_wanted | group_by: 'priority' %}
-{% assign prioritiesSorted = grouped_wanted | sort: "name" %}
+{% assign prioritiesSorted = grouped_wanted | sort: "title" %}
 
 {% assign sorted_wanted= '' | split: '' %}
 {% for pri in prioritiesSorted %}
@@ -79,6 +80,39 @@ On this page:
 
 {% include table_of_vids.liquid vids=sorted_wanted %}
 
+# Index
+
+{% assign vids_sorted = site.data.videos | sort: "title" %}
+{% assign half = site.data.videos.size | divided_by: 2 %}
+
+<div class="row">
+<div class="col-md-6">
+<ul>
+{% for vid in  vids_sorted %}
+{% if forloop.index <= half %}
+<li><a href="#{{ vid.title|slugify }}">{{vid.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+<div class="col-md-6">
+<ul>
+{% for vid in  vids_sorted %}
+{% if forloop.index > half %}
+<li><a href="#{{ vid.title|slugify }}">{{vid.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+</div>
+
+# Contribute
+
+The data on this page is generated from <a
+href="https://github.com/whatisnuclear/website/blob/master/_data/videos.yml">this
+data file</a>. You are encouraged to find full data there and suggest changes,
+corrections, or additions.
+
 # See Also
 
 All our video digitization announcements:
@@ -88,6 +122,8 @@ Other links:
 
 - [A collection of hundreds of more related videos at the National Archives](https://catalog.archives.gov/search-within/88086).
 - [Our nuclear reading list]({% link nuclear-reading-list.md %}).
+- [ANL's video channel, with lots of reactor videos](https://www.youtube.com/@ArgonneNuclear/videos)
+- [miSci's video channel, which has lots of old GE videos](https://www.youtube.com/@SchdyInventTech/videos)
 
 </div>
 </div>
