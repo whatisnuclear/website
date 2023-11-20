@@ -60,6 +60,7 @@
   date: 1964
   length: 28.5
   color: true
+  resolution: 4K
   description: > 
     This nontechnical, documentary film, for junior-high-school through
     college-level audiences, covers the historical background, and the design,
@@ -82,6 +83,7 @@
     the significance of the Nuclear Ship Savannah as a pioneer in the use of nuclear
     power for world trade to benefit all mankind.
   win: true
+  resolution: 4K
   links: 
     - name: Our announcement page
       url: https://whatisnuclear.com/news/2023-07-12-the-nuclear-ship-savannah-film-digitized.html
@@ -359,6 +361,7 @@
   length: 20
   color: true
   win: true
+  resolution: 4K
   description: >
     This film shows the setting and location of the reactor built jointly by USAEC
     and the Consumers' Public Power District of Nebraska. An explanation of this
@@ -384,6 +387,7 @@
   length: 7.2
   color: true
   win: true
+  resolution: 4K
   description: >
     This describes the operation of the 79-megawatt electric Hallam Nuclear Power
     Facility which is powered by a 252-megawatt sodium-graphite reactor.
@@ -404,6 +408,7 @@
   length: 29
   color: true
   win: true
+  resolution: 4K
   description: >
     This film tells the story of the Zero Power Plutonium Reactor (ZPPR), which
     was a special test reactor in Idaho designed to supply information essential
@@ -464,6 +469,7 @@
     Principles of Power Reactor Operation.
   notes:  
   win: true
+  resolution: 4K
   links:
     - name: Our announcement page
       url: https://whatisnuclear.com/news/2023-07-04-the-new-power-film-about-nrts.html
@@ -596,6 +602,7 @@
     achieve criticality, and the varied safety controls.
   notes: 
   win: true
+  resolution: 4K
   links: 
     - name: Our announcement page
       url: https://whatisnuclear.com/news/2023-07-03-film-about-pm1-microreactor-in-wyoming.html
@@ -1080,6 +1087,7 @@
     (Nontechnical: suitable for all audience levels.)
   notes: 
   win: true
+  resolution: 4K
   links: 
     - name: Digitized thanks to ANS!
       url: https://www.youtube.com/watch?v=QFoOnS6CWSI 
@@ -1490,6 +1498,7 @@
     refining and shipping, and system troubleshooting.
   notes: 
   win: true
+  resolution: 4K
   links: 
     - name: Digitized thanks to ANS!
       url: https://www.youtube.com/watch?v=_4phBVVWRfQ
@@ -1560,6 +1569,7 @@
     hour.
   notes: 
   win: true
+  resolution: 4K
   links: 
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Dc2VZav17Ag
@@ -1641,6 +1651,7 @@
     first nuclear power plant in the tropics.
   notes: In IAEA catalog.
   win: true
+  resolution: 4K
   links: 
     - name: Our announcement page
       url: https://whatisnuclear.com/news/2023-09-19-film-about-bonus-reactor-in-puerto-rico.html
@@ -1821,8 +1832,6 @@
     shown, and conclusions are discussed
   notes: 
   links: 
-    - name: Possibly related NAID 74963
-      url: https://catalog.archives.gov/id/74963
 
 - title: Practice of Radiological Safety
   naid: 88226

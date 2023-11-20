@@ -13,17 +13,24 @@ comments: true
 <div class="col-md-12" markdown="1">
 In the olden days, the Atomic Energy Commission and other commissioned dozens
 upon dozens of nuclear energy related videos. Many of these have been digitized,
-but not all. The [list of not-yet-digitized
-ones](#videos-not-yet-digitized-in-order-of-want) is shown below the list of
-already-digitized ones.  We have been working to get a few digitized. See [our
-youtube channel here](https://www.youtube.com/@whatisnuclear/videos). You can
-read more about the process of digitization and see some results at [our ZPPR
-video page]({% link _news/2022-12-19-zppr-film-scanned.md %}) and [our
-announcement of the world re-premier of a Hallam film]({% link
-_news/2023-03-13-hallam-historical-films-scanned.md %}).  If you're interested
+but not all. We've gone through various old catalogs and cross-linked the
+entries with digitized copies when possible, as well as with modern catalog
+hyperlinks e.g. in the National Archives, where the physical films are housed.
+The [list of not-yet-digitized
+films](#videos-not-yet-digitized-in-order-of-want) is shown below the list of
+already-digitized ones.
+
+We have also learned how to get not-yet-digitized ones that exist in the
+National Archives digitized. See [our YouTube channel
+here](https://www.youtube.com/@whatisnuclear/videos). You can read more about
+the process of digitization and see some results at [our ZPPR video page]({%
+link _news/2022-12-19-zppr-film-scanned.md %}) and [our announcement of the
+world re-premier of a Hallam film]({% link
+_news/2023-03-13-hallam-historical-films-scanned.md %}). If you're interested
 in helping to get more of these scanned, check out [our digitization
 GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
 and/or [contact us]({% link contact.md %})!
+
 </div>
 </div>
 
@@ -68,19 +75,26 @@ On this page:
 
 # Videos digitized by whatisnuclear
 
+These are the ones we were involved in getting scanned and posted.
+
 {% include table_of_vids.liquid vids=vids_gotten_win %}
 
 # Videos digitized by others
+
+Someone somewhere scanned these and we found the hyperlinks. Many of these scans are
+sadly in relatively low resolution and could technically be re-scanned in HD.
 
 {% include table_of_vids.liquid vids=vids_gotten_other %}
 
 # Videos not yet digitized in order of want
 
+The ones with non-blank NARA IDs are readily available for scanning given funding.
+
 <a name="wantlist"></a>
 
 {% include table_of_vids.liquid vids=sorted_wanted %}
 
-# Index
+# Title Index
 
 {% assign vids_sorted = site.data.videos | sort: "title" %}
 {% assign half = site.data.videos.size | divided_by: 2 %}
@@ -106,7 +120,7 @@ On this page:
 </div>
 </div>
 
-# Contribute
+# Contribute data
 
 The data on this page is generated from <a
 href="https://github.com/whatisnuclear/website/blob/master/_data/videos.yml">this

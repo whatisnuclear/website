@@ -42,6 +42,12 @@
           {% if vid.color %}Y{% else %}N{% endif %}
           </div>
         </div>
+        {% if vid.resolution %}
+        <div class="row">
+          <div class="col">Resolution</div>
+          <div class="col">{{ vid.resolution }}</div>
+        </div>
+        {% endif %}
       </div>
       <div class="col-12 col-lg-2">
         <a href="#{{vid.title|slugify}}">&#167;</a>
