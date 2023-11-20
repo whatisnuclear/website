@@ -58,7 +58,7 @@ On this page:
 {% assign vids_wanted = site.data.videos | where_exp: "item", "item.priority > 0" %}
 
 {% assign grouped_wanted = vids_wanted | group_by: 'priority' %}
-{% assign prioritiesSorted = grouped_wanted | sort: "title" %}
+{% assign prioritiesSorted = grouped_wanted | sort: "name" %}
 
 {% assign sorted_wanted= '' | split: '' %}
 {% for pri in prioritiesSorted %}
