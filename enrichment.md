@@ -206,7 +206,7 @@ LEU
 
 <div class="row">
 <div class="col-md-3">
-<label for="reload-feed-mass" class="form-label">Mining intensity (gU/MWh)</label>
+<label for="reload-feed-mass" class="form-label">Required mined material (gU/MWh)</label>
 <input type="text" value="" title="How much uranium you have to mine per kWh generated" placeholder="Mined U" class="form-control" id="reload-feed-mass" readonly>
 </div>
 <div class="col-md-3">
