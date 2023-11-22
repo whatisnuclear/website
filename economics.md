@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Economics of nuclear power
-description: Why are nuclear reactors expensive? Complexities due to radiation hazards are the crux. Learn what it is about nuclear reactors that causes them to generally cost a lot, and what can be done to reduce the cost
+description: >
+  Why are nuclear reactors expensive? Complexities due to radiation hazards are
+  the crux. Learn what it is about nuclear reactors that causes them to generally
+  cost a lot, and what can be done to reduce the cost
 author: nick
-image: /img/ops-shielding.jpg
+image: /img/us-nuclear-regulatory-instutitions.jpg
 date: 2020-01-26
+updated: 2023-11-22
 byline: true
 ---
 
@@ -119,6 +123,21 @@ operations-improving purposes<sup>1</sup>.
 As NPPs became better understood, larger, and more common, regulations on their licensing,
 construction, and operation became more stringent.
 
+<figure> <a href="/img/us-nuclear-regulatory-instutitions.jpg"><img src="/img/us-nuclear-regulatory-instutitions.jpg"
+      alt="Flow map depicting about 15 institutions flowing requirements through the NRC, utility to one nuclear reactor."
+      class="img img-fluid center-block"></a>
+  <figcaption>A depiction of requirements flowing from numerous institutions into a US nuclear power plant (<a
+      href="https://babel.hathitrust.org/cgi/pt?id=uc1.31210012721534&seq=183">Nuclear Powerplant Standardization,
+      1985</a>)</figcaption>
+</figure>
+
+<figure> <a href="/img/federal-laws-applicable-to-nuclear.jpg"><img src="/img/federal-laws-applicable-to-nuclear.jpg"
+      alt="Graph showing number of federal laws are applicable to nuclear vs. time. Large vertical spike in 1970s"
+      class="img img-fluid center-block"></a>
+  <figcaption>Very many federal laws were enacted in the 1970s that were applicable to nuclear plants, and everything else (<a
+      href="https://babel.hathitrust.org/cgi/pt?id=uc1.31210012721534&seq=181">Nuclear Powerplant Standardization, 
+      1985</a>)</figcaption>
+</figure>
 Other effects of growth and experience included<sup>1</sup>:
 
 - The number of
@@ -545,22 +564,27 @@ operations in December, 2019.
 ## References
 
 1. Phung, "Economics of Nuclear Power: Past Record, Present Trends, and Future
-Prospects", _Energy_, 10, 8 (1985). [doi:10.1016/0360-5442(85)90004-0](<https://doi.org/10.1016/0360-5442(85)90004-0>)
+   Prospects", _Energy_, 10, 8 (1985). [doi:10.1016/0360-5442(85)90004-0](<https://doi.org/10.1016/0360-5442(85)90004-0>)
 2. Komanoff, Charles. _Power plant cost escalation: nuclear and coal capital costs,
-regulation, and economics_. Vol. 12. Van Nostrand Reinhold Company, 1981. (Full book
-freely [available from the
-author](http://komanoff.net/nuclear_power/Power_Plant_Cost_Escalation.pdf))
+   regulation, and economics_. Vol. 12. Van Nostrand Reinhold Company, 1981. (Full book
+   freely [available from the
+   author](http://komanoff.net/nuclear_power/Power_Plant_Cost_Escalation.pdf))
 3. Nuclear Power Annual Review, US EIA
-[EIA](https://www.eia.gov/totalenergy/data/annual/)
+   [EIA](https://www.eia.gov/totalenergy/data/annual/)
 4. Rod Adams, [Offshore Power Systems: Big Plants for a Big
-Customer](https://atomicinsights.com/offshore-power-systems-big-plants-for-big-customer/)
+   Customer](https://atomicinsights.com/offshore-power-systems-big-plants-for-big-customer/)
 5. OECD, [Reduction of Capital Costs of Nuclear Power Plants (2000)](https://www.oecd-ilibrary.org/nuclear-energy/reduction-of-capital-costs-of-nuclear-power-plants_9789264180574-en)
 6. Komanoff, [10 blows that stopped nuclear
-power](http://komanoff.net/nuclear_power/10_blows.php) (1991)
+   power](http://komanoff.net/nuclear_power/10_blows.php) (1991)
 7. MIT, [The Future of Nuclear Energy in a Carbon-Constrained
-World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/),
-2018
+   World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/),
+   2018
 8. [ETI Nuclear Cost Drivers Project Summary Report](https://www.eti.co.uk/library/the-eti-nuclear-cost-drivers-project-summary-report)
 9. Lovering, Historical construction costs of global nuclear power reactors, _Energy Policy_, 91, (2016) doi:[10.1016/j.enpol.2016.01.011](https://doi.org/10.1016/j.enpol.2016.01.011)
 10. [DOE/NE-0009 Power Plant Capital Investment Cost Estimates: Current Trends and Sensitivity to
-Economic Parameters](https://digital.library.unt.edu/ark:/67531/metadc1074451/) (1980)
+    Economic Parameters](https://digital.library.unt.edu/ark:/67531/metadc1074451/) (1980)
+
+## See Also
+
+1. Testimony of John Crowley, [Nuclear Powerplant Standardization, 1985](https://babel.hathitrust.org/cgi/pt?id=uc1.31210012721534&seq=175)
+2. Phung, Theory and evidence for using the economy-of-scale law in power plant economics, 1987 [ORNL/TM-10195](https://doi.org/10.2172/6304295)

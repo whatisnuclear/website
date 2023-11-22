@@ -2450,3 +2450,37 @@
   links: 
     - name: Related publication
       url: https://digital.library.unt.edu/ark:/67531/metadc100496/
+
+- title: The Dounreay Project
+  naid: 
+  iaea: 
+  date: 1959
+  length: 29
+  color: false
+  description: >
+    Two films in one: first details of constructing the Dounreay Fast Reactor, highlighting
+    the challenges of blasting through rock while battling the seas. Then the commissioning
+    and initial operation of the reactor
+  notes: Not listed in the archives catalogs we've found
+  links: 
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=9i-xBnPGIS8
+    - name: See also with more equipment
+      url: https://www.youtube.com/watch?v=JIkYOFxcqRg
+
+- title: "MH-1A: Floating nuclear power plant, STURGIS: Construction report"
+  naid: 
+  iaea: 
+  date: 1959
+  length: 29
+  color: false
+  description: >
+    Two films in one: first details of constructing the Dounreay Fast Reactor, highlighting
+    the challenges of blasting through rock while battling the seas. Then the commissioning
+    and initial operation of the reactor
+  notes: Not listed in the archives catalogs we've found
+  links: 
+    - name: On USACE site
+      url: https://usace.contentdm.oclc.org/digital/collection/p16021coll1/id/96/rec/1
+    - name: Rehosted on YouTube
+      url: https://www.youtube.com/watch?v=YrWFqz283sY
