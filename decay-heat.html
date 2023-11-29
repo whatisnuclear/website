@@ -7,76 +7,120 @@ description: To understand nuclear safety one must first understand decay heat.
 author: nick
 image: /img/decay_heat_power.png
 byline: true
+date: 2011-10-20
+updated: 2023-11-28
 ---
+
 <div class="row">
-<div class="col-md-8">
+  <div class="col-md-8">
+    <p>
+      Why can&rsquo;t we just turn off nuclear reactors if something goes wrong?
+      Well, we can stop the chain reaction very quickly by putting in the
+      control rods. But, there&rsquo;s this extra energy called
+      <em>afterglow heat</em> or <em>decay heat</em> that is released even with
+      the control rods in, and we have to carry this heat away or else the
+      reactor will get too hot and compromise the containment systems, possibly
+      releasing radioactive particles into the environment. Decay heat removal
+      is the key factor in many nuclear accident scenarios, and so reactor
+      designers and operators work hard to ensure cooling is robust.
+    </p>
 
-<p>Why can&rsquo;t we just turn off nuclear reactors if
-something goes wrong?  Well, we can stop the chain reaction very quickly by
-putting in the control rods. But, there&rsquo;s this extra energy called
-<em>afterglow heat</em> or <em>decay heat</em> that is released even with
-the control rods in, and we have to carry this heat away or else the reactor
-will get too hot and compromise the containment systems, possibly releasing
-radioactive particles into the environment. Decay heat removal is the key
-factor in many nuclear accident scenarios, and so reactor designers and
-operators work hard to ensure cooling is robust.</p>
+    <figure>
+      <img
+        class="img img-fluid w-100"
+        src="/img/decay_heat_power_opt.svg"
+        alt="The
+relative power during a reactor shutdown showing decay heat"
+        title="The relative
+power during a reactor shutdown showing decay heat"
+      />
+      <figcaption>
+        <p>
+          <strong>Figure 1. </strong>Relative power of a nuclear reactor before
+          and after shutdown. The decay heat decreases over a long time and must
+          be cooled.
+        </p>
+      </figcaption>
+    </figure>
 
-<figure>     
-<img class="img img-fluid w-100" src="/img/decay_heat_power_opt.svg" alt="The
-relative power during a reactor shutdown showing decay heat" title="The relative
-power during a reactor shutdown showing decay heat"/>
-<figcaption>
-<p><strong>Figure 1. </strong>Relative power of a nuclear reactor before
-and after shutdown. The decay heat decreases over a long time and must be cooled.</p>
-</figcaption>
-</figure>
+    <p>
+      When large atoms like Uranium or Plutonium fission, the vast majority of
+      the energy released comes from the two smaller atoms (called fission
+      products) flying out at high speeds. Once these fission products slow
+      down, their nuclei often remain in high-energy states, which slowly
+      undergo
+      <a
+        href="{% link
+radioactivity.md %}"
+        >radioactive</a
+      >
+      decay, producing a little bit more heat. When the control rods enter a
+      nuclear core to shut down the chain reaction, all fissions stop and the
+      fission products stop flying around, but the fission products remain
+      radioactive and will produce heat no matter what.
+    </p>
 
-<p>When large atoms like Uranium or Plutonium fission, the vast majority of the
-energy released comes from the two smaller atoms (called fission products)
-flying out at high speeds. Once these fission products slow down, their nuclei
-often remain in high-energy states, which slowly undergo <a href="{% link
-radioactivity.md %}">radioactive</a> decay, producing a little bit more heat.
-When the control rods enter a nuclear core to shut down the chain reaction, all
-fissions stop and the fission products stop flying around, but the fission
-products remain radioactive and will produce heat no matter what.</p>
+    <p>
+      As physics would have it, the decay heat power level is usually about 6-7%
+      of the full power of the reactor immediately after a shutdown. Then it
+      decays exponentially such that it&rsquo;s below 1% within a day and
+      continues to drop. The problem is, in a large 3 GWt plant, 1% of full
+      power is still 30 million Watts, and that requires a lot of cooling.
+    </p>
 
-<p>As physics would have it, the decay heat power level is usually about 6-7% of
-the full power of the reactor immediately after a shutdown. Then it decays
-exponentially such that it&rsquo;s below 1% within a day and continues to drop.
-The problem is, in a 3 large GWt plant, 1% of full power is still 30 million
-Watts, and that requires a lot of cooling. </p>
+    <h2>The Safety Issue</h2>
+    <p>
+      Since there&rsquo;s effectively no way to immediately shut a nuclear
+      reactor all the way down, the cooling systems must operate in some fashion
+      after a shutdown or else the fuel will heat up above its melting point
+      and...melt, possibly releasing radioactive nuclides into the environment.
+      This is what happened at
+      <a href="{% link fukushima.html %}">Fukushima</a>. Emergency diesel
+      generators as well as some passive systems are typically relied upon to
+      provide this cooling. In some advanced designs such as sodium-cooled
+      <a href="{% link fast-reactor.md %}">fast reactors</a>, the large vat of
+      low-pressure liquid metal allows natural circulation to provide all the
+      decay heat removal without any generators or pumps.
+      <a href="{% link msr.md %}">Molten salt reactors</a> have fluid fuel that
+      can be drained into a passively-cooled tank that helps ensure cooling.
+      Advanced light water reactors have large pools of water high up where
+      gravity can provide cooling for a long time if the generators fail.
+    </p>
 
-<h2>The Safety Issue</h2>
-<p>Since there&rsquo;s effectively no way to immediately shut a nuclear reactor all the way down,
-the cooling systems must operate in some fashion after a shutdown or else the fuel will heat up
-above its melting point and...melt, possibly releasing radioactive nuclides into the environment.
-This is what happened at <a href="{% link fukushima.html %}">Fukushima</a>. Emergency diesel generators
-as well as some passive systems are typically relied upon to provide this cooling. In some advanced
-designs such as sodium-cooled <a href="{% link fast-reactor.md %}">fast reactors</a>, the large vat
-of low-pressure liquid metal allows natural circulation to provide all the decay heat removal
-without any generators or pumps. <a href="{% link msr.md %}">Molten salt reactors</a> have fluid
-fuel that can be drained into a passively-cooled tank that helps ensure cooling. Advanced light
-water reactors have large pools of water high up where gravity can provide cooling for a long time
-if the generators fail. </p>
+    <p>
+      In risk assessments, loss of decay heat removal accidents are usually the
+      highest-risk scenario to release radiation to the public. If someone could
+      discover a way that nuclear fission would result in stable fission
+      products instead of radioactive ones, safety and cost issues of nuclear
+      energy would disappear. Unfortunately, this is likely impossible.
+    </p>
 
-<p>In risk assessments, loss of decay heat removal accidents are usually the highest-risk scenario
-to release radiation to the public. If someone could discover a way that nuclear fission would
-result in stable fission products instead of radioactive ones, safety and cost issues of nuclear
-energy would disappear. Unfortunately, this is likely impossible. </p>
+    <a id="references"></a>
+    <h1>See Also</h1>
+    <ol>
+      <li><a href="{% link radioactivity.md %}">What is radioactivity?</a></li>
+      <li><a href="{% link fukushima.html %}">The Fukushima accident</a></li>
+      <li>
+        <a
+          href="http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.0&nsub=10"
+          >National Nuclear Data Center</a
+        >
+        -- Find out how much energy comes out in which form. Click a fissionable
+        element like U or Pu. Then click a good isotope like U-235 or Pu-239.
+        Then click the little link that says &quot;Interpreted&quot; right next
+        to (n,fis.ene.release).
+      </li>
+    </ol>
 
-       
-<a id="references"></a>        
-<h1>See Also</h1>
-<ol>
-<li><a href= "{% link radioactivity.md %}">What is radioactivity?</a></li>
-<li><a href= "{% link fukushima.html %}">The Fukushima accident</a></li>
-<li><a href="http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.0&nsub=10">National Nuclear Data Center</a> -- Find out how much energy comes out in which form. Click a fissionable element like U or Pu. Then click a good isotope like U-235 or Pu-239. Then click the little link that says &quot;Interpreted&quot; right next to (n,fis.ene.release).</li>
-</ol>
-
-<h1>References</h1>
-<ol>
-<li>Tobias, A. &quot;Decay heat.&quot; <a href="http://www.sciencedirect.com/science/article/pii/0149197080900025">Progress in Nuclear Energy 5.1 (1980): 1-93.</a></li>
-</ol>
-
-</div>
+    <h1>References</h1>
+    <ol>
+      <li>
+        Tobias, A. &quot;Decay heat.&quot;
+        <a
+          href="http://www.sciencedirect.com/science/article/pii/0149197080900025"
+          >Progress in Nuclear Energy 5.1 (1980): 1-93.</a
+        >
+      </li>
+    </ol>
+  </div>
 </div>
