@@ -6,9 +6,9 @@ description: >
   the crux. Learn what it is about nuclear reactors that causes them to generally
   cost a lot, and what can be done to reduce the cost
 author: nick
-image: /img/us-nuclear-regulatory-instutitions.jpg
+image: /img/us-nuclear-regulatory-institutions.jpg
 date: 2020-01-26
-updated: 2023-11-22
+updated: 2023-11-28
 byline: true
 ---
 
@@ -123,7 +123,7 @@ operations-improving purposes<sup>1</sup>.
 As NPPs became better understood, larger, and more common, regulations on their licensing,
 construction, and operation became more stringent.
 
-<figure> <a href="/img/us-nuclear-regulatory-instutitions.jpg"><img src="/img/us-nuclear-regulatory-instutitions.jpg"
+<figure> <a href="/img/us-nuclear-regulatory-institutions.jpg"><img src="/img/us-nuclear-regulatory-institutions_sm.jpg"
       alt="Flow map depicting about 15 institutions flowing requirements through the NRC, utility to one nuclear reactor."
       class="img img-fluid center-block"></a>
   <figcaption>A depiction of requirements flowing from numerous institutions into a US nuclear power plant (<a
