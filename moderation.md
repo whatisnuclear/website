@@ -15,8 +15,10 @@ image: /img/natu_xs.png
 <div class="col-md-8" markdown="1">
 
 The _moderator_ is a material intentionally placed in a nuclear reactor core to
-slow neutrons down from their initial fast speeds. Adding a moderator makes it
-much easier to attain a nuclear chain reaction.
+slow neutrons down from their initial fast speeds without first getting absorbed
+non-productively by the fuel. Adding a moderator allows nuclear reactors to
+sustain a neutron chain reaction with minimal or no [enrichment]({% link
+isotopes.md %}#enrichment).
 
 In common water-cooled nuclear reactors, the moderator is the same thing as the
 coolant: water. When fast neutrons strike the hydrogen atoms in H<sub>2</sub>O,
@@ -26,31 +28,35 @@ good moderators like deuterium, graphite, beryllium, and more.
 ## Why moderate?
 
 When an incoming neutron causes the nucleus of an atom to split, other neutrons
-are released at very high speeds. If at least one of these neutrons
-can be made to split another fuel atom, a sustained chain reaction is
-possible.
+are released at very high speeds. If at least one of these neutrons can be made
+to fission another fuel atom, a sustained chain reaction is possible. However,
+fission isn't the only reaction that neutrons can cause. Non-fission neutron
+absorption by Uranium-238 or similar will often capture neutrons and prevent
+them from causing a fission.
 
-As it happens, fuel atoms (like uranium) are more likely to absorb a
-neutron whizzing by if it's going slow (see Figure 1).
+As it turns out, the likelihood of a neutron causing a fission rather than a
+capture is higher when the neutron is moving slower.
 
 <figure>
 <div>
 <a href="/img/natu_xs.png"><img src="/img/natu_xs.svg" alt="A graph showing 3 curves representing of
 nuclear cross section" class="img-fluid rounded" title="The neutron capture and
 fission cross sections for natural uranium and graphite." /> </a></div>
-<figcaption><strong>Figure 1</strong> Key nuclear reaction probabilities (cross sections)
-for natural uranium and graphite. Neutrons are more likely to make it from 
-the high energy they are born at to the low energy they can chain react from if
-they have a moderator material (like graphite) that can slow them down without
-absorbing them.</figcaption>
+<figcaption><strong>Figure 1</strong> Key nuclear reaction probabilities (cross
+sections) for natural uranium and graphite, and the capture-to-fissions ratio.
+Neutrons are more likely to make it from the high energy they are born at to the
+low energy they preferentially cause fission from if they have a moderator
+material (like graphite) that can slow them down without absorbing
+them.</figcaption>
 </figure>
 
 When neutrons collide with atoms, they slow down. Due to conservation of
-momentum, when a neutron strikes a heavy atom, it slows down _a little_
-(imagine a ping-pong ball bouncing off a bowling ball). When a neutron strikes a light
-atom of similar mass to the neutron itself, it slows down _a lot_
-(imagine a ping-pong ball bouncing off another ping-pong ball). Nuclear fuel atoms are
-heavy, so to get neutrons to slow down faster, you add light-weight atoms as moderators.
+momentum, when a neutron strikes a heavy atom, it slows down _a little_ (imagine
+a ping-pong ball bouncing off a bowling ball). When a neutron strikes a light
+atom of similar mass to the neutron itself, it slows down _a lot_ (imagine a
+ping-pong ball bouncing off another ping-pong ball). Nuclear fuel atoms are
+heavy, so to get neutrons to slow down faster, you add light-weight atoms as
+moderators.
 
 You _could_ just mix your moderator and fuel together, but it's _dramatically
 better_ to keep them separate. If they're closely mixed, neutrons would be
@@ -63,8 +69,9 @@ will then re-enter the fuel as a slow neutron where the probability of fission
 is extremely high. The moderator effectively teleports neutrons from fast to slow
 and spits them out in the fuel right where they can best cause fission.
 
-This "fuel lumping" insight was required in the first reactor, CP-1, which
-used natural uranium. There was no enriched uranium back in the early 1940s.
+This ingenious "fuel lumping" insight was required in the first reactor, CP-1,
+which used natural uranium. There was no enriched uranium back in the early
+1940s.
 
 ## Choosing a moderator material
 
