@@ -613,14 +613,14 @@ var config = {
     htmlLabels:true,
     flowchart:{
         curve:'basis',
-        useMaxWidth:true
+        useMaxWidth:true,
         stroke:'gray',
         fill:'honeydew',
         diagramPadding: 3,
         nodeSpacing: 5,
         rankSpacing: 5,
     },
-    securityLevel:'loose'
+    securityLevel:'loose',
     fontSize: 20,
 };
 
