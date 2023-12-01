@@ -6,7 +6,6 @@ description: Nuclear reactors are machines that convert energy stored in atoms i
 author: nick
 image: /img/dccook.jpg
 byline: true
-mermaid: true
 ---
 
 <div class="row">
@@ -606,23 +605,3 @@ at just producing electricity.
 
 </div>
 </div>
-
-<script>
-var config = {
-    startOnLoad:true,
-    htmlLabels:true,
-    flowchart:{
-        curve:'basis',
-        useMaxWidth:true,
-        stroke:'gray',
-        fill:'honeydew',
-        diagramPadding: 3,
-        nodeSpacing: 5,
-        rankSpacing: 5,
-    },
-    securityLevel:'loose',
-    fontSize: 20,
-};
-
-mermaid.initialize(config);
-</script>

@@ -4,14 +4,14 @@ description: Primordial origins of all energy sources
 author: nick
 layout: default
 date: 2020-06-03
-mermaid: true
 byline: true
 image: /img/energy-flow-sm.jpg
 ---
+
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-This diagram roughly shows the origin of energy we can use to help us do stuff. 
+This diagram roughly shows the origin of energy we can use to help us do stuff.
 
 Most items are individually clickable to give you more info (mostly Wikipedia links).
 
@@ -100,30 +100,25 @@ click big "https://en.wikipedia.org/wiki/Big_Bang"
 
 You can download this as a jpg [here](/img/energy-flow.jpg).
 
-<script>
-var config = {
-    startOnLoad:true,
-    er:{
-      layoutDirection:'TB',
-      minEntityWidth:100,
-      minEntityHeight:75,
-      entityPadding:15,
-      stroke:'gray',
-      fill:'honeydew',
-      fontSize:12,
-      useMaxWidth:true
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  var config = {
+    startOnLoad: true,
+    htmlLabels: true,
+    flowchart: {
+      curve: "basis",
+      useMaxWidth: true,
+      stroke: "gray",
+      fill: "honeydew",
+      diagramPadding: 3,
+      nodeSpacing: 30,
+      rankSpacing: 30,
     },
-    flowchart:{
-        htmlLabels:true,
-        curve:'basis',
-    },
-    securityLevel:'loose'
-};
+    securityLevel: "loose",
+  };
 
-mermaid.initialize(config);
+  mermaid.initialize(config);
 </script>
 
 </div>
 </div>
-
-

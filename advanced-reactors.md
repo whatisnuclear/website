@@ -10,7 +10,6 @@ author: nick
 byline: true
 date: 2023-04-16
 image: /img/reactor-type-graph.png
-mermaid: true
 ---
 
 <div class="row">
@@ -19,7 +18,7 @@ mermaid: true
 The term _advanced_ in nuclear is used loosely to mean "reactors that are better
 than ones you're worried about". Due to the fact that a [huge number of somewhat
 exotic reactor types were built and tested in the 1950s and 1960s]({% link
-reactor_history.md %}), the term is somewhat misleading and complex.  Depending
+reactor_history.md %}), the term is somewhat misleading and complex. Depending
 on who you talk to, advanced reactors can mean a number of quite different
 things:
 
@@ -61,8 +60,7 @@ Such advancements may include:
   - Entire plant systems built in factory and rail/truck shipped to site for turnkey operation
     (e.g. microreactors like the Army's [ML-1](https://en.wikipedia.org/wiki/ML-1))
 
-
-# *Generation-IV* vs. *Advanced* 
+# _Generation-IV_ vs. _Advanced_
 
 Related to definition 2, in 2000, experts in the international nuclear power
 community came together in the Generation-IV International Forum (GIF) to
@@ -72,21 +70,21 @@ types](https://www.gen-4.org/gif/jcms/c_40465/generation-iv-systems) that they
 agreed had high potential to reach higher performance in [8 specific technology
 goals, listed here](https://www.gen-4.org/gif/jcms/c_40472/technology-goals).
 
-* [GIF project page](https://www.gen-4.org/gif/)
-* [GIF Wikipedia page](https://en.wikipedia.org/wiki/Generation_IV_reactor#Generation_IV_International_Forum)
+- [GIF project page](https://www.gen-4.org/gif/)
+- [GIF Wikipedia page](https://en.wikipedia.org/wiki/Generation_IV_reactor#Generation_IV_International_Forum)
 
-# Advanced *reactors* vs. advanced reactor *concepts*
+# Advanced _reactors_ vs. advanced reactor _concepts_
 
-The discussion around nuclear reactors types has struggled since the early 1950s 
-to differentiate between the *purported benefits* of conceptual reactors and
-the *actual performance* of built-and-operating real reactors. Admiral
-Rickover most famously summarized the situation in his [paper reactors 
+The discussion around nuclear reactors types has struggled since the early 1950s
+to differentiate between the _purported benefits_ of conceptual reactors and
+the _actual performance_ of built-and-operating real reactors. Admiral
+Rickover most famously summarized the situation in his [paper reactors
 vs. practical reactors memo]({% link rickover.md %}), which sharply criticized
 people who promoted the hypothetical benefits of reactors that were not yet built
-over reactor projects that were in construction or operation. 
+over reactor projects that were in construction or operation.
 
-In many senses, *advanced reactors* as used in modern discussions are basically
-identical to the *academic reactors* Rickover referred to way back in 1953. 
+In many senses, _advanced reactors_ as used in modern discussions are basically
+identical to the _academic reactors_ Rickover referred to way back in 1953.
 
 <hr/>
 <div class="row">
@@ -119,15 +117,15 @@ identical to the *academic reactors* Rickover referred to way back in 1953.
 </div>
 <hr/>
 
-Basically, anyone can *say* that their reactor is way better than others that
+Basically, anyone can _say_ that their reactor is way better than others that
 people have tried, but there's no reason to believe them even a little until
 they can point to one that's operating and show you how well it works. This
 is easy to forget in a world with significant VC energy funding.
 
 # Legal definitions of Advanced Reactors
 
-Some countries have written legal definitions of *advanced reactors* as part of
-providing government support to some reactors but not others.  For example, the
+Some countries have written legal definitions of _advanced reactors_ as part of
+providing government support to some reactors but not others. For example, the
 USA's [Nuclear Energy Innovation and Modernization
 Act](https://www.congress.gov/bill/115th-congress/senate-bill/512/text) defines
 _advanced nuclear reactors_ as follows:
@@ -163,7 +161,7 @@ improvements such as
 # Chart of reactor design choices
 
 As described in the [reactors page]({% link reactors.md %}), there are literally millions of different
-types of reactors. Which ones are *advanced* and which ones are not is pretty subjective.
+types of reactors. Which ones are _advanced_ and which ones are not is pretty subjective.
 
 {% include_relative _reactor-types-mermaid.html %}
 
@@ -203,6 +201,7 @@ mined uranium and SWUs needed per kWh.
 
 {% endfor %}
 {% endfor %}
+
 </table>
 
 Special thanks to Brett Rampal and Adam Stein for discussing this [with "us"
@@ -210,24 +209,3 @@ here](https://twitter.com/whatisnuclear/status/1646927354370068481).
 
 </div>
 </div>
-
-
-<script>
-var config = {
-    startOnLoad:true,
-    htmlLabels:true,
-    flowchart:{
-        curve:'basis',
-        useMaxWidth:true
-        stroke:'gray',
-        fill:'honeydew',
-        diagramPadding: 3,
-        nodeSpacing: 5,
-        rankSpacing: 5,
-    },
-    securityLevel:'loose'
-    fontSize: 20,
-};
-
-mermaid.initialize(config);
-</script>

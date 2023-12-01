@@ -2,92 +2,121 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible" />
 <meta content="width=device-width, initial-scale=1" name="viewport" />
 <title>
-  {% if page.title %}
-    {{ page.title | strip_html | escape }}
-  {% else %}
-    {{
-       site.title | escape }}{% endif %}
+  {% if page.title %} {{ page.title | strip_html | escape }} {% else %} {{
+  site.title | escape }}{% endif %}
 </title>
-<meta content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" name="description" />
-<link href="{{ page.url | replace:'index.html','' | absolute_url }}" rel="canonical" />
+<meta
+  content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"
+  name="description"
+/>
+<link
+  href="{{ page.url | replace:'index.html','' | absolute_url }}"
+  rel="canonical"
+/>
 <link
   href="{{ '/feed.xml' | relative_url }}"
   rel="alternate"
   title="{{ site.title | escape }}"
-  type="application/rss+xml" />
-{%- if jekyll.environment == 
-"production" and site.google_analytics -%}
-  {% include google-analytics.html %}
-{%- endif -%}
+  type="application/rss+xml"
+/>
+{%- if jekyll.environment == "production" and site.google_analytics -%} {%
+include google-analytics.html %} {%- endif -%}
 <meta content="{{ site.data.authors[page.author].name }}" name="author" />
 <link href="/img/favicon.ico" rel="icon" />
 <link href="/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
-<meta content="{{ page.url | replace:'index.html','' | absolute_url }}" property="og:url" />
+<meta
+  content="{{ page.url | replace:'index.html','' | absolute_url }}"
+  property="og:url"
+/>
 <meta content="What is nuclear?" property="og:site_name" />
-<meta content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | escape }}{% endif %}" property="og:title" />
-<meta content="{{ site.url }}{{ page.image | default:
-            '/img/reactor.png' }}" property="og:image">
+<meta
+  content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+  property="og:title"
+/>
+<meta
+  content="{{ site.url }}{{ page.image | default:
+            '/img/reactor.png' }}"
+  property="og:image"
+/>
 {% if page.summary %}
-  <meta content="{{ page.summary }}" property="og:description" />
+<meta content="{{ page.summary }}" property="og:description" />
 {%- elsif page.description -%}
-  <meta content="{{ page.description | strip_html | normalize_whitespace | escape }}" property="og:description" />
+<meta
+  content="{{ page.description | strip_html | normalize_whitespace | escape }}"
+  property="og:description"
+/>
 {%- elsif page.excerpt -%}
-  <meta content="{{ page.excerpt | strip_html | normalize_whitespace | escape}}" property="og:description" />
+<meta
+  content="{{ page.excerpt | strip_html | normalize_whitespace | escape}}"
+  property="og:description"
+/>
 {%- else -%}
-  <meta content="{{ site.description  | strip_html | normalize_whitespace | escape}}" property="og:description" />
+<meta
+  content="{{ site.description  | strip_html | normalize_whitespace | escape}}"
+  property="og:description"
+/>
 {% endif %}
 
 <meta content="@{{ site.twitter_username }}" name="twitter:site" />
 <meta content="@{{ site.twitter_username }}" name="twitter:creator" />
 <meta content="{{ page.title | strip_html}}" name="twitter:title" />
 {% if page.summary %}
-  <meta content="{{ page.summary | strip_html | normalize_whitespace | escape}}" name="twitter:description" />
+<meta
+  content="{{ page.summary | strip_html | normalize_whitespace | escape}}"
+  name="twitter:description"
+/>
 {%- elsif page.description -%}
-  <meta content="{{ page.description | strip_html | normalize_whitespace | escape}}" name="twitter:description" />
+<meta
+  content="{{ page.description | strip_html | normalize_whitespace | escape}}"
+  name="twitter:description"
+/>
 {%- else -%}
-  <meta content="{{ site.description | strip_html | normalize_whitespace | escape}}" name="twitter:description" />
-{%- endif -%}
-{% if page.image %}
-  <meta content="summary_large_image" name="twitter:card" />
-  <meta content="{{ site.url }}{{ page.image }}" name="twitter:image" />
+<meta
+  content="{{ site.description | strip_html | normalize_whitespace | escape}}"
+  name="twitter:description"
+/>
+{%- endif -%} {% if page.image %}
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="{{ site.url }}{{ page.image }}" name="twitter:image" />
 {%- else -%}
-  <meta content="summary" name="twitter:card" />
-  <meta content="{{ site.title_image }}" name="twitter:image" />
-{%- endif -%}
-{% unless page.nocss %}
-  <link href="{{
-                        '/dist/font-awesome/css/all.min.css' | relative_url }}" rel="stylesheet"> <link href="{{ '/dist/bootstrap-5.2.1-dist/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
-  <link href="{{ '/dist/whatisnuclear.css' | relative_url }}" rel="stylesheet">
-{%- endunless -%}
-{% if page.mathjax %}
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-{%- endif -%}
-{% if page.mermaid %}
-  <script type="module">
-    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
-  </script>
-{% endif %}
-
-{% if page.comments %}
-  <script>
-    var remark_config = {
-      host: 'https://comments.whatisnuclear.com',
-      site_id: 'whatisnuclear',
-      no_footer: true
-    };
-  </script>
-  <script>
-    !function (e, n) {
-      for (var o = 0; o < e.length; o = o + 1) {
-        var r = n.createElement ('script'),
-          c = '.js',
-          d = n.head || n.body;
-        'noModule' in r ? (r.type = 'module', c = '.mjs') : r.async = !0,
-        r.defer = !0,
-        r.src = remark_config.host + '/web/' + e[o] + c,
-        d.appendChild (r);
-      }
-    } (remark_config.components || ['embed'], document);
-  </script>
+<meta content="summary" name="twitter:card" />
+<meta content="{{ site.title_image }}" name="twitter:image" />
+{%- endif -%} {% unless page.nocss %}
+<link
+  href="{{
+                        '/dist/font-awesome/css/all.min.css' | relative_url }}"
+  rel="stylesheet"
+/>
+<link
+  href="{{ '/dist/bootstrap-5.2.1-dist/css/bootstrap.min.css' | relative_url }}"
+  rel="stylesheet"
+/>
+<link href="{{ '/dist/whatisnuclear.css' | relative_url }}" rel="stylesheet" />
+{%- endunless -%} {% if page.mathjax %}
+<script
+  defer
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"
+></script>
+{%- endif -%} {% if page.comments %}
+<script>
+  var remark_config = {
+    host: "https://comments.whatisnuclear.com",
+    site_id: "whatisnuclear",
+    no_footer: true,
+  };
+</script>
+<script>
+  !(function (e, n) {
+    for (var o = 0; o < e.length; o = o + 1) {
+      var r = n.createElement("script"),
+        c = ".js",
+        d = n.head || n.body;
+      "noModule" in r ? ((r.type = "module"), (c = ".mjs")) : (r.async = !0),
+        (r.defer = !0),
+        (r.src = remark_config.host + "/web/" + e[o] + c),
+        d.appendChild(r);
+    }
+  })(remark_config.components || ["embed"], document);
+</script>
 {% endif %}
