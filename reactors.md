@@ -366,7 +366,8 @@ Helium-cooled fast reactors<sup>1</sup>
 Nitrogen
 </th>
 <td markdown="1">
-[ML-1 mobile reactor](https://en.wikipedia.org/wiki/ML-1)
+* [GCRE](https://babel.hathitrust.org/cgi/pt?id=umn.31951d039027684&seq=5)
+* [ML-1 mobile reactor](https://en.wikipedia.org/wiki/ML-1)
 </td>
 <td></td>
 <td></td>
