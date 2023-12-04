@@ -198,6 +198,14 @@
         physics and reactor theory.
       url: https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1
       free: true
+    - author: El-Wakil, M. M.
+      title: Nuclear Power Engineering
+      description: >
+        A detailed and complete book covering all kinds of nuclear engineering issues, including
+        coolant choice, moderator choice, reactor configuration. Really a gem!
+      url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015000471022&seq=9
+      date: "1962"
+      free: true
     - author: Lamarsh 
       title: Introduction to Nuclear Reactor Theory
       description: >
