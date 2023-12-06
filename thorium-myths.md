@@ -66,6 +66,7 @@ Thorium fuel was included alongside uranium in the first core of the Indian Poin
 reactor in New York in the early 1960s. The second core had no thorium. Here's an exchange
 from 1963:
 
+{:.blockquote}
 > G.B. SCURICINI: Can you tell me why you changed your plant over from a thorium to a
 > uranium cycle? Is the reason purely economical or did you expect trouble from the use of
 > thorium?
