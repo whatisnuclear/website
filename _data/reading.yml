@@ -231,6 +231,13 @@
         A graduate-level classic textbook describing the physical concepts and
         mathematical methods used to predict the behavior of neutrons in nuclear reactors.
       url: https://www.osti.gov/biblio/4074688-nuclear-reactor-theory
+    - author: Glasstone
+      title: Principles of nuclear reactor engineering 
+      free: true
+      date: "1956"
+      description: >
+        861 pages of detailed nuclear engineering knowledge
+      url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015078695106
     - author: M. A. Schultz.
       title: Control of nuclear reactors and power plants
       free: true

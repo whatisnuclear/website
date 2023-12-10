@@ -322,6 +322,7 @@ Air
 * [CP-1](https://en.wikipedia.org/wiki/Chicago_Pile-1)
 * ORNL's [X-10 reactor](https://en.wikipedia.org/wiki/X-10_Graphite_Reactor)
 * UK's [Windscale piles](https://en.wikipedia.org/wiki/Windscale_Piles)
+* [Brookhaven Graphite Reactor](https://en.wikipedia.org/wiki/Brookhaven_Graphite_Research_Reactor)
 </td>
 <td markdown="1">
 Low-power fast reactor experiments, like [ZPPR](https://en.wikipedia.org/wiki/Zero_Power_Physics_Reactor)
