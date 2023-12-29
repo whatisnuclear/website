@@ -208,6 +208,7 @@ Heavy water
 <td markdown="1">
 * [CANDU](https://en.wikipedia.org/wiki/CANDU_reactor)
 * Savannah River Pu-production reactors 
+* Hanford Pu Recycle Test Reactor 
 </td>
 <td></td>
 <td></td>

@@ -54,10 +54,11 @@ work.](https://www.youtube.com/watch?v=OeTjXxWvPTc)
 <div class="section-nav" id="tocContents">
 <nav id="TableOfContents" markdown="1">
 
+<!-- prettier-ignore -->
 - Dummy list
 {:toc}
 
-</nav>
+ </nav>
 </div>
 </div>
 
@@ -187,9 +188,22 @@ Began](https://www.youtube.com/watch?v=w_6K6arW3h4).
   sustainable/renewable](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf) on a
   ~billion-year timeframe.
 - 41 - Fermi warned against proliferation and radiation first:
-  > It is not clear that the public will
-  > accept an energy source that produces this much radioactivity and that can be subject to diversion
-  > of material for bombs.
+
+<figure class="text-start" markdown="1">
+
+{:.blockquote}
+
+> It is not clear that the public will
+> accept an energy source that produces this much
+> radioactivity and that can be subject to diversion
+> of material for bombs.
+
+<figcaption class="blockquote-footer text-end">
+Enrico Fermi
+</figcaption>
+
+</figure>
+
 - 41 - first [pebble bed](https://en.wikipedia.org/wiki/Pebble_Bed_Reactor) idea
 - 44 - after the Battle of Bulge it was suggested by
   [Zinn](https://en.wikipedia.org/wiki/Walter_Zinn) to put the Hanford radioactive waste in the way
@@ -289,25 +303,29 @@ Began](https://www.youtube.com/watch?v=w_6K6arW3h4).
   it](https://www.ornl.gov/blog/ornl-reporter/lofty-ambitions) at least.
   <figure>
   <a href="/img/tsf.jpg"><img src="/img/tsf.jpg" alt="The Tower Shielding Facility" class="img img-fluid center-block" width="300"></a>
-   <figcaption>The Tower Shielding Facility at ORNL, where nuclear reactors were operated in the air (from link above)</figcaption>
+  <figcaption>The Tower Shielding Facility at ORNL, where nuclear reactors were operated in the air (from link above)</figcaption>
   </figure>
 - 87 - a copy of the Bulk Shielding Facility (BSF) was built in 5 months in
-Geneva for 1955 UN conference on Peaceful uses of Atomic energy. It was later
-sold to Switzerland for $250k and operated at 10 MW for many years. People lined
-up for hours to see it. Challenge was to make it 20% enriched instead of 93%.
-Some nice photos of the entire exhibit and conference can be found in the [500
-page US Delegation report](https://catalog.hathitrust.org/Record/102363648). In
-fact, many of the [15 volumes of proceedings from the conference are
-available](https://catalog.hathitrust.org/Record/002241506).
+  Geneva for 1955 UN conference on Peaceful uses of Atomic energy. It was later
+  sold to Switzerland for $250k and operated at 10 MW for many years. People lined
+  up for hours to see it. Challenge was to make it 20% enriched instead of 93%.
+  Some nice photos of the entire exhibit and conference can be found in the [500
+  page US Delegation report](https://catalog.hathitrust.org/Record/102363648). In
+  fact, many of the [15 volumes of proceedings from the conference are
+  available](https://catalog.hathitrust.org/Record/002241506).
   <figure>
   <a href="/img/geneva-reactor-people.jpg"><img src="/img/geneva-reactor-people.jpg" alt="People in Geneva looking down into a reactor" class="img img-fluid center-block" width="300"></a>
-   <figcaption markdown="1">People viewing the reactor at the UN conference on Atoms for Peace (from [delegation
-report](https://catalog.hathitrust.org/Record/102363648))</figcaption>
+  <figcaption markdown="1">
+  People viewing the reactor at the UN conference on Atoms for Peace (from [delegation
+  report](https://catalog.hathitrust.org/Record/102363648))
+  </figcaption>
   </figure>
   <figure>
   <a href="/img/geneva-reactor.jpg"><img src="/img/geneva-reactor.jpg" alt="Schematic of the reactor" class="img img-fluid center-block" width="300"></a>
-   <figcaption markdown="1">Schematic view of the Geneva reactor (from [delegation
-report](https://catalog.hathitrust.org/Record/102363648))</figcaption>
+  <figcaption markdown="1">
+  Schematic view of the Geneva reactor (from [delegation
+  report](https://catalog.hathitrust.org/Record/102363648))
+  </figcaption>
   </figure>
 - 88 - ORR had confinement at negative pressure, not containment. Early use of term?
 - 89 - Tom Cole did a maximum consequence report that was horrendous. W refused to release it
@@ -722,11 +740,13 @@ things faster, and information may help you be more efficient.
   utility and compromising the future of nuclear (Fukushima!) If not Chernobyl.
   Oh wait, this was before TMI! And general public utilities corp did go
   bankrupt.
-- 228 - W wrote "Salvaging the atomic age" summarizing the IEAs ideas. See 6
-  points on this page. Thinks inherently safe reactor is the most important.
-- 230 - IEA had workshop with old nukes to think up new reactors. Group was
-  skeptical that inherent safety could be done and also that it would change the
-  public's mind.
+- 228 - W wrote ["Salvaging the atomic
+  age"](https://archive.wilsonquarterly.com/sites/default/files/articles/WQ_VOL3_SU_1979_Article_02.1.pdf)
+  summarizing the IEAs ideas. Thinks inherently safe reactor is the most
+  important.
+- 230 - IEA had workshop with old nukes to think up new reactors.
+  Group was skeptical that inherent safety could be done and also that it would
+  change the public's mind.
 - 230 - did study anyway. GA HTR and [PIUS
   PWR](https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull31-3/31302392529.pdf)
   emerged as safest. PIUS had density lock of borated water that came down if
@@ -839,7 +859,8 @@ things faster, and information may help you be more efficient.
   {:.blockquote}
 
   > No wonder that I more or less ignored the warnings of the early pessimists
-  > --- that nuclear energy was far more difficult than > we young enthusiasts
+  > --- that nuclear energy was far more difficult than
+  > we young enthusiasts
   > imagined.
 
 - 273 - James Conant (Roosevelt's personal contact with Manhattan project)

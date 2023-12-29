@@ -59,6 +59,7 @@ were now higher than ever.
 <div class="section-nav" id="tocContents">
 <nav id="TableOfContents" markdown="1">
 
+<!-- prettier-ignore -->
 - Dummy list
 {:toc}
 

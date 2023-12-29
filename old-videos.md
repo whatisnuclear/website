@@ -49,6 +49,7 @@ On this page:
 
 <div class="" id="tocContents">
 <nav id="TableOfContents" class="section-nav text-muted" markdown="1">
+<!-- prettier-ignore -->
 * Dummy list
 {:toc}
 </nav>
