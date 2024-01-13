@@ -1,13 +1,15 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/"><img
+    <a class="navbar-brand" href="/"
+      ><img
         alt="A small icon of a
                           cooling tower with an atom symbol on it and a reactor with a lightning
                           symbol on it."
         class="navbar-brand-icon"
         height="40"
         src="/img/reactor_web.svg"
-        width="40"></a>
+        width="40"
+    /></a>
     <button
       aria-controls="navbarSupportedContent"
       aria-expanded="false"
@@ -15,7 +17,8 @@
       class="navbar-toggler"
       data-bs-target="#navbarSupportedContent"
       data-bs-toggle="collapse"
-      type="button">
+      type="button"
+    >
       <span class="navbar-toggler-icon"></span>
     </button>
     {%- assign page_name = page.path | split: "." | first -%}
@@ -43,11 +46,8 @@
           </li>
         {%- endfor -%}
         <li class="nav-item">
-          <a
-            class="nav-link"
-            href="/feed.xml"
-            title="Link to RSS Feed">
-            <i class="fa fa-rss"></i>
+          <a class="nav-link" href="/feed.xml" title="Link to RSS Feed">
+            <i class="fa fa-rss" style="color: #ee802f"></i>
           </a>
         </li>
       </ul>

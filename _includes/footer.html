@@ -1,24 +1,18 @@
-<hr/>
+<hr />
 
-{% if page.comments %}
-  Reader comments
-  <div id="remark42"></div>
+{% if page.comments %} Reader comments
+<div id="remark42"></div>
 {% endif %}
 <footer class="text-center">
-  <form
-    action="https://duckduckgo.com/"
-    id="search"
-    method="get">
-    <input
-      name="sites"
-      type="hidden"
-      value="whatisnuclear.com" />
+  <form action="https://duckduckgo.com/" id="search" method="get">
+    <input name="sites" type="hidden" value="whatisnuclear.com" />
     <input
       class="search"
       maxlength="300"
       name="q"
       placeholder="Search"
-      type="text" />
+      type="text"
+    />
     <input type="submit" value="Search" />
   </form>
 
@@ -30,17 +24,21 @@
     |
     <a href="{% link about.md %}">About</a>
     |
-    <a href="{% link privacy.md %}">Privacy</a>
-    |
-    <a href="{% link terms.md %}">Terms</a>
+    <a href="{% link news.md %}"
+      >RSS <i class="fa fa-rss" style="color: #ee802f"></i
+    ></a>
     |
     <a href="https://github.com/whatisnuclear/website">GitHub</a>
     |
     <a href="https://twitter.com/whatisnuclear">Twitter</a>
+    |
+    <a href="{% link privacy.md %}">Privacy</a>
+    |
+    <a href="{% link terms.md %}">Terms</a>
   </p>
 </footer>
 <script src="/dist/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js"></script>
 
 {% if page.layout == "gallery" %}
-  <script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.2/dist/index.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.2/dist/index.bundle.min.js"></script>
 {% endif %}
