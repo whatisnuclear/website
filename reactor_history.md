@@ -1237,15 +1237,20 @@ Annual Report 1967</a>)
 
 </div>
 
-After the end of Rover, LANL ran the [UHTREX](https://en.wikipedia.org/wiki/UHTREX)
-gas-cooled experiment to try to apply what they had learned for rockets to economical
-nuclear power. It was a promising concept, but yet again, along came **Milton Shaw** and
-pulled funding from it to divert it to cover the over-budget liquid-metal fast breeder
-reactor project. The reactor was expected to reach temperatures of 2400 °F.
+Los Alamos developed the TURRET reactor concept, which was a rotating
+cylindrical core mounted on an axis. Gas coolant (originally nitrogen) entered
+on the axis and exited through radial holes drilled between the axis and the
+periphery. After the end of Project Rover, LANL ran a helium-cooled
+manifestation of TURRET, called [UHTREX](https://en.wikipedia.org/wiki/UHTREX).
+It was a gas-cooled experiment to try to apply what they had learned for rockets
+to economical nuclear power. The reactor experiment was made of elemental
+carbon, had UC₂ fuel coated with 3 layers of pyrolitic carbon formed into unclad
+annular tubes, reached coolant temperatures of 2400 °F, and had remote online
+refueling using a rotating fuel loader. It ran from 1959-1971 in New Mexico.
 
-Los Alamos studied the TURRET reactor concept, which was a rotating cylindrical core
-mounted on an axis. Helium coolant entered on the axis and exited through radial holes
-drilled between the axis and the periphery.
+It was a promising concept, but yet again, along
+came **Milton Shaw** and pulled funding from it to divert it to cover the
+over-budget liquid-metal fast breeder reactor project.
 
 A helium-cooled, graphite-moderated, highly-enriched uranium fueled reactor called the
 High Temperature Gas Cooled Reactor (HTGR) was a power prototype reactor built by General
