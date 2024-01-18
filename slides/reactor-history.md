@@ -17,7 +17,7 @@ image: /img/slides-blank.png
   <p id="event-c" class="frontmatter small"><span id="event"></span></p>
   <p class="frontmatter small"><span id="date"></span></p>
   <p class="attribution">
-    Slides courtesy of
+    Slides by
     <a href="/slides.html">whatisnuclear.com</a>
   </p>
 </section>
@@ -31,6 +31,22 @@ image: /img/slides-blank.png
 {% include_relative _status-of-nuclear.html %}
 {% include_relative _advanced-reactors.html %}
 {% include_relative _startups.html %}
+{% include_relative _boondoggles.html %}
+
+  <section>
+    <h3>Concluding thoughts</h3>
+    <ul>
+      <li>We have built all kinds of reactors!</li>
+      <li>LWRs out-performed many other types at first</li>
+      <li>Real issues in financing and construction performance exist</li>
+      <li>Changing moderator/fuel/coolant alone is not a good strategy</li>
+      <li>There are many nuclear startups in fission and fusion</li>
+      <li>Quite a few of them are struggling</li>
+      <li>We must improve delivery to survive!</li>
+      <li>Incorporating project delivery lessons into any project is key</li>
+    </ul>
+    <aside class="notes"></aside>
+  </section>
 
 <section>
   <h3 class="r-fit-text">THANK YOU!</h3>

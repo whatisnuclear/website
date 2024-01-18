@@ -149,7 +149,7 @@ Proposed in 1947 to be completed in the early 1950s.
     <p>Data source for all future reactors</p>
     <div class="row">
       <div class="col-6">
-<img class="img img-fluid" 
+<img class="img img-fluid p-0 m-0" 
 data-src="/img/litr_top.jpg" alt="The LITR reactor top"/>
 <p class="small">The LITR, the 1st
 water-cooled/moderated reactor (<a
@@ -159,7 +159,7 @@ ORNL</a>)</p>
       <div class="col-6">
         <img
           title="MTR reactor"
-          class="img img-fluid"
+          class="img img-fluid p-0 m-0"
           data-src="/img-slide/mtr-floor.jpg"
         />
         <p class="small">

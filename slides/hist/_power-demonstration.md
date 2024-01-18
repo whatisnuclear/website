@@ -14,14 +14,8 @@
   </section>
   <section>
     <h3>Atoms for Peace</h3>
-    <div class="row">
-      <div class="col-6">
-      </div>
-      <div class="col-6">
-        <img class="img img-fluid" data-src="/img/geneva-reactor-people2.jpg" alt="A reactor in Geneva"/>
-        <p class="small">We flew a reactor to Geneva</p>
-      </div>
-    </div>
+    <img class="r-stretch" src="/img/geneva-reactor-people2.jpg" alt="A reactor in Geneva"/>
+    <p class="small">We flew a reactor to Geneva</p>
     <aside class="notes"></aside>
   </section>
 
@@ -125,6 +119,12 @@
           <li>Proposal from Rural Cooperative Power Association with newcomer constructor</li>
           <li>Many arguments with contracting</li>
           <li>Municipal reactor in tiny town</li>
+          <li>Natural circulation</li>
+          <li>Entire control system replaced (single channel -> multi)</li>
+          <li>Reactor vessel reworked</li>
+          <li>Plant ran for 4 years, but was leaking primary coolant</li>
+          <li>When shut down to find problem, repairs deemed too expensive</li>
+          <li>Plant was decommissioned, converted to fossil in 1968</li>
           <li>Building torn down around 2021</li>
           </ul>
       </div>
@@ -138,7 +138,7 @@
   <section>
     <h3>The Piqua Organic cooled/moderated reactor in Ohio</h3>
     <div class="row">
-      <div class="col-6">
+      <div class="col-8">
         <ul>
           <li>Municipal reactor in tiny town</li>
           <li>Town initially hyped about it: dubbed itself the Atomic City</li>
@@ -148,7 +148,7 @@
           <li>Shut down early</li>
           </ul>
       </div>
-      <div class="col-6">
+      <div class="col-4">
         <img class="img img-fluid" data-src="/img-slide/piqua-city-overview_sm.jpg" />
       </div>
     </div>
@@ -223,7 +223,7 @@
   <section>
     <h3>Peach Bottom High-Temperature Gas-Cooled Reactor (HTGR) in PA</h3>
     <div class="row">
-      <div class="col-6">
+      <div class="col-8">
         <ul>
           <li>Unsolicited proposal by Philadelphia Electric Co. and other utilities</li>
           <li>Ran from 1967 - 1974</li>
@@ -235,7 +235,7 @@
           <li>Major retrofit was required to meet revised safety criteria</li>
           </ul>
       </div>
-      <div class="col-6">
+      <div class="col-4">
         <img class="img img-fluid" data-src="/img-slide/peach-bottom.jpg" />
       </div>
     </div>
@@ -306,20 +306,6 @@
         <p><a href="https://www.flickr.com/photos/departmentofenergy/11876884376/in/photolist-j6w8Wy" >San Onofre 1 (DOE photo)</a></p>
       </div>
     </div>
-    <aside class="notes"></aside>
-  </section>
-  <section>
-    <img
-      title="Reactor capacity"
-      class="r-stretch"
-      data-src="/img-slide/global-capacity.jpg"
-    />
-    <p class="small">
-      Global capacity changes (<a
-        href="https://www.carbonbrief.org/mapped-the-worlds-nuclear-power-plants/"
-        >Carbon Brief</a
-      >)
-    </p>
     <aside class="notes"></aside>
   </section>
 </section>
