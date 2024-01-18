@@ -2484,3 +2484,88 @@
       url: https://usace.contentdm.oclc.org/digital/collection/p16021coll1/id/96/rec/1
     - name: Rehosted on YouTube
       url: https://www.youtube.com/watch?v=YrWFqz283sY
+
+- title: "Thermal reactor test site, USS Nautilus"
+  naid: 76980
+  iaea: 
+  date: 1953-04-08
+  length: 
+  color: false
+  priority: 2
+  description: 
+  notes: No audio, declassified
+
+- title: REACTOR PREOBRAZOVATEL "ROMASHKA"
+  naid: 61180
+  iaea: 
+  date: 
+  length: 
+  color: false 
+  priority: 1
+  description: > 
+    SCIENTIFIC DOCUMENTARY: Uses
+    animation, models and on-location shots to show the construction,
+    installation, testing and operation of the direct conversion reactor,
+    Romashka--a small, high-temperature reactor that operates with fast moving
+    neutrons and a thermo-electric converter--at Kurchatov Atomic Energy
+    Institute. Includes shots of reactor and thermal test bench.
+  notes: Filmed in USSR. Sounds awesome
+
+- title: "PEGASE"
+  naid: 61174
+  iaea: 
+  date: 
+  length: 
+  color: false 
+  priority: 2
+  description: > 
+    Scientific Documentary: A facility meant for testing nuclear fuels used in
+    heavy water moderated atomic energy plants. Shows scenes of plant
+    construction and, through animation and live action shots, illustrates how
+    the test reactor works.
+  notes: From French CEA. May be in French
+
+- title: ASTR TOWER EXPERIMENT
+  naid: 67389
+  iaea: 
+  date: 
+  length: 
+  color: true
+  priority: 1
+  description: > 
+    Coverage of the transfer of the Convair Airborne Shielded Test
+    Reactor and NB-36 crew compartments from Ft. Worth, Texas, to Oak Ridge,
+    Tennessee National Laboratories for further airborne and ground radiation
+    reflection tests using a tower rig. 1) Animation and live photography
+    depicting early airborne tests of the ASTR using the NB-36 aircraft. 2) Crew
+    compartment of the NB-36 being removed. 3) Reactor is removed from the
+    Convair storage pool and placed on a flat bed trailer. 4) Truck convoy
+    carrying the reactor, crew compartments, and associated test equipment
+    leaving the Convair test site at Ft. Worth and arriving at the National
+    Laboratories, Oak Ridge, Tennessee. 5) Preparations for, and mapping of,
+    ground radiation reflection from the reactor at the tower site. 6) Radiation
+    reflection testing of the crew compartment, and a 1/2 scale crew compartment
+    suspended from the towers, in the same relationship to the reactor as they
+    were in the NB-36 aircraft. Good (Basic: Orig color, A&B Rolls)
+  notes: The reactor that flew!
+
+- title: Advanced Test Reactor
+  naid: 
+  iaea: 
+  date: 
+  length: 
+  color: 
+  priority: 2
+  description: > 
+    This film shows precisely how the AEC's 250-Mwt Advanced Test Reactor design
+    utilizes multiple flux traps to achieve exceptionally high neutron density in
+    nine independent test loop positions. Animations de- scribe the clover leaf,
+    enriched fuel annulus that circumscribes the nine flux trap test positions,
+    and the moving control components which vary flux and power in each test
+    position. ATR was designed by Ebasco Services, Inc., as prime contractor,
+    with Babcock & Wilcox Co. as nuclear subcontractors. Phillips Petroleum Co.
+    pre- pared the conceptual design, and will operate the reactor.
+  notes: In catalog, but can't find reels anywhere
+  links:
+    - name: Entry in AfP 1964 Delegation Report
+      url: https://www.osti.gov/biblio/4889610
