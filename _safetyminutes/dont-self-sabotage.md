@@ -18,8 +18,8 @@ image: /img/cia-sabotage.jpg
 
 # What Happened
 
-In 1944, the CIA published a booklet [1] describing how to introduce friction
-into professional settings via corporate sabotage. 
+In 1944, the OSS (predecessor to the CIA) published a booklet [1] describing how
+to introduce friction into professional settings via corporate sabotage. 
 {{page.description}}
 
 Some examples of sabotage included in the booklet as related to meetings
@@ -29,7 +29,7 @@ meeting in highly regulated industries.
 <figure class="figure float-end w-100">
 <a href="/img/cia-sabotage.jpg"><img class="figure-img img-fluid rounded"
 src="/img/cia-sabotage.jpg"  alt=""/></a> 
-<figcaption class="figure-caption">Highlight from the 1944 CIA Sabotage booklet</figcaption>
+<figcaption class="figure-caption">Highlight from the 1944 OSS Sabotage booklet</figcaption>
 </figure>
 
 
@@ -46,10 +46,9 @@ src="/img/cia-sabotage.jpg"  alt=""/></a>
    adherence to the agenda, and make final decisions if there is serious conflict.
 
 
-
 # References and additional reading
 
-1. [The CIA Simple Sabotage Field Manual (1944)](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
+1. [The Simple Sabotage Field Manual (1944)](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
 2. [CIA writeup of the manual](https://www.cia.gov/stories/story/the-art-of-simple-sabotage/)
 
 </div>
