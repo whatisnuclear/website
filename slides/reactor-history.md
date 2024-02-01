@@ -3,7 +3,7 @@ layout: slides
 title: Developments in the Long Quest for Economical Civilian Nuclear Power
 description: >
   How nuclear power plants developed.
-image: /img/slides-blank.png
+image: /img/slides-history-blank.png
 ---
 
 <section>

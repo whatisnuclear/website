@@ -12,6 +12,31 @@
       alt="Down arrow"
     />
   </section>
+
+  <section>
+    <h3>Shippingport</h3>
+    <div class="row">
+      <div class="col-6">
+        <ul>
+          <li>Congress was concerned about falling behind UK and USSR in power reactors</li>
+          <li>Rickover was put in charge b/c he could get stuff done</li>
+          <li>Dev program tried various fuels, settled on UO₂ with zirconium clad</li>
+          <li>Nuclear design by Bettis: HEU seed with NU driver</li>
+          <li>Fierce opposition b/c LWRs are inefficient with uranium resources</li>
+          <li>Had 2 B&amp;W U-tube SGs and 2 Foster Wheeler straight-pipe SGs</li>
+          <li>Critical on December 2, 1957, cost $72.5M</li>
+          <li>Open design: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015003403626&view=1up&seq=7">all details published at Geneva 1958</a></li>
+          <li>Operated reliably</li>
+          <li>10x more expensive than an equivalent fossil plant</li>
+          </ul>
+      </div>
+      <div class="col-6">
+        <img class="img img-fluid" data-src="/img/shippingport_construction1.jpg" />
+        <p>Construction of a boiler chamber in the Shippingport PWR (from <a href="https://www.loc.gov/resource/hhh.pa1658.photos/?sp=74">Library of Congress) </a></p>
+      </div>
+    </div>
+    <aside class="notes"></aside>
+  </section>
   <section>
     <h3>Atoms for Peace</h3>
     <img class="r-stretch" src="/img/geneva-reactor-people2.jpg" alt="A reactor in Geneva"/>
@@ -73,7 +98,6 @@
         <ul>
           <li>Consortium of 23 utilities came together to propose</li>
           <li>AEC selected under round 1 PDRP</li>
-          <li>Constructed by same team as Shippingport</li>
           <li>More expensive than expected</li>
           <li>Many operational challenges</li>
           <li>Core melt and recovery</li>
@@ -184,15 +208,15 @@
           <li>First US power reactor with heavy water</li>
           <li>1.5-2% enriched uranium, 65 MWe</li>
           <li>Produced saturated steam, which was fed into an oil-fired superheater</li>
-          <li>Power was uprated but 3 of 4 test assemblies failed</li>
           <li>Operated from 1963-1967 with 78.14% availability</li>
           <li>Co-located with coal AND hydro plants!</li>
           <li>AEC paid $11.3M, industry paid $32.1M</li>
-          <li>Uprates lest to fuel failures in test assemblies</li>
+          <li>Power was uprated, but 3 of 4 test assemblies failed</li>
           </ul>
       </div>
       <div class="col-6">
         <img class="img img-fluid" data-src="/img/cvtr_site.jpg" />
+        <p>Co-located coal, hydro, and nuclear, thought to be unique worldwide.</p>
       </div>
     </div>
     <aside class="notes"></aside>
