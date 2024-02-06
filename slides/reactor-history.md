@@ -26,6 +26,7 @@ image: /img/slides-history-blank.png
 {% include_relative _how-reactors-work.html %}
 {% include_relative _reactor-types.html %}
 {% include_relative hist/_early-reactors.md %}
+{% include_relative hist/_critical-assemblies.html %}
 {% include_relative hist/_reactor-experiments.html %}
 {% include_relative hist/_power-demonstration.md %}
 {% include_relative _status-of-nuclear.html %}
