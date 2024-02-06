@@ -14,6 +14,13 @@
   </section>
 
   <section>
+    <h3>Atoms for Peace</h3>
+    <img class="r-stretch" src="/img/geneva-reactor-people2.jpg" alt="A reactor in Geneva"/>
+    <p class="small">We flew a reactor to Geneva</p>
+    <aside class="notes"></aside>
+  </section>
+
+  <section>
     <h3>Shippingport</h3>
     <div class="row">
       <div class="col-6">
@@ -35,12 +42,6 @@
         <p>Construction of a boiler chamber in the Shippingport PWR (from <a href="https://www.loc.gov/resource/hhh.pa1658.photos/?sp=74">Library of Congress) </a></p>
       </div>
     </div>
-    <aside class="notes"></aside>
-  </section>
-  <section>
-    <h3>Atoms for Peace</h3>
-    <img class="r-stretch" src="/img/geneva-reactor-people2.jpg" alt="A reactor in Geneva"/>
-    <p class="small">We flew a reactor to Geneva</p>
     <aside class="notes"></aside>
   </section>
 
