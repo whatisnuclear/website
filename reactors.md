@@ -298,6 +298,7 @@ Heavy Water Gas Cooled Reactors (HWGCR)
   * [EL4](https://en.wikipedia.org/wiki/Brennilis_Nuclear_Power_Plant) in France
   * [Bohunice A1 KS-150](https://en.wikipedia.org/wiki/KS_150) in Slovakia
   * [Lucens](https://en.wikipedia.org/wiki/Lucens_reactor)
+  * [ECNG-FWCNG](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095080597&seq=1&view=1up)<sup>1</sup>
 </td>
 <td markdown="1">
 Gas-Graphite reactors
