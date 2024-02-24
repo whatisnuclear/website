@@ -257,6 +257,12 @@
       date: 2017
       url: https://www.sciencedirect.com/book/9780081011263/molten-salt-reactors-and-thorium-energy
       description: A large collection of chapters describing MSRs and Thorium
+    - author: Russell R. Williams 
+      title: Principles Of Nuclear Chemistry 
+      free: true
+      date: 1950
+      url: https://archive.org/details/in.ernet.dli.2015.288445/page/n3/mode/2up
+      description: A nuclear chemistry textbook
 
 - category: Podcasts
   description: >
