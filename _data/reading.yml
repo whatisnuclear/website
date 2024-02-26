@@ -433,8 +433,7 @@
     ](/reactor_history.html#references) of our [nuclear reactor development
     history](/reactor_history.html) page. But we'll put some here too.
   items: 
-   - description: 
-     author: Hewlett and Holl
+   - author: Hewlett and Holl
      free: true
      title: Atoms for Peace and War
      date: 1990
@@ -512,3 +511,27 @@
        physics discoveries, and then tells some wilder-than-fiction true
        stories about the wartime sprint to make the ultimate weapon.
        This is a must read.
+
+- category: Virtual Tours
+  description: >
+    Not exactly reading, but... these virtual tours are a lot of fun
+  items: 
+   - author: Canada
+     free: true
+     title: The Society for the Preservation of Canada's Nuclear Heritage Museum
+     date: 2023
+     url: https://nuclearheritage.com/virtual-tour/
+     description: >
+       Explore this incredible collection of Canadian nuclear history. The
+       library alone has untold gems in it. Not to mention all the incredible
+       hardware and models!
+   - author: Oak Ridge
+     free: true
+     title: X-10 Graphite Reactor
+     date: 2023
+     url: https://www.nps.gov/mapr/learn/photosmultimedia/oak-ridge-x-10-graphite-reactor-virtual-tour.htm
+     description: >
+       Tour the second nuclear reactor ever, a air-cooled graphite moderated
+       reactor in Oak Ridge.
+     
+     
