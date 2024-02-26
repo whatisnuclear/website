@@ -34,15 +34,17 @@ the pump running. Since this was rather tedious, one operator made a block of
 wood that could be used to jam the pump button so the pump would run
 continuously.
 
-One day, a couple of researchers were on the top of the reactor
-inserting detectors, and an operator was at the control desk pumping up the
-heavy water, with the pump button jammed. Suddenly, the phone rang at the other
-side of the building and the operator left the control desk to answer it,
-leaving the pump running. The call took longer than expected and the next thing
-the researchers heard was the shutoff rods dropping into the reactor. The
-reactor had tripped on overpower. No one knows how much radiation the
-researchers received since they had left their film badges in their coat pockets
-on the floor below!
+One day, a couple of researchers were on the top of the reactor inserting
+detectors, and an operator was at the control desk pumping up the heavy water,
+with the pump button jammed. Suddenly, the phone rang at the other side of the
+building and the operator left the control desk to answer it, leaving the pump
+running. The call took longer than expected and the next thing the researchers
+heard was the shutoff rods dropping into the reactor. The reactor had tripped on
+overpower. No one knows how much radiation the researchers received since they
+had left their film badges in their coat pockets on the floor below! However,
+it couldn't have been too much since one of the researchers’ wives later had a
+healthy baby. One might deduce from this that “a little neutron flux never hurt
+anyone”. This incident was never reported to senior management.
 
 </blockquote>
 <figcaption class="blockquote-footer">The story told in <a
@@ -60,6 +62,7 @@ Nuclear Society Bulletin 16 (3): 5–10.</a>
 - Don't work on an unshielded reactor when it is being brought to power
 - If you are working on a reactor, wear your dosimetry badge, even if
   it is offline.
+- Report all overpower incidents and radiation accidents to senior management
 
 </div>
 </div>
