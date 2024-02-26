@@ -6,7 +6,8 @@ author: nick
 image: /img/kid_in_atom.jpg
 byline: true
 date: 2021-05-24
-updated: 2023-05-29
+last_modified_at: 2024-02-23
+reading_time: false
 comments: true
 ---
 

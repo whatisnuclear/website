@@ -5,7 +5,7 @@ description: As much as we love Thorium, there are way too many myths about it g
 author: nick
 image: /img/Thor.jpg
 date: 2014-03-13
-updated: 2020-09-08
+last_modified_at: 2020-09-08
 byline: true
 ---
 
@@ -67,6 +67,7 @@ reactor in New York in the early 1960s. The second core had no thorium. Here's a
 from 1963:
 
 {:.blockquote}
+
 > G.B. SCURICINI: Can you tell me why you changed your plant over from a thorium to a
 > uranium cycle? Is the reason purely economical or did you expect trouble from the use of
 > thorium?

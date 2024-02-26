@@ -2,16 +2,16 @@
 layout: calc
 title: How much coal/gas/oil matches the energy of a single nuclear fuel pellet?
 author: nick
-updated: 2023-04-29
+last_modified_at: 2023-04-29
 date: 2020-10-30
 byline: true
-factlets: 
-    - One nuclear fuel pellet used in a normal reactor contains the same amount 
-      of energy as 1.3 tons of coal, 250 gallons of oil, 34,000 cubic feet of 
-      natural gas, and 0.9 tons of charged lithium ion batteries
-    - One nuclear fuel pellet used in a breeder reactor contains the same amount 
-      of energy as 22 tons of coal, 4350 gallons of oil, 590,000 cubic feet of 
-      natural gas, and 16 tons of charged lithium ion batteries
+factlets:
+  - One nuclear fuel pellet used in a normal reactor contains the same amount
+    of energy as 1.3 tons of coal, 250 gallons of oil, 34,000 cubic feet of
+    natural gas, and 0.9 tons of charged lithium ion batteries
+  - One nuclear fuel pellet used in a breeder reactor contains the same amount
+    of energy as 22 tons of coal, 4350 gallons of oil, 590,000 cubic feet of
+    natural gas, and 16 tons of charged lithium ion batteries
 mathjax: true
 ---
 
@@ -37,12 +37,12 @@ natural gas plants. Thus, from a electricity point of view, the values above wou
 
 Data supporting this include:
 
-* crude oil volumetric energy density 37 MJ/L
-* natural gas density at STP is 0.0364 MJ/L
-* lithium energy density is 43 MJ/kg
-* coal energy density is 30 MJ/kg
+- crude oil volumetric energy density 37 MJ/L
+- natural gas density at STP is 0.0364 MJ/L
+- lithium energy density is 43 MJ/kg
+- coal energy density is 30 MJ/kg
 
-GNU units commands: 
+GNU units commands:
 
     units -1 --digits 2 "46 MW*d/kg * 10 grams * 238/(238+32)" "MJ"
     3.5e4
@@ -59,4 +59,4 @@ GNU units commands:
     units -1 --digits 2 "46 MW*d/kg * 10 grams * 238/(238+32)/(0.0364 MJ/L)" "ft^3"
     3.4e4
 
-For breeders, do the same with 800 MW*day/kg instead of 46.
+For breeders, do the same with 800 MW\*day/kg instead of 46.

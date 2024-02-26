@@ -7,6 +7,7 @@ description: >
   However, they are expensive and generate radioactive waste. Here you will
   learn about the nuances of nuclear energy.
 image: /img/dc_cook.jpg
+last_modified_at: 2024-02-25
 ---
 
 <div class="row mt-3">

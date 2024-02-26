@@ -1,23 +1,22 @@
 ---
 layout: calc
 title: >
-    How much nuclear waste would you make if you got 100% of your electricity
-    from nuclear power?
+  How much nuclear waste would you make if you got 100% of your electricity
+  from nuclear power?
 author: nick
-updated: 2023-04-29
+last_modified_at: 2023-04-29
 date: 2008-09-08
 byline: true
 image: /img/sodacans-wide.png
-factlets: 
-    - If you got 100% of your electricity from today's nuclear power plants for
-      your entire lifetime, you'd be responsible for 8.7 floz of nuclear waste;
-      less than 1 soda can
-    - If you got 100% of your electricity from special breeder nuclear plants for
-      your entire lifetime, you'd be responsible for 0.83 floz of nuclear waste;
-      less than a tenth of a soda can.
+factlets:
+  - If you got 100% of your electricity from today's nuclear power plants for
+    your entire lifetime, you'd be responsible for 8.7 floz of nuclear waste;
+    less than 1 soda can
+  - If you got 100% of your electricity from special breeder nuclear plants for
+    your entire lifetime, you'd be responsible for 0.83 floz of nuclear waste;
+    less than a tenth of a soda can.
 mathjax: true
 ---
-
 
 <div class="row">
 <div class="col-lg-8" markdown="1">
@@ -29,11 +28,11 @@ created from nuclear power. To do this, we check the EIA for yearly waste
 discharge data [[EIA](https://www.eia.gov/nuclear/spent_fuel/ussnftab3.php)]. The latest year reported at time of writing is 2017.
 
 {:.table .table-striped}
-| Reactor type | Discharge (MT) | Avg. Burnup (GWd/MT)| Energy Released (GW-year (thermal))| 
+| Reactor type | Discharge (MT) | Avg. Burnup (GWd/MT)| Energy Released (GW-year (thermal))|
 |-----|-----|-----| ----|
-| PWR | 1526  | 46.2| 193 | 
-| BWR |  748.1 | 46.4 | 95 | 
-| Total |  2274.1 |- | 288| 
+| PWR | 1526 | 46.2| 193 |
+| BWR | 748.1 | 46.4 | 95 |
+| Total | 2274.1 |- | 288|
 
 Now we need to know the average thermal efficiency of the US nuclear fleet so we
 can convert the thermal power into electrical power. Usually, nuclear power
@@ -74,20 +73,20 @@ For a lifetime, the average life expectancy at birth is 76.4 years according to
 life, you'd be responsible for 2.6 kg (5.7 lbs) of waste.
 
     units -1 --verbose --digits 2 "76.4 years * (1.2e4 kWh/year)*(0.0028 grams/kWh)" "kg"
-	76.4 years * (1.2e4 kWh/year)*(0.0028 grams/kWh) = 2.6 kg
+    76.4 years * (1.2e4 kWh/year)*(0.0028 grams/kWh) = 2.6 kg
 
 Volumetrically, the uranium oxide waste has a density around 10 $$g/cm^3$$, thus, if you got 100% of your electricity from nuclear power, then:
 
-* You'd make 0.11 fl. oz of nuclear waste per year
-* You'd make 8.7 fl. oz of nuclear waste per lifetime (less than a 12 floz soda can)
+- You'd make 0.11 fl. oz of nuclear waste per year
+- You'd make 8.7 fl. oz of nuclear waste per lifetime (less than a 12 floz soda can)
 
-Supporting calcs: 
+Supporting calcs:
 
     units -1 --verbose --digits 2 "(1.2e4 kWh/year)*(0.0028 grams/kWh)/(10 grams/cm^3)" "floz/year"
-	(1.2e4 kWh/year)*(0.0028 grams/kWh)/(10 grams/cm^3) = 0.11 floz/year
+    (1.2e4 kWh/year)*(0.0028 grams/kWh)/(10 grams/cm^3) = 0.11 floz/year
 
     units -1 --verbose --digits 2 "76.4 years*(1.2e4 kWh/year)*(0.0028 grams/kWh)/(10 grams/cm^3)" "floz"
-	76.4 years*(1.2e4 kWh/year)*(0.0028 grams/kWh)/(10 grams/cm^3) = 8.7 floz
+    76.4 years*(1.2e4 kWh/year)*(0.0028 grams/kWh)/(10 grams/cm^3) = 8.7 floz
 
 ## What if we used breeder reactors and recycling?
 
@@ -102,18 +101,18 @@ more of it would be converted to fission products.
 Then, the conclusions are even wilder. If you got 100% of your electricity from
 nuclear breeder reactors:
 
-* You'd make 0.011 fl. oz of nuclear waste per year
-* You'd make 0.83 fl. oz of nuclear waste per lifetime (6% of a 12 floz soda can)
+- You'd make 0.011 fl. oz of nuclear waste per year
+- You'd make 0.83 fl. oz of nuclear waste per lifetime (6% of a 12 floz soda can)
 
 Calculations:
 
     units -1 --verbose --digits 2 "(1.2e4 kWh/year)/(800 MW*day/kg*0.39)/(5 grams/cm^3)" "floz/year"
-	(1.2e4 kWh/year)/(800 MW*day/kg*0.39)/(5 grams/cm^3) = 0.011 floz/year
+    (1.2e4 kWh/year)/(800 MW*day/kg*0.39)/(5 grams/cm^3) = 0.011 floz/year
 
     units -1 --verbose --digits 2 "76.4 years * (1.2e4 kWh/year)/(800 MW*day/kg*0.39)/(5 grams/cm^3)" "floz"
-	76.4 years * (1.2e4 kWh/year)/(800 MW*day/kg*0.39)/(5 grams/cm^3) = 0.83 floz
+    76.4 years * (1.2e4 kWh/year)/(800 MW*day/kg*0.39)/(5 grams/cm^3) = 0.83 floz
 
-*[The 2008 version of this calc is here](/assets/waste_per_person.pdf) for posterity*.
+_[The 2008 version of this calc is here](/assets/waste_per_person.pdf) for posterity_.
 
 </div>
 <div class="col-lg-4" markdown="1">

@@ -8,7 +8,7 @@ description: >
 author: nick
 image: /img/us-nuclear-regulatory-institutions.jpg
 date: 2020-01-26
-updated: 2023-11-28
+last_modified_at: 2023-11-28
 byline: true
 ---
 

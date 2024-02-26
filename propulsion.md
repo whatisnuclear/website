@@ -4,7 +4,7 @@ title: What is nuclear propulsion?
 description: Learn about how we use nuclear energy to propel ships
 author: nick
 date: 2018-02-17
-updated: 2020-12-29
+last_modified_at: 2020-12-29
 byline: true
 ---
 

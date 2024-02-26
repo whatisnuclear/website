@@ -8,7 +8,7 @@ description: >
   contains information about comparing dose rates.
 author: nick
 date: 2009-02-01
-updated: 2020-02-22
+last_modified_at: 2020-02-22
 byline: true
 ---
 

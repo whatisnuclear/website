@@ -7,7 +7,7 @@ author: nick
 byline: true
 mathjax: true
 date: 2007-04-21
-updated: 2023-11-30
+last_modified_at: 2023-11-30
 image: /img/natu_xs.png
 ---
 

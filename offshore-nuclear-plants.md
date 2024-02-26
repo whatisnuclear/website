@@ -8,7 +8,7 @@ description: In the 1970s, Westinghouse and Newport News formed a joint venture 
 author: nick
 image: /img/ops-station.jpg
 date: 2020-01-26
-updated: 2020-12-29
+last_modified_at: 2020-12-29
 byline: true
 ---
 
