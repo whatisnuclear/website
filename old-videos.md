@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Old Nuclear Energy Videos
-description: A directory of old nuclear energy videos including digitization status and efforts
+title: Historical Nuclear Energy Films
+description: A directory of historical nuclear energy films including digitization status and efforts
 image: /img/camp-century-pull.jpg
 byline: true
 author: nick
@@ -133,7 +133,7 @@ corrections, or additions.
 All our video digitization announcements:
 {% include taglist.liquid tag="videos" %}
 
-Other links:
+## Related catalogs
 
 - [A collection of hundreds of more related videos at the National Archives](https://catalog.archives.gov/search-within/88086).
 - [Our nuclear reading list]({% link nuclear-reading-list.md %}).

@@ -2,7 +2,10 @@
 layout: default
 title: What is a nuclear reactor?
 category: technology
-description: Nuclear reactors are machines that convert energy stored in atoms into heat or electricity. This page explains what comprises such a device, touches on how they work, and discusses several different varieties.
+description: >
+  Nuclear reactors are machines that convert energy stored in atoms
+  into heat or electricity. This page explains what comprises such a device,
+  touches on how they work, and discusses several different varieties.
 author: nick
 image: /img/dccook.jpg
 byline: true
@@ -12,16 +15,19 @@ byline: true
 <div class="col-md-12" markdown="1">
 
 <img src="/img/dccook.jpg" alt="A nuclear power plant."
-class="rounded img-fluid float-end w-25 m-3" title="A nuclear power plant." {% imagesize /img/dccook.jpg:props %} />
-A nuclear reactor is a system that contains and controls sustained nuclear chain reactions. Reactors are used for generating
-electricity, moving aircraft carriers and submarines, producing medical isotopes for imaging and cancer treatment,
-and for conducting research.
+class="rounded img-fluid float-end w-25 m-3" title="A nuclear power plant." {%
+imagesize /img/dccook.jpg:props %} /> A nuclear reactor is a system that
+contains and controls sustained nuclear chain reactions. Reactors are used for
+generating electricity, moving aircraft carriers and submarines, producing
+medical isotopes for imaging and cancer treatment, and for conducting research.
 
-Fuel, made up of heavy atoms that split when they absorb neutrons, is placed into the reactor vessel (basically a
-large tank) along with a small neutron source. The neutrons start a chain reaction where each atom that splits
-releases more neutrons that cause other atoms to split. Each time an atom splits, it releases large amounts of
-energy in the form of heat. The heat is carried out of the reactor by coolant, which is most commonly just plain
-water. The coolant heats up and goes off to a turbine to spin a generator or drive shaft.
+Fuel, made up of heavy atoms that split when they absorb neutrons, is placed
+into the reactor vessel (basically a large tank) along with a small neutron
+source. The neutrons start a chain reaction where each atom that splits releases
+more neutrons that cause other atoms to split. Each time an atom splits, it
+releases large amounts of energy in the form of heat. The heat is carried out of
+the reactor by coolant, which is most commonly just plain water. The coolant
+heats up and goes off to a turbine to spin a generator or drive shaft.
 **Nuclear reactors are just exotic heat sources.**
 
 #### On this page

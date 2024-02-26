@@ -1,14 +1,16 @@
 ---
 layout: default
 # we keep oscillating between what about the waste and what is nuclear waste?
-# People on big twitter threads to constantly ask, verbatim, what about the waste, 
-# so I feel tempted to make it that again for now.
-title: What about nuclear waste?
+# People on big twitter threads to constantly ask, verbatim, what about the waste,
+# so I feel tempted to make it that again for now. However, later I feel that
+# perhaps more people search for the latter.
+title: What is nuclear waste?
 category: physics
 description: >
-    What about nuclear waste? Is it appropriate to expand nuclear power in light of it?
-    Nuclear waste is primarily the atoms that are left over after fuel atoms split in a
-    fission chain reaction.
+  Nuclear waste is primarily composed of the atoms that are left over after larger
+  atoms are split in a fission chain reaction. This page explains what it is in
+  detail, what the hazards are, how we store it today, what the long-term plans are,
+  and how much waste we make.
 author: nick
 image: /img/fission-chain-reaction.jpg
 byline: true
@@ -17,22 +19,22 @@ byline: true
 <div class="row">
 <div class="col-lg-8" markdown="1">
 
-Nuclear waste is made of radioactive atoms generated after large atoms split.  Nuclear
+Nuclear waste is made of radioactive atoms left over after large atoms split. Nuclear
 reactors make nuclear waste during operation. The physics leverage of E=MC² makes nuclear
-waste uniquely *concentrated*; it's both extraordinarily small and seriously hazardous.
+waste uniquely _concentrated_; it's both extraordinarily small and seriously hazardous.
 The relatively tiny amount of waste is intriguing in that its overall environmental,
 health, and land footprint can be minimal. But, there is legitimate concern that the
 hazards may be difficult to contain.
 
-This page *digs in* to the nuance of nuclear waste, and points to additional information for
+This page _digs in_ to the nuance of nuclear waste, and points to additional information for
 going deeper. Here, you will learn:
 
-* [What is nuclear waste?](#what)
-* [What are its hazards?](#hazards)
-* [How is it stored today?](#current)
-* [What are the long-term plans?](#whattodo)
-* [How much waste do we make?](#howmuch)
-* [What is the composition of nuclear waste?](#composition)
+- [What is nuclear waste?](#what)
+- [What are its hazards?](#hazards)
+- [How is it stored today?](#current)
+- [What are the long-term plans?](#whattodo)
+- [How much waste do we make?](#howmuch)
+- [What is the composition of nuclear waste?](#composition)
 
 <h2 id="what">What is nuclear waste?</h2>
 Nuclear energy is released when a nuclear fuel nucleus snaps into two in a [reactor]({%
@@ -72,10 +74,10 @@ of the probability they will show up (U-235 thermal fission from ENDF/VII.1).
 
 Nuclear fuel loaded into commercial reactors is generally in the form of solid
 ceramic pellets that are stacked into metal tubes and bundled together in fuel assemblies.
-After the atoms in the pellet split to release their energy, the pellets in tubes emerge as 
+After the atoms in the pellet split to release their energy, the pellets in tubes emerge as
 nuclear waste. Nuclear waste is roughly in the same form as the pellets that went in, and
 basically has the consistency of a teacup. Commercial nuclear waste is not green ooze
-(which may have been inspired by liquid-form nuclear weapons waste like that at 
+(which may have been inspired by liquid-form nuclear weapons waste like that at
 [Hanford]({% link hanford.md %})).
 
 <figure>
@@ -99,14 +101,14 @@ the stuff known commonly as *nuclear waste*.
 
 When a nucleus splits, most of the energy is released immediately and carried off by
 coolant to do useful work. However, energy continues to be released for thousands of years
-after the atom splits. This *afterglow heat* is what makes nuclear waste hazardous. Unlike
+after the atom splits. This _afterglow heat_ is what makes nuclear waste hazardous. Unlike
 most toxic waste, the fact that nuclear waste becomes less toxic with time is quite unique.
 
 <figure> <a href="/img/fission-energy.svg"><img
 src="/img/blank.png"
 {% imagesize /img/fission-energy.svg:props %} 
 data-echo="/img/fission-energy.svg" alt="Fission energy bar graph showing afterglow heat"
-class="img img-fluid center-block" ></a>  
+class="img img-fluid center-block" ></a>
 
 <figcaption class="figure-caption" markdown="1">
 How much energy comes out [via different mechanisms]({% link
@@ -119,7 +121,7 @@ fission (not shown).
 </figure>
 
 These delayed energetic emissions mean that nuclear waste is highly [radioactive]({% link
-radioactivity.md %}).  When it first comes out of the reactor, it is so hazardous that if
+radioactivity.md %}). When it first comes out of the reactor, it is so hazardous that if
 you stood close to it while it was unshielded, you would receive a lethal radiation dose
 within a few seconds and would die of [acute radiation sickness
 [wikipedia]](https://en.wikipedia.org/wiki/Radiation_poisoning) within a few days. As the
@@ -141,7 +143,7 @@ href="https://www.researchgate.net/publication/252069412_Impact_Limits_of_Partit
 </figure>
 
 The nuclear waste question fundamentally asks whether or not humanity can prevent this
-radioactive material from causing harm to people and the environment.  This question was
+radioactive material from causing harm to people and the environment. This question was
 recognized early on in nuclear history, by Enrico Fermi himself (the lead scientist in
 charge of the world's first man-made nuclear chain reaction), who stated:
 
@@ -174,7 +176,7 @@ href="https://www.flickr.com/photos/nrcgov/14698776453/">Photo by the NRC</a>
 </figure>
 
 After cooling in the spent fuel pools, nuclear waste is either recycled (France) or moved
-into large concrete canisters called *dry casks* (most other places). These casks hold
+into large concrete canisters called _dry casks_ (most other places). These casks hold
 several spent fuel assemblies each.
 
 <!--
@@ -202,7 +204,7 @@ Director of Outreach at <a href="https://twitter.com/envprogress">Environmental 
 </figure>
 
 The following video shows a world-expert in nuclear waste walking amongst the spent fuel
-in dry casks at the Columbia Generating Station in Washington state. 
+in dry casks at the Columbia Generating Station in Washington state.
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" 
@@ -217,10 +219,10 @@ To our knowledge, no one has been injured or killed by commercial nuclear waste 
 cask storage. While future incidents are possible, it is fairly clear that the rate of
 injury from this material pales almost in insignificance compared to the 8 million people
 per year who actually do die from [air pollution complications caused by fossil fuel and
-biofuel particulate emissions (WHO numbers)](https://www.who.int/health-topics/air-pollution). 
+biofuel particulate emissions (WHO numbers)](https://www.who.int/health-topics/air-pollution).
 Not to mention potential future mortality due to climate change.
 
-The fact that nuclear plants keep all of their waste on site for their entire lifecycle can 
+The fact that nuclear plants keep all of their waste on site for their entire lifecycle can
 be considered a major positive environmental attribute compared with energy sources that emit vast
 waste into the atmosphere or produce vast manufacturing wastes during fabrication.
 
@@ -236,7 +238,6 @@ then stored in air-draft cooling racks.
 
 <h2 id="whattodo">What are the long-term options for nuclear waste?</h2>
 
-
 Dry cask storage above ground is quite stable, but both nuclear advocates and opponents
 can agree that there are reasons to try to get it even further away from the biosphere.
 
@@ -246,7 +247,7 @@ There is scientific consensus that putting the nuclear waste in geologic formati
 are expected to be stable for many millions of years is appropriate (e.g. see the [Blue
 Ribbon Commission report (pdf)](https://www.energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf) and
 the [2020 OECD report](http://www.oecd-nea.org/rwm/pubs/2020/7532-dgr-geological-disposal-radioactive-waste.pdf)
-(pdf) on waste disposal).  This way, if the material is released in the far future, it
+(pdf) on waste disposal). This way, if the material is released in the far future, it
 will have already released all of its afterglow heat and will be radiologically inert.
 
 The US studied and constructed large portions of Yucca Mountain as the national spent
@@ -266,7 +267,7 @@ href="https://www.flickr.com/photos/nrcgov/14492221880">Photo by the NRC</a>
 
 The US does have an operational nuclear waste repository in a massive salt formation in
 New Mexico at a site called the Waste Isolation Pilot Plant. It is designed for military
-nuclear waste rather than civilian, but many of the challenges are related. 
+nuclear waste rather than civilian, but many of the challenges are related.
 
 <figure>
 <a href="/img/wipp-nrc-lg.jpg">
@@ -284,7 +285,7 @@ Finland is currently the world leader in long-term commercial nuclear waste disp
 progress. Their Onkalo deep geologic repository is [expected to the be the world's first
 commercial one to
 operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). They produced
-an excellent video describing the plan. 
+an excellent video describing the plan.
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" 
@@ -317,10 +318,10 @@ href="https://www.osti.gov/servlets/purl/1420819">Courtesy of DOE</a>
 The US DOE planned a Deep Borehole Field Test to better understand the science of this
 technology option (without any actual nuclear waste), but the [project was cancelled in
 2017 due to strong public
-opposition](https://rapidcityjournal.com/news/local/trump-administration-dropping-nuclear-waste-burial-test/article_414da917-be8c-5625-be62-7b953639220c.html). 
+opposition](https://rapidcityjournal.com/news/local/trump-administration-dropping-nuclear-waste-burial-test/article_414da917-be8c-5625-be62-7b953639220c.html).
 
 Deep boreholes are being commercialized by a company called [Deep
-Isolation](https://www.deepisolation.com/). 
+Isolation](https://www.deepisolation.com/).
 
 ### Recycling nuclear waste
 
@@ -354,10 +355,10 @@ comments or questions.
 The longest living nuclides in nuclear waste are the ones that can be used as fuel:
 plutonium and the minor actinides. If these materials are burnt in fuel through recycling,
 nuclear waste would only remain radioactive for a few hundred years, as opposed to a few
-hundred thousand. This significantly reduces concerns with long-term storage.  This
+hundred thousand. This significantly reduces concerns with long-term storage. This
 concept is called Partitioning and Transmutation and is discussed in elaborate detail in
 [this IAEA
-report](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management). 
+report](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management).
 
 <span class="badge bg-success">See Also</span> See our [main recycling page]({% link
 recycling.md %}) for a more thorough discussion of recycling.
@@ -368,7 +369,7 @@ How does nuclear waste move from the reactor to the disposal site? We have devel
 containers that can handle the hazards of transportation without breaking. The US DOE and
 others have for example tested these containers by burning them in jet fuel, smashing into
 them with rocket-powered trains, crashing them into cement walls, and dropping them onto
-spikes. 
+spikes.
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" 
@@ -389,20 +390,19 @@ concern in the oil field areas of Texas where many millions of dollars of oil ar
 shipped out per day. So it's not just about radiological safety, but also these kinds of
 subtler concerns that must be considered.
 
-
 ### Crazy ideas
 
-Other things have been proposed as a solution for nuclear waste but are mostly bad ideas. 
+Other things have been proposed as a solution for nuclear waste but are mostly bad ideas.
 
-* Launch it into the sun. The sun would indeed consume it, but launch reliability would
+- Launch it into the sun. The sun would indeed consume it, but launch reliability would
   have to be vastly better than it is today. A space elevator might make this a viable
-  option. 
+  option.
 
-* Use it to sanitize municipal waste water. The radiation can sterilize without using
+- Use it to sanitize municipal waste water. The radiation can sterilize without using
   chemicals like bleach. But the potential to steal it or for it to catch on fire or
   something is not worth the risk.
 
-* Use it to power batteries. Many space probes do use material made in nuclear reactors.
+- Use it to power batteries. Many space probes do use material made in nuclear reactors.
   But only a tiny fraction of the material has found useful scientific/military uses at
   this point, and it's unlikely the rest will be too useful, again because of the hazards.
 
@@ -413,18 +413,18 @@ How much nuclear waste does nuclear energy create?
 We have [depictions of nuclear waste stacked up on a football field here]({% link
 _calcs/how-much-waste.md %}).
 
-If all the electricity use of the USA was distributed evenly among its population, and all of it came 
-from nuclear power, then the amount of nuclear waste each person would generate per year would be 
-**34 grams**. That's the weight of seven U. S. quarters of waste, per year! [A detailed description 
-of this calculation is here]({% link _calcs/how-much-nuclear-waste-per-capita.md %}). If we got all our electricity 
-from coal and natural gas, expect to have over 10,000 kilograms of CO<sub>2</sub>/yr attributed to 
-each person, not to mention other poisonous emissions directly to the biosphere 
+If all the electricity use of the USA was distributed evenly among its population, and all of it came
+from nuclear power, then the amount of nuclear waste each person would generate per year would be
+**34 grams**. That's the weight of seven U. S. quarters of waste, per year! [A detailed description
+of this calculation is here]({% link _calcs/how-much-nuclear-waste-per-capita.md %}). If we got all our electricity
+from coal and natural gas, expect to have over 10,000 kilograms of CO<sub>2</sub>/yr attributed to
+each person, not to mention other poisonous emissions directly to the biosphere
 (based on EIA [emissions
-data](https://www.eia.gov/environment/emissions/ghg_report/ghg_carbon.php)). 
+data](https://www.eia.gov/environment/emissions/ghg_report/ghg_carbon.php)).
 
 If you want raw numbers: in 2018, there were just over 80,000 metric tonnes of high-level
-waste in the USA.  Between 1971 and 2018, nuclear reactors in the USA generated 3000
-GW-years of electricity to make this waste. 
+waste in the USA. Between 1971 and 2018, nuclear reactors in the USA generated 3000
+GW-years of electricity to make this waste.
 
 For comparison, in 2007 alone the US burned 948,000,000 metric tonnes of coal. This means
 that coal plants made 32 times more waste **every single day** than the US nuclear fleet
