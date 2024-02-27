@@ -3,6 +3,14 @@
 - category: General interest
   description: High-level introductions
   items:
+    - author: Jacques Leclercq
+      title: The Nuclear Age
+      url: https://archive.org/details/nuclearage0000lecl
+      date: "1986"
+      free: true
+      description:  >
+        Hands down the most beautiful, complete, and interesting general purpose
+        nuclear book I have ever seen.
     - author: Joshua Goldstein and Staffan Qvist
       title: > 
         A Bright Future: How some countries have solved climate change and the rest can
