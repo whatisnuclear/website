@@ -2569,3 +2569,24 @@
   links:
     - name: Entry in AfP 1964 Delegation Report
       url: https://www.osti.gov/biblio/4889610
+
+- title: Atomic Achievement
+  naid: 
+  iaea: AVN 0105
+  date: 1956
+  length: 20
+  color: true
+  priority: 
+  description: > 
+    Covers Britain's work in harnessing atomic power and shows the development
+    of the national nuclear power programme. Introduces the first nuclear power
+    plants in the U.K.  (Harwell, Springfield, Windscale, Calder Hall, Capenhust,
+    and Dounreay - still under construction). Briefly covers isotope, uranium
+    ore and plutonium production and mentions the new experimental reactors
+    (Dido, Zeus).
+  notes: 
+  links:
+    - name: Online in astoundingly high quality
+      url: https://www.youtube.com/watch?v=oCC0ActNfuY
+    - name: At UK Archives, includes transcript (but video broken?)
+      url: https://media.nationalarchives.gov.uk/index.php/atomic-achievement/
