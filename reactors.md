@@ -249,8 +249,8 @@ Sodium-Beryllium Reactors
   * [Submarine Intermediate Reactor (SIR/S1G)](https://en.wikipedia.org/wiki/S1G_reactor)
   * [Seawolf](https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-575))
 </td>
-<td markdown="1"> </td>
-<td markdown="1"> </td>
+<td markdown="1"></td>
+<td markdown="1">[SNAP-10A](https://en.wikipedia.org/wiki/SNAP-10A) (NaK)</td>
 </tr>
 
 <tr>

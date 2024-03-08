@@ -2590,3 +2590,34 @@
       url: https://www.youtube.com/watch?v=oCC0ActNfuY
     - name: At UK Archives, includes transcript (but video broken?)
       url: https://media.nationalarchives.gov.uk/index.php/atomic-achievement/
+
+- title: Guardian of the Atom
+  naid: 88286
+  iaea: 
+  date: 1967
+  length: 28.5
+  color: true
+  priority: 
+  description: > 
+    States briefly the organization and role of USAEC and its national
+    laboratories and responsibilities in develop ing the peaceful uses and
+    national security uses of the atom. Then, point by point, we learn of each
+    type of nuclear application and its effect on science and technology: the
+    raw materials of atomic energy; the role of the three gaseous diffusion
+    plants; the work to produce plutonium the development and underground
+    testing of nuclear weapons under the terms of the limited nuclear test ban
+    treaty; the Plowshare program to develop peaceful uses of nuclear
+    explosives; production of nuclear fuel for atomic reactors; building nuclear
+    power plants; the use of nuclear power to propel surface ships and
+    submarines; development work on the nuclear rocket for future space
+    exploration; the production of radioisotopes and their applications for
+    medical diagnosis and therapy, in agriculture, industry, food pasteurization
+    and the development of an improved wood; radioisotopes to operate the
+    equipment at isolated weather stations, for buoys and lighthouses, and in
+    satellites circling the earth; the work with giant atom smashers to study
+    the basic nature of matter, research into the fusion of atoms to achieve
+    almost unlimited power; the sharing of technical information.
+  notes: Won 11th CINE Golden Eagle International Award, catalog entry in combined 1972
+  links:
+    - name: Online from Periscope
+      url: https://www.youtube.com/watch?v=JrBRyGaDnMc
