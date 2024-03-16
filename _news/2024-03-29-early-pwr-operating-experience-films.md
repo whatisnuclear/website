@@ -1,7 +1,7 @@
 ---
 layout: news
 title: >
-  Six early nuclear reactor experience films digitized thanks to Last Energy
+  Six early nuclear reactor films digitized thanks to Last Energy
 author: nick
 category: news
 tag: videos
@@ -17,10 +17,13 @@ comments: true
 
 <div class="col-md-8" markdown="1">
 
-I couldn't be happier to be announcing the addition of six(!) more digitized
+I couldn't be happier to be announcing the addition of *six*(!) more digitized
 historical nuclear films to the world's collection, thanks to the generosity of
 [Last Energy](https://www.lastenergy.com/). This is our biggest batch of
-digitizations yet!
+digitizations yet! As before, these were all sourced from 16mm films in
+the US National Archives. We will continue shedding light on valuable and
+historic films. If you're interested in participating, see contact info at
+bottom of page.
 
 <!-- prettier-ignore -->
 - Dummy list
@@ -86,6 +89,15 @@ by building a variety of promising concepts, including the Fast Breeder Reactor
 Reactor (APPR-1/SM-1 and Shippingport), the Aqueous Homogeneous Reactor (HRE at
 Oak Ridge), and the Boiling Water Reactor (EBWR at Argonne).
 
+<figure>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/Zukgzn47_ec?si=fgXbqlzqCc23wHFz"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</div>
+</figure>
+
 This is film [88107]({% link old-videos.md %}#atomic-power-and-the-united-states) in our catalog.
 
 </div>
@@ -114,7 +126,22 @@ This is film [88107]({% link old-videos.md %}#atomic-power-and-the-united-states
 
 <div class="row">
 <div class="col-md-8" markdown="1">
-## Nuclear Energy Goes Rural
+
+## Nuclear Energy Goes Rural (1963)
+
+The second round of the US Power Demonstration Reactor Program aimed to bring
+more newcomers into the nuclear industry, both as customers and as constructors.
+Several small rural communities were awardees in the program, and the Elk River
+Reactor in Elk River, MN was built. This film describes the reactor.
+
+<figure>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/Dft1fPWFgD8?si=kCsGL8gFksX_ZF8c"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</div>
+</figure>
 
 This is film [88195]({% link old-videos.md %}#nuclear-energy-goes-rural) in our catalog.
 
@@ -145,7 +172,7 @@ This is film [88195]({% link old-videos.md %}#nuclear-energy-goes-rural) in our 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-## Operating Experience, Indian Point
+## Operating Experience, Indian Point (1964)
 
 The third international "Atoms for Peace" conference occurred in Geneva in 1964.
 The US delegation produced 24 films summarizing progress in nuclear in the USA.
@@ -158,13 +185,25 @@ use of a thorium fuel cycle.
 thorium to reduce cost, and because much more uranium had been discovered than
 initially expected)
 
+<figure>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/1sWqmPyoYxw?si=T0kSNzrpG7zFSALm"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</div>
+</figure>
+
+This is film [88208]({% link old-videos.md %}#operating-experience-indian-point)
+in our catalog.
+
 </div>
 </div>
 <div class="row">
 <div class="col-md-12" markdown="1">
 
 <div class="row">
- {% for index in (1..18) %} 
+ {% for index in (1..16) %} 
   <div class="col col-3 col-sm-4 col-xs-2 col-md-2 col-lg-2 col-xl-2 p-0">
     <figure class="figure p-0 m-0">
       <a
@@ -191,9 +230,24 @@ See Also:
   Conference](https://www.osti.gov/biblio/4889610)
 - [Thorium Myth 1]({% link thorium-myths.md %}#myth1)
 
-## Operating Experience, Yankee Rowe
+## Operating Experience, Yankee Rowe (1964)
 
 This was another 1964 film of the same vintage, but about the Yankee Rowe PWR.
+Yankee Rowe was developed by a consortium of utility companies. It's excellent
+performance in construction and operation was a major factor in the achievement
+of economical nuclear power that led to a LWR-dominant fleet.
+
+<figure>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/WSMGNuYIdY8?si=APmqInTDA9bjtmcx"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</div>
+</figure>
+
+This is film [88209]({% link old-videos.md %}#operating-experience-yankee)
+in our catalog.
 
 </div>
 </div>
@@ -223,30 +277,24 @@ This was another 1964 film of the same vintage, but about the Yankee Rowe PWR.
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-## Naval research laboratory reactor
+## Naval research laboratory reactor (1958)
 
-In the early days of [reactor history]({% link reactor_history.md %}), between
-1942 and 1965, we built literally dozens of different kinds of nuclear reactors,
-hoping that one model would achieve economic parity with conventional coal
-powerplants, thereby ushering in an era of commercial nuclear power. Before
-then, reactors had only been put to good use in producing rare materials and
-powering submarines, remote locations, and aircraft carriers.
+This film details a swimming pool type reactor used for naval research.
+It is the best-looking of this batch in terms of video quality.
 
-But then the Pressurized Water Reactor (PWR) emerged as a reliable and compact
-system that could come close to the cost of coal. When the first few of these
-reactors operated, short films were made documenting their experience.
+However, there has been an issue with the audio track that I'm currently
+resolving with the scanning contractor, so I'll post this one soon.
 
-Following up on our previous digitization efforts, we now are excited to bring
-you films documenting the operation of the first large-scale PWRs: Yankee Rowe
-and Indian Point 1. The scanning of these films was made possible by the
-generosity of Last Energy.
-
-The first is about [Yankee Rowe](https://whatisnuclear.com/old-videos.html#88209):
+This is film [88192]({% link old-videos.md %}#naval-research-laboratory-reactor)
+in our catalog.
 
 ## See Also
 
-- [Our Old Videos page]({% link old-videos.md %})
-- [Tweet version of this page](https://twitter.com/whatisnuclear/status/1722623481781911646)
+- [Our Old Videos page]({% link old-videos.md %}) with a running list of the
+  available and yet-to-be-scanned films out there. If you're interested in helping
+  to get some of these scanned, check out [our digitization
+  GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
+  and/or [contact us]({% link contact.md %})!
 
 All our video digitization announcements:
 {% include taglist.liquid tag="videos" %}

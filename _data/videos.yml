@@ -224,7 +224,10 @@
     outlines industry's contributions and the sharing of technical know-how
     overseas through the Atoms for Peace Program.
   notes: 
-  priority: 3
+  win: true
+  links: 
+    - url: https://www.youtube.com/watch?v=Zukgzn47_ec
+      name: On YouTube (thanks Last Energy!)
   index: >
     00:00 Intro to electricity
     05:14 Intro to atomic power
@@ -542,7 +545,10 @@
     is explained. Fuel operations are also explained, as well as the air
     monitoring system. 
   notes: 
-  priority: 3
+  win: true
+  links:
+    - name: On YouTube (thanks Last Energy!)
+      url: https://www.youtube.com/watch?v=Dft1fPWFgD8
   index: >
     00:00 Intro
     02:02 History of Elk River Reactor
@@ -2057,7 +2063,7 @@
   length: 10
   color: true
   topics: [reactors]
-  priority: 1
+  win: true
   description: >
     This technical film is the story of the design, construction, and operation of
     the Indian Point power station of the Consolidated Edison Co. of New York, one
@@ -2068,6 +2074,8 @@
     models, and on- location operational plant scenes.
   notes: A Geneva 1964 film produced by B&W
   links: 
+    - url: https://www.youtube.com/watch?v=1sWqmPyoYxw
+      name: "On YouTube (thanks Last Energy!)"
   index: >
     00:00 Intro
     00:34 Why Thorium
@@ -2086,7 +2094,7 @@
   length: 10
   color: true
   topics: [reactors]
-  priority: 1
+  win: true
   description: >
     This technical film relates various plant design features and performance data
     of the nuclear power station operated by the Yankee Atomic Electric Company.
@@ -2094,6 +2102,8 @@
     current output with its third core is 185 Mw(e).
   notes: A Geneva 1964 film produced by Westinghouse
   links: 
+    - url: https://www.youtube.com/watch?v=WSMGNuYIdY8
+      name: On YouTube (thanks Last Energy!)
   index: >
     00:00 Intro
     01:15 Summary of reactor equipment
