@@ -225,6 +225,18 @@
     overseas through the Atoms for Peace Program.
   notes: 
   priority: 3
+  index: >
+    00:00 Intro to electricity
+    05:14 Intro to atomic power
+    07:08 Enrico Fermi's CP-1
+    08:14 Planning EBR-1
+    11:20 EBR-1 in Idaho
+    12:55 Program for bigger designs
+    14:43 Sodium Reactor Experiment
+    15:28 Shippingport
+    19:07 APPR-1/SM-1 and HRE
+    21:27 Experimental Boiling Water Reactor
+    24:22 Forging ahead with other reactors
 
 - title: Army Nuclear Power Program
   date: 1963
@@ -531,6 +543,18 @@
     monitoring system. 
   notes: 
   priority: 3
+  index: >
+    00:00 Intro
+    02:02 History of Elk River Reactor
+    03:20 Planning and components
+    05:20 Control rod loading
+    06:24 Reactor animations
+    09:38 Control rod drives and control room
+    11:10 Fuel handling
+    12:16 Fuel details
+    12:51 Containment air
+    14:30 Conclusions
+
 
 - title: NUCLEAR REACTORS FOR RESEARCH
   naid: 88197
@@ -1612,9 +1636,31 @@
     dedication of the APPR-1, a prototype reactor utilizing components all
     transportable by air. Animation is used to illustrate its operation.
   notes: 
+  win: true
   links: 
-    - name: Likely short clip
+    - name: On YouTube thanks to Last Energy
+      url: https://www.youtube.com/watch?v=4NH2AUAnzf8
+    - name: Related short clip
       url: https://www.youtube.com/watch?v=-5d-zpwzTVA
+  # putting index in here for safe keeping. not super useful on html page.
+  # but nice in youtube.
+  index: >
+    00:00 Intro to base power
+    02:46 Studies and design
+    03:50 Animations of reactor
+    05:54 Analysis and prototype objectives
+    07:17 Core design and testing
+    08:20 Siting at Ft. Belvoir
+    09:28 Contracting and detailed design
+    10:57 Construction
+    14:26 Equipment fabrication
+    14:50 Training
+    15:10 Equipment installation
+    16:54 Critical facility test
+    17:21 Vessel installation and testing
+    19:19 Fuel loading
+    21:01 Initial operation
+    23:19 Dedication speeches
 
 - title: Atomkraftwerk Kahl
   date: 1960
@@ -2022,6 +2068,16 @@
     models, and on- location operational plant scenes.
   notes: A Geneva 1964 film produced by B&W
   links: 
+  index: >
+    00:00 Intro
+    00:34 Why Thorium
+    01:05 Size with fossil superheaters
+    01:49 High power density 
+    02:30 Critical experiments and fixes
+    03:02 Core layout
+    04:33 Load following with superheaters
+    06:56 Commercial operation
+
 
 - title: Operating Experience, Yankee
   naid: 88209
@@ -2038,6 +2094,23 @@
     current output with its third core is 185 Mw(e).
   notes: A Geneva 1964 film produced by Westinghouse
   links: 
+  index: >
+    00:00 Intro
+    01:15 Summary of reactor equipment
+    02:05 Soluble boron and instrumentation
+    02:49 Controls
+    03:14 Vent and drain
+    04:08 Fuel transfer
+    04:29 First core
+    05:10 Core 1 performance
+    06:29 Core 2
+    07:49 Core 3
+    07:49 Core 3
+    08:42 Maintenance and ops
+    09:40 Economics
+    10:20 Outro
+
+
 
 - title: Operating Experience, Dresden
   naid: 88206

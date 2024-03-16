@@ -89,6 +89,32 @@ and rolled several hundred yards through a corn field.
 </figcaption> 
 </figure>
 
+Contents of the first film by timestamp include:
+
+00:00 Film noise
+00:23 Introduction
+01:45 Intro credits
+02:12 Description of buildings
+03:00 Construction
+04:00 Other liquid metal reactors
+04:27 Sodium Reactor Experiment
+04:55 Contracting, siting, groundbreaking
+05:18 Description of nuclear
+05:40 Integration of coal and nuclear sides
+06:37 Animations of core and plant
+07:55 More construction
+09:20 Vessel support and transport
+11:16 Containment and piping
+12:10 Core internals, graphite moderators
+13:49 Top shield head
+14:18 Fuel elements
+15:36 QA testing and control systems
+16:33 Intermediate loop and steam generators
+18:20 Turbine-generator and substation
+19:01 Fuel handling
+21:44 Test program and criticality
+23:00 Outro
+
 In other exciting news, NPPD has also been scanning photos from
 the Sheldon Station office showing the construction and operation of the Hallam
 reactor in even more thrilling detail. They have already sent us [hundreds
