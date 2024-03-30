@@ -39,6 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-image-size
   - jekyll-exif-data
+  - "jekyll/scholar"
 
 
 feed:
@@ -63,6 +64,10 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+
+scholar:
+  source: assets/
+  bibliography: refs.bib
 
 defaults:
   -
