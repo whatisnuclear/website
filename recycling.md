@@ -8,14 +8,16 @@ description: >
 author: nick
 image: /img/atomic-recycling.png
 date: 2009-03-01
-last_modified_at: 2022-10-01
+last_modified_at: 2024-03-30
 byline: true
 ---
 
 <div class="row">
-<div id="recycling" class="col-md-8" markdown="1">
+<div id="recycling" class="col-12 col-xl-10" markdown="1">
 
-<img class="img-fluid float-end w-25" src="/img/atomic-recycling.png" {% imagesize /img/atomic-recycling.png:props %} alt="Recycle symbol with atom inside it" >
+<img class="img-fluid float-end w-25" src="/img/atomic-recycling.png" {%
+imagesize /img/atomic-recycling.png:props %} alt="Recycle symbol with atom
+inside it" >
 
 Nuclear waste is recyclable. Once reactor fuel (uranium or thorium) is used in a
 reactor, it can be treated and put into another reactor as fuel.
@@ -28,7 +30,9 @@ other isotopes (U-238 and Thorium-232) are <em>fertile</em>, meaning they could
 be changed into fissile nuclides in a reactor, but cannot sustain a chain
 reaction on their own. Natural fuel forms are shown below.
 
-<img class="img-fluid mx-auto d-block w-100" src="/img/fuelcycle-natural.svg" alt="Diagram showing natural Uranium and natural thorium isotopic composition" {% imagesize /img/fuelcycle-natural.svg:props %} >
+<img class="img-fluid mx-auto d-block w-100" src="/img/fuelcycle-natural.svg"
+alt="Diagram showing natural Uranium and natural thorium isotopic composition"
+{% imagesize /img/fuelcycle-natural.svg:props %} >
 
 Because it contains some fissile material naturally, it is possible to build a
 few kinds of nuclear reactors directly fueled with natural uranium. The first
@@ -40,10 +44,11 @@ are fueled with low-enriched uranium. Note that as uranium is enriched more,
 larger piles of depleted uranium (mostly U-238) are left over as tails. The
 following figure shows fuel forms enabled by enrichment.
 
-<img class="img-fluid mx-auto d-block w-100" src="/img/fuelcycle-enrich.svg" alt="Diagram showing a
-number of different isotopic compositions that can be made in a uranium
-enrichment plant, including low-enriched uranium, highly-enriched uranium,
-and thorium mixed with enriched uranium." {% imagesize /img/fuelcycle-enrich.svg:props %} >
+<img class="img-fluid mx-auto d-block w-100" src="/img/fuelcycle-enrich.svg"
+alt="Diagram showing a number of different isotopic compositions that can be
+made in a uranium enrichment plant, including low-enriched uranium,
+highly-enriched uranium, and thorium mixed with enriched uranium." {% imagesize
+/img/fuelcycle-enrich.svg:props %} >
 
 Once the neutron chain reaction begins in a reactor, a number of key things happen
 to the atoms:
@@ -69,10 +74,11 @@ Np-239. Then, the Np-239 beta-decays again to become Pu-239, a fissile isotope
 that can power nuclear reactors. A analogous process happens when Thorium-232
 absorbs a neutron to become fissile Uranium-233.
 
-<img class="img-fluid mx-auto d-block w-100" src="/img/breeding.svg" title="An image of U-238 becoming
-Pu-239 via neutron absorption and two beta-decays and Th-232 becoming U-233" alt="An image of U-238
-becoming Pu-239 via neutron absorption and two beta-decays. Also Thorium-232 becoming Uranium-233
-via breeding." {% imagesize /img/breeding.svg:props %} >
+<img class="img-fluid mx-auto d-block w-100" src="/img/breeding.svg" title="An
+image of U-238 becoming Pu-239 via neutron absorption and two beta-decays and
+Th-232 becoming U-233" alt="An image of U-238 becoming Pu-239 via neutron
+absorption and two beta-decays. Also Thorium-232 becoming Uranium-233 via
+breeding." {% imagesize /img/breeding.svg:props %} >
 
 The fissile atoms left over in the used fuel (red in the figure below) are what
 can be recycled. How many fissile atoms are in the used fuel depends strongly on
@@ -80,8 +86,9 @@ the kind of reactor used. Typical reactors leave just a little bit, but special
 reactors called _breeder reactors_ can actually leave more fissile material than
 they started with! More on that later.
 
-<img class="img-fluid mx-auto d-block w-100" src="/img/fuelcycle-irradiated.svg" alt="Diagram showing
-the isotopic composition of used nuclear fuel after being irradiated in a reactor." {% imagesize /img/fuelcycle-irradiated.svg:props %} >
+<img class="img-fluid mx-auto d-block w-100" src="/img/fuelcycle-irradiated.svg"
+alt="Diagram showing the isotopic composition of used nuclear fuel after being
+irradiated in a reactor." {% imagesize /img/fuelcycle-irradiated.svg:props %} >
 
 All reactors have some fissile material left over when the fuel is discharged.
 If you pull this material out and put it into a _reprocessing plant_ you can
@@ -160,6 +167,40 @@ using [advanced deep-burn fuels]({% link twr.md %}).
 examples of reactors that recycle vs. not recycle compared to breed vs. not
 breed." {% imagesize /img/breeding-vs-recycling.svg:props %} >
 
+## Challenges in Recycling Nuclear Waste
+
+The primary reason most nuclear operators do not recycle their waste is that
+recycling irradiated nuclear fuel is complex and expensive. Spent fuel is
+intensely radioactive and contains elements covering nearly 50% of the periodic
+table. All unit operations must be done remotely through thick shielded walls.
+If something breaks, maintenance has to be done remotely as well. Besides
+radioactivity, recycling facilities must also avoid neutron chain reaction
+criticality, meaning care must be taken to avoid concentrating fissile material
+or assembling it into too large of a spherical shape. An example flow chart from
+an aqueous reprocessing plant is shown below. Simpler processes are possible,
+but this gives a rough understanding of the complexities.
+
+<figure class="figure w-100">
+  <a href="/img/reprocessing_flow_chart.jpg">
+    <img class="img-fluid mx-auto d-block w-100"
+    src="/img/reprocessing_flow_chart_sm.jpg" alt="Complex flow diagram showing around 100
+    different unit operations involved in nuclear reprocessing." {% imagesize
+    /img/reprocessing_flow_chart_sm.jpg:props %} />
+  </a>
+<figcaption class="figure-caption">A complex aqueous reprocessing flow chart {%
+  cite johnsonFinalReportTask1978 %}.</figcaption>
+</figure>
+
+Furthermore, [proliferation challenges]({% link non-proliferation.md %}) are
+involved in reprocessing. President Jimmy Carter outlawed commercial recycling in the USA
+in 1977, but his successor, President Ronald Reagan unbanned it in 1981, and it
+has remained legal ever since {% cite
+reaganStatementAnnouncingSeries1981 robyReaganLiftsBan1981 %}.
+
+Studies have suggested that the economics of reprocessing will only be better
+than the cost of once-through fuel cycles after uranium prices exceed $360/kg
+{% cite bunnEconomicsReprocessingDirect2003 %}.
+
 ## Nuclear Fuel cycles
 
 A nuclear fuel cycle is the path that nuclear fuel (Uranium, Thorium, Plutonium, etc.) takes as it
@@ -227,12 +268,12 @@ nuclear power can <a href="{% link nuclear-sustainability.md %}">truly be consid
 
 <p>Questions? <a href="contact.html">Send them in!</a></p>
 
+<h1 id="references">References</h1>
+{% bibliography --cited %}
+
 ## Additional Reading
 
 - <a href="http://www-pub.iaea.org/books/IAEABooks/7112/Implications-of-Partitioning-and-Transmutation-in-Radioactive-Waste-Management">Implications of Partitioning and Transmutation in Radioactive Waste Management, IAEA Technical Reports Series 435</a>
-- [Bunn, The Economics of Reprocessing Versus Direct Disposal of Spent Nuclear
-  Fuel](http://nrs.harvard.edu/urn-3:HUL.InstRepos:30209100) -- A report suggesting that
-  reprocessing only becomes economical after fuel costs exceed $360/kg
 - [Principles of Fast, Thermal, and Breeder
   reactors](https://www.youtube.com/watch?v=YsZE_YhUXh4) -- And old but useful video about this information
 - Our <a href="{% link fuel-cycle.md %}">fuel cycle page</a>
