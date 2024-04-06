@@ -17,7 +17,7 @@ comments: true
 
 <div class="col-md-8" markdown="1">
 
-I couldn't be happier to be announcing the addition of *six*(!) more digitized
+I couldn't be happier to be announcing the addition of _six_(!) more digitized
 historical nuclear films to the world's collection, thanks to the generosity of
 [Last Energy](https://www.lastenergy.com/). This is our biggest batch of
 digitizations yet! As before, these were all sourced from 16mm films in
@@ -279,14 +279,12 @@ in our catalog.
 
 ## Naval research laboratory reactor (1958)
 
-This film details a swimming pool type reactor used for naval research.
-It is the best-looking of this batch in terms of video quality.
+Due to an issue with the audio track, this film was processed a bit later than
+the others, and [has been announced and displayed
+here]({% link _news/2024-04-07-naval-research-laboratory-reactor-1985.md %}).
 
-However, there has been an issue with the audio track that I'm currently
-resolving with the scanning contractor, so I'll post this one soon.
-
-This is film [88192]({% link old-videos.md %}#naval-research-laboratory-reactor)
-in our catalog.
+<div class="row">
+<div class="col-md-8" markdown="1">
 
 ## See Also
 

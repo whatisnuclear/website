@@ -227,7 +227,8 @@
   win: true
   links: 
     - url: https://www.youtube.com/watch?v=Zukgzn47_ec
-      name: On YouTube (thanks Last Energy!)
+      name: On YouTube
+      notes: Thanks to Last Energy!
   index: >
     00:00 Intro to electricity
     05:14 Intro to atomic power
@@ -547,7 +548,8 @@
   notes: 
   win: true
   links:
-    - name: On YouTube (thanks Last Energy!)
+    - name: On YouTube 
+      notes: Thanks to Last Energy!
       url: https://www.youtube.com/watch?v=Dft1fPWFgD8
   index: >
     00:00 Intro
@@ -1644,8 +1646,9 @@
   notes: 
   win: true
   links: 
-    - name: On YouTube thanks to Last Energy
+    - name: On YouTube 
       url: https://www.youtube.com/watch?v=4NH2AUAnzf8
+      notes: Thanks to Last Energy!
     - name: Related short clip
       url: https://www.youtube.com/watch?v=-5d-zpwzTVA
   # putting index in here for safe keeping. not super useful on html page.
@@ -1858,7 +1861,7 @@
   date: 1958
   length: 25
   color: true
-  priority: 2
+  win: true
   description: >
     The film presents a guided tour through the Naval Research Laboratory's
     research reactor facility in Washington, DC. All visible components are
@@ -1866,6 +1869,9 @@
     methods of exposing samples are explained by animation.
   notes: This was a HEU swimming-pool type research reactor
   links: 
+    - name: On YouTube 
+      url: https://www.youtube.com/watch?v=QTNheyTXpII
+      notes: "Thanks to Last Energy!"
     - name: Possibly related NAID 74963
       url: https://catalog.archives.gov/id/74963
 
@@ -2075,7 +2081,8 @@
   notes: A Geneva 1964 film produced by B&W
   links: 
     - url: https://www.youtube.com/watch?v=1sWqmPyoYxw
-      name: "On YouTube (thanks Last Energy!)"
+      name: "On YouTube"
+      notes: Thanks to Last Energy!
   index: >
     00:00 Intro
     00:34 Why Thorium
