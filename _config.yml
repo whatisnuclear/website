@@ -67,7 +67,13 @@ exclude:
 
 scholar:
   source: assets/
+  # for now refs.bib has to be manually copied from /pool/Reading when updated.
   bibliography: refs.bib
+  bibtex_filters:
+    - latex
+    # trying to get html hyperlinks from urls in refs.... doesn't work. just
+    # prints out [markdown](woo)
+    #- markdown
 
 defaults:
   -
