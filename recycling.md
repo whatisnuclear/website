@@ -2,9 +2,9 @@
 layout: default
 title: What is nuclear recycling?
 description: >
-  Learn about recycling nuclear waste and breeder reactors. Did you know that
-  typical nuclear reactors only use about 1% of the energy in their fuel, and
-  that nuclear waste is recyclable?
+  Learn what recycling nuclear waste is, and what breeder reactors are. Did you
+  know that typical nuclear reactors only use about 1% of the energy in their
+  fuel, and that nuclear waste is recyclable?
 author: nick
 image: /img/atomic-recycling.png
 date: 2009-03-01
@@ -84,7 +84,7 @@ The fissile atoms left over in the used fuel (red in the figure below) are what
 can be recycled. How many fissile atoms are in the used fuel depends strongly on
 the kind of reactor used. Typical reactors leave just a little bit, but special
 reactors called _breeder reactors_ can actually leave more fissile material than
-they started with! More on that later.
+they started with!
 
 <img class="img-fluid mx-auto d-block w-100" src="/img/fuelcycle-irradiated.svg"
 alt="Diagram showing the isotopic composition of used nuclear fuel after being
@@ -109,7 +109,7 @@ Recycling has several use cases:
   Note that this is less of a concern for power reactors because the isotopic composition
   of the plutonium that remains is not ideal for nuclear weapons.
 
-## Breeder Reactors and Recycling
+## What is a breeder reactor?
 
 Breeder reactors are nuclear reactors configured to generate more fissile fuel
 from fertile potential fuel during operation than they consume. The net gain in
