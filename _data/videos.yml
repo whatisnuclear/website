@@ -2711,3 +2711,24 @@
   links:
     - name: Online from Periscope
       url: https://www.youtube.com/watch?v=JrBRyGaDnMc
+
+- title: "Nuclear Surface Ships: Off the California Coast"
+  naid: 2663484
+  date: 1972-02-17
+  priority: 2
+  description: >
+    This film shows the guided missile cruisers the USS Long Beach (CGN-9), the
+    USS Bainbridge (DLGN-25), and the USS Truxtun (DLGN-35) as they traveled
+    together in various formations off the coast of California.
+  notes: Film is silent! But still sounds cool
+  links: 
+    - name: Possibly related to this
+      url: https://catalog.archives.gov/id/102045939
+
+- title: "Aircraft Nuclear Propulsion Program: Manned Aircraft Progress Report"
+  naid: 62995
+  date: 1961
+  priority: 1
+  description: >
+    This film reviews progress achieved in the Air Force aircraft nuclear
+    propulsion program from 1956 to 1958.
