@@ -10,10 +10,15 @@ image: /img/
 
 <div class="row">
 <div class="col-md-8" markdown="1">
+
 <figure class="figure float-end w-25">
-<a href="/img/HR_Collapse.jpg"><img class="figure-img img-fluid rounded"
-src="/img/HR_Collapse.jpg"  alt="Picutre of aftermath of Hyatt Regenecy Walkway Collapse, 17 July 1981."/></a> 
-<figcaption class="figure-caption">Aftermath of Hyatt Regenecy Walkway Collapse, 17 July 1981.</figcaption>
+<a href="/img/hyatt-regency-walkway.jpg">
+<img class="figure-img img-fluid rounded" src="/img/hyatt-regency-walkway.jpg"
+alt="Picture of aftermath of Hyatt Regency Walkway Collapse, 17 July 1981."/></a> 
+<figcaption class="figure-caption" markdown="1">
+Aftermath of Hyatt Regency Walkway Collapse, 17 July 1981 (from [Texas
+A&M](https://ethics.tamu.edu/hyatt-regency-photos/)).
+</figcaption>
 </figure>
 
 # What happened?
@@ -50,8 +55,8 @@ systems, the results can be fatal.
 
 # References and additional reading
 
-1. [One Of The Deadliest U.S. Accidental Structural Collapses Happened 40 Years
-   Ago Today](https://www.npr.org/2021/07/17/1016603199/one-of-the-deadliest-u-s-accidental-structural-collapses-happened-40-years-ago-t)
+1. [One Of The Deadliest U.S. Accidental Structural Collapses Happened 40 Years Ago Today](https://www.npr.org/2021/07/17/1016603199/one-of-the-deadliest-u-s-accidental-structural-collapses-happened-40-years-ago-t)
+2. [Hyatt Regency walkway collapse Wikipedia article](https://en.wikipedia.org/wiki/Hyatt_Regency_walkway_collapse)
 
 </div>
 </div>
