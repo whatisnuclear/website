@@ -113,6 +113,7 @@ plant have fed steam into a shared turbine.
 
 # See Also
 
+- [Sodium Reactor Experiment Construction]({% link _news/2024-05-18-sodium-reactor-experiment-construction.html %})
 - [Hallam SGR photos]({% link hallam-photos.md %})
 - [ANS Nuclear Cafe -- Hallam Nuclear Station on 1960's TV!](https://www.ans.org/news/article-2163/hallam-nuclear-station-on-1960s-tv/)
 - [Sheldon Power Station](https://en.wikipedia.org/wiki/Sheldon_Power_Station)
