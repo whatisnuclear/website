@@ -17,21 +17,20 @@ comments: true
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-
 <div class="list-group">
   <div class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
       <small>@whatisnuclear</small>
-      <h5 class="mb-1"><a href="https://twitter.com/whatisnuclear/status/1791521446281498801">Thread</a></h5>
+      <h5 class="mb-1 p-2"><a href="https://twitter.com/whatisnuclear/status/1791521446281498801">Thread</a></h5>
       <small>{{ page.date }}</small>
     </div>
     <div class="card">
-    <p class="mb-1">Let me tell you about Aqueous Homogeneous Research Reactors.
+    <p class="mb-1 p-2">Let me tell you about Aqueous Homogeneous Research Reactors.
     These were reactors with fluid fuel: an aqueous solution of uranium. Aka
     "water-boiler" type reactors.  The first few were made at LANL during the 
     Manhattan Project. Later, Atomics International sold them for research.</p>
-    <img src="/img/posts/ahr/ahr1.jpg" class="rounded card-img w-75"> 
+    <img src="/img/posts/ahr/ahr1.jpg" class="rounded mx-auto card-img w-75"> 
   </div>
     <small>1/n</small>
   </div>
@@ -41,16 +40,16 @@ comments: true
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
     </div>
     <div class="card">
-    <p class="mb-1">These reactors were nice for research because they were
+    <p class="mb-1 p-2">These reactors were nice for research because they were
     small, inherently safe due to strong negative reactivity feedbacks, "easy"
     to maintain, and could be operated with a small crew. Here's one being built
     at the Armour Research Foundation in Chicago (now @IITRI_Chicago ) </p>
     <div class="row">
       <div class="col-6">
-        <a href="/img/posts/ahr/ahr2.jpg"><img src="/img/posts/ahr/ahr2.jpg" class="rounded card-img"></a>
+        <a href="/img/posts/ahr/ahr2.jpg"><img src="/img/posts/ahr/ahr2.jpg" class="rounded mx-auto card-img"></a>
       </div>
       <div class="col-6">
-        <a href="/img/posts/ahr/ahr3.jpg"><img src="/img/posts/ahr/ahr3.jpg" class="rounded card-img"></a>
+        <a href="/img/posts/ahr/ahr3.jpg"><img src="/img/posts/ahr/ahr3.jpg" class="rounded mx-auto card-img"></a>
       </div>
     </div>
   </div>
@@ -61,10 +60,10 @@ comments: true
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
     </div>
-    <div class="card"> <p class="mb-1">Research reactors of this type were
+    <div class="card"> <p class="mb-1 p-2">Research reactors of this type were
     installed by Atomics International around the world, including in Laramie,
     Berlin, Tokai, Risø, Frankfurt, Geneva, Mayaguez, and Milan</p>
-      <a href="/img/posts/ahr/ahr4.jpg"><img src="/img/posts/ahr/ahr4.jpg" class="rounded card-img"></a>
+      <a href="/img/posts/ahr/ahr4.jpg"><img src="/img/posts/ahr/ahr4.jpg" class="rounded mx-auto card-img"></a>
   </div>
     <small>3/n</small>
   </div>
@@ -72,11 +71,11 @@ comments: true
   <div class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
-    </div> <div class="card"> <p class="mb-1">Because the fissions are happening
+    </div> <div class="card"> <p class="mb-1 p-2">Because the fissions are happening
     amongst the water, radiolytic decomposition of water happened constantly. 10
     liters of hydrogen and oxygen gases are released per minute when operating
     at 50 kW. Gas recombiners were developed to deal with this.</p>
-      <a href="/img/posts/ahr/ahr5.jpg"><img src="/img/posts/ahr/ahr5.jpg" class="rounded card-img"></a>
+      <a href="/img/posts/ahr/ahr5.jpg"><img src="/img/posts/ahr/ahr5.jpg" class="rounded mx-auto card-img"></a>
   </div>
     <small>4/n</small>
   </div>
@@ -84,12 +83,12 @@ comments: true
   <div class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
-    </div> <div class="card"> <p class="mb-1">The recombiner offered a somewhat
+    </div> <div class="card"> <p class="mb-1 p-2">The recombiner offered a somewhat
     unique experimental capability, where the decaying fission gases would
     release strong gammas far away from the neutrons. Having pure-gamma
     facilities was useful for much research.</p> <a
     href="/img/posts/ahr/ahr6.jpg"><img src="/img/posts/ahr/ahr6.jpg"
-    class="rounded card-img"></a>
+    class="rounded mx-auto card-img"></a>
   </div>
     <small>5/n</small>
   </div>
@@ -97,9 +96,9 @@ comments: true
   <div class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
-    </div> <div class="card"> <p class="mb-1">Here's a typical control console for one of these </p> <a
+    </div> <div class="card"> <p class="mb-1 p-2">Here's a typical control console for one of these </p> <a
     href="/img/posts/ahr/ahr7.jpg"><img src="/img/posts/ahr/ahr7.jpg"
-    class="rounded card-img"></a>
+    class="rounded mx-auto card-img"></a>
   </div>
     <small>6/n</small>
   </div>
@@ -107,11 +106,11 @@ comments: true
   <div class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
-    </div> <div class="card"> <p class="mb-1">Atomics International basically
+    </div> <div class="card"> <p class="mb-1 p-2">Atomics International basically
     serialized production of these AHRs. They had an assembly line for them.</p>
     <a
     href="/img/posts/ahr/ahr8.jpg"><img src="/img/posts/ahr/ahr8.jpg"
-    class="rounded card-img"></a>
+    class="rounded mx-auto card-img"></a>
   </div>
     <small>7/n</small>
   </div>
@@ -119,11 +118,11 @@ comments: true
   <div class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
-    </div> <div class="card"> <p class="mb-1">REACTORS READY FOR CRATING. 
+    </div> <div class="card"> <p class="mb-1 p-2">REACTORS READY FOR CRATING. 
 Easily installed in any standard laboratory! </p>
     <a
     href="/img/posts/ahr/ahr9.jpg"><img src="/img/posts/ahr/ahr9.jpg"
-    class="rounded card-img"></a>
+    class="rounded mx-auto card-img"></a>
   </div>
     <small>8/n</small>
   </div>
@@ -131,7 +130,7 @@ Easily installed in any standard laboratory! </p>
   <div class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
-    </div> <div class="card"> <p class="mb-1">Overall, a cool part of reactor
+    </div> <div class="card"> <p class="mb-1 p-2">Overall, a cool part of reactor
     history. I bought this pamphlet on ebay, and it came in the mail yesterday.
     I scanned it last night at 600 dpi and have posted it at <a
     href="https://archive.org/details/aqueous-homogeneous-research-reactors">Aqueous
@@ -139,7 +138,7 @@ Easily installed in any standard laboratory! </p>
     </p>
     <a
     href="/img/posts/ahr/ahr10.jpg"><img src="/img/posts/ahr/ahr10.jpg"
-    class="rounded card-img"></a>
+    class="rounded mx-auto card-img"></a>
   </div>
     <small>9/n</small>
   </div>
@@ -147,7 +146,7 @@ Easily installed in any standard laboratory! </p>
   <div class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
       <img src="/img/IMG_4937_sm.png" class="rounded-circle mr-1" alt="Me" width="40" height="40">
-    </div> <div class="card"> <p class="mb-1">Oh neat: the Laramie one was a
+    </div> <div class="card"> <p class="mb-1 p-2">Oh neat: the Laramie one was a
     L-77 at University of Wyoming, as recently discussed in this great article
     <a href="https://cowboystatedaily.com/2024/03/23/urban-myth-busted-there-was-a-tiny-working-nuclear-reactor-at-uw-50-years-ago/">Lost in Time: There was a Working Nuclear Reactor at UW 60 Years ago</a>
     </p>
@@ -159,6 +158,5 @@ Easily installed in any standard laboratory! </p>
 
 </div>
 </div>
-
 
 {% include lazyload.html %}
