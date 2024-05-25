@@ -20,7 +20,8 @@ alt="The Heat Transfer Reactor Experiment (HTRE) 3, an experimental nuclear reac
 built in Idaho to understand the prospects of nuclear-power flight."/> 
 </a> 
 <figcaption class="figure-caption">
-The HTRE-3 [2]
+The Heat Transfer Reactor Experiment (HTRE) 3, an experimental nuclear reactor
+built in Idaho to understand the prospects of nuclear-power flight. [2]
 </figcaption>
 </figure>
 
@@ -103,12 +104,12 @@ had been brought over from the previous HTRE-3 without appropriate adjustments
 # Legacy
 
 <figure class="figure float-end w-50">
-<a href="/img/HTRE-3.jpg">
-<img class="figure-img img-fluid rounded" src="/img/HTRE-3.jpg"
-alt="The HTRE-2 sitting in the parking lot of the EBR-1 museum"/> 
+<a href="/img/HTRE-2.jpg">
+<img class="figure-img img-fluid rounded" src="/img/HTRE-2.jpg"
+alt="The HTRE-2 sitting in the parking lot of the EBR-1 museum. The HTRE-3 can be partially seen behind it, on the left."/> 
 </a> 
 <figcaption class="figure-caption">
-The HTRE-2 sitting in the parking lot of the EBR-1 museum in Idaho.
+The HTRE-2 sitting in the parking lot of the EBR-1 museum in Idaho. The HTRE-3 can be partially seen behind it, on the left.
 </figcaption>
 </figure>
 
