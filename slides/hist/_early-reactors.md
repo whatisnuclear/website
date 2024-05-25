@@ -225,8 +225,8 @@ ORNL</a>)</p>
       href="https://www.osti.gov/biblio/1048124-comprehensive-technical-report-general-electric-direct-air-cycle-aircraft-nuclear-propulsion-program-program-summary-references">APEX-901</a></p>
           </div>
       <div class="col-4">
-<a href="/img/HTRE-3.jpg"><img class="img-fluid" 
-data-src="/img/HTRE-3-sm.jpg" alt="The HTRE-2 nuclear-heated jet engine"/></a>
+<a href="/img/HTRE-2.jpg"><img class="img-fluid" 
+data-src="/img/HTRE-2-sm.jpg" alt="The HTRE-2 nuclear-heated jet engine"/></a>
 <p class="small">An actual test of a nuclear-powered jet engine in Idaho, called HTRE-2 (photo by me)</p>
     </div>
       <div class="col-4">
