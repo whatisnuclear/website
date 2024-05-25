@@ -1159,7 +1159,7 @@ when graphite is involved because of potential fires, as learned at Windscale), 
 The Heat Transfer Reactor Experiments (HTRE, pronounced "heater") made at the NRTS during
 the Aircraft Nuclear Propulsion program had air coolant, water/ZrH moderator. Some studies
 were made to understand the options to convert this reactor concept into a merchant ship
-steam generator concept, called the 630A. The HTRE-3 at one point was on automatic control and automatically
+nuclear steam generator concept, called the 630A. The HTRE-3 at one point was on automatic control and automatically
 withdrew a control rod due to a faulty flux sensor, causing a power excursion and meltdown.
 HTRE-1/2 and 3 are in the EBR-I museum parking lot (in Idaho) for anyone to visit to this day.
 
