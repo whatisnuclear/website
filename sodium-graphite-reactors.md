@@ -111,6 +111,70 @@ plant have fed steam into a shared turbine.
 </figcaption> 
 </figure>
 
+# Some Technical SGR Papers
+
+## General
+
+- [Weisner, A sodium-graphite reactor steam-electric station for 75 megawatts net
+  generation, 1955](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095000678)
+- [Starr, Sodium Graphite Reactors, 1958](https://babel.hathitrust.org/cgi/pt?id=mdp.39015003993881&seq=7)
+- [Proceedings of the SRE-OMRE forum,
+  1958](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095054634)
+- [Connolly, Self-sustaining plutonium recycle in sodium graphite reactors](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002765)
+- [Shaw, Control elements for sodium graphite reactors, 1959](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095100593)
+- [Hayward, Sodium graphite reactor materials survey, 1959](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002849)
+- [Connolly, Fuel programming for sodium graphite reactors,
+  1959](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002872)
+- [Hayward, Radiation behavior of metallic fuels for sodium graphite reactors, 1959](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002401)
+- [Koenig, Properties of ceramic and cermet fuels for sodium graphite reactors, 1960](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002716)
+- [Reed, Evaluation of calandria, thimble, and canned-moderator concepts for
+  sodium graphite reactors,
+  1960](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002476)
+- [Cappel, Transient behavior of an advanced sodium graphite reactor,
+  1961](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002682)
+- [Rood, 1000-Mwe SGR: core optimization studies, NA-SR-9501,
+  1964](https://catalog.hathitrust.org/Record/100902310)
+- [Lee, Process development for bonding zircaloy 2 cladding to graphite
+  moderator](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095164318)
+- [More...](https://catalog.hathitrust.org/Search/Home?lookfor=%22%20Sodium%20graphite%20reactors%22&type=subject&inst=)
+
+## SRE
+
+- [Cambell, Low-power physics experiments on the sodium reactor
+  experiment](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002369)
+- [Hayward, SRE experimental fuel program, 1959](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002427)
+- [Miller, Development of the SRE thimble-type control rods: Mark I and II, NAA-SR-2011, 1959](https://catalog.hathitrust.org/Record/100902953)
+- [Phillips, Development of the SRE Mark I safety rod, NA-SR-2008, 1959](https://catalog.hathitrust.org/Record/100902952?type%5B%5D=subject&lookfor%5B%5D=%22%20Sodium%20graphite%20reactors%22&ft=)
+- [Dryer, SRE Reactor Fuel Handling Equipment, NAA-SR-5599,
+  1960](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095004399&seq4)
+- [Freede, SRE core recovery program, 1961](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095005073)
+- [Weaver, Sodium Reactor Experiment reactivity history program, NA-SR-10010, 1964](https://catalog.hathitrust.org/Record/100902523)
+- [Pellet, Core II physics tests on the sodium reactor experiment, NA-SR-9510,
+  1964](https://catalog.hathitrust.org/Record/100902313)
+- [Keaten, Nuclear parameters of the SRE core II, 1964](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095001817)
+- [Dietz, SRE Mark II Fuel Handling Machine, NAA-SR-10817,
+  1965](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03913177g&seq=3)
+
+## Hallam
+
+- [Dunsmore, Development of temperature protective circuits for the HNPF fuel
+  channel exit, 1961](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095004100)
+- [Doyas, Hallam critical experiment,
+  1961](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095004373)
+- [Mahlmeister, Engineering and constructing the Hallam Nuclear Power Facility
+  reactor structure, 1962](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095005941)
+- [Aronchick, Nuclear startup experiments for HNPF, NA-SR-10078,
+  1964](https://catalog.hathitrust.org/Record/100902524)
+- [Kapsic, Experimental testing of core component handling equipment and
+  handling techniques for Hallam Nuclear Power Facility, NA-SR-7785,
+  1964](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095005693)
+
+## Large Sodium Graphite Reactor (LSGR)
+
+LSGR was the next step after Hallam I guess.
+
+- [Brindley, Hydraulic studies of the LSGR process channel, 1965](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095006758&seq=1)
+
 # See Also
 
 - [Sodium Reactor Experiment Construction]({% link _news/2024-05-18-sodium-reactor-experiment-construction.html %})
