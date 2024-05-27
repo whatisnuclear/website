@@ -15,6 +15,7 @@ dist/reveal*
 dist/theme
 dist/reset.css
 dist/css/joplin.css
+assets/crbrp
 vendor*
 node_modules
 package-lock.json
