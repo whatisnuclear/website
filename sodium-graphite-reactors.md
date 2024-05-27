@@ -136,10 +136,18 @@ plant have fed steam into a shared turbine.
   1964](https://catalog.hathitrust.org/Record/100902310)
 - [Lee, Process development for bonding zircaloy 2 cladding to graphite
   moderator](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095164318)
+- [Quarterly Technical Progress Report AEC Unclassified Programs, NAA-SR-11900, Jan 1964](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095256460&seq=3)
 - [More...](https://catalog.hathitrust.org/Search/Home?lookfor=%22%20Sodium%20graphite%20reactors%22&type=subject&inst=)
 
 ## SRE
 
+- [Sodium graphite reactor quarterly progress report, July 1954](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095279033&seq=7)
+- [Glasgow, Sodium graphite reactor quarterly progress report, NAA-SR-1760, July 1956](https://babel.hathitrust.org/cgi/pt?id=mdp.39015094999730&seq=3)
+- [Proceedings of the SRE-OMRE forum,
+  1956](https://babel.hathitrust.org/cgi/pt?id=coo.31924105638211&seq=5)
+- [Sodium graphite reactor quarterly progress report, Nov
+  1956](https://babel.hathitrust.org/cgi/pt?id=mdp.39015094999730&seq=9)
+- [Annual Technical Report AEC Unclassified Programs, NAA-SR-2400, January 1957](https://babel.hathitrust.org/cgi/pt?id=chi.092034558&seq=3)
 - [Cambell, Low-power physics experiments on the sodium reactor
   experiment](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002369)
 - [Hayward, SRE experimental fuel program, 1959](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095002427)
