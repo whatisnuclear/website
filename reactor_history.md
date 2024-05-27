@@ -726,7 +726,7 @@ Above all, the liability problem had not been resolved.
 <p>
 Nevertheless, we took on the Dresden station because we were convinced that by doing so
 we would serve the long-run interests of our share owners, our responsibilities to the
-system of private enterprise, and the national interest. Out decision to go forward was
+system of private enterprise, and the national interest. Our decision to go forward was
 also based on the belief that Congress expected this kind of a job to be done by private
 industry. We had faith that Congress, and particularly this committee, as well as the
 Commission, wanted to encourage private development and would take all reasonable steps
