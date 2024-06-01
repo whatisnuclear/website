@@ -9,7 +9,7 @@ categories:
   - news
 image: /img/zppr-thumb.jpg
 byline: true
-tag: videos
+tags: videos
 comments: true
 ---
 
@@ -102,9 +102,7 @@ If anyone needs the 345 GB ProRes-format version, [let me know]({% link contact.
   to get some of these scanned, check out [our digitization
   GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
   and/or [contact us]({% link contact.md %})!
-
-All our video digitization announcements:
-{% include taglist.liquid tag="videos" %}
+- [Our Digital Reactor History Museum]({% link museum.md %})
 
 </div>
 </div>

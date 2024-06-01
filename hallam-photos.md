@@ -11,6 +11,7 @@ reading_time: false
 date: 2023-06-03
 image: /img/hallam-decom/hallam-19-004.jpg
 comments: true
+tags: museum
 ---
 
 The photos below come from the decommissioning process of the [Hallam Nuclear

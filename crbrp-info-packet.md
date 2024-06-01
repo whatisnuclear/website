@@ -7,6 +7,7 @@ description: >
 author: nick
 date: 2024-05-26
 image: /img/info-covers.jpg
+tags: museum
 byline: true
 ---
 

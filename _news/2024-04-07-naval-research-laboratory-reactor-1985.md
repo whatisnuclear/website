@@ -4,7 +4,7 @@ title: >
   Naval Research Laboratory Reactor film from 1958
 author: nick
 category: news
-tag: videos
+tags: videos
 description: >
   A film from the 1958 'Atoms for Peace' conference in Geneva
   has been digitized and can be seen here. It describes the
@@ -85,14 +85,12 @@ in our catalog.
 
 ## See Also
 
+- [Our Digital Reactor History Museum]({% link museum.md %})
 - [Our Old Videos page]({% link old-videos.md %}) with a running list of the
   available and yet-to-be-scanned films out there. If you're interested in helping
   to get some of these scanned, check out [our digitization
   GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
   and/or [contact us]({% link contact.md %})!
-
-All our video digitization announcements:
-{% include taglist.liquid tag="videos" %}
 
 </div>
 </div>

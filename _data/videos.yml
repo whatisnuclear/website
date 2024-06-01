@@ -55,7 +55,7 @@
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Bo14h9_DKVY
 
-- title: THE NUCLEAR SHIP SAVANNAH
+- title: The Nuclear Ship Savannah
   naid: 88199
   date: 1964
   length: 28.5
@@ -83,10 +83,11 @@
     the significance of the Nuclear Ship Savannah as a pioneer in the use of nuclear
     power for world trade to benefit all mankind.
   win: true
+  image: /img/savannah-03.jpg
   resolution: 4K
   links: 
     - name: Our announcement page
-      url: https://whatisnuclear.com/news/2023-07-12-the-nuclear-ship-savannah-film-digitized.html
+      url: /news/2023-07-12-the-nuclear-ship-savannah-film-digitized.html
     - name: On YouTube!
       url: https://www.youtube.com/watch?v=SA8W2Xpz2hA
       notes: Thanks to Ross Koningstein for help
@@ -149,7 +150,7 @@
     In the future, from atomic fission. Atoms. The fission process. Radioactivity.
     Atomic core comprised of protons and neutrons. Binding energy holds it
     together. Electron shells. Atomic number. Atomic weight is sum of protons and
-    netrons. Varying the number of neutrons leads to isotopes of the same element.
+    neutrons. Varying the number of neutrons leads to isotopes of the same element.
     Most natural uranium is U-238, but it has high binding force and is not
     suitable for fuel. U-235 easier to split. Fission causes release of radiation
     and heat. Fermi produced first controlled chain reaction in 1942. U-238 can be
@@ -225,7 +226,10 @@
     overseas through the Atoms for Peace Program.
   notes: 
   win: true
+  image: /img/vids/atom_usa/434_48_usa-15.jpg
   links: 
+    - url: /news/2024-03-16-six-early-nuclear-films.html#atomic-power-and-the-united-states-1957
+      name: Our announcement page
     - url: https://www.youtube.com/watch?v=Zukgzn47_ec
       name: On YouTube
       notes: Thanks to Last Energy!
@@ -308,7 +312,7 @@
 
     This nuclear plant was built by Westinghouse. Planning for refueling started
     Sept. 1970. Shutdown Feb. 26, 1971. Refueling plus disassembly and inspection
-    of nuclear and electrical components. Core removed, repalced by water that acts
+    of nuclear and electrical components. Core removed, replaced by water that acts
     as coolant and radiation shield. Fuel removed to storage area. Fuel bundles
     described. Inspection of fuel bundles. New fuel loaded. one-third of core
     replaced every 13 months. Overhaul of main coolant pumps, repacking of all
@@ -371,7 +375,7 @@
       url: https://www.youtube.com/watch?v=Cdd2BJI836g
       notes: Digitized by ANL in 240p
 
-- title: HALLAM NUCLEAR POWER FACILITY
+- title: Hallam Nuclear Power Facility
   naid: 88153
   date: 1963
   length: 20
@@ -395,7 +399,7 @@
       url: https://www.youtube.com/watch?v=ey1MO_1DkL4
       notes: Special thanks to NPPD
     - name: Our announcement page
-      url: https://whatisnuclear.com/news/2023-03-13-hallam-historical-films-scanned.html
+      url: /news/2023-03-13-hallam-historical-films-scanned.html
 
 - title: Hallam, Operating Experience
   naid: 88207
@@ -416,7 +420,7 @@
       url: https://www.youtube.com/watch?v=H1kazdkkB5o
       notes: Special thanks to NPPD
     - name: Our announcement page
-      url: https://whatisnuclear.com/news/2023-03-13-hallam-historical-films-scanned.html
+      url: /news/2023-03-13-hallam-historical-films-scanned.html
 
 - title: In Search of a Critical Moment
   naid: 88308
@@ -438,7 +442,7 @@
     - name: On YouTube
       url: https://www.youtube.com/watch?v=jmvbbRRYb6k
     - name: Our announcement page
-      url: https://whatisnuclear.com/news/2022-12-19-zppr-film-scanned.html
+      url: /news/2022-12-19-zppr-film-scanned.html
 
 - title: ML-1 MOBILE NUCLEAR POWER PLANT
   naid: 88191
@@ -463,7 +467,7 @@
       url: https://www.youtube.com/watch?v=PPPp5rtu04A
       notes: Digitized with a red tinge
 
-- title: THE NEW POWER
+- title: The New Power
   naid: 88194 
   date: 1965
   length: 45
@@ -488,7 +492,7 @@
   resolution: 4K
   links:
     - name: Our announcement page
-      url: https://whatisnuclear.com/news/2023-07-04-the-new-power-film-about-nrts.html
+      url: /news/2023-07-04-the-new-power-film-about-nrts.html
     - name: On YouTube
       url: https://www.youtube.com/watch?v=LmdLgYqJLqs
 
@@ -530,7 +534,7 @@
       url: https://www.youtube.com/watch?v=AHXOxHwpwsY 
 
 
-- title: NUCLEAR ENERGY GOES RURAL
+- title: Nuclear Energy Goes Rural
   naid: 88195
   date: 1963
   length: 14.5
@@ -547,7 +551,10 @@
     monitoring system. 
   notes: 
   win: true
+  image: /img/vids/rural/boy-and-elk-river.jpg
   links:
+    - url: /news/2024-03-16-six-early-nuclear-films.html#nuclear-energy-goes-rural-1963
+      name: Our announcement page
     - name: On YouTube 
       notes: Thanks to Last Energy!
       url: https://www.youtube.com/watch?v=Dft1fPWFgD8
@@ -637,7 +644,7 @@
   resolution: 4K
   links: 
     - name: Our announcement page
-      url: https://whatisnuclear.com/news/2023-07-03-film-about-pm1-microreactor-in-wyoming.html
+      url: /news/2023-07-03-film-about-pm1-microreactor-in-wyoming.html
     - name: On YouTube in 4K
       url: https://www.youtube.com/watch?v=T9S1P54n1FA
       notes: Thanks to Ross Koningstein for his help
@@ -864,7 +871,7 @@
     Experiments to learn the effects of radiation on human beings are explained
     studies of the effects of radiation received continually over a lifetime
     (bone-tumor studies); studies of the mutation-producing effects of radiation
-    (fruitfly studies, work with dogs, etc.); studies of neonatal rates;
+    (fruit fly studies, work with dogs, etc.); studies of neonatal rates;
     life-span studies; studies of leukemia; effects of radiation on cells, etc.
     
     The film shows in detail the giant Zero Gradient Synchrotron accelerator or
@@ -1091,7 +1098,7 @@
   priority: 4
   links: 
   
-- title: ROUNDUP
+- title: Roundup
   naid: 88251
   date: 1960
   length: 18.25
@@ -1119,9 +1126,12 @@
     (Nontechnical: suitable for all audience levels.)
   notes: 
   win: true
+  image: /img/roundup.jpg
   resolution: 4K
   links: 
-    - name: Digitized thanks to ANS!
+    - name: Our announcement page
+      url: /news/2023-11-09-radioisotope-films-digitized-thanks-to-ans.html#roundup
+    - name: On YouTube thanks to ANS!
       url: https://www.youtube.com/watch?v=QFoOnS6CWSI 
     - name: "Related: Eradication of the Screwworm (2018)"
       url: https://www.youtube.com/watch?v=AXvObw8yuzs
@@ -1516,7 +1526,7 @@
   notes: 
   links: 
 
-- title: "RADIOISOTOPES: SAFE SERVANTS OF INDUSTRY"
+- title: "Radioisotopes: Safe Servants of Industry"
   naid: 88238 
   date: 1963
   length: 28
@@ -1531,7 +1541,10 @@
   notes: 
   win: true
   resolution: 4K
+  image: /img/radioisotopes-film.jpg
   links: 
+    - name: Our announcement page
+      url: /news/2023-11-09-radioisotope-films-digitized-thanks-to-ans.html#radioisotopes
     - name: Digitized thanks to ANS!
       url: https://www.youtube.com/watch?v=_4phBVVWRfQ
 
@@ -1587,7 +1600,7 @@
       url: https://www.youtube.com/watch?v=xqQ0c6UAsMk
       
 
-- title: "REMOTE REPAIR AND MODIFICATION OF THE HRE-2 CORE VESSEL"
+- title: "Remote Repair and Modification of the HRE-2 Core Vessel"
   naid: 88244 
   date: 1961
   length: 20
@@ -1606,7 +1619,7 @@
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Dc2VZav17Ag
     - name: Our announcement page
-      url: https://whatisnuclear.com/news/2023-07-05-film-about-hre2-vessel-leak-and-repair.html
+      url: /news/2023-07-05-film-about-hre2-vessel-leak-and-repair.html
     - name: ORNL-2886
       url: https://www.osti.gov/biblio/4158813
       notes: Document describing the process
@@ -1645,7 +1658,10 @@
     transportable by air. Animation is used to illustrate its operation.
   notes: 
   win: true
+  image: /img/vids/army/434_18_army-20.jpg
   links: 
+    - url: /news/2024-03-16-six-early-nuclear-films.html#army-package-power-reactor-1957
+      name: Our announcement page
     - name: On YouTube 
       url: https://www.youtube.com/watch?v=4NH2AUAnzf8
       notes: Thanks to Last Energy!
@@ -1707,9 +1723,10 @@
   notes: In IAEA catalog.
   win: true
   resolution: 4K
+  image: /img/bonus-02.jpg
   links: 
     - name: Our announcement page
-      url: https://whatisnuclear.com/news/2023-09-19-film-about-bonus-reactor-in-puerto-rico.html
+      url: /news/2023-09-19-film-about-bonus-reactor-in-puerto-rico.html
     - name: On YouTube!
       url: https://www.youtube.com/watch?v=yRYfUsY5W8o
       notes: Thanks to Brett Rampal for making this happen
@@ -1855,13 +1872,14 @@
     - name: Digitized by Periscope Film
       url: https://www.youtube.com/watch?v=YSMIoXzkSZA
 
-- title: NAVAL RESEARCH LABORATORY REACTOR
+- title: Naval Research Laboratory Reactor
   naid: 88192
   iaea: AVN0003
   date: 1958
   length: 25
   color: true
   win: true
+  image: /img/vids/naval-research-reactor/434_215-naval-research-09_4k.jpg
   description: >
     The film presents a guided tour through the Naval Research Laboratory's
     research reactor facility in Washington, DC. All visible components are
@@ -1869,6 +1887,8 @@
     methods of exposing samples are explained by animation.
   notes: This was a HEU swimming-pool type research reactor
   links: 
+    - name: Our announcement
+      url: /news/2024-04-07-naval-research-laboratory-reactor-1985.html
     - name: On YouTube 
       url: https://www.youtube.com/watch?v=QTNheyTXpII
       notes: "Thanks to Last Energy!"
@@ -2079,7 +2099,10 @@
     fertile material, and including critical core experiments, core design and
     models, and on- location operational plant scenes.
   notes: A Geneva 1964 film produced by B&W
+  image: /img/vids/indianpoint/434_242_indianpoint-02.jpg
   links: 
+    - url: /news/2024-03-16-six-early-nuclear-films.html#operating-experience-indian-point-1964
+      name: "Our announcement page"
     - url: https://www.youtube.com/watch?v=1sWqmPyoYxw
       name: "On YouTube"
       notes: Thanks to Last Energy!
@@ -2102,6 +2125,7 @@
   color: true
   topics: [reactors]
   win: true
+  image: /img/vids/yankee/434_243_yankee-05.jpg
   description: >
     This technical film relates various plant design features and performance data
     of the nuclear power station operated by the Yankee Atomic Electric Company.
@@ -2109,6 +2133,8 @@
     current output with its third core is 185 Mw(e).
   notes: A Geneva 1964 film produced by Westinghouse
   links: 
+    - url: /news/2024-03-16-six-early-nuclear-films.html#operating-experience-yankee-rowe-1964
+      name: Our announcement page
     - url: https://www.youtube.com/watch?v=WSMGNuYIdY8
       name: On YouTube (thanks Last Energy!)
   index: >
@@ -2273,7 +2299,7 @@
   description: >
     The Experimental Boiling Water Reactor (EBWR), an experimental nuclear power
     plant of 5000-kw electrical capacity, was the first of the reactors in the
-    USAEC's nuclear power development program to be completed. This Semite chnical
+    USAEC's nuclear power development program to be completed. This Semitechnical
     documentary film describes highlights of construction of the EBWR buildings,
     particularly the containment shell for the power plant. The erection of the
     steel shell, special concrete work, and installation of equipment, including
@@ -2399,7 +2425,7 @@
     DISPOSAL OF HIGH LEVEL RADIOACTIVE WASTES FROM NUCLEAR POWER PLANTS PROJECT
     SALT VAULT DEALS WITH A TWO YEAR STUDY CARRIED OUT BY USAEC'S OAK RIDGE
     NATIONAL LABORATORY ON THE FEASIBILITY OF PERMANENT DISPOSAL OF THESE HIGH
-    LIVEL WASTES IN VACATED SALT MINES AND THE KEY STEPS IN SUCH DISPOSAL AT AN
+    LEVEL WASTES IN VACATED SALT MINES AND THE KEY STEPS IN SUCH DISPOSAL AT AN
     ABANDONED SALT MINE IN KANSAS 
   notes: 
   links: 
@@ -2416,7 +2442,7 @@
   description: >
     The technical film shows how, in this facility, coupled to the Experimental
     Breeder Reactor-II, highly radioactive fuel from the reactor is disassembled,
-    reprocessed, and fabricated, without prior timeconsuming radioactive cooling
+    reprocessed, and fabricated, without prior time-consuming radioactive cooling
     periods. How all facets of the system are designed for remote operation,
     repair and modification of equipment is also shown.
   notes: 
@@ -2480,7 +2506,7 @@
   topics: ["Explosives"]
   description: >
     The film emphasizes the complex lab oratory and field
-    research procedures which support and the stringent re quirements which govern
+    research procedures which support and the stringent requirements which govern
     all nuclear explosive engineering experiments in the US program called
     Plowshare Voices of several experts in the US peaceful nuclear energy program
     describe objectives in their respective areas of responsibility with reference
@@ -2572,7 +2598,7 @@
   links: 
     - name: On USACE site
       url: https://usace.contentdm.oclc.org/digital/collection/p16021coll1/id/96/rec/1
-    - name: Rehosted on YouTube
+    - name: Re-hosted on YouTube
       url: https://www.youtube.com/watch?v=YrWFqz283sY
 
 - title: "Thermal reactor test site, USS Nautilus"

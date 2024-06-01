@@ -22,7 +22,8 @@ already-digitized ones.
 
 We have also learned how to get not-yet-digitized ones that exist in the
 National Archives digitized. See [our YouTube channel
-here](https://www.youtube.com/@whatisnuclear/videos). You can read more about
+here](https://www.youtube.com/@whatisnuclear/videos) and [our Digital Reactor
+History Museum]({% link museum.md %}). You can read more about
 the process of digitization and see some results at [our ZPPR video page]({%
 link _news/2022-12-19-zppr-film-scanned.md %}) and [our announcement of the
 world re-premier of a Hallam film]({% link
@@ -61,8 +62,6 @@ On this page:
 <div class="col-md-12" markdown="1">
 
 {% assign vids_gotten = site.data.videos | where: "priority", empty  %}
-{% assign vids_gotten_win = vids_gotten | where: "win", "true"  | sort: "date" %}
-{% assign vids_gotten_other = vids_gotten | where: "win", empty  | sort: "date" %}
 {% assign vids_wanted = site.data.videos | where_exp: "item", "item.priority > 0" %}
 
 {% assign grouped_wanted = vids_wanted | group_by: 'priority' %}
@@ -74,18 +73,11 @@ On this page:
 {% assign sorted_wanted = sorted_wanted | concat: sorted_this_pri %}
 {% endfor %}
 
-# Videos digitized by whatisnuclear
+# Videos that have been digitized
 
-These are the ones we were involved in getting scanned and posted.
+These films have been scanned and can be viewed online now.
 
-{% include table_of_vids.liquid vids=vids_gotten_win %}
-
-# Videos digitized by others
-
-Someone somewhere scanned these and we found the hyperlinks. Many of these scans are
-sadly in relatively low resolution and could technically be re-scanned in HD.
-
-{% include table_of_vids.liquid vids=vids_gotten_other %}
+{% include table_of_vids.liquid vids=vids_gotten%}
 
 # Videos not yet digitized in order of want
 
@@ -103,16 +95,16 @@ The ones with non-blank NARA IDs are readily available for scanning given fundin
 <div class="row">
 <div class="col-md-6">
 <ul>
-{% for vid in  vids_sorted %}
+{% for vid in  vids_sorted %} 
 {% if forloop.index <= half %}
 <li><a href="#{{ vid.title|slugify }}">{{vid.title}}</a></li>
-{% endif %}
-{% endfor %}
+{% endif %} 
+{% endfor %} 
 </ul>
 </div>
 <div class="col-md-6">
 <ul>
-{% for vid in  vids_sorted %}
+{% for vid in  vids_sorted %} 
 {% if forloop.index > half %}
 <li><a href="#{{ vid.title|slugify }}">{{vid.title}}</a></li>
 {% endif %}
@@ -130,8 +122,7 @@ corrections, or additions.
 
 # See Also
 
-All our video digitization announcements:
-{% include taglist.liquid tag="videos" %}
+- [Our Digital Reactor History Museum]({% link museum.md %})
 
 ## Related catalogs
 

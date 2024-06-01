@@ -54,7 +54,12 @@
         {{ vid.title }}
       </div>
       <div class="col-12 col-lg-4">{{ vid.description | truncate: 900 }}</div>
-      <div class="col-12 col-lg-2">{{ vid.notes }}</div>
+      <div class="col-12 col-lg-2"><p>{{ vid.notes }}</p>
+        {%- if vid.win -%}
+        <p><a href="{% link museum.md %}"><span class="badge bg-success"
+        title="Whatisnuclear coordinated scanning of this film">Scanned by
+        us!</span></a></p> {%- endif -%}
+      </div>
       <div class="col-12 col-lg-2">
         {% if vid.links %}
           <ul>

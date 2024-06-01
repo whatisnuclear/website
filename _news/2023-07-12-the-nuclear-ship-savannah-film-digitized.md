@@ -9,7 +9,7 @@ description: >
   of a clean nuclear-powered merchant shipping future.
 byline: True
 image: /img/savannah-03.jpg
-tag: videos
+tags: videos
 comments: true
 ---
 
@@ -228,6 +228,7 @@ Here are her photos:
 <div class="col-md-8" markdown="1">
 ## See Also
 
+- [Our Digital Reactor History Museum]({% link museum.md %})
 - [Our Old Videos page]({% link old-videos.md %}) with a running list of the
   available and yet-to-be-scanned films out there. If you're interested in helping
   to get some of these scanned, check out [our digitization
@@ -235,9 +236,6 @@ Here are her photos:
   and/or [contact us]({% link contact.md %})!
 - [Tweet announcement of this](https://twitter.com/whatisnuclear/status/1679261517571850240)
 - [A huge Flickr album featuring the Savannah](https://www.flickr.com/photos/rocbolt/albums/72157632493733676)
-
-All our video digitization announcements:
-{% include taglist.liquid tag="videos" %}
 
 </div></div>
 

@@ -4,11 +4,11 @@ title: >
   Two historical radioisotopes films digitized thanks to ANS
 author: nick
 category: news
-tag: videos
+tags: videos
 description: >
   Learn about industrial uses of Radioisotopes and the eradication of the Screwworm fly.
 byline: True
-image: /img/pm1/pm1fsr-01.jpg
+image: /img/roundup.jpg
 comments: true
 ---
 
@@ -22,7 +22,7 @@ here.](https://www.ans.org/news/article-5486/a-piece-of-nuclear-history-digitizi
 The first is [Roundup](https://whatisnuclear.com/old-videos.html#88251):
 
 <figure>
-<div class="ratio ratio-16x9">
+<div class="ratio ratio-16x9" id="roundup">
 <iframe src="https://www.youtube.com/embed/QFoOnS6CWSI?si=W445HdIMNr1POByn"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -33,7 +33,7 @@ allowfullscreen></iframe>
 Second is [RADIOISOTOPES: SAFE SERVANTS OF INDUSTRY](https://whatisnuclear.com/old-videos.html#88238):
 
 <figure>
-<div class="ratio ratio-16x9">
+<div class="ratio ratio-16x9" id="radioisotopes">
 <iframe src="https://www.youtube.com/embed/_4phBVVWRfQ?si=We14Gf_NjvhYOEYV"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -45,11 +45,9 @@ Special thanks to Brett Rampal for the connection.
 
 ## See Also
 
+- [Our Digital Reactor History Museum]({% link museum.md %})
 - [Our Old Videos page]({% link old-videos.md %})
 - [Tweet version of this page](https://twitter.com/whatisnuclear/status/1722623481781911646)
-
-All our video digitization announcements:
-{% include taglist.liquid tag="videos" %}
 
 </div></div>
 

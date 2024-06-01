@@ -23,15 +23,14 @@
   pages:
     - reactor_history
     - offshore-nuclear-plants
-    - weinberg
-    - peace_and_war
     - rickover
     - driscoll
-    - crbrp-info-packet
     - origin-of-nuclear-energy
+    - museum/
     - history
     - old-videos
-    - hallam-photos
+    - weinberg
+    - peace_and_war
 
 - title: Reactors
   pages:

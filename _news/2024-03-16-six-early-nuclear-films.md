@@ -4,7 +4,7 @@ title: >
   Six early nuclear reactor films digitized thanks to Last Energy
 author: nick
 category: news
-tag: videos
+tags: videos
 description: >
   Watch recently-digitized historical films about Indian Point 1 and Yankee Rowe
   early pressurized water reactors from the 1960s.
@@ -288,15 +288,13 @@ here]({% link _news/2024-04-07-naval-research-laboratory-reactor-1985.md %}).
 
 ## See Also
 
+- [Our Digital Reactor History Museum]({% link museum.md %})
 - [Tweet announcement of this page](https://twitter.com/whatisnuclear/status/1769151871045038147)
 - [Our Old Videos page]({% link old-videos.md %}) with a running list of the
   available and yet-to-be-scanned films out there. If you're interested in helping
   to get some of these scanned, check out [our digitization
   GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
   and/or [contact us]({% link contact.md %})!
-
-All our video digitization announcements:
-{% include taglist.liquid tag="videos" %}
 
 </div>
 </div>

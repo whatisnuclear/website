@@ -2,21 +2,22 @@
 layout: default
 title: Admiral Rickover's 'Paper Reactor' memo
 category: blog
-description: > 
-    Rickover's famous speech about the distinction between academic (paper)
-    reactors and practical reactors.
+tags: museum
+description: >
+  Rickover's famous speech about the distinction between academic (paper)
+  reactors and practical reactors.
 author: "Admiral Hyman Rickover*"
 image: /img/rickover-1955.jpg
 byline: true
 date: 1953-06-05
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
 <div class="float-end">
 <img alt="Hyman Rickover" title="Admiral Rickover in 1955" style="border:0;width:250px" src="/img/rickover-1955.jpg"/>
 </div>
-
 
 Important decisions relative to the future development of atomic power must frequently be
 made by people who do not necessarily have an intimate knowledge of the technical aspects
@@ -102,20 +103,18 @@ H. G. Rickover<br>Captain, USN
 
 June 5, 1953
 
-
 <hr />
 ## Notes
 
-*\*This is a reproduction of Rickover's famous 'paper reactor' memo, published
+_\*This is a reproduction of Rickover's famous 'paper reactor' memo, published
 on the web by N. Touran on 2022-08-23. The original was published in The Journal of Reactor
 Science and Technology, Volume 3, No. 3 (which is classified) and reproduced
 many times, e.g. in [Congressional
-testimony](https://babel.hathitrust.org/cgi/pt?id=uc1.a0014447122&view=1up&seq=761&skin=2021&q1=The%20Journal%20of%20Reactor%20Science%20and%20Technology)*.
+testimony](https://babel.hathitrust.org/cgi/pt?id=uc1.a0014447122&view=1up&seq=761&skin=2021&q1=The%20Journal%20of%20Reactor%20Science%20and%20Technology)_.
 
 <p id="1">1 - Interestingly, in the decades after Rickover published this memo, we now
 have reactors that get beyond 60,000 mwd/ton burnup using low-enriched uranium in high
 temperature/high pressure water.</p>
-
 
 </div>
 </div>

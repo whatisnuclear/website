@@ -12,7 +12,7 @@ description: >
   digitizations from 16mm film at the National Archives.
 byline: True
 image: /img/nrts-thumb.jpg
-tag: videos
+tags: videos
 comments: true
 ---
 
@@ -129,14 +129,12 @@ They apparently called it Prototype Prairie (2:05)
 
 ## See Also
 
+- [Our Digital Reactor History Museum]({% link museum.md %})
 - [Our Old Videos page]({% link old-videos.md %}) with a running list of the
   available and yet-to-be-scanned films out there. If you're interested in helping
   to get some of these scanned, check out [our digitization
   GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
   and/or [contact us]({% link contact.md %})!
 - [A tweet about this announcement](https://twitter.com/whatisnuclear/status/1676484526254739459)
-
-All our video digitization announcements:
-{% include taglist.liquid tag="videos" %}
 
 </div></div>
