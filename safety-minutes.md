@@ -2,15 +2,16 @@
 layout: default
 title: Safety Minutes
 description: >
-    You may have heard about safety minutes at nuclear companies, where every
-    meeting starts with some discussion of safety. Doing this demonstrates that your
-    organization is laser-focused on safety. You can get a random safety minute here.
-    Please feel free to contribute your favorite.
+  You may have heard about safety minutes at nuclear companies, where every
+  meeting starts with some discussion of safety. Doing this demonstrates that your
+  organization is laser-focused on safety. You can get a random safety minute here.
+  Please feel free to contribute your favorite.
 date: 2022-09-26
-byline: true
+byline: false
 permalink: /safety-minutes/
 image: /img/nuclear-safety-minute.png
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
@@ -18,21 +19,21 @@ image: /img/nuclear-safety-minute.png
 
 You may have heard about safety minutes at nuclear companies, where every
 meeting starts with some discussion of safety. Doing this demonstrates that your
-organization is laser-focused on safety. 
+organization is laser-focused on safety.
 
 Safety minutes don't have to just be about nuclear safety. They can be about
-household safety or emergency preparedness too. 
+household safety or emergency preparedness too.
 
-It's hard to come up with new and useful safety minutes with so many meetings going 
-on. Thus, we often end up hearing the same old ones again and again. 
+It's hard to come up with new and useful safety minutes with so many meetings going
+on. Thus, we often end up hearing the same old ones again and again.
 
 This is a place
 where we can list out a few of our favorites for sharing and collaboration.
 
 <button type="button" class="btn btn-success" onClick="javascript:randomlink()"><i class="fas fa-dice"></i> Random Safety Minute</button>
 
-
 # Listing of all Safety Minutes
+
 <ul>
 {% for minute in site.safetyminutes %}
 <li><a href="{{minute.url}}">{{ minute.title }}</a></li>
