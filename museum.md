@@ -14,9 +14,10 @@ date: 2024-06-01
 <div class="row">
 
 <p>
-What Is Nuclear has, through the years, collected, funded, and/or coordinated the
-digitization of interesting and unique nuclear reactor history artifacts. This
-page contains a list of them all. 
+What Is Nuclear has, through the years, collected, funded, and/or coordinated
+the digitization of forgotten and unique nuclear reactor history artifacts in
+order to preserve them for educational and archival purposes. This page contains
+a list of them all. 
 </p>
 
 <h1>Films</h1>
