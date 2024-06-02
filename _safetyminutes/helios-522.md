@@ -40,8 +40,8 @@ another warning horn tied to take-off configuration issues.
 2. Boeing had been informed of six “air pressure instances” before the Helios crash,
    but **no substantial design changes were implemented** prior to the accident.
 
-3. Various Airworthiness Directives over the years to address issues related to
-   pressurization, **but directive specifically targeted the confusion** around the
+3. Various Airworthiness Directives over the years were released to address issues related to
+   pressurization, **but no directive specifically targeted the confusion** around the
    mode selector switch.
 
 # Takeaway
