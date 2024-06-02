@@ -6,7 +6,7 @@ description: A discussion of the Thorium nuclear fuel cycle for nuclear reactors
 author: nick
 byline: true
 date: 2012-02-19
-last_modified_at: 2019-12-19
+last_modified_at: 2024-06-02
 image: /img/Thor.jpg
 ---
 
@@ -60,14 +60,13 @@ thorium-myths.md %}">Thorium Myths page</a> just to double check it.
 
 <h2 id="benefits">What are the key benefits of Thorium?</h2>
 
-- **Thorium cycles exclusively allow [slow-neutron]({% link moderation.md %}) breeder reactors** (as
-  opposed to [fast breeders]({% link fast-reactor.md %})). More neutrons are released per neutron
-  absorbed in the fuel in a traditional (slow-neutron) type of reactor. This means that if the fuel is
-  [reprocessed]({% link recycling.md %}), reactors could be fueled without mining any additional
-  U-235 for reactivity boosts, which means the nuclear fuel resources on Earth can be extended by 2
-  orders of magnitude without some of the complications of fast reactors. Thermal breeding is perhaps
-  best suited for Molten Salt Reactors, which are discussed on [their own page]({% link msr.md %}) as
-  well as in summary below.
+- **Thorium cycles uniquely allow [slow-neutron]({% link moderation.md %})
+  breeder reactors** (as opposed to uranium cycles, which can only breed with [fast
+  neutrons]({% link fast-reactor.md %})). This means that if the fuel is
+  [reprocessed]({% link recycling.md %}), reactors could be fueled without mining
+  any additional U-235 for reactivity boosts, which means the nuclear fuel
+  resources on Earth can be [extended by at least 2 orders of magnitude]({% link
+  nuclear-sustainability.md %}) without some of the complications of fast reactors.
 
 - **The Th-U fuel cycle does not irradiate Uranium-238 and therefore does not produce transuranic
   (bigger than uranium) atoms** like Plutonium, Americium, Curium, etc. These transuranics are the
@@ -100,9 +99,13 @@ thorium-myths.md %}">Thorium Myths page</a> just to double check it.
   Bi-212 also causes problems. These gamma rays are very hard to shield, requiring more expensive
   spent fuel handling and/or reprocessing.
 
-- **Thorium doesn't work as well as U-Pu in a fast reactor**. While U-233 an excellent fuel in
-  the slow-neutron regime, it is between U-235 and Pu-239 in the fast spectrum. So for reactors that
-  require excellent neutron economy (such as breed-and-burn concepts), Thorium is not ideal.
+- **Thorium doesn't work as well as U-Pu in a fast reactor**. While U-233 an
+  excellent fuel in the slow-neutron regime, it is between U-235 and Pu-239 in the
+  fast spectrum (see [this plot showing neutrons released per neutron absorbed in
+  fuel](/img/eta_good.svg)). So, the breeding doubling time is slower for
+  thorium cycles than for uranium-plutonium cycles in fast reactors.
+  Additionally, Thorium cycles are not ideal in reactors that require excellent neutron
+  economy (such as breed-and-burn concepts).
 
 <h2 id="prolif">Proliferation Issues</h2>
 Thorium is generally accepted as proliferation resistant compared to U-Pu cycles. The problem with
@@ -118,13 +121,15 @@ from U-232 itself. This means that the contaminants could be chemically separate
 would be much easier to work with. U-232 has a 70 year half-life so it takes a long time for these
 gammas to come back.
 
-The one hypothetical proliferation concern with Thorium fuel though, is that the Protactinium can be
-chemically separated shortly after it is produced and removed from the neutron flux (the path to
-U-233 is Th-232 -> Th-233 -> Pa-233 -> U-233). Then, it will decay directly to pure U-233. By this
-challenging route, one could obtain weapons material. But Pa-233 has a 27 day half-life, so once the
-waste is safe for a few times this, weapons are out of the question. So concerns over people
-stealing spent fuel are largely reduced by Th, but the possibility of the owner of a Th-U reactor
-obtaining bomb material is not.
+The one hypothetical proliferation concern with Thorium fuel though, is that the
+Protactinium can be chemically separated shortly after it is produced and
+removed from the neutron flux (the path to U-233 is Th-232 → Th-233 → Pa-233
+→ U-233). Then, it will decay directly to pure U-233. By this challenging
+route, one could obtain weapons material. But Pa-233 has a 27 day half-life, so
+once the material has been guarded for a few times this and then mixed in with
+the less pure fuel mix, weapons material would be much harder to produce. So
+concerns over people stealing spent fuel are largely reduced by Th, but the
+possibility of the owner of a Th-U reactor obtaining bomb material is not.
 
 <h2 id ="lftr">Molten Salt Reactors</h2>
 
