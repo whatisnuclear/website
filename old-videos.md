@@ -11,7 +11,7 @@ comments: true
 
 <div class="row">
 <div class="col-md-12" markdown="1">
-In the olden days, the Atomic Energy Commission and other commissioned dozens
+In the olden days, the Atomic Energy Commission and others commissioned dozens
 upon dozens of nuclear energy related videos. Many of these have been digitized,
 but not all. We've gone through various old catalogs and cross-linked the
 entries with digitized copies when possible, as well as with modern catalog
