@@ -5,7 +5,7 @@ description: Sometimes adding core catchers can lead to problems
 date: 2022-09-26
 byline: true
 author: nick
-image: /img/ebr_1_melt.jpg
+image: /img/fermi1_break_sim.jpg
 ---
 
 <div class="row">
@@ -17,7 +17,6 @@ src="/img/fermi1_break_sim.jpg"  alt="Sequence of pictures showing how the Fermi
 </figure>
 
 # What happened?
-
 
 The Fermi-1 SFR had encountered some abnormal temperature measurements and
 suspected a flow blockage. To investigate, they moved some assemblies around and
@@ -50,8 +49,6 @@ to significantly block flow
 # References and additional reading
 
 1. [REPORT ON THE FUEL MELTING INCIDENT IN THE ENRICO FERMI ATOMIC POWER PLANT ON OCTOBER 5, 1966. p., 1968. Web. doi:10.2172/4766757. 2](https://www.osti.gov/biblio/4766757-report-fuel-melting-incident-enrico-fermi-atomic-power-plant-october)
-
-
 
 </div>
 </div>
