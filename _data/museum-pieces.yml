@@ -43,3 +43,30 @@
   more: https://en.wikipedia.org/wiki/SNAP-10A
   tags: ["photo"]
   date: "1965"
+- title: N.S. Savannah Illustrated with Deck Plans
+  image: /img/savannah-pamphlet_sm.jpg
+  url: https://archive.org/details/savannah_illustrated
+  description: >
+    Brochure showing the nuclear-powered passenger/cargo ship, the N.S. Savannah, with deck plans.
+  source: Given to me by the N.S. Savannah group after I got the N.S. Savannah film digitized
+  more: https://whatisnuclear.com/news/2023-07-12-the-nuclear-ship-savannah-film-digitized.html
+  tags: ["pamphlet"]
+  date: "1964-05"
+- title: Calder Hall pamphlet
+  image: /img/calder-hall_sm.jpg
+  url: https://archive.org/details/calder-hall-booklet-1961
+  description: >
+    This booklet explains the construction, operation, and significance of the U.K.'s 
+    first power reactor.
+  source: Scanned by N. Touran after purchasing on eBay
+  more: https://en.wikipedia.org/wiki/Calder_Hall_nuclear_power_station
+  tags: ["pamphlet"]
+  date: "1961"
+- title: Centro Nuclear De Puerto Rico
+  image: /img/centro-nuclear_sm.jpg
+  url: https://archive.org/details/centro-nuclear-de-puerto-rico
+  description: >
+    Este es un folleto en español que describe el Centro Nuclear de Puerto Rico.
+  source: Scanned by N. Touran after purchasing on eBay
+  tags: ["pamphlet"]
+  date: "1967?"

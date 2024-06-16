@@ -79,12 +79,17 @@ a list of them all.
 {% for card in external %}
 
 <div class="card" style="width: 18rem;">
+<a href="{{card.url}}" >
 <img src="{{ card.image }}" class="img-fluid card-img-top" style="max-height: 200px; object-fit: cover" alt="Highlight picture from item">
+</a>
 <div class="card-body">
-<h5 class="card-title">{{ card.title }}</h5>
+<a href="{{card.url}}" > <h5 class="card-title">{{ card.title }}</h5> </a>
 <h6 class="card-subtitle mb-2 text-muted">{{ card.date }}</h6>
-<p class="card-text">{{ card.description | truncate: 150}}</p>
-<a href="{{card.url}}" class="stretched-link"></a>
+<p class="card-text">{{ card.description | truncate: 150}}
+{%- if card.more -%}
+<a href="{{ card.more }}" class="text-muted">More info</a>
+{%- endif -%}
+</p>
 </div>
 </div>
 {% endfor %}
