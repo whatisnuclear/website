@@ -10,6 +10,7 @@ date: 2024-06-01
 
 {% assign items = site.pages | concat: site.news | where_exp: "page", "page.tags contains 'museum'" | sort: 'date'%}
 {% assign vids = site.data.videos | where: "win", "true"  | sort: "date" %}
+{% assign external = site.data.museum-pieces | sort: "date" %}
 
 <div class="row">
 
@@ -63,6 +64,25 @@ a list of them all.
 <img src="{{ card.image }}" class="img-fluid card-img-top" style="max-height: 200px; object-fit: cover" alt="Highlight picture from page">
 <div class="card-body">
 <h5 class="card-title">{{ card.title }}</h5>
+<!-- TODO: differentiate posted date from item date
+<h6 class="card-subtitle mb-2 text-muted">{{ card.date }}</h6> 
+-->
+<p class="card-text">{{ card.description | truncate: 150}}</p>
+<a href="{{card.url}}" class="stretched-link"></a>
+</div>
+</div>
+{% endfor %}
+
+<h1>Additional</h1>
+<p>Some of the things we've collected are posted externally without further commentary</p>
+
+{% for card in external %}
+
+<div class="card" style="width: 18rem;">
+<img src="{{ card.image }}" class="img-fluid card-img-top" style="max-height: 200px; object-fit: cover" alt="Highlight picture from item">
+<div class="card-body">
+<h5 class="card-title">{{ card.title }}</h5>
+<h6 class="card-subtitle mb-2 text-muted">{{ card.date }}</h6>
 <p class="card-text">{{ card.description | truncate: 150}}</p>
 <a href="{{card.url}}" class="stretched-link"></a>
 </div>

@@ -1,0 +1,45 @@
+# Data that helps add museum pieces to the museum page.
+# Originally I was just tagging pages as 'museum', but I wanted
+# to include things I've scanned but not really made specific
+# web pages for, such as the Atomics International prints
+# and other things that make more sense just uploaded to
+# archive.org
+- title: Hallam Fuel Handing Equipment print
+  image: /img/hallam-fuel-handling_sm.jpg
+  url: https://archive.org/details/hallam-fuel-handling
+  description: >
+    Beautiful print of the Hallam SGR reactor
+    hall, prominently including the fuel handling equipment.
+  source: Bought on eBay and scanned
+  more: https://whatisnuclear.com/sodium-graphite-reactors.html
+  tags: ["photo"]
+  date: "1963"
+- title: Hallam site overview print
+  image: /img/hallam-site-overview_sm.jpg
+  url: https://archive.org/details/hallam-nuclear-power-facility-site
+  description: >
+    Color print showing an areal view of the Hallam Nuclear Power Facility site
+    near Hallam, NE.
+  source: Bought on eBay and scanned
+  more: https://whatisnuclear.com/sodium-graphite-reactors.html
+  tags: ["photo"]
+  date: "1963"
+- title: Piqua Nuclear Generating Station
+  image: /img/piqua_sm.jpg
+  url: https://archive.org/details/piqua-nuclear-generating-station
+  description: >
+    Color print of the Piqua organic-cooled nuclear reactor in Piqua, OH.
+  source: Bought on eBay and scanned
+  more: https://en.wikipedia.org/wiki/Piqua_Nuclear_Generating_Station
+  tags: ["photo"]
+  date: "1963"
+- title: SNAP-10A Space Nuclear Power System
+  image: /img/snap10a_xs.jpg
+  url: https://archive.org/details/snap10a-space-nuclear-power-system
+  description: >
+    Print of the SNAP-10A space nuclear power system. The reactor is on top and
+    the cone is the heat radiator.
+  source: Bought on eBay and scanned
+  more: https://en.wikipedia.org/wiki/SNAP-10A
+  tags: ["photo"]
+  date: "1965"
