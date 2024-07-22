@@ -50,7 +50,8 @@ image: /img/slides-history-blank.png
       <li>Quite a few of them are struggling</li>
       <li>We must improve delivery to survive!</li>
       <li>Incorporating project delivery lessons into any project is key</li>
-      <li>See also: <a href="/museum">whatisnuclear.com/museum</a></li>
+      <li>See also: <a href="/reactor_history.html">Nuclear Reactor Development 
+      History</a> and <a href="/museum">whatisnuclear.com/museum</a></li>
     </ul>
     <aside class="notes"></aside>
   </section>
