@@ -61,6 +61,12 @@
   </section>
 
   <section>
+  <h3>The first-ever nuclear electricity came from X-10 in 1948</h3>
+  <img class="r-stretch" data-src="/img-slide/x-10-steam.jpg"/>
+  <p>Logan Emlet and his steam-powered generator from <a href="https://www.ornl.gov/blog/first-nuclear-power">ORNL writeup</a></p>
+  </section>
+
+  <section>
     <h3>The New Piles Committee</h3>
     <img class="r-stretch" data-src="/img/new-piles-committee-reactors.png" />
     <p class="small">
@@ -274,4 +280,56 @@ data-src="/img/are.jpg" alt="ARE" class="img img-fluid center-block" ></a>
     </div>
     <aside class="notes"></aside>
   </section>
-</section>
+
+  <section>
+    <h3>PM-1 portable reactor in Wyoming, 1962</h3>
+    <div class="row">
+      <div class="col-6" markdown="1">
+
+- 1 MWe portable PWR
+- Manufactured and tested in a factory,
+- Disassembled into 16 modules,
+- Air-lifted to the closest airfield by C-130
+- Trucked to site, re-assembled
+- Direct air cooling, (no water supply)
+- No field welding was needed for re-assembly.
+- Could be operated by a crew of 2.
+- [Awesome film summarizing it](https://whatisnuclear.com/news/2023-07-03-film-about-pm1-microreactor-in-wyoming.html)
+
+</div>
+      <div class="col-6">
+        <img class="img img-fluid" data-src="/img/pm1/pm1-04.jpg" alt="PM-1 assembled"/>
+        <p class="small">PM-1 fully assembled in Wyoming</p>
+      </div>
+      </div>
+      <aside class="notes"></aside>
+  </section>
+
+  <section>
+  <h3>Hard lessons from PM-1</h3>
+
+    <div class="row">
+      <div class="col-12" markdown="1">
+
+- The reactor was difficult to perform maintenance on because of its compactness.
+  The operators recommend designing the next microreactor with maintenance
+  requirements satisfied first, and then compactness requirements
+- The conventional steam plant cause roughly half of the unplanned outages
+  and required a lot of maintenance, leading the authors to suggest that
+  perhaps a non-steam approach is needed at this small scale (e.g. other
+  energy conversion systems).
+- The nuclear instrumentation system was oversensitive and overcomplicated
+  for a field plant.
+- The HVAC system and building design were wholly inadequate
+- It was difficult to maintain qualified staff to operate and maintain the reactor
+- The reactor was used as a training reactor for crews headed to Antarctica to
+  operate the sister plant PM-3A, which reduced PM-1's overall performance.
+
+[PM-1 Final Summary Report](https://whatisnuclear.com/assets/PM-1%20Final%20Summary%20Report.pdf)
+
+</div>
+</div>
+
+  </section>
+
+  </section>
