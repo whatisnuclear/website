@@ -25,7 +25,7 @@ reactors (also designated RM-1 reactors).  This was not one of those small
 Alfa-class lead-bismuth cooled subs, but a much larger one that came before
 those, with a crew of 144. It launched in 1962.
 
-A this time, purity requirements for lead-bismuth coolants were not well
+At this time, purity requirements for lead-bismuth coolants were not well
 understood.  During operation, lead oxides had accumulated in significant masses
 in the primary system. Additionally, the primary coolant was contaminated with
 oil pyrolysis products, as oil was used in the seals of pump shafts. The pump
@@ -33,10 +33,10 @@ seals were unreliable and leaked oil into the coolant.
 
 In 1968 it was 5 hours out from the Kola Peninsula, preparing for a 70-day
 round-the-world-without-resurfacing mission and was sent into a naval exercise.
-A steam generator leak causes all the impurities and oxides into the core, which
-reduced heat removal dramatically by blockages of coolant channels. Negative
-temperature feedback caused the core power to fall to 7% nominal based on this
-condition.
+A steam generator leak caused all the impurities and oxides to enter into the
+core, which reduced heat removal dramatically by blockages of coolant channels.
+Negative temperature feedback caused the core power to drop to 7% of nominal 
+capacity. 
 
 The operational procedures did not include instructions to the operator in this
 condition. The naval commander directed that the power be restored to a higher
@@ -69,7 +69,7 @@ m deep water.
 * Include oxygen sensors in lead-bismuth reactor systems
 * Do not use oil-based seals for pump shafts in liquid metal reactors
 * Include and operate a continuously operated coolant purification system
-* Make sure your procedures include instructions about what to do in off-normal 
+* Make sure your procedures include instructions about what to do in abnormal
   conditions
 
 
