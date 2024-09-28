@@ -152,16 +152,16 @@ that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
 
 <tr class="text-center">
 <th scope="col" class="m-0 p-0">
-  <table class="table table-sm table-borderless m-0 p-0">
-    <tr>
-      <td class="table-success">
-      Coolant &#8595;
-      </td>
-      <td class="table-primary">
-      Moderator &#8594;
-      </td>
-    </tr>
-  </table>
+<table class="table table-sm table-borderless m-0 p-0">
+<tr>
+<td class="table-success">
+Coolant &#8595;
+</td>
+<td class="table-primary">
+Moderator &#8594;
+</td>
+</tr>
+</table>
 </th>
 <th scope="col">Water</th>
 <th scope="col">Heavy water</th>
@@ -250,7 +250,9 @@ Sodium-Beryllium Reactors
   * [Seawolf](https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-575))
 </td>
 <td markdown="1"></td>
-<td markdown="1">[SNAP-10A](https://en.wikipedia.org/wiki/SNAP-10A) (NaK)</td>
+<td markdown="1">
+[SNAP-10A](https://en.wikipedia.org/wiki/SNAP-10A) (NaK)
+</td>
 </tr>
 
 <tr>
@@ -412,7 +414,7 @@ Organic moderated reactors (OMR)
 <th class="table-success align-middle">
 Liquid Hydrogen
 </th>
-<td markdown="1"></td>
+<td></td>
 <td></td>
 <td markdown="1">
 Nuclear Thermal Rockets
@@ -420,8 +422,7 @@ Nuclear Thermal Rockets
 </td>
 <td></td>
 <td></td>
-<td markdown="1">
-</td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
