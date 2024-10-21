@@ -142,9 +142,7 @@ Generator](./random) or see a list of over a million options.
 A incomplete subset of reactor types broken down by coolant and moderator is shown
 below. For simplicity, we limit it to reactors that have either been built, are
 under construction, or have been the subject of significant experimentation
-and/or study. Reactors concepts in all boxes have been proposed, and some reactors
-that don't fit in the below boxes have been operated (e.g. LAPRE, LAMPRE, etc.)
-
+and/or study. Reactors concepts in all boxes have been proposed.
 <div class="table-responsive">
 <table class="table table-bordered border-dark table-sm rxtable">
 
@@ -202,7 +200,9 @@ Steam-cooled fast reactors<sup>1</sup>
 <td></td>
 <td></td>
 <td markdown="1">
-[TRIGA](https://en.wikipedia.org/wiki/TRIGA)
+* [TRIGA](https://en.wikipedia.org/wiki/TRIGA)
+* [LAPRE I](https://www.osti.gov/biblio/4236969)
+* [LAPRE II](https://doi.org/10.2172/4117959)
 </td>
 </tr> 
       
@@ -225,6 +225,27 @@ Heavy water
 
 <tr>
 <th class="table-success align-middle">
+Molten mercury metal
+</th>
+<td></td>
+<td markdown="1">
+</td>
+<td markdown="1">
+</td>
+<td markdown="1">
+* Clementine
+* BR-2
+</td>
+<td markdown="1">
+</td>
+<td markdown="1">
+</td>
+<td markdown="1">
+</td>
+</tr>
+<tr>
+
+<th class="table-success align-middle">
 Molten sodium metal
 </th>
 <td></td>
@@ -243,13 +264,16 @@ Sodium-cooled fast reactors (SFR)
   * [FFTF](https://en.wikipedia.org/wiki/Fast_Flux_Test_Facility)
   * [Phenix](https://en.wikipedia.org/wiki/Ph%C3%A9nix)
   * [BN-800](https://en.wikipedia.org/wiki/BN-800_reactor)
+
+[LAMPRE](https://doi.org/10.2172/4368180)
 </td>
 <td markdown="1">
 Sodium-Beryllium Reactors
   * [Submarine Intermediate Reactor (SIR/S1G)](https://en.wikipedia.org/wiki/S1G_reactor)
   * [Seawolf](https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-575))
 </td>
-<td markdown="1"></td>
+<td markdown="1">
+</td>
 <td markdown="1">
 [SNAP-10A](https://en.wikipedia.org/wiki/SNAP-10A) (NaK)
 </td>
@@ -267,7 +291,8 @@ Lead-cooled fast reactors
   * [BREST-300](https://en.wikipedia.org/wiki/BREST_(reactor)#BREST-300)
 </td>
 <td markdown="1">
-[Alfa-class submarines](https://en.wikipedia.org/wiki/Alfa-class_submarine)<sup>3</sup>
+* [K-27 submarine](https://en.wikipedia.org/wiki/Soviet_submarine_K-27)<sup>3</sup>
+* [Alfa-class submarines](https://en.wikipedia.org/wiki/Alfa-class_submarine)<sup>3</sup>
 </td>
 <td></td>
 <td></td>
@@ -325,7 +350,7 @@ Gas-Graphite reactors
 Air
 </th>
 <td markdown="1">
-[Heat Transfer Reactor Experiments (HTRE) 1-3](https://en.wikipedia.org/wiki/Aircraft_Nuclear_Propulsion#Heat_Transfer_Reactor_Experiments)
+[Heat Transfer Reactor Experiments (HTRE) 1 and 2](https://en.wikipedia.org/wiki/Aircraft_Nuclear_Propulsion#Heat_Transfer_Reactor_Experiments)
 </td>
 <td></td>
 <td markdown="1">
@@ -340,7 +365,8 @@ Low-power fast reactor experiments, like [ZPPR](https://en.wikipedia.org/wiki/Ze
 <td></td>
 <td></td>
 <td markdown="1">
-[AGN-201](http://dx.doi.org/10.5772/intechopen.105799)
+* [AGN-201](http://dx.doi.org/10.5772/intechopen.105799)
+* HTRE-3
 </td>
 </tr>
 
@@ -394,7 +420,7 @@ Organic (e.g. terphenyl)
 </th>
 <td markdown="1"> </td>
 <td markdown="1">
-* [Whiteshell Reactor 1 (WR-1)](https://en.wikipedia.org/wiki/WR-1)
+* [Whiteshell Reactor 1 (WR-1) aka OCDRE](https://en.wikipedia.org/wiki/WR-1)
 * [HWOCR](https://doi.org/10.2172/4229023)
 </td>
 <td></td>
@@ -418,7 +444,7 @@ Liquid Hydrogen
 <td></td>
 <td markdown="1">
 Nuclear Thermal Rockets
-  * [NERVA](https://en.wikipedia.org/wiki/NERVA)
+  * [KIWI A](https://en.wikipedia.org/wiki/NERVA)
 </td>
 <td></td>
 <td></td>

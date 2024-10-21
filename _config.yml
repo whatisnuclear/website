@@ -73,6 +73,7 @@ scholar:
     - latex
     # trying to get html hyperlinks from urls in refs.... doesn't work. just
     # prints out [markdown](woo)
+    # https://github.com/inukshuk/jekyll-scholar/issues/30
     #- markdown
 
 defaults:
