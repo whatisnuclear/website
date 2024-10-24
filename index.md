@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to nuclear energy
+title: What is nuclear?
+subtitle: Learn all about nuclear power, from the basics to super deep-dives
 description: >
-  Nuclear power plants make sustainable, reliable, and clean heat and
-  electricity with almost no particulate or lifecycle greenhouse gas emissions.
-  However, they are expensive and generate radioactive waste. Here you will
-  learn about the nuances of nuclear energy.
+  Learn all about nuclear power, from the basics to detailed deep-dives
+  into history, economics, and waste
 image: /img/dc_cook.jpg
+author: nick
 last_modified_at: 2024-02-25
 ---
 
@@ -48,7 +48,7 @@ of people support expanding nuclear power.
       data-bs-toggle="collapse" data-bs-target="#collapseThree"
       aria-expanded="false" aria-controls="collapseThree">
         <span class="fas fa-star fa-lg text-primary px-2"></span> Extreme energy
-        density leads to miniscule pollution and mineral needs
+        density leads to minuscule pollution and mineral needs
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree">

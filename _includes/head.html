@@ -19,6 +19,7 @@
   title="{{ site.title | escape }}"
   type="application/rss+xml"
 />
+
 {%- if jekyll.environment == "production" and site.google_analytics -%} {%
 include google-analytics.html %} {%- endif -%}
 <meta content="{{ site.data.authors[page.author].name }}" name="author" />
