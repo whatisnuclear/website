@@ -5,6 +5,7 @@ layout: default
 # so I feel tempted to make it that again for now. However, later I feel that
 # perhaps more people search for the latter.
 title: What is nuclear waste?
+subtitle: Challenges and solutions for people's number one concern about nuclear power
 category: physics
 description: >
   Nuclear waste is primarily composed of the atoms that are left over after larger

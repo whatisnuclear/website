@@ -1,10 +1,7 @@
 <meta charset="utf-8" />
 <meta content="IE=edge" http-equiv="X-UA-Compatible" />
 <meta content="width=device-width, initial-scale=1" name="viewport" />
-<title>
-  {% if page.title %} {{ page.title | strip_html | escape }} {% else %} {{
-  site.title | escape }}{% endif %}
-</title>
+<title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | escape }}{% endif %}{% if page.subtitle %} {{page.subtitle }}{% endif %}</title>
 <meta
   content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}"
   name="description"
@@ -39,14 +36,10 @@ include google-analytics.html %} {%- endif -%}
 />
 <meta content="What is nuclear?" property="og:site_name" />
 <meta
-  content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+  content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | escape }}{% endif %}{% if page.subtitle %} {{ page.subtitle }}{% endif %}"
   property="og:title"
 />
-<meta
-  content="{{ site.url }}{{ page.image | default:
-            '/img/reactor.png' }}"
-  property="og:image"
-/>
+<meta content="{{ site.url }}{{ page.image | default: '/img/reactor.png' }}" property="og:image" />
 {% if page.summary %}
 <meta content="{{ page.summary }}" property="og:description" />
 {%- elsif page.description -%}

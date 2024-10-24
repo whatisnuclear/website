@@ -1,12 +1,13 @@
 ---
 layout: default
 title: What is nuclear?
-subtitle: Learn all about nuclear power, from the basics to super deep-dives
+subtitle: Basics and super deep-dives about nuclear power
 description: >
   Learn all about nuclear power, from the basics to detailed deep-dives
-  into history, economics, and waste
+  into types of reactors, nuclear history, economics, and nuclear waste
 image: /img/dc_cook.jpg
 author: nick
+byline: false
 last_modified_at: 2024-02-25
 ---
 
