@@ -76,7 +76,7 @@ energy.
 src="/img/costs_1961.jpg"  alt="Construction costs of nuclear reactors up to 1961"
 class="img img-fluid float-end" style="max-width:300px"></a>
 After nuclear fission was discovered, humanity engaged in [significant efforts around the
-world to build economical power plants]({% link reactor_history.md %}). This took about 20
+world to build economical power plants]({% link reactor-history.md %}). This took about 20
 years. Along the way, we experimented with dozens of different coolants, fuels, and
 configurations. We tried liquid metal coolant, oil coolant, molten fuel, gas coolant,
 nuclear superheat, sodium-graphite, sodium-deuterium, ..., the whole nine yards. In

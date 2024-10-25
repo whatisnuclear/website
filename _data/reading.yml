@@ -438,8 +438,8 @@
   description: >
     Nuclear technology has a rich history with many fascinating developments. There are
     **dozens upon dozens of deep-dive references** in the [reference section
-    ](/reactor_history.html#references) of our [nuclear reactor development
-    history](/reactor_history.html) page. But we'll put some here too.
+    ](/reactor-history.html#references) of our [nuclear reactor development
+    history](/reactor-history.html) page. But we'll put some here too.
   items: 
    - author: Hewlett and Holl
      free: true

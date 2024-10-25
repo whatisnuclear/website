@@ -31,7 +31,7 @@ Start Company
 
 <hr/>
 
-[Learn more]({% link random_info.md %}) about the acronyms and project.
+[Learn more]({% link random-info.md %}) about the acronyms and project.
 
 
 </div>

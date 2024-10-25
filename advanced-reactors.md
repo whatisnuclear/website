@@ -18,7 +18,7 @@ image: /img/reactor-type-graph.png
 The term _advanced_ in nuclear is used loosely to mean "reactors that are better
 than ones you're worried about". Due to the fact that a [huge number of somewhat
 exotic reactor types were built and tested in the 1950s and 1960s]({% link
-reactor_history.md %}), the term is somewhat misleading and complex. Depending
+reactor-history.md %}), the term is somewhat misleading and complex. Depending
 on who you talk to, advanced reactors can mean a number of quite different
 things:
 

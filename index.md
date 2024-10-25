@@ -385,7 +385,7 @@ reactors.md %}) page.
 
 Other highlights include:
 
-- [Nuclear reactor development history]({% link reactor_history.md %})
+- [Nuclear reactor development history]({% link reactor-history.md %})
 - [Age of the Earth]({% link geology.md %})
 - [Radiation on flights]({% link radiation-on-flights.md %})
 

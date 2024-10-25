@@ -1857,7 +1857,7 @@ The UNT library was also really useful for this work.
 - <a
   href="https://www.energy.gov/management/downloads/hewlett-and-holl-atoms-peace-and-war">Hewlett
   and Holl, _Atoms for Peace and War: The Eisenhower Administration and the Atomic Energy
-  Commission_</a> (and don't miss <a href="{% link peace_and_war.md %}">my
+  Commission_</a> (and don't miss <a href="{% link peace-and-war.md %}">my
   personal reading notes</a>)
 - [Alice L. Buck, _A History of the Atomic Energy Commission_:
   U.S. Department of Energy, July 1983. 41 pp.

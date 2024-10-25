@@ -15,7 +15,7 @@ many developments and people who are not covered.
 Click the timeline on the right for <a href="{% link nuclear-timeline.md %}">a full-screen version. </a>
 
 We have a much longer history about [US reactor development programs here]({%
-link reactor_history.md %}).
+link reactor-history.md %}).
 
 ## Early discoveries
 No scientific progress ever really *starts*. Rather, it builds on the work of countless other

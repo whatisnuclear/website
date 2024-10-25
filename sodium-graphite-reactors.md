@@ -64,7 +64,7 @@ SGRs](https://babel.hathitrust.org/cgi/pt?id=mdp.39015003993881&view=1up&seq=7)
 that was released globally at the 2nd Atoms for Peace convention in 1958 and can
 be read in full today for free.
 
-As was typical in the [history of reactor development]({% link reactor_history.md
+As was typical in the [history of reactor development]({% link reactor-history.md
 %}), we developed, built, and operated two SGRs:
 
 - A reactor experiment: [Sodium Reactor Experiment
@@ -199,7 +199,7 @@ LSGR was the next step after Hallam I guess.
 - [Operational Experience, Hallam](https://www.youtube.com/watch?v=H1kazdkkB5o) -- A 1964 video
   summarizing the operating experience. Footage is
   basically the same as the 1963 video posted above, but condensed.
-- [Our reactor history page's SGR section]({% link reactor_history.md %}#the-hallam-sodium-graphite-reactor-in-nebraska)
+- [Our reactor history page's SGR section]({% link reactor-history.md %}#the-hallam-sodium-graphite-reactor-in-nebraska)
 
 </div>
 </div>

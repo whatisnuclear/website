@@ -32,7 +32,7 @@ could add our own version as well. Here is the result:
 billion years.  By any reasonable definition, nuclear breeder reactors are indeed
 renewable. However, benefiting from this billion-year sustainability requires improvements
 in reactor [construction performance]({% link economics.md %}) and public acceptance. We
-have [developed and proven breeder reactors in the past]({% link reactor_history.md %}#liquid-metal-cooled-fast-breeder-reactors), 
+have [developed and proven breeder reactors in the past]({% link reactor-history.md %}#liquid-metal-cooled-fast-breeder-reactors), 
 but they remain a small minority of our current fleet.
 
 Advances in [seawater uranium extraction](https://pubs.acs.org/toc/iecred/55/15) would

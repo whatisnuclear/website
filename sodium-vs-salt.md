@@ -77,7 +77,7 @@ Note that while sodium metal is not in any way a salt, some salts, like Sodium-C
 # See Also
 * [Molten Salt Reactors]({% link msr.md %})
 * [Liquid Metal Reactors]({% link fast-reactor.md %})
-* [Reactor Development History]({% link reactor_history.md %})
+* [Reactor Development History]({% link reactor-history.md %})
 
 </div>
 </div>

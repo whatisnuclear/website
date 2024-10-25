@@ -127,7 +127,7 @@ reactor-years of operation with fast reactors.
 
 <div class="alert alert-success" role="alert" markdown="1">
 **Note:** We have an elaborate <a href="{% link
-reactor_history.md %}">reactor development history page</a> that covers this topic in general.
+reactor-history.md %}">reactor development history page</a> that covers this topic in general.
 </div>
 
 Uranium was found to be plentiful, and the commercial nuclear industry favored the

@@ -21,7 +21,7 @@
 
 - title: History
   pages:
-    - reactor_history
+    - reactor-history
     - offshore-nuclear-plants
     - rickover
     - driscoll
@@ -30,7 +30,7 @@
     - history
     - old-videos
     - weinberg
-    - peace_and_war
+    - peace-and-war
 
 - title: Reactors
   pages:

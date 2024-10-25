@@ -48,7 +48,7 @@ see them all printed out, download [this giant zip file](./assets/all_reactors.z
 This is kind of a tongue-in-cheek hat-tip to a common misconception of nuclear amateurs
 who think that a reactor idea alone is a big part of improving nuclear energy's service to
 humanity. In reality, reactor concept ideas are a dime a dozen, while [developing and
-deploying reactors]({% link reactor_history.md %}) is the challenging part. Innovations
+deploying reactors]({% link reactor-history.md %}) is the challenging part. Innovations
 and advances in reactor design process, reactor construction, and reactor operation are
 needed vastly more than new reactor concepts. We hope people will focus most efforts there
 rather than on patenting replicas or minor twists to old concepts.

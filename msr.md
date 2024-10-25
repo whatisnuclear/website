@@ -252,7 +252,7 @@ along, this program was promptly canceled.
 
 <div class="alert alert-success"
 role="alert" markdown="1"> <b>Note:</b> We have an elaborate [reactor development history
-page]({% link reactor_history.md %}) that covers this topic in general.
+page]({% link reactor-history.md %}) that covers this topic in general.
 </div>
 
 <div class="float-end">

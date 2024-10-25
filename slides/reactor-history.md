@@ -50,7 +50,7 @@ image: /img/slides-history-blank.png
       <li>Quite a few of them are struggling</li>
       <li>We must improve delivery to survive!</li>
       <li>Incorporating project delivery lessons into any project is key</li>
-      <li>See also: <a href="/reactor_history.html">Nuclear Reactor Development 
+      <li>See also: <a href="/reactor-history.html">Nuclear Reactor Development 
       History</a> and <a href="/museum">whatisnuclear.com/museum</a></li>
     </ul>
     <aside class="notes"></aside>
@@ -60,7 +60,7 @@ image: /img/slides-history-blank.png
   <h3 class="r-fit-text">THANK YOU!</h3>
   <p>
     Find more info and contact form at
-    <a href="https://whatisnuclear.com/reactor_history.html"
+    <a href="https://whatisnuclear.com/reactor-history.html"
       >whatisnuclear.com</a
     >
   </p>
