@@ -5,7 +5,7 @@ layout: default
 # so I feel tempted to make it that again for now. However, later I feel that
 # perhaps more people search for the latter.
 title: What is nuclear waste?
-subtitle: Challenges and solutions for people's number one concern about nuclear power
+subtitle: Challenges and solutions
 category: physics
 description: >
   Nuclear waste is primarily composed of the atoms that are left over after larger
@@ -364,7 +364,7 @@ report](https://www.iaea.org/publications/7112/implications-of-partitioning-and-
 <span class="badge bg-success">See Also</span> See our [main recycling page]({% link
 recycling.md %}) for a more thorough discussion of recycling.
 
-### Transportation
+### Transportation of nuclear waste
 
 How does nuclear waste move from the reactor to the disposal site? We have developed
 containers that can handle the hazards of transportation without breaking. The US DOE and
@@ -391,7 +391,7 @@ concern in the oil field areas of Texas where many millions of dollars of oil ar
 shipped out per day. So it's not just about radiological safety, but also these kinds of
 subtler concerns that must be considered.
 
-### Crazy ideas
+### More exotic ideas for nuclear waste disposal
 
 Other things have been proposed as a solution for nuclear waste but are mostly bad ideas.
 
@@ -504,7 +504,7 @@ See Also
  * [Management of Spent Fuel from Nuclear Power
    Reactors](https://www.iaea.org/publications/magazines/bulletin/60-2) -- IAEA Bulletin
 summarizing much of the current state of nuclear waste management
- * Canada's [Nuclear Waste Management Organization Reports](https://www.nwmo.ca/en/Reports) -- perhaps the most comprehensive collection of information on nuclear waste ever compiled.
+ * Canada's [Nuclear Waste Management Organization Reports](https://www.nwmo.ca/Documents-and-reports#) -- perhaps the most comprehensive collection of information on nuclear waste ever compiled.
  * [GAO Disposal of Nuclear Waste page](https://www.gao.gov/key_issues/disposal_of_highlevel_nuclear_waste/issue_summary)
  * [Yucca Mountain Science and Engineering Report](https://www.nrc.gov/docs/ML0306/ML030640495.html) -- 900 pages of details about Yucca Mountain nuclear waste disposal site
  * [NRC Spent Fuel Storage Q&A](https://www.nrc.gov/waste/spent-fuel-storage/faqs.html)
@@ -513,15 +513,13 @@ summarizing much of the current state of nuclear waste management
  * [INTEGRATED REVIEW SERVICE FOR RADIOACTIVE WASTE AND SPENT FUEL MANAGEMENT, DECOMMISSIONING AND REMEDIATION (ARTEMIS) (pdf)](https://international.andra.fr/sites/international/files/2020-05/Rapport%20mission%20ARTEMIS.pdf)
  * [Sandia National Lab's Nuclear Waste Management Program](https://energy.sandia.gov/programs/nuclear-waste-management/)
    -- a 2018 review of the French nuclear waste disposal program
- * [The IAEA Online Information Resource for Radioactive Waste Management](https://newmdb.iaea.org/default.aspx)
+ * [The IAEA Online Information Resource for Radioactive Waste Management](https://www.iaea.org/topics/radioactive-waste-and-spent-fuel-management)
  * [Deep Borehole Disposal (DBD) of Radioactive Waste](https://www.osti.gov/servlets/purl/1420819)
  * [NEI nuclear waste storage stats](https://www.nei.org/resources/statistics/used-fuel-storage-and-nuclear-waste-fund-payments)
  * [Fission product yields from The National Nuclear Data Center](http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.1&nsub=11)
  * [The Onkalo nuclear waste repository (wiki)](https://en.wikipedia.org/wiki/Onkalo_spent_nuclear_fuel_repository)
  * [The Hiding Place: Inside the World's First Long-Term Storage Facility for Highly Radioactive Nuclear Waste](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste)
  * [Energy Northwest Video of dry casks](https://www.youtube.com/watch?v=EUvvIzH2W6g)
- * [Informal Bibliography on Nuclear Waste
-   Resources](https://docs.google.com/document/d/1N4GKU7aZWAsjRRCzMLkI84t6_r-9ml_TO5JlD8MtAbk) -- A nuclear waste professional's list of resources. [Explanation of the resources here](https://neutronbytes.com/2016/08/06/what-to-read-about-nuclear-waste/).
 
 </div>
 </div>
