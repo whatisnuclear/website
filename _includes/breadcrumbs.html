@@ -1,0 +1,40 @@
+{%- assign page_name = page.path | split: "." | first -%}
+{%- assign last_letter = page.url | split: "" | last -%}
+{%- if last_letter == "/" -%}
+    {%- assign page_name = page_name | append: "/" -%}
+{%- endif -%}
+{%- for section in site.data.pages -%}
+    {%- for item in section.pages -%}
+        {%- if item == "index" -%}
+        {%- assign item_url= "/" -%}
+        {%- elsif item contains "/" -%}
+        {%- assign item_url = item | prepend:"/" -%}
+        {%- else -%}
+        {%- assign item_url = item | prepend:"/" |  append: ".html" -%}
+        {%- endif -%}
+        {%- assign p = site.pages | where:"url", item_url | first -%}
+        {%- if item_url == page.url -%}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement":
+    [
+        {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "{{ section.title }}"
+        },
+        {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ page.title }}"
+        "item": "{{ site.url}}{{ page.url }}"
+        }
+    ]
+}
+</script>
+        
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
