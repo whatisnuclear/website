@@ -2137,6 +2137,8 @@
       name: Our announcement page
     - url: https://www.youtube.com/watch?v=WSMGNuYIdY8
       name: On YouTube (thanks Last Energy!)
+    - url: https://www.youtube.com/watch?v=H--FbZlED98
+      name: Related film: Pioneering with Power
   index: >
     00:00 Intro
     01:15 Summary of reactor equipment
@@ -2758,3 +2760,23 @@
   description: >
     This film reviews progress achieved in the Air Force aircraft nuclear
     propulsion program from 1956 to 1958.
+
+- title: "SRE Nuclear Facility Decommissioning"
+  naid: 
+  date: 1982
+  color: true
+  description: >
+    Scenes from SRE being dismantled
+  links: 
+    - name: On youtube (SD)
+      url: https://www.youtube.com/watch?v=JTWOekOkFEE
+
+- title: "The Argonne Low Power Reactor"
+  naid: 
+  date: 1959
+  color: true
+  description: >
+    The ALPR BWR before the accident. (Later known as SL-1)
+  links: 
+    - name: On youtube (SD)
+      url: https://www.youtube.com/watch?v=G-uATBN9vl0
