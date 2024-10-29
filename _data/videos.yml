@@ -2137,8 +2137,8 @@
       name: Our announcement page
     - url: https://www.youtube.com/watch?v=WSMGNuYIdY8
       name: On YouTube (thanks Last Energy!)
-    - url: https://www.youtube.com/watch?v=H--FbZlED98
-      name: Related film: Pioneering with Power
+    - url: "https://www.youtube.com/watch?v=H--FbZlED98"
+      name: "Related film: Pioneering with Power"
   index: >
     00:00 Intro
     01:15 Summary of reactor equipment
