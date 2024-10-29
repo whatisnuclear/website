@@ -106,7 +106,7 @@ To be fair, you can rightly argue that U-Pu-fueled reactors got developed in the
 Manhattan project of the 1940s) for weapons reasons. Back then (before enrichment), Th-fueled
 reactors couldn't even go critical, much less make bombs. Natural uranium reactors were the
 only way to go. This gave them the technical head start that has arguably led to their dominance.
-However, when MSRs were finally given their chance in the 1950s and 60s, their (non-existant)
+However, when MSRs were finally given their chance in the 1950s and 60s, their (non-existent)
 inability to make bombs was not to blame for the cancellation.
 
 <h2 id="myth2">Myth #2: Thorium reactors never need enrichment!</h2>
@@ -232,7 +232,7 @@ domestic supply! China has about an estimated 50% more known U than Th [4,5].
 Another point, if you look at the known reserves of economically extractable Thorium vs. Uranium
 [4,5], you&rsquo;ll find that they are both nearly identical (though many people argue that we can
 economically extract Th from lots of common sands). And remember, if we close the fuel cycle
-(whether using Th-U or U-Pu), the fuel resources are a non-issue for millenia.
+(whether using Th-U or U-Pu), the fuel resources are a non-issue for millennia.
 
 <h2 id="myth5">Myth #5: Thorium reactors uniquely make waste that is safe in hundreds of years!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span> 
@@ -303,7 +303,7 @@ more of this.
 - [Pascal-Emmanuel Gobry,"This energy source could solve all of our problems — so why is
   no one talking about
   it?"](https://theweek.com/articles/450000/energy-source-could-solve-all-problems--why-no-talking-about)
-  Woah this is a really good yarn. Again, hits most myths but even makes up some
+  Again, hits most myths but even makes up some
   new ones. Best quote:
 
   {:.blockquote}
