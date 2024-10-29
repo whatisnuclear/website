@@ -1,7 +1,8 @@
 <meta charset="utf-8" />
 <meta content="IE=edge" http-equiv="X-UA-Compatible" />
 <meta content="width=device-width, initial-scale=1" name="viewport" />
-<title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | escape }}{% endif %}{% if page.subtitle %} {{page.subtitle }}{% endif %}</title>
+<title>{%- if page.title -%}{{ page.title | strip_html | escape }}{%- else -%}{{ site.title | escape }}{%- endif -%}
+{%- if page.subtitle -%}{%- unless page.title contains "?" %}:{%- endunless %} {{page.subtitle }}{%- endif -%}</title>
 <meta
   content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}"
   name="description"

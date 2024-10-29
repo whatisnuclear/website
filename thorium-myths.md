@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thorium myths
+subtitle: Keeping reality in nuclear fuel
 description: As much as we love Thorium, there are way too many myths about it going around. We set them straight here.
 author: nick
 image: /img/Thor.jpg
