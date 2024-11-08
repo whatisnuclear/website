@@ -87,6 +87,7 @@
       </div>
       <div class="col-6">
         <img class="img img-fluid" data-src="/img-slide/Yankee_Rowe.jpg" />
+        <p>Film: <a href="https://www.youtube.com/watch?v=WSMGNuYIdY8">Operating Experience Yankee Rowe (1964)</a></p>
       </div>
     </div>
     <aside class="notes"></aside>
@@ -131,6 +132,7 @@
       </div>
       <div class="col-6">
         <img class="img img-fluid" data-src="/img-slide/Hallam_nuclear_power_facility_core.jpg" />
+        <p>Film: <a href="https://www.youtube.com/watch?v=ey1MO_1DkL4">The Hallam Reactor (1964)</a></p>
       </div>
     </div>
     <aside class="notes"></aside>
@@ -154,7 +156,8 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/elk-river-downtown.jpg" />
+        <img class="img img-fluid" data-src="/img/vids/rural/boy-and-elk-river.jpg" />
+        <p>Film: <a href="https://www.youtube.com/watch?v=Dft1fPWFgD8">Nuclear Energy Goes Rural (1963)</a></p>
       </div>
     </div>
     <aside class="notes"></aside>
@@ -213,6 +216,9 @@
           <li>Co-located with coal AND hydro plants!</li>
           <li>AEC paid $11.3M, industry paid $32.1M</li>
           <li>Power was uprated, but 3 of 4 test assemblies failed</li>
+          <li>See <a href="https://doi.org/10.2172/4131820"> Willoughby 1967</a>
+          or <a href="https://doi.org/10.2172/4521107">Nath 1967</a> (neutronics
+          benchmark anyone?) </li>
           </ul>
       </div>
       <div class="col-6">
@@ -283,6 +289,7 @@
           <li>Constructed in 29 months for $27M</li>
           <li>Ran beautifully, shut down in 1997</li>
           <li>9 miles from my mom's house</li>
+          <li>Film: <a href="https://www.youtube.com/watch?v=YSMIoXzkSZA">Head Start on Tomorrow (1962) ft. Ronald Reagan</a></li>
           </ul>
       </div>
       <div class="col-6">
