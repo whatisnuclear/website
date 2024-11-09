@@ -1,7 +1,7 @@
 ---
 layout: news
-title: ASTR Tower Experiment
-subtitle: "The Reactor that Flew (1958 film)"
+title: ASTR Tower Experiment Film
+subtitle: "The Reactor that Flew (1958)"
 author: nick
 category: news
 tags: videos
@@ -110,9 +110,6 @@ a cradle that allowed it to be flipped over: forward side up for fuel
 loading/unloading, and aft side up for instrumentation and control adjustments.
 
 Great photos of the equipment trucks/etc. {% cite gantzNuclearFlightUnited1960 --locator 187 %}
-
-
-## More info
 
 The ASTR had the following characteristics {% cite nanceAircraftShieldTest1958 %}:
 
