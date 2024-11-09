@@ -1,26 +1,84 @@
 ---
 layout: news
-title: >
-  The Reactor that Flew: a film about the Aircraft Shield Test Reactor (ASTR) Tower Experiment
+title: ASTR Tower Experiment
+subtitle: "The Reactor that Flew (1958 film)"
 author: nick
 category: news
 tags: videos
-description: 
+description: >
+  In January, 1946, the U.S. Air Force started working to build a long-range
+  nuclear-powered bomber.  This page exhibits and discusses a historic film from
+  1958 discussing a flying reactor and follow-up experiments where they lifted
+  it up into the air on a huge tower in Oak Ridge.
 byline: True
-image: /img/vids/astr/astr.jpg
+image: /img/vids/astr/astr-tower-17_sm.jpg
 comments: true
 ---
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-In January, 1946, the U.S. Air Force started a program called Nuclear Energy for
-the Propulsion of Aircraft (NEPA), with the goal of building a long-range
-nuclear-powered bomber. The program became multi-pronged and truly massive. 
-Direct nuclear heated turbines were built and studied (e.g. HTRE-1,2,3),
-and a high temperature fluid fuel reactor (the Aircraft Reactor Experiment)
-was operated to support the program. 
+In January, 1946, the U.S. Air Force started working to build a
+long-range nuclear-powered bomber. The program evolved and became multi-pronged
+and truly massive.  At one point they actually loaded a nuclear reactor onto an
+airplane, took off, and turned the reactor on in flight (it didn't propel the
+plane though).  We recently learned of a historic film from 1958 discussing this
+flying reactor and follow-up experiments where they lifted it up into the air on
+a huge tower in Oak Ridge.  We found it, got it scanned, and have posted it
+online here:
 
+<figure>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/rW7X0u_1268"
+title="ASTR Tower Experiment: the reactor that flew" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</div>
+</figure>
+
+
+<blockquote class="blockquote">
+{% assign vid = site.data.videos | where: "title", 'ASTR TOWER EXPERIMENT' | first %}
+<b>Catalog description: </b> {{ vid.description }}
+</blockquote>
+
+This is film [67389]({% link old-videos.md %}#astr-tower-experiment) in our
+catalog.
+
+Thanks to **Gil Brueckner** for making this happen!
+
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12" markdown="1">
+
+<div class="row">
+ {% for index in (1..24) %} 
+  <div class="col col-3 col-sm-4 col-xs-2 col-md-2 col-lg-2 col-xl-2 p-0">
+    <figure class="figure p-0 m-0">
+      <a
+        href="/img/vids/astr/astr-tower-{{index| prepend: '00' | slice: -2, 2 }}_4k.jpg"
+      >
+        <img
+          src="/img/vids/astr/astr-tower-{{index | prepend: '00' | slice: -2, 2 }}_sm.jpg"
+          class="img-fluid p-0"
+        />
+      </a>
+    </figure>
+  </div>
+ {% endfor %}
+  </div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-8" markdown="1">
+
+## More info about the ASTR
+
+The Air Force Programs (NEPA and ANP) built reactors hooked to jet engines
+and also built the first molten salt reactor: the Aircraft Reactor Experiment.
 Besides reactor and heat transfer technology, radiation shielding questions
 needed answers. Could pilots and crew in a nuclear-propelled aircraft be
 appropriately shielded from the radiation?  What kind of radiation scattering
@@ -29,17 +87,14 @@ would occur off the air under and around the reactor?
 To answer these questions, the NB-36 program was created to operate a nuclear
 reactor onboard a flying aircraft. The reactor would be at power, but would not
 itself be propelling the aircraft.
-
 On September 5, 1955 the first nuclear reactor to operate in the air went
 critical in a modified Convair B-36 called the Nuclear Test Aircraft (NTA). 
-
 The reactor put onboard was the Aircraft Shield Test Reactor (ASTR).
 
 The NTA flew 47 flights over two years with the reactor on it. It 
 took off from Carswell Airforce Base in Texas with the reactor shut down,
 flew to the New Mexico desert, then powered up the reactor for testing,
 then powered it back down and flew back to base. (ref: NX-2)
-
 Remotely coupled hydraulic, mechanical, and electrical connections were tested
 many times before the reactor was operated at high enough power to become 
 overly radioactive.
@@ -54,53 +109,8 @@ pool of water, and then maintained with long tools. The reactor was placed into
 a cradle that allowed it to be flipped over: forward side up for fuel
 loading/unloading, and aft side up for instrumentation and control adjustments.
 
-photos of trucks/etc. {% cite gantzNuclearFlightUnited1960 --locator 187 %}
+Great photos of the equipment trucks/etc. {% cite gantzNuclearFlightUnited1960 --locator 187 %}
 
-Thanks to **Gil Brueckner** for making this happen!
-
-<figure>
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/QTNheyTXpII?si=dUvhmfvr7JhkyI5b"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
-</div>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'ASTR TOWER EXPERIMENT' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
-
-This is film [67389]({% link old-videos.md %}#astr-tower-experiment) in our
-catalog.
-
-</div>
-</div>
-<div class="row">
-<div class="col-md-12" markdown="1">
-
-<div class="row">
- {% for index in (1..36) %} 
-  <div class="col col-3 col-sm-4 col-xs-2 col-md-2 col-lg-2 col-xl-2 p-0">
-    <figure class="figure p-0 m-0">
-      <a
-        href="/img/vids/astr/434_215-naval-research-{{index| prepend: '00' | slice: -2, 2 }}_4k.jpg"
-      >
-        <img
-          src="/img/vids/astr/434_215-naval-research-{{index | prepend: '00' | slice: -2, 2 }}_sm.jpg"
-          class="img-fluid p-0"
-        />
-      </a>
-    </figure>
-  </div>
- {% endfor %}
-  </div>
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-8" markdown="1">
 
 ## More info
 
@@ -118,14 +128,11 @@ The ASTR had the following characteristics {% cite nanceAircraftShieldTest1958 %
 In 1959, the ASTR was redesignated as the Aerospace Systems Test Reactor and
 upgraded from 1 to 3 MWt. In 1963 it was further modified and updated to 10 MW.
 It was also once known as the Aerospace Shield Test Reactor. It was used to 
-support other astronuclear-related work {% cite
-warinnerComparisonAerospaceSystems1983 %}. 
+support other astronuclear-related work {% cite warinnerComparisonAerospaceSystems1983 %}. 
 
 The reactor was permanently installed at the Nuclear Aerospace Research Facility
 (NARF) at General Dynamics/Fort Worth, Texas, for shielding, cryogenic-heating,
 and radiation-effects experiments.
-
-TSF image (from https://www.flickr.com/photos/departmentofenergy/13452138804)
 
 The Tower Shielding Facility was a facility in Oak Ridge, TN where they hooked
 operating nuclear reactors up to cables and lifted them high into the air to
@@ -135,16 +142,15 @@ of the ANP.
 
 As of 2024 the towers are still standing.
 
-
 ## Read more about the Aircraft Shield Test Reactor
 
-
-* The ASTR (Nucleonics, Jan 1958)
-* Temperature Coefficient of The ASTR (Nucleonics, Nov 1956)
+* {% cite nanceAircraftShieldTest1958 %}
+* [Temperature Coefficient of The ASTR (Nucleonics, Aug 1956)](https://archive.org/details/sim_nucleonics_1956-08_14_8/page/98/mode/2up)
 * [Giving Wings to the Atom Aircraft Nuclear Propulsion (Unofficial archives)](https://leehite.org/anp/documents.htm)
 * [Aircraft Nuclear Propulsion: An Annotated Bibliography](https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-gpo125304)
-* https://en.wikipedia.org/wiki/Convair_NB-36H
+* [Convair NB-36B Wikipedia](https://en.wikipedia.org/wiki/Convair_NB-36H)
 * [3-D interactive view of TSF](https://www.google.com/maps/@35.8988825,-84.3024269,270a,35y,105.52h,36.08t/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D)
+* [Nice pic of TSF](https://www.flickr.com/photos/departmentofenergy/13452138804)
 
 {% bibliography --cited %}
 

@@ -2646,10 +2646,10 @@
 - title: ASTR TOWER EXPERIMENT
   naid: 67389
   iaea: 
-  date: 
-  length: 
+  date: December, 1958
+  length: 10 mins
   color: true
-  priority: 1
+  win: true
   description: > 
     Coverage of the transfer of the Convair Airborne Shielded Test
     Reactor and NB-36 crew compartments from Ft. Worth, Texas, to Oak Ridge,
@@ -2666,6 +2666,12 @@
     suspended from the towers, in the same relationship to the reactor as they
     were in the NB-36 aircraft. Good (Basic: Orig color, A&B Rolls)
   notes: The reactor that flew!
+  links:
+    - name: On Youtube
+      notes: Thanks to Gil Brueckner
+      url: https://www.youtube.com/watch?v=rW7X0u_1268
+    - name: Our announcement page
+      url: /news/2024-11-08-the-reactor-that-flew.html
 
 - title: Advanced Test Reactor
   naid: 
