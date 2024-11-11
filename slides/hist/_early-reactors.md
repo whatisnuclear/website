@@ -59,6 +59,12 @@
     </div>
     <aside class="notes"></aside>
   </section>
+  
+  <section>
+  <h3>ZEEP and NRX HWRs in Canada</h3>
+  <img class="r-stretch" data-src="/img/zeep.jpg"/>
+  <p>ZEEP with NRX under construction in background, from <a href="https://cns-snc.ca/wp-content/uploads/2022/01/Vol_16_No3_1995.pdf">ZEEP: The Little Reactor that Could</a></p>
+  </section>
 
   <section>
   <h3>The first-ever nuclear electricity came from X-10 in 1948</h3>
@@ -87,7 +93,7 @@
   </section>
 
 <section markdown="1">
-### Four Foundational Reactors
+### Four Foundational Power Reactors
 
 Proposed in 1947 to be completed in the early 1950s.
 
@@ -180,6 +186,34 @@ ORNL</a>)</p>
   </section>
 
   <section>
+    <h3>Rickover and the Nuclear Navy</h3>
+    <div class="row">
+      <div class="col-6">
+      <ul>
+      <li>Experienced and extremely hard working submariner</li>
+      <li>Worked in engine rooms, on electrical systems, and in logistics/supply</li>
+      <li>Sent to ORSORT in 1946, took charge of Naval Group</li>
+      <li>Ridiculed by AEC leadership for thinking sub could be built quickly</li>
+      <li>Maneuvered politically to get authorization</li>
+      <li>Developed Zirconium industry</li>
+      <li>Later built Shippingport, chose UO₂ fuel</li>
+      <li>Famously mean, but also famously revered by sailors</li>
+      <li>See <a href="https://vimeo.com/56270169">Rickover on 60 Minutes at age 84</a></li>
+      </ul>
+      </div>
+      <div class="col-6">
+        <img
+          class="img img-fluid"
+          title="Rickover"
+          data-src="/img/rickover-1955.jpg"
+        />
+    <p class="small">Admiral Rickover, 1955</p> 
+      </div>
+    </div>
+    <aside class="notes"></aside>
+  </section>
+
+  <section>
     <h3>S1W Submarine Thermal Reactor</h3>
     <div class="row">
       <div class="col-6">
@@ -221,6 +255,16 @@ ORNL</a>)</p>
     <aside class="notes"></aside>
   </section>
 
+<section>
+  <h3>The 1953 Rickover 'academic reactor' memo</h3>
+
+{% include rickover-memo-excerpt.md %}
+
+<a href="{% link rickover.md %}">Full memo here</a>
+
+<aside class="notes"></aside>
+</section>
+
   <section>
     <h3>Aircraft Nuclear Power Program</h3>
     <div class="row">
@@ -233,7 +277,7 @@ ORNL</a>)</p>
       <div class="col-4">
 <a href="/img/HTRE-2.jpg"><img class="img-fluid" 
 data-src="/img/HTRE-2-sm.jpg" alt="The HTRE-2 nuclear-heated jet engine"/></a>
-<p class="small">An actual test of a nuclear-powered jet engine in Idaho, called HTRE-2 (photo by me)</p>
+<p class="small">An actual test of a nuclear-powered jet engine in Idaho, called HTRE-2</p>
     </div>
       <div class="col-4">
 <a href="/img/are.jpg"><img
@@ -245,18 +289,38 @@ data-src="/img/are.jpg" alt="ARE" class="img img-fluid center-block" ></a>
   </section>
 
   <section>
+    <h3>The Airplane Shielding Test Reactor was the first to operate in flight</h3>
+    <div class="row">
+      <div class="col-6">
+  <a href="/img/vids/astr/astr-tower-04_4k.jpg"><img class="img-fluid" 
+  data-src="/img/vids/astr/astr-tower-04_4k.jpg" alt="Reactor in the air"/></a>
+      <p class="small">The NB-36 (NTA) with ASTR onboard</p>
+          </div>
+      <div class="col-6">
+<a href="/img/vids/astr/astr-tower-02_4k.jpg"><img class="img-fluid" 
+data-src="/img/vids/astr/astr-tower-02_4k.jpg" alt="Reactor on tower"/></a>
+<p class="small">The ASTR and flight cabin sans airframe</p>
+      </div>
+      <p><a href="/news/2024-11-08-astr-tower-experiment.html">The ASTR Tower Experiment film (1958)</a></p>
+    </div>
+    <aside class="notes"></aside>
+  </section>
+
+  <section>
     <h3>The Army Nuclear Power Program</h3>
     <div class="row">
       <div class="col-6" markdown="1">
 
-- Intended to power remote areas
-- PM-1 in Wyoming
-- PM-2A in Camp Century ice base (Greenland)
-- ML-1 Truck-mounted mobile
-- SL-1 in Idaho
+Intended to power remote areas
+
+- [SM-1 at Ft. Belvoir]({% link _news/2024-03-16-six-early-nuclear-films.md%}#army-package-power-reactor-1957)
+- [PM-1 in Wyoming]({% link _news/2023-07-03-film-about-pm1-microreactor-in-wyoming.md %})
+- [PM-2A in Camp Century ice base](https://www.youtube.com/watch?v=28NYczAuXl4)
+- [PM-3A in Antarctica](https://www.youtube.com/watch?v=SSmQ7TUowao)
+- [ML-1 Truck-mounted mobile](https://www.youtube.com/watch?v=PPPp5rtu04A)
+- [SL-1 in Idaho]()
 - SM-1A Fort Greely, Alaska
-- MH-1A floating barge in Panama
-- PM-3A in Antarctica
+- [MH-1A floating barge in Panama](https://www.youtube.com/watch?v=YrWFqz283sY)
 
 </div>
       <div class="col-6">
@@ -327,6 +391,33 @@ data-src="/img/are.jpg" alt="ARE" class="img img-fluid center-block" ></a>
 
 [PM-1 Final Summary Report](https://whatisnuclear.com/assets/PM-1%20Final%20Summary%20Report.pdf)
 
+</div>
+</div>
+
+  </section>
+
+<section>
+<h3>Lessons from PM-3A in Antarctica</h3>
+
+<div class="row">
+<div class="col-6" markdown="1">
+
+- Offset 21 million liters of diesel for electricity and water distillation
+- 434 malfunctions
+- 221 health physics reports, 14 needing outside medical attention
+- 99 plant modifications made
+- 2 officers and ~20 enlisted to operate/maintain is too many!
+- Chloride stress corrosion cracking found, decision to remove reactor
+- Shielding with local backfill can be a problem due to activation
+- Couldn't compete, even in the most remote of areas
+
+See [Final Operating Report for PM-3A](http://www.vbdr.org/meetings/2012/Presentations/McMurdo_Station_Nuc_Reactor_Final_Report-Sec6-OCRed.pdf)
+
+</div>
+<div class="col-6" markdown="1">
+
+<img class="img img-fluid" data-src="/img-slide/pm3a.jpg" alt="PM-3A assembled"/>
+<p class="small">PM-3A in operation at McMurdo Station (<a href="http://www.southpolestation.com/env/env1.html">Source</a>)</p>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 <section>
   <section>
-    <h3 >The Quest For</h3>
-    <h3 class="r-fit-text">ECONOMICAL POWER</h3>
+    <h3 >The Power Demonstration</h3>
+    <h3 class="r-fit-text">REACTOR PROGRAM</h3>
     <aside class="notes"></aside>
     <img
       class="r-frame"
@@ -103,7 +103,8 @@
           <li>More expensive than expected</li>
           <li>Many operational challenges</li>
           <li>Core melt and recovery</li>
-          <li>Shut down early due to poor economic performance</li>
+          <li>Shut down early due to abysmal economic performance</li>
+          <li>Generated roughly 13.5 EFPD total</li>
           </ul>
       </div>
       <div class="col-6">
