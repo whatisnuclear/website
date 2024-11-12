@@ -2215,7 +2215,6 @@
   length: 23
   color: false
   topics: [reactors, accidents]
-  priority: 1
   description: >
     This film discusses the 14-month repair and restoration of the NRX Reactor at
     Chalk River, Ontario, following a rapid super operational power level
@@ -2238,7 +2237,12 @@
     operation for assessing safety system failure and associated problems and
     hazards of returning a reactor to operation.
   notes: This is the one that Jimmy Carter worked on
+  win: true
   links: 
+    - name: Our summary page
+      url: /news/2024-11-13-restoration-of-nrx.html
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=9wLJUZ3Vhao
 
 - title: The Wooden Overcoat
   naid: 88278
