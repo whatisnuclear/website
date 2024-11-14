@@ -82,6 +82,7 @@ This digitization was sponsored by me.
 - [Mummah, President Jimmy Carter and a Canadian nuclear meltdown, 2021](https://medium.com/generation-atomic/president-jimmy-carter-and-a-canadian-nuclear-meltdown-47c8a5b8989c)
 - [Why Not the Best](https://www.goodreads.com/book/show/645520.Why_Not_the_Best_) -- Jimmy Carter autobiography
 - [Jimmy Carter and the NRX Accident – How Legends Grow](https://nuclearheritage.com/jimmy-carter-and-the-nrx-accident-how-legends-grow/)
+- [NRX Wikipedia page](https://en.wikipedia.org/wiki/NRX)
 
 ## See Also
 
