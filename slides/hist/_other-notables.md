@@ -70,8 +70,8 @@
         <ul>
           <li>5x more power than ML-1, still on a truck (2.2 kWe)</li>
           <li>HEU fast reactor</li>
-          <li>Enriched lithium primary coolant</li>
-          <li>Enriched potassium reflector coolant</li>
+          <li>Enriched lithium-7 primary coolant</li>
+          <li>Enriched potassium-39 reflector coolant</li>
           <li>Sodium secondary coolant</li>
           <li>Three EM pumps</li>
           <li>FT-12 jet engine power conversion</li>

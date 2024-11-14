@@ -97,11 +97,10 @@
 
 Proposed in 1947 to be completed in the early 1950s.
 
-- Fast reactor — A fast reactor to explore the possibilities of breeding (now known as EBR-1)
-- Navy thermal reactor — a prototype for submarine propulsion (now known as STR or S1W)
-- Materials Testing Reactor (MTR) — A testing facility to investigate potential materials
-  to be used in power reactor construction. The resistance of materials to the environment
-  required for power production was the primary challenge of power reactor development.
+- Fast reactor — to explore the possibilities of breeding
+- Navy thermal reactor — for submarine propulsion
+- Materials Testing Reactor (MTR) — to investigate potential materials
+  to be used in power reactor construction.
 - Knolls intermediate reactor — to explore the possibilities of breeding and to develop usable
   power
 
@@ -245,6 +244,7 @@ ORNL</a>)</p>
   - Darkening relationships with the USSR
 - Ended up as the S1G, the prototype for the USS Seawolf
 - Large dome in NY remains
+- [Made USA's first commercially distributed electricity](https://www.britishpathe.com/asset/59841/)
 
 </div>
       <div class="col-4">

@@ -263,7 +263,7 @@
           <li>37.2% thermal efficiency</li>
           <li>538 °C superheated steam at 10 MPa</li>
           <li>Capacity factor 74%</li>
-          <li>Uneconomical to operate alongside GW-scale neighboring units because it was too small</li>
+          <li>Uneconomical to operate alongside GW-scale neighboring BWRs because it was too small</li>
           <li>Major retrofit was required to meet revised safety criteria</li>
           </ul>
       </div>
