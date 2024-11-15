@@ -63,7 +63,7 @@
   <section>
   <h3>ZEEP and NRX HWRs in Canada</h3>
   <img class="r-stretch" data-src="/img/zeep.jpg"/>
-  <p>ZEEP with NRX under construction in background, from <a href="https://cns-snc.ca/wp-content/uploads/2022/01/Vol_16_No3_1995.pdf">ZEEP: The Little Reactor that Could</a></p>
+  <p>ZEEP with <a href="{% link _news/2024-11-13-restoration-of-nrx.md %}">NRX</a> under construction in background, from <a href="https://cns-snc.ca/wp-content/uploads/2022/01/Vol_16_No3_1995.pdf">ZEEP: The Little Reactor that Could</a></p>
   </section>
 
   <section>
@@ -117,6 +117,7 @@ Proposed in 1947 to be completed in the early 1950s.
 - EBR-1 was hooked to a generator and made the first significant amount of nuclear electricity
 - It also proved that a conversion ratio >1.0 was possible
   - They didn't consider it a true breeder because it used U-235
+- Had a core melt in 1955, repaired and ran for another 9 years
 
 </div>
       <div class="col-4">
@@ -128,6 +129,35 @@ Proposed in 1947 to be completed in the early 1950s.
         <p class="small">
           The EBR-I (<a
             href="https://doi.org/10.2172/1819689"
+            >AEC</a
+          >)
+        </p>
+      </div>
+    </div>
+    <aside class="notes"></aside>
+  </section>
+
+  <section>
+    <h3>The Materials Testing Reactor (MTR)</h3>
+    <p>Data source for all future reactors</p>
+    <div class="row">
+      <div class="col-6">
+<img class="img img-fluid p-0 m-0" 
+data-src="/img/litr_top.jpg" alt="The LITR reactor top"/>
+<p class="small">The LITR, the 1st
+water-cooled/moderated reactor (<a
+href="https://www.flickr.com/photos/oakridgelab/45752034864">CC-BY-2.0
+ORNL</a>)</p> 
+      </div>
+      <div class="col-6">
+        <img
+          title="MTR reactor"
+          class="img img-fluid p-0 m-0"
+          data-src="/img-slide/mtr-floor.jpg"
+        />
+        <p class="small">
+          The 40 MWt MTR (<a
+            href="https://upload.wikimedia.org/wikipedia/commons/2/20/Materials_Testing_Reactor_MAIN_FLOOR.jpg"
             >AEC</a
           >)
         </p>
@@ -152,35 +182,6 @@ Proposed in 1947 to be completed in the early 1950s.
     </div>
     <p class="small">Fuel for the MTR mockup (<a
     href="https://doi.org/10.2172/4346760">AEC</a>)</p> 
-    <aside class="notes"></aside>
-  </section>
-
-  <section>
-    <h3>The Materials Testing Reactor (MTR)</h3>
-    <p>Data source for all future reactors</p>
-    <div class="row">
-      <div class="col-6">
-<img class="img img-fluid p-0 m-0" 
-data-src="/img/litr_top.jpg" alt="The LITR reactor top"/>
-<p class="small">The LITR, the 1st
-water-cooled/moderated reactor (<a
-href="https://www.flickr.com/photos/oakridgelab/45752034864">CC-BY-2.0
-ORNL</a>)</p> 
-      </div>
-      <div class="col-6">
-        <img
-          title="MTR reactor"
-          class="img img-fluid p-0 m-0"
-          data-src="/img-slide/mtr-floor.jpg"
-        />
-        <p class="small">
-          The MTR (<a
-            href="https://upload.wikimedia.org/wikipedia/commons/2/20/Materials_Testing_Reactor_MAIN_FLOOR.jpg"
-            >AEC</a
-          >)
-        </p>
-      </div>
-    </div>
     <aside class="notes"></aside>
   </section>
 
@@ -242,8 +243,8 @@ ORNL</a>)</p>
 - On April 15, 1950, was repurposed as a submarine prototype because:
   - Technical challenges
   - Darkening relationships with the USSR
-- Ended up as the S1G, the prototype for the USS Seawolf
-- Large dome in NY remains
+- Ended up as the S1G, the prototype for the USS Seawolf SSN-575
+- Large dome at Kesselring site, West Milton, NY remains (KAPL)
 - [Made USA's first commercially distributed electricity](https://www.britishpathe.com/asset/59841/)
 
 </div>
