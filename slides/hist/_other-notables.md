@@ -124,4 +124,36 @@
     <aside class="notes"></aside>
   </section>
 
+  <section>
+    <h3>The Atlantic Generating Station</h3>
+    <div class="row">
+      <div class="col-6">
+        <ul>
+          <li>Offshore Power Systems JV between Westinghouse and Newport News</li>
+          <li>Partially built a nuclear reactor gigafactory in Jacksonville, Fl</li>
+          <li>Got manufacturing license from NRC to build 8!</li>
+          <li><a
+            href="{% link offshore-nuclear-plants.md %}"
+            >My writeup with details</a
+          ></li>
+          </ul>
+        <img
+          title="OPS license"
+          class="img img-fluid"
+          data-src="/img/ops-manufacturing-license.jpg"
+        />
+        <p class="small">The Manufacturing License!</p>
+      </div>
+      <div class="col-6">
+        <img
+          title="SER"
+          class="img img-fluid"
+          data-src="/img/OPS_SER_1981.jpg"
+        />
+        <p class="small">The SER </p>
+      </div>
+    </div>
+    <aside class="notes"></aside>
+  </section>
+
 </section>

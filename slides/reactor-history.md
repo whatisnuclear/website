@@ -28,8 +28,8 @@ image: /img/slides-history-blank.png
 {% include_relative hist/_critical-assemblies.html %}
 {% include_relative hist/_reactor-experiments.html %}
 {% include_relative hist/_power-demonstration.md %}
-{% include_relative hist/_other-notables.md %}
 {% include_relative hist/_lwr-breakthrough.md %}
+{% include_relative hist/_other-notables.md %}
 
 <!-- {% include_relative _status-of-nuclear.html %} -->
 
@@ -48,7 +48,7 @@ image: /img/slides-history-blank.png
       <li>Detailed documentation and film highlighting challenges and lessons exist in the archives</li>
       <li>Observation: many companies are assuming easy/fast success... may be surprised</li>
       <li>Beware the Rickover Memo!</li>
-      <li>Need more people developing and testing equipment/inspection/maintenance, less focus on core design</li>
+      <li>Need more people developing and testing equipment/inspection/maintenance, and improving construction</li>
       <li>We must improve actual delivery and performance to survive!</li>
       <li>See also: <a href="/reactor-history.html">Nuclear Reactor Development 
       History</a> and <a href="/museum">whatisnuclear.com/museum</a></li>
