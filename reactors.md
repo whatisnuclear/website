@@ -143,6 +143,7 @@ A incomplete subset of reactor types broken down by coolant and moderator is sho
 below. For simplicity, we limit it to reactors that have either been built, are
 under construction, or have been the subject of significant experimentation
 and/or study. Reactors concepts in all boxes have been proposed.
+
 <div class="table-responsive">
 <table class="table table-bordered border-dark table-sm rxtable">
 
@@ -266,6 +267,7 @@ Sodium-cooled fast reactors (SFR)
   * [BN-800](https://en.wikipedia.org/wiki/BN-800_reactor)
 
 [LAMPRE](https://doi.org/10.2172/4368180)
+
 </td>
 <td markdown="1">
 Sodium-Beryllium Reactors
@@ -275,7 +277,8 @@ Sodium-Beryllium Reactors
 <td markdown="1">
 </td>
 <td markdown="1">
-[SNAP-10A](https://en.wikipedia.org/wiki/SNAP-10A) (NaK)
+* [SNAP-10A](https://en.wikipedia.org/wiki/SNAP-10A) (NaK with UZrH fuel)
+* [KNK-I](https://publikationen.bibliothek.kit.edu/270038327) (ZrH-moderated)
 </td>
 </tr>
 
