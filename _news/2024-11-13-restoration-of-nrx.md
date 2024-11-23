@@ -5,8 +5,8 @@ subtitle: "The world's first nuclear meltdown"
 author: nick
 category: news
 tags: videos
-description:
-byline: True
+description: This film shows the recovery effort done to clean up, rebuild, and restart the NRX reactor in Canada.
+byline: true
 image: /img/vids/nrx/nrx-29.jpg
 comments: true
 ---

@@ -2162,9 +2162,9 @@
   iaea: 
   date: 1964
   length: 10
-  color: true
+  color: false
+  win: true
   topics: [reactors]
-  priority: 1
   description: >
     This technical film reports on the routine, day-to-day operation of the
     Dresden Nuclear Power Station and points up the success of the boiling water
@@ -2173,6 +2173,10 @@
     safety, ease of operation, and ease of maintenance
   notes: A Geneva 1964 film produced by GE
   links: 
+    - name: Our announcement
+      url: /news/2024-11-19-operating-experience-dresden.html
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=ivFiqkon_WY
 
 - title: Inside the Yankee Core
   naid: 88283
