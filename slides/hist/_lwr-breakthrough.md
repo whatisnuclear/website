@@ -30,7 +30,7 @@
       <div class="col-6">
     <img
       title="Key to Dresden"
-      data-src="/img/vids/dresden/dresden-key.jpg"
+      data-src="/img/vids/dresden/dresden-12.jpg"
     />
     <p class="small"> The key to Dresden </p>   
       </div>
@@ -55,12 +55,12 @@
     malfunctions, and difficult and time consuming to repair. These facts
     clearly demonstrate that sodium is less desirable for naval reactors than
     pressurized water.</blockquote>
+
   <figcaption class="blockquote-footer">Rickover, 1956</figcaption>
     </div>
     </div>
     <aside class="notes"></aside>
   </section>
-
 
   <section>
     <h3>France switched from UNGG to PWR</h3>
@@ -80,10 +80,11 @@
       data-src="/img-slide/gravelines.jpg"
     />
 
-    <p class="small">Gravelines PWRs in France (AREVA image)</p>   
+    <p class="small">Gravelines PWRs in France (AREVA image)</p>
       </div>
     </div>
     <aside class="notes"></aside>
+
   </section>
 
   <section>
@@ -104,14 +105,15 @@
       data-src="/img-slide/vver.jpg"
     />
 
-    <p class="small">Balakovo (<a href="https://commons.wikimedia.org/wiki/File:BalakovoNPP1.jpg">CC-BY-SA Seetenky</a>)</p>   
+    <p class="small">Balakovo (<a href="https://commons.wikimedia.org/wiki/File:BalakovoNPP1.jpg">CC-BY-SA Seetenky</a>)</p>
       </div>
     </div>
     <aside class="notes"></aside>
+
   </section>
 
-  {% include_relative _slide-global-capacity.html %}
+{% include_relative _slide-global-capacity.html %}
 
-  {% include_relative _slide-capacity-factor.html %}
+{% include_relative _slide-capacity-factor.html %}
 
   </section>
