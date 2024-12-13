@@ -610,15 +610,26 @@
   date: 1958
   length: 16
   color: true
-  priority: 1
+  win: true
   description: > 
     This film presents a pictorial summary of the fabrication and operation of the
-    OM RE facility at the USAEC 's National Reactor Testing Station, Idaho, being
+    OMRE facility at the USAEC 's National Reactor Testing Station, Idaho, being
     conducted by Atomics International to investigate the use of organic materials
     as a reactor coolant, for transferring heat and for moderating neutrons. The
     film also depicts the technique of melting the organic moderator and methods
     of monitoring.
   notes: 
+  image: /img/vids/omre/omre-10.jpg
+  links: 
+    - name: Our announcement page
+      url: /news/2024-12-13-organic-moderated-reactor-experiment-film.html
+    - name: On YouTube in 4K (English audio)
+      url: https://www.youtube.com/watch?v=nOkkXlqh9HM
+      notes: > 
+        Thanks to Mikal Bøe for sponsoring, and to Shirly Rodriguez Rojas for
+        translating and narrating in English
+    - name: On YouTube (original Spanish audio)
+      url: https://youtu.be/e5AOcPYXZyg
 
 - title: PM-1 Nuclear Power Plant
   naid: 88220 
