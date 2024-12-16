@@ -1,6 +1,6 @@
 <section>
   <section>
-    <h3 >The LWR</h3>
+    <h3>The LWR</h3>
     <h3 class="r-fit-text">BREAKTHROUGH</h3>
     <aside class="notes"></aside>
     <img

@@ -13,12 +13,14 @@
     />
   </section>
 
+<!--  doesn't really flow yet
   <section>
     <h3>Atoms for Peace</h3>
     <img class="r-stretch" src="/img/geneva-reactor-people2.jpg" alt="A reactor in Geneva"/>
     <p class="small">We flew a reactor to Geneva</p>
     <aside class="notes"></aside>
   </section>
+-->
 
   <section>
     <h3>Shippingport</h3>
@@ -170,11 +172,13 @@
       <div class="col-8">
         <ul>
           <li>Municipal reactor in tiny town</li>
+          <li>Reached full power in June 1964</li>
           <li>Town initially hyped about it: dubbed itself the Atomic City</li>
-          <li>Another promising concept: low pressure, high temperature</li>
+          <li>Another promising concept: low pressure, low activation, low corrosion</li>
           <li>Lots of operational and reliability challenges</li>
           <li>Town declined option to purchase</li>
           <li>Shut down early</li>
+          <li><a href="https://digital.library.unt.edu/ark:/67531/metadc860838/">Operational history available</a></li>
           </ul>
       </div>
       <div class="col-4">
@@ -205,6 +209,28 @@
   </section>
 
   <section>
+    <h3>BONUS Superheat BWR near Rincón, Puerto Rico</h3>
+    <div class="row">
+      <div class="col-6">
+        <ul>
+          <li>Advanced BWR: Increased thermal efficiency</li>
+          <li>Allowed use of off-the-shelf turbine</li>
+          <li>Increased corrosion and fuel failures</li>
+          <li>Costly repairs and modifications</li>
+          <li>Technical difficulties led to shut down in 1968</li>
+          <li><a href="{% link
+          _news/2023-09-19-film-about-bonus-reactor-in-puerto-rico.md
+          %}">Digitized film on Youtube</a></li>
+          </ul>
+      </div>
+      <div class="col-6">
+        <img class="img img-fluid" data-src="/img/bonus-01.jpg" />
+      </div>
+    </div>
+    <aside class="notes"></aside>
+  </section>
+
+  <section>
     <h3>Carolinas-Virginia Tube Reactor (CVTR) in Parr, SC</h3>
     <div class="row">
       <div class="col-6">
@@ -225,28 +251,6 @@
       <div class="col-6">
         <img class="img img-fluid" data-src="/img/cvtr_site.jpg" />
         <p>Co-located coal, hydro, and nuclear, thought to be unique worldwide.</p>
-      </div>
-    </div>
-    <aside class="notes"></aside>
-  </section>
-
-  <section>
-    <h3>BONUS Superheat BWR near Rincón, Puerto Rico</h3>
-    <div class="row">
-      <div class="col-6">
-        <ul>
-          <li>Advanced BWR: Increased thermal efficiency</li>
-          <li>Allowed use of off-the-shelf turbine</li>
-          <li>Increased corrosion and fuel failures</li>
-          <li>Costly repairs and modifications</li>
-          <li>Technical difficulties led to shut down in 1968</li>
-          <li><a href="{% link
-          _news/2023-09-19-film-about-bonus-reactor-in-puerto-rico.md
-          %}">Digitized film on Youtube</a></li>
-          </ul>
-      </div>
-      <div class="col-6">
-        <img class="img img-fluid" data-src="/img/bonus-01.jpg" />
       </div>
     </div>
     <aside class="notes"></aside>

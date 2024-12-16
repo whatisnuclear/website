@@ -92,6 +92,7 @@
     <aside class="notes"></aside>
   </section>
 
+<!--  not really needed since next four slides do their own work. Remove to speed up talk
 <section markdown="1">
 ### Four Foundational Power Reactors
 
@@ -106,6 +107,7 @@ Proposed in 1947 to be completed in the early 1950s.
 
 <aside class="notes"></aside>
 </section>
+-->
 
   <section>
     <h3>The Experimental Breeder Reactor (EBR-1)</h3>
@@ -166,6 +168,7 @@ ORNL</a>)</p>
     <aside class="notes"></aside>
   </section>
 
+<!-- Not all that interesting, though nice pics
   <section>
     <h3>MTR Fuel Fab for Mockup</h3>
     <div class="row">
@@ -181,9 +184,10 @@ ORNL</a>)</p>
       </div>
     </div>
     <p class="small">Fuel for the MTR mockup (<a
-    href="https://doi.org/10.2172/4346760">AEC</a>)</p> 
+    href="https://doi.org/10.2172/4346760">AEC</a>)</p>
     <aside class="notes"></aside>
   </section>
+-->
 
   <section>
     <h3>Rickover and the Nuclear Navy</h3>
@@ -205,7 +209,8 @@ ORNL</a>)</p>
         <img
           class="img img-fluid"
           title="Rickover"
-          data-src="/img/rickover-1955.jpg"
+          style="max-width: 70%"
+          data-src="/img/rickover-1955_lg.jpg"
         />
     <p class="small">Admiral Rickover, 1955</p> 
       </div>
@@ -341,6 +346,21 @@ Intended to power remote areas
       <div class="col-6">
         <img class="img img-fluid" data-src="/img/pm1/pm1-12.jpg" alt="PM-1 being loaded onto a C-130"/>
         <p class="small">PM-1 being sent to Wyoming</p>
+      </div>
+    </div>
+    <aside class="notes"></aside>
+  </section>
+
+  <section>
+    <h3>Oft-forgotten shielding challenges</h3>
+    <div class="row">
+      <div class="col-6">
+        <img class="img img-fluid" data-src="/img-slide/ml1-truck.jpg" alt="ML-1 on truck"/>
+        <p class="small">Actual ML-1 reactor on trailer (<a href="https://doi.org/10.2172/12029770">ML-1 Reactor Relocation</a>)</p>
+      </div>
+      <div class="col-6">
+        <img class="img img-fluid" style="max-width: 70%" data-src="/img-slide/ml1-dose-shutdown.jpg" alt="ML-1 dose rates"/>
+        <p class="small">Dose rate map 10 days after shutdown</p>
       </div>
     </div>
     <aside class="notes"></aside>

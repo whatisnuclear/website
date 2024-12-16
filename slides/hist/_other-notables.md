@@ -1,6 +1,6 @@
 <section>
   <section>
-    <h3 >A few other</h3>
+    <h3>A few other</h3>
     <h3 class="r-fit-text">NOTABLE REACTORS</h3>
     <aside class="notes"></aside>
     <img
@@ -40,6 +40,7 @@
     <aside class="notes"></aside>
   </section>
 
+<!--  Not needed
   <section>
     <h3>Soviet Submarine K-27</h3>
     <div class="row">
@@ -100,6 +101,7 @@
     </div>
     <aside class="notes"></aside>
   </section>
+-->
 
   <section>
     <h3>SNAP-10A</h3>

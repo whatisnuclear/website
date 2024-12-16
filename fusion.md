@@ -31,11 +31,13 @@ environment, but so far we've had to input more energy to push them than we get 
 
 ## How to control fusion
 
-To get practical fusion, you need three things:
+To get practical fusion, you need five things:
 
 - high temperature (so collisions can overcome the electrostatic repulsion),
-- high density (so there are lots of collisions), and
-- long duration (so there are lots of collision)
+- high (enough) plasma density (so there are lots of fusions but not too many electrons to slow you down), and
+- self-sustaining processes (energy from fusion must outweigh energy radiated as loss)
+- high plasma purity (so high-Z materials don't cause losses)
+- adequate confinement of the plasma (so there are lots of collision)
 
 There are three fundamental ways people have tried to do this:
 
@@ -52,15 +54,16 @@ We're very close to achieving _breakeven_, which is when we get more energy out 
 than we put in. Indeed, the massive international project ITER is intended to prove that this is
 possible.
 
-The challenge then becomes how to make practical power plants from breakeven fusion. ITER
-uses lots of very expensive rare-earth magnets and special materials that don't necessarily scale
-well so the next generation of fusion research will be on developing this practical engineering
-embodiment. Fortunately, this is being worked on by dozens of groups around the world, including
-some well-funded startups.
+The challenge then becomes how to make practical/economical power plants from
+breakeven fusion. ITER uses lots of very expensive rare-earth magnets and
+special materials that don't necessarily scale well so the next generation of
+fusion research will be on developing this practical engineering embodiment.
+Fortunately, this is being worked on by dozens of groups around the world,
+including some well-funded startups.
 
-In 2017, international nuclear engineering superstar, Professor Rachel Slaybaugh moderated a panel
-featuring several people involved in fusion development at Stanford. The full talk is very
-interesting and can be seen here:
+In 2017, international nuclear engineering superstar, Professor Rachel Slaybaugh
+moderated a panel featuring several people involved in fusion development at
+Stanford. The full talk is very interesting and can be seen here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwUVcPlkQsI" 
 allow="autoplay; encrypted-media" allowfullscreen></iframe>

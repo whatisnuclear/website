@@ -25,6 +25,7 @@ image: /img/slides-history-blank.png
 <!-- prettier-ignore -->
 {% include_relative _reactor-types.html %}
 {% include_relative hist/_early-reactors.md %}
+{% include_relative hist/_early-fusion-experiments.md %}
 {% include_relative hist/_critical-assemblies.html %}
 {% include_relative hist/_reactor-experiments.html %}
 {% include_relative hist/_power-demonstration.md %}
