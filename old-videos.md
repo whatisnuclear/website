@@ -39,7 +39,7 @@ and/or [contact us]({% link contact.md %})!
 <div class="col-md-6" markdown="1">
 The summary data comes from various catalogs, such as:
 
-- [Energy Video Catalog (ERDA 1975)](https://www.google.com/books/edition/Energy_Films_Catalog/8CKtsJ7XNwcC?hl=en&gbpv=1&dq=%22ATOM+AND+THE+MAN+ON+THE+MOON%22&pg=PA14&printsec=frontcover)
+- [Energy Video Catalog (ERDA 1976)](https://www.google.com/books/edition/Energy_Films_Catalog/8CKtsJ7XNwcC?hl=en&gbpv=1&dq=%22ATOM+AND+THE+MAN+ON+THE+MOON%22&pg=PA14&printsec=frontcover)
 - [AEC 1966-67 directory](https://archive.org/details/combined16mmfilm00usatrich/page/ii/mode/2up)
 - [1928-1998 catalog from IAEA](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
 - [AEC 1972 Combined Catalog](https://www.google.com/books/edition/Combined_Film_Catalog/Tw0JAQAAMAAJ?hl=en&gbpv=1)

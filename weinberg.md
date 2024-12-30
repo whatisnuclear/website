@@ -285,7 +285,7 @@ Enrico Fermi
 - 85 - LITR was first observation of Cerenkov radiation. They sent a photo to
   Scientific American and the AEC freaked in a "brouhaha". Haha. It was on the
   [October 1951
-  cover.](https://www.scientificamerican.com/magazine/sa/1951/10-01/)
+  cover.](https://www.scientificamerican.com/issue/sa/1951/10-01/)
   <figure>
   <a href="/img/litr-sa-cover.jpg"><img src="/img/litr-sa-cover.jpg" alt="The Scientific American cover showing LITR Cerenkov radiation" class="img img-fluid center-block" width="200"></a>
    <figcaption>The Scientific American cover showing LITR Cerenkov radiation</figcaption>

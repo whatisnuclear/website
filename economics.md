@@ -104,7 +104,7 @@ retrofits were added to the fleet. The retrofits included the following<sup>1</s
   redundancy in safety-related instrumentation/control cables was required, and they needed
   3-hour firewalls be installed between them.
 - The [BWR Mark I
-  containment](http://files.gereports.com/wp-content/uploads/2011/10/NEI-Mark-1-White-Paper.pdf) was reinforced
+  containment](https://www.scribd.com/document/51168810/White-Paper-on-Mark-I-Containment) was reinforced
 - BWR recirculation pipes were repaired after the [discovery of intergranular corrosion
   cracking](https://www.nrc.gov/docs/ML0037/ML003719804.pdf)
 - PWR [steam generators required

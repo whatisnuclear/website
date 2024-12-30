@@ -77,6 +77,7 @@ This digitization was sponsored by me.
 
 ## Additional NRX Links
 
+- [Gray, Reconstruction of the NRX Reactor at Chalk River, September 1953](https://archive.org/details/transactionsofen36engi/page/1269/mode/1up)
 - [AECL, The accident to the NRX reactor on December 12, 1952](https://www.osti.gov/biblio/4379334)
 - [Cross, THE CHALK RIVER ACCIDENT IN 1952](https://www.nuclearfaq.ca/The_CR_Accident_in_1952_WG_Cross1980.pdf)
 - [Mummah, President Jimmy Carter and a Canadian nuclear meltdown, 2021](https://medium.com/generation-atomic/president-jimmy-carter-and-a-canadian-nuclear-meltdown-47c8a5b8989c)

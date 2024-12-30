@@ -17,16 +17,16 @@
     are shown at the Center's reactor and laboratories located on the campus of
     the University of Puerto Rico's College of Agriculture and Engineering, and
     aboard the Center's oceanographic ship.
-  notes: 
+  notes:
   priority: 3
-  links: 
+  links:
 
 - title: ATOMS ON THE FARM
   naid: 88122
   date: 1961
   length: 12
   color: true
-  description: > 
+  description: >
     This nontechnical film, suitable for all audience levels,
     summarizes the nature of the USAEC exhibit on atomic energy in agriculture at
     the first World Agricultural Fair, New Delhi, during the winter 1959-60.
@@ -35,23 +35,23 @@
     featuring radioactive tracers in agricultural research, plant mutations by
     gamma irradiation, atomic energy work in medicine, screwworm fly eradication,
     food sterilization by irradiation, etc.
-  notes: 
+  notes:
   priority: 3
-  links: 
-  
+  links:
+
 - title: FULL SPEED AHEAD
-  naid: 61220 
+  naid: 61220
   date: 1958
   length: 15
   color: true
-  description: > 
+  description: >
     A nontechnical film for intermediate through college-level audiences. It
     depicts the initial stages in the development of the first U. S. nuclear-
     powered merchant ship, the N.S. Savannah. Included are the industrial and
     technical procedures in building and testing the reactor, surveying harbors,
     and laying the keel.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Bo14h9_DKVY
 
@@ -61,7 +61,7 @@
   length: 28.5
   color: true
   resolution: 4K
-  description: > 
+  description: >
     This nontechnical, documentary film, for junior-high-school through
     college-level audiences, covers the historical background, and the design,
     construction, sea trials, and initial port calls of the N.S. Savannah, the
@@ -84,14 +84,13 @@
     power for world trade to benefit all mankind.
   win: true
   image: /img/savannah-03.jpg
-  resolution: 4K
-  links: 
+  links:
     - name: Our announcement page
       url: /news/2023-07-12-the-nuclear-ship-savannah-film-digitized.html
     - name: On YouTube!
       url: https://www.youtube.com/watch?v=SA8W2Xpz2hA
       notes: Thanks to Ross Koningstein for help
-    - name: Related NARA file 88200 
+    - name: Related NARA file 88200
       url: https://catalog.archives.gov/id/88200
       notes: This is the shorter version
 
@@ -100,15 +99,15 @@
   date: 1960
   length: 20
   color: true
-  description: > 
+  description: >
     This is a nontechnical film for intermediate through college-level audiences.
     It traces the design and construction of the first U. S. nuclear-powered
     merchant ship, the N.S. Savannah; its hull design and assembly; the design,
     testing, and fabrication of the nuclear power plant; critical assembly used in
     core design; fuel element fabrication; erection of the reactor system's
     containment vessel; safety features; christening and launching.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=vpmjK9EpPWA
 
@@ -122,7 +121,7 @@
     Manufacture, test, assembly. Boiling water reactors for ship propulsion.
     Controls. Propulsion gear manufacture. Balancing. Hobbing gears. Assembly at
     the shipyard. Cargo winches.
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Rl40efJCRhc
       notes: Digitized by miSci, Schenectady, NY
@@ -134,7 +133,7 @@
   notes: Note duplicate titles. This is not AVN 0649 from IAEA catalog either.
   description: >
     A discussion of the future Dresden nuclear power facility, led by Don Herbert.
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=nPH6Ert2USc
       notes: Digitized by miSci, Schenectady, NY
@@ -158,11 +157,10 @@
     (U-238 or Thorium), resulting in a fissionable material. This takes place in
     all reactors, but process is accelerated in a breeder reactor, which produces
     more fuel than it uses. Produced in co-operation with Niagara Mohawk.
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=dM9Wn7HN2VI
       notes: Digitized by miSci, Schenectady, NY
-
 
 - title: Cask Test
   date: 1978
@@ -174,7 +172,7 @@
     broadsides truck carrying container; rail car impacts concrete block wall) and
     test for survival after fire.  Involves collisions with rocket propelled
     trains for that classic "mythbusters" feel.
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Bu1YFshFuI4
       notes: Digitized by miSci, Schenectady, NY
@@ -206,7 +204,7 @@
     illustrate the process by which the energy within the atom is released
     through nuclear fission and the means of controlling this energy to supply
     power to a peacetime world."
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=4Ng-oHp7wQY
       notes: Digitized by miSci, Schenectady, NY
@@ -216,7 +214,7 @@
   date: 1959
   length: 25
   color: false
-  description: > 
+  description: >
     This is a nontechnical film for intermediate through college-level audiences.
     It summarizes activities of both the government and private industry in the
     program for the development of economic production of electric power with
@@ -224,10 +222,10 @@
     animation and live action explains six important nuclear power projects. It
     outlines industry's contributions and the sharing of technical know-how
     overseas through the Atoms for Peace Program.
-  notes: 
+  notes:
   win: true
   image: /img/vids/atom_usa/434_48_usa-15.jpg
-  links: 
+  links:
     - url: /news/2024-03-16-six-early-nuclear-films.html#atomic-power-and-the-united-states-1957
       name: Our announcement page
     - url: https://www.youtube.com/watch?v=Zukgzn47_ec
@@ -258,20 +256,20 @@
       url: https://www.youtube.com/watch?v=HPWDMHH4rY4
     - name: Some discussion
       url: https://www.ans.org/news/article-113/the-us-armys-nuclear-power-program-in-film/
-  
+
 - title: Dresden Atomic Power Station
   date: 1958
   naid: 88138
   iaea: AVN0011
   length: 14
   color: true
-  description: > 
+  description: >
     Construction and design features of the 180MW plant. Film made before 1960
     completion date. Duration 9:15.  In a trailer, Ernie Tetrault of WRGB narrates
     film on some of the plant components such as pressure vessel, steam turbine,
     fuel elements.
   notes: Possibly mislabeled as Dresden Nuclear Power Station at NARA?
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=02wIGsI2P9Y
       notes: Digitized by miSci, Schenectady, NY
@@ -281,7 +279,7 @@
   date: 1961
   length: 23.5
   color: true
-  description: > 
+  description: >
     This semitechnical film, which is a sequel to the 1958 film "Dresden Nuclear
     Power Station," covers the design and development of a large dual-cycle
     boiling-water reactor the 180,000-kw Dresden Nuclear Power Station built by
@@ -296,8 +294,8 @@
     "going critical." The film also includes scenes relating to development work
     for Dresden carried out at GE's Vallecitos Atomic Laboratory near Pleasanton,
     Calif.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=WmaPc27Avvw
       notes: Digitized by miSci, Schenectady, NY
@@ -318,7 +316,7 @@
     replaced every 13 months. Overhaul of main coolant pumps, repacking of all
     valves. Disassembly of 666,000 hp turbine. Disassembly and inspection of
     generator, main fuel pumps and condensate pumps. Startup May 1971.
-  links: 
+  links:
     - name: On Youtube
       url: https://www.youtube.com/watch?v=UQrfL0w3aA0
       notes: Digitized by miSci, Schenectady, NY
@@ -333,11 +331,10 @@
     Commercial for Nuclear Energy Products Division. Shows manufacturing of fuel
     and absorber rods at Wilmington  N.C. plant.
   notes: Great music
-  links: 
+  links:
     - name: On Youtube
       url: https://www.youtube.com/watch?v=b25VOuTMqXs
       notes: Digitized by miSci, Schenectady, NY
-
 
 - title: Vallecitos Boiling Water Reactor
   date: 1958
@@ -356,24 +353,22 @@
     - name: Related Vallecitos dedication video from 1957
       url: https://www.youtube.com/watch?v=A1O8xAB_FDI
 
-
-
 - title: "BORAX: Construction and Operation of a Boiling Water Reactor"
   naid: 88125
   date: 1955
   length: 14
   color: false
-  description: > 
+  description: >
     This nontechnical film for intermediate through college-level audiences,
     shows the equipping of a reactor with an electrical generating system, and the
     operating of the nuclear power plant to light and power Arco, Idaho, the U. S.
     community first served exclusively by nuclear power, for an hour on July 17,
     1955.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Cdd2BJI836g
-      notes: Digitized by ANL in 240p
+      notes: Digitized by ANL in 240p, and VERY dark. May be worth re-doing.
 
 - title: Hallam Nuclear Power Facility
   naid: 88153
@@ -413,9 +408,8 @@
     Facility which is powered by a 252-megawatt sodium-graphite reactor.
     Demonstrates Hallam's heat transfer cycle and plant operation features,
     including fuel transfer and sodium handling.
-  notes: 
-    Basically a condensed version of 88153
-  links: 
+  notes: Basically a condensed version of 88153
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=H1kazdkkB5o
       notes: Special thanks to NPPD
@@ -449,7 +443,7 @@
   date: 1963
   length: 26
   color: true
-  description: > 
+  description: >
     This semitechnical film states the Army's logistical need for mobile power,
     and shows how that need is partially filled by the design, construction,
     testing and field operation of a new transportable power rector plant, the
@@ -461,18 +455,18 @@
     the operating crews, assembly of the ML-1, checkout and test run, testing of
     the transportability of the system using mock-ups, simulated transportation
     of the ML-1 to the field and its start-up and criticality
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=PPPp5rtu04A
       notes: Digitized with a red tinge
 
 - title: The New Power
-  naid: 88194 
+  naid: 88194
   date: 1965
   length: 45
   color: true
-  description: > 
+  description: >
     This nontechnical film, for all audience levels, tells how the National Reactor
     Testing Station in Idaho is furthering the USAEC's quest for economic nuclear
     power. Most of the more than 40 experimental nuclear reactors built, being
@@ -487,7 +481,7 @@
     explains the basic principles of power reactor construction and operation in an
     animated sequence that is also available as a separate film titled, "Basic
     Principles of Power Reactor Operation.
-  notes:  
+  notes:
   win: true
   resolution: 4K
   links:
@@ -497,17 +491,17 @@
       url: https://www.youtube.com/watch?v=LmdLgYqJLqs
 
 - title: A Breeder in the Desert
-  naid: 88126 
+  naid: 88126
   date: 1965
   length: 29
   color: false
-  description: > 
+  description: >
     Argonne's Experimental Breeder Reactor II at the National
     Reactor Testing Station in Idaho is shown in detail and many of the features
     and operating characteristics of a large scale fast breeder reactor are de
     scribed The EBR-II Fuel Cycle Facility first nuclear fuel reprocessing plant
-    completely integrated with a reactor is shown in operation 
-  notes:  
+    completely integrated with a reactor is shown in operation
+  notes:
   win: false
   links:
     - name: On YouTube
@@ -518,28 +512,27 @@
   date: 1962
   length: 28
   color: false
-  description: > 
+  description: >
     The operation principles and scientific applications of nuclear reactors
     used as research tools in various projects are briefly described Types of
     research that reactors and associated equipment make possible are shown at
     length The Gamma Ray Spectrometer the Neutron Chopper and a new reactor
     designed specifically for high and low radiation experiments in biology are
     also described.  This film provides an in depth description of basic
-    research in the nuclear sciences at ERDA's Argonne National Laboratory 
-  notes: 
+    research in the nuclear sciences at ERDA's Argonne National Laboratory
+  notes:
   links:
     - name: Digitized at Archives
-      url:  https://catalog.archives.gov/id/88103
+      url: https://catalog.archives.gov/id/88103
     - name: On YouTube
-      url: https://www.youtube.com/watch?v=AHXOxHwpwsY 
-
+      url: https://www.youtube.com/watch?v=AHXOxHwpwsY
 
 - title: Nuclear Energy Goes Rural
   naid: 88195
   date: 1963
   length: 14.5
   color: true
-  description: > 
+  description: >
     This film presents the background, planning, and construction of the Elk
     River Reactor for Minnesota's Rural Cooperative Power Association. After
     the rural background and setting are established, the planning of the
@@ -548,14 +541,14 @@
     the hot air heating system used in the home, and the reactor's control rods
     are compared with a thermostat. The reactor control room is shown. A "Scram"
     is explained. Fuel operations are also explained, as well as the air
-    monitoring system. 
-  notes: 
+    monitoring system.
+  notes:
   win: true
   image: /img/vids/rural/boy-and-elk-river.jpg
   links:
     - url: /news/2024-03-16-six-early-nuclear-films.html#nuclear-energy-goes-rural-1963
       name: Our announcement page
-    - name: On YouTube 
+    - name: On YouTube
       notes: Thanks to Last Energy!
       url: https://www.youtube.com/watch?v=Dft1fPWFgD8
   index: >
@@ -570,28 +563,27 @@
     12:51 Containment air
     14:30 Conclusions
 
-
 - title: NUCLEAR REACTORS FOR RESEARCH
   naid: 88197
   date: 1955
   length: 15
   color: true
-  description: > 
+  description: >
     This film explains the basic design of the small homogeneous water-boiler
     reactor type and describes the components and the various steps in the
     construction of a small homogeneous reactor. Operation of the reactor is
     described, and research uses are illustrated.
   notes: NARA version says no sound, but Periscope found sound
-  links: 
+  links:
     - name: Digitized by Periscope
       url: https://www.youtube.com/watch?v=J1CL5GELNW8
 
 - title: THE PIQUA NUCLEAR POWER FACILITY
-  naid: 88218 
+  naid: 88218
   date: 1963
   length: 23
   color: true
-  description: > 
+  description: >
     The Piqua Nuclear Power Facility is the first municipally owned power plant
     using steam produced by a USAEC nuclear reactor. This film gives an animated
     explanation of Piqua's reactor an organic moderated reactor and compares it
@@ -600,43 +592,43 @@
     Organic Moderated Reactor Experiment at the National Reactor Test Station in
     Idaho is shown, as well as of the design and construction of the Piqua
     facility.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube in SD
       url: https://www.youtube.com/watch?v=cH06vZZZSZw
 
 - title: Organic Moderated Reactor Experiment (OMRE)
-  naid: 88405 
+  naid: 88405
   date: 1958
   length: 16
   color: true
   win: true
-  description: > 
+  description: >
     This film presents a pictorial summary of the fabrication and operation of the
     OMRE facility at the USAEC 's National Reactor Testing Station, Idaho, being
     conducted by Atomics International to investigate the use of organic materials
     as a reactor coolant, for transferring heat and for moderating neutrons. The
     film also depicts the technique of melting the organic moderator and methods
     of monitoring.
-  notes: 
+  notes:
   image: /img/vids/omre/omre-10.jpg
-  links: 
+  links:
     - name: Our announcement page
       url: /news/2024-12-13-organic-moderated-reactor-experiment-film.html
     - name: On YouTube in 4K (English audio)
       url: https://www.youtube.com/watch?v=nOkkXlqh9HM
-      notes: > 
+      notes: >
         Thanks to Mikal Bøe for sponsoring, and to Shirly Rodriguez Rojas for
         translating and narrating in English
     - name: On YouTube (original Spanish audio)
       url: https://youtu.be/e5AOcPYXZyg
 
 - title: PM-1 Nuclear Power Plant
-  naid: 88220 
+  naid: 88220
   date: 1962
   length: 20
   color: true
-  description: > 
+  description: >
     A filmed story of the PM-1 nuclear power plant (a pressurized water system), a
     joint project of the USAEC and the U. S. Air Force, which supplies the power
     for the radar and space heating of a remote Air Defense Command radar station
@@ -650,10 +642,10 @@
     determine heat transfer and flow characteristics. The film recounts the
     airlift of the packages, erection and assembly of the power plant, the work to
     achieve criticality, and the varied safety controls.
-  notes: 
+  notes:
   win: true
   resolution: 4K
-  links: 
+  links:
     - name: Our announcement page
       url: /news/2023-07-03-film-about-pm1-microreactor-in-wyoming.html
     - name: On YouTube in 4K
@@ -661,11 +653,11 @@
       notes: Thanks to Ross Koningstein for his help
 
 - title: PM-3A NUCLEAR POWER PLANT ANTARCTICA
-  naid: 88221 
+  naid: 88221
   date: 1963
   length: 20
   color: true
-  description: > 
+  description: >
     This is the semitechnical film-story of the 1500-kilowatt nuclear power
     station built, under contract to USAEC, for operation by the Navy at McMurdo
     Station, Antarctic headquarters for the joint Navy  National Science
@@ -680,8 +672,8 @@
     the States, site preparation by Seabees in the Antarctic, erection and
     testing of the reactor at McMurdo, safety aspects, and achievement of
     criticality.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On Youtube HD
       url: https://www.youtube.com/watch?v=7uJTQ32znKc
     - name: On Youtube SD
@@ -689,13 +681,12 @@
     - name: "Related: Power for Continent Seven"
       url: https://www.youtube.com/watch?v=SSmQ7TUowao
 
-
 - title: Power and Promise (Shippingport)
   naid: 3890916
   date: 1959
   length: 29
   color: true
-  description: > 
+  description: >
     This is a semitechnical film for high-school and college-level audiences.
     It describes the Shippingport Atomic Power Station in Pennsylvania, built to
     advance power reactor technology and demonstrate the practicability of
@@ -705,20 +696,19 @@
     such as pumps, heat exchangers, and the pressure vessel; construction of the
     station; installation of components; and the erection and installation of the
     reactor core.
-  notes: > 
+  notes: >
     Eisenhower uses a nuclear wand to start the Shippingport reactor in this one
     remotely.
-  links: 
+  links:
     - name: On YouTube, digitized by PeriscopeFilm in SD
       url: https://www.youtube.com/watch?v=6hs_S7fUnoY
-
 
 - title: "The Story of Camp Century: City Under the Ice"
   naid: 88263
   date: 1961
   length: 32
   color: true
-  description: > 
+  description: >
     This film concerns the construction by Army Engineers of Camp Century, a
     nuclear-powered U. S. Army Arctic research laboratory buried below the
     Greenland ice cap. Although the film tells the entire story of the planning
@@ -743,19 +733,18 @@
     criticality are shown. Today, powered by its nuclear reactor, the Arctic
     research center is in full operation. (Nontechnical: suitable for high school
     and above.)
-  notes: > 
+  notes: >
     Extremely awesome. Featuring Mukluck the dog.
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=1Ujx_pND9wg
-
 
 - title: "TOMORROW'S POWER --- TODAY"
   naid: 88269
   date: 1964
   length: 5.5
   color: true
-  description: > 
+  description: >
     This nontechnical film, for all audience levels, briefly explains the
     principle of atomic power production, states the need for its continued
     development while showing that it is already in use in many locations across
@@ -766,9 +755,9 @@
     and coal, gas, and oil. The film concludes with a brief survey of
     representative atomic power plants in the United States, noting location and
     kilowatts of electrical power
-  notes: 
+  notes:
   priority: 3
-  links: 
+  links:
 
 - title: "The Magnetic Bottle"
   naid: 88178
@@ -776,16 +765,16 @@
   length: 10
   color: true
   topics: ["Fusion"]
-  description: > 
+  description: >
     This film is a concise summary, for the informed layman, of the United
     States Sherwood Program, for research into controlled nuclear fusion. It
     shows various operating experimental devices, explains their principles
     and the many complex problems involved in possible future development of
     full-scale machines to create unlimited industrial power by controlling a
     continuous fusion process at millions of degrees of temperature.
-  notes: 
+  notes:
   priority: 2
-  links: 
+  links:
 
 - title: To Imitate the Sun
   naid: 88325
@@ -793,28 +782,61 @@
   length: 33
   color: true
   topics: ["Fusion"]
-  priority: 2
+  priority: 1
   description: >
     One of the rarest basic research programs now gripping the minds
     of nuclear physicists the world over is controlled thermonuclear fusion After
     more than a quarter century of research and experiment scientists believe they
     are close to demonstrating the scientific feasibility of the fusion concept. 
-    
+
     This film depicts the theoretical challenge of such controlled fusion and describes
     many of the research machines that are being used to investigate plasmas of
     thermonuclear regimes It also touches upon what environmental and economic 
     advantages may accrue from future fusion power reactors The film also includes
     descriptions of the four major American fusion devices Two X Two Astron Scyllac
     and ORMAK as well as discussions on the modeling of plasmas by such internal
-    ring machines as the DC Octupole and the Spherator 
+    ring machines as the DC Octupole and the Spherator
   notes: This film won many honors at film festivals
+
+- title: To Bottle the Sun
+  date: 1973
+  length: 5.5
+  color: true
+  topics: ["Fusion"]
+  priority: 2
+  catalog: ERDA 1976
+  description: >
+    With coal , gas and oil in limited supply , where will we turn to satisfy our
+    future expanding energy needs?  Some scientists believe it may be the
+    thermonuclear process, called fusion, that powers the sun.  This fusing
+    of atoms releases large amounts of energy.  Scientists at ERDA
+    laboratories and elsewhere in the world are seeking to control the fusion
+    process to generate electricity.  Dr. Robert L. Hirsch, Director of
+    ERDA's Division of Controlled Thermonuclear Research, explains that fusion
+    fuel-a form of hydrogen found in ordinary seawater-is virtually in
+    limitless supply. But there are enormous technical problems yet to overcome.
+    Fusion fuels must be heated to 100-million degrees to form a special kind of
+    gas, called a plasma, so hot that no solid material can contain it.
+    Scientists, therefore, have turned to magnetic fields as the fusion- plasma
+    container. But what bottle shape will be most effective?  Dr. Harold Furth
+    explains that at Princeton University doughnut-shaped magnetic bottles are
+    being studied as a means of avoiding plasma leakage from ends in the effort
+    to eventually develop a power-producing commercial fusion reactor. The
+    film explains that fusion power stations would be safe, environmentally
+    attractive, and could be located in heavily populated urban areas where
+    power needs are the greatest. Dr. Hirsch notes other promising lines of
+    research-for example: laser beams to trigger the fusion reaction without
+    magnetic fields , or direct conversion of plasma energy into electrical
+    energy. But there is much research yet to be done internationally before
+    fusion power can be achieved on a commercial basis, hopefully before the
+    turn of the century.
 
 - title: "Metals Frontier"
   naid: 88187
   date: 1961
   length: 22
   color: true
-  description: > 
+  description: >
     This semitechnical documentary film, a story of teamwork in research, is
     designed for an audience with an appreciable degree of scientific
     sophistication, primarily seniors and graduate students in the physical
@@ -831,14 +853,14 @@
     student fits into the laboratory's research program.
   notes: Reached out to Ames to see if they want to fund digitization
   priority: 3
-  links: 
-  
+  links:
+
 - title: "Of Man and Matter"
   naid: 88205
   date: 1963
   length: 29
   color: true
-  description: > 
+  description: >
     This film describes the design, development and operation of the alternating
     gradient synchrotron (AGS) at Brookhaven National Laboratory, shows the
     various major components of this 33 billion-electron-volt particle
@@ -850,22 +872,22 @@
     lecture, a Brookhaven physicist explains that such gigantic and complex
     machines as the AGS are necessary in order to study the fundamental
     particles and the forces within the atomic nucleus that are the basic
-    components of all existing matter. 
+    components of all existing matter.
   notes: Reached out to BNL to see if they want to fund digitization
   priority: 3
-  links: 
+  links:
 
 - title: The Many Faces of Argonne
   naid: 88183
   date: 1963
   length: 60
   color: true
-  description: > 
+  description: >
     Although the film is about Argonne National Laboratory, it will be useful to
     both technical and nontechnical audiences who wish an interesting survey of
     the objectives, methods, and hardware of the broad range of nuclear research
     conducted by a typical national laboratory of the USAEC.  
-    
+
     With both artistry and clarity, the ANL narrator shows the CP-5 and the
     range of work accomplished with this powerful research reactor. In an ANL
     chemistry laboratory, investigation of atomic forces with "color center"
@@ -878,42 +900,42 @@
     Argonne's efforts in the power reactor field are summarized, using the
     Experimental Breeder Reactor II as an example, with detailed explanation of
     its components, purposes, methods, etc.  
-    
+
     Experiments to learn the effects of radiation on human beings are explained
     studies of the effects of radiation received continually over a lifetime
     (bone-tumor studies); studies of the mutation-producing effects of radiation
     (fruit fly studies, work with dogs, etc.); studies of neonatal rates;
     life-span studies; studies of leukemia; effects of radiation on cells, etc.
-    
+
     The film shows in detail the giant Zero Gradient Synchrotron accelerator or
     "atom-smasher" used to tear apart subatomic particles to study the basic
     nature of matter. Argonne's relation to American universities is outlined,
     with views of the training of foreign students
-  notes: 
+  notes:
   priority: 3
-  links: 
+  links:
 
 - title: ATOMS FOR PEACE
   naid: 88117
   date: 1955
   length: 17
   color: false
-  description: > 
+  description: >
     This nontechnical film, for all audience levels, ties together film footage
     from various sources to cover the entire range of peaceful applications of
     atomic energy in industry, biology, medicine, and agriculture. It outlines
     the potential of nuclear power.
   notes: Video available in NARA
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=_TYXjsP9CiA
 
 - title: A DAWN'S EARLY LIGHT
-  naid: 
+  naid:
   date: 1955
   length: 40
   color: true
-  description: > 
+  description: >
     In this nontechnical film, for all audience levels, Fred McMurray, playing a
     nuclear scientist, explains to his teenage son, concerned over the destructive
     uses of the atom, the various peaceful applications of atomic energy. It also
@@ -921,14 +943,14 @@
     propulsion.
   notes: Produced by Westinghouse. Not in NARA.
   priority: 4
-  links: 
+  links:
 
 - title: MAN AND RADIATION
   naid: 88179
   date: 1963
   length: 28.5
   color: true
-  description: > 
+  description: >
     This popular-level film, suitable for audiences from junior high school
     through college, discusses many aspects of radiation and offers a survey of
     their widespread beneficial applications in medicine, industry, agriculture,
@@ -944,16 +966,16 @@
     highly perishable food as fresh fish, is demonstrated. The production of a new
     material, a wood-plastic alloy, is also shown as one example of current
     research in the beneficial uses of radiation.
-  notes: 
+  notes:
   priority: 3
-  links: 
+  links:
 
 - title: MAN AND THE ATOM
   naid: 88180
   date: 1965
   length: 59
   color: true
-  description: > 
+  description: >
     Designed for high school through college-level audiences, this film surveys
     the role of the USAEC in guiding and supporting the nation's atomic energy
     programs. It reviews many of those programs, including both the peaceful
@@ -989,19 +1011,19 @@
     Glenn T. Seaborg, Chairman of the USAEC, concerning the important future of the
     nation's atomic energy program and the role the atom will play in benefiting
     all mankind.
-  
+
   notes: >
     There are three NAIDs for this one, 88180, 88181, and 88182. It's probably
     on more than one film reel due to length.
   priority: 2
-  links: 
+  links:
 
 - title: THE ATOM AND THE MAN ON THE MOON
   naid: 88295
   date: 1969
   length: 13
   color: true
-  description: > 
+  description: >
     Describes SNAP-27, its mission and its role in the Apollo program. On an early
     Apollo flight, astronauts on the moon will install a small scientific
     laboratory to conduct lunar surface experiments. After they depart for earth,
@@ -1017,13 +1039,13 @@
     to earth, and the temperature and stresses and vibration tests to which SNAP-27 has
     been subjected. Technology developed for SNAP-27 also will be of assistance
     to the aircraft and other industries.
-  
-  notes: 
+
+  notes:
   priority: 3
-  links: 
+  links:
     - name: Description link
       url: https://babel.hathitrust.org/cgi/pt?id=coo.31924004286914&view=1up&seq=29
-    
+
 - title: PROJECT GNOME
   naid: 52213
   date: 1969
@@ -1063,7 +1085,7 @@
     Program and the preliminary results of Project Gnome in the opening and
     closing scenes.
   notes: Lots of Edward Teller talking
-  links: 
+  links:
     - name: On YouTube in 240p
       url: https://www.youtube.com/watch?v=Eo4Ue4VwrUA
 
@@ -1083,8 +1105,8 @@
     staff at work, the test facilities, the blending of graphite and uranium for
     fuel, and construction of the reactor components by contractors. Testing of
     the Kiwi at the Nuclear Rocket Development Station in Nevada is shown
-  notes: 
-  links: 
+  notes:
+  links:
     - name: Digitized by Los Alamos
       url: https://www.youtube.com/watch?v=866C4qKgzeg
 
@@ -1105,10 +1127,10 @@
     permitting machine-harvesting. The film explains simply the theories of
     radiation-induced plant mutations, the methods, and the complexity of the
     long-term work
-  notes: 
+  notes:
   priority: 4
-  links: 
-  
+  links:
+
 - title: Roundup
   naid: 88251
   date: 1960
@@ -1135,15 +1157,15 @@
     sterilized male flies were airdropped on infested areas. Eventually the
     screwworm fly was brought under full control and largely eradicated.
     (Nontechnical: suitable for all audience levels.)
-  notes: 
+  notes:
   win: true
   image: /img/roundup.jpg
   resolution: 4K
-  links: 
+  links:
     - name: Our announcement page
       url: /news/2023-11-09-radioisotope-films-digitized-thanks-to-ans.html#roundup
     - name: On YouTube thanks to ANS!
-      url: https://www.youtube.com/watch?v=QFoOnS6CWSI 
+      url: https://www.youtube.com/watch?v=QFoOnS6CWSI
     - name: "Related: Eradication of the Screwworm (2018)"
       url: https://www.youtube.com/watch?v=AXvObw8yuzs
 
@@ -1201,11 +1223,10 @@
     buoys, navigation beacons, and portable electric-power stations. The film also
     briefly summarizes some of the planned space efforts of the future which will
     use nuclear auxiliary power.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: Digitized by PeriscopeFilm
       url: https://www.youtube.com/watch?v=Q3XbiRrZY1g
-
 
 - title: Nuclear power for space - SNAP-9A
   naid: 88196
@@ -1226,9 +1247,9 @@
     the result of 7 years of research. Safety tests of the isotope capsule,
     including explosion tests, fire tests, impact tests, and re-entry tests are
     shown.
-  notes: 
+  notes:
   priority: 3
-  links: 
+  links:
 
 - title: Nuclear reactors for space
   naid: 88198
@@ -1248,13 +1269,13 @@
     reactor into space. The burnup and dispersal of the reactor during reentry
     into the atmosphere are shown in a detailed animation sequence. Many
     beneficial uses of SNAP in the U. S. national space program are illustrated.
-    notes: 
+    notes:
   priority: 3
   notes: National Archives incorrectly has "reactor" without the plural in the title
-  links: 
+  links:
 
 - title: Our nearest star
-  naid: 88214 
+  naid: 88214
   date: 1961
   length: 12
   color: true
@@ -1268,17 +1289,17 @@
     thermoelectric generator that make up this SNAP system. The film shows the
     Thor-Able-Star gantry at Cape Kennedy as the SNAP unit is mounted on Transit,
     and, when the system is launched, the view is from the blockhouse and the
-    launch pad.  
+    launch pad.
   priority: 4
   notes: Potentially mis-cataloged?
-  links: 
+  links:
     - name: Entry in American Archive of Public Broadcasting
       url: https://americanarchive.org/catalog/cpb-aacip_512-xs5j961d26
     - name: Identically-named film from the same time about the sun?
       url: https://catalog.archives.gov/id/88215
 
 - title: "PAX ATOMIS: SNAP-7 TERRESTRIAL ISOTOPIC POWER SYSTEMS"
-  naid: 88216 
+  naid: 88216
   date: 1965
   length: 25
   color: true
@@ -1292,7 +1313,7 @@
     moving parts. Compacting of Strontium-90 raw material into ceramic titanate
     pellets and encapsulation of the fuel pellets into high strength metal
     containers are illustrated.
-    
+
     Fully shielded Strontium-90 fueled, thermoelectric generators have been placed
     into operational service at remote outposts from north of the Arctic Circle to
     the South Pole. Developed by the U. S. Atomic Energy Commission under the SNAP
@@ -1310,11 +1331,11 @@
     predictions relating to the next generation of Strontium-90 thermoelectric
     power supplies for terrestrial uses.
   priority: 3
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: "POWER FOR PROPULSION"
-  naid: 88222 
+  naid: 88222
   date: 1965
   length: 25
   color: true
@@ -1334,11 +1355,11 @@
     moon, a fly-by of Mercury, then Venus, Mars and beyond for new insights into
     the universe.
   priority: 2
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: "SNAP III OPERATIONAL TESTS"
-  naid:  
+  naid:
   date: 1960
   length: 21.3
   color: true
@@ -1347,14 +1368,14 @@
     acceleration, fire, explosion, land and sea impact, effects of salt water,
     aerodynamic heating, etc.) on the 4-lb SNAP HI isotopic-power unit, which uses
     210 Po to generate more than 3 watts as a source of auxiliary power for space
-    vehicles. Conclusion: SNAP HI will operate effectively on launch and in orbit. 
-  notes: 
-  links: 
+    vehicles. Conclusion: SNAP HI will operate effectively on launch and in orbit.
+  notes:
+  links:
     - name: Digitized by the Cape Canaveral Space Force Museum
       url: https://www.youtube.com/watch?v=iUZDVeA-ewU
 
 - title: "SNAPSHOT"
-  naid:  
+  naid:
   date: 1965
   length: 29
   color: true
@@ -1377,14 +1398,14 @@
     summarized. This series of tests duplicated the environments the flight
     system will endure through factory assembly, shipping, launch, and orbit
     operation. The film explains the need for SNAP reactor power systems in
-    current and future space projects. 
-  notes: 
-  links: 
+    current and future space projects.
+  notes:
+  links:
     - name: In the Nuclear Vault
       url: https://www.youtube.com/watch?v=u9jI1Hdl5Yw
 
 - title: "Bikini Radiobiological Laboratory"
-  naid: 88124 
+  naid: 88124
   date: 1949
   length: 22
   color: true
@@ -1393,15 +1414,14 @@
     explains studies of effects of radioactivity from the 1946 atomic tests at
     Bikini Atoll, on plants and marine life in the area three years later.
   notes: Features many scientists from the University of Washington
-  links: 
-    - name: Digitized at the National Archives 
+  links:
+    - name: Digitized at the National Archives
       url: https://catalog.archives.gov/id/88124
     - name: In the Nuclear Vault
       url: https://www.youtube.com/watch?v=j7K-fArwVGY
 
-
 - title: "RADIATION IN BIOLOGY: AN INTRODUCTION"
-  naid:  88234
+  naid: 88234
   date: 1962
   length: 13.5
   color: true
@@ -1425,11 +1445,11 @@
     Research at USAEC's Argonne National Laboratory (ANL), and photographed at
     ANL.
   priority: 4
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: "Atomic Weatherman: Strontium-90 Isotopic Applications"
-  naid:  88113
+  naid: 88113
   date: 1961
   length: 18.5
   color: true
@@ -1451,15 +1471,15 @@
     radioisotopes, such as 90 Sr; and the development of 90 Sr thermoelectric
     sources for unique small-scale power applications. Brief information is also
     given on other applications of Sr-90 thermoelectric devices.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: Archives download link
       url: https://catalog.archives.gov/id/88113
     - name: Also on Youtube
       url: https://www.youtube.com/watch?v=wddVPXOU2KU
 
 - title: "The Atom and Industry"
-  naid: 102036500 
+  naid: 102036500
   date: 1953
   length: 10
   color: false
@@ -1467,13 +1487,13 @@
     This is a nontechnical film, for intermediate through college-level audiences,
     describing the use of radioisotope tracers in industry for gauging thickness,
     testing engine wear, monitoring oil in pipelines, etc
-  notes: 
-  links: 
+  notes:
+  links:
     - name: on Youtube
-      url: https://www.youtube.com/watch?v=GjmeYc_Ze54 
+      url: https://www.youtube.com/watch?v=GjmeYc_Ze54
 
 - title: "Gauging Thickness with Radioisotopes"
-  naid: 88391 
+  naid: 88391
   date: 1958
   length: 4.5
   color: false
@@ -1482,11 +1502,11 @@
     briefly how beta gauges are used for precise measurement and control of
     feed-back apparatus in steel, plastic, rubber, and paper manufacturing
   priority: 4
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: "INDUSTRIAL APPLICATIONS OF RADIOISOTOPES"
-  naid: 88165 
+  naid: 88165
   date: 1961
   length: 57
   color: true
@@ -1506,11 +1526,11 @@
     versatility, economy, and ease with which radioisotope techniques can be
     adapted to plant requirements
   priority: 3
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: "OPPORTUNITY UNLIMITED: FRIENDLY ATOMS IN INDUSTRY"
-  naid: 1157938 
+  naid: 1157938
   date: 1962
   length: 28
   color: true
@@ -1534,11 +1554,11 @@
     explained for engine-wear studies, product movement in oil pipelines, leak
     detection in pipelines, etc.  status: Not digitized
   priority: 3
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: "Radioisotopes: Safe Servants of Industry"
-  naid: 88238 
+  naid: 88238
   date: 1963
   length: 28
   color: true
@@ -1549,18 +1569,18 @@
     Applications of these principles are shown in various processes in the
     food industry, automotive research, road construction, heavy industry, oil
     refining and shipping, and system troubleshooting.
-  notes: 
+  notes:
   win: true
   resolution: 4K
   image: /img/radioisotopes-film.jpg
-  links: 
+  links:
     - name: Our announcement page
       url: /news/2023-11-09-radioisotope-films-digitized-thanks-to-ans.html#radioisotopes
     - name: Digitized thanks to ANS!
       url: https://www.youtube.com/watch?v=_4phBVVWRfQ
 
 - title: "Atoms at Work: The Latin American Exhibit"
-  naid: 88116 
+  naid: 88116
   date: 1961
   length: 14
   color: true
@@ -1577,8 +1597,8 @@
     agricultural exhibit, the medical exhibit, the health and safety exhibit,
     the gamma tank, and the nuclear-research test reactor. (Nontechnical:
     suitable for all audience levels.)
-  notes: 
-  links: 
+  notes:
+  links:
     - name: Digitized at the National Archives
       url: https://catalog.archives.gov/id/88116
     - name: Also on Youtube
@@ -1587,7 +1607,7 @@
       url: https://www.youtube.com/watch?v=9YsQHECOzQ8
 
 - title: "Atoms for Peace: Geneva 1958"
-  naid: 53012 
+  naid: 53012
   date: 1959
   length: 15
   color: false
@@ -1603,16 +1623,15 @@
     with full-scale scientific devices in operation which covered four major
     areas: Physical Sciences, Reactor Sciences and Technology, Life Sciences,
     and Controlled Thermonuclear Research.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: Digitized at the UN
       url: https://www.unmultimedia.org/avlibrary/asset/2187/2187987/
     - name: Also on Youtube
       url: https://www.youtube.com/watch?v=xqQ0c6UAsMk
-      
 
 - title: "Remote Repair and Modification of the HRE-2 Core Vessel"
-  naid: 88244 
+  naid: 88244
   date: 1961
   length: 20
   color: true
@@ -1623,10 +1642,10 @@
     for repairing the HRE-2, and the problems involved in working with the reactor
     where the radiation level in the vessel was greater than 100,000 Roentgen per
     hour.
-  notes: 
+  notes:
   win: true
   resolution: 4K
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=Dc2VZav17Ag
     - name: Our announcement page
@@ -1634,9 +1653,9 @@
     - name: ORNL-2886
       url: https://www.osti.gov/biblio/4158813
       notes: Document describing the process
-      
+
 - title: "Power Reactors USA"
-  naid: 88224 
+  naid: 88224
   iaea: AVN0046
   date: 1958
   length: 51
@@ -1650,15 +1669,15 @@
     moderated reactor experiment, experimental breeder reactor 1, and homogenous
     reactor experiments 1 and 2.
   notes: Possibly mis-cataloged at NARA as 1964? and in IAEA catalog as 15 mins instead of 51?
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=fF1Z9YmWgJE
       notes: Re-hosted from US Army site
     - name: US Army Corps of Engineers Digital Library
       url: https://usace.contentdm.oclc.org/digital/collection/p16021coll1/id/101/rec/5
-      
+
 - title: "Army Package Power Reactor"
-  naid: 88093 
+  naid: 88093
   date: 1957
   length: 25.5
   color: true
@@ -1667,13 +1686,13 @@
     documents the inception, design, construction, initial operation, and
     dedication of the APPR-1, a prototype reactor utilizing components all
     transportable by air. Animation is used to illustrate its operation.
-  notes: 
+  notes:
   win: true
   image: /img/vids/army/434_18_army-20.jpg
-  links: 
+  links:
     - url: /news/2024-03-16-six-early-nuclear-films.html#army-package-power-reactor-1957
       name: Our announcement page
-    - name: On YouTube 
+    - name: On YouTube
       url: https://www.youtube.com/watch?v=4NH2AUAnzf8
       notes: Thanks to Last Energy!
     - name: Related short clip
@@ -1708,14 +1727,13 @@
     A technical account of the construction of the first atomic power station in
     the Federal Republic of Germany at Kahl.
   notes: In IAEA catalog.
-  links: 
-    - name: IMDB 
+  links:
+    - name: IMDB
       url: https://www.imdb.com/title/tt0934376/
-    - name: German Wikipedia 
+    - name: German Wikipedia
       url: https://de.wikipedia.org/wiki/Kahl_(Dokumentarfilm)
     - name: Mubi
       url: https://mubi.com/en/us/films/kahl
-
 
 - title: BONUS for Puerto Rico
   naid: 46354
@@ -1735,7 +1753,7 @@
   win: true
   resolution: 4K
   image: /img/bonus-02.jpg
-  links: 
+  links:
     - name: Our announcement page
       url: /news/2023-09-19-film-about-bonus-reactor-in-puerto-rico.html
     - name: On YouTube!
@@ -1756,7 +1774,7 @@
     will not only purify water but will also produce large amounts of electric
     power simultaneously
   notes: In IAEA catalog
-  links: 
+  links:
     - name: On YouTube!
       url: https://www.youtube.com/watch?v=0KeclXO9kXY
       notes: Uploaded 4 days before I made this DB entry... eerie!
@@ -1778,11 +1796,11 @@
     describes its superior characteristics and woodworking properties in
     comparison to plain wood.
   notes: Sounds kind of like those new timber buildings. In IAEA catalog.
-  links: 
+  links:
   priority: 2
 
 - title: Douglas Point - Nuclear Power Station
-  naid: 
+  naid:
   iaea: AVN0490
   date: 1968
   length: 26
@@ -1790,9 +1808,9 @@
   description: >
     This film describes the construction of the Douglas Point Reactor. Douglas
     point is 120 miles north-west of the city of Toronto and this CANDU (Canadian
-    Deuterium) reactor is the first full scale nuclear power station in Canada 
+    Deuterium) reactor is the first full scale nuclear power station in Canada
   notes: In IAEA catalog
-  links: 
+  links:
     - name: On YouTube!
       url: https://www.youtube.com/watch?v=dk-3X7hTJKA
 
@@ -1828,7 +1846,7 @@
     safety containment, and the fuel system.
   notes: In IAEA catalog
   priority: 2
-  links: 
+  links:
     - name: 1 minute clip
       url: https://www.ardmediathek.de/video/berichte-vom-tage/atomschiff-otto-hahn-vor-dem-stapellauf-stumm/ndr/Y3JpZDovL25kci5kZS9lYTQ2YjBiOS05YmRhLTQ1N2EtYjNmZi1mMDlkOTIyMzhmODc
 
@@ -1848,7 +1866,7 @@
     atomic energy are summarized
   notes: In IAEA catalog
   priority: 2
-  links: 
+  links:
     - name: Digitized in low res
       url: https://footagefarm.com/reel-details/science/chemistry/miracle-in-the-desert---the-story-of-hanford-r1-of-3
 
@@ -1879,7 +1897,7 @@
     Description of the construction and operation of Big Rock Nuclear Power Plant in Charlevoix, MI
     from Consumers Energy. Narrated by Ronald Reagan.
   notes: Not in National Archives
-  links: 
+  links:
     - name: Digitized by Periscope Film
       url: https://www.youtube.com/watch?v=YSMIoXzkSZA
 
@@ -1897,10 +1915,10 @@
     pictured and described; composition of fuel elements, core assembly, and
     methods of exposing samples are explained by animation.
   notes: This was a HEU swimming-pool type research reactor
-  links: 
+  links:
     - name: Our announcement
       url: /news/2024-04-07-naval-research-laboratory-reactor-1985.html
-    - name: On YouTube 
+    - name: On YouTube
       url: https://www.youtube.com/watch?v=QTNheyTXpII
       notes: "Thanks to Last Energy!"
     - name: Possibly related NAID 74963
@@ -1919,8 +1937,8 @@
     immunizing response. In an experiment, the procedures of the irradiation of
     rabbits with x-rays and their examination for the presence of antibodies is
     shown, and conclusions are discussed
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: Practice of Radiological Safety
   naid: 88226
@@ -1935,8 +1953,8 @@
     preparation of therapeutic doses; need for, and function of, a local
     radioisotope committee; laboratory design; decontamination; use of
     shielding; measurement of personnel exposure.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: Was part of Professional Medical Film
       url: https://en.wikipedia.org/wiki/Professional_Medical_Film
 
@@ -1953,11 +1971,11 @@
     deck, radiation control post, etc. The maiden trip on the icebreaker in the
     Baltic is shown.
   notes: No idea where to find a copy
-  links: 
+  links:
 
 - title: Sodium Reactor Experiment Construction
   naid: 88259
-  iaea: 
+  iaea:
   date: 1958
   length: 24.5
   resolution: 480
@@ -1973,14 +1991,14 @@
   notes: >
     Not yet found in catalogs. Note that this reactor had a meltdown. This
     was the prototype for the larger Hallam SGR.
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=nwiYB0aW5ds
       notes: Low-res, some gaps
 
 - title: Novel Methods of Fuel Fabrication
   naid: 88404
-  iaea: 
+  iaea:
   date: 1958
   length: 13.5
   color: true
@@ -1993,7 +2011,7 @@
     reactive metals is described. Also covered is swaging, a process that has
     proved to be satisfactory in fabricating clad uranium oxide fuel elements by
     direct compaction of loose powder.
-  notes: 
+  notes:
   priority: 3
 
 - title: Plutonium Metal Preparation
@@ -2011,12 +2029,11 @@
     The isolated plutonium is used for metallurgical and pyrometallurgical
     research, for fuel alloy development, and for reactor and critical assembly
     elements.
-  notes: 
+  notes:
   resolution: 1440
   links:
     - name: On YouTube!
       url: https://www.youtube.com/watch?v=tBlqv2AcpQI
-
 
 - title: Fast Reactor Development
   naid: 88144
@@ -2031,10 +2048,10 @@
     Along with the design features of both facilities, the film ells about the
     experiences with fuel handling, sodium components, and reactor operation. A
     brief history includes EBR-I and the potential of fast breeder reactors in
-    the nuclear power economy. 
-  notes: 
+    the nuclear power economy.
+  notes:
   priority: 2
-  links: 
+  links:
     - name: "Probably related to: The Fast Reactor Program (88145)"
       url: https://www.youtube.com/watch?v=tDMSCnRxtgM
 
@@ -2052,8 +2069,13 @@
     atmosphere. The manufacture of experimental reactor fuel pins containing
     plutonium is illustrated step-by-step
   notes: Nowadays ANL calls hydrogen the fuel of the future...
-  priority: 2
-  links: 
+  links:
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=93EfPKg0ueA
+      notes: Derived from IU version
+    - name: Digitized in pieces at Indiana University
+      url: https://media.dlib.indiana.edu/media_objects/79408h99d
+      notes: Needs audio/video to be combined
 
 - title: The International Atom
   naid: 88168
@@ -2072,14 +2094,14 @@
   notes: >
     Won 'Blue Ribbon Award' at the American Film Festival, New York, 1961 - best
     film in the popular science group
-  links: 
+  links:
     - name: Digitized at NARA?
       url: https://catalog.archives.gov/id/88168
       notes: Hmm but the video is just all blank! Maybe needs rescan?
 
 - title: KINETIC EXPERIMENT ON WATER BOILERS
   naid: 88173
-  iaea: 
+  iaea:
   date: 1958
   length: 15
   color: true
@@ -2090,12 +2112,12 @@
     dynamic behavior of the homogeneous solution type nuclear reactor,
     demonstrating the inherent safety characteristics of aqueous homogeneous
     reactors in the event of an unforeseen release of large amounts of reactivity.
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: Operating Experience, Indian Point
   naid: 88208
-  iaea: 
+  iaea:
   date: 1964
   length: 10
   color: true
@@ -2111,7 +2133,7 @@
     models, and on- location operational plant scenes.
   notes: A Geneva 1964 film produced by B&W
   image: /img/vids/indianpoint/434_242_indianpoint-02.jpg
-  links: 
+  links:
     - url: /news/2024-03-16-six-early-nuclear-films.html#operating-experience-indian-point-1964
       name: "Our announcement page"
     - url: https://www.youtube.com/watch?v=1sWqmPyoYxw
@@ -2127,10 +2149,9 @@
     04:33 Load following with superheaters
     06:56 Commercial operation
 
-
 - title: Operating Experience, Yankee
   naid: 88209
-  iaea: 
+  iaea:
   date: 1964
   length: 10
   color: true
@@ -2143,7 +2164,7 @@
     The plant has been in service more than 3 years. Initially rated at 134 Mw(e),
     current output with its third core is 185 Mw(e).
   notes: A Geneva 1964 film produced by Westinghouse
-  links: 
+  links:
     - url: /news/2024-03-16-six-early-nuclear-films.html#operating-experience-yankee-rowe-1964
       name: Our announcement page
     - url: https://www.youtube.com/watch?v=WSMGNuYIdY8
@@ -2166,11 +2187,9 @@
     09:40 Economics
     10:20 Outro
 
-
-
 - title: Operating Experience, Dresden
   naid: 88206
-  iaea: 
+  iaea:
   date: 1964
   length: 10
   color: false
@@ -2183,7 +2202,7 @@
     are reviewed, and the power station is examined in terms of dependability,
     safety, ease of operation, and ease of maintenance
   notes: A Geneva 1964 film produced by GE
-  links: 
+  links:
     - name: Our announcement
       url: /news/2024-11-23-operating-experience-dresden.html
     - name: On YouTube
@@ -2207,7 +2226,7 @@
     drawn from sealed fuel rods to be measured, and how rods are selectioned to
     obtain cladding samples for metallography.
   notes:
-  links: 
+  links:
 
 - title: Medical Research Reactor
   naid: 88186
@@ -2221,7 +2240,7 @@
     Describes the design of the Brookhaven National Laboratory's Medical
     Research Reactor (MRR), including shielding and radiation effects.
   notes:
-  links: 
+  links:
 
 - title: Restoration of the NRX Reactor
   naid: 88248
@@ -2253,7 +2272,7 @@
     hazards of returning a reactor to operation.
   notes: This is the one that Jimmy Carter worked on
   win: true
-  links: 
+  links:
     - name: Our summary page
       url: /news/2024-11-13-restoration-of-nrx.html
     - name: On YouTube
@@ -2284,12 +2303,12 @@
     Results of tests show that a container having six-inch thick shells of fir
     plywood will adequately protect the inner metal container of radioactive
     material.
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: Experimental Boiling Water Reactor (EBWR)
   naid: 88387
-  iaea: 
+  iaea:
   date: 1958
   length: 30
   color: true
@@ -2305,13 +2324,13 @@
     are included. Also shown are significant engineering tests through 3060-Mwd
     operation and subsequent inspection of turbine and reactor.
   notes: There are two entries in NARA, see also 88386
-  links: 
+  links:
     - name: On YouTube from ANL
       url: https://www.youtube.com/watch?v=o_3QkVYI7oY
 
 - title: Construction of the Experimental Boiling Water Reactor (EBWR)
   naid: 88378
-  iaea: 
+  iaea:
   date: 1957
   length: 10
   color: false
@@ -2326,14 +2345,14 @@
     steel shell, special concrete work, and installation of equipment, including
     the reactor pressure vessel, are shown. The requirements for various
     structural components are described.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube from ANL
       url: https://www.youtube.com/watch?v=BUhs-tvs3Pw
 
 - title: The HWCTR and the Heavy Water Power Reactor Program
   naid: 88394
-  iaea: 
+  iaea:
   date: 1962
   length: 31.5
   color: true
@@ -2359,12 +2378,12 @@
     the Savannah River Plant. The film describes the construction of this reactor
     and outlines in detail the technical features and capabilities of the HWCTR and
     its special loop systems in demonstrating the heavy water reactor concept.
-  notes: 
-  links: 
+  notes:
+  links:
 
 - title: Story of Oak Ridge Operations
   naid: 88304
-  iaea: 
+  iaea:
   date: "?"
   length: "?"
   color: true
@@ -2373,7 +2392,7 @@
   description: >
     Summary of Oak Ridge Operations
   notes: Cannot find catalog description
-  links: 
+  links:
     - name: With watermarks Pt 1
       url: https://footagefarm.com/reel-details/technology/generic/story-of-oak-ridge-operations-the--pt-1-of-3#/
     - name: With watermarks Pt 2
@@ -2383,7 +2402,7 @@
 
 - title: Argonaut
   naid: 88090
-  iaea: 
+  iaea:
   date: 1957
   length: 15.5
   color: true
@@ -2394,8 +2413,8 @@
     need for such a reactor in the USAEC's program and its applications to the
     International School of Nuclear Science and Engineering at Argonne. The design
     features, operation, and some of the many applications are described.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube via ANL
       url: https://www.youtube.com/watch?v=VCMhC5ZJR4k
 
@@ -2415,7 +2434,7 @@
     and gamma ray bombardment on the engineering components of reactors under
     design.
   notes: There is a long version and a short version
-  links: 
+  links:
 
 - title: Fast Reactor Program
   naid: 88145
@@ -2429,13 +2448,13 @@
     program in the areas of reactor performance, safety and reliability, system
     components, and fuel-cycle developments
   notes: See Also 88144
-  links: 
+  links:
     - name: On YouTube via ANL
       url: https://www.youtube.com/watch?v=tDMSCnRxtgM
 
 - title: Project Salt Vault
   naid: 88297
-  iaea: 
+  iaea:
   date: 1969
   length: 11
   color: true
@@ -2447,10 +2466,10 @@
     SALT VAULT DEALS WITH A TWO YEAR STUDY CARRIED OUT BY USAEC'S OAK RIDGE
     NATIONAL LABORATORY ON THE FEASIBILITY OF PERMANENT DISPOSAL OF THESE HIGH
     LEVEL WASTES IN VACATED SALT MINES AND THE KEY STEPS IN SUCH DISPOSAL AT AN
-    ABANDONED SALT MINE IN KANSAS 
-  notes: 
-  links: 
-    - name: Short clip on critical path 
+    ABANDONED SALT MINE IN KANSAS
+  notes:
+  links:
+    - name: Short clip on critical path
       url: https://www.criticalpast.com/video/65675068698_Project-Salt-Vault_nuclear-power-plant_salt-mines_Oak-Ridge-National-Laboratory
 
 - title: The EBR-II Fuel Facility
@@ -2466,14 +2485,14 @@
     reprocessed, and fabricated, without prior time-consuming radioactive cooling
     periods. How all facets of the system are designed for remote operation,
     repair and modification of equipment is also shown.
-  notes: 
-  links: 
+  notes:
+  links:
     - name: On YouTube via ANL
       url: https://www.youtube.com/watch?v=xt3qSZCQAIs
 
 - title: Research into Controlled Fusion
   naid: 88245
-  iaea: 
+  iaea:
   date: 1958
   length: 55
   color: true
@@ -2490,11 +2509,11 @@
     plasma, DCX, and Stellarator machines . (This film requires only a rudimentary
     knowledge of physics to be understood, but it should be most useful at college
     colloquia as a summary of present research in hot plasma physics.)
-  notes: 
+  notes:
 
 - title: The MIT Research Reactor
   naid: 88190
-  iaea: 
+  iaea:
   date: 1958
   length: 18
   color: true
@@ -2513,35 +2532,34 @@
     This is the same MITR facility that still operates today, though
     it went through a major upgrade in 1975 to a light-water moderated/cooled
     design (https://www.nrc.gov/docs/ML1909/ML19091A088.pdf)
-  links: 
+  links:
     - name: On YouTube via MIT
       url: https://www.youtube.com/watch?v=1DP6xuOQvEw
 
-
 - title: TO DEVELOP PEACEFUL APPLICATIONS FOR NUCLEAR EXPLOSIVES
   naid: 88324
-  iaea: 
+  iaea:
   date: 1971
   length: 14.75
   color: true
   topics: ["Explosives"]
   description: >
-    The film emphasizes the complex lab oratory and field
-    research procedures which support and the stringent requirements which govern
-    all nuclear explosive engineering experiments in the US program called
-    Plowshare Voices of several experts in the US peaceful nuclear energy program
-    describe objectives in their respective areas of responsibility with reference
-    to two recent experiments Gasbuggy and Rulison in the nuclear stimulation of
-    natural gas fields 
+    The film emphasizes the complex lab oratory and field research procedures
+    which support and the stringent requirements which govern all nuclear
+    explosive engineering experiments in the US program called Plowshare Voices
+    of several experts in the US peaceful nuclear energy program describe
+    objectives in their respective areas of responsibility with reference to two
+    recent experiments Gasbuggy and Rulison in the nuclear stimulation of
+    natural gas fields
   notes: Sometimes titled with "explosions". ANS has a copy of the film
   priority: 3
-  links: 
+  links:
     - name: In 1972 catalog
       url: https://www.google.com/books/edition/Combined_Film_Catalog/Tw0JAQAAMAAJ?hl=en&gbpv=1&dq=%22TO+DEVELOP+PEACEFUL+APPLICATIONS+FOR+NUCLEAR+EXPLOSives%22&pg=PA19&printsec=frontcover
 
 - title: Fusion Research
   naid: 88151
-  iaea: 
+  iaea:
   date: 1964
   length: 22
   color: true
@@ -2558,13 +2576,13 @@
     are described in the film.
   notes: Geneva 1964 film
   priority: 2
-  links: 
+  links:
     - name: In 1972 catalog
       url: https://www.google.com/books/edition/Combined_Film_Catalog/Tw0JAQAAMAAJ?hl=en&gbpv=1&dq=%22TO+DEVELOP+PEACEFUL+APPLICATIONS+FOR+NUCLEAR+EXPLOSives%22&pg=PA19&printsec=frontcover
-      
+
 - title: No Greater Challenge
   naid: 53094
-  iaea: 
+  iaea:
   date: 1969
   length: 14
   color: true
@@ -2584,13 +2602,13 @@
     desert agriculture and to provide new industries and new jobs, the proposed Agro
     industrial complex will raise the standard of living for millions of people.
   notes: First Place, US Industrial Film Festival, Chicago
-  links: 
+  links:
     - name: Related publication
       url: https://digital.library.unt.edu/ark:/67531/metadc100496/
 
 - title: The Dounreay Project
-  naid: 
-  iaea: 
+  naid:
+  iaea:
   date: 1959
   length: 29
   color: false
@@ -2599,15 +2617,15 @@
     the challenges of blasting through rock while battling the seas. Then the commissioning
     and initial operation of the reactor
   notes: Not listed in the archives catalogs we've found
-  links: 
+  links:
     - name: On YouTube
       url: https://www.youtube.com/watch?v=9i-xBnPGIS8
     - name: See also with more equipment
       url: https://www.youtube.com/watch?v=JIkYOFxcqRg
 
 - title: "MH-1A: Floating nuclear power plant, STURGIS: Construction report"
-  naid: 
-  iaea: 
+  naid:
+  iaea:
   date: 1959
   length: 29
   color: false
@@ -2616,7 +2634,7 @@
     the challenges of blasting through rock while battling the seas. Then the commissioning
     and initial operation of the reactor
   notes: Not listed in the archives catalogs we've found
-  links: 
+  links:
     - name: On USACE site
       url: https://usace.contentdm.oclc.org/digital/collection/p16021coll1/id/96/rec/1
     - name: Re-hosted on YouTube
@@ -2624,22 +2642,22 @@
 
 - title: "Thermal reactor test site, USS Nautilus"
   naid: 76980
-  iaea: 
+  iaea:
   date: 1953-04-08
-  length: 
+  length:
   color: false
   priority: 2
-  description: 
+  description:
   notes: No audio, declassified
 
 - title: REACTOR PREOBRAZOVATEL "ROMASHKA"
   naid: 61180
-  iaea: 
-  date: 
-  length: 
-  color: false 
+  iaea:
+  date:
+  length:
+  color: false
   priority: 1
-  description: > 
+  description: >
     SCIENTIFIC DOCUMENTARY: Uses
     animation, models and on-location shots to show the construction,
     installation, testing and operation of the direct conversion reactor,
@@ -2650,12 +2668,12 @@
 
 - title: "PEGASE"
   naid: 61174
-  iaea: 
-  date: 
-  length: 
-  color: false 
+  iaea:
+  date:
+  length:
+  color: false
   priority: 2
-  description: > 
+  description: >
     Scientific Documentary: A facility meant for testing nuclear fuels used in
     heavy water moderated atomic energy plants. Shows scenes of plant
     construction and, through animation and live action shots, illustrates how
@@ -2664,12 +2682,12 @@
 
 - title: ASTR TOWER EXPERIMENT
   naid: 67389
-  iaea: 
+  iaea:
   date: December, 1958
   length: 10 mins
   color: true
   win: true
-  description: > 
+  description: >
     Coverage of the transfer of the Convair Airborne Shielded Test
     Reactor and NB-36 crew compartments from Ft. Worth, Texas, to Oak Ridge,
     Tennessee National Laboratories for further airborne and ground radiation
@@ -2693,13 +2711,13 @@
       url: /news/2024-11-08-astr-tower-experiment.html
 
 - title: Advanced Test Reactor
-  naid: 
-  iaea: 
-  date: 
-  length: 
-  color: 
+  naid:
+  iaea:
+  date:
+  length:
+  color:
   priority: 2
-  description: > 
+  description: >
     This film shows precisely how the AEC's 250-Mwt Advanced Test Reactor design
     utilizes multiple flux traps to achieve exceptionally high neutron density in
     nine independent test loop positions. Animations de- scribe the clover leaf,
@@ -2714,20 +2732,20 @@
       url: https://www.osti.gov/biblio/4889610
 
 - title: Atomic Achievement
-  naid: 
+  naid:
   iaea: AVN 0105
   date: 1956
   length: 20
   color: true
-  priority: 
-  description: > 
+  priority:
+  description: >
     Covers Britain's work in harnessing atomic power and shows the development
     of the national nuclear power programme. Introduces the first nuclear power
     plants in the U.K.  (Harwell, Springfield, Windscale, Calder Hall, Capenhust,
     and Dounreay - still under construction). Briefly covers isotope, uranium
     ore and plutonium production and mentions the new experimental reactors
     (Dido, Zeus).
-  notes: 
+  notes:
   links:
     - name: Online in astoundingly high quality
       url: https://www.youtube.com/watch?v=oCC0ActNfuY
@@ -2736,12 +2754,12 @@
 
 - title: Guardian of the Atom
   naid: 88286
-  iaea: 
+  iaea:
   date: 1967
   length: 28.5
   color: true
-  priority: 
-  description: > 
+  priority:
+  description: >
     States briefly the organization and role of USAEC and its national
     laboratories and responsibilities in develop ing the peaceful uses and
     national security uses of the atom. Then, point by point, we learn of each
@@ -2774,7 +2792,7 @@
     USS Bainbridge (DLGN-25), and the USS Truxtun (DLGN-35) as they traveled
     together in various formations off the coast of California.
   notes: Film is silent! But still sounds cool
-  links: 
+  links:
     - name: Possibly related to this
       url: https://catalog.archives.gov/id/102045939
 
@@ -2787,21 +2805,253 @@
     propulsion program from 1956 to 1958.
 
 - title: "SRE Nuclear Facility Decommissioning"
-  naid: 
+  naid:
   date: 1982
   color: true
   description: >
     Scenes from SRE being dismantled
-  links: 
+  links:
     - name: On youtube (SD)
       url: https://www.youtube.com/watch?v=JTWOekOkFEE
 
 - title: "The Argonne Low Power Reactor"
-  naid: 
+  naid:
   date: 1959
   color: true
   description: >
     The ALPR BWR before the accident. (Later known as SL-1)
-  links: 
+  links:
     - name: On youtube (SD)
       url: https://www.youtube.com/watch?v=G-uATBN9vl0
+
+- title: "Atomic Energy Can Be A Blessing"
+  naid: 88101
+  date: 1952
+  color: false
+  description: >
+    Father James Keller and actor Fred MacMurray (Double Indemnity, Absent-Minded
+    Professor) point out how atomic energy can be a God-given blessing instead of
+    a man-made curse if used in such fields as industry, agriculture and medicine.
+    This film was an introduction to the Catholic civic organization's other
+    atomic-themed films - Atomic Energy As A Force For Good and From Star to Star
+    - which also starred notable celebrities.
+  links:
+    - name: On Archive.org
+      url: https://www.youtube.com/watch?v=G-uATBN9vl0
+      notes: Also available in lower res directly at NARA
+
+- title: "Armour Research Reactor"
+  naid: 88092
+  date: 1958
+  priority: 2
+  length: 16.5
+  color: true
+  description: >
+    This film shows the design, fabrication, and operation of the first private
+    nuclear energy reactor designed specifically for industrial research — the
+    50,000- watt solution type reactor built by Atomics International for the
+    Armour Research Foundation, Chicago.
+
+- title: The Alchemist's Dream
+  date: 1965
+  length: 29
+  color: false
+  naid: 88089
+  description: >
+    Transmutation of metals, the dream of the alchemists in the Middle Ages, is
+    shown and explained in its nuclear science context by members of the Argonne
+    Chemistry Division. A minute quantity of berkelium is produced by bombarding
+    curium with deuterons from a cyclotron. The berkelium is separated and
+    purified behind the thick walls of a newly constructed hot laboratory for
+    research with man-made elements. Challenge series.
+  links:
+    - url: https://www.youtube.com/watch?v=P053W5LMAQ0
+      name: On YouTube
+      notes: We assembed this from the IU scans
+    - url: https://media.dlib.indiana.edu/media_objects/m039kr56h/section/x920gh64t
+      name: Available with split audio/video at IU
+
+- title: Thorium - U-233 Utilization
+  date: 1964
+  length: 13
+  priority: 2
+  color: true
+  catalog: ERDA 1976
+  description: >
+    Discusses thorium-232 as fertile material, currently in use in three
+    commercial power reactors, and the commercial fabrication of ceramic
+    urania-thoria. Also shown are other fuel and reactor concepts being
+    developed, such as the molten salt experiment, and the preparation of the
+    first uranium-233 enriched thorium fuel by the Sol-Gel process.
+
+- title: THE SAFE HANDLING OF ENRICHED URANIUM
+  naid: 88303
+  date: 1969
+  length: 22
+  priority: 2
+  color: true
+  catalog: ERDA 1976
+  description: >
+    Filmed primarily at the ERDA Y-12 Plant in Oak Ridge, the motion picture
+    introduces new employees in nuclear production plants to the concept of
+    nuclear fission and criticality , and explains the reasons for safety
+    procedures that are observed in the handling of enriched uranium and other
+    fissionable materials. The film will be understood by persons with or
+    without a technical background.  Its contents include: an animated sequence
+    which explains the difference between U-238 and U-235, and the concepts of
+    nuclear fission and criticality; a brief summary of the uses of enriched
+    uranium; animated sequences explaining how criticality may be prevented by
+    proper handling procedures; scenes of persons working with U-235 in various
+    forms (gas, powder, metal, liquid) in several work areas; emergency procedures;
+    and a few scenes of U-233 and plutonium work areas
+  notes: Would be cool to see Y-12
+
+- title: Atomic Power at Shippingport
+  naid: 88108
+  date: 1958
+  length: 29
+  color: true
+  description: >
+    Scenes from Shippingport, including models and fuel development. 
+    Shown is a lot about initial UO2 study. Then we see component fabrication,
+    the critical assembly, and the real plant coming to power.
+  links:
+    - url: https://www.youtube.com/watch?v=yUymSHYwzd4
+      name: On Youtube
+
+- title: AIR AND GAS CLEANING FOR NUCLEAR ENERGY
+  naid: 88088
+  catalog: AEC 1966
+  length: 30
+  color: true
+  date: 1964
+  priority: 3
+  description: >
+    This technical film portrays the need for, and development of, high
+    efficiency filters for the nuclear energy industry; the manufacture of
+    such filters; their inspection at USAEC Quality Assurance Stations
+    before installation at nuclear sites; the in-place testing of filters as
+    an effective contamination control program; and current research and
+    development in the area of high efficiency mechanical air cleaning.
+    The R&D activity, filmed at Harvard Air Cleaning Laboratory, Oak
+    Ridge National Laboratory, and Edgewood Arsenal, covers iodine
+    collection systems; fine aerosol reaction on filters; in-pile and out-of-
+    pile fuel meltdown studies; the production and dispersion of solid
+    aerosols in an exploding wire aerosol generator; foam tests to en-
+    capsulate radioactive materials; rare gas absorption studies; experi-
+    ments with diffusion boards as a gas and particulate removal surface;
+    cleaning of stainless steel wool filters with shock waves; and the
+    dispersal of radioactive wastes by incineration
+
+- title: Atom and Eve
+  date: 1966
+  naid: 88095
+  color: true
+  length: 14
+  links:
+    - url: https://footagefarm.com/reel-details/communications/telephone/1966---colour-atomic-energy-usa--atom-and-eve
+      name: On Footage Farm
+  description: >
+    This film introduces Eve as a little girl who needed electricity for many
+    things. As she matured into a woman, her needs grew as her cooking and
+    cleaning all required electricity. The film promotes nuclear energy as the
+    solution to all Eve's household needs. Produced for the Connecticut Yankee
+    Atomic Power Company. Includes scenes of Eve doing ballet while holding a
+    lightbulb and looking in a microscope.
+
+- title: Developing Homogeneous Reactors
+  date: 1955
+  naid: 88135
+  color: false
+  length: 23
+  catalog: AEC 1966
+  priority: 2
+  description: >
+    This film depicts some of the most important stages in the develop-
+    ment, construction, operation, and dismantling of Homogeneous Reac-
+    tor Experiment No. 1 (HRE-1), which was designed to operate at 1000
+    kw. Testing of the most important reactor features is shown, along with
+    the most important steps in assembling the reactor. Operation of the
+    reactor is pictured. The film closes with scenes of the reactor being
+    disassembled to make room for HRE-2.
+
+- title: Fuel Element Burning Experiment
+  naid: 88149
+  date: 1959
+  length: 24
+  color: true
+  catalog: AEC 1966
+  priority: 2
+  description: >
+    This film describes an experiment at the National Reactor Testing
+    Station, Idaho, in which aircraft reactor fuel elements, together with
+    other materials, were melted in a simulated aircraft crash. The
+    experiment consisted of two phases: the first (Phase A) used jet fuel
+    as the combustible and the second (Phase B) used Thermite to produce
+    high temperature to assure melting. In Phase A, melting did not occur,
+    and no radioactivity was released. In Phase B, melting did occur, with
+    the release of a small amount of activity (10,000 curies of fission
+    products) in the National Reactor Testing Station out to a distance of
+    V2 mile. The total experiment provided preliminary experimental data
+    upon which to base further experiments and to make very preliminary
+    estimates of the hazards of mobile reactors in an accident situation.
+    (The film should be of interest to persons concerned with: the release
+    of fission products from radioactive fuel elements when the element is
+    completely melted; the results obtained by the destruction of fuel
+    elements containing significant fission products; development of aircraft
+    reactors; and generalized safety research. The film should be of
+    particular interest to personnel associated with organic-moderated
+    facilities in which fire hazard is a factor, radiological health and
+    safety activities, the Radiological Assistance Program, etc
+
+- title: High Activity Waste
+  naid: 88157
+  length: 17
+  priority: 3
+  color: true
+  date: 1964
+  catalog: AEC 1966
+  description: >
+    As the nuclear power industry expands, the handling and ultimate
+    disposal of high activity waste becomes of increasing importance.
+    This technical film describes newly developed methods for solidifying
+    high activity wastes, reducing their volume by a factor of 10, into
+    solids that are almost chemically inert. The process includes pot and
+    spray calcination, and the fluidized bed calciner with a capacity of 100
+    liters per hour of liquid waste. Techniques being developed to produce
+    glasslike solids from powdered wastes and directly from liquids are
+    also shown. The use of salt mines for disposal of solid wastes is
+    discussed.
+
+- title: Industrial Applications of Nuclear Explosives
+  naid: 88166
+  length: 11
+  date: 1958
+  color: true
+  priority: 1
+  description: >
+    This semitechnical film presents potential industrial applications of
+    nuclear explosives that require amounts of packaged energy heretofore
+    unavailable and suggests that nuclear explosives can be used as safely
+    as chemical explosives, and with greater effect and at less cost. 
+    Applications illustrated include harbor development, economical recovery of
+    low-grade ore bodies, release of petroleum from oil shale, under-
+    ground production of steam for generation of power, and development
+    of large underground reservoirs in arid areas.
+  links:
+    - url: http://www.archivesfilms.com/?p=7229
+      name: Mentioned with screenshot but no actual film
+
+- title: Kinetic Experiment on Water Boilers
+  naid: 88173
+  date: 1958
+  color: true
+  length: 15
+  catalog: AEC 1966
+  priority: 2
+  description: >
+    This film discusses a USAEC -sponsored study by Atomics International of the
+    dynamic behavior of the homogeneous solution type nuclear reactor,
+    demonstrating the inherent safety characteristics of aqueous homogeneous
+    reactors in the event of an unforeseen release of large amounts of
+    reactivity
