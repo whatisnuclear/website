@@ -6,7 +6,7 @@ description: As much as we love Thorium, there are way too many myths about it g
 author: nick
 image: /img/Thor.jpg
 date: 2014-03-13
-last_modified_at: 2020-09-08
+last_modified_at: 2025-01-01
 byline: true
 ---
 
@@ -49,6 +49,7 @@ may have heard is suspect.
 
 <ul>
 <li><a href="#myth1">Myth #1: Development of Thorium reactors got canceled because they couldn't make bombs!</a></li>
+<li><a href="#myth15">Myth #1.5: One tonne of Thorium contains as much energy as 200 tonnes of Uranium</a></li>
 <li><a href="#myth2">Myth #2: Thorium reactors never need enrichment!</a></li>
 <li><a href="#myth3">Myth #3: Thorium reactors cannot make bombs!</a></li>
 <li><a href="#myth4">Myth #4: There's more Thorium than Uranium, and that is really important!</a></li>
@@ -109,6 +110,17 @@ reactors couldn't even go critical, much less make bombs. Natural uranium reacto
 only way to go. This gave them the technical head start that has arguably led to their dominance.
 However, when MSRs were finally given their chance in the 1950s and 60s, their (non-existent)
 inability to make bombs was not to blame for the cancellation.
+
+<h2 id="myth15">Myth #1.5: One tonne of Thorium contains as much energy as 200 tonnes of Uranium!</h2>
+<span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
+What's happening is that people are comparing thorium used in a [breeder
+reactor]({% link recycling.md %}) vs. uranium used in a non-breeder reactor.
+It's true that breeder reactors can get ~200x more energy out of any nuclear
+fuel, but this has nothing to do with uranium vs. thorium. It's just breeder
+reactors vs. non-breeders.
+
+In fact, uranium-238 contains about [1% more energy than Thorium-232 per
+mass]({% link energy-density.md %}).
 
 <h2 id="myth2">Myth #2: Thorium reactors never need enrichment!</h2>
 <span class="float-end"><button type="button" style="cursor: default;" class="btn btn-danger">FALSE</button></span>
@@ -404,6 +416,7 @@ A fairly lively discussion of the content of this page happened on Reddit <a hre
 
 - [Krepel, COMPARISON OF 16 REACTORS NEUTRONIC PERFORMANCE IN CLOSED TH-U AND U-PU CYCLES](https://www.gen-4.org/gif/upload/docs/application/pdf/2020-06/geniv_dr_jiri_krepelfinal_24june2020_2020-06-24_08-48-31_646.pdf)
   - [associated journal publication](https://doi.org/10.1016/j.anucene.2019.01.013)
+- [Fuelling the thorium dream – Physics World](https://physicsworld.com/a/fuelling-the-thorium-dream/) -- an excellent critical review of the book, Superfuel, exposing many of these myths.
 
 </div>
 </div>
