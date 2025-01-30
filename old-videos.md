@@ -130,6 +130,7 @@ corrections, or additions.
 - [Our nuclear reading list]({% link nuclear-reading-list.md %}).
 - [ANL's video channel, with lots of reactor videos](https://www.youtube.com/@ArgonneNuclear/videos)
 - [miSci's video channel, which has lots of old GE videos](https://www.youtube.com/@SchdyInventTech/videos)
+- [Large catalog of Russian nuclear films](https://www.biblioatom.ru/atomic-age/media/)
 
 </div>
 </div>

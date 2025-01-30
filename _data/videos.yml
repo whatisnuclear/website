@@ -1972,6 +1972,9 @@
     Baltic is shown.
   notes: No idea where to find a copy
   links:
+    - name: Nuclear Icebreaker "Lenin"
+      url: https://www.biblioatom.ru/atomic-age/media/lenin-v1_1958/
+      notes: In Russian
 
 - title: Sodium Reactor Experiment Construction
   naid: 88259
@@ -2586,7 +2589,7 @@
   date: 1969
   length: 14
   color: true
-  priority: 1
+  win: true
   description: >
     Shows man's historic and growing hunger for water and
     a dramatic solution to this great challenge --- the Agro Industrial Complex. With
@@ -2603,6 +2606,8 @@
     industrial complex will raise the standard of living for millions of people.
   notes: First Place, US Industrial Film Festival, Chicago
   links:
+    - name: On Youtube
+      url: https://www.youtube.com/watch?v=zr37qc4omNY
     - name: Related publication
       url: https://digital.library.unt.edu/ark:/67531/metadc100496/
 
