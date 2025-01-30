@@ -1,7 +1,7 @@
 ---
 layout: news
-title: No Greater Challenge film digitized (1969)
-subtitle: All about nuclear-powered Agro-Industrial complexes
+title: No Greater Challenge digitized
+subtitle: A 1969 film about nuclear-powered Agro-Industrial complexes
 author: nick
 category: news
 tags: videos
