@@ -98,6 +98,9 @@ You can read a lot more about the quest for nuclear-powered flight in [Nuclear
 flight; the United States Air Force programs for atomic jets, missiles, and
 rockets.](https://babel.hathitrust.org/cgi/pt?id=mdp.39015001555146&seq=7)
 
+Amazing CANEL description in [PROPOSAL SECOND GENERATION PORTABLE NUCLEAR
+POWERPLANT](https://digital.library.unt.edu/ark:/67531/metadc868990/m2/1/high_res_d/4061398.pdf).
+
 ## See Also
 
 - [A related film about the reactor that flew]({% link _news/2024-11-08-astr-tower-experiment.md %})
