@@ -2610,6 +2610,8 @@
       url: https://www.youtube.com/watch?v=zr37qc4omNY
     - name: Related publication
       url: https://digital.library.unt.edu/ark:/67531/metadc100496/
+    - name: Our announcement page
+      url: /news/2025-01-30-no-greater-challenge-nuclear-agro-industrial-complex-film.html
 
 - title: The Dounreay Project
   naid:
@@ -2804,10 +2806,17 @@
 - title: "Aircraft Nuclear Propulsion Program: Manned Aircraft Progress Report"
   naid: 62995
   date: 1961
-  priority: 1
+  win: true
+  color: true
+  length: 30.5
   description: >
     This film reviews progress achieved in the Air Force aircraft nuclear
     propulsion program from 1956 to 1958.
+  links:
+    - name: Digitization Annoucement and Summary
+      url: /news/2025-02-03-declassified-nuclear-powered-aircraft-progress-update-manned-flight-film.html
+    - name: On YouTube
+      url: https://catalog.archives.gov/id/102045939
 
 - title: "SRE Nuclear Facility Decommissioning"
   naid:
@@ -3060,3 +3069,55 @@
     demonstrating the inherent safety characteristics of aqueous homogeneous
     reactors in the event of an unforeseen release of large amounts of
     reactivity
+
+- title: MATERIALS AND COMPONENTS IRRADIATION
+  naid: 67150
+  date: 1958
+  color:
+  length:
+  catalog:
+  priority: 2
+  description: >
+    Film depicts the materials and components irradiation experiments in the
+    reactor operations area at Convair Fort Worth Texas. 1) ALS's nuclear
+    aircraft research facility. 2) LS nuclear reactor operations area. 3) MS
+    reactor handling pool. 4) MCU boral box. 5) Series of charts of boral box
+    cutaway, showing: irradiation chamber, wiring outlets, fann, cooling coil,
+    heating elements, and insulation. 6) Chart of boral sheets. 7) MS boral box
+    man walks in, picks up sample tray. 8) MCU man with sample tray. 9) CU
+    sample trays rirst, with "O" rings. 10) CU second sample tray with
+    honeycomb. 11) CU third sample tray with electronic tubes. 12) MS man puts
+    samples in boral box. 13) LS handling pool. 14) MS work bridged showing lead
+    shield. 15) MS work bridged showing lead cave and refrigeration unit. 16) MS
+    handling pool and work bridge. 17) LS reactor bridge. 18) MCU reactor
+    control mechanism.  19) Reactor Bridge. 20) MS boral box moved by overhead
+    crane. 21) MCU boral box lowered on guide tower. 22) MS top of guide tower
+    -- shows positioning device. 23) MS boral box under water. 24) LS reactor
+    bridge rolled into place. 25) MLS weather cover moves over reactor. 26) MS
+    reactor control console and operator.  27) CU reactor control console. 28)
+    ECU start button pushed. 29) MCU reactor operator starts power runup. 30)
+    MCU ground test reactor going to power, shows core blowing (Cerenkov
+    radiation) 31) MCU boral box comes out of pool after irradiation. 32) MCU
+    boral box lowered to lead cave. 33) MCU boral box moves into lead cave on
+    self-propelled dolly. 34) MS gold foil detector removed by operator. 35) CU
+    gold foil holder. 36) MS operator pushes door removal device in place. 37)
+    CU door to boral box unlocked. 38) CU door removed. 39) MS operator reaches
+    through field to unlatch door removal device. 40) MCU door removal device
+    swings out of the way. 41) MCU operator puts tool through shield. 42) CU
+    sample rack pushed into place. 43) MCU operator puts tool through shield.
+    44) MCU tool pulls sample tray out of boral box. 45) MCU operator puts tool
+    through shield. 46) MCU sample tray removed from door of box. 47) MS
+    shielded fork lift carrying irradiated samples --  --  era follows vehicle.
+    48) MS fork lift enters irradiated materials laboratory. 49) MS laboratory
+    technician tests electronic components. 50) MCU capacitors being tested. 51)
+    Series of shots as laboratory technician tests electronic components,
+    adjusts megaohm bridge, and records test results. 52) MS technician conducts
+    tension test. 53) CU tensile specimen breaking. 54) MS technician conducts
+    tension test. 55) Sequence of shots of tube filled with oil for viscosity
+    test, chemist placing tube in viscometer and starting clock.  56) MS man at
+    drafting table. Second man walks in, carrying data handbook on: Radiation
+    Effects On Materials and Components. 57) MLS B-58 in flights airplane moves
+    away rrom camera. (Excellent coverage) 58) LS B-58 in flight, clouds in bg.
+    (Excellent coverage) PRODUCED BY THE MOTION PICTURE SECTION, CONVAIR-FORT
+    WORTH, AND THE NUCLEAR AIRCRAFT RESEARCH FACILITY AT CONVAIR-FORT WORTH.
+    Good (Basic: Mas Koda, Ng. trk.)

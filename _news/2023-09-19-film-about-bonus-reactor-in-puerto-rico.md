@@ -61,15 +61,17 @@ Thanks to Brett Rampal for funding the digitization of this film.
   <div class="col col-xl-4 col-lg-6 col-md-8 col-sm-12 col-12 p-0">
     <figure class="figure">
     {% capture ipath %}/img/bonus-{{index| prepend: '00' | slice: -2, 2 }}.jpg{% endcapture %}
+    {% capture caption %}{{ ipath |remove_first: '/'| exif: 'image_description' }}{% endcapture %}
      <a
         href="{{ipath}}"
       >
         <img
           src="{{ipath}}"
           class="img-fluid"
-          alt="{{ ipath |remove_first: '/'| exif: 'image_description' }}"
+          alt="{{caption}}"
         />
       </a>
+      <caption>{{caption}}</caption>
     </figure>
   </div>
  {% endfor %}

@@ -160,6 +160,8 @@ As of 2024 the towers are still standing.
 
 ## See Also
 
+- [A related film about the ANP]({% link
+  _news/2025-02-03-declassified-nuclear-powered-aircraft-progress-update-manned-flight-film.md %})
 - [Our Digital Reactor History Museum]({% link museum.md %})
 - [Our Reactor Development History Page]({% link reactor-history.md %})
 - [Our Old Videos page]({% link old-videos.md %}) with a running list of the

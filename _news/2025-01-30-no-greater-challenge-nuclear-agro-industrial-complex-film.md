@@ -3,7 +3,8 @@ layout: news
 title: No Greater Challenge digitized
 subtitle: A 1969 film about nuclear-powered Agro-Industrial complexes
 author: nick
-category: news
+categories:
+  - news
 tags: videos
 description: >
   This film envisions deploying large nuclear power plants coupled with
@@ -20,12 +21,7 @@ comments: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-This film envisions deploying large nuclear power plants coupled with
-desalination plants to form 300k-acre scientifically-managed food factories in
-otherwise arid land. Besides making 1 billion gallons of fresh water per day
-from the sea, the complexes would also generate phosphorus using electric
-furnaces, ammonia from electrolytic hydrogen, and caustic and chlorine from
-brine electrolysis. Such a complex could feed 6 million people.
+{{ page.description }}
 
 <figure>
 <div class="ratio ratio-16x9">
