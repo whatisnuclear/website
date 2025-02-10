@@ -2359,7 +2359,7 @@
   date: 1962
   length: 31.5
   color: true
-  priority: 1
+  win: true
   topics: [reactors]
   description: >
     This film depicts the growing need for nuclear power and describes the
@@ -2383,6 +2383,10 @@
     its special loop systems in demonstrating the heavy water reactor concept.
   notes:
   links:
+    - name: Our announcement page
+      url: /news/2025-02-10-hwctr-and-the-heavy-water-power-reactor-program-1962.html
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=7ImUX6oyVqY
 
 - title: Story of Oak Ridge Operations
   naid: 88304
@@ -2857,7 +2861,7 @@
 - title: "Armour Research Reactor"
   naid: 88092
   date: 1958
-  priority: 2
+  win: true
   length: 16.5
   color: true
   description: >
@@ -2865,6 +2869,11 @@
     nuclear energy reactor designed specifically for industrial research — the
     50,000- watt solution type reactor built by Atomics International for the
     Armour Research Foundation, Chicago.
+  links:
+    - name: Digitization Annoucement
+      url: /news/2025-02-10-armour-research-reactor-film-1958.html
+    - name: On Youtube
+      url: https://www.youtube.com/watch?v=2Y3JsQ3evcM
 
 - title: The Alchemist's Dream
   date: 1965
