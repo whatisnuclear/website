@@ -115,11 +115,15 @@ build reactors that could produce plutonium for the bomb.
   than enriched uranium. [Hitler used it with uranium
   cubes.](https://www.atomicheritage.org/history/german-atomic-bomb-project)
 - 21 - W wishes he had been at [the first critical
-reaction](https://en.wikipedia.org/wiki/Chicago_Pile-1). Younger people should
-be allowed at such events so that history may live on longer. Sidenote, check
-out this 1967 [film produced by Argonne about CP-1: The Day Tomorrow
-Began](https://www.youtube.com/watch?v=w_6K6arW3h4).
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w_6K6arW3h4"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  reaction](https://en.wikipedia.org/wiki/Chicago_Pile-1). Younger people should
+  be allowed at such events so that history may live on longer. Sidenote, check
+  out this 1967 [film produced by Argonne about CP-1: The Day Tomorrow
+  Began](https://www.youtube.com/watch?v=w_6K6arW3h4).
+
+<div class="ratio ratio-16x9">
+{% include youtube.html id="w_6K6arW3h4" title="The Day Tomorrow Began" %}
+</div>
+
 - 22 - For high powered Pu-producing reactors, Helium seemed like the natural coolant because it was
   neutron-transparent. Wigner worried: high
   temperature helium-cooling was an engineering nightmare: how to contain high-temperature fission

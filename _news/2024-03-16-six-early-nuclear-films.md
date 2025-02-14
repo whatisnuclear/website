@@ -42,10 +42,7 @@ This is film [88093]({%link old-videos.md%}#army-package-power-reactor) in our c
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/4NH2AUAnzf8?si=2xihJZqYBvU1H36k"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="4NH2AUAnzf8" title="Army package film" %}
 </div>
 </figure>
 
@@ -91,10 +88,7 @@ Oak Ridge), and the Boiling Water Reactor (EBWR at Argonne).
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/Zukgzn47_ec?si=fgXbqlzqCc23wHFz"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="Zukgzn47_ec" title="Atomic power film" %}
 </div>
 </figure>
 
@@ -136,10 +130,7 @@ Reactor in Elk River, MN was built. This film describes the reactor.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/Dft1fPWFgD8?si=kCsGL8gFksX_ZF8c"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="Dft1fPWFgD8" title="Elk River film" %}
 </div>
 </figure>
 
@@ -187,10 +178,7 @@ initially expected)
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/1sWqmPyoYxw?si=T0kSNzrpG7zFSALm"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="1sWqmPyoYxw" title="Indian Point film" %}
 </div>
 </figure>
 
@@ -239,10 +227,7 @@ of economical nuclear power that led to a LWR-dominant fleet.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/WSMGNuYIdY8?si=APmqInTDA9bjtmcx"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="WSMGNuYIdY8" title="Yankee Rowe film" %}
 </div>
 </figure>
 

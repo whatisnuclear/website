@@ -23,10 +23,7 @@ The first is [Roundup](https://whatisnuclear.com/old-videos.html#88251):
 
 <figure>
 <div class="ratio ratio-16x9" id="roundup">
-<iframe src="https://www.youtube.com/embed/QFoOnS6CWSI?si=W445HdIMNr1POByn"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="QFoOnS6CWSI" title="Roundup" %}
 </div>
 </figure>
 
@@ -34,10 +31,7 @@ Second is [RADIOISOTOPES: SAFE SERVANTS OF INDUSTRY](https://whatisnuclear.com/o
 
 <figure>
 <div class="ratio ratio-16x9" id="radioisotopes">
-<iframe src="https://www.youtube.com/embed/_4phBVVWRfQ?si=We14Gf_NjvhYOEYV"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="_4phBVVWRfQ" title="Radioisotopes film" %}
 </div>
 </figure>
 

@@ -29,11 +29,7 @@ and got it digitized.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe 
-src="https://www.youtube.com/embed/nOkkXlqh9HM?si=infd5x8wWowG1xhK"
-title="OMRE film" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="nOkkXlqh9HM" title="OMRE film" %}
 </div>
 </figure>
 

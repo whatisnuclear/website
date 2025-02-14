@@ -3,20 +3,21 @@ layout: calc
 title: How much nuclear waste is there?
 category: physics
 description: >
-    How much nuclear waste has been made in the USA? If you were to stack it up on a
-    football field, how high would the nuclear waste be?
+  How much nuclear waste has been made in the USA? If you were to stack it up on a
+  football field, how high would the nuclear waste be?
 author: nick
 image: "/img/all-waste-fps_sm.jpg"
 date: 2023-02-19
 byline: true
-factlets: 
-    - All the spent nuclear fuel in the USA would fit on a football field 
-      in fully-shielded dry casks stacked 135 meters (148 yards) high.
-    - All the spent nuclear fuel in the USA would fit on a football field 
-      stacked as pellets 3 meter (3.3 yards) high
-    - All the fission products in spent nuclear fuel in the USA would fit on a
-      football field stacked 15 cm (5.9 inches) high
+factlets:
+  - All the spent nuclear fuel in the USA would fit on a football field
+    in fully-shielded dry casks stacked 135 meters (148 yards) high.
+  - All the spent nuclear fuel in the USA would fit on a football field
+    stacked as pellets 3 meter (3.3 yards) high
+  - All the fission products in spent nuclear fuel in the USA would fit on a
+    football field stacked 15 cm (5.9 inches) high
 ---
+
 <div class="row">
 <div class="col-lg-8" markdown="1">
 
@@ -28,7 +29,7 @@ details are being considered. This page attempts to reconcile this situation by
 doing the math and giving a verifiable answer to how much waste there is in the
 USA relative to a football field.
 
-(If you just want to know what nuclear waste is and what's to be done about it, go 
+(If you just want to know what nuclear waste is and what's to be done about it, go
 to [our nuclear waste page]({% link waste.md %}).)
 
 # How many dry casks could store all US waste?
@@ -60,11 +61,9 @@ as of 2023 stacked up on a football field in dry casks storage containers
 
 In motion:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J1QydqOFZF4"
-title="Waste storage casks stacked"  allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
-
+<div class="ratio ratio-16x9">
+{% include youtube.html id="J1QydqOFZF4" title="Waste storage casks stacked" %}
+</div>
 
 # How much actual used fuel material is in those casks?
 
@@ -75,7 +74,7 @@ look at the fuel pellets themselves on the football field.
 
 Given the facts below, we can estimate that there are 93,220 tonnes of initial uranium
 discharged. The oxygen in UO₂ weighs something, so this comes out to 105.7e3 MT of UO2.
-This is about 9.35 billion fuel pellets. You can fit 9600 fuel pellets between 
+This is about 9.35 billion fuel pellets. You can fit 9600 fuel pellets between
 goal lines of a football field, and 5123 pellets between the sidelines. To fit all
 9.35 billion pellets, you'd have to stack them 191 levels high, which checks in as
 a **stack of spent fuel pellets 3.0 meters tall** (3.3 yards/9.84 feet/118 inches).
@@ -98,7 +97,7 @@ As you may know, [used nuclear fuel is recyclable and can be used in breeder rea
 link recycling.md %}). Only the fuel atoms that have actually fissioned into fission
 products are truly spent. Typical US reactors do not recycle their used fuel (French ones
 do recycle theirs at least once). If we melt the used fuel pellets and recycle them,
-only the fission products are left over. 
+only the fission products are left over.
 
 Typical reactors get about 50 MWd/kg out of their fuel on average, which represents
 roughly 5% of the total nuclear energy in each pellet. The rest is regular U-238, which is
@@ -119,16 +118,16 @@ waste) in US used nuclear fuel as of 2023 stacked up on a football field.
 
 The following facts were used to derive the conclusions on this page.
 
-* An American football field [is 100 yards (91.44m )by 53.3 yards (48.8 m) between the
+- An American football field [is 100 yards (91.44m )by 53.3 yards (48.8 m) between the
   goalposts](https://en.wikipedia.org/wiki/American_football_field). The [goal posts
   are](https://www.stack.com/a/the-dimensions-of-a-football-field/) 30 feet high and 18.5
   feet wide.
-* [The EIA says](https://www.eia.gov/nuclear/spent_fuel/) that, as of Dec 2017, there are
-  * 157,681 BWR discharged assemblies + 18,000/3.5 per year  
-  * 119,198 PWR assemblies + 14,313/3.5 per year  
-  * 80,000 MTU spent fuel + 9524/3.5 per year
-* A typical PWR assembly has a 17x17 array of fuel pins
-* A typical BWR assembly has a 10x10 array of fuel pins
+- [The EIA says](https://www.eia.gov/nuclear/spent_fuel/) that, as of Dec 2017, there are
+  - 157,681 BWR discharged assemblies + 18,000/3.5 per year
+  - 119,198 PWR assemblies + 14,313/3.5 per year
+  - 80,000 MTU spent fuel + 9524/3.5 per year
+- A typical PWR assembly has a 17x17 array of fuel pins
+- A typical BWR assembly has a 10x10 array of fuel pins
 
 For a typical spent fuel dry cask, we found good information on the Holtec HI-STORM 100.
 
@@ -146,29 +145,27 @@ Conjugate](https://holtecinternational.com/innovation/technical-papers/an-overvi
 
 Info about the cask system, including all shielding:
 
-* It can hold:
-  * 24 standard PWR assemblies, or
-  * 68 standard BWR assemblies
-* Its outer diameter is 131 inches (3.3m)
-* Its height is 231 inches (5.86 m)
+- It can hold:
+  - 24 standard PWR assemblies, or
+  - 68 standard BWR assemblies
+- Its outer diameter is 131 inches (3.3m)
+- Its height is 231 inches (5.86 m)
 
-* Thus, we can estimate that in 2023, there are enough fuel assemblies to fill:
-  * 5819 dry casks with PWR assemblies
-  * 2697 dry casks with BWR assemblies
-  * Total casks: 8516
+- Thus, we can estimate that in 2023, there are enough fuel assemblies to fill:
+  - 5819 dry casks with PWR assemblies
+  - 2697 dry casks with BWR assemblies
+  - Total casks: 8516
 
 As for the nuclear fuel pellets themselves:
 
-* Uranium oxide mass density is about 10 grams/cm³
-* A [single pellet](https://www.nrc.gov/reading-rm/basic-ref/glossary/pellet-fuel.html) 
+- Uranium oxide mass density is about 10 grams/cm³
+- A [single pellet](https://www.nrc.gov/reading-rm/basic-ref/glossary/pellet-fuel.html)
   is 3/8" OD and 5/8" high, (9.525e-3 m OD, 1.587e-2m high)
-  * Thus, the volume of a single pellet is 1.131e-6 m³
-  * The UO2 mass in a single pellet is about 11.3 grams
-  * The uranium elemental mass in a single fresh pellet is about 10.0 grams
-  * Typical PWRs and BWRs fission about 5-6% of their uranium atoms before being
+  - Thus, the volume of a single pellet is 1.131e-6 m³
+  - The UO2 mass in a single pellet is about 11.3 grams
+  - The uranium elemental mass in a single fresh pellet is about 10.0 grams
+  - Typical PWRs and BWRs fission about 5-6% of their uranium atoms before being
     discharged in the USA.
 
-
 </div>
 </div>
-

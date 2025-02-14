@@ -30,10 +30,7 @@ was in the Navy, this is it. Does anyone see young Jimmy Carter in the footage?)
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/9wLJUZ3Vhao"
-title="Restoration of the NRX Reactor" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="9wLJUZ3Vhao" title="Restoration of the NRX Reactor film" %}
 </div>
 </figure>
 

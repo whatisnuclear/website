@@ -25,10 +25,7 @@ comments: true
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/zr37qc4omNY?si=aNwyXHBQPZQBzW7R"
-title="No Greater Challenge film" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="zr37qc4omNY" title="No Greater Challenge film" %}
 </div>
 </figure>
 

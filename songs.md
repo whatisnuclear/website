@@ -4,6 +4,7 @@ title: Nuclear Energy Songs
 description: Our favorite anti-nuclear and pro-nuclear energy songs.
 image: /img/songs.jpg
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
@@ -25,6 +26,7 @@ slipped in anyway...
 </ul>
 
 {% for section in site.data.songs %}
+
 <h1 id="{{section.category|slugify}}">{{section.category}} <a href="#{{section.category|slugify}}">&#167;</a></h1>
 <p>{{section.description}}</p>
 
@@ -34,10 +36,11 @@ slipped in anyway...
 <p>{{song.description}}</p>
 
 <div class="container text-center my-0 ratio ratio-16x9">
-<iframe src="{{song.url}}"
-title="{{song.title}}"  allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+{% if song.start %}
+{% include youtube.html id=song.url title=song.title start=song.start %}
+{% else %}
+{% include youtube.html id=song.url title=song.title %}
+{% endif %}
 </div>
 {% endfor %}
 <hr />
@@ -51,8 +54,8 @@ signal to noise high).
 
 ## Related collections
 
-* [Top Ten Anti-nuclear songs](https://www.thenation.com/article/archive/top-ten-antinuclear-songs/)
-* [Nuclear Energy Music](https://www.youtube.com/playlist?list=PLesFeXhnN6U3SWv2cNEYh1RonXIXjXUjz) -- A whole youtube playlist of pro-nuclear songs
+- [Top Ten Anti-nuclear songs](https://www.thenation.com/article/archive/top-ten-antinuclear-songs/)
+- [Nuclear Energy Music](https://www.youtube.com/playlist?list=PLesFeXhnN6U3SWv2cNEYh1RonXIXjXUjz) -- A whole youtube playlist of pro-nuclear songs
 
 </div>
 </div>

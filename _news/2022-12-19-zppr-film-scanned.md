@@ -18,8 +18,9 @@ comments: true
 
 This is the story about how this 1970 film about ZPPR ended up on YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jmvbbRRYb6k" 
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+{% include youtube.html id="jmvbbRRYb6k" title="ZPPR video" start="39" %}
+</div>
 
 On October 22, 2022, I was reading an old Atomic Energy Commission booklet
 called [Understanding the atom: Breeder

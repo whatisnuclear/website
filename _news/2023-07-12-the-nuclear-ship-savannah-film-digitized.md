@@ -22,11 +22,7 @@ Savannah!
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe
-src="https://www.youtube.com/embed/SA8W2Xpz2hA" title="The Nuclear Ship Savannah" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="SA8W2Xpz2hA" title="The Nuclear Ship Savannah" %}
 </div>
 <figcaption markdown="1">1964 US Atomic Energy Commission video entitled "The
 Nuclear Ship Savannah", digitized by us from the National Archives ([NAID

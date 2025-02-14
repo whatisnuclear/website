@@ -5,12 +5,13 @@ author: nick
 date: 2023-04-29
 byline: true
 image: "/img/one-drum-text.jpg"
-factlets: 
-    - If a 55-gallon drum was actually filled with spent fuel, it would have generated
-      enough electricity to power 60,000 average US households for a year.
-    - If a 55-gallon drum was actually filled with spent fuel, it would represent 55 million lbs
-      of CO₂ that didn't get emitted.
+factlets:
+  - If a 55-gallon drum was actually filled with spent fuel, it would have generated
+    enough electricity to power 60,000 average US households for a year.
+  - If a 55-gallon drum was actually filled with spent fuel, it would represent 55 million lbs
+    of CO₂ that didn't get emitted.
 ---
+
 <div class="row">
 <div class="col-lg-8" markdown="1">
 
@@ -61,12 +62,10 @@ more energy would have been extracted per volume.
 {% imagesize /img/one-drum-text.jpg:props %}  
 alt="A barrel in front of 60,000 houses"/></a>
 
-
 <figure>
-<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/u-VaS14Ls8U"
-title="Barrel of waste video" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+{% include youtube.html id="u-VaS14Ls8U" title="Barrel of waste video" %}
+</div>
 <figcaption class="figure-caption">A video version of this with
 slightly higher numbers (it assumes a brand new AP1000 reactor with higher
 burnup fuel rather than average discharge fuel).</figcaption>

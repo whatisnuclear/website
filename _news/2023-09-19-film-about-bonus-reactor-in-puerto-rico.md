@@ -32,10 +32,7 @@ stream to you in living color wherever you are. Enjoy!
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/yRYfUsY5W8o?si=8NOIyCMyoPpDCzIK" title="BONUS for Puerto Rico" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="yRYfUsY5W8o" title="BONUS for Puerto Rico" %}
 </div>
 <figcaption markdown="1">1967 film entitled "BONUS for Puerto Rico", digitized
 and uploaded by us, sourced from the US National Archives. 

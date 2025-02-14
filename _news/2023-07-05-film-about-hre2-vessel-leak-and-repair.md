@@ -39,11 +39,7 @@ the 1960s... until today!
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe
-src="https://www.youtube.com/embed/Dc2VZav17Ag" title="Remote Repair and Modification of the HRE-2 Core Vessel" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="Dc2VZav17Ag" title="Remote Repair and Modification of the HRE-2 Core Vessel" %}
 </div>
 <figcaption markdown="1">1961 US Atomic Energy Commission video entitled "Remote
 Repair and Modification of the HRE-2 Core Vessel" showing the repair of the

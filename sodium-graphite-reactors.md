@@ -46,7 +46,7 @@ in any country that is not aggressively reprocessing its spent nuclear fuel.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/ey1MO_1DkL4?start=20" title="A video about the Hallam SGR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html id="ey1MO_1DkL4" title="1963 film about Hallam" start="20" %}
 </div>
 <figcaption markdown="1">1963 Atomic Energy Commission video about Hallam,
 digitized from the National Archives thanks to  [Nebraska Public Power

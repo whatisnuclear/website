@@ -32,11 +32,7 @@ efforts.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe
-src="https://www.youtube.com/embed/ey1MO_1DkL4?start=20" title="A video about
-the Hallam SGR" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe> 
+{% include youtube.html id="ey1MO_1DkL4" title="A video about the Hallam SGR" start="20" %}
 </div>
 <figcaption markdown="1">1963 Atomic Energy Commission
 video about Hallam, digitized from the National Archives thanks to [Nebraska
@@ -58,10 +54,7 @@ in a condensed version.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/H1kazdkkB5o"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe> 
+{% include youtube.html id="H1kazdkkB5o" title="Hallam video" %}
 </div>
 <figcaption markdown="1">1964 Atomic Energy Commission
 video about Hallam, digitized from the National Archives
@@ -74,7 +67,7 @@ are well worth watching:
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/gV9FjSIEKUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html id="gV9FjSIEKUo" title="Construction of Sheldon station" %}
 </div>
 <figcaption markdown="1">A film about the construction of the Sheldon station digitized by NPPD.
 </figcaption> 
@@ -82,7 +75,7 @@ are well worth watching:
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/hd7CJvZ6ZAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html id="hd7CJvZ6ZAg" title="Another construction of Hallam film" %}
 </div>
 <figcaption markdown="1">A film about the construction of the Sheldon station digitized by NPPD. This one includes a great shot of the Hallam reactor vessel after it fell off the truck
 and rolled several hundred yards through a corn field.

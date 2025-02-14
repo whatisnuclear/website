@@ -3,214 +3,212 @@
     It was really hip to be anti-nuclear between 1975 and 1995, and so
     most nuclear energy songs are anti-nuclear ones and come from this era.
   songs:
-  - artist: Gil Scott Heron
-    title: We almost Lost Detroit
-    anti: true
-    album: Bridges
-    url: https://www.youtube.com/embed/cpNUqNe0U5g
-    date: 1977
-    description: >
-      A super-chill tune all about the Fermi 1 accident where a liner
-      of a core catcher broke off and blocked the coolant inlets of a 
-      few assemblies, causing them to overheat and melt. Fermi 1
-      was an early sodium-metal cooled fast neutron reactor.
+    - artist: Gil Scott Heron
+      title: We almost Lost Detroit
+      anti: true
+      album: Bridges
+      url: cpNUqNe0U5g
+      date: 1977
+      description: >
+        A super-chill tune all about the Fermi 1 accident where a liner
+        of a core catcher broke off and blocked the coolant inlets of a 
+        few assemblies, causing them to overheat and melt. Fermi 1
+        was an early sodium-metal cooled fast neutron reactor.
 
-  - artist: Peter, Paul, and Mary
-    title: Power
-    album: Such is Love
-    anti: true
-    url: https://www.youtube.com/embed/ZOWb7Xu1onM 
-    date: 1983
-    description: >
-      A nice folky song by one of my childhood favorite groups. This one prefers
-      the comforting glow of the woodfire, never mind that biofuel combustion
-      kills about 4 million people per year with air pollution, according to the
-      WHO. 
+    - artist: Peter, Paul, and Mary
+      title: Power
+      album: Such is Love
+      anti: true
+      url: ZOWb7Xu1onM
+      date: 1983
+      description: >
+        A nice folky song by one of my childhood favorite groups. This one prefers
+        the comforting glow of the woodfire, never mind that biofuel combustion
+        kills about 4 million people per year with air pollution, according to the
+        WHO.
 
-  - artist: Kraftwerk
-    title: Radioactivity
-    album: Radio-Activity
-    anti: true
-    url: https://www.youtube.com/embed/0EBTn_3DBYo
-    date: 1975
-    description: >
-      A truly excellent sounding electronic song from the pioneers of techno.
-      Sadly, they're German...so, yeah. 
+    - artist: Kraftwerk
+      title: Radioactivity
+      album: Radio-Activity
+      anti: true
+      url: 0EBTn_3DBYo
+      date: 1975
+      description: >
+        A truly excellent sounding electronic song from the pioneers of techno.
+        Sadly, they're German...so, yeah.
 
-  - artist: Alice Cooper
-    title: Nuclear Infected
-    album: Flush the Fashion
-    anti: true
-    url: https://www.youtube.com/embed/Mk9XRBsCaug
-    date: 1980
-    description: >
-      Tongue-in-cheek song about being radioactive.
+    - artist: Alice Cooper
+      title: Nuclear Infected
+      album: Flush the Fashion
+      anti: true
+      url: Mk9XRBsCaug
+      date: 1980
+      description: >
+        Tongue-in-cheek song about being radioactive.
 
-  - artist: Christy Moore
-    title: House Down In Carne
-    album: 
-    anti: true
-    url: https://www.youtube.com/embed/b_uFP_rh2l8
-    date: 1980
-    description: >
-      The Ballad Of Nuke Power. I cripple and maim and cause death and decay"
-      Musically excellent for sure. Carne is Carnesore Point - where Ireland were 
-      considering building a reactor.
+    - artist: Christy Moore
+      title: House Down In Carne
+      album:
+      anti: true
+      url: b_uFP_rh2l8
+      date: 1980
+      description: >
+        The Ballad Of Nuke Power. I cripple and maim and cause death and decay"
+        Musically excellent for sure. Carne is Carnesore Point - where Ireland were 
+        considering building a reactor.
 
-  - artist: Tuff Darts
-    title: (Your Love Is Like) Nuclear Waste
-    album: 
-    anti: true
-    url: https://www.youtube.com/embed/Dro6Ysjd5RQ 
-    date: 1978
-    description: >
-      Kind of a power ballad. Your body is a danger to the human race! They should slap
-      "contaminated" right across your face!
+    - artist: Tuff Darts
+      title: (Your Love Is Like) Nuclear Waste
+      album:
+      anti: true
+      url: Dro6Ysjd5RQ
+      date: 1978
+      description: >
+        Kind of a power ballad. Your body is a danger to the human race! They should slap
+        "contaminated" right across your face!
 
-  - artist: Timbuk 3
-    title: The Future's So Bright, I Gotta Wear Shades
-    album: The Future's So Bright, I Gotta Wear Shades
-    anti: true
-    url: https://www.youtube.com/embed/8qrriKcwvlY
-    date: 1986
-    description: >
-      A song about a nuclear scientist thinking about how bright the future will be
-      because of nuclear catastrophe. 
+    - artist: Timbuk 3
+      title: The Future's So Bright, I Gotta Wear Shades
+      album: The Future's So Bright, I Gotta Wear Shades
+      anti: true
+      url: 8qrriKcwvlY
+      date: 1986
+      description: >
+        A song about a nuclear scientist thinking about how bright the future will be
+        because of nuclear catastrophe.
 
-  - artist: WAND
-    title: No Dosimeter
-    album: 
-    anti: true
-    url: https://www.youtube.com/embed/Qaptvhky8IQ?start=3736
-    date: "?"
-    description: >
-      Some anti-nuclear activists singing at an anti-nuclear event
+    - artist: WAND
+      title: No Dosimeter
+      album:
+      anti: true
+      url: Qaptvhky8IQ
+      start: 3736
+      date: "?"
+      description: >
+        Some anti-nuclear activists singing at an anti-nuclear event
 
 - category: Pro-nuclear energy songs
   description: >
     There are pro-nuclear songs too
   songs:
-  - artist: Eric Meyer
-    title: Aria de Thorium (Thorium Opera)
-    anti: false
-    url: https://www.youtube.com/embed/by9MnngGz3k
-    date: 2015
-    description: >
-      Utterly unique and beautiful Thorium Opera.
+    - artist: Eric Meyer
+      title: Aria de Thorium (Thorium Opera)
+      anti: false
+      url: by9MnngGz3k
+      date: 2015
+      description: >
+        Utterly unique and beautiful Thorium Opera.
 
-  - artist: Baba Brinkman
-    title: Molten Salt
-    album: Bright Future
-    anti: false
-    url: https://www.youtube.com/embed/TvsckP198L0
-    date: 2021
-    description: >
-      Nuclear reactor rap.
-      
-  - artist: Him and the Layers
-    title: HalleNuclear
-    album: 
-    anti: false
-    url: https://www.youtube.com/embed/vw4-3BrPZTk
-    date: 2020
-    description: >
-      A beautiful song by some beautiful nearly-naked men from New Zealand's
-      most iconic topical pop group.
+    - artist: Baba Brinkman
+      title: Molten Salt
+      album: Bright Future
+      anti: false
+      url: TvsckP198L0
+      date: 2021
+      description: >
+        Nuclear reactor rap.
 
-  - artist: Generation Atomic
-    title: Clean Power Forever
-    album: 
-    anti: false
-    url: https://www.youtube.com/embed/cdfgF0YPLFQ
-    date: 2018
-    description: >
-      EBR-I Music Video feat. Eric Meyer.
+    - artist: Him and the Layers
+      title: HalleNuclear
+      album:
+      anti: false
+      url: vw4-3BrPZTk
+      date: 2020
+      description: >
+        A beautiful song by some beautiful nearly-naked men from New Zealand's
+        most iconic topical pop group.
 
+    - artist: Generation Atomic
+      title: Clean Power Forever
+      album:
+      anti: false
+      url: cdfgF0YPLFQ
+      date: 2018
+      description: >
+        EBR-I Music Video feat. Eric Meyer.
 
 - category: General nuclear songs
   description: >
     These talk about nuclear energy.
   songs:
+    - artist: Penney File
+      title: Working in a Nuclear Power Plant
+      url: DDQQQEQeG5A
+      date: "2000?"
+      description: >
+        A highly technical Christmas song with a bunch of truly funny
+        reactor operator stuff. Definitely written by a nuclear professional.
 
-  - artist: Penney File 
-    title: Working in a Nuclear Power Plant
-    url: https://www.youtube.com/embed/DDQQQEQeG5A
-    date: "2000?"
-    description: >
-      A highly technical Christmas song with a bunch of truly funny
-      reactor operator stuff. Definitely written by a nuclear professional.
+    - artist: Sir Lancelot
+      title: Atomic Energy
+      url: S_eY1W7Ezw4
+      date: 1947
+      description: >
+        A calypso song pondering the tradeoffs involved when humans harness
+        great physical powers.
 
-  - artist: Sir Lancelot 
-    title: Atomic Energy
-    url: https://www.youtube.com/embed/S_eY1W7Ezw4
-    date: 1947
-    description: >
-      A calypso song pondering the tradeoffs involved when humans harness
-      great physical powers.
+    - artist: Buchanan Brothers
+      title: Atomic Power
+      url: EGy6WET0cAg
+      date: 1946
+      description: >
+        A country song about how atomic power was given by the mighty hand of God
+        and should be used for good rather than destruction.
 
-  - artist: Buchanan Brothers
-    title: Atomic Power
-    url: https://www.youtube.com/embed/EGy6WET0cAg
-    date: 1946
-    description: >
-      A country song about how atomic power was given by the mighty hand of God
-      and should be used for good rather than destruction.
-      
-  - artist: Elton Britt
-    title: Uranium Fever
-    album: 
-    anti: false
-    url: https://www.youtube.com/embed/acMqxcdxE0E
-    date: 1955
-    description: >
-      A catchy country song about mining uranium for the AEC. This is the era
-      where everyone started finding lots of uranium and we stopped focusing
-      on breeder reactors. 
+    - artist: Elton Britt
+      title: Uranium Fever
+      album:
+      anti: false
+      url: acMqxcdxE0E
+      date: 1955
+      description: >
+        A catchy country song about mining uranium for the AEC. This is the era
+        where everyone started finding lots of uranium and we stopped focusing
+        on breeder reactors.
 
-  - artist: Warren Smith 
-    title: Uranium Rock
-    album: 
-    anti: false
-    url: https://www.youtube.com/embed/CUJQsoYxS3s
-    date: 1958
-    description: >
-      An early rock song about making money by uranium mining.
-
+    - artist: Warren Smith
+      title: Uranium Rock
+      album:
+      anti: false
+      url: CUJQsoYxS3s
+      date: 1958
+      description: >
+        An early rock song about making money by uranium mining.
 
 - category: Nuclear war songs
   description: >
     Gotta have at least a few nuclear war songs
   songs:
-  - artist: Sun Ra
-    title: Nuclear War
-    album: A Fireside Chat with Lucifer
-    url: https://www.youtube.com/embed/lsPrINajncU
-    date: 1983
-    description: >
-      Honestly I think that even though this one is obviously about nuclear
-      war, it's gotta be my favorite. 
+    - artist: Sun Ra
+      title: Nuclear War
+      album: A Fireside Chat with Lucifer
+      url: lsPrINajncU
+      date: 1983
+      description: >
+        Honestly I think that even though this one is obviously about nuclear
+        war, it's gotta be my favorite. 
 
-      If they push that button, your ass has got to go! Whatchu gonna do
-      without your ass?
+        If they push that button, your ass has got to go! Whatchu gonna do
+        without your ass?
 
-  - artist: Louvin Brothers
-    title: Great Atomic Power
-    album: 
-    anti: false
-    url: https://www.youtube.com/embed/-5i4ZGVQGa8
-    date: 1952
-    description: >
-      A song encouraging people to accept Jesus before they get
-      bombed to oblivion.
+    - artist: Louvin Brothers
+      title: Great Atomic Power
+      album:
+      anti: false
+      url: -5i4ZGVQGa8
+      date: 1952
+      description: >
+        A song encouraging people to accept Jesus before they get
+        bombed to oblivion.
 
 - category: Nuclear-adjacent songs
   description: >
     Some songs briefly mention something about nuclear energy.
   songs:
-  - artist: Bob Marley & the Wailers
-    title: Redemption Song
-    album: Uprising
-    url: https://www.youtube.com/embed/yv5xonFSC4c
-    date: 1980
-    description: >
-      Have no fear for atomic energy, 'cause none of them can stop the time. Hi Brett.
+    - artist: Bob Marley & the Wailers
+      title: Redemption Song
+      album: Uprising
+      url: yv5xonFSC4c
+      date: 1980
+      description: >
+        Have no fear for atomic energy, 'cause none of them can stop the time. Hi Brett.

@@ -2,20 +2,21 @@
 layout: default
 title: Sodium and Salt are different in nuclear
 category: blog
-description: > 
-    While most of us think salt when we hear about sodium, the two words
-    mean significantly different things in the context of advanced nuclear
-    technology. This post explains the difference between salt and sodium.
+description: >
+  While most of us think salt when we hear about sodium, the two words
+  mean significantly different things in the context of advanced nuclear
+  technology. This post explains the difference between salt and sodium.
 author: nick
 image: /img/salt-vs-sodium.jpg
 byline: true
 date: 2020-11-23
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-Most of us use the words *sodium* and *salt* interchangeably. After all, this is how they're
-used in nutrition: *low sodium* means something's not too *salty*. However, when these
+Most of us use the words _sodium_ and _salt_ interchangeably. After all, this is how they're
+used in nutrition: _low sodium_ means something's not too _salty_. However, when these
 terms are used in the context of nuclear technology, they refer to significantly different
 concepts.
 
@@ -55,13 +56,16 @@ and the MSRE, and is a favorite design choice for next-generation reactors due t
 potential safety advantages and simplifications. They have also been proposed as the
 coolant for solid-fuel reactors. Molten salt is used in nuclear concepts and in operating
 solar-thermal facilities where energy can be stored for several hours as heat.
+
 </div>
 </div>
 
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gGx_ur3FDvo" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+{% include youtube.html id="gGx_ur3FDvo" title="Sodium vs. salt video" %}
+</div>
 
 To make it even more confusing, some reactors use both sodium metal and molten salt. For
 example, the [Aircraft Reactor Experiment
@@ -73,11 +77,11 @@ Note that while sodium metal is not in any way a salt, some salts, like Sodium-C
 (table salt) contain sodium. This is the sodium people refer to in nutrition. Others salts
 (like Potassium-Chloride and FLiBe) do not contain any sodium.
 
-
 # See Also
-* [Molten Salt Reactors]({% link msr.md %})
-* [Liquid Metal Reactors]({% link fast-reactor.md %})
-* [Reactor Development History]({% link reactor-history.md %})
+
+- [Molten Salt Reactors]({% link msr.md %})
+- [Liquid Metal Reactors]({% link fast-reactor.md %})
+- [Reactor Development History]({% link reactor-history.md %})
 
 </div>
 </div>

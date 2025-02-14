@@ -29,12 +29,7 @@ comments: true
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe 
-src="https://www.youtube.com/embed/V-8q8INxQEY?si=nZ__dsJt1PAFF6FS"
-title="Aircraft Nuclear Power progress report 1956-1958 film" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-allowfullscreen></iframe>
+{% include youtube.html id="V-8q8INxQEY" title="Aircraft Nuclear Power progress report 1956-1958 film" %}
 </div>
 </figure>
 

@@ -46,10 +46,7 @@ Thanks again to **Last Energy** for sponsoring the digitization of this film!!
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/QTNheyTXpII?si=dUvhmfvr7JhkyI5b"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="QTNheyTXpII" title="Naval research film" %}
 </div>
 </figure>
 

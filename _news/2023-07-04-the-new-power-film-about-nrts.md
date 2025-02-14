@@ -28,11 +28,7 @@ latest batch of 4K digitizations from 16mm film at the National Archives.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe
-src="https://www.youtube.com/embed/LmdLgYqJLqs" title="The New Power" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="LmdLgYqJLqs" title="The New Power" %}
 </div>
 <figcaption markdown="1">1965 US Atomic Energy Commission video about the National 
 Reactor Testing Station (NRTS), known today as the Idaho National Lab (INL).

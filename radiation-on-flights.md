@@ -22,11 +22,8 @@ about radiation on flights.
 
 <figure>
 <div class="ratio ratio-16x9">
-
-<iframe src="https://www.youtube.com/embed/njKl-WmbcEg" title="Me with a Geiger
-counter on a flight" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe> </div>
+{% include youtube.html id="njKl-WmbcEg" title="Me with a Geiger counter on a flight" %}
+</div>
 <figcaption markdown="1">
 My Geiger counter on a flight
 </figcaption> 

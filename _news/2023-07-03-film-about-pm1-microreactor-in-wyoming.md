@@ -30,11 +30,7 @@ crew of 2.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe
-src="https://www.youtube.com/embed/T9S1P54n1FA" title="PM-1 Nuclear Power Plant" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+{% include youtube.html id="T9S1P54n1FA" title="PM-1 Nuclear Power Plant" %}
 </div>
 <figcaption markdown="1">1962 US Atomic Energy Commission video about the PM-1
 military microreactor, digitized by us from the National Archives ([NAID

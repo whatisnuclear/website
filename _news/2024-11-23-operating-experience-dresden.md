@@ -22,11 +22,7 @@ get it built, at considerable risk.
 
 <figure>
 <div class="ratio ratio-16x9">
-<iframe 
-src="https://www.youtube.com/embed/ivFiqkon_WY?si=PceNIbQtdVJCsGNU"
-title="Dresden film" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="ivFiqkon_WY" title="Dresden film" %}
 </div>
 
 </figure>

@@ -2,7 +2,7 @@
 layout: default
 title: A primer on energy, greenhouse gas, intermittency, and nuclear
 category: blog
-description: An in-depth view of current world energy needs and the clean energy sources we have to meet them. 
+description: An in-depth view of current world energy needs and the clean energy sources we have to meet them.
 author: nick
 published: true
 date: 2017-12-17
@@ -12,22 +12,22 @@ byline: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-
 Thanks entirely to the efforts of local climate-related organizations in Seattle, I've now spoken at
 a handful of book stores, breweries, universities, and even Town Hall on climate and energy. Last
 week, I was honored to be on one such panel at a brewery in Ballard alongside Univ. of Washington
 oceanographer LuAnne Thompson and Governor Inslee's senior climate policy advisor, Reed Schuler. My
 role was to provide background information on the human relationship with energy: what we've used in
-the past, what we're using today, and what our low-carbon options are moving forward.  I touched on
+the past, what we're using today, and what our low-carbon options are moving forward. I touched on
 progress and challenges with intermittency, hydro, and nuclear. This post summarizes and expands
 upon these topics.
 
 <span class="alert-success">**Update:** The event discussed has now been posted on [YouTube in full](https://www.youtube.com/watch?v=skGLqSS5ACE).</span>
 
-*NOTE: This post originally appeared [here](https://partofthething.com/thoughts/a-medium-length-primer-on-energy-greenhouse-gas-intermittency-and-nuclear/)
-and was reposted here with permission of the author.*
+_NOTE: This post originally appeared [here](https://partofthething.com/thoughts/a-medium-length-primer-on-energy-greenhouse-gas-intermittency-and-nuclear/)
+and was reposted here with permission of the author._
 
 ### Energy is a replacement for the labor of human beings
+
 The first part of my talk was easy. I threw up my favorite slides demonstrating how energy improves
 quality of life by replacing human labor. Between construction, farming, heating, water, laundry,
 and travel it's a pretty easy case to make.
@@ -118,7 +118,6 @@ Global Manmade Greenhouse Gas Emissions by Sector, 2013. You can see it's mostly
 (Source: Climate Analysis Indicators Tool, World Resources Institute).</figcaption>
 </figure>
 
-
 ### We have low-carbon energy sources
 
 So, what are our options? We have a lot of low-carbon energy sources. For electricity, here they
@@ -155,6 +154,7 @@ So to meet LuAnne's/Paris' goals of going carbon-zero by 2050, not only do we ha
 our coal and natural gas electric plants, but we also have to ramp up the electric grid by more than
 a factor of 2 to cover heat and transportation. And then we might have to nearly double it again to
 pull the excess carbon out of the atmosphere for the next 50 years... Man! this sounds hard.
+
 <h2>Wind and solar and intermittency, oh my!</h2>
 Wind and solar power are astoundingly popular. Most people don't want more offshore drilling,
 nuclear power plants, fracking, or coal mining. Wind and solar enjoy strong policy support. It's
@@ -188,7 +188,7 @@ environmental impact of our options. Every day in California, the sun comes out 
 power plants ramp way down. Then at sunset, everyone comes home and opens their fridge. The
 non-solar grid generators ramp up 13 billion Watts in 3 hours for the evening and then stay fairly
 high until the sun comes back out. This makes what's now called <a
-href="https://en.wikipedia.org/wiki/Duck_curve">"The Duck Curve"</a>.  What would it take to handle
+href="https://en.wikipedia.org/wiki/Duck_curve">"The Duck Curve"</a>. What would it take to handle
 that kind of energy in batteries and pumped hydro? Read on!
 
 As I looked over the live data in my area from Bonneville Power Administration (BPA), this challenge
@@ -209,7 +209,6 @@ wasn't windy across 4 states for 10 full days. Note that there's no solar becaus
 zero utility solar in the northwest. Data from <a
 href="https://transmission.bpa.gov/Business/Operations/Wind/default.aspx">BPA</a>.</figcaption>
 </figure>
-
 
 BPA controls <a
 href="https://transmission.bpa.gov/Business/Operations/Wind/WIND_InstalledCapacity_LIST.pdf">4 GWe
@@ -256,14 +255,13 @@ it's calm. Overall, the rectangle above is 25% green, meaning there's an average
 25% in this area.</figcaption>
 </figure>
 
-
 For solar, besides nights, similar lulls are fairly regular in the form of multiple-week cloudy
 periods. An even bigger challenge is <em>seasonal</em> intermittency. There is ~4x less sun in many
-areas in the winter than there is in the summer. 
+areas in the winter than there is in the summer.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Sq9Uq1DqhU8"
- allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+{% include youtube.html id="Sq9Uq1DqhU8" title="Seasonal intermittency video" %}
+</div>
 
 From the previous discussion, it should be clear
 that we can't store energy in the summer and use it in the winter (even using solar-thermal storage
@@ -286,8 +284,8 @@ In some areas, wind and solar seasonal variations can cancel each other out to s
 other areas they change together with the seasons (<a
 href="https://www.eia.gov/todayinenergy/detail.php?id=20112">see plots at EIA</a>). In either case,
 since it's always possible that both the wind and sun could be largely out of commission in
-multi-state regions for multiple days, the energy grid must have a way to still work.  By the
-previous discussion, batteries appear to be  too impractical, too uneconomical, and too
+multi-state regions for multiple days, the energy grid must have a way to still work. By the
+previous discussion, batteries appear to be too impractical, too uneconomical, and too
 environmentally impactful for this problem on a grid scale. You have to mine and transport that
 lithium from somewhere.
 
@@ -300,6 +298,7 @@ approaches 40%. Enabling technologies to avoid this kind of limit can be develop
 undeniably challenging and uncertain.
 
 ### Hydro and pumped storage
+
 One large-scale non-battery way to store energy is to take water at the bottom of a dam and run
 pumps to lift it back up into the reservoir when you have excess energy (i.e. when it's really sunny
 or windy and you have a lot of excess capacity). This is neat because you can then adjust the valves
@@ -326,15 +325,16 @@ way to make clean electricity where the geography is right. (Issue: the geograph
 right in a whole lot of places)
 
 A Puget Sound Energy hydro guy came up to me after the Ballard event where I presented this and
-said:  "what you said about reservoirs is complete BS!" After discussing and exchanging research
+said: "what you said about reservoirs is complete BS!" After discussing and exchanging research
 papers, he conceded that the biogenic emission issue indeed warrants careful consideration. He then
 correctly pointed out that hydro has other benefits like flood control and balancing wind
 intermittency. We ended up on good terms and agreed to partner in the quest for a low-carbon future.
 I'm hoping to secure a hydro tour.
 
 ### Scientific infighting in the energy source debate
+
 There's a raging scientific debate going on on this topic. Stanford's Mark Jacobsen <a
-href="https://www.pnas.org/doi/10.1073/pnas.1510028112">published a low-cost 100% renewables plan</a> in 
+href="https://www.pnas.org/doi/10.1073/pnas.1510028112">published a low-cost 100% renewables plan</a> in
 May 2015. It didn't even call for batteries (he thinks they're dumb too) or biomass at all, relying
 completely on pumped hydro and hydrogen for energy storage. In June 2016, a 21-strong
 wide-ranging team of scientists led by Clack (formerly of NOAA) <a
@@ -380,6 +380,7 @@ source of carbon-free energy in the USA: nuclear energy. Let's all shed a tear f
 really!
 
 ## What about nuclear?
+
 Nuclear energy is my favorite energy source. Due to the energy density of nuclear fuel (there's ~2
 million times more energy in a handful of uranium than of coal), it features extraordinarily small
 material, land, health, and waste footprints. The power plants run 24/7, day or night, wind or calm,
@@ -414,6 +415,7 @@ today, they're called climate deniers and anti-scientific. But when the health e
 are brought into question, then it's open season! Curious indeed.)
 
 ### Reliability
+
 Nuclear reactors have the best capacity factor, at above 90% nationally. They do have to go down for
 a few weeks every 18-24 months for refueling/maintenance outages, but since we can plan these, we
 just stagger which ones are down in a large fleet, (c.f. wind and solar, where "outages" are out of
@@ -426,6 +428,7 @@ concrete fortresses and can very frequently keep on operating during such events
 energy even in times of dire need like <a
 href="https://www.bloomberg.com/news/articles/2017-08-30/as-harvey-raged-workers-slept-on-cots-to-keep-nuclear-power-on">during
 Hurricane Harvey</a>.
+
 <h3>Cost</h3>
 Cost is an issue, especially in the West. <a
 href="https://www.nytimes.com/2017/03/29/business/westinghouse-toshiba-nuclear-bankruptcy.html">Westinghouse
@@ -460,6 +463,7 @@ world leaders in building reactors on time and budget</a>.</figcaption>
 </figure>
 
 #### **What about the waste?**
+
 While this is a very common and legitimate concern, I'm unaware of anyone who has been hurt by
 commercial nuclear waste in the 60+ year history of the industry.
 
@@ -469,7 +473,7 @@ href="https://en.wikipedia.org/wiki/Deep_borehole_disposal">deep boreholes</a>. 
 are reasonable technical solutions and we have sites to do them in. The Finns will open <a
 href="https://en.wikipedia.org/wiki/Onkalo_spent_nuclear_fuel_repository">theirs in 2023</a>. It
 will stay out of the biosphere until well after it decays to harmlessness. Problem solved. No one
-harmed.  The problem is political. People don't want it near them because they're afraid of it
+harmed. The problem is political. People don't want it near them because they're afraid of it
 because they've been told to be afraid of it. That is the problem.
 
 To be fair, nuclear waste is very hazardous material that must be handled with care. We deal with
@@ -484,6 +488,7 @@ unrelated to the solid ceramic commercial waste forms sitting in dry casks aroun
 plants. The green ooze of Simpsons/Ninja Turtles just isn't relevant to clean nuclear electricity.
 
 #### So, how is the 100% renewable dream hurting nuclear?
+
 The production and renewable tax credits are skewing electricity markets in a way that makes
 utilities want to shut down their carbon-free nuclear power plants so they can make more money. This
 is actually a two-pronged issue related to these tax credits and one other thing: low natural gas
@@ -492,7 +497,7 @@ prices.
 Natural gas is astoundingly cheap in the USA right now due to things like horizontal drilling and
 fracking. As a result, owners of power plants in deregulated markets (who are not responsible for
 long-term sustainability and overall workings of the grid) are incentivized to make as much energy
-as they can with the cheapest stuff (to them).  Because of production tax credits, wind and solar
+as they can with the cheapest stuff (to them). Because of production tax credits, wind and solar
 come online whenever they can (they bid negative prices sometimes due to this distorted market).
 Then coal, then natural gas, and then the expensive natural gas spinners bid their increasing
 prices. When the demand is met in this auction, the marginal price is what goes all the generators.
@@ -522,9 +527,10 @@ would out-compete fossil easily.
 (Note that this section is very US-focused)
 
 #### More info on nuclear
+
 There are lots of exciting things going on in advanced nuclear (like natural safety, minimized
 waste, cheaper fuel cycles, higher temperatures, thorium resources) but conventional nukes are
-already climate champions so more of them would be great as well. 
+already climate champions so more of them would be great as well.
 This is posted on a whole webpage dedicated
 to teaching people about nuclear so if you want more info click around on the menus or start at <a
 href="/">the front page</a>.
@@ -533,6 +539,7 @@ For a more serious deep-dive in the broader context of nuclear and climate chang
 Montgomery and Thomas Graham's new book: <a
 href="https://www.amazon.com/Seeing-Light-Nuclear-Power-Century/dp/110840667X/ref=sr_1_2">Seeing the
 Light.</a>
+
 <h1>What can you do to help?</h1>
 <span class=" UFICommentActorAndBody"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span
 class="UFICommentBody _1n4g">Whenever I give a talk, usually everyone asks "what can I do to help."
@@ -579,6 +586,7 @@ OK with supporting nukes as part of the all-of-the-above approach.
 If you're really convinced and want to get involved in nuclear outreach, check out <a
 href="http://www.generationatomic.org/">Generation Atomic</a>! Also, watch David Schumacher's recent
 <a href="http://newfiremovie.com/">film The New Fire</a> (I'm in it!).
+
 <h3>Put solar panels on your roof and switch to an electric car</h3>
 We need all the carbon-free energy we can get. If you have a roof, put panels on it and use your
 electric vehicle to level out some of your load. This is going to help pick away at that 40% of our
@@ -587,6 +595,7 @@ Last option: get a 60 mpg motorcycle but be safe on the road.
 
 By the way, electric cars plugged into a smart-grid are a pretty good way to do a certain amount of
 load shifting and intermittent backup.
+
 <h3>Rename natural gas to something more sinister</h3>
 Seriously. Here we are debating between carbon-free energy options while the fossil fuel natural gas
 rolls in the dough and increases worldwide. It's even considered a luxury to have natural gas
@@ -608,6 +617,7 @@ quickly, so it adds up quick.
 
 Consider living near your hometown and/or workplace. Employers, encourage people to work remotely
 more. Innovators: make working remotely slightly more like being at work.
+
 <h3>Make it easier to load follow with nuclear reactors</h3>
 Fellow reactor designers and operators: make more nuclear reactors that can load follow. You can do
 this either by co-generation (desalinate water, make hydrogen, grow food, etc. with your spare heat
@@ -634,6 +644,7 @@ climate change.
 
 (UPDATE: My friends Phil and Mark ran into some people who saw my talk on the ski slopes the other
 day and the people confirmed that I was convincing on the whole. )
+
 <h1>Acknowledgement</h1>
 Infinite thanks to <a href="http://cascadiaclimateaction.org/">Cascadia Climate Action</a> and <a
 href="https://seattlefof.org/">Seattle Friends of Fission</a> for getting me involved in climate
@@ -651,8 +662,6 @@ Puget Sound.</em>
 
 <em>Disclaimer: The views expressed on this page are solely those of Nick and don't represent the
 views of his employer or anyone else for that matter. </em>
-
-
 
 </div>
 </div>
