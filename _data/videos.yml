@@ -2861,7 +2861,7 @@
 - title: "Armour Research Reactor"
   naid: 88092
   date: 1958
-  win: true
+  win: false
   length: 16.5
   color: true
   description: >
@@ -2869,11 +2869,6 @@
     nuclear energy reactor designed specifically for industrial research — the
     50,000- watt solution type reactor built by Atomics International for the
     Armour Research Foundation, Chicago.
-  links:
-    - name: Digitization Annoucement
-      url: /news/2025-02-10-armour-research-reactor-film-1958.html
-    - name: On Youtube
-      url: https://www.youtube.com/watch?v=2Y3JsQ3evcM
 
 - title: The Alchemist's Dream
   date: 1965
