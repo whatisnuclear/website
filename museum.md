@@ -45,8 +45,8 @@ a list of them all.
 <div class="card" style="width: 18rem;">
 <img src="{{ img }}" class="img-fluid card-img-top" style="max-height: 200px; object-fit: cover" alt="Highlight picture from page">
 <div class="card-body">
-<h5 class="card-title">{{ card.title }}</h5>
-<h6 class="card-subtitle mb-2 text-muted">{{ card.date }}</h6>
+<p class="h5 mb-0 card-title">{{ card.title }}</p>
+<p class="h6 card-subtitle mb-2 text-muted">{{ card.date }}</p>
 
 <p class="card-text">{{ card.description | truncate: 150}}</p> 
 <a href="{{ url }}" class="stretched-link"></a>
@@ -63,7 +63,7 @@ a list of them all.
 <div class="card" style="width: 18rem;">
 <img src="{{ card.image }}" class="img-fluid card-img-top" style="max-height: 200px; object-fit: cover" alt="Highlight picture from page">
 <div class="card-body">
-<h5 class="card-title">{{ card.title }}</h5>
+<p class="h5 mb-0 card-title">{{ card.title }}</p>
 <!-- TODO: differentiate posted date from item date
 <h6 class="card-subtitle mb-2 text-muted">{{ card.date }}</h6> 
 -->
@@ -83,8 +83,8 @@ a list of them all.
 <img src="{{ card.image }}" class="img-fluid card-img-top" style="max-height: 200px; object-fit: cover" alt="Highlight picture from item">
 </a>
 <div class="card-body">
-<a href="{{card.url}}" > <h5 class="card-title">{{ card.title }}</h5> </a>
-<h6 class="card-subtitle mb-2 text-muted">{{ card.date }}</h6>
+<a href="{{card.url}}" > <p class="h5 mb-0 card-title">{{ card.title }}<p> </a>
+<p class="h6 card-subtitle mb-2 text-muted">{{ card.date }}</p>
 <p class="card-text">{{ card.description | truncate: 150}}
 {%- if card.more -%}
 <a href="{{ card.more }}" class="text-muted">More info</a>
