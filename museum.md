@@ -83,7 +83,7 @@ a list of them all.
 <img src="{{ card.image }}" class="img-fluid card-img-top" style="max-height: 200px; object-fit: cover" alt="Highlight picture from item">
 </a>
 <div class="card-body">
-<a href="{{card.url}}" > <p class="h5 mb-0 card-title">{{ card.title }}<p> </a>
+<a href="{{card.url}}" > <p class="h5 mb-0 card-title">{{ card.title }}</p> </a>
 <p class="h6 card-subtitle mb-2 text-muted">{{ card.date }}</p>
 <p class="card-text">{{ card.description | truncate: 150}}
 {%- if card.more -%}
