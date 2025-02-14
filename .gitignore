@@ -5,6 +5,7 @@ _site
 .jekyll-cache
 _sass
 font-awesome
+.bundle
 dist/css/bootstrap*
 dist/fonts
 dist/js

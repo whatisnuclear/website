@@ -1,0 +1,41 @@
+Image Description               : Banner saying SECRET Restricted Data Atomic Energy Act 1954
+Image Description               : Title: Manned Aircraft Progress report for 1956-1958
+Image Description               : Picture of the narrator
+Image Description               : Diagram of the Camel nuclear powered aircraft concept from 1955
+Image Description               : Model of the XMA-1 GE direct cycle nuclear powered jet engines
+Image Description               : A controller sitting at the HTRE-1 control room
+Image Description               : Three zirconium hydride moderator elements inserts tested in the HTRE experiments
+Image Description               : All ceramic insert made of BeO tubes with BeO moderator where 2700 °F was reached. Tested in HTRE-2
+Image Description               : Unclad Zirconium-Hydride moderator insert tested in HTRE-2
+Image Description               : Special high-power experiment in flight configuration called the HTRE-3
+Image Description               : Special high-power experiment in flight configuration called the HTRE-3
+Image Description               : Jet nozzles from HTRE-3
+Image Description               : Flight Engine Test facility in Idaho
+Image Description               : Flight Engine Test facility in Idaho
+Image Description               : XMA-1 nuclear engine diagram showing wavy ducts to let compressed air pass but block straight line radiation
+Image Description               : XMA-1 (top) compared to the conventional J-79 chemical engine at GE's Evandale facility
+Image Description               : Chemical fueled testing of full-scale XMA-1 engines in Evandale
+Image Description               : Fuel element testing with induction heating in Evandale
+Image Description               : A chromium-based fuel with a clad Zirconium-Yttrium-Hydride alloy moderator that looked promising in 1958
+Image Description               : Model of the Pratt and Whitney indirect cycle nuclear jet engine with lithium-7 liquid metal coolant
+Image Description               : Diagram showing cancellation of the indirect cycle, including the Aircraft Reactor Experiment at ORNL
+Image Description               : Another view of the P&W indirect cycle nuclear jet configuration
+Image Description               : Workers doing fuel development at the Connecticut Aircraft Nuclear Engine Laboratory (CANEL)
+Image Description               : Worker welding liquid metal test loops at CANEL
+Image Description               : Corrosion and mass transfer flow loops to find high temperature materials that can handle lithium-7 coolant at CANEL
+Image Description               : Worker at CANEL welding an in-reactor lithium coolant test loop to be inserted into the Engineering Test Reactor in Idaho
+Image Description               : Quarter section radiator model for the indirect nuclear engine
+Image Description               : Model reactor vessel for the lithium cooled indirect cycle nuclear engine
+Image Description               : Diagram showing radiation fields areound a nuclear-powered jet and talking about radiation shielding
+Image Description               : The Convair Nuclear Test Aircraft at Ft. Worth on the ground in advance of flying an operating nuclear reactor
+Image Description               : The Convair Nuclear Test Aircraft NB-36H in the air
+Image Description               : The Aircraft Shielding Test Reactor in the air at the Tower Shielding Facility at ORNL
+Image Description               : Radiation effects on electronics testing
+Image Description               : Lockheed's 10 MW Radiation Effects Reactor doing dynamic systems tests in high flux
+Image Description               : Air Force Nuclear Engineering Test Facility at Wright Air Development Center
+Image Description               : A monkey undergoing life sciences studies as part of the ANP shielding and radiation studies
+Image Description               : A safety analysis program test where radioactive material was burned and released to investigate effects of a nuclear aircraft crash
+Image Description               : Lockheed 1955 125A weapons air frame for the Pratt and Whitney indirect cycle system
+Image Description               : Lockheed's tug/toe system called BlackJack
+Image Description               : Lockheed systems including both ramjet nuclear propulsion and Pratt and Whitney indirect systems for high-altitude supersonic capability
+Image Description               : Concept of nuclear-powered aircraft
