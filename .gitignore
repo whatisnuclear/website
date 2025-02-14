@@ -1,6 +1,5 @@
 _site
 *.swp
-*.lock
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
