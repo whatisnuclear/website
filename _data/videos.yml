@@ -3130,3 +3130,171 @@
     (Excellent coverage) PRODUCED BY THE MOTION PICTURE SECTION, CONVAIR-FORT
     WORTH, AND THE NUCLEAR AIRCRAFT RESEARCH FACILITY AT CONVAIR-FORT WORTH.
     Good (Basic: Mas Koda, Ng. trk.)
+
+- title: Experimental Breeder Reactor I, Mark III
+  naid: 88388
+  iaea: AVN0006
+  date: 1958
+  color: true
+  length: 13
+  catalog: IAEA
+  priority: 2
+  resolution: 4K
+  format: 16mm
+  description: >
+    This film presents some major aspects of the fabrication, installation and
+    operation of a new core (Mark III) for the Experimental Breeder Reactor I.
+
+- title: Submarine Thermal Reactor
+  naid: 61231
+  iaea:
+  date: 1950s
+  color:
+  length:
+  catalog:
+  priority: 2
+  resolution: 4K
+  format: 16mm
+  description: "?"
+  notes: >
+    Silent film. No description, but likely shows Rickover's land-based prototype
+    for the Nautilus!
+
+- title: Great Bear Lake Uranium Mine
+  naid: 7570241
+  iaea:
+  date: 1946
+  color:
+  length:
+  catalog:
+  priority: 3
+  resolution: 4K
+  format: 16mm
+  description: "?"
+  notes: >
+    Super early film about uranium mining in northern Canada
+
+- title: HEAVY WATER FACILITIES AT SAVANNAH RIVER PLANT
+  naid: 61223
+  iaea:
+  date: 1956
+  color:
+  length:
+  catalog:
+  priority: 3
+  resolution: 4K
+  format: 16mm
+  description: "?"
+  notes: >
+    Silent. Super early film about uranium mining in northern Canada
+
+- title: Fuel element burning experiment
+  naid: 88149
+  iaea: AVN0002
+  date: 1959
+  color: true
+  length: 20
+  catalog: IAEA
+  priority: 3
+  resolution: 4K
+  format: 16mm
+  description: >
+    Describes a two-part experiment to simulate the crash of a nuclear powered
+    aircraft and the effects of the resulting fire on a fuel element.
+
+- title: Oak Ridge Research Reactor
+  naid: 88203
+  iaea: AVN0004
+  date: 1958
+  color: true
+  length: 20
+  catalog: IAEA
+  priority: 3
+  resolution: 4K
+  format: 16mm
+  description: >
+    The film summarizes the components, facilities, uses, and operation of the
+    Holifield research reactor
+
+- title: EBR-1 CORE DISASSEMBLY AFTER MELTDOWN
+  naid: 88380
+  iaea: AVN0005
+  date: 1958
+  color: true
+  length: 13
+  catalog: IAEA
+  priority: 1
+  resolution: 4K
+  format: 16mm
+  description: >
+    The film presents some major aspects of the removal and subsequent disassembly
+    of the core of Experimental Breeder Reactor-I, Mark II, following meltdown. It
+    illustrates the hot -laboratory remote-control techniques used to separate and
+    recover enriched fuel from the blanket material.
+  notes: There's also a French soundtrack
+
+- title: Plutonium fuel fabrication for MTR
+  naid: 88409
+  iaea: AVN0015
+  date: 1958
+  color: true
+  length: 10
+  catalog: IAEA
+  priority: 2
+  resolution: 4K
+  format: 16mm
+  description: >
+    The Materials Testing Reactor (MTR) at USAEC's National Reactor Testing Station,
+    Idaho, has been operated utilizing plutonium as the entire fissionable fuel charge. This
+    film details the fabrication of this fuel charge in the plutonium metallurgy laboratories at
+    Hanford, Washington. These fuel elements were used successfully at a power of 30 Mw(t)
+    in the MTR to demonstrate, for the first time, the operation of a thermal reactor fueled
+    with plutonium.
+  notes: There's also a French soundtrack
+
+- title: Plutonium fuel fabrication for MTR
+  naid: 88410
+  iaea: AVN0016
+  date: 1958
+  color: false
+  length: 13
+  catalog: IAEA
+  priority: 3
+  resolution: 4K
+  format: 16mm
+  description: >
+    Depicts the process and equipment designed and used at the Los Alamos Scientific
+    Laboratory in converting plutonium from a nitrate solution to elemental metal. The
+    isolated plutonium is used for metallurgical and pyrometallurgical research, for fuel alloy
+    development, and for reactor and critical assembly elements
+  notes: There's also a French soundtrack
+
+- title: Indistrual applications of nuclear explosives
+  naid: 88166
+  iaea: AVN0027
+  date: 1958
+  color: true
+  length: 10
+  catalog: IAEA
+  priority: 2
+  resolution: 4K
+  format: 16mm
+  description: >
+    A description of an experimental underground nuclear explosion, and an
+    exploration of potential uses of this technique
+
+- title: Civilian applications of nuclear explosives
+  naid: 88130
+  iaea: AVN0016
+  date: 1964
+  color: true
+  length: 12
+  catalog: IAEA
+  priority: 2
+  resolution: 4K
+  format: 16mm
+  description: >
+    Outlines the technical progress made in developing scientific and industrial
+    applications for nuclear explosives. Studies of 42 nuclear explosions in a
+    variety of media and at varying depths of burial have resulted in two general
+    modes of application which are analyzed in some detail in the film
