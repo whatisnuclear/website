@@ -18,7 +18,6 @@
     - dose
     #- nuclear-as-clean-energy
 
-
 - title: History
   pages:
     - reactor-history
@@ -109,6 +108,7 @@
   pages:
     - about
     - contact
+    - mail-signup
     - privacy
     - terms
 
