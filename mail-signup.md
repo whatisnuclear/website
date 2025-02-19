@@ -8,7 +8,9 @@ sitemap: false
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-If you want to receive e-mails when we post new films or other content, sign up here.
+If you want to receive e-mails when we post new films or other content, sign up
+here. Note also that we do have a <a href="/feed.xml">RSS feed<a/> if you
+prefer.
 
 <form action="https://mail-list.whatisnuclear.com/forms/nfrm_weLJnLY5"
 class="form-horizontal"
