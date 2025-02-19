@@ -81,6 +81,9 @@ uprating. It was shut down in 1967 and the license was terminated on April 28, 1
 
 ## See Also
 
+- [Armour Pamphlet](https://archive.org/details/armour-research-reactor-pamphlet) -- an amazing pamphlet describing
+  the reactor
+- [Armour Archive Clippings](https://archive.org/details/armour-research-reactor-iit-in-archives) -- more archival Armour info
 - [Reiffel, The First Industrial Research Reactor Facility Design, Operational
   Experience, and Research
   Programs](https://babel.hathitrust.org/cgi/pt?id=coo.31924105615128&seq=1) -- a
