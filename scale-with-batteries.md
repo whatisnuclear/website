@@ -6,6 +6,7 @@ author: nick
 date: 2013-06-13
 byline: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 Energy storage is a common topic that comes up in discussing energy. A lot of people think it would
@@ -33,14 +34,14 @@ that the plant continuously operates at 1GWe. This is not uncommon for baseload 
 ## Doing the math
 
 First we determine how much energy (in Joules) is produced by a 1 GWe power plant over an 8-hour
-night. This is just energy=power*time
-
+night. This is just energy=power\*time
 
 {% highlight python %}
->>> nightEnergy = 1.0e9 * 8.0 * 3600.0  # 1e9 Watts * 8 hours * 3600 seconds/hour
->>> print(nightEnergy)
-2.88e+13
-{% endhighlight %}
+
+> > > nightEnergy = 1.0e9 _ 8.0 _ 3600.0 # 1e9 Watts _ 8 hours _ 3600 seconds/hour
+> > > print(nightEnergy)
+> > > 2.88e+13
+> > > {% endhighlight %}
 
 Now, to figure out how many batteries that would be, we need to know how much energy is stored in a
 battery. Different types of batteries can store different amounts of energy. Using information from
@@ -48,7 +49,6 @@ battery. Different types of batteries can store different amounts of energy. Usi
 information (including some that will be used later). This table mixes energy units of Joules and
 Watt-hours, but they are easily related by 3600 Joules = 1 Watt-hour and we'll use this conversion
 throughout.
-
 
 {% highlight python %}
 batteryTypes=['LeadAcid','Alkaline','NiMH','Li-Ion']
@@ -59,9 +59,8 @@ wattHPerLiter=dict(zip(batteryTypes,[100,320,300,230])) # Watt*hours / liter
 
 Now we can figure out the battery masses required to store 8 hours of energy from a 1 GWe plant using each type of battery:
 
-
 {% highlight python %}
-%pylab inline 
+%pylab inline
 massRequired = [nightEnergy/specificEnergy[bType] for bType in batteryTypes]
 x = range(len(batteryTypes))
 pylab.bar(x,[nightEnergy/specificEnergy[k] for k in batteryTypes],align='center')
@@ -70,8 +69,7 @@ dum=pylab.ylabel('Mass of batteries (kg)')
 dum=pylab.title('Mass of batteries needed for 1 night')
 {% endhighlight %}
 
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAX4AAAEICAYAAABYoZ8gAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+<img alt="graph showing mass of batteries needed" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAX4AAAEICAYAAABYoZ8gAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzt3XlUFFe+B/BvARoFGmgdRGgWRX2KQQR0IBIVHBONiCaa
 GJfnEjVumRhinDiLUXGiniRmDzNqfK4TRdTRiUb0JcZ0jDHAxJUEFUVAFnFDNgGF5r4/GOrR0k0D
 drPV93MO51Br/6q6+fbtW7cLSQghQEREimHV3AUQEVHTYvATESkMg5+ISGEY/ERECsPgJyJSGAY/
@@ -271,10 +269,13 @@ football field, which is 110x49 square meters. How tall will the full football f
 batteries be?
 
 {% highlight python %}
-areaFootball = 110*49 # area of football field in square meters
+areaFootball = 110\*49 # area of football field in square meters
+
 # Compute height as height= volume needed/ area available
-# Convert nightEnergy from Joules to Watt*hours and liters to m^3. 
-heightOnFootballField = [nightEnergy/3600/wattHPerLiter[bType]*0.001/areaFootball for bType in
+
+# Convert nightEnergy from Joules to Watt\*hours and liters to m^3.
+
+heightOnFootballField = [nightEnergy/3600/wattHPerLiter[bType]\*0.001/areaFootball for bType in
 batteryTypes]
 pylab.bar(x,heightOnFootballField,align='center')
 pylab.xticks(x,batteryTypes)
@@ -282,8 +283,7 @@ dum=pylab.ylabel('Height stacked on field (m)')
 dum=pylab.title('Size of batteries needed for 1 night')`
 {% endhighlight %}
 
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXsAAAEICAYAAAC+iFRkAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+<img alt="Volume of batteries graph" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXsAAAEICAYAAAC+iFRkAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzt3XtcVGX+B/DPQfEKCBiigIBaqyggCoIQyLSamouarjda
 76Wbbq6WWdumK1ma11K7uNoaaCpqpqmklrdR1NTEG2ZqXkYQQlExREBgeH5/8OPECMMwcGa4zOf9
 evF6zZzr9zwM33n4zjPPkYQQAkREVKdZVXcARERkekz2REQWgMmeiMgCMNkTEVkAJnsiIgvAZE9E
@@ -485,14 +485,14 @@ meters (~18 feet) tall to store enough energy for one night from one power plant
 is, how much would this cost to build?
 
 {% highlight python %}
-cost = [nightEnergy/3600*(costPerWh[bType]/1e9) for bType in batteryTypes]
+cost = [nightEnergy/3600\*(costPerWh[bType]/1e9) for bType in batteryTypes]
 pylab.bar(x,cost,align='center')
 pylab.xticks(x,batteryTypes)
 dum=pylab.ylabel('Cost of batteries (billions $)')
 dum=pylab.title('Cost of batteries needed for 1 night')
 {% endhighlight %}
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXUAAAEICAYAAACgQWTXAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+<img alt="cost of batteries graph" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXUAAAEICAYAAACgQWTXAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzt3XlcVOX+B/DPYVFRFgEhQVncriGKCoiKolPkvtzQ3PdK
 09SrlVaayWiZlWap18q4pkampul16afdXAZTU8J9KbuiCAKuqOzb8Pz+4HoahHEGZoEZP+/Xa14v
 zsw55/mew5wPD885c0YSQggQEZFVsKnuAoiIyHgY6kREVoShTkRkRRjqRERWhKFORGRFGOpERFaE
@@ -705,13 +705,14 @@ Khalifa every night. Another option is to use molten salt, which has high heat c
 In the very-cool smartgrid idea, when extra electricity is needed, the grid just temporarily asks
 for energy back from a fleet of electric vehicles where some percentage are usually plugged into the
 wall (because people are at home or work, not driving). This might be fine for the daily peaking,
-but to do this at night, considering that a Tesla Model S comes with a 60kW*hour battery <a
+but to do this at night, considering that a Tesla Model S comes with a 60kW\*hour battery <a
 href="http://www.teslamotors.com/models/facts">source</a>, it would take:
 
 {% highlight python %}
->>> print(nightEnergy/3600/60000)
-133333.333333
-{% endhighlight %}
+
+> > > print(nightEnergy/3600/60000)
+> > > 133333.333333
+> > > {% endhighlight %}
 
 133.3k Teslas per 700,000 citizens to get through the night. And then their batteries would all be
 dead for a few hours after the sun came up. So if 1 in 5 people bought Teslas that they just stored

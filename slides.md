@@ -1,6 +1,6 @@
 ---
 title: Nuclear energy slide deck for schools, etc.
-description: > 
+description: >
   This is a (slightly) customizable and freely-available slide deck covering
   nuclear energy at a high-school level, intended to be used by teachers or
   parents or anyone who wants to talk about nuclear energy.
@@ -9,6 +9,7 @@ layout: default
 date: 2023-03-10
 image: /img/slides.png
 ---
+
 <div class="row">
 <div class="col-md-12" markdown="1">
 
@@ -37,8 +38,9 @@ going on. Press the **S** key to open speaker view in a separate window.
 Many images lazy-load, so you should have an internet connection to give this presentation.
 
 ## Make it your own!
-You can enter values here that will show up in the author, date, and location 
-areas on the front page. Please use responsibly. 
+
+You can enter values here that will show up in the author, date, and location
+areas on the front page. Please use responsibly.
 
 <div class="row">
 <div class="col-3 col-lg-6">
@@ -50,7 +52,7 @@ areas on the front page. Please use responsibly.
 <input type="text" value="" placeholder="Presenter name" class="form-control" id="presenter">
 </div>
 <div class="col-3 col-lg-6">
-<label for="event-name" class="form-label">Event name</label>
+<label for="event" class="form-label">Event name</label>
 <input type="text" value="" placeholder="Event name" class="form-control" id="event">
 </div>
 <div class="col-3 col-lg-6">
@@ -92,5 +94,3 @@ function copySettingsToClipboard() {
 
 </div>
 </div>
-
-

@@ -16,18 +16,18 @@ layout: default
   <div class="col col-xl-2 col-lg-4 col-md-6 col-sm-12 col-12 p-1">
     <figure class="figure">
       <a
-        href="{{ gallery.imagefolder }}/{{ image.name }}"
+        href="{{ gallery.imagefolder }}/{{ image.name | uri_escape}}"
         data-toggle="lightbox"
         data-size="sm"
-        data-caption="{{image.text}}"
+        data-caption="{{image.text | escape}}"
         data-gallery="gallery"
       >
         <img
           src="/img/blank.png"
-          data-echo="{{ gallery.imagefolder }}/{{ image.name }}"
+          data-echo="{{ gallery.imagefolder }}/{{image.name | uri_escape}}"
           class="img-fluid"
-          alt="{{ image.text }}"
-          title="{{ image.text }}"
+          alt="{{ image.text | escape }}"
+          title="{{ image.text | escape }}"
         />
       </a>
       <figcaption class="figure-caption">

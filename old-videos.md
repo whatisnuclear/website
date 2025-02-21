@@ -83,7 +83,7 @@ These films have been scanned and can be viewed online now.
 
 The ones with non-blank NARA IDs are readily available for scanning given funding.
 
-<a name="wantlist"></a>
+<a id="wantlist"></a>
 
 {% include table_of_vids.liquid vids=sorted_wanted %}
 

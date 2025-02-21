@@ -2022,16 +2022,17 @@
   iaea: AVN0016
   date: 1958
   length: 11.5
+  catalog: IAEA
   color: false
   topics: [fuel]
   description: >
     This technical film shows the process and equipment designed and used at Los
     Alamos Scientific Laboratory in converting plutonium from a nitrate solution
-    to elemental metal. Because of serious health hazards, plutonium is processed
-    in airtight compartments, with equipment operated entirely by remote control.
-    The isolated plutonium is used for metallurgical and pyrometallurgical
-    research, for fuel alloy development, and for reactor and critical assembly
-    elements.
+    to elemental metal. Because of serious health hazards, plutonium is
+    processed in airtight compartments, with equipment operated entirely by
+    remote control.  The isolated plutonium is used for metallurgical and
+    pyrometallurgical research, for fuel alloy development, and for reactor and
+    critical assembly elements.
   notes:
   resolution: 1440
   links:
@@ -2108,6 +2109,7 @@
   date: 1958
   length: 15
   color: true
+  catalog: AEC 1966
   topics: []
   priority: 2
   description: >
@@ -3060,20 +3062,6 @@
     - url: http://www.archivesfilms.com/?p=7229
       name: Mentioned with screenshot but no actual film
 
-- title: Kinetic Experiment on Water Boilers
-  naid: 88173
-  date: 1958
-  color: true
-  length: 15
-  catalog: AEC 1966
-  priority: 2
-  description: >
-    This film discusses a USAEC -sponsored study by Atomics International of the
-    dynamic behavior of the homogeneous solution type nuclear reactor,
-    demonstrating the inherent safety characteristics of aqueous homogeneous
-    reactors in the event of an unforeseen release of large amounts of
-    reactivity
-
 - title: MATERIALS AND COMPONENTS IRRADIATION
   naid: 67150
   date: 1958
@@ -3183,20 +3171,6 @@
   notes: >
     Silent. Super early film about uranium mining in northern Canada
 
-- title: Fuel element burning experiment
-  naid: 88149
-  iaea: AVN0002
-  date: 1959
-  color: true
-  length: 20
-  catalog: IAEA
-  priority: 3
-  resolution: 4K
-  format: 16mm
-  description: >
-    Describes a two-part experiment to simulate the crash of a nuclear powered
-    aircraft and the effects of the resulting fire on a fuel element.
-
 - title: Oak Ridge Research Reactor
   naid: 88203
   iaea: AVN0004
@@ -3245,23 +3219,6 @@
     Hanford, Washington. These fuel elements were used successfully at a power of 30 Mw(t)
     in the MTR to demonstrate, for the first time, the operation of a thermal reactor fueled
     with plutonium.
-  notes: There's also a French soundtrack
-
-- title: Plutonium fuel fabrication for MTR
-  naid: 88410
-  iaea: AVN0016
-  date: 1958
-  color: false
-  length: 13
-  catalog: IAEA
-  priority: 3
-  resolution: 4K
-  format: 16mm
-  description: >
-    Depicts the process and equipment designed and used at the Los Alamos Scientific
-    Laboratory in converting plutonium from a nitrate solution to elemental metal. The
-    isolated plutonium is used for metallurgical and pyrometallurgical research, for fuel alloy
-    development, and for reactor and critical assembly elements
   notes: There's also a French soundtrack
 
 - title: Indistrual applications of nuclear explosives

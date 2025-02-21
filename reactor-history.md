@@ -366,7 +366,7 @@ job.
 <div class="row">
   <div class="col-md-6">
   <figure>
-  <a href="/img/ml1.jpg"><img class="img-fluid" 
+  <a href="/img/ml1.jpg"><img class="img-fluid" src="/img/blank.png" data-echo="/img/ml1.jpg"
   alt="A truck-mounted nitrogen-cooled military microreactor"/></a>
   <figcaption>
     <p>
