@@ -367,7 +367,7 @@ job.
   <div class="col-md-6">
   <figure>
   <a href="/img/ml1.jpg"><img class="img-fluid" 
-  src="/img/blank.png" data-echo="/img/ml1_sm.jpg" alt="A truck-mounted nitrogen-cooled military microreactor"/></a>
+  alt="A truck-mounted nitrogen-cooled military microreactor"/></a>
   <figcaption>
     <p>
     The nitrogen-cooled <a href="https://en.wikipedia.org/wiki/ML-1">ML-1 military microreactor</a>. 

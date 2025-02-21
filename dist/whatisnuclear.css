@@ -98,3 +98,16 @@ figure {
   width: 100%;
   height: 100%;
 }
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: #cbcbcb;
+  width: 5vh;
+}
+
+.carousel-control-prev {
+  left: -60px;
+}
+.carousel-control-next {
+  right: -60px;
+}

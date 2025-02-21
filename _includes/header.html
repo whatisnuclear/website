@@ -43,18 +43,22 @@
             {%- include menu_ul.html items=section.pages folder=section.title -%}
           </li>
         {%- endfor -%}
-        <li class="nav-item">
+        </ul>
+         <div class="d-flex ms-auto align-items-center">
+        <ul class="navbar-nav">
+        <li class="nav-item px-3">
           <a class="nav-link" href="/feed.xml" title="Link to RSS Feed">
             <i class="fa fa-rss" style="color: #ee802f"></i>
           </a>
         </li>
-        <li>
-          <div class="form-check form-switch">
-            <input class="form-check-input" type="checkbox" id="colorModeSwitch" data-bs-toggle="mode">
-            <label class="form-check-label" for="colorModeSwitch">Dark Mode</label>
-          </div>
-        </li>
+        <li class="nav-item d-flex align-items-center">
+        <div class="form-check form-switch d-flex align-items-center">
+          <input class="form-check-input" type="checkbox" id="colorModeSwitch" data-bs-toggle="mode">
+          <label class="form-check-label" for="colorModeSwitch" > <i class="fas fa-adjust" style="color: #d8d8d8 !important;"></i> </label>
+        </div>
+      </li>
       </ul>
+         </div>
     </div>
   </div>
 </nav>

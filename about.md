@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "About Whatisnuclear.com"
-description: About the people and philosophy of whatisnuclear.com, the public education site about nuclear energy.
+title: "About What is Nuclear"
+description: >
+  About the people and philosophy behind the What is Nuclear organization
 author: nick
 byline: true
 ---
@@ -25,7 +26,7 @@ volunteers. We have no funding and no ads.
 In order for a technology to be convincingly superior to others, it must not
 only present compelling advantages, but also must concede to its weaknesses and
 demonstrate acceptable responses to its harshest criticism. Nuclear energy has
-drawbacks. We won&rsquo;t try to cover these up, but rather will try to present
+drawbacks. We won't try to cover these up, but rather will try to present
 them clearly and explain or propose solutions to the problems. Too many times
 have we read that this or that is the only thing that can save the planet. We
 will avoid this hysteria and strive to provide calm and true information and
@@ -45,7 +46,7 @@ done for free on our own time.
 You can reach us privately via the <a href="/contact.html">contact form</a> or
 you can stir up some discussion publicly by <a
 href="https://www.facebook.com/pages/Whatisnuclearcom/209141202434177">posting
-on our Facebook site</a>. Feel free to do either or both! We&rsquo;d love to
+on our Facebook site</a>. Feel free to do either or both! We'd love to
 hear from you. If you want, you can encrypt your message against this <a
 href="https://partofthething.com/nick-publickey.asc">public key</a>.
 
@@ -66,7 +67,7 @@ href="https://partofthething.com/nick-publickey.asc">public key</a>.
 <h5>Articles, editing, sysadmin</h5>
 
 I'm a reactor physicist working on the design of an advanced nuclear reactor for a nuclear
-innovation company, where I&rsquo;ve been since 2009. I have a Ph.D. in nuclear engineering from the
+innovation company, where I've been since 2009. I have a Ph.D. in nuclear engineering from the
 University of Michigan based on the multiobjective optimization of fast reactors using
 perturbation-based equilibrium cycle methods. <a href="https://partofthething.com">Visit my personal
 home page.</a>

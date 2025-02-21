@@ -10,7 +10,7 @@ description: >
   Organic cooled reactors can run with low pressure, and have low corrosion and activation.
   They were once expected to be a promising approach toward achieving economical nuclear power.
 byline: true
-image: /img/vids/omre/omre-10.jpg
+image: /img/vids/omre/omre-10_card.jpg
 comments: true
 ---
 
