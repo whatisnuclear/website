@@ -7,7 +7,7 @@ category: news
 tags: videos
 description: This film shows the recovery effort done to clean up, rebuild, and restart the NRX reactor in Canada.
 byline: true
-image: /img/vids/nrx/nrx-29.jpg
+image: /img/vids/nrx/nrx-29_cover.jpg
 comments: true
 ---
 

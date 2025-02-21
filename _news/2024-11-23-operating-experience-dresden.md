@@ -8,7 +8,7 @@ tags: videos
 description: >
   A recently-digitized film showing information about one of the first boiling water nuclear reactors.
 byline: true
-image: /img/vids/dresden/dresden-02.jpg
+image: /img/vids/dresden/dresden-02_cover.jpg
 comments: true
 ---
 

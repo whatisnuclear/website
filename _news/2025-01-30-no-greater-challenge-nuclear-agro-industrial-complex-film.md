@@ -14,7 +14,7 @@ description: >
   furnaces, ammonia from electrolytic hydrogen, and caustic and chlorine from
   brine electrolysis. Such a complex could feed 6 million people.
 byline: true
-image: /img/vids/gchal/gchal-01.jpg
+image: /img/vids/gchal/gchal-01_cover.jpg
 comments: true
 ---
 

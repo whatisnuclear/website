@@ -18,7 +18,7 @@ last_modified_at: 2024-02-25
     a nuclear reactor with an atom symbol on a cooling tower and a lightning bolt on the
     reactor." {% imagesize img/reactor_web.svg:props %} />
       <h1 class="display-3 fw-bold">What is Nuclear?</h1>
-      <h3 class="fw-normal text-muted mb-3">Your source for nuclear engineering expertise</h3>
+      <h3 class="fw-normal text-muted mb-3">Nuclear engineering expertise for everyone</h3>
     </div>
   </div>
 
@@ -76,7 +76,7 @@ last_modified_at: 2024-02-25
 
 <div class="carousel-inner">
 {%- assign news = site.news | sort: 'date' | reverse -%}
-{%- for post in news limit:9 -%}
+{%- for post in news limit:6 -%}
 {%- assign mod = forloop.index | modulo: 3 -%}
 {%- if mod == 1 -%}
   {% if forloop.index == 1 -%}
@@ -89,7 +89,7 @@ last_modified_at: 2024-02-25
       <div class="col-md-4 col-sm-12">
         <div class="card h-100">
           {%- if forloop.index > 3 -%}
-          <img src="/img/blank.png" data-echo="{{ post.image }}" class="card-img-top" alt="Header image for story">
+          <img src="{{ post.image }}" class="card-img-top" alt="Header image for story">
           {%- else -%}
           <img src="{{ post.image }}" class="card-img-top" alt="Header image for story">
           {%- endif -%}
@@ -131,7 +131,6 @@ last_modified_at: 2024-02-25
 
 {% include page_nav.html %}
 {% include footer.html %}
-{% include lazyload.html %}
 
 </div>
 <!-- end container-->
