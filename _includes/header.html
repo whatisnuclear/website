@@ -7,7 +7,7 @@
         height="40"
         src="/img/reactor_web.svg"
         width="40"
-    /></a>
+    ></a>
     <button
       aria-controls="navbarSupportedContent"
       aria-expanded="false"
@@ -19,46 +19,60 @@
     >
       <span class="navbar-toggler-icon"></span>
     </button>
-    {%- assign page_name = page.path | split: "." | first -%}
-
+    {%- assign page_name = page.path | split: '.' | first -%}
     {% comment %}
-      Check last letter for / in pages to handle activating the heading for e.g. news/ and safety_minutes/
+      Check last letter for / in pages to handle activating the heading for e.g.
+      news/ and safety_minutes/
     {% endcomment %}
-    {%- assign last_letter = page.url | split: "" | last -%}
-    {%- if last_letter == "/" -%}
-      {%- assign page_name = page_name | append: "/" -%}
+    {%- assign last_letter = page.url | split: '' | last -%}
+    {%- if last_letter == '/' -%}
+      {%- assign page_name = page_name | append: '/' -%}
     {%- endif -%}
     <div class="navbar-collapse collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         {%- for section in site.data.pages -%}
-          <li class="nav-item dropdown ">
+          <li class="nav-item dropdown">
             <a
               aria-expanded="false"
               class="nav-link dropdown-toggle {% if section.pages contains page_name %}active{% endif %}"
               data-bs-toggle="dropdown"
-              href="#">
+              href="#"
+            >
               {{ section.title }}
-              <span class="caret{% if section.pages contains page_name %} orange{%- endif -%}"></span>
+              <span
+                class="caret{% if section.pages contains page_name %} orange{%- endif -%}"
+              ></span>
             </a>
             {%- include menu_ul.html items=section.pages folder=section.title -%}
           </li>
         {%- endfor -%}
-        </ul>
-         <div class="d-flex ms-auto align-items-center">
-        <ul class="navbar-nav">
-        <li class="nav-item px-3">
-          <a class="nav-link" href="/feed.xml" title="Link to RSS Feed">
-            <i class="fa fa-rss" style="color: #ee802f"></i>
-          </a>
-        </li>
-        <li class="nav-item d-flex align-items-center">
-        <div class="form-check form-switch d-flex align-items-center">
-          <input class="form-check-input" type="checkbox" id="colorModeSwitch" data-bs-toggle="mode">
-          <label class="form-check-label" for="colorModeSwitch" > <i class="fas fa-adjust" style="color: #d8d8d8 !important;"></i> </label>
-        </div>
-      </li>
       </ul>
-         </div>
+      <div class="d-flex ms-auto align-items-center">
+        <ul class="navbar-nav d-flex align-items-center">
+          <li class="nav-item px-3">
+            <a class="nav-link" href="/feed.xml" title="Link to RSS Feed">
+              <i class="fa fa-rss" style="color: #ee802f"></i>
+            </a>
+          </li>
+          <li class="nav-item">
+            <div class="form-check form-switch d-flex align-items-center">
+              <input
+                class="form-check-input me-2 align-self-center"
+                type="checkbox"
+                id="colorModeSwitch"
+                data-bs-toggle="mode"
+                style="margin-top: 0"
+              >
+              <label
+                class="form-check-label align-self-center"
+                for="colorModeSwitch"
+              >
+                <i class="fas fa-adjust" style="color: #d8d8d8 !important"></i>
+              </label>
+            </div>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </nav>
