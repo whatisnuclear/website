@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
     {% include head.html %}
@@ -12,9 +12,10 @@
       {% if page.subtitle %}
         <p class="h5 mb-0 fw-light">{{ page.subtitle }}</p>
       {% endif %}
-      {% include byline.html %} 
-      {{ content }} 
-      {% include page_nav.html %} 
+      {% include byline.html %}
+      {{ content }}
+      {% include page_nav.html %}
       {% include footer.html %}
     </div>
-
+  </body>
+</html>
