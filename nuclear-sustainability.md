@@ -2,22 +2,23 @@
 layout: default
 title: Nuclear fuel will last us for 4 billion years
 category: blog
-description: > 
-    Some people claim nuclear fuel is inexhaustible and circular, others say
-    we'll run out soon. We do the math. Turns out, it's roughly as inexhaustible as sunlight.
+description: >
+  Some people claim nuclear fuel is inexhaustible and circular, others say
+  we'll run out soon. We do the math. Turns out, it's roughly as inexhaustible as sunlight.
 author: nick
 image: /img/nuclear-sustainability.png
 mathjax: true
 byline: true
 date: 2020-10-28
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
 As shown in our [energy flow diagram]({% link energy-flow.md %}), our energy resource
 options are derived either directly from sunlight (solar, wind, hydro, biofuel), by
 digging up fossilized organic matter (coal, oil, gas), or from accessing primordial energy
-(nuclear fission, geothermal, tidal, fusion). These are *all* limited in quantity.
+(nuclear fission, geothermal, tidal, fusion). These are _all_ limited in quantity.
 Some will last us about as long as the sun, while others may run out soon and are thus not
 sustainable.
 
@@ -29,10 +30,10 @@ could add our own version as well. Here is the result:
 ![Nuclear sustainability plot](/img/nuclear-sustainability_opt.svg){: .img-fluid }
 
 [Breeder reactors]({% link recycling.md %}) can power all of humanity for more than 4
-billion years.  By any reasonable definition, nuclear breeder reactors are indeed
+billion years. By any reasonable definition, nuclear breeder reactors are indeed
 renewable. However, benefiting from this billion-year sustainability requires improvements
 in reactor [construction performance]({% link economics.md %}) and public acceptance. We
-have [developed and proven breeder reactors in the past]({% link reactor-history.md %}#liquid-metal-cooled-fast-breeder-reactors), 
+have [developed and proven breeder reactors in the past]({% link reactor-history.md %}#liquid-metal-cooled-fast-breeder-reactors),
 but they remain a small minority of our current fleet.
 
 Advances in [seawater uranium extraction](https://pubs.acs.org/toc/iecred/55/15) would
@@ -47,38 +48,37 @@ transportation, industrial heat, etc.
 
 ## The basis facts:
 
-* Total world energy consumption of primary energy in 2019 was about 584 exajoules ([BP
+- Total world energy consumption of primary energy in 2019 was about 584 exajoules ([BP
   Statistical Review of World Energy
-2020](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2020-full-report.pdf))
-* A modern light-water reactor can pull an average of 60 MWd/kg out of its 4.8% enriched
+  2020](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2020-full-report.pdf))
+- A modern light-water reactor can pull an average of 60 MWd/kg out of its 4.8% enriched
   nuclear fuel ([AP1000 docs](https://aris.iaea.org/PDF/AP1000.pdf))
-* One kg of 4.8% enriched uranium requires 9.5 kgU natural uranium input to the enrichment
+- One kg of 4.8% enriched uranium requires 9.5 kgU natural uranium input to the enrichment
   plant (and 7.8 SWU) (any old [SWU calculator]({% link enrichment.md %}?tails-assay=0.23&feed-assay=0.711&enrich=4.8&feed-mass=9.501&product-mass=1&mode=1))
-* A breeder reactor with a recycling fuel cycle can pull [about 900 MWd/kg]({% link
-  energy-density.md %}) out of non-enriched nuclear fuel (natural or depleted uranium or
-thorium)
-* There are 6.1 million tonnes of uranium in reasonably assured deposits ([World
+- A breeder reactor with a recycling fuel cycle can pull [about 900 MWd/kg]({% link
+    energy-density.md %}) out of non-enriched nuclear fuel (natural or depleted uranium or
+  thorium)
+- There are 6.1 million tonnes of uranium in reasonably assured deposits ([World
   Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx))
-* There are 6.3 million tonnes of thorium in reasonably assured deposits ([World
+- There are 6.3 million tonnes of thorium in reasonably assured deposits ([World
   Nuclear Thorium](https://world-nuclear.org/information-library/current-and-future-generation/thorium.aspx))
-* Uranium exists in seawater at an average concentration of 0.003 ppm (also World Nuclear
+- Uranium exists in seawater at an average concentration of 0.003 ppm (also World Nuclear
   Uranium)
-* There are about 332 million cubic miles of water on Earth, 96.5% of it is in the ocean
+- There are about 332 million cubic miles of water on Earth, 96.5% of it is in the ocean
   ([USGS](https://www.usgs.gov/special-topic/water-science-school/science/how-much-water-there-earth?qt-science_center_objects=0#qt-science_center_objects)).
   At a density of 1 gram/cm$$^3$$, this comes out to 1.4 yottagrams of water, or 1.4e21 kg)
-* At 0.003 ppm, this means there are about 4000 million tonnes of uranium in seawater
-* The average crustal concentration of uranium is about 2.8 ppm ([World Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx))
-* There are about 6.5e13 tonnes (65 trillion) of uranium in the crust,
+- At 0.003 ppm, this means there are about 4000 million tonnes of uranium in seawater
+- The average crustal concentration of uranium is about 2.8 ppm ([World Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx))
+- There are about 6.5e13 tonnes (65 trillion) of uranium in the crust,
   which continuously replenishes the uranium in seawater through erosion, runoff, and
   plate tectonics.
-* Thorium requires the use of a breeder reactor so it is to be included only once breeder
+- Thorium requires the use of a breeder reactor so it is to be included only once breeder
   reactors are assumed
-
 
 ## The math
 
 It's convenient to use the [GNU units program](https://www.gnu.org/software/units/) to do
-these kinds of comparisons quickly. This is available for free on Windows, Linux, and Mac. 
+these kinds of comparisons quickly. This is available for free on Windows, Linux, and Mac.
 
 For mined uranium and non-breeders, we use
 
@@ -123,14 +123,14 @@ energy. Assuming big gigawatt-scale reactors, we find:
     5607.9511
 
 We have about 450 reactors in the world today, so we'd need to build about 5100 more
-large reactors to produce all our energy with low-carbon nuclear. 
+large reactors to produce all our energy with low-carbon nuclear.
 
 Another nearly unbelievable fact (HT reddit user `paulfdietz`) is that if you dig up an
 average crustal rock, it will have 20x more nuclear energy in it than a piece of pure coal of
 the same mass. With crustal abundances of 2.8 and 6 ppm for uranium and thorium, and a
 chemical energy density of 33 MJ/kg for coal, the math here is:
 
-    $ units "(2.8e-6 + 6e-6) * 900 MW*day/kg / (33 MJ/kg)" 
+    $ units "(2.8e-6 + 6e-6) * 900 MW*day/kg / (33 MJ/kg)"
     20.736
 
 😲
@@ -158,32 +158,31 @@ extraction is hard, the fact that each average crustal rock has 20x more nuclear
 than an equal mass of coal validates the true practicality of billion-year nuclear
 resources.
 
-
-
 # See Also
-* [Ivanov, A.S., Parker, B.F., Zhang, Z. et al. Siderophore-inspired chelator hijacks uranium from aqueous medium. Nat Commun 10, 819 (2019)](https://doi.org/10.1038/s41467-019-08758-1). --- More modern uranium extraction technology
-* [Tsouris, C. Uranium extraction: Fuel from seawater. Nat Energy 2, 17022
+
+- [Ivanov, A.S., Parker, B.F., Zhang, Z. et al. Siderophore-inspired chelator hijacks uranium from aqueous medium. Nat Commun 10, 819 (2019)](https://doi.org/10.1038/s41467-019-08758-1). --- More modern uranium extraction technology
+- [Tsouris, C. Uranium extraction: Fuel from seawater. Nat Energy 2, 17022
   (2017)](https://doi.org/10.1038/nenergy.2017.22). --- modern uranium extraction
   technology
-* [A special 2016 edition of Industrial and Engineering Chemistry Research dedicated to
+- [A special 2016 edition of Industrial and Engineering Chemistry Research dedicated to
   uranium seawater extraction.](https://pubs.acs.org/toc/iecred/55/15)
-* [H. D. Lightfoot, W. Manheimer, D. A. Meneley, D. Pendergast and G. S. Stanford,
+- [H. D. Lightfoot, W. Manheimer, D. A. Meneley, D. Pendergast and G. S. Stanford,
   "Nuclear Fission Fuel is Inexhaustible," 2006 IEEE EIC Climate Change Conference,
   Ottawa, ON, 2006, pp. 1-8,](https://doi.org/10.1109/EICCCC.2006.277268) -- a similar
   case made in 2006
-* [Weinberg, Alvin M. "Energy as the Ultimate Raw Material" Physics Today 12.11 (1959),
+- [Weinberg, Alvin M. "Energy as the Ultimate Raw Material" Physics Today 12.11 (1959),
   ](https://doi.org/10.1063/1.3060564) --- Paper in which Alvin Weinberg demonstrates
   that just mining regular old rocks and burning their thorium and uranium would require
   rock mining of about the same scale as fossil fuel mining. This is his "Burning the
   rocks" paper.
-* [Cohen, Bernard L. "Breeder reactors: A renewable energy source." Am. J. Phys 51.1 (1983): 78.](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf)
+- [Cohen, Bernard L. "Breeder reactors: A renewable energy source." Am. J. Phys 51.1 (1983): 78.](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf)
   -- This same story written in 1983
-* [Conca, "Uranium Seawater Extraction Makes Nuclear Power Completely Renewable",
+- [Conca, "Uranium Seawater Extraction Makes Nuclear Power Completely Renewable",
   2016](https://www.forbes.com/sites/jamesconca/2016/07/01/uranium-seawater-extraction-makes-nuclear-power-completely-renewable/#24ee9a3159ae)
   -- Another explanation of uranium renewability
-* [Nuclear power proposed as renewable energy (Wikipedia)](https://en.wikipedia.org/wiki/Nuclear_power_proposed_as_renewable_energy) -- A
+- [Nuclear power proposed as renewable energy (Wikipedia)](https://en.wikipedia.org/wiki/Nuclear_power_proposed_as_renewable_energy) -- A
   summary of the debate
-* [Dungan, K., et al. "Uranium from seawater–Infinite resource or improbable aspiration?."
+- [Dungan, K., et al. "Uranium from seawater–Infinite resource or improbable aspiration?."
   Progress in Nuclear Energy 99 (2017):
   81-85.](https://doi.org/10.1016/j.pnucene.2017.04.016) --- a critique of this idea with a
   focus on implications of doing it with non-breeders (even though seawater uranium with

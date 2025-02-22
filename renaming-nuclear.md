@@ -2,16 +2,17 @@
 layout: default
 title: We should rename nuclear energy
 category: blog
-description: > 
-    Nuclear energy needs a new name to differentiate it from nuclear weapons. 
-    Besides, most energy sources are named after their fuel rather than their entire field of physics.
-    As the field of nuclear physics has developed, it's now time to graduate into being more
-    specific. 
+description: >
+  Nuclear energy needs a new name to differentiate it from nuclear weapons. 
+  Besides, most energy sources are named after their fuel rather than their entire field of physics.
+  As the field of nuclear physics has developed, it's now time to graduate into being more
+  specific.
 author: nick
 image: /img/renaming-nuclear.png
 byline: true
 date: 2022-04-16
 ---
+
 <div class="row">
 <div class="col-lg-8" markdown="1">
 
@@ -20,9 +21,9 @@ The term *nuclear* as in *nuclear energy*, *nuclear plants*, etc. is problematic
 description of the peaceful low-carbon energy source.
 
 The problem becomes abundantly clear when talk of nuclear weaponry ramps up, as it has
-during the Russian invasion of Ukraine. We hear about *nuclear issues*, *nuclear concerns*
-*nuclear threats*, etc., and it all just spills over from the civilization-destroying
-weapons to the climate-saving power stations. 
+during the Russian invasion of Ukraine. We hear about _nuclear issues_, _nuclear concerns_
+_nuclear threats_, etc., and it all just spills over from the civilization-destroying
+weapons to the climate-saving power stations.
 
 Institutions created to stop atmospheric testing of nuclear weapons seamlessly pivoted to
 include protests of nuclear reactors without even changing the slogans of "NO NUCLEAR",
@@ -31,8 +32,8 @@ etc.
 Most energy sources are named after their fuel rather than their entire field of physics.
 As the field of nuclear physics has developed, it's now time to graduate into being more
 specific. After all, debating about whether or not you like energy from the field of
-chemistry (*chemical energy*) would be effectively meaningless, as it covers batteries,
-fossil fuel, hydrogen, biofuels, etc. Imagine a *NO CHEMISTRY* campaign!
+chemistry (_chemical energy_) would be effectively meaningless, as it covers batteries,
+fossil fuel, hydrogen, biofuels, etc. Imagine a _NO CHEMISTRY_ campaign!
 
 Similarly, nuclear physics covers a wide variety of technologies, including nuclear
 weapons, nuclear medicine, traditional uranium converter reactors, exotic uranium
@@ -102,12 +103,12 @@ Stay tuned
 
 ## Sidenotes
 
-* Q: Should we try to make it something really warm and fuzzy, analogous to *natural gas*?  A: Maybe
-* Q: Will we have to change the name of this website?  A: Nah.
+- Q: Should we try to make it something really warm and fuzzy, analogous to _natural gas_? A: Maybe
+- Q: Will we have to change the name of this website? A: Nah.
 
 ## Related Efforts
 
-* [The new term Nucleonics (1946)](https://doi.org/10.1021/cen-v024n002.p186)
+- [The new term Nucleonics (1946)](https://doi.org/10.1021/cen-v024n002.p186)
 
 </div>
 </div>

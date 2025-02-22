@@ -8,8 +8,6 @@ date: 2022-11-17
 image: /img/kid_in_atom.jpg
 ---
 
-
-
 <div class="row">
 <div class="col-12" markdown="1">
 
@@ -33,7 +31,6 @@ image: /img/kid_in_atom.jpg
 Learn more about [breeder reactors here]({% link recycling.md %}).
 
 <hr/>
-
 
 </div>
 </div>

@@ -15,6 +15,7 @@ multimedia experience, we&rsquo;ve added a gimmick that allows you to
 sound out of these doesn&rsquo;t make any physical sense, it&rsquo;s a fun way
 to get people to explore the variety of shapes. Look and listen to these and
 then scroll down to learn about what they mean.
+
 </div></div>
 
 <div class="row">
@@ -28,9 +29,9 @@ Your browser does not support the audio element.
 </audio> 
 <div>
 <a href="javascript:void(0)" onclick="startJam('u235_fission', 0.3846, 0.6923);" class="btn btn-primary" role="button">Jam</a> 
-<a href="javascript:void(0)" onclick="document.getElementById('u235_fission_audio').pause()" class="btn btn-default" role="button">Pause</a> 
+<a href="javascript:void(0)" onclick="document.getElementById('u235_fission_audio').pause()" class="btn btn-default" role="button">Pause</a>
 
-</div> 
+</div>
 
 </div>
 <div class="col-md-6">
@@ -58,9 +59,9 @@ Your browser does not support the audio element.
 </audio> 
 <div>
 <a href="javascript:void(0)" onclick="startJam('pu239_elastic', 0.4383, 0.6923);" class="btn btn-primary" role="button">Jam</a> 
-<a href="javascript:void(0)" onclick="document.getElementById('pu239_elastic_audio').pause()" class="btn btn-default" role="button">Pause</a> 
+<a href="javascript:void(0)" onclick="document.getElementById('pu239_elastic_audio').pause()" class="btn btn-default" role="button">Pause</a>
 
-</div> 
+</div>
 
 </div>
 
@@ -72,7 +73,8 @@ Your browser does not support the audio element.
 <source src="/barn-jams/th232_gamma.log.wav.ogg" type="audio/ogg">
 
 Your browser does not support the audio element.
-</audio> 
+</audio>
+
 <div>
 <a href="javascript:void(0)" onclick="startJam('th232_gamma', 0.4615, 0.6923);" class="btn btn-primary" role="button">Jam</a> 
 <a href="javascript:void(0)" onclick="document.getElementById('th232_gamma_audio').pause()" class="btn btn-default" role="button">Pause</a> 
@@ -92,10 +94,9 @@ Your browser does not support the audio element.
 </audio> 
 <div>
 <a href="javascript:void(0)" onclick="startJam('fe56_total', 0.6428, 0.8571);" class="btn btn-primary" role="button">Jam</a> 
-<a href="javascript:void(0)" onclick="document.getElementById('fe56_total_audio').pause()" class="btn btn-default" role="button">Pause</a> 
+<a href="javascript:void(0)" onclick="document.getElementById('fe56_total_audio').pause()" class="btn btn-default" role="button">Pause</a>
 
-</div> 
-
+</div>
 
 </div>
 
@@ -118,6 +119,7 @@ Your browser does not support the audio element.
 <div class="col-md-8" markdown="1">
 
 ## So, what am I looking at here?
+
 Let&rsquo;s start with some background. If you like talking about nuclear
 reactors, you might know that there are two <a
 href="{% link isotopes.md %}">isotopes</a> of Uranium found in nature, and that
@@ -125,9 +127,10 @@ the rare Uranium-235 readily fissions and releases energy when it encounters a
 neutron of any energy, while the more common Uranium-238 does not. This is why
 most nuclear reactors require enrichment; to increase the concentration of
 U-235. Nuclear cross section are the details of the interaction probabilities
-between neutrons and nuclei of various atoms. 
+between neutrons and nuclei of various atoms.
 
 When a neutron strikes a nucleus, a variety of interactions may occur:
+
 <ul> 
 <li>The neutron might bounce (or <em>scatter</em>) off like a billiards ball, transferring some of its energy to the nucleus</li>
 <li>The neutron might get <em>captured</em> by the nucleus, forming a larger nucleus</li>
@@ -138,11 +141,11 @@ When a neutron strikes a nucleus, a variety of interactions may occur:
 You can never know exactly which of these interactions will happen in any
 particular encounter, but you can know what will happen <em>on average</em>. In
 other words, if you shoot a million neutrons at a bunch of nuclei, you can
-figure out how many of each interaction type will occur. 
+figure out how many of each interaction type will occur.
 
 How do you figure it out? You measure the probabilities with experiments.
 Simply put, you just shoot neutrons of varying speeds at various materials and
-count how many interactions of each type occur. 
+count how many interactions of each type occur.
 
 Nuclear physicists think of the probabilities as <em>cross-sectional</em> area
 the nucleus has for each interaction. If the fission probability is large, then
@@ -152,9 +155,10 @@ early days of the Manhattan Project, some physicists agreed on units of
 away secrets of their work [1]. The unit is defined as 10<sup>-24</sup>
 cm<sup>2</sup>, which was said to be &quot;as big as a barn,&quot; by which
 they meant that an interaction of this cross section was decidedly likely to
-occur. 
+occur.
 
 ## Nuclear data
+
 Gaps in measured cross sections are typically filled-in using theoretical
 nuclear models, allowing the creation of smooth curves of interaction
 probability vs. the energy of the incoming neutron. There is a huge amount of
@@ -164,7 +168,8 @@ performed by various organizations such as CSWEG [2]. The results of an
 evaluation are distributed broadly to nuclear physicists, reactor designers,
 and all sorts of other people who use the information in their computer models.
 Thus, nuclear data is the connection between fundamental nuclear physics and
-the applications of nuclear engineering.  
+the applications of nuclear engineering.
+
 <figure>
 <img class="img img-fluid" src="/barn-jams/u235_w_experiments.png" alt="U235 n,fis w/data">
 <figcaption>
@@ -177,18 +182,18 @@ latest US data evaluation over at the National Nuclear Data Center [3].
 </figcaption>
 </figure>
 
-
 ## Notable features of some cross sections
+
 You&rsquo;ll notice in the first two plots that the U-235 fission cross section is much
 higher than the U-238 fission cross section. This means U-235 fissions more often.
 You&rsquo;ll also notice that the fission and absorption cross sections are high at low
 energy. The high probability of U-235 fission from slow neutrons is why slow-neutron
-reactors  (aka *thermal* reactors) were the only ones possible before <a href="{% link
+reactors (aka _thermal_ reactors) were the only ones possible before <a href="{% link
 isotopes.md %}#enrichment">enrichment</a> was invented. You can also see that capture
 (gamma) cross sections tend to get small at very high energy, while the fission cross
 sections level off. This is a general trend among most actinides and is part of the reason
 that <a href="{% link fast-reactor.md %}">fast reactors</a> often have enough extra
-neutrons to be <a href="{% link recycling.md %}">breeder reactors</a>. 
+neutrons to be <a href="{% link recycling.md %}">breeder reactors</a>.
 
 Also note that the resonances tend to get closer and closer together as we go
 to higher energy. Eventually, all resonances just stop and there appears to be
@@ -229,7 +234,6 @@ is just an average. That is called the <em>unresolved resonance</em> region.
 	  }
 </script>
 
-
 <script>
 	window.requestAnimFrame = (function(callback) {
         return window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame ||
@@ -269,4 +273,3 @@ function animate(canvas, context, audio, image, minFrac, maxFrac) {
   
 };
 </script>
-    

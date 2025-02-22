@@ -8,6 +8,7 @@ date: 2020-10-30
 mathjax: true
 byline: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
@@ -20,28 +21,33 @@ batteries).
 See results graphed on a linear-axis bar graph [here]({% link energy-density-bar.md %}).
 
 ## Details of the computation
+
 The easy way to compute energy density of nuclear fuels is to figure out how
 much fission energy can be released from 1 mole of the fuel. The equation for
-energy density in MJ/kg is: 
+energy density in MJ/kg is:
 
-$$\text{ED} = \frac{\kappa_{fis} \text{[MeV/fission]} N_A \text{[fissions/mol]}}{A
+$$
+\text{ED} = \frac{\kappa_{fis} \text{[MeV/fission]} N_A \text{[fissions/mol]}}{A
 \text{[g/mol]}} \times \frac{1.60217\times10^{-19} \text{[Mega Joules/MeV]}}{0.001
-\text{kg/g}} = \text{MJ/kg}$$
+\text{kg/g}} = \text{MJ/kg}
+$$
 
 where:
-   * $$\kappa_{fis}$$ is the energy release per fission for the nuclide of
-     interest. These values are measured by scientists and collected in nuclear
-     data files such as the ones available at the National Nuclear Data Center.
-     Look for the *(n,fis.ene.release) Interpreted* field for each nuclide <a href="http://www.nndc.bnl.gov/sigma/index.jsp">here</a>.
 
-   * $$N_A$$ is Avogadro's number, or 6.022e23. This is the number of atoms
-     per mole. Since we're assuming 100% of atoms fission, this is equal to
-     the number of fissions per mole.
+- $$\kappa_{fis}$$ is the energy release per fission for the nuclide of
+  interest. These values are measured by scientists and collected in nuclear
+  data files such as the ones available at the National Nuclear Data Center.
+  Look for the _(n,fis.ene.release) Interpreted_ field for each nuclide <a href="http://www.nndc.bnl.gov/sigma/index.jsp">here</a>.
 
-   * $$A$$ is the atomic mass of the nuclide of interest. This can be found on any
-     Chart of the Nuclides, like <a href="http://atom.kaeri.re.kr/">this one</a>.
+- $$N_A$$ is Avogadro's number, or 6.022e23. This is the number of atoms
+  per mole. Since we're assuming 100% of atoms fission, this is equal to
+  the number of fissions per mole.
+
+- $$A$$ is the atomic mass of the nuclide of interest. This can be found on any
+  Chart of the Nuclides, like <a href="http://atom.kaeri.re.kr/">this one</a>.
 
 ## Some nuclear energy density calculations
+
 Running the equation, here's how much energy is contained in certain amounts of nuclear fuel.
 
 <table class="table table-striped">
@@ -72,7 +78,6 @@ Note that from a high-level waste perspective, the burnup of the fuel going into
 matters (rather than the effective burnup of the mined material), so 5% of 80 million is
 more appropriate.
 
-
 ## Comparison with other fuels
 
 A single pellet of fuel contains as much energy as the following:
@@ -88,7 +93,6 @@ In a nuclear reactor, fission isn't the only process that releases energy. The a
 fission products, and even structural and coolant nuclides often undergo capture reactions
 that release energy without fissioning. The fraction of energy released by a nuclear
 reactor by these reactions can be on the order of 10% of the total power of the reactor.
-
 
 <h1 id="references">See Also</h1>
 

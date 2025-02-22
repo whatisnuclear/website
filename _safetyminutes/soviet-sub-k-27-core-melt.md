@@ -21,12 +21,12 @@ src="/img/k_27_sub.jpg"  alt=""/></a>
 
 The Project 645 K-27 was a Soviet November-class submarine powered by twin
 beryllium-moderated, lead-bismuth (liquid metal) cooled 73 MW VT-1 nuclear
-reactors (also designated RM-1 reactors).  This was not one of those small
+reactors (also designated RM-1 reactors). This was not one of those small
 Alfa-class lead-bismuth cooled subs, but a much larger one that came before
 those, with a crew of 144. It launched in 1962.
 
 At this time, purity requirements for lead-bismuth coolants were not well
-understood.  During operation, lead oxides had accumulated in significant masses
+understood. During operation, lead oxides had accumulated in significant masses
 in the primary system. Additionally, the primary coolant was contaminated with
 oil pyrolysis products, as oil was used in the seals of pump shafts. The pump
 seals were unreliable and leaked oil into the coolant.
@@ -35,8 +35,8 @@ In 1968 it was 5 hours out from the Kola Peninsula, preparing for a 70-day
 round-the-world-without-resurfacing mission and was sent into a naval exercise.
 A steam generator leak caused all the impurities and oxides to enter into the
 core, which reduced heat removal dramatically by blockages of coolant channels.
-Negative temperature feedback caused the core power to drop to 7% of nominal 
-capacity. 
+Negative temperature feedback caused the core power to drop to 7% of nominal
+capacity.
 
 The operational procedures did not include instructions to the operator in this
 condition. The naval commander directed that the power be restored to a higher
@@ -51,7 +51,7 @@ Radiation alarms in inhabited areas led to evacuation of the reactor area
 and the crew was moved to distant compartments. As some crew ran past others,
 they flipped on radiation meters and were surprised to see them off the chart.
 
-As the ship came back to port, the port radiation sirens were blaring.  Nine
+As the ship came back to port, the port radiation sirens were blaring. Nine
 members of the crew died of acute radiation syndrome from their exposures.
 
 K-27 officers were warned that they should not have children for five years.
@@ -59,22 +59,20 @@ K-27 officers were warned that they should not have children for five years.
 In 1981, the reactor compartment was backfilled and sunk off Novaya Zemlya in 50
 m deep water.
 
-
 # Lessons
 
-* Do not let air or oil leak into your liquid-metal coolant systems. Use
+- Do not let air or oil leak into your liquid-metal coolant systems. Use
   pressurized cover gas, high-performance seals, and sensitive instrumentation
   to ensure this. Maintenance of purity can be particularly challenging during maintenance
   or fuel reloading.
-* Include oxygen sensors in lead-bismuth reactor systems
-* Do not use oil-based seals for pump shafts in liquid metal reactors
-* Include and operate a continuously operated coolant purification system
-* Make sure your procedures include instructions about what to do in abnormal
+- Include oxygen sensors in lead-bismuth reactor systems
+- Do not use oil-based seals for pump shafts in liquid metal reactors
+- Include and operate a continuously operated coolant purification system
+- Make sure your procedures include instructions about what to do in abnormal
   conditions
 
-
-
 # References and additional reading
+
 1. [Use of Russian technology of ship reactors with lead-bismuth coolant in
    nuclear power](https://www.osti.gov/etdeweb/biblio/20114853)
 2. [Reistad and Ølgaard, Russian Nuclear Power Plants for Marine Applications,

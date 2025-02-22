@@ -5,255 +5,285 @@ description: Play Bingo for nuclear discussions, or make your own bingo card and
 author: nick
 image: /img/bingo.png
 ---
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900%7CMaterial+Icons" rel="stylesheet" type="text/css">
-    <link href="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.prod.css" rel="stylesheet" type="text/css">
-    <div id="q-app">
-        <q-dialog v-model="openEditor" >
-          <q-card style="min-width: 350px">
-            <q-card-section>
-              <div class="text-h6">Phrases</div>
-            </q-card-section>
 
-            <q-card-section class="q-pt-none">
-                <q-input type="textarea" v-model="wordsText" autofocus></q-input>
-            </q-card-section>
+<link
+  href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900%7CMaterial+Icons"
+  rel="stylesheet"
+  type="text/css"
+/>
+<link
+  href="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.prod.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+<div id="q-app">
+  <q-dialog v-model="openEditor">
+    <q-card style="min-width: 350px">
+      <q-card-section>
+        <div class="text-h6">Phrases</div>
+      </q-card-section>
 
-            <q-card-actions align="right" class="text-primary">
-                <q-btn flat label="Cancel" v-close-popup></q-btn>
-                <q-btn flat label="Update Phrases" @click="updatePhrases()"></q-btn>
-            </q-card-actions>
-          </q-card>
-        </q-dialog>
+      <q-card-section class="q-pt-none">
+        <q-input type="textarea" v-model="wordsText" autofocus></q-input>
+      </q-card-section>
 
-        <div class="q-pa-md" >
-        <div v-for="row in 5" :key="row" class="row ">
-        <div v-for="col in 5" :key="col" class="col q-pa-xs">
-            <q-btn class="q-pa-xs fit text-center" no-caps :label="words[5*(row-1)+col-1]"
-                   :color="getColor(row, col)" @click="woo(row, col)"></q-btn>
-        </div>
-        </div>
-        </div>
+      <q-card-actions align="right" class="text-primary">
+        <q-btn flat label="Cancel" v-close-popup></q-btn>
+        <q-btn flat label="Update Phrases" @click="updatePhrases()"></q-btn>
+      </q-card-actions>
+    </q-card>
+  </q-dialog>
 
-        <div class="row q-pa-md">
-        <div class="col">
-            <q-btn class="q-pa-md fit" label="Remake card" color="red"
-                                                           @click="shuffle()"></q-btn>
-        </div>
-        <div class="col">
-        <h5 v-if="bingo" class="text-center q-ma-xs">BINGO!</h5>
-        <h5 v-else class="text-center q-ma-xs">No bingo</h5>
-        </div>
-        <div class="col items-end">
-            <q-btn class="q-pa-md fit" label="Clear card" color="blue"
-                                                          @click="clear()"></q-btn>
-        </div>
-        </div>
-        
-        <div class="q-pa-md q-gutter-sm">
-            <q-btn label="Change options" color="blue" @click="edit()"></q-btn>
-            <q-btn label="Reset options" color="blue" @click="resetPhrases()"></q-btn>
-            <q-btn label="Share options" color="blue" @click="sharePhrases()"></q-btn>
-        </div>
-
+  <div class="q-pa-md">
+    <div v-for="row in 5" :key="row" class="row">
+      <div v-for="col in 5" :key="col" class="col q-pa-xs">
+        <q-btn
+          class="q-pa-xs fit text-center"
+          no-caps
+          :label="words[5*(row-1)+col-1]"
+          :color="getColor(row, col)"
+          @click="woo(row, col)"
+        ></q-btn>
+      </div>
     </div>
+  </div>
 
-    <!-- Add the following at the end of your body tag -->
-    <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.umd.prod.js"></script>
-    
-    <script>
-      /*
+  <div class="row q-pa-md">
+    <div class="col">
+      <q-btn
+        class="q-pa-md fit"
+        label="Remake card"
+        color="red"
+        @click="shuffle()"
+      ></q-btn>
+    </div>
+    <div class="col">
+      <h5 v-if="bingo" class="text-center q-ma-xs">BINGO!</h5>
+      <h5 v-else class="text-center q-ma-xs">No bingo</h5>
+    </div>
+    <div class="col items-end">
+      <q-btn
+        class="q-pa-md fit"
+        label="Clear card"
+        color="blue"
+        @click="clear()"
+      ></q-btn>
+    </div>
+  </div>
+
+  <div class="q-pa-md q-gutter-sm">
+    <q-btn label="Change options" color="blue" @click="edit()"></q-btn>
+    <q-btn label="Reset options" color="blue" @click="resetPhrases()"></q-btn>
+    <q-btn label="Share options" color="blue" @click="sharePhrases()"></q-btn>
+  </div>
+</div>
+
+<!-- Add the following at the end of your body tag -->
+<script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.umd.prod.js"></script>
+
+<script>
+  /*
         Example kicking off the UI. Obviously, adapt this to your specific needs.
         Assumes you have a <div id="q-app"></div> in your <body> above
        */
-      const app = Vue.createApp({
-        setup () {
+  const app = Vue.createApp({
+    setup() {
+      Vue.onMounted(() => {
+        loadPhrases();
+        shuffle();
+      });
 
-            Vue.onMounted(() => {
-              loadPhrases();
-              shuffle();
-            })
+      const originalWords = [
+        "Small Modular Reactor",
+        "HALEU",
+        "Onkalo Repository",
+        "Air pollution kills 8M/yr",
+        "Low carbon",
+        "Material footprint",
+        "Saved 1.8M lives",
+        "Fukushima",
+        "Chernobyl",
+        "Three Mile Island",
+        "What about the waste?",
+        "Our world in data",
+        "Gummy bears",
+        "Proliferation",
+        "It's recyclable",
+        "Breeder reactors",
+        "Thorium",
+        "Molten Salt",
+        "Floating reactors",
+        "Uranium miners",
+        "Fusion",
+        "Germany",
+        "France",
+        "China",
+        "RBMK",
+        "PWR",
+        "BWR",
+        "Hanford",
+        "Radiation on flights",
+        "Banana",
+        "Jenkins firm low-carbon",
+        "Sun doesn't always shine",
+        "Birds",
+        "Wind doesn't always blow",
+        "LCOE",
+        "Economics",
+        "Vogtle",
+      ];
+      const words = Vue.ref(originalWords);
+      const wordsText = Vue.ref("");
+      const openEditor = Vue.ref(false);
+      const selected = Vue.ref([
+        [0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0],
+      ]);
+      const bingo = Vue.ref(false);
 
-            const originalWords= [
-                "Small Modular Reactor",
-                "HALEU",
-                "Onkalo Repository",
-                "Air pollution kills 8M/yr",
-                "Low carbon",
-                "Material footprint",
-                "Saved 1.8M lives",
-                "Fukushima",
-                "Chernobyl",
-                "Three Mile Island",
-                "What about the waste?",
-                "Our world in data",
-                "Gummy bears",
-                "Proliferation",
-                "It's recyclable",
-                "Breeder reactors",
-                "Thorium",
-                "Molten Salt",
-                "Floating reactors",
-                "Uranium miners",
-                "Fusion",
-                "Germany",
-                "France",
-                "China",
-                "RBMK",
-                "PWR",
-                "BWR",
-                "Hanford",
-                "Radiation on flights",
-                "Banana",
-                "Jenkins firm low-carbon",
-                "Sun doesn't always shine",
-                "Birds",
-                "Wind doesn't always blow",
-                "LCOE",
-                "Economics",
-                "Vogtle",
-            ];
-            const words = Vue.ref(originalWords);
-            const wordsText = Vue.ref("");
-            const openEditor = Vue.ref(false);
-            const selected = Vue.ref([[0,0,0,0,0],
-                [0,0,0,0,0],
-                [0,0,0,0,0],
-                [0,0,0,0,0],
-                [0,0,0,0,0]]);
-            const bingo = Vue.ref(false);
+      function woo(row, col) {
+        let val = selected.value[row - 1][col - 1];
+        selected.value[row - 1][col - 1] = val ? 0 : 1;
+        bingo.value = checkBingo();
+        if (bingo.value) {
+          Quasar.Notify.create({
+            message: "BINGO!",
+            caption: "Congrats!",
+            type: "positive",
+            timeout: 1000,
+          });
+        }
+      }
 
-          function woo(row, col) {
-              let val = selected.value[row-1][col-1];
-              selected.value[row-1][col-1]= val? 0:1;
-              bingo.value = checkBingo()
-                      if (bingo.value) {
-                          Quasar.Notify.create({message:"BINGO!", caption:
-                                      "Congrats!",type: "positive", timeout: 1000})
-                      }
+      function getColor(row, col) {
+        return selected.value[row - 1][col - 1] == 0
+          ? "primary"
+          : "deep-orange";
+      }
+
+      function clear() {
+        for (let row = 0; row < 5; row++) {
+          for (let col = 0; col < 5; col++) {
+            selected.value[row][col] = 0;
           }
+        }
+        bingo.value = false;
+      }
 
-          function getColor(row, col) {
-              return selected.value[row-1][col-1]==0 ? 'primary' : 'deep-orange';
+      function shuffle() {
+        let array = words.value;
+        var currentIndex = array.length,
+          randomIndex;
+
+        // While there remain elements to shuffle...
+        while (currentIndex != 0) {
+          // Pick a remaining element...
+          randomIndex = Math.floor(Math.random() * currentIndex);
+          currentIndex--;
+
+          // And swap it with the current element.
+          [array[currentIndex], array[randomIndex]] = [
+            array[randomIndex],
+            array[currentIndex],
+          ];
+        }
+        clear();
+        return array;
+      }
+
+      function checkBingo() {
+        for (let row = 0; row < 5; row++) {
+          let sum = 0;
+          for (let col = 0; col < 5; col++) {
+            sum += selected.value[row][col];
           }
-
-          function clear() {
-            for(let row=0;row<5;row++) {
-              for(let col=0;col<5;col++) {
-                selected.value[row][col]=0;
-                      }
-                    }
-            bingo.value=false;
+          if (sum == 5) {
+            return true;
           }
-
-          function shuffle() {
-              let array = words.value;
-              var currentIndex = array.length,  randomIndex;
-
-              // While there remain elements to shuffle...
-              while (currentIndex != 0) {
-
-                // Pick a remaining element...
-                randomIndex = Math.floor(Math.random() * currentIndex);
-                currentIndex--;
-
-                // And swap it with the current element.
-                [array[currentIndex], array[randomIndex]] = [
-                  array[randomIndex], array[currentIndex]];
-              }
-              clear();
-              return array;
-            }
-
-        function checkBingo() {
-            for(let row=0;row<5;row++) {
-              let sum = 0;
-              for(let col=0;col<5;col++) {
-                sum += selected.value[row][col];
-              }
-              if (sum==5) {
-                  return true;
-              }
-            }
-              for(let col=0;col<5;col++) {
-              let sum = 0;
-              // check cols
-            for(let row=0;row<5;row++) {
-                sum += selected.value[row][col];
-              }
-              if (sum==5) {
-                  return true;
-              }
-            }
-
-            // check diagonals
-            let sum1=0;
-            let sum2=0;
-            for(let row=0;row<5;row++) {
-                sum1 += selected.value[row][row];
-                sum2 += selected.value[row][4-row];
-            }
-            if (sum1==5 || sum2==5) {
-                return true;
-            }
-            return false;
         }
-
-        function edit() {
-            wordsText.value = words.value.join("\n");
-            openEditor.value = true;
-        }
-        function updatePhrases() {
-            words.value = wordsText.value.split(/\r?\n/) 
-            openEditor.value = false;
-        }
-        function loadPhrases() {
-            // allow passing phrases in on URL
-            let urlParams = new URLSearchParams(window.location.search);
-            if(urlParams.has('p')) {
-                words.value = decodeURIComponent(atob(urlParams.get('p'))).split('|');
-            }
-        }
-        function sharePhrases() {
-            // build sharable URLs with custom choices
-            let phrases= words.value.join("|");
-            // strip off the existing search terms out of the location
-            let path=window.location.origin + window.location.pathname + "?p=" +
-                        encodeURIComponent(btoa(phrases));
-                    Quasar.copyToClipboard(path).then(() => {
-                                Quasar.Notify.create({
-                                            message:"Copied sharable URL to clipboard",
-                                            type:"positive"
-                                })
-                            })
-        }
-        function resetPhrases() {
-            words.value = originalWords;
-        } 
-
-
-          return {
-              words,
-              getColor, 
-              woo,
-              selected,
-              shuffle,
-              clear, 
-              bingo, 
-              checkBingo,
-              edit,
-              wordsText,
-              openEditor,
-              updatePhrases,
-              sharePhrases,
-              resetPhrases
+        for (let col = 0; col < 5; col++) {
+          let sum = 0;
+          // check cols
+          for (let row = 0; row < 5; row++) {
+            sum += selected.value[row][col];
           }
-        },
-        methods: {
+          if (sum == 5) {
+            return true;
+          }
         }
-      })
 
-      app.use(Quasar)
-      app.mount('#q-app')
-    </script>
+        // check diagonals
+        let sum1 = 0;
+        let sum2 = 0;
+        for (let row = 0; row < 5; row++) {
+          sum1 += selected.value[row][row];
+          sum2 += selected.value[row][4 - row];
+        }
+        if (sum1 == 5 || sum2 == 5) {
+          return true;
+        }
+        return false;
+      }
 
+      function edit() {
+        wordsText.value = words.value.join("\n");
+        openEditor.value = true;
+      }
+      function updatePhrases() {
+        words.value = wordsText.value.split(/\r?\n/);
+        openEditor.value = false;
+      }
+      function loadPhrases() {
+        // allow passing phrases in on URL
+        let urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has("p")) {
+          words.value = decodeURIComponent(atob(urlParams.get("p"))).split("|");
+        }
+      }
+      function sharePhrases() {
+        // build sharable URLs with custom choices
+        let phrases = words.value.join("|");
+        // strip off the existing search terms out of the location
+        let path =
+          window.location.origin +
+          window.location.pathname +
+          "?p=" +
+          encodeURIComponent(btoa(phrases));
+        Quasar.copyToClipboard(path).then(() => {
+          Quasar.Notify.create({
+            message: "Copied sharable URL to clipboard",
+            type: "positive",
+          });
+        });
+      }
+      function resetPhrases() {
+        words.value = originalWords;
+      }
+
+      return {
+        words,
+        getColor,
+        woo,
+        selected,
+        shuffle,
+        clear,
+        bingo,
+        checkBingo,
+        edit,
+        wordsText,
+        openEditor,
+        updatePhrases,
+        sharePhrases,
+        resetPhrases,
+      };
+    },
+    methods: {},
+  });
+
+  app.use(Quasar);
+  app.mount("#q-app");
+</script>

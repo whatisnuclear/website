@@ -5,10 +5,10 @@ description: Learn about the CANDU reactor
 author: nick
 byline: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-       
 <img class="float-end" src="/img/candu.png" alt="Heavy Water" title="Heavy Water" /> 
 CANada Deuterium Uranium (CANDU) reactors use heavy water as a coolant and
 [moderator]({% link moderation.md %}) instead of regular old light water.  These
@@ -24,28 +24,29 @@ CANDU reactors, with 17 of these in Canada.
          
 ## Pros
 
-* No enrichment required. Heavy water is such an excellent moderator that it allows natural uranium to be burned directly
-* Bypassing enrichment, no depleted uranium tails are made. This allows CANDUs to get very efficient
+- No enrichment required. Heavy water is such an excellent moderator that it allows natural uranium to be burned directly
+- Bypassing enrichment, no depleted uranium tails are made. This allows CANDUs to get very efficient
   use of the uranium resource, higher than all other water-cooled reactors
-* CANDUs can be refuelled without shutting down the reactor, avoiding the downtime that most other reactors require
-	
+- CANDUs can be refuelled without shutting down the reactor, avoiding the downtime that most other reactors require
+
 ## Cons
-* Heavy water is expensive
-* When regular water absorbs one neutron, it becomes heavy water. But when heavy water absorbs one
+
+- Heavy water is expensive
+- When regular water absorbs one neutron, it becomes heavy water. But when heavy water absorbs one
   neutron, it becomes tritium (H-3), which is a low-level radioactive hazard. Tritium is difficult to
   contain and enters biological systems readily. CANDUs make more tritium than light-water reactors
-  because they have so much heavy water. 
-	
+  because they have so much heavy water.
+
 <a href="/img/hvsdu.png"><img
 class="float-end" src="/img/hvsdu.png" style="width:300px" alt="Hydrogen vs. deuterium capture cross
-section" title="Hydrogen vs. deuterium capture cross section"/></a> 	
+section" title="Hydrogen vs. deuterium capture cross section"/></a>
 In this figure, we plot the probability that hydrogen and deuterium will absorb a neutron (hurting
 the chain reaction). As you can see, H-2 (deuterium, the constituent of heavy water) eats up
-neutrons with 3 orders of magnitude less probability. 
+neutrons with 3 orders of magnitude less probability.
 
 # See Also
 
-* [CANDU Wikipedia page](https://en.wikipedia.org/wiki/CANDU_reactor)
+- [CANDU Wikipedia page](https://en.wikipedia.org/wiki/CANDU_reactor)
 
 </div>
 </div>

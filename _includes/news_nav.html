@@ -8,31 +8,37 @@
         <a
           class="btn btn-success m-2"
           href="/index.html"
-          role="button">&#10094; Main page</a>
+          role="button"
+          >&#10094; Main page</a
+        >
         <a
           class="btn btn-success m-2"
           href="/news/"
-          role="button">&#10094; All news</a>
+          role="button"
+          >&#10094; All news</a
+        >
         {%- if forloop.first -%}
-          {%- else -%}
-            {%- assign previous = forloop.index0 | minus: 1 -%}
-            {%- assign previous_page = pages[previous].url %}
-            <a
-              class="btn btn-success m-2"
-              href="{{ previous_page }}"
-              role="button">&#10094; Back</a>
+        {%- else -%}
+          {%- assign previous = forloop.index0 | minus: 1 -%}
+          {%- assign previous_page = pages[previous].url %}
+          <a
+            class="btn btn-success m-2"
+            href="{{ previous_page }}"
+            role="button"
+            >&#10094; Back</a
+          >
         {%- endif -%}
         {%- if forloop.last -%}
-          <button class="btn btn-success m-2 disabled" type="button">
-            Next &#10095;
-          </button>
+          <button class="btn btn-success m-2 disabled" type="button">Next &#10095;</button>
         {%- else -%}
           {%- assign next = forloop.index0 | plus: 1 -%}
           {%- assign next_page = pages[next].url %}
           <a
             class="btn btn-success m-2"
             href="{{ next_page  }}"
-            role="button">Next &#10095;</a>
+            role="button"
+            >Next &#10095;</a
+          >
         {%- endif -%}
       </div>
     </div>

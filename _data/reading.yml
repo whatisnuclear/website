@@ -8,17 +8,17 @@
       url: https://archive.org/details/nuclearage0000lecl
       date: "1986"
       free: true
-      description:  >
+      description: >
         Hands down the most beautiful, complete, and interesting general purpose
         nuclear book I have ever seen.
     - author: Joshua Goldstein and Staffan Qvist
-      title: > 
+      title: >
         A Bright Future: How some countries have solved climate change and the rest can
         follow
       url: http://www.brightfuturebook.com/
       date: "2019-08-09"
       free: false
-      description:  >
+      description: >
         Book based on a <a
         href="https://www.nytimes.com/2019/04/06/opinion/sunday/climate-change-nuclear-power.html">NY
         Times op ed</a> that inspired the Oliver Stone documentary "Nuclear"
@@ -27,14 +27,14 @@
       url: https://scottlmontgomery.com/seeing-the-light/
       free: false
       date: "2017-09-14"
-      description:  >
+      description: >
         A high-level overview of the case for nuclear from an energy policy professor.
     - author: Gweneth Cravens
       title: "Power to Save the World: The Truth about Nuclear Energy"
       date: "2010-12-01"
       free: false
       url: https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World
-      description:  >
+      description: >
         A climate-concerned nuclear skeptic re-asks the old questions and gets new and
         surprising answers.
     - author: Rauli Partanen, Janne Korhonen
@@ -66,7 +66,7 @@
       description: >
         Shows you that Reactor Physics isn't Rocket Science Explains why Reactors are much
         safer than you might think. Enables anyone to understand how a Nuclear Reactor
-        works. 
+        works.
     - author: Meredith Angwin
       title: "Shorting the Grid: The Hidden Fragility of Our Electric Grid"
       url: https://www.goodreads.com/book/show/55716079-shorting-the-grid
@@ -76,44 +76,41 @@
         A general overview of electricity generation and governance. Contains
         plenty of discussion of nuclear compared to other electricity generating
         technologies.
-      
-
 
 - category: Academic reports and articles
-  items: 
-
-   - author: UNECE
-     title: Carbon Neutrality in the UNECE Region - Technology Interplay under the Carbon Neutrality Concept
-     date: "2022-10"
-     free: true
-     url: https://unece.org/sustainable-energy/publications/carbon-neutrality-unece-region-technology-interplay-under-carbon
-     description: A broad-stroke comparison of different energy sources in terms of lifecycle impacts across many metrics 
-   - author: UNECE
-     title: Technology Brief Nuclear Power (PDF)
-     date: "2021"
-     free: true
-     url: https://unece.org/sites/default/files/2021-08/Nuclear%20power%20brief_EN_0.pdf
-     description: An incredible collection of data from the UN scientists describing nuclear energy from a climate perspective. 
-   - author: MIT
-     title: The Future of Nuclear Energy in a Carbon-Constrained World
-     date: "2018"
-     free: true
-     url: https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/
-     description: A relatively modern analysis of the nuclear industry
-   - author: Jessica Lovering, Suzanne Hobbs Baker
-     title: Can Nuclear Power Go Local?
-     date: "2021"
-     free: true
-     url: https://issues.org/nuclear-power-local-democratic-progressive-lovering-hobbs-baker/
-     description: A vision for nuclear technology fulfilling progressive values
-   - author: Richard Rhodes
-     title: Why Nuclear Power Must Be Part of the Energy Solution
-     date: "2018-07-19"
-     free: true
-     url: https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate
-     description: >
-       A Pulitzer Prize-winning author argues that nuclear power has a place
-       in solving climate change
+  items:
+    - author: UNECE
+      title: Carbon Neutrality in the UNECE Region - Technology Interplay under the Carbon Neutrality Concept
+      date: "2022-10"
+      free: true
+      url: https://unece.org/sustainable-energy/publications/carbon-neutrality-unece-region-technology-interplay-under-carbon
+      description: A broad-stroke comparison of different energy sources in terms of lifecycle impacts across many metrics
+    - author: UNECE
+      title: Technology Brief Nuclear Power (PDF)
+      date: "2021"
+      free: true
+      url: https://unece.org/sites/default/files/2021-08/Nuclear%20power%20brief_EN_0.pdf
+      description: An incredible collection of data from the UN scientists describing nuclear energy from a climate perspective.
+    - author: MIT
+      title: The Future of Nuclear Energy in a Carbon-Constrained World
+      date: "2018"
+      free: true
+      url: https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/
+      description: A relatively modern analysis of the nuclear industry
+    - author: Jessica Lovering, Suzanne Hobbs Baker
+      title: Can Nuclear Power Go Local?
+      date: "2021"
+      free: true
+      url: https://issues.org/nuclear-power-local-democratic-progressive-lovering-hobbs-baker/
+      description: A vision for nuclear technology fulfilling progressive values
+    - author: Richard Rhodes
+      title: Why Nuclear Power Must Be Part of the Energy Solution
+      date: "2018-07-19"
+      free: true
+      url: https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate
+      description: >
+        A Pulitzer Prize-winning author argues that nuclear power has a place
+        in solving climate change
 
 - category: Documentaries and videos
   description: >
@@ -193,7 +190,6 @@
       free: true
       description: A large collection of semi-technical films about nuclear power.
 
-
 - category: Textbooks
   description: Some new, some oldies but goodies.
   items:
@@ -214,7 +210,7 @@
       url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015000471022&seq=9
       date: "1962"
       free: true
-    - author: Lamarsh 
+    - author: Lamarsh
       title: Introduction to Nuclear Reactor Theory
       description: >
         A classic introductory level textbook often taught in the first nuclear
@@ -222,7 +218,7 @@
         available but the third edition is much more common.
       url: https://babel.hathitrust.org/cgi/pt?id=coo.31924004142463&view=1up&seq=6
       free: true
-    - author: Duderstadt & Hamilton 
+    - author: Duderstadt & Hamilton
       free: true
       title: Nuclear Reactor Analysis
       date: "1976"
@@ -240,7 +236,7 @@
         mathematical methods used to predict the behavior of neutrons in nuclear reactors.
       url: https://www.osti.gov/biblio/4074688-nuclear-reactor-theory
     - author: Glasstone
-      title: Principles of nuclear reactor engineering 
+      title: Principles of nuclear reactor engineering
       free: true
       date: "1956"
       description: >
@@ -265,8 +261,8 @@
       date: 2017
       url: https://www.sciencedirect.com/book/9780081011263/molten-salt-reactors-and-thorium-energy
       description: A large collection of chapters describing MSRs and Thorium
-    - author: Russell R. Williams 
-      title: Principles Of Nuclear Chemistry 
+    - author: Russell R. Williams
+      title: Principles Of Nuclear Chemistry
       free: true
       date: 1950
       url: https://archive.org/details/in.ernet.dli.2015.288445/page/n3/mode/2up
@@ -275,148 +271,148 @@
 - category: Podcasts
   description: >
     If you like podcasts, here are a few to try out
-  items: 
-   - author: Rod Adams
-     title: The Atomic Show
-     date: "2006 - today"
-     free: true
-     url: https://atomicinsights.com/podcast/
-     description: >
-       The OG nuclear podcaster goes into depth on countless issues of interest
-       across the decades
-   - author: Bret Kugelmass and others
-     title: Titans of Nuclear
-     free: true
-     date: "2018 - today"
-     url: https://www.titansofnuclear.com/
-     description: >
-       Hundreds of in-depth interviews with people all across the nuclear industry
-   - author: Chris Keefer
-     title: Decouple
-     date: "2020 - today"
-     free: true
-     url: https://www.decouplemedia.org/
-     description: >
-       Lots of great discussions with people across climate, business, and nuclear areas
-   - author: Emmet Penney
-     title: Nuclear Barbarians
-     date: "2021 - today"
-     free: true
-     url: https://nuclearbarbarians.fireside.fm/
-     description: >
-       A podcast about nuclear, energy, and possibility
-   - author: IAEA
-     title: Nuclear Explained
-     free: true
-     date: "2021 - today"
-     url: https://www.iaea.org/podcasts
-     description: >
-       Educational discussions from the UN's International Atomic Energy Agency
+  items:
+    - author: Rod Adams
+      title: The Atomic Show
+      date: "2006 - today"
+      free: true
+      url: https://atomicinsights.com/podcast/
+      description: >
+        The OG nuclear podcaster goes into depth on countless issues of interest
+        across the decades
+    - author: Bret Kugelmass and others
+      title: Titans of Nuclear
+      free: true
+      date: "2018 - today"
+      url: https://www.titansofnuclear.com/
+      description: >
+        Hundreds of in-depth interviews with people all across the nuclear industry
+    - author: Chris Keefer
+      title: Decouple
+      date: "2020 - today"
+      free: true
+      url: https://www.decouplemedia.org/
+      description: >
+        Lots of great discussions with people across climate, business, and nuclear areas
+    - author: Emmet Penney
+      title: Nuclear Barbarians
+      date: "2021 - today"
+      free: true
+      url: https://nuclearbarbarians.fireside.fm/
+      description: >
+        A podcast about nuclear, energy, and possibility
+    - author: IAEA
+      title: Nuclear Explained
+      free: true
+      date: "2021 - today"
+      url: https://www.iaea.org/podcasts
+      description: >
+        Educational discussions from the UN's International Atomic Energy Agency
 
 - category: Open-access publications
-  items: 
-   - author: Yang, W.S.
-     title: Fast Reactor Physics and Computational Methods
-     free: true
-     date: 2012
-     url: https://doi.org/10.5516/NET.01.2012.504
-     description: >
-       An excellent overview of fast reactor physics and computational methods from a
-       legendary author
+  items:
+    - author: Yang, W.S.
+      title: Fast Reactor Physics and Computational Methods
+      free: true
+      date: 2012
+      url: https://doi.org/10.5516/NET.01.2012.504
+      description: >
+        An excellent overview of fast reactor physics and computational methods from a
+        legendary author
 
 - category: Technology-specific resources
   description: >
     There are lots of compilations of info on various subsets of nuclear technology
-  items: 
-   - author: Nuclear Innovation Alliance
-     title: "Advanced Nuclear Reactor Technology: A Primer"
-     free: true
-     description: >
-       Basic information about some reactors in development outside of typical large
-       water-cooled reactors
-     url: https://www.nuclearinnovationalliance.org/advanced-nuclear-reactor-technology-primer
-     date: September 2021
-   - author: Charles Till and Yoon Chang
-     title: "Plentiful Energy: The Story of the Integral Fast Reactor (PDF)"
-     free: true
-     description: >
-       A book describing the development of a fast-neutron breeder reactor.
-     url: http://www.thesciencecouncil.com/pdfs/PlentifulEnergy.pdf
-   - author: IAEA
-     title: Advances in Small Modular Reactor Technology Developments (PDF)
-     date: 2020
-     description: Modern info about small modular reactors
-     url: https://aris.iaea.org/Publications/SMR_Book_2020.pdf 
-   - author: Dietrich and Zinn
-     title: Solid Fuel Reactors
-     free: true
-     date: 1958
-     url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015004452796&view=1up&seq=9
-     description: >
+  items:
+    - author: Nuclear Innovation Alliance
+      title: "Advanced Nuclear Reactor Technology: A Primer"
+      free: true
+      description: >
+        Basic information about some reactors in development outside of typical large
+        water-cooled reactors
+      url: https://www.nuclearinnovationalliance.org/advanced-nuclear-reactor-technology-primer
+      date: September 2021
+    - author: Charles Till and Yoon Chang
+      title: "Plentiful Energy: The Story of the Integral Fast Reactor (PDF)"
+      free: true
+      description: >
+        A book describing the development of a fast-neutron breeder reactor.
+      url: http://www.thesciencecouncil.com/pdfs/PlentifulEnergy.pdf
+    - author: IAEA
+      title: Advances in Small Modular Reactor Technology Developments (PDF)
+      date: 2020
+      description: Modern info about small modular reactors
+      url: https://aris.iaea.org/Publications/SMR_Book_2020.pdf
+    - author: Dietrich and Zinn
+      title: Solid Fuel Reactors
+      free: true
+      date: 1958
+      url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015004452796&view=1up&seq=9
+      description: >
         A highlight from the 1958 Atoms for Peace conference, this book details solid fuel 
-        breeder reactors including Fermi-1, EBR-1, and EBR-2. 
-   - author: Starr and Dickinson
-     title: Sodium Graphite Reactors
-     free: true
-     date: 1958
-     url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015003993881&view=1up&seq=7
-     description: >
+        breeder reactors including Fermi-1, EBR-1, and EBR-2.
+    - author: Starr and Dickinson
+      title: Sodium Graphite Reactors
+      free: true
+      date: 1958
+      url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015003993881&view=1up&seq=7
+      description: >
         A highlight from the 1958 Atoms for Peace conference, this book details
         sodium-cooled, slow neutron reactors intended to achieve passive low-pressure
         safety, high temperature efficiency, and operate on very low enriched or natural
         uranium.
-   - author: Lane
-     title: Fluid Fuel Reactors
-     free: true
-     date: 1958
-     url: http://moltensalt.org/references/static/downloads/pdf/
-     description: >
+    - author: Lane
+      title: Fluid Fuel Reactors
+      free: true
+      date: 1958
+      url: http://moltensalt.org/references/static/downloads/pdf/
+      description: >
         A highlight from the 1958 Atoms for Peace conference, this book details
         fluid fueled reactors like aqueous homogeneous reactors and molten salt reactors.
-   - author: NRC
-     title: Fast Reactor Technology Training Materials
-     url: https://www.nrc.gov/docs/ML1914/ML19148A745.html
-     free: true
-     description: >
+    - author: NRC
+      title: Fast Reactor Technology Training Materials
+      url: https://www.nrc.gov/docs/ML1914/ML19148A745.html
+      free: true
+      description: >
         Excellent and detailed information about the history, technology, promises,  and challenges
         of fast-neutron reactors.
-     date: 2019
-   - author: NRC
-     title: Overview of Molten Salt Reactor Technology Training Materials
-     free: true
-     url: https://www.nrc.gov/docs/ML1733/ML17331B100.html
-     description: >
+      date: 2019
+    - author: NRC
+      title: Overview of Molten Salt Reactor Technology Training Materials
+      free: true
+      url: https://www.nrc.gov/docs/ML1733/ML17331B100.html
+      description: >
         Excellent and detailed information about the history, technology, promises,  and challenges
         of molten salt reactors.
-   - author: Generation IV International Forum
-     title: "Education and Training Working Group"
-     free: true
-     description: >
-       Many videos about different nuclear topics
-     url: https://www.youtube.com/channel/UCEHOQ63gD01fSKbClY9XvSQ/videos
-     date: 2022
-   - author: IAEA
-     title: "Design Features and Operating Experience of Experimental Fast Reactors"
-     free: true
-     description: >
-       Good descriptions of previous small fast reactors
-     url: https://www.iaea.org/publications/8493/design-features-and-operating-experience-of-experimental-fast-reactors
-     date: 2013
-   - author: Dan Wooten
-     title: "Lessons Learned from Fast Flux Test Facility Experience (PDF)"
-     free: true
-     description: >
+    - author: Generation IV International Forum
+      title: "Education and Training Working Group"
+      free: true
+      description: >
+        Many videos about different nuclear topics
+      url: https://www.youtube.com/channel/UCEHOQ63gD01fSKbClY9XvSQ/videos
+      date: 2022
+    - author: IAEA
+      title: "Design Features and Operating Experience of Experimental Fast Reactors"
+      free: true
+      description: >
+        Good descriptions of previous small fast reactors
+      url: https://www.iaea.org/publications/8493/design-features-and-operating-experience-of-experimental-fast-reactors
+      date: 2013
+    - author: Dan Wooten
+      title: "Lessons Learned from Fast Flux Test Facility Experience (PDF)"
+      free: true
+      description: >
         Valuable lessons learned from the FFTF
-     url: https://gain.inl.gov/Shared%20Documents/Fast%20Flux%20Test%20Facility%20Documents/02%20Lessons%20Learned-FFTF-IAEA-CN-245-13LLFR17.pdf
-     date: 2017
-   - author: OECD
-     url: https://www.oecd-ilibrary.org/nuclear-energy/technical-and-economic-aspects-of-load-following-with-nuclear-power-plants_29e7df00-en 
-     title: Technical and Economic Aspects of Load Following with Nuclear Power Plants 
-     date: 2021
-     description: >
-       How nuclear plants can and do load follow
+      url: https://gain.inl.gov/Shared%20Documents/Fast%20Flux%20Test%20Facility%20Documents/02%20Lessons%20Learned-FFTF-IAEA-CN-245-13LLFR17.pdf
+      date: 2017
+    - author: OECD
+      url: https://www.oecd-ilibrary.org/nuclear-energy/technical-and-economic-aspects-of-load-following-with-nuclear-power-plants_29e7df00-en
+      title: Technical and Economic Aspects of Load Following with Nuclear Power Plants
+      date: 2021
+      description: >
+        How nuclear plants can and do load follow
 
-- category: Comic books 
+- category: Comic books
   description: People used to make comics about nuclear power
   items:
     - title: Adventures Inside the Atom
@@ -424,7 +420,7 @@
       date: "1948"
       free: true
       author: General Electric
-      description:  >
+      description: >
         A comic describing the basic concepts of nuclear fission technology
         from the very early days.
     - title: "The Mighty Atom: The Story of Electricity from Amber to Atoms"
@@ -440,30 +436,30 @@
     **dozens upon dozens of deep-dive references** in the [reference section
     ](/reactor-history.html#references) of our [nuclear reactor development
     history](/reactor-history.html) page. But we'll put some here too.
-  items: 
-   - author: Hewlett and Holl
-     free: true
-     title: Atoms for Peace and War
-     date: 1990
-     url: https://www.energy.gov/management/downloads/hewlett-and-holl-atoms-peace-and-war
-     description: >
-       A phenomenal deep-dive into the history of nuclear enterprise in the USA. See also
-       <a
-       href="https://www.energy.gov/lm/doe-history/historical-resources/history-publications">Many
-       related publications</a> at the DOE historical publications page
-   - author: Walker and Wellock
-     free: true
-     title: A Short History of Nuclear Regulation, 1946-2009
-     url: https://www.nrc.gov/reading-rm/doc-collections/nuregs/brochures/br0175/index.html
-     description: >
+  items:
+    - author: Hewlett and Holl
+      free: true
+      title: Atoms for Peace and War
+      date: 1990
+      url: https://www.energy.gov/management/downloads/hewlett-and-holl-atoms-peace-and-war
+      description: >
+        A phenomenal deep-dive into the history of nuclear enterprise in the USA. See also
+        <a
+        href="https://www.energy.gov/lm/doe-history/historical-resources/history-publications">Many
+        related publications</a> at the DOE historical publications page
+    - author: Walker and Wellock
+      free: true
+      title: A Short History of Nuclear Regulation, 1946-2009
+      url: https://www.nrc.gov/reading-rm/doc-collections/nuregs/brochures/br0175/index.html
+      description: >
         A brief overview of some significant
-        events in the history of U.S. nuclear regulation. 
-   - author: Alvin Weinberg
-     title: The First Nuclear Era
-     free: false
-     date: 1994
-     url: https://www.osti.gov/biblio/175787
-     description: >
+        events in the history of U.S. nuclear regulation.
+    - author: Alvin Weinberg
+      title: The First Nuclear Era
+      free: false
+      date: 1994
+      url: https://www.osti.gov/biblio/175787
+      description: >
         As a young nuclear engineer, I was enchanted by Alvin Weinberg's autobiography,
         The First Nuclear Era. He took me through a very personal history of concepts I
         have studied, and struck many chords by recounting such things as the day the term
@@ -472,74 +468,72 @@
         influenced today's dominance of light-water reactors, and a history of the various
         goings on that brought nuclear power to where it is today.
 
-   - author: Pranab Samanta, David Diamond, and William Horak
-     title: NRC Regulatory History of Non-Light Water Reactors (1950-2019) (PDF)
-     free: true
-     date: "2019-06-10"
-     url: https://www.nrc.gov/docs/ML1928/ML19282B504.pdf
-     description: >
-      This report describes the U.S. Nuclear Regulatory Commission's (NRC's) history with
-      the licensing of non-light water reactors (non-LWRs). The focus is on regulatory policy
-      and licensing issues that have arisen in the past so that NRC staff will be in a better
-      position to deal with these matters in the future
-   - author: Spencer Weart
-     free: false
-     title: The Rise of Nuclear Fear
-     date: 2012
-     url: https://www.goodreads.com/book/show/13601839-the-rise-of-nuclear-fear
-     description: >
-       Definitive history of the psychology of the atom
-   - author: John Thompson
-     free: true
-     title: Significant Operational Experience - 7 Major Events with Regulatory Implications (PDF)
-     url: https://www.nrc.gov/docs/ML1600/ML16006A288.pdf
-     description: >
+    - author: Pranab Samanta, David Diamond, and William Horak
+      title: NRC Regulatory History of Non-Light Water Reactors (1950-2019) (PDF)
+      free: true
+      date: "2019-06-10"
+      url: https://www.nrc.gov/docs/ML1928/ML19282B504.pdf
+      description: >
+        This report describes the U.S. Nuclear Regulatory Commission's (NRC's) history with
+        the licensing of non-light water reactors (non-LWRs). The focus is on regulatory policy
+        and licensing issues that have arisen in the past so that NRC staff will be in a better
+        position to deal with these matters in the future
+    - author: Spencer Weart
+      free: false
+      title: The Rise of Nuclear Fear
+      date: 2012
+      url: https://www.goodreads.com/book/show/13601839-the-rise-of-nuclear-fear
+      description: >
+        Definitive history of the psychology of the atom
+    - author: John Thompson
+      free: true
+      title: Significant Operational Experience - 7 Major Events with Regulatory Implications (PDF)
+      url: https://www.nrc.gov/docs/ML1600/ML16006A288.pdf
+      description: >
         A slide deck describing the 7 major events that shaped the industry's regulations.
 
-   - author: NUMARK Associates, et al
-     free: true
-     title: ADVANCED NON-LIGHT-WATER REACTORS MATERIALS AND OPERATIONAL EXPERIENCE (PDF)
-     date: 2019-03
-     url: https://www.nrc.gov/docs/ML1835/ML18353B121.pdf
-     description: >
+    - author: NUMARK Associates, et al
+      free: true
+      title: ADVANCED NON-LIGHT-WATER REACTORS MATERIALS AND OPERATIONAL EXPERIENCE (PDF)
+      date: 2019-03
+      url: https://www.nrc.gov/docs/ML1835/ML18353B121.pdf
+      description: >
         This report summarizes the available domestic and international
         operating experience (OpE) for both power and research advanced
         non-light-water reactors with regard to materials and component
         integrity. It focuses on both sodium-cooled fast reactors (SFRs) and
         high-temperature gas-cooled reactors (HTGRs).
 
-   - author: Richard Rhodes
-     free: False
-     title: The Making of the Atomic Bomb
-     date: 1986
-     url: https://en.wikipedia.org/wiki/The_Making_of_the_Atomic_Bomb
-     description: >
-       A Pulitzer Prize winning deep dive into the story of the development
-       of nuclear fission weapons. It covers most of the early nuclear
-       physics discoveries, and then tells some wilder-than-fiction true
-       stories about the wartime sprint to make the ultimate weapon.
-       This is a must read.
+    - author: Richard Rhodes
+      free: False
+      title: The Making of the Atomic Bomb
+      date: 1986
+      url: https://en.wikipedia.org/wiki/The_Making_of_the_Atomic_Bomb
+      description: >
+        A Pulitzer Prize winning deep dive into the story of the development
+        of nuclear fission weapons. It covers most of the early nuclear
+        physics discoveries, and then tells some wilder-than-fiction true
+        stories about the wartime sprint to make the ultimate weapon.
+        This is a must read.
 
 - category: Virtual Tours
   description: >
     Not exactly reading, but... these virtual tours are a lot of fun
-  items: 
-   - author: Canada
-     free: true
-     title: The Society for the Preservation of Canada's Nuclear Heritage Museum
-     date: 2023
-     url: https://nuclearheritage.com/virtual-tour/
-     description: >
-       Explore this incredible collection of Canadian nuclear history. The
-       library alone has untold gems in it. Not to mention all the incredible
-       hardware and models!
-   - author: Oak Ridge
-     free: true
-     title: X-10 Graphite Reactor
-     date: 2023
-     url: https://www.nps.gov/mapr/learn/photosmultimedia/oak-ridge-x-10-graphite-reactor-virtual-tour.htm
-     description: >
-       Tour the second nuclear reactor ever, a air-cooled graphite moderated
-       reactor in Oak Ridge.
-     
-     
+  items:
+    - author: Canada
+      free: true
+      title: The Society for the Preservation of Canada's Nuclear Heritage Museum
+      date: 2023
+      url: https://nuclearheritage.com/virtual-tour/
+      description: >
+        Explore this incredible collection of Canadian nuclear history. The
+        library alone has untold gems in it. Not to mention all the incredible
+        hardware and models!
+    - author: Oak Ridge
+      free: true
+      title: X-10 Graphite Reactor
+      date: 2023
+      url: https://www.nps.gov/mapr/learn/photosmultimedia/oak-ridge-x-10-graphite-reactor-virtual-tour.htm
+      description: >
+        Tour the second nuclear reactor ever, a air-cooled graphite moderated
+        reactor in Oak Ridge.

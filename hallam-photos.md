@@ -13,7 +13,7 @@ image: /img/hallam-decom/hallam-19-004.jpg
 comments: true
 tags: museum
 ---
- 
+
 The photos below come from the decommissioning process of the [Hallam Nuclear
 Power Facility](https://en.wikipedia.org/wiki/Hallam_Nuclear_Power_Facility), a
 [Sodium Graphite Reactor]({% link sodium-graphite-reactors.md

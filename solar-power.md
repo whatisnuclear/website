@@ -5,10 +5,12 @@ description: Solar power
 date: 2008-03-12
 byline: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
 # How much power could the sun give us?
+
 <img class="float-end" src="/img/trees_sunshine.jpg" alt="Trees and sunshine" title="Trees and sunshine" />
 
 The sun is a nuclear fusion reactor contained by gravity. It emits unfathomable amounts of energy.
@@ -27,25 +29,26 @@ energy we use coming down from the sun.</b> Clearly there is more than enough so
 This would, of course, require that the entire USA was covered head to toe with solar panels. Since
 we don't need 5400x the energy we use, we could shrink the area down by this factor. Running the
 numbers shows that if we covered something just 1% the size of Texas with 30% efficient solar
-panels, we'd have all of our power from solar power. 
-
+panels, we'd have all of our power from solar power.
 
 ## Pros and Cons of Solar Power
 
 ### Pros
+
 Solar power is a very ideal power source. We can capture it passively with solar panels or other
 collectors. Once the collectors are manufactured, there is no pollution or waste products. There are
 no moving parts to hurt wildlife. There is no dependence on foreign entities. The energy is produced
-and delivered for free by the sun. 
+and delivered for free by the sun.
 
 ### Cons
+
 The sun doesn't shine at night. This means that in order to power our factories and hospitals
 through the dark periods, we can't rely on the sun alone without somehow storing <a
 href="{% link scale.md %}">massive amounts of energy</a>. Solar panels take up a lot of space. In
 overcrowded cities where power consumption is highest and space is scarcest, building massive banks
 of solar panels could be very challenging indeed. The solar panels and collectors traditionally need
 banks of expensive chemical batteries and controls that make the cost of using solar power higher
-than the same amount of power would cost coming from fossil fuels or nuclear power. 
+than the same amount of power would cost coming from fossil fuels or nuclear power.
 
 As an example of cost of solar power, consider covering 1% of Texas (or 90% of Delaware) with solar
 panels. Today, a 10% efficient panel costs about $600/m<sup>2</sup>. Let's assume that technological
@@ -54,23 +57,24 @@ would cost $3.6 trillion for the solar panels alone, not including the real-esta
 and infrastructure. Today's solar panels are sold with a design lifetime of around 26 years, meaning
 we would have to re-manufacture the panels every several decades. With that money, we could build
 over 900 nuclear power plants at $4 billion and 1000MW each. That many plants would produce twice as
-much energy as we use in a year, and they have lifetimes of at least 60 years. 
+much energy as we use in a year, and they have lifetimes of at least 60 years.
 
 ## The role of solar
+
 Solar power is a major player in a sustainable energy plan. In sunny areas, many people have
 installed panels on their roofs to help power air-conditioning, lighting, and other household
 necessities and found that the panels pay for themselves. Research in solar collection and storage
 should be a major effort around the world. Even in less sunny areas, there are a few expensive
-houses that run 100% on solar power, using large battery banks to power them through the nights. 
+houses that run 100% on solar power, using large battery banks to power them through the nights.
 
 When it comes to powering New York City through the night or manufacturing factories and computer
 datacenters 24/7, solar has major challenges. Well-funded office
 buildings and residential areas can find much benefit from solar power, but we will struggle to rely on it
-alone. As is often said on the news these days, there is no silver bullet, all clean energy must 
+alone. As is often said on the news these days, there is no silver bullet, all clean energy must
 ally and work together.
 
-
 ## Non-photovoltaic solar
+
 The energy from the sun can be used in other ways that by converting light to electricity in solar
 panels. In fact, wind and hydroelectric power are both forms of solar power<sup>[<a
 href="{% link solar-power.md %}" onmouseover="domTT_activate(this, event, 'width','200','caption',
@@ -81,12 +85,12 @@ matter, the only non-solar energies on Earth are geothermal (coming from radioac
 residual Earth-formation heat), nuclear (from atoms forged in supernovae), and tidal (from the
 earth-moon gravitational system).','trail', true);">*</a>]</sup>. Water can be heated by the sun and
 used in showers. Heat can be reflected onto an engine that turns a turbine, generating electricity.
-Well-designed buildings can use the greenhouse effect for passive heating on colder days.  
+Well-designed buildings can use the greenhouse effect for passive heating on colder days.
 
 <h2 id="references">References</h2>
 
-* http://www.sailgb.com/c/solar_panels/
-* http://www.nrel.gov/gis/images/us_pv_annual_may2004.jpg  
+- http://www.sailgb.com/c/solar_panels/
+- http://www.nrel.gov/gis/images/us_pv_annual_may2004.jpg
 
 </div>
 </div>

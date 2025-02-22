@@ -7,8 +7,9 @@ author: nick
 byline: true
 image: /img/are.jpg
 ---
+
 <div class="row">
-<div class="col-md-8" markdown="1"> 
+<div class="col-md-8" markdown="1">
 
 <figure class="float-end w-50"> <a
 href="https://en.wikipedia.org/w/index.php?title=File:Molten_Salt_Reactor.svg&amp;page=1"><img
@@ -21,16 +22,16 @@ hot fluoride or chloride salt rather than the solid fuel used in most reactors. 
 fuel salt is liquid, it can be both the fuel (producing the heat) and the coolant
 (transporting the heat to the power plant). There are many different types of MSRs,
 including the Molten Salt Breeder Reactor (also know commercially as the Liquid Fluoride
-Thorium Reactor, or LFTR).  This MSR has [Thorium]({% link thorium.md %}) and Uranium
+Thorium Reactor, or LFTR). This MSR has [Thorium]({% link thorium.md %}) and Uranium
 dissolved in a fluoride salt and can get planet-scale amounts of energy out of our natural
 resources of Thorium minerals, much like a fast breeder can get large amounts of energy
-out of our Uranium minerals.  There are also fast breeder fluoride MSRs that don&rsquo;t
-use Th at all.  And there are chloride salt based fast MSRs that are usually studied as
+out of our Uranium minerals. There are also fast breeder fluoride MSRs that don&rsquo;t
+use Th at all. And there are chloride salt based fast MSRs that are usually studied as
 [nuclear waste]({% link waste.md %}) burners due to their extraordinary amount of very
 fast neutrons.
 
 </div>
-<div class="col-md-4" markdown="1"> 
+<div class="col-md-4" markdown="1">
 
 <div class="card border-success mb-3" >
   <div class="card-header text-success">On this page</div>
@@ -51,8 +52,7 @@ fast neutrons.
 </div>
 
 <div class="row">
-<div class="col-md-8" markdown="1"> 
-
+<div class="col-md-8" markdown="1">
 
 <h2 id="benefits">Benefits of Molten Salt Reactors</h2>
 <p>The benefits of MSRs are plentiful, hence their resilience as an interesting topic throughout
@@ -131,7 +131,6 @@ MSRs:</p>
 also been proposed.</li>
 </ul>
 
-
 <h2 id="problems">Problems with Molten Salt Reactors</h2>
 <p>All those wonderful benefits can&rsquo;t possibly come without a slew of problems. Lots of people
 promote these reactors without acknowledging the issues, but not us! A reactor concept has to stand
@@ -199,15 +198,16 @@ MSBRs (like the LFTR)
 </ul>
 
 ### Other minor issues
+
 There are a few other concerns, but these probably have practical solutions.
 
-* **Unknown waste form** &mdash; It's not clear what nuclear waste from
+- **Unknown waste form** &mdash; It's not clear what nuclear waste from
   MSRs will look like. The salt itself is not contained enough to be put in a
-  repository so someone will have to come up with a stable waste form. 
-* **Electrical heaters are required to stay liquid** &mdash; in a prolonged power
-	outage, the colder parts of the heat transfer loop might solidify. This could cause
-	temperatures to rise over in the core (which will of course still be self-heated liquid).
-* **Flowing delayed neutron precursors** --- since the fuel flows, the fission products
+  repository so someone will have to come up with a stable waste form.
+- **Electrical heaters are required to stay liquid** &mdash; in a prolonged power
+  outage, the colder parts of the heat transfer loop might solidify. This could cause
+  temperatures to rise over in the core (which will of course still be self-heated liquid).
+- **Flowing delayed neutron precursors** --- since the fuel flows, the fission products
   that generate delayed neutrons are swept out of and then back into the core. The
   dynamics of this are unconventional and can lead to reactivity increases when the pump
   stops.
@@ -227,7 +227,6 @@ here. Basically, MSRs are underdeveloped and require a lot more research (especi
 before they can surely take off as the world&rsquo;s fleet of power plants. Personally, we think (as
 did Alvin Weinberg and Edward Teller) that these reactors have a shining place in the mid-future.
 Right now, we have to keep studying them! Fortunately, much work is ongoing. </p>
-
 
 <h2 id="history">History of Molten Salt Reactors</h2>
 <div class="float-end">
@@ -290,7 +289,6 @@ including some chloride salt fast breeder MSRs. Much later, in 2001, the MSR was
 Generation IV forum as one of the 6 Gen-IV concepts. This jump-started work on MSRs and engineers
 and chemists have produced much good work on them since then. </p>
 
-
 <h2 id="fhr">Salt-cooled reactors</h2>
 <p>The step-sister reactor of the MSR is the fluoride cooled high temperature reactor (FHR). These
 reactors have solid fuel in the form of TRISO particles (like the high temperature gas-cooled
@@ -332,19 +330,18 @@ modern revival of interest in MSRs and we wish them all the best!</p>
 
 <h2 id="refs">References</h2>
 
-* [Program plan for development of molten-salt breeder reactors
+- [Program plan for development of molten-salt breeder reactors
   (ORNL-5018) ](https://www.osti.gov/biblio/4227904) — This 1974 reference is what the world's preeminent molten-salt scientists wrote to future reactor developers about what
   they had accomplished and how to pick up right where they left off. Above all other molten-salt related references, this
   one is probably the most useful to anyone working on MSRs. It has detailed lists of what research needs to be done, how
   long it will probably take, and how much it will cost. It's a true wonder.
-* [Molten-Salt Reactors—History, Status, and Potential](https://www.tandfonline.com/doi/abs/10.13182/NT70-A28619) — An
+- [Molten-Salt Reactors—History, Status, and Potential](https://www.tandfonline.com/doi/abs/10.13182/NT70-A28619) — An
   excellent discussion of the history of MSRs. Alternate download
   [here](http://moltensalt.org/references/static/downloads/pdf/NAT_MSRintro.pdf)
-* [MSRE Design and Operations Report, Part I, Description of Reactor Design
+- [MSRE Design and Operations Report, Part I, Description of Reactor Design
   (ORNL-TM-728)](https://www.osti.gov/biblio/4654707) — A description of the Molten Salt Reactor Experiment design. This
   is part of a 10-part series describing the experience with the MSRE. All documents are widely available.
-* [The Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment)
+- [The Aircraft Reactor Experiment](https://en.wikipedia.org/wiki/Aircraft_Reactor_Experiment)
 
 </div>
 </div>
-

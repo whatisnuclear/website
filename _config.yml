@@ -2,8 +2,8 @@ title: What is Nuclear?
 email: contact@whatisnuclear.com
 description: >-
   A no-nonsense public education site on nuclear energy.
-baseurl: "" 
-url: "https://whatisnuclear.com" 
+baseurl: ""
+url: "https://whatisnuclear.com"
 twitter_username: whatisnuclear
 github_username: whatisnuclear
 github_repo_url: https://github.com/whatisnuclear/website/blob/master/
@@ -33,7 +33,7 @@ collections:
 kramdown:
   toc_levels: "1,2,3"
 
-plugins: 
+plugins:
   - jekyll-sitemap
   - jekyll-time-to-read
   - jekyll-feed
@@ -41,16 +41,15 @@ plugins:
   - jekyll-exif-data
   - "jekyll/scholar"
 
-
 feed:
-    collections:
-        news: 
-            # This is the main news section describing changes and additions to the site. 
-            # This is what people would likely point their feed reader too
-            path: "/feed.xml"
-        posts: 
-            # ATM these are kind of an "other" category rather than a blog
-            path: "/blog.xml"
+  collections:
+    news:
+      # This is the main news section describing changes and additions to the site.
+      # This is what people would likely point their feed reader too
+      path: "/feed.xml"
+    posts:
+      # ATM these are kind of an "other" category rather than a blog
+      path: "/blog.xml"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -77,8 +76,7 @@ scholar:
     #- markdown
 
 defaults:
-  -
-    scope: 
+  - scope:
       path: ""
     values:
       reading_time: true

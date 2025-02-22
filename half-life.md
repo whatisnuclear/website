@@ -14,7 +14,6 @@ image: /img/half-life.jpg
 <div class="row">
 <div class="col-8">
 
-
 <div class="row">
 <div class="col-4">
 <span class="float-start fw-light fst-italic">&#8592; less stable</span>
@@ -28,7 +27,6 @@ Half-life (years)
 <span class="float-end fw-light fst-italic">more stable &#8594;</span>
 </div>
 </div>
-
 
 <input type="range" value="5.0" step="1" min="1" class="form-range" id="halflife">
 </div>
@@ -120,12 +118,12 @@ Half-life (years)
 A thing's half-life is how long until only half of it is left. It's used
 in radioactive decay, medicine, and many other things. Remember:
 
-* Hazards in radiation are proportional the rate at which energy comes out. 
-* Short half-lives imply energy is coming out quickly, and are the primary hazard.
-* Long half-lives imply energy is coming out very slowly, and are less
-of a hazard. For example, you can hold long half-life isotopes of natural
-uranium in your hand without accumulating a hazardous dose.
-* In the extreme, an infinite half-life would mean energy never comes out, representing zero radiological risk. 
+- Hazards in radiation are proportional the rate at which energy comes out.
+- Short half-lives imply energy is coming out quickly, and are the primary hazard.
+- Long half-lives imply energy is coming out very slowly, and are less
+  of a hazard. For example, you can hold long half-life isotopes of natural
+  uranium in your hand without accumulating a hazardous dose.
+- In the extreme, an infinite half-life would mean energy never comes out, representing zero radiological risk.
 
 Learn more about [the math here]({% link math-behind-radioactive-decay.html %}).
 

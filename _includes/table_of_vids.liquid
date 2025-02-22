@@ -1,76 +1,85 @@
-  <div class="row bg-dark text-light">
-    <div class="col col-lg-2">Metadata</div>
-    <div class="col col-lg-2">Title</div>
-    <div class="col col-lg-4">Description</div>
-    <div class="col col-lg-2">Notes</div>
-    <div class="col col-lg-2">Links</div>
-  </div>
-  {% for vid in include.vids %}
-<div class="row" id="{{vid.title|slugify}}">
-  <div class="col-12 col-lg-2">
-        <div class="row">
-          <div class="col">NARA ID</div>
-          <div class="col">
-            {%- if vid.naid -%}
-            <a href="https://catalog.archives.gov/id/{{ vid.naid }}">{{vid.naid}}</a>
-            {%- else -%}
+<div class="row bg-dark text-light">
+  <div class="col col-lg-2">Metadata</div>
+  <div class="col col-lg-2">Title</div>
+  <div class="col col-lg-4">Description</div>
+  <div class="col col-lg-2">Notes</div>
+  <div class="col col-lg-2">Links</div>
+</div>
+{% for vid in include.vids %}
+  <div class="row" id="{{vid.title|slugify}}">
+    <div class="col-12 col-lg-2">
+      <div class="row">
+        <div class="col">NARA ID</div>
+        <div class="col">
+          {%- if vid.naid -%}
+            <a href="https://catalog.archives.gov/id/{{ vid.naid }}">{{ vid.naid }}</a>
+          {%- else -%}
             -
-            {%- endif %}
-          </div>
+          {%- endif %}
         </div>
-        <div class="row">
-          <div class="col">IAEA ID</div>
-          <div class="col">
-            {%- if vid.iaea -%}
+      </div>
+      <div class="row">
+        <div class="col">IAEA ID</div>
+        <div class="col">
+          {%- if vid.iaea -%}
             {{ vid.iaea }}
-            {%- else -%}
+          {%- else -%}
             -
-            {%- endif %}
-          </div>
+          {%- endif %}
         </div>
-        <div class="row">
-          <div class="col">Date</div>
-          <div class="col">{{ vid.date }}</div>
-        </div>
-        <div class="row">
-          <div class="col">Length</div>
-          <div class="col">{{ vid.length }} mins</div>
-        </div>
-        <div class="row">
-          <div class="col">Color</div>
-          <div class="col">
+      </div>
+      <div class="row">
+        <div class="col">Date</div>
+        <div class="col">{{ vid.date }}</div>
+      </div>
+      <div class="row">
+        <div class="col">Length</div>
+        <div class="col">{{ vid.length }} mins</div>
+      </div>
+      <div class="row">
+        <div class="col">Color</div>
+        <div class="col">
           {% if vid.color %}Y{% else %}N{% endif %}
-          </div>
         </div>
-        {% if vid.resolution %}
+      </div>
+      {% if vid.resolution %}
         <div class="row">
           <div class="col">Resolution</div>
           <div class="col">{{ vid.resolution }}</div>
         </div>
-        {% endif %}
-      </div>
-      <div class="col-12 col-lg-2">
-        <a href="#{{vid.title|slugify}}">&#167;</a>
-        {{ vid.title }}
-      </div>
-      <div class="col-12 col-lg-4">{{ vid.description | truncate: 900 }}</div>
-      <div class="col-12 col-lg-2"><p>{{ vid.notes }}</p>
-        {%- if vid.win -%}
-        <p><a href="{% link museum.md %}"><span class="badge bg-success"
-        title="Whatisnuclear coordinated scanning of this film">Scanned by
-        us!</span></a></p> {%- endif -%}
-      </div>
-      <div class="col-12 col-lg-2">
-        {% if vid.links %}
-          <ul>
-{% for link in vid.links %}
-<li>
-<a href="{{link.url}}">{{ link.name }}</a> {% if link.notes %} ({{ link.notes }}) {% endif %}
-</li>
-{% endfor %}
-          </ul>
-        {% endif %}
-      </div>
+      {% endif %}
     </div>
-<hr/>
-  {% endfor %}
+    <div class="col-12 col-lg-2">
+      <a href="#{{vid.title|slugify}}">&#167;</a>
+      {{ vid.title }}
+    </div>
+    <div class="col-12 col-lg-4">{{ vid.description | truncate: 900 }}</div>
+    <div class="col-12 col-lg-2">
+      <p>{{ vid.notes }}</p>
+      {%- if vid.win -%}
+        <p>
+          <a href="{% link museum.md %}"
+            ><span
+              class="badge bg-success"
+              title="Whatisnuclear coordinated scanning of this film"
+              >Scanned by us!</span
+            ></a
+          >
+        </p>
+      {%- endif -%}
+    </div>
+    <div class="col-12 col-lg-2">
+      {% if vid.links %}
+        <ul>
+          {% for link in vid.links %}
+            <li>
+              <a href="{{link.url}}">{{ link.name }}</a>
+              {% if link.notes %} ({{ link.notes }}) {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  </div>
+  <hr>
+{% endfor %}

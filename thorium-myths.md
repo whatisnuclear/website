@@ -13,11 +13,12 @@ byline: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<img class="float-end img-fluid w-25" alt="Thor by Marten Eskil Winge"
-title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with
+<img class="float-end img-fluid w-25" 
+alt="Thor by Marten Eskil Winge" title="Thor by Marten Eskil Winge. Thor is a mythical Norse god associated with
 thunder, lightning, storms, oak trees, strength, the protection of mankind,
 healing, and fertility.  Thorium was so named in the 1820s, well before its
-nuclear properties were discovered in 1942. Coincidence?" src="img/Thor.jpg"/>
+nuclear properties were discovered in 1942. Coincidence?" 
+src="img/Thor.jpg"/>
 **Dear Internet,** we need to have a talk about Thorium. Almost all the
 borderline-miraculous things people say it does online are associated with
 advanced nuclear technology (e.g. [breeding]({% link recycling.md %}) and

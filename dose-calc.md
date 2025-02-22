@@ -44,8 +44,6 @@ averaged over 1 year.
 </div>
 </div>
 
-
-
 ## More info
 
 <img class="img-fluid w-50 float-end" alt="Indication of how many cancers 100 mSv causes compared to normal" src="img/beirvii.png"/>
@@ -55,8 +53,6 @@ says that if you get 100 mSv in one acute dose of radiation, you have an
 additional 1 chance in 100 of getting cancer in your life, compared to a normal
 lifetime risk of 42 in 100. In other words, it increases your chances of cancer
 from 42% to 43%.
-
-
 
 <script>
 

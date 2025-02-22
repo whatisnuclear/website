@@ -1,6 +1,6 @@
-<meta charset="utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta content="width=device-width, initial-scale=1" name="viewport" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1" name="viewport">
 {%- capture fulltitle -%}
 {%- if page.title -%}{{ page.title | strip_html | escape }}{%- else -%}{{ site.title | escape }}{%- endif -%} {%- if page.subtitle -%}{%- unless page.title contains "?" %} &ndash;{%- endunless %} {{page.subtitle }}{%- endif -%}
 {%- endcapture -%}
@@ -8,166 +8,174 @@
 <meta
   content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}"
   name="description"
-/>
+>
 <link
   href="{{ page.url | replace:'index.html','' | absolute_url }}"
   rel="canonical"
-/>
+>
 <link
   href="{{ '/feed.xml' | relative_url }}"
   rel="alternate"
   title="{{ site.title | escape }}"
   type="application/rss+xml"
-/>
+>
 
-{%- if jekyll.environment == "production" and site.google_analytics -%} {%
-include google-analytics.html %} {%- endif -%}
-<meta content="{{ site.data.authors[page.author].name }}" name="author" />
+{%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {% include google-analytics.html %}
+{%- endif -%}
+<meta content="{{ site.data.authors[page.author].name }}" name="author">
 
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2" />
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2" />
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2" />
-<link rel="manifest" href="/site.webmanifest?v=2" />
-<link rel="mask-icon" href="/safari-pinned-tab.svg?v=2" color="#5bbad5" />
-<link rel="shortcut icon" href="/favicon.ico?v=2" />
-<meta name="msapplication-TileColor" content="#da532c" />
-<meta name="theme-color" content="#ffffff" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2">
+<link rel="manifest" href="/site.webmanifest?v=2">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=2" color="#5bbad5">
+<link rel="shortcut icon" href="/favicon.ico?v=2">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 
 <meta
   content="{{ page.url | replace:'index.html','' | absolute_url }}"
   property="og:url"
-/>
-<meta content="What is nuclear?" property="og:site_name" />
+>
+<meta content="What is nuclear?" property="og:site_name">
 <meta
   content="{{ fulltitle }}"
   property="og:title"
-/>
-<meta content="{{ site.url }}{{ page.image | default: '/img/reactor.png' }}" property="og:image" />
+>
+<meta content="{{ site.url }}{{ page.image | default: '/img/reactor.png' }}" property="og:image">
 {% if page.summary %}
-<meta content="{{ page.summary }}" property="og:description" />
+  <meta content="{{ page.summary }}" property="og:description">
 {%- elsif page.description -%}
-<meta
-  content="{{ page.description | strip_html | normalize_whitespace | escape }}"
-  property="og:description"
-/>
+  <meta
+    content="{{ page.description | strip_html | normalize_whitespace | escape }}"
+    property="og:description"
+  >
 {%- elsif page.excerpt -%}
-<meta
-  content="{{ page.excerpt | strip_html | normalize_whitespace | escape}}"
-  property="og:description"
-/>
+  <meta
+    content="{{ page.excerpt | strip_html | normalize_whitespace | escape}}"
+    property="og:description"
+  >
 {%- else -%}
-<meta
-  content="{{ site.description  | strip_html | normalize_whitespace | escape}}"
-  property="og:description"
-/>
+  <meta
+    content="{{ site.description  | strip_html | normalize_whitespace | escape}}"
+    property="og:description"
+  >
 {% endif %}
 
-<meta content="website" property="og:type" />
-<meta content="/img/reactor_web.svg" property="og:logo" />
+<meta content="website" property="og:type">
+<meta content="/img/reactor_web.svg" property="og:logo">
 
-<meta content="@{{ site.twitter_username }}" name="twitter:site" />
-<meta content="@{{ site.twitter_username }}" name="twitter:creator" />
-<meta content="{{ page.title | strip_html}}" name="twitter:title" />
+<meta content="@{{ site.twitter_username }}" name="twitter:site">
+<meta content="@{{ site.twitter_username }}" name="twitter:creator">
+<meta content="{{ page.title | strip_html}}" name="twitter:title">
 {% if page.summary %}
-<meta
-  content="{{ page.summary | strip_html | normalize_whitespace | escape}}"
-  name="twitter:description"
-/>
+  <meta
+    content="{{ page.summary | strip_html | normalize_whitespace | escape}}"
+    name="twitter:description"
+  >
 {%- elsif page.description -%}
-<meta
-  content="{{ page.description | strip_html | normalize_whitespace | escape}}"
-  name="twitter:description"
-/>
+  <meta
+    content="{{ page.description | strip_html | normalize_whitespace | escape}}"
+    name="twitter:description"
+  >
 {%- else -%}
-<meta
-  content="{{ site.description | strip_html | normalize_whitespace | escape}}"
-  name="twitter:description"
-/>
-{%- endif -%} {% if page.image %}
-<meta content="summary_large_image" name="twitter:card" />
-<meta content="{{ site.url }}{{ page.image }}" name="twitter:image" />
+  <meta
+    content="{{ site.description | strip_html | normalize_whitespace | escape}}"
+    name="twitter:description"
+  >
+{%- endif -%}
+{% if page.image %}
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="{{ site.url }}{{ page.image }}" name="twitter:image">
 {%- else -%}
-<meta content="summary" name="twitter:card" />
-<meta content="{{ site.title_image }}" name="twitter:image" />
-{%- endif -%} {% unless page.nocss %}
-<link rel="stylesheet"
- href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css"
- integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
- crossorigin="anonymous">
-<link
- href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
- rel="stylesheet"
- integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
- crossorigin="anonymous">
-<link href="{{ '/dist/whatisnuclear.css' | relative_url }}" rel="stylesheet" />
-{%- endunless -%} {% if page.mathjax %}
-<script
-  defer
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"
-></script>
-{%- endif -%} {% if page.comments %}
-<script>
-  var remark_config = {
-    host: "https://comments.whatisnuclear.com",
-    site_id: "whatisnuclear",
-    no_footer: true,
-  };
-</script>
-<script>
-  !(function (e, n) {
-    for (var o = 0; o < e.length; o = o + 1) {
-      var r = n.createElement("script"),
-        c = ".js",
-        d = n.head || n.body;
-      "noModule" in r ? ((r.type = "module"), (c = ".mjs")) : (r.async = !0),
-        (r.defer = !0),
-        (r.src = remark_config.host + "/web/" + e[o] + c),
-        d.appendChild(r);
-    }
-  })(remark_config.components || ["embed"], document);
-</script>
+  <meta content="summary" name="twitter:card">
+  <meta content="{{ site.title_image }}" name="twitter:image">
+{%- endif -%}
+{% unless page.nocss %}
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css"
+    integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+    crossorigin="anonymous"
+  >
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+    crossorigin="anonymous"
+  >
+  <link href="{{ '/dist/whatisnuclear.css' | relative_url }}" rel="stylesheet">
+{%- endunless -%}
+{% if page.mathjax %}
+  <script
+    defer
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"
+  ></script>
+{%- endif -%}
+{% if page.comments %}
+  <script>
+    var remark_config = {
+      host: 'https://comments.whatisnuclear.com',
+      site_id: 'whatisnuclear',
+      no_footer: true,
+    };
+  </script>
+  <script>
+    !(function (e, n) {
+      for (var o = 0; o < e.length; o = o + 1) {
+        var r = n.createElement('script'),
+          c = '.js',
+          d = n.head || n.body;
+        'noModule' in r ? ((r.type = 'module'), (c = '.mjs')) : (r.async = !0),
+          (r.defer = !0),
+          (r.src = remark_config.host + '/web/' + e[o] + c),
+          d.appendChild(r);
+      }
+    })(remark_config.components || ['embed'], document);
+  </script>
 {% endif %}
 
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  const colorModeSwitch = document.getElementById('colorModeSwitch');
+  document.addEventListener('DOMContentLoaded', () => {
+    const colorModeSwitch = document.getElementById('colorModeSwitch');
 
-  const getPreferredTheme = () => {
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      return 'dark';
-    }
-    return 'light';
-  };
+    const getPreferredTheme = () => {
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark';
+      }
+      return 'light';
+    };
 
-  const setTheme = (theme) => {
-    document.documentElement.setAttribute('data-bs-theme', theme);
-    localStorage.setItem('colorMode', theme);
-    if (theme === 'dark') {
-      colorModeSwitch.checked = true;
-    } else {
-      colorModeSwitch.checked = false;
-    }
-  };
+    const setTheme = (theme) => {
+      document.documentElement.setAttribute('data-bs-theme', theme);
+      localStorage.setItem('colorMode', theme);
+      if (theme === 'dark') {
+        colorModeSwitch.checked = true;
+      } else {
+        colorModeSwitch.checked = false;
+      }
+    };
 
-  // Load theme on page load
-  const savedTheme = localStorage.getItem('colorMode');
-  setTheme(savedTheme || getPreferredTheme());
+    // Load theme on page load
+    const savedTheme = localStorage.getItem('colorMode');
+    setTheme(savedTheme || getPreferredTheme());
 
-  colorModeSwitch.addEventListener('change', (event) => {
-    if (event.target.checked) {
-      setTheme('dark');
-    } else {
-      setTheme('light');
-    }
+    colorModeSwitch.addEventListener('change', (event) => {
+      if (event.target.checked) {
+        setTheme('dark');
+      } else {
+        setTheme('light');
+      }
+    });
+
+    // Listen for system changes for users who haven't set a preference
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+      if (!localStorage.getItem('colorMode')) {
+        setTheme(e.matches ? 'dark' : 'light');
+      }
+    });
   });
-
-  // Listen for system changes for users who haven't set a preference
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-    if (!localStorage.getItem('colorMode')) {
-      setTheme(e.matches ? 'dark' : 'light');
-    }
-  });
-});
 </script>
 
 {%- include breadcrumbs.html -%}

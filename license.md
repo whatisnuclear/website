@@ -2,6 +2,7 @@
 layout: default
 title: License
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 # License
@@ -17,7 +18,7 @@ Commons Attribution-NonCommercial 4.0 International License</a>.
 
 This means you are free to copy and share the content as long as you link back
 to whatisnuclear.com. You may use them in commercial settings (on blogs,
-presentations, etc.) but you may not resell our content. 
+presentations, etc.) but you may not resell our content.
 
 </div>
 </div>

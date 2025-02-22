@@ -8,6 +8,7 @@ byline: true
 date: 2009-06-15
 byline_extra: Back-end help from Maru Morell-Gonzalez
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
@@ -18,9 +19,7 @@ configurations may make more sense than others in certain areas based on natural
 availability, energy growth projections, and politics. All commercial power-producing reactors in
 the USA are operating on a once-through cycle (which is more of a line than a cycle), while some in
 Europe and Asia go through a once- or twice-recycled cycle (which sounds funny). The economics,
-politics, and long-term sustainablity of nuclear energy depend critically on fuel cycles.  
-
-
+politics, and long-term sustainablity of nuclear energy depend critically on fuel cycles.
 
 ## The front end of the fuel cycle (from the mine to the reactor)
 
@@ -34,7 +33,6 @@ fabrication.
 
 <img src="/img/recycle_cycle_sm.png" title="Several countries recycle the depleted uranium and plutonium back into standard reactors." alt="A picture of a MOX recycle fuel cycle." width="500" height="278" usemap="#recyclemap" style="margin-left:auto;margin-right:auto;display:block"/>
 <p class="caption"><strong>Figure 1.</strong> An example of a closed fuel cycle. Here nuclear material is recycled. Put your mouse over each image for more info. </p>
-
 
 <map name="recyclemap">
 <!-- #$-:Image map file created by GIMP Image Map plug-in -->
@@ -56,7 +54,8 @@ fabrication.
 <area shape="rect" coords="149,192,212,276" alt="Since the fission products decay to stability on the order of 300 years, the repository does not need to last for a million years, as it does with standard nuclear waste. " title="Since the fission products decay to stability on the order of 300 years, the repository does not need to last for a million years, as it does with standard nuclear waste. " href=""/>
 </map>
 
-## The in-reactor part of the fuel cycle	
+## The in-reactor part of the fuel cycle
+
 The second category of fuel cycles is where we split atoms to generate energy. While we're at
 it, we have an exciting list of fuel cycle processes to do that is only limited by our imaginations.
 We can put fertile material around the reactor core and breed new fissile fuel, we can use liquid
@@ -66,9 +65,10 @@ rare or valuable ones, etc. We can <a href="{% link recycling.md %}">reprocess, 
 refabricate here. In reality, we are inhibited by economics, politics, licensing, and operations
 experience. Because of these, the most common type of fuel cycle has only one thing in this
 category: burn Uranium fuel rods in a reactor for about 3-5 years and remove them. In France, we
-recycle plutonium for one loop in something called MOX fuel. 
+recycle plutonium for one loop in something called MOX fuel.
 
 ## The back end of the fuel cycle (nuclear waste disposal)
+
 Once we've finished getting energy out of the heavy atoms, we must dispose of the left-over ones and
 the dangerously radioactive minor actinides and fission products (the two smaller atoms created by
 splitting one large one). Processes to safely and responsibly accomplish this are the third category
@@ -77,7 +77,7 @@ disposal is to first ensure that the nuclides are immobilized (put in a material
 leachability, good mechanical strength, and the capability to hold large amounts of waste) and then
 placed underground. Of course, arguments arise in how these two steps should be done. Materials used
 for immobilization are typically ceramics or glass. To protect against criticality accidents, these
-materials often have neutron-eating atoms such as boron mixed in.  Finding a place to bury it is
+materials often have neutron-eating atoms such as boron mixed in. Finding a place to bury it is
 certainly a politically hot topic. The idea is to have as many barriers as is practical between the
 dangerous nuclides and the environment.
 
@@ -92,4 +92,3 @@ dangerous nuclides and the environment.
 </ul>
 </div>
 </div>
-

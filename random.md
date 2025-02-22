@@ -8,16 +8,15 @@ date: 2020-02-28
 image: /img/random-reactor-demo.png
 byline: false
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
-
 
 <h2>
 {::comment} { content } {:/comment}
 </h2>
 
 Happy innovating!
-
 
 <a onClick="history.go(0);" class="btn btn-success m-2" role="button"> 
     <i class="fas fa-dice"></i> Again!
@@ -28,12 +27,9 @@ Happy innovating!
 Start Company
 </a>
 
-
 <hr/>
 
 [Learn more]({% link random-info.md %}) about the acronyms and project.
 
-
 </div>
 </div>
-

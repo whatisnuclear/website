@@ -1,52 +1,52 @@
 {%- comment -%}
-This is for adding previous and next buttons to every page
-that transcends the categories.
-Map grabs the doc sections, giving us an array of arrays. Join, flattens all
-the items to a comma delimited string. Split turns it into an array again.
+  This is for adding previous and next buttons to every page
+  that transcends the categories.
+  Map grabs the doc sections, giving us an array of arrays. Join, flattens all
+  the items to a comma delimited string. Split turns it into an array again.
 {%- endcomment -%}
 {%- assign pages = site.data.pages | map: 'pages' | join: ',' | split: ',' -%}
 
 {%- comment -%}
-Because this is built for every page, lets find where we are in the ordered
-document list by comparing url strings. Then if there's something previous or
-next, lets build a link to it.
+  Because this is built for every page, lets find where we are in the ordered
+  document list by comparing url strings. Then if there's something previous or
+  next, lets build a link to it.
 {%- endcomment -%}
 
 {%- for thispage in pages -%}
-  {%- if thispage contains "/" -%}
-    {%- assign document_url = thispage | prepend:"/" -%}
+  {%- if thispage contains '/' -%}
+    {%- assign document_url = thispage | prepend: '/' -%}
   {%- else -%}
-    {%- assign document_url = thispage | prepend:"/" | append:".html" -%}
+    {%- assign document_url = thispage | prepend: '/' | append: '.html' -%}
   {%- endif -%}
-{%- if document_url == page.url -%}
+  {%- if document_url == page.url -%}
     <div class="row">
       <div class="col-12-md">
-          {%- if forloop.first -%}
+        {%- if forloop.first -%}
+        {%- else -%}
+          <a href="/index.html" class="btn btn-success m-2" role="button">&#10094; Front Page</a>
+          {%- assign previous = forloop.index0 | minus: 1 -%}
+          {%- if pages[previous] contains '/' -%}
+            {%- assign previous_page = pages[previous] | prepend: '/' -%}
           {%- else -%}
-            <a href="/index.html" class="btn btn-success m-2" role="button">&#10094; Front Page</a>
-            {%- assign previous = forloop.index0 | minus: 1 -%}
-            {%- if pages[previous] contains "/" -%}
-              {%- assign previous_page = pages[previous] | prepend:"/" -%}
-            {%- else -%}
-              {%- assign previous_page = pages[previous] | prepend:"/" | append:".html" -%}
-            {%- endif -%}
-            <a href="{{ previous_page }}" class="btn btn-success m-2" role="button">&#10094; Back</a>
+            {%- assign previous_page = pages[previous] | prepend: '/' | append: '.html' -%}
           {%- endif -%}
-          
-          {%- if forloop.last -%}
-            <button type="button" class="btn btn-success m-2 disabled">Next &#10095;</button>
+          <a href="{{ previous_page }}" class="btn btn-success m-2" role="button">&#10094; Back</a>
+        {%- endif -%}
+
+        {%- if forloop.last -%}
+          <button type="button" class="btn btn-success m-2 disabled">Next &#10095;</button>
+        {%- else -%}
+          {%- assign next = forloop.index0 | plus: 1 -%}
+          {%- if pages[next] contains '/' -%}
+            {%- assign next_page = pages[next] | prepend: '/' -%}
           {%- else -%}
-            {%- assign next = forloop.index0 | plus: 1 -%}
-            {%- if pages[next] contains "/" -%}
-              {%- assign next_page = pages[next] | prepend:"/" -%}
-            {%- else -%}
-              {%- assign next_page = pages[next] | prepend:"/" | append:".html" -%}
-            {%- endif -%}
-            <a href="{{ next_page  }}" class="btn btn-success m-2" role="button">Next &#10095;</a>
+            {%- assign next_page = pages[next] | prepend: '/' | append: '.html' -%}
           {%- endif -%}
+          <a href="{{ next_page  }}" class="btn btn-success m-2" role="button">Next &#10095;</a>
+        {%- endif -%}
       </div>
     </div>
     <div class="clear"></div>
-{%- break -%}
-{%- endif -%}
+    {%- break -%}
+  {%- endif -%}
 {%- endfor -%}

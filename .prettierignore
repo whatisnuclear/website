@@ -1,0 +1,18 @@
+node_modules/
+
+dist/
+build/
+_site/
+assets/
+
+# Ignore specific file types
+*.min.js
+*.log
+
+# Ignore specific files
+package-lock.json
+yarn.lock
+
+# Ignore entire directories
+logs/
+temp/

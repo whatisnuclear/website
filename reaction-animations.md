@@ -4,6 +4,7 @@ title: Nuclear Reaction Animations
 description: Simple nuclear reaction animations
 author: nick
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 # Animations
@@ -12,4 +13,3 @@ author: nick
 <a href="/">Go to main page.</a>
 </div>
 </div>
-

@@ -1,6 +1,6 @@
-# This is a dataset of inputs. If you fill this in for any reactor, you can 
+# This is a dataset of inputs. If you fill this in for any reactor, you can
 # derive/compute many more interesting metrics for comparison, such as
-# specific power density, natural U required per kWh, 
+# specific power density, natural U required per kWh,
 # SWUs/yr/kWh, and all sorts of good stuff.
 - name: Basics
   vals:
@@ -54,7 +54,7 @@
 - name: Core
   vals:
     - name: Fuel form
-      description: What the fuel is made of 
+      description: What the fuel is made of
       examples: UO2, carbide, molten salt, metal
       why: Basic
     - name: Moderator
@@ -63,12 +63,12 @@
       why: Basic
     - name: Average reload fissile fraction
       description: Average fissile fraction of reload fuel in equilibrium (enrichment)
-      units: Mass percent 
+      units: Mass percent
       examples: 3.2%
       why: Important factor in fuel cycle practicality, sustainability, and economics
     - name: Average initial fissile fraction
       description: Average fissile fraction of initial core (enrichment)
-      units: Mass percent 
+      units: Mass percent
       examples: 4.5%
       why: Important factor in fuel cycle practicality, sustainability, and economics
     - name: Initial heavy metal mass
@@ -77,7 +77,7 @@
       examples: 20 MT
       why: Combined with fissile fraction, determines cost and resource needs of a new unit
     - name: Average reload HM mass
-      description: Rate at which heavy metal mass is loaded into the core. 
+      description: Rate at which heavy metal mass is loaded into the core.
       units: metric tonnes of heavy metal per full-power year
       examples: 3 MT
       why: Sustainability and economics assessments

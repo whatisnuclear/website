@@ -8,8 +8,9 @@ image: /img/equations-wow.png
 date: 2023-04-29
 byline: false
 permalink: /calcs/
-# this should replace the factoids page. 
+# this should replace the factoids page.
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
@@ -26,7 +27,6 @@ Here are a number of interesting factlets about nuclear energy, including detail
 
 {% assign imgs = imgs|split:","|uniq |compact %}
 
-
 <div class="dense">
 
 <div class="row">
@@ -34,6 +34,7 @@ Here are a number of interesting factlets about nuclear energy, including detail
 
 {% for calc in site.calcs %}
 **[{{ calc.title }}]({{ calc.url }})**
+
 <ul>
 {% for factlet in calc.factlets %}
 <li>{{ factlet }}</li>
@@ -44,7 +45,7 @@ Here are a number of interesting factlets about nuclear energy, including detail
 Have a good idea for a new factlet? [Contact us!]({% link contact.md %})
 
 Many/most of the calculations include command line inputs/outputs for the
-[incredible GNU Units](https://www.gnu.org/software/units/) program.  It handles
+[incredible GNU Units](https://www.gnu.org/software/units/) program. It handles
 unit conversions automatically, which simplifies things greatly.
 
 </div>
@@ -56,7 +57,6 @@ unit conversions automatically, which simplifies things greatly.
 </p>
 {% endfor %}
 </div>
-
 
 </div>
 </div>

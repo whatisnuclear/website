@@ -11,10 +11,10 @@ byline: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-Nuclear engineers apply knowledge of atomic nuclei to design, build, and operate special equipment that is useful to humanity. 
-These applications fall into several broad categories, including fission power, radiation detection, nuclear medicine, nuclear 
-materials, and plasma science. These categories overlap all the time, since nuclear materials knowledge is required for all 
-applications, nuclear medicine and fission power depend on accurate radiation detection, and so on. 
+Nuclear engineers apply knowledge of atomic nuclei to design, build, and operate special equipment that is useful to humanity.
+These applications fall into several broad categories, including fission power, radiation detection, nuclear medicine, nuclear
+materials, and plasma science. These categories overlap all the time, since nuclear materials knowledge is required for all
+applications, nuclear medicine and fission power depend on accurate radiation detection, and so on.
 
 </div>
 </div>
@@ -22,7 +22,7 @@ applications, nuclear medicine and fission power depend on accurate radiation de
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-## Fission Power 
+## Fission Power
 
 <div class="col-md-3">
 <img src="/img/dccook.jpg" class="rounded" alt="A nuclear power plant" title="A nuclear power plant." width="90"/></div>
@@ -55,8 +55,7 @@ for fuel cells. Geologists use radioactive dating to determine the age of rocks 
 ## Nuclear Materials
 <div class="col-md-3"><img src="/img/crystal.png" width="90" alt="a material crystal" class="rounded" title="a material crystal"/></div>
 Materials people deal with the interaction of radiation with materials. This is a vast field with applications ranging from computer chip manufacturing to 
-space elevators. Nuclear power plants are only licensed to operate for 40-60 years mostly because of material degradation due to the radiation. Advances in this field are very exciting. 
-
+space elevators. Nuclear power plants are only licensed to operate for 40-60 years mostly because of material degradation due to the radiation. Advances in this field are very exciting.
 
 </div>
 </div>
@@ -67,51 +66,58 @@ space elevators. Nuclear power plants are only licensed to operate for 40-60 yea
 Since whatisnuclear.com is focusing on nuclear power, we break down the subcategories of fission power employment here.
 
 ## Fuel services
-Nuclear reactors get shut down to be refueled every 12-18 months. In such an outage, about a third of the fuel is removed 
-from the reactor core and is replaced with fresh fuel. The other fuel is shuffled around. Fuel service people figure out 
-how to best arrange the new and shuffled fuel so as to get the best operating performance out of the reactor. They run 
-countless simulations of various arrangements and pick the best performing one that satisfied all safety requirements. 
-This practice is an art. Other fuels people work on actually making the fuel from Uranium ore. They mine it, mill it, 
+
+Nuclear reactors get shut down to be refueled every 12-18 months. In such an outage, about a third of the fuel is removed
+from the reactor core and is replaced with fresh fuel. The other fuel is shuffled around. Fuel service people figure out
+how to best arrange the new and shuffled fuel so as to get the best operating performance out of the reactor. They run
+countless simulations of various arrangements and pick the best performing one that satisfied all safety requirements.
+This practice is an art. Other fuels people work on actually making the fuel from Uranium ore. They mine it, mill it,
 enrich it, and fabricate it into fuel rods.
 
-
 ## Thermal hydraulics
-The point of a power reactor is to produce heat. Thermal hydraulics engineers deal with this heat. They make sure 
-the heat can get into the water running past the fuel and then into the turbine to generate the electricity. They carefully 
-monitor and simulate how much water may be boiling and what would happen in all sorts of proposed accident scenarios. 
-They also try to find ways to keep the plant operating as efficiently as possible. 
 
-## Transient analysis and risk assessment 
-While all power reactor engineers pay attention to safety, the transient people give it all their attention. These people check 
-every proposed fuel loading and run it through simulations of all of the strange situations that could occur during operation 
-(hurricanes, asteroids, airplane impacts, pump failures, steam line breaks, aliens, etc.). If something doesn't look good, 
-they send their concerns back to the design people with new requirements for a second round. 
+The point of a power reactor is to produce heat. Thermal hydraulics engineers deal with this heat. They make sure
+the heat can get into the water running past the fuel and then into the turbine to generate the electricity. They carefully
+monitor and simulate how much water may be boiling and what would happen in all sorts of proposed accident scenarios.
+They also try to find ways to keep the plant operating as efficiently as possible.
+
+## Transient analysis and risk assessment
+
+While all power reactor engineers pay attention to safety, the transient people give it all their attention. These people check
+every proposed fuel loading and run it through simulations of all of the strange situations that could occur during operation
+(hurricanes, asteroids, airplane impacts, pump failures, steam line breaks, aliens, etc.). If something doesn't look good,
+they send their concerns back to the design people with new requirements for a second round.
 
 ## Methods development
-All aspects of nuclear reactor design and operation require a lot of computational simulation. You can't just build everything 
-you think up, but you can build it on a computer and run a program designed to tell you how an actual reactor would behave. 
-The methods people write the software that models reactors. This software is very mathematically intense, as modeling every 
+
+All aspects of nuclear reactor design and operation require a lot of computational simulation. You can't just build everything
+you think up, but you can build it on a computer and run a program designed to tell you how an actual reactor would behave.
+The methods people write the software that models reactors. This software is very mathematically intense, as modeling every
 neutron and every bit of fluid flow in a huge system is an extremely daunting task. Running codes on supercomputers
-is the norm for the nuclear industry, and the methods people are the ones making it happen. 
+is the norm for the nuclear industry, and the methods people are the ones making it happen.
 
 ## Regulation
-Engineers working in regulation have the responsibility of protecting the public. They get copies of all the proposed designs 
-of reactors and new fuel loadings and run their own independent calculations of their safety. They also spend a lot 
-of time in operating reactors, monitoring the operations and inspecting various components. All operations in reactors must 
-be approved by the regulation people. 
+
+Engineers working in regulation have the responsibility of protecting the public. They get copies of all the proposed designs
+of reactors and new fuel loadings and run their own independent calculations of their safety. They also spend a lot
+of time in operating reactors, monitoring the operations and inspecting various components. All operations in reactors must
+be approved by the regulation people.
 
 ## Reactor design and construction
-Even though the USA hasn't built many in decades, there have been many reactors built in Europe and Asia. Designing 
-and constructing these complicated plants takes an enormous effort. They all have multiple trains of redundant safety systems 
-and must be able to be built at a reasonable price. Additionally, some of the parts of reactors are huge and 
-require some of the largest forging facilities in the world. 
+
+Even though the USA hasn't built many in decades, there have been many reactors built in Europe and Asia. Designing
+and constructing these complicated plants takes an enormous effort. They all have multiple trains of redundant safety systems
+and must be able to be built at a reasonable price. Additionally, some of the parts of reactors are huge and
+require some of the largest forging facilities in the world.
 
 ## Nuclear Materials
-When materials people work for power plants, they're concerned with the material properties of the fuel and of the 
-pressure vessel (the big can around the reactor). Radiation damages materials and the task at hand is to maximize 
-the lifetime and reliability of both fuel and reactor components. 
+
+When materials people work for power plants, they're concerned with the material properties of the fuel and of the
+pressure vessel (the big can around the reactor). Radiation damages materials and the task at hand is to maximize
+the lifetime and reliability of both fuel and reactor components.
 
 # Who hires nuclear engineers?
+
 Great question! Nuclear engineers are hired by utility companies (who operate reactors), reactor
 vendors (who build and service reactors), the Nuclear Regulatory Commission (which monitors the
 reactors), consulting firms (who perform specialized tasks for the previously mentioned entities),
@@ -119,8 +125,7 @@ universities (who train new engineers), the Navy (which designs, builds, and ope
 powered submarines and other ships), the national labs - Los Alamos, Oak Ridge, Idaho, Argonne,
 Berkeley, Pacific Northwest, Sandia (who design next-generation plants, develop space batteries,
 deal with nuclear weapons, perform basic research...), oil companies (to hunt for oil with their
-powerful detectors), and various other companies with some interest in the nuclear world. 
-
+powerful detectors), and various other companies with some interest in the nuclear world.
 
 # Distribution of nuclear engineers
 
@@ -135,10 +140,8 @@ powerful detectors), and various other companies with some interest in the nucle
 
 </table>
 
-
 ## References
 
 1. <a href="http://www.bls.gov/oes/current/oes172161.htm">US Dept. of Labor, Bureau of Labor Statistics - Nuclear engineers, May 2006</a>
 </div>
 </div>
-

@@ -1,8 +1,8 @@
 ---
 layout: safety
-title: Skin cancer 
+title: Skin cancer
 description: >
-    Learn the warning signs of melanoma.
+  Learn the warning signs of melanoma.
 date: 2022-09-27
 byline: true
 image: /img/skin-moles.jpg
@@ -24,21 +24,21 @@ Skin cancer is the most common kind of cancer. Most are caused by exposure to
 ultraviolet radiation, often from the sun. There are three kinds of cells in the
 skin:
 
-* Squamous cells
-* Basal cells
-* Melanocytes
+- Squamous cells
+- Basal cells
+- Melanocytes
 
 Each kind of cell can form a cancer. Squamous and Basal cell cancers are the
 most common. Melanoma causes the most deaths because of its tendency to spread
-into vital organs, including the brain. 
+into vital organs, including the brain.
 
 The warning signs of melanoma are A-B-C-D-E [1]:
 
-* Asymmetrical: Does the mole or spot have an irregular shape with two parts that look very different?
-* Border: Is the border irregular or jagged?
-* Color: Is the color uneven?
-* Diameter: Is the mole or spot larger than the size of a pea?
-* Evolving: Has the mole or spot changed during the past few weeks or months?
+- Asymmetrical: Does the mole or spot have an irregular shape with two parts that look very different?
+- Border: Is the border irregular or jagged?
+- Color: Is the color uneven?
+- Diameter: Is the mole or spot larger than the size of a pea?
+- Evolving: Has the mole or spot changed during the past few weeks or months?
 
 If you see these, take a photo on your phone and go talk to your doctor.
 
@@ -46,7 +46,6 @@ If you see these, take a photo on your phone and go talk to your doctor.
 
 1. [CDC Melanoma Symptoms](https://www.cdc.gov/cancer/skin/basic_info/symptoms.htm)
 2. [National Cancer Institute skin cancer page](https://www.cancer.gov/types/skin)
-
 
 </div>
 </div>

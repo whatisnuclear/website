@@ -13,14 +13,12 @@ image: /img/kid_in_atom.jpg
 
 [Energy density]({% link energy-density.md %}) measures how much energy is in a certain mass of fuel. [Relevant xkcd](https://xkcd.com/1162/).
 
-
 <div class="row">
 <div class="col-md-12" style="min-height: 100000px" id='plot'></div>
 </div>
 Learn more about [breeder reactors here]({% link recycling.md %}).
 
 <hr/>
-
 
 <script src='https://cdn.plot.ly/plotly-2.16.1.min.js'></script>
 

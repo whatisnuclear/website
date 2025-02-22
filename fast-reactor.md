@@ -3,14 +3,15 @@ layout: default
 title: What is a fast reactor?
 category: reactors
 description: |
-    Explains what a fast nuclear reactor is and how they differ from
-    more common slow-neutron (thermal) reactors.
+  Explains what a fast nuclear reactor is and how they differ from
+  more common slow-neutron (thermal) reactors.
 author: nick
 date: 2009-09-21
 image: /img/fast_neutron_bigger.png
 byline: true
 byline_extra: Editing by Jesse Cheatham, Robert Petroski, and Brian Wagner
 ---
+
 <div class="row">
 <div class="col-md-6" markdown="1">
     
@@ -21,7 +22,7 @@ to achieve [long term sustainability]({% link
 nuclear-sustainability.md %}).
 
 Whereas traditional reactors contain [moderators]({% link moderation.md %}) to slow down
-neutrons after they're emitted, fast reactors keep their neutrons moving quickly.  An
+neutrons after they're emitted, fast reactors keep their neutrons moving quickly. An
 average slow neutron moves around at about 2200 m/s while a fast neutron might be cruising
 well above 9 million m/s, which is about 3% of the speed of light.
 
@@ -31,7 +32,6 @@ This page discusses the pros, cons, history, and physics of fast reactors
 **Note**: The term *fast reactor* is a shortened version of *fast-neutron
 reactor*.
 </div>
-
 
 </div>
 <div class="col-md-6" markdown="1">
@@ -55,50 +55,48 @@ reactor*.
 <div id="bigdeal" class="col-md-6" markdown="1">
 ## Pros
 
-* Fast reactors get more neutrons out of their primary fuel than traditional reactors,
+- Fast reactors get more neutrons out of their primary fuel than traditional reactors,
   so many can be used to <a href="{% link recycling.md %}">breed new fuel</a>,
   vastly <b>enhancing the sustainability</b> of nuclear power.
 
-* Fast reactors are capable of destroying the [longest-lived nuclear waste]({% link
+- Fast reactors are capable of destroying the [longest-lived nuclear waste]({% link
   waste.md %}), transforming it to waste that decays to harmlessness in **centuries
   rather than hundreds of millennia**.
 
-* Fast reactors typically use liquid metal coolants rather than water. These have
+- Fast reactors typically use liquid metal coolants rather than water. These have
   superior heat-transfer properties and allow natural circulation to remove the heat
   in even severe accident scenarios. The result: if something goes very wrong at the
   plant, and none of the operators are awake, AND none of the control rods work, the
   reactor can just **naturally shut itself down**. This comes with a con (see cons).
 
-* Fast reactors can employ metallic fuel rather than oxides (thanks to chemical
+- Fast reactors can employ metallic fuel rather than oxides (thanks to chemical
   compatibility with the liquid metal coolant). Since metal has very high thermal
   conductivity, the reactor can shut itself down without surpassing temperature
-  limits. This **enhances the safety** of these reactors significantly. 
+  limits. This **enhances the safety** of these reactors significantly.
 
 </div>
 
 <div class="col-md-6" markdown="1">
 ## Cons
 
-* While fast-neutron reactors are dramatically more resource efficient, they require 3x or more
+- While fast-neutron reactors are dramatically more resource efficient, they require 3x or more
   fissile atoms to start up initially. This is the main reason why slow-neutron reactors were
   developed first, and remains an economic challenge today.
 
-* Bubbles in fast reactor coolant can cause the reactor to heat up rather than cool
+- Bubbles in fast reactor coolant can cause the reactor to heat up rather than cool
   down, as in a traditional reactor. Higher heat makes more bubbles, which make more
   heat, and so on. This **positive feedback is scary** (but manageable, thanks to
   overpowering negative feedbacks).
 
-* To keep the neutrons moving quickly, fast reactors **require exotic coolants** derived
+- To keep the neutrons moving quickly, fast reactors **require exotic coolants** derived
   from heavy atoms. The most common coolant is liquid sodium, which is well known but
   highly reactive with air and water. Another is liquid lead-bismuth eutectic, which isn't
   the most pleasant material either. These bizarre materials require extra care and lower
   tolerance in many systems (such as piping), possibly **bringing costs up**.
 
-* Time scales in fast reactor severe accidents are faster than those in slow-neutron reactors
-  (because there are fewer *delayed neutrons* in fast reactors). Thus they can  **go
-  through unpredicted changes faster** than traditional reactors. 
-
-
+- Time scales in fast reactor severe accidents are faster than those in slow-neutron reactors
+  (because there are fewer _delayed neutrons_ in fast reactors). Thus they can **go
+  through unpredicted changes faster** than traditional reactors.
 
 </div>
 </div>
@@ -123,7 +121,7 @@ Enrico Fermi postulated the possibility of breeding, and this possibility was co
 the EBR-1 reactor in Idaho (which, incidentally was also the first reactor to produce
 electricity). Several other fast test reactors were built around the world (in France, the
 UK, Japan, Russia, India, China) and today, the world has achieved around 400
-reactor-years of operation with fast reactors. 
+reactor-years of operation with fast reactors.
 
 <div class="alert alert-success" role="alert" markdown="1">
 **Note:** We have an elaborate <a href="{% link
@@ -140,15 +138,14 @@ electricity-producing world, debate about the remaining amount of uranium on ear
 resurfaced. Why switch from coal to uranium if we might run out in a few centuries anyway?
 Also, one of the only ways to really destroy nuclear waste is to burn it in fast reactors.
 So, by providing good responses to the sustainability and the waste toxicity, fast
-reactors have maintained the interest of much of the forward-looking nuclear crowd. 
-
+reactors have maintained the interest of much of the forward-looking nuclear crowd.
 
 <h2 id="details">Technical Details</h2>
 It might be wise to go read <a href="{% link moderation.md %}">our moderation
 page</a> for a second and come back when you understand that neutrons emerge from
 fission reactions at high speeds and that we typically like to slow them down to thermal
 energies in order to increase their chances of continuing the chain reaction. This is what
-is done in most reactors.  
+is done in most reactors.
 
 Splitting atoms is not the only thing neutrons do. In nuclides such as Uranium-238,
 slow neutrons are readily absorbed without causing a fission -- resulting in what we
@@ -160,6 +157,7 @@ smaller at faster energies. Take a look at these two graphs showing the probabil
 function of neutron energy for U-235 and U-238. By the way, the units of energy used here
 are electron-volts (eV), where 1 eV is the energy that an electron would gain in an
 electric field with 1 Volt.
+
 </div>
 </div>
 
@@ -188,9 +186,7 @@ of the very long-lived nuclides larger than Uranium (Neptunium, Plutonium, Ameri
 Curium, etc.) have the same trend, and fast reactors can split and destroy these
 actinides as fuel rather than let them accumulate as in slow-neutron reactors. This makes
 the nuclear waste coming out of fast reactors decay to natural radiation levels much
-faster than traditional nuclear waste. 
-
-
+faster than traditional nuclear waste.
 
 <h2 id="havingmore">Fast reactors have high breeding ratios and more neutrons going around</h2>
 
@@ -211,7 +207,7 @@ faster than traditional nuclear waste.
 
 The breeding ratio is a measure of how much new fissile fuel a reactor is capable of
 producing as it runs. It is the ratio of the number of fissile atoms created with the
-number of fissions occurring. 
+number of fissions occurring.
 
 Fast reactors using uranium fuel inherently create more fissile atoms per fission that
 uranium-fueled slow-neutron reactors. The reason can be seen in the image to the right labeled
@@ -220,14 +216,14 @@ because the Pu239 fission rate is so much higher than the U238 absorption rate (
 what creates fissile material). Conversely, fast reactors have U238 absorption rates that
 are comparable to Pu239 fission rates. Thus, the fissile material can be replenished as it
 burns. This also explains why initial enrichment of fast-neutron reactors has to be higher than
-comparable slow-neutron reactors. 
+comparable slow-neutron reactors.
 
 The number of neutrons per fission changes in fast reactors as well. When atoms
 fission, they release a few neutrons that continue a chain reaction. When a faster neutron
 splits a Uranium atom, odds are that more neutrons will come out than if a slow neutron
 hit it. This effect means that fast reactors have extra neutrons around that aren&rsquo;t
 necessary for maintaining the chain reaction. Additionally, since more U-238 is directly
-fissioning, there are neutrons being produced from non-fissile  material. These two
+fissioning, there are neutrons being produced from non-fissile material. These two
 effects increase the breeding ratio even further. It can be larger than 1 in fast
 reactors. This means that the bonus neutrons can be used to <a href="{% link recycling.md
 %}">breed new fuel</a> in <i>fast breeder reactors</i>. The big picture effect is that
@@ -239,7 +235,7 @@ fission is lower for faster energies for every actinide, the neutron density is 
 fast reactors than it is in most reactors of the same power (since power is
 effectively the neutron density multiplied by the fission probability). Structural
 materials inside fast reactors thus undergo higher radiation damage rates than those in
-slow-neutron reactors. 
+slow-neutron reactors.
 
 <h2 id="howtomake">How do we make a reactor fast or slow?</h2>
 Nuclear reactors need to cool fuel as they undergoes the fission chain reaction.
@@ -258,7 +254,6 @@ make a fast reactor, just take all the small atoms out. Some fast reactors use o
 fuels, but those made with metallic fuel are even faster, since oxygen is a fairly
 light atom.
 
-
 <h1>Why do fast reactors use hexagonal assemblies?</h1>
 Ok, this isn&rsquo;t really a commonly asked question in public, but whatever. Of all
 the geometric shapes in the world, hexagons can be packed closest together, in an
@@ -268,19 +263,17 @@ href="https://en.wikipedia.org/wiki/Sphere_packing#Circle_packing">hexagonal clo
 chain reaction easy, hexagons are the obvious choice. So the real question is why are
 traditional reactor assemblies square? Since they require moderation, designers don&rsquo;t
 want fuel as close as possible to itself. The extra room is specifically to be
-filled with moderator, which is usually water. 
+filled with moderator, which is usually water.
 
 Another good reason to use hexagons is that fast reactors can become more reactive when
 fuel is pushed closer together. To minimize the possibility of this, we like to get it as
-close together to begin with.  
-
+close together to begin with.
 
 <!--<div class="column1-unit">
 <h1>What is our operating experience with fast reactors?</h1>
 <p>The first nuclear reactor that generated electricity was a fast breeder reactor. </p>
 </div>
 <hr class="clear-contentunit" />-->
-
 
 <h2 id="refs">See Also</h2>
 <ul> 
@@ -295,16 +288,14 @@ close together to begin with.
 
 Here are some good overview references for continued learning
 
-* [The Fast Reactor Database, IAEA-TECDOC-1531](http://www-pub.iaea.org/books/IAEABooks/7581/Fast-Reactor-Database-2006-Update)
-* [Status of Fast Reactor Research and Technology Development, IAEA TECDOC 1691](http://www-pub.iaea.org/books/IAEABooks/8667/Status-of-Fast-Reactor-Research-and-Technology-Development)
-* [Breeder Reactors](https://www.osti.gov/biblio/1135678) -- A 1971 booklet summarizing breeder reactors.
-* [Advanced Nuclear Reactors](https://babel.hathitrust.org/cgi/pt?id=coo.31924071415222&view=1up&seq=1) -- A 1975 summary of breeder development in the USA
+- [The Fast Reactor Database, IAEA-TECDOC-1531](http://www-pub.iaea.org/books/IAEABooks/7581/Fast-Reactor-Database-2006-Update)
+- [Status of Fast Reactor Research and Technology Development, IAEA TECDOC 1691](http://www-pub.iaea.org/books/IAEABooks/8667/Status-of-Fast-Reactor-Research-and-Technology-Development)
+- [Breeder Reactors](https://www.osti.gov/biblio/1135678) -- A 1971 booklet summarizing breeder reactors.
+- [Advanced Nuclear Reactors](https://babel.hathitrust.org/cgi/pt?id=coo.31924071415222&view=1up&seq=1) -- A 1975 summary of breeder development in the USA
 
 ## See Also
 
-* [Moderation]({% link moderation.md %})
+- [Moderation]({% link moderation.md %})
 
 </div>
 </div>
-     
-      

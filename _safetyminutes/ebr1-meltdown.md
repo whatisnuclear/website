@@ -30,7 +30,6 @@ radiation alarms went off, blockage was noted, and the building was evacuated.
 Later, the core was rebuilt and the research into core mechanical feedback was
 completed so the reactor could retire with honor.
 
-
 # Lessons
 
 ## Don’t rely on human operators to actuate shutdown when it’s necessary
@@ -52,7 +51,7 @@ or other inference.
 It’s unfortunate that the power excursion went “off scale” for a while on the
 instrumentation. If it could have auto-scaled and stayed on the paper, we would
 have had better data from which we could understand core damage accidents better
-at an earlier time.  
+at an earlier time.
 
 # Legacy
 
@@ -62,17 +61,16 @@ that it was a combination of two competing neutronic/mechanical feedbacks that
 cause the situation:
 
 1. The upper support plate that held the pins would heat up on the bottom more
-#than the top, causing it to “cup” downward and spread the pins out, introducing
-#negative reactivity with negative feedback.
+   #than the top, causing it to “cup” downward and spread the pins out, introducing
+   #negative reactivity with negative feedback.
 
 2. If the fuel heated up before the upper support plate, their thermal expansion
-#would cause them to squeeze into each other, introducing positive reactivity
-#with positive feedback.
+   #would cause them to squeeze into each other, introducing positive reactivity
+   #with positive feedback.
 
 After EBR-1, reactor designs tended to leave their pins within assemblies
 unrestrained at the top and pinned at the bottom so that neither of these
 effects will happen.
-
 
 # References and more info
 
@@ -83,7 +81,6 @@ effects will happen.
 3. [Kittel, J.H., Novick, M., and Buchanan, R.F. THE EBR-I MELTDOWN–PHYSICAL AND METALLURGICAL CHANGES IN THE CORE. Final Report–Metallurgy Program 7.2.18. United States: N. p., 1957. Web. doi:10.2172/4322934. 4 (tons of excellent pictures of the melted fuel)](https://www.osti.gov/biblio/4322934-ebr-meltdown-physical-metallurgical-changes-core-final-report-metallurgy-program#)
 
 4. [EBR-I Core Disassembly after Meltdown](https://www.youtube.com/watch?v=FY74p-HDVsQ) -- Video from the event
-
 
 </div>
 </div>

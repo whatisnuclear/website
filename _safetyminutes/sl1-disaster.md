@@ -2,8 +2,8 @@
 layout: safety
 title: The SL-1 disaster
 description: >
-    Lessons learned and brief summary of the gruesome SL-1 nuclear reactor
-    accident from 1961.
+  Lessons learned and brief summary of the gruesome SL-1 nuclear reactor
+  accident from 1961.
 date: 2022-09-27
 byline: true
 author: nick
@@ -75,20 +75,19 @@ It should take more than 1 rod to go critical from a shut down position
 ## Avoid water hammer
 
 Do not put the reactor into a configuration where it has a tightly sealed
-lid and a partially filled tank. If the water hammer could not have developed 
+lid and a partially filled tank. If the water hammer could not have developed
 the 10,000 psi pressure, this incident would not have been nearly as destructive.
 
 # Legacy
 
-The SL-1 accident had a major impact on nuclear safety in many ways. The 
+The SL-1 accident had a major impact on nuclear safety in many ways. The
 design principles were adjusted to factor in the lessons learned.
-
 
 # References and more info
 
 1. [Final report of SL-1 recovery operation / SL-1 Project, Idaho](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086573790&view=thumb&seq=1&skin=2021)
 2. [ACCIDENTS AND INCIDENTS INVOLVING RADIOACTIVE
-MATERIAL IN AEC ACTIVITIES 1961-1962](https://www.osti.gov/servlets/purl/4157449)
+   MATERIAL IN AEC ACTIVITIES 1961-1962](https://www.osti.gov/servlets/purl/4157449)
 3. [Accidents in the nuclear industry : an information file](https://babel.hathitrust.org/cgi/pt?id=coo.31924004292888&view=1up&seq=239)
 4. [Proving the Principle Chapter 15](https://webharvest.gov/peth04/20041031015240/http://www.inel.gov/proving-the-principle/chapter_15.pdf)
 5. [SL-1 Wikipedia page](https://en.wikipedia.org/wiki/SL-1)

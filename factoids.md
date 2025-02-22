@@ -8,20 +8,17 @@ description: Little facts about nuclear energy.
 
 <div class="col-md-8" markdown="1">
 
-
-
-<img class="float-end" style="width:200px" src="/img/aircraft_carriers_on_burj_dubai.jpg" alt="Aircraft carriers on the Burj Dubai" title="Aircraft carriers on the Burj Dubai" /> 
+<img class="float-end" style="width:200px" src="/img/aircraft_carriers_on_burj_dubai.jpg" alt="Aircraft carriers on the Burj Dubai" title="Aircraft carriers on the Burj Dubai" />
 
 Sometimes it takes a bunch of factoids to get a point across. However, factoids
 can be misleading since they can hide many of the implications of reality. Here
 we present some of the astonishing factoids of nuclear power and attempt to
-discuss them realistically and without (too much) bias. 
+discuss them realistically and without (too much) bias.
 
 Also, we are making available our spreadsheet used to calculate these factoids.
 If you&rsquo;re interested, check them out and <a href="/contact.html">contact
 us</a> with questions, suggestions, and corrections.<br />
 <a href="/assets/factoids.ods">Factoids.ods (open office)</a><br /><a href="/assets/factoids.xls">Factoids.xls (MS Excel)</a>
-
 
 ## Factoid 1: Energy Density
 
@@ -29,46 +26,49 @@ A kilogram of coal can run a 100W lightbulb for about 4 days while a kilogram
 of natural uranium can run it for 182 years! If you enrich uranium up to
 weapons grade, a kilogram can then run the lightbulb for over 24,000 years! Put
 in better perspective, that kilogram of rock can power the entire USA for 177
-seconds (almost 3 minutes!). 
+seconds (almost 3 minutes!).
 <a href="#disfueldensity">Discussion of energy density</a>
 
 ## Factoid 2: Recycling Nuclear Waste
+
 If we took all the nuclear waste that was sitting around in the USA today from
 the past 50 years of running reactors and recycled it, we could use it to power
-the entire USA for about 93 years without mining anything else. 
+the entire USA for about 93 years without mining anything else.
 <a href="#disrecycle">Discussion of recycling waste</a>
 
 ## Factoid 3: Waste per person
+
 If all power in the USA came from conventional nuclear reactors, each American
 would be responsible for generating 40 grams of nuclear waste per year.
 That&rsquo;s the same as 7 US quarters weigh. If breeder reactors were used, it
 could be as low as 4 grams. For comparison, each American is currently
 responsible for about 10,000 kg of carbon emissions directly into the
 atmosphere from electric plants per year, not to mention particulates and many
-toxins. Nuclear waste, on the other hand stays out of the biosphere. 
+toxins. Nuclear waste, on the other hand stays out of the biosphere.
 <a href="#diswasteperperson">Discussion of waste per person</a>
 
 ## Factoid 4: Amount of Uranium
+
 At current demand, we can run the world fleet of nuclear reactors for about 220
 years with expected uranium reserves on Earth.
 <a href="#disamountofu">Discussion of amount of Uranium</a>
 
-
 ## Factoid 5: Land use
+
 To replace a regular 1 GW nuclear power plant with 33% efficient solar power in
 Michigan, you&rsquo;re going to need 6.2 square miles of space. To do so in
-Arizona, you need 4.0 square miles. 
+Arizona, you need 4.0 square miles.
 <a href="#dislanduse">Discussion of land use</a>
 
 ## Factoid 6: Scale of energy usage
+
 To store the amount of energy a single typical nuclear power plant generates in
 one night, you would have to lift 44 fully loaded Nimitz-class aircraft
 carriers to the top of the Burj Dubai (818 meters) during the day and slowly
-let them fall on a pulley, spinning generators. 
+let them fall on a pulley, spinning generators.
 <a href="#disscale">Discussion of scale</a>
 
 # Discussions
-
 
 <h2 id="disfueldensity">Factoid 1: Energy Density</h2>
 There are a couple issues with this statement. Firstly, it is a factoid of
@@ -126,7 +126,7 @@ year range. If we find a way to get Uranium out of the ocean, we're talking
 hundreds of thousands of years. Also, nuclear reactors can operate on the
 element Thorium instead of Uranium, which gives us even more time. So, this is
 certainly something to worry about if we decide to build a lot of nuclear
-plants soon, but it just means we have to do things correctly. 
+plants soon, but it just means we have to do things correctly.
 
 <h2 id="dislanduse">Factoid 5: Land Use</h2>
 Keep in mind 33% efficient solar cells are not commonplace yet. If you used

@@ -6,11 +6,13 @@ image: /img/quotes/arnold.jpg
 byline_extra: Contributions from many on github
 byline: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
 On this page we have a collection of statements made by relatively famous people about
-nuclear energy. 
+nuclear energy.
+
 <hr/>
 {% comment %}
 For sorting, we have lots of options, but we're just going to start
@@ -20,11 +22,10 @@ recent one. This is a PITA in Liquid templates but it is doable,
 as you can see below...
 {% endcomment %}
 
-
 {% capture datesandpeople  %}
 {%- for person in site.data.quotes -%}
 {%- for quote in person.quotes -%}
-{{ quote.date }} {{person.name}} , 
+{{ quote.date }} {{person.name}} ,
 {%-endfor-%}
 {%-endfor-%}
 {% endcapture%}
@@ -65,7 +66,6 @@ float-end" alt="Image of {{person.name}}" title="Image of
     <cite markdown="1" title="Source Title">[{%- if quote.venue -%}{{quote.venue}}, {% endif %}{{ quote.date }}]({{quote.url}})</cite> </figcaption>
 </figure>
 
-
 {% endfor %}
 {% endfor %}
 
@@ -78,7 +78,7 @@ signal to noise high).
 
 ## Related collections
 
-* [Who gets it?](https://decarbonisesa.com/about-2/who-gets-it/) by Ben Heard
+- [Who gets it?](https://decarbonisesa.com/about-2/who-gets-it/) by Ben Heard
 
 </div>
 </div>

@@ -6,6 +6,7 @@ description: Nuclear non-proliferation is the worldwide effort to reduce the spr
 author: nick
 byline: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
@@ -22,28 +23,29 @@ across the world want no one to have nuclear weapons.
 To reach their goal, people working for non-proliferation must secure and monitor existing nuclear
 weapons and weapon material, they must monitor facilities conceivably able to produce weapon
 material and minimize the construction of such facilities, and they must perform political
-gymnastics to minimize the allure of nuclear weapons to the world. 
+gymnastics to minimize the allure of nuclear weapons to the world.
 
-## How is nuclear power tied to nuclear non-proliferation?	
+## How is nuclear power tied to nuclear non-proliferation?
+
 The three special materials with which one can fabricate nuclear weapons are plutonium,
 highly-enriched uranium, and tritium (in thermonuclear weapons). Certainly the precision
 explosives and fabrication of weapons is difficult, but obtaining material is the major
 hurdle. As they currently operate, most nuclear reactors are proliferation concerns for
-two corresponding reasons: 
+two corresponding reasons:
 
-* Nuclear reactors can produce plutonium and tritium as they operate via nuclear
+- Nuclear reactors can produce plutonium and tritium as they operate via nuclear
   reactions. These could conceivably be extracted and used for weapons.
-* The enrichment plants required to fuel reactors can be operated in such a way to produce weapon
-  material. 
+- The enrichment plants required to fuel reactors can be operated in such a way to produce weapon
+  material.
 
 Thus, any country with a nuclear reactor and a plutonium chemist or an enrichment plant
 has access to materials which could be used to develop nuclear weapons. However, both items
-have many subtleties to complicate their discussion. 
-
+have many subtleties to complicate their discussion.
 
 ## What can be done to stop proliferation?
+
 So, can we expand nuclear power without risking proliferation? Certainly not without being
-careful.  Currently, the <a href="https://www.iaea.org">IAEA</a> (the UN nuclear watchdog)
+careful. Currently, the <a href="https://www.iaea.org">IAEA</a> (the UN nuclear watchdog)
 routinely inspects nuclear facilities around the world to verify that only peaceful work
 is being done. They inventory all special material very carefully. If a facility doesn't
 allow inspectors in or shows signs of militarization, the political world decides what to
@@ -62,7 +64,7 @@ status-quo that can help with non-proliferation. The most mainstream change is t
 establishment of an international fuel bank, where weapon states enrich and fabricate
 nuclear fuel and then sell it through an internationally-controlled middleman who
 guarantees its delivery to non-weapon user-states. This would keep enrichment facilities
-out of the hands of new users of nuclear power.  User-nations would benefit from not
+out of the hands of new users of nuclear power. User-nations would benefit from not
 requiring the expensive front-end infrastructure of fuel fabrication, but they would
 probably be slightly worried about their energy supplies in any politically turbulent
 times. This idea has come under the names <a
@@ -95,23 +97,22 @@ stockpiles from tens of thousands to about ten.
 </div>
 <div class="row">
 
-
 <h2>Which countries have nuclear weapons?</h2>
 <div class="col-md-8" markdown="1">
 
 Weapon states are listed here with the date of their first test in parenthesis.
 
-* United States of America (1945)
-* Russia (1949)
-* United Kingdom (1952)
-* France (1960)
-* China (1964)
-* Israel (\*suspected)
-* India (1974)
-* Pakistan (1998)
-* North Korea (2006)
+- United States of America (1945)
+- Russia (1949)
+- United Kingdom (1952)
+- France (1960)
+- China (1964)
+- Israel (\*suspected)
+- India (1974)
+- Pakistan (1998)
+- North Korea (2006)
 
-\* Israel has never actually admitted having nuclear weapons, but is widely <a href="http://news.bbc.co.uk/2/hi/middle_east/892941.stm">accused of having many [bbc]</a>. 
+\* Israel has never actually admitted having nuclear weapons, but is widely <a href="http://news.bbc.co.uk/2/hi/middle_east/892941.stm">accused of having many [bbc]</a>.
 
 Several other NATO countries control nuclear weapons produced by weapon-states under the
 non-proliferation treaty (NPT). Detailed discussion is found on Wikipedia's <a
@@ -141,11 +142,11 @@ inventorying, tracking, and detecting these materials as well.
 
 ## See Also
 
-* [Reader on nuclear nonproliferation (1980)](https://babel.hathitrust.org/cgi/pt?id=uc1.31210014947285&view=1up&seq=1) --- A
+- [Reader on nuclear nonproliferation (1980)](https://babel.hathitrust.org/cgi/pt?id=uc1.31210014947285&view=1up&seq=1) --- A
   collection of writings collected at the request of Congress for better understanding the
   various aspects of nuclear non-proliferation policy.
 
-* [Nuclear proliferation and Safeguards](https://babel.hathitrust.org/cgi/pt?id=uc1.b5132018&view=1up&seq=26) --- A 270 pg report to Congress from 1977 summarizing the situation
+- [Nuclear proliferation and Safeguards](https://babel.hathitrust.org/cgi/pt?id=uc1.b5132018&view=1up&seq=26) --- A 270 pg report to Congress from 1977 summarizing the situation
 
 </div>
 </div>

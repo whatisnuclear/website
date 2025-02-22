@@ -8,85 +8,167 @@ author: nick
 byline: true
 mathjax: true
 ---
-    <div class="row">
-        <div class="col-md-8">
-    
-        
-        <p>This page derives the basic equation of radioactive decay. This
-        equation allows us to figure out how many radioactive atoms are left
-        after any amount of time. There are many general forms of the equation
-        that deal with chains of nuclides, but here we only worry about the
-        basics. WARNING: there is a little bit of calculus involved. </p>
 
-        <p>Try out our <a href="{% link half-life.md %}">Interactive half-life calculator!</a></p>
+<div class="row">
+  <div class="col-md-8">
+    <p>
+      This page derives the basic equation of radioactive decay. This equation
+      allows us to figure out how many radioactive atoms are left after any
+      amount of time. There are many general forms of the equation that deal
+      with chains of nuclides, but here we only worry about the basics. WARNING:
+      there is a little bit of calculus involved.
+    </p>
 
-           <h1>Number of atoms at any given time</h1>
+    <p>
+      Try out our
+      <a href="{% link half-life.md %}">Interactive half-life calculator!</a>
+    </p>
 
-           <p>We start by noting that the speed of radioactive decays occurring
-           in a sample is proportional to the number of radioactive atoms in the
-           sample. This isn&rsquo;t hard to believe. If you had 10 jumping beans
-           and saw one jump every second, you&rsquo;d expect to see about 10
-           jumps per second if you had 100. Mathematically, we represent this as
-           $$-\frac{dN}{dt}=N\lambda$$ where \(\frac{dN}{dt}\) is the number of decays per second the batch of atoms is undergoing, \(N\) is the current number of radioactive atoms, and \(\lambda\) is a constant (called the decay constant) which is characteristic of any particular radioactive atom representing the likelihood that any individual atom will decay at any given time. Atoms that decay faster have larger decay constants, and so on. </p>
-           <p>Now that we know the rate at which our sample is decaying, we can integrate this rate to figure out the total number of atoms that have decayed at any given time. Unfortunately we can&rsquo;t just multiply by time because the decay rate is changing as the number of atoms changes. So we&rsquo;re forced to use calculus. Here we go, step-by-step:
-           $$ \begin{aligned} 
-           \frac{dN}{N} &amp;= -\lambda dt  &amp;&amp; \text{Rearrange to get } N \text{ on one side}\\
-           \int_{N_0}^{N} \frac{dN}{N} &amp;= -\lambda \int_{t=0}^t dt &amp;&amp; \text{Integrate over the interval of interest}\\
-           \text{ln}\left({N}\right)-\text{ln}\left(N_0\right) &amp;= -\lambda t &amp;&amp; \text{Evaluate the integrals}\\
-           \text{ln}\left(\frac{N}{N_0}\right) &amp;= -\lambda t &amp;&amp; \text{Use log rules to combine the left-hand side}\\
-           \frac{N}{N_0} &amp;= e^{-\lambda t} &amp;&amp; \text{Take } e \text{ to the power of both sides}\\
-           N &amp;= N_0 e^{-\lambda t} &amp;&amp;\text{Multiply both sides by } N_0\\
-           \end{aligned}$$
-           Note: \(N_0\) is the number of nuclides at time \(t=0\).
-           </p>
-           
-           <h1>Relating the half-life to the decay constant</h1>
-           <p>Excellent. The final equation there is the well-known radioactive decay equation. But what should we use for \(\lambda\)? You may have heard of the concept of half-life, or \(\tau_{1/2}\). It&rsquo;s the time it takes for a batch of radioactive atoms to decay away, i.e. the lifetime of half of the atoms. We can relate \(\tau_{1/2}\) to \(\lambda\) easily using the formula derived above. We just say we start with \(N_0=100\) atoms and calculate the \(t\) it takes for this to drop to \(N=50\). 
-           
-           $$\begin{align}
-           50 &amp;= 100 e^{-\lambda \tau_{1/2}} &amp;&amp;\text{Plug in desired values, and } t=\tau_{1/2}\\
-           \left(\frac{50}{100}\right) &amp;= e^{-\lambda \tau_{1/2}} \\
-           \left(\frac{100}{50}\right) &amp;= e^{\lambda \tau_{1/2}} &amp;&amp; \text{Take reciprocal of both sides}\\
-           \text{ln}(2) &amp;= \lambda \tau_{1/2} &amp;&amp;\text{Take the ln of both sides}\\
-           \lambda &amp;= \frac{\text{ln}(2) }{\tau_{1/2}} &amp;&amp; \text{Obtain expression for } \lambda \text{ vs. half-life}\\
-           \end{align}$$
-           </p>
-          
-          <p> As a visual example of how nuclide populations change with different half-lives, take a look at this figure below. All nuclides start out with 100% of their atoms. The blue curve represents a nuclide that has a 50-year half-life. As you can see, it reaches 50% at exactly 50 years. Compare this with the green curve, which represents a nuclide with a 100-year half-life. It crosses 50% exactly at 100 years. And so on.  </p>
-          <a href="img/half-life.png"> <img class="center img-fluid" src="/img/half-life.png" alt="Graph of population vs. time of nuclides with various half-lives"/></a>
-           <p class="caption"><strong>Figure 1.</strong> Decays of several example nuclides with different half-lives from 50 to 300 years. The Python code to generate this image is available <a href="https://github.com/partofthething/whatisnuclear/blob/master/whatisnuclear/age_of_earth/basic_decay.py">here</a>.</p>
-		  
-          <h1>Population of daughter nuclides</h1>
-           <p>It&rsquo;s often useful to know the population of a decay product of a radioactive decay (also known as a daughter nuclide). These may be useful for radiogenic dating of objects (like the Earth), understanding nuclear waste behavior, etc. Let the number of daughter nuclides at \(t=0\) be \(D_0\). Then, 
-           $$ \begin{align}
-           D &amp;= D_0 + N_0 - N &amp;&amp;\text{Because } N_0 - N \text{ parent nuclides decayed}\\
-             &amp;= D_0 + N_0 -N_0 e^{-\lambda t}  &amp;&amp;\text{Plugging in the decay equation}\\
-             &amp;= D_0 + N_0\left(1-e^{-\lambda t} \right) &amp;&amp;\text{Final form based on } N_0\\
-             &amp;\text{or, if you want a formula based}\\
-             &amp;\text{on current parent population, } N\\
-             &amp;= D_0 + Ne^{\lambda t}\left(1-e^{-\lambda t} \right)&amp;&amp; \\
-             &amp;= D_0 + N \left(e^{\lambda t}-1 \right)&amp;&amp; \text{Alternate form based on current } N\\
-             \end{align}$$</p>
-         <p>An example of Uranium-238 (with a 4.47 billion year half-life) decaying into Lead-206 is shown in Figure 2, where we assume \(D_0 = 0\). Notice that the sum of these two curves is always 1.0.  
-           </p>
-           
-           <a href="img/half-life-lead-uranium.png"><img class="center img-fluid" src="/img/half-life-lead-uranium.png" style="width:650px;" alt="Graph of uranium-238 decaying into lead-206"/></a>
-            <p class="caption"><strong>Figure 2.</strong> The decay of Uranium-238 eventually leads to Lead-206. There are many steps along the way, but they all have very short half-lives compared to that of U-238 so they can be ignored on these long (geologic) time scales. Find details of the decay chains <a href="http://metadata.berkeley.edu/nuclear-forensics/Decay%20Chains.html">here</a>. </p>
-           
-        <hr/>
-       
-         <h1 id="references">See Also</h1>
-        
-        <ol>
-        <li>The <a href="https://en.wikipedia.org/wiki/Radioactive_decay">Radioactive Decay [Wikipedia]</a> page has a much more detailed and thorough description of radioactive decay, including situations with more complex decay chains.  </li> 
-           <li><a href="http://atom.kaeri.re.kr/">KAERI Chart of the Nuclides</a> has lots of half-lives you can look up</li>
-          
-      </ol>
-       
-      <h1>References</h1>
-        <ol>
-         <li><a href="https://www.cambridge.org/core/books/radiogenic-isotope-geology/309284FB422D5936CEDCDA7619EA3BEE">Dickin, A.P, 2005. &quot;Radiogenic Isotope Geology.&quot; United Kingdom: University Press, Cambridge.</a></li>
-     
-        </ol>
-    </div>
-    </div>
+    <h1>Number of atoms at any given time</h1>
+
+    <p>
+      We start by noting that the speed of radioactive decays occurring in a
+      sample is proportional to the number of radioactive atoms in the sample.
+      This isn&rsquo;t hard to believe. If you had 10 jumping beans and saw one
+      jump every second, you&rsquo;d expect to see about 10 jumps per second if
+      you had 100. Mathematically, we represent this as
+      $$-\frac{dN}{dt}=N\lambda$$ where \(\frac{dN}{dt}\) is the number of
+      decays per second the batch of atoms is undergoing, \(N\) is the current
+      number of radioactive atoms, and \(\lambda\) is a constant (called the
+      decay constant) which is characteristic of any particular radioactive atom
+      representing the likelihood that any individual atom will decay at any
+      given time. Atoms that decay faster have larger decay constants, and so
+      on.
+    </p>
+    <p>
+      Now that we know the rate at which our sample is decaying, we can
+      integrate this rate to figure out the total number of atoms that have
+      decayed at any given time. Unfortunately we can&rsquo;t just multiply by
+      time because the decay rate is changing as the number of atoms changes. So
+      we&rsquo;re forced to use calculus. Here we go, step-by-step: $$
+      \begin{aligned} \frac{dN}{N} &amp;= -\lambda dt &amp;&amp; \text{Rearrange
+      to get } N \text{ on one side}\\ \int_{N_0}^{N} \frac{dN}{N} &amp;=
+      -\lambda \int_{t=0}^t dt &amp;&amp; \text{Integrate over the interval of
+      interest}\\ \text{ln}\left({N}\right)-\text{ln}\left(N_0\right) &amp;=
+      -\lambda t &amp;&amp; \text{Evaluate the integrals}\\
+      \text{ln}\left(\frac{N}{N_0}\right) &amp;= -\lambda t &amp;&amp; \text{Use
+      log rules to combine the left-hand side}\\ \frac{N}{N_0} &amp;=
+      e^{-\lambda t} &amp;&amp; \text{Take } e \text{ to the power of both
+      sides}\\ N &amp;= N_0 e^{-\lambda t} &amp;&amp;\text{Multiply both sides
+      by } N_0\\ \end{aligned}$$ Note: \(N_0\) is the number of nuclides at time
+      \(t=0\).
+    </p>
+
+    <h1>Relating the half-life to the decay constant</h1>
+    <p>
+      Excellent. The final equation there is the well-known radioactive decay
+      equation. But what should we use for \(\lambda\)? You may have heard of
+      the concept of half-life, or \(\tau_{1/2}\). It&rsquo;s the time it takes
+      for a batch of radioactive atoms to decay away, i.e. the lifetime of half
+      of the atoms. We can relate \(\tau_{1/2}\) to \(\lambda\) easily using the
+      formula derived above. We just say we start with \(N_0=100\) atoms and
+      calculate the \(t\) it takes for this to drop to \(N=50\). $$\begin{align}
+      50 &amp;= 100 e^{-\lambda \tau_{1/2}} &amp;&amp;\text{Plug in desired
+      values, and } t=\tau_{1/2}\\ \left(\frac{50}{100}\right) &amp;=
+      e^{-\lambda \tau_{1/2}} \\ \left(\frac{100}{50}\right) &amp;= e^{\lambda
+      \tau_{1/2}} &amp;&amp; \text{Take reciprocal of both sides}\\ \text{ln}(2)
+      &amp;= \lambda \tau_{1/2} &amp;&amp;\text{Take the ln of both sides}\\
+      \lambda &amp;= \frac{\text{ln}(2) }{\tau_{1/2}} &amp;&amp; \text{Obtain
+      expression for } \lambda \text{ vs. half-life}\\ \end{align}$$
+    </p>
+
+    <p>
+      As a visual example of how nuclide populations change with different
+      half-lives, take a look at this figure below. All nuclides start out with
+      100% of their atoms. The blue curve represents a nuclide that has a
+      50-year half-life. As you can see, it reaches 50% at exactly 50 years.
+      Compare this with the green curve, which represents a nuclide with a
+      100-year half-life. It crosses 50% exactly at 100 years. And so on.
+    </p>
+    <a href="img/half-life.png">
+      <img
+        class="center img-fluid"
+        src="/img/half-life.png"
+        alt="Graph of population vs. time of nuclides with various half-lives"
+    /></a>
+    <p class="caption">
+      <strong>Figure 1.</strong> Decays of several example nuclides with
+      different half-lives from 50 to 300 years. The Python code to generate
+      this image is available
+      <a
+        href="https://github.com/partofthething/whatisnuclear/blob/master/whatisnuclear/age_of_earth/basic_decay.py"
+        >here</a
+      >.
+    </p>
+
+    <h1>Population of daughter nuclides</h1>
+    <p>
+      It&rsquo;s often useful to know the population of a decay product of a
+      radioactive decay (also known as a daughter nuclide). These may be useful
+      for radiogenic dating of objects (like the Earth), understanding nuclear
+      waste behavior, etc. Let the number of daughter nuclides at \(t=0\) be
+      \(D_0\). Then, $$ \begin{align} D &amp;= D_0 + N_0 - N
+      &amp;&amp;\text{Because } N_0 - N \text{ parent nuclides decayed}\\ &amp;=
+      D_0 + N_0 -N_0 e^{-\lambda t} &amp;&amp;\text{Plugging in the decay
+      equation}\\ &amp;= D_0 + N_0\left(1-e^{-\lambda t} \right)
+      &amp;&amp;\text{Final form based on } N_0\\ &amp;\text{or, if you want a
+      formula based}\\ &amp;\text{on current parent population, } N\\ &amp;= D_0
+      + Ne^{\lambda t}\left(1-e^{-\lambda t} \right)&amp;&amp; \\ &amp;= D_0 + N
+      \left(e^{\lambda t}-1 \right)&amp;&amp; \text{Alternate form based on
+      current } N\\ \end{align}$$
+    </p>
+    <p>
+      An example of Uranium-238 (with a 4.47 billion year half-life) decaying
+      into Lead-206 is shown in Figure 2, where we assume \(D_0 = 0\). Notice
+      that the sum of these two curves is always 1.0.
+    </p>
+
+    <a href="img/half-life-lead-uranium.png"
+      ><img
+        class="center img-fluid"
+        src="/img/half-life-lead-uranium.png"
+        style="width: 650px"
+        alt="Graph of uranium-238 decaying into lead-206"
+    /></a>
+    <p class="caption">
+      <strong>Figure 2.</strong> The decay of Uranium-238 eventually leads to
+      Lead-206. There are many steps along the way, but they all have very short
+      half-lives compared to that of U-238 so they can be ignored on these long
+      (geologic) time scales. Find details of the decay chains
+      <a
+        href="http://metadata.berkeley.edu/nuclear-forensics/Decay%20Chains.html"
+        >here</a
+      >.
+    </p>
+
+    <hr />
+
+    <h1 id="references">See Also</h1>
+
+    <ol>
+      <li>
+        The
+        <a href="https://en.wikipedia.org/wiki/Radioactive_decay"
+          >Radioactive Decay [Wikipedia]</a
+        >
+        page has a much more detailed and thorough description of radioactive
+        decay, including situations with more complex decay chains.
+      </li>
+      <li>
+        <a href="http://atom.kaeri.re.kr/">KAERI Chart of the Nuclides</a> has
+        lots of half-lives you can look up
+      </li>
+    </ol>
+
+    <h1>References</h1>
+    <ol>
+      <li>
+        <a
+          href="https://www.cambridge.org/core/books/radiogenic-isotope-geology/309284FB422D5936CEDCDA7619EA3BEE"
+          >Dickin, A.P, 2005. &quot;Radiogenic Isotope Geology.&quot; United
+          Kingdom: University Press, Cambridge.</a
+        >
+      </li>
+    </ol>
+  </div>
+</div>

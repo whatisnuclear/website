@@ -9,14 +9,12 @@ author: nick
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-
-
 Elements are your basic chemical building blocks. They include things like hydrogen, oxygen, sodium,
 magnesium, iron, titanium..., anything on the periodic table of the elements. Each element on the
 periodic table has a different number of protons in its atomic nucleus (its dense center). Each
 element has a few varieties with the same number of protons, but different numbers of neutrons in
 the nucleus. All isotopes of a particular element act chemically-identically to each other. Figure 1
-shows the periodic table of the elements. Each element listed has many (between 2 and 20+) isotopes. 
+shows the periodic table of the elements. Each element listed has many (between 2 and 20+) isotopes.
 
 <div class="thumbnail">        
 <img class="img-fluid" src="/img/periodic_table_of_elements.png" alt="Periodic table of elements (from wikipedia)" title="Periodic table of the elements (from wikipedia.org)"/>
@@ -29,7 +27,7 @@ shows the periodic table of the elements. Each element listed has many (between 
 </div>
 
 Make sense? Great. One particularly relevant set of isotopes acting chemically similar but
-neutronically different are those of the element Uranium, shown below in Figure 3. 
+neutronically different are those of the element Uranium, shown below in Figure 3.
 
 <div class="thumbnail">        
 <img class="img-fluid" src="/img/isotopes-uranium-opt.svg" alt="Isotopes of Uranium" title="A few isotopes of Uranium" />
@@ -38,27 +36,25 @@ neutronically different are those of the element Uranium, shown below in Figure 
 
 <hr/>
 
-
 <h2 id="enrichment">Enrichment</h2>
 
-Now that you know what isotopes are, you can understand exactly what *enrichment* is.  
+Now that you know what isotopes are, you can understand exactly what _enrichment_ is.
 
 Natural Uranium is made up of 99.2745% U-238 and 0.720% U-235, with trace amounts of U-234. While
 U-238 usually stays together in a neutron field, U-235 readily splits, or fissions, in the presence
 of neutrons, releasing huge amounts of energy. This energy runs nuclear reactors and nuclear weapons
 alike. To create a chain reaction, you must <em>enrich</em> natural Uranium to contain more U-235. A
 typical nuclear reactor requires about 3.5% U-235, whereas a nuclear weapon requires more than 90%
-U-235. See figure below. 
+U-235. See figure below.
 
 <a href="{% link enrichment.md %}">Try our interactive enrichment calculator</a>
-
 
 Enrichment is a very difficult process, as the mass difference between each isotope is minuscule.
 The US developed enrichment at Oak Ridge during World War II as part of the Manhattan Project. The
 newsworthy item about it is that anyone who can enrich can create highly-enriched uranium, a good
 material with which to make nuclear weapons. Countries that want to have their own nuclear fuel
 manufacturing capabilities argue that they need enrichment plants, but opponents argue that they are
-just looking to produce nuclear weapons. 
+just looking to produce nuclear weapons.
 
 <p><img class="img-fluid" src="/img/enrichment.png" alt="Pie charts of different uranium enrichments" title="Pie charts of different uranium enrichments"/></p>
 
@@ -66,14 +62,12 @@ just looking to produce nuclear weapons.
 ## Grammar alert: Isotopes vs. Nuclides
 Isotope and nuclide are closely related terms. When one speaks of isotopes, they are referring to
 the set of nuclides that have the same number of protons. Nuclide is a more general term, referring
-to a nuclear species that may or may not be isotopes of a single element. Examples: 
+to a nuclear species that may or may not be isotopes of a single element. Examples:
 
-* "U-235 is my favorite isotope of Uranium."
-* "Cm-244, Pu-241, and Am-242m are lesser known fissile nuclides."
+- "U-235 is my favorite isotope of Uranium."
+- "Cm-244, Pu-241, and Am-242m are lesser known fissile nuclides."
 
-Many people use them interchangeably, including experts in the field. Just read the MCNP manual! 
-
-
+Many people use them interchangeably, including experts in the field. Just read the MCNP manual!
 
 <h1 id="references">See Also</h1>
 <ol>

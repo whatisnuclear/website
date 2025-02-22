@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Timeline of nuclear energy history
-description: Learn the history of nuclear energy here, in timeline form from Roentgen&rsquo;s discovery of x-rays, through the Manhattan project, up to Fukushima. 
+description: Learn the history of nuclear energy here, in timeline form from Roentgen&rsquo;s discovery of x-rays, through the Manhattan project, up to Fukushima.
 ---
+
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-
 # Timeline of Nuclear Energy History
-See our <a href="{% link history.md %}">history page</a> for further discussion of this timeline. 
+
+See our <a href="{% link history.md %}">history page</a> for further discussion of this timeline.
 This timeline is also <a href="/assets/nuclear_timeline.pdf">available as a PDF [5 MB]</a>.
 
 <div class="thumbnail">  
@@ -17,8 +18,8 @@ This timeline is also <a href="/assets/nuclear_timeline.pdf">available as a PDF 
 
 Visit <a href="/">our main page</a> to learn more about nuclear energy.
 
-
 # References
+
 <ul>
 <li>Richard Rhodes, &quot;The Making of the Atomic Bomb,&quot; Simon and Schuster, 1986.</li>
 <li>Alvin Weinberg, &quot;The First Nuclear Era,&quot; AIP Press, 1994.</li>

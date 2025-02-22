@@ -7,6 +7,7 @@ byline: true
 date: 2009-03-12
 image: /img/traveling_wave.png
 ---
+
 <div class="row">
 
 <div class="col-md-8" markdown="1">
@@ -21,7 +22,7 @@ reactors today run almost completely on matches (enriched uranium), which are ex
 in supply. Traveling-wave reactors only need one batch of matches before they can run on wax
 (depleted uranium) for a very long time. These reactors reach sustainability levels attainable by
 typical fast reactors, but do so without requiring the reprocessing plants that were the main
-concern when politicians effectively abandoned the US fast reactor program in the 1970s.  
+concern when politicians effectively abandoned the US fast reactor program in the 1970s.
 
 TWRs have been studied since the 1950s. More recently, the concept was studied in the form of the
 CANDLE reactor, which truly looks like a candle. TerraPower has begun an engineering design of a
@@ -30,16 +31,14 @@ manifestation of a TWR, meaning the fuel is slowly shuffled in a manner to keep 
 distribution stationary with time as opposed to stationary fuel with the power distribution moving
 through it.
 
-
-
 ## On this page:
+
 <ul>
 <li><a href="#motivation">What&rsquo;s the motivation behind traveling-wave reactors?</a></li>
 <li><a href="#howwork">How TWRs work</a></li>
 <li><a href="#whynew">Why have&rsquo;t we built them before?</a></li>
 <li><a href="#refs">See also</a></li>
 </ul>
-
 
 <h2 id="motivation">What is the motivation behind TWRs?</h2>
 Nuclear reactors are typically fueled with uranium that has been enriched from its natural form to
@@ -52,8 +51,7 @@ high fuel utilization -- something that historically requires reprocessing. Unfo
 reprocessing facility is another potential path towards nuclear weapons as a source of separated
 plutonium rather than highly-enriched uranium. Traveling-wave reactors are unique in their ability
 to reach highly-sustainable operation (meaning current uranium resources will last for thousands of
-years instead of hundreds with current technology) with minimal enrichment and without reprocessing. 
-
+years instead of hundreds with current technology) with minimal enrichment and without reprocessing.
 
 <h2 id="howwork">How do TWRs work?</h2>
 As you can learn <a href="{% link recycling.md %}">elsewhere on this site</a>, the poorly splitting
@@ -64,12 +62,12 @@ not require the plutonium to be removed from the reactor and refabricated into n
 effectively moves from the part of the core that&rsquo;s active to the part of the core that has
 just produced enough fuel to sustain a chain reaction -- hence the idea of a traveling wave. Note
 that from another frame of reference this is similar to moving freshly bred fuel into the active
-part of a core during a shuffling outage. 
+part of a core during a shuffling outage.
 
 Fission products that build up as heavy atoms split are often neutron absorbers, working against
 sustaining a chain reaction. To prevent these from bringing the reactions to stop, TWRs must be <a
 href="{% link fast-reactor.md %}">fast reactors</a>. Only they have the neutron economy to reach TWR
-operation.  
+operation.
 
 <h2 id="whynew">Why haven&rsquo;t we built TWRs before?</h2>
 TWRs are are unique among reactors in that they require a minimum fuel burnup in order to work.
@@ -81,7 +79,6 @@ so there is reason to believe it can go higher under the right conditions. TWRs 
 their minimum neutronic burnup be lower than the maximum radiation dose that the materials can
 handle. Publications from TerraPower LLC.  (see refs) suggest that near-term TWRs will require 30%
 burnup.
-
 
 <h2 id="refs">See Also</h2>
 

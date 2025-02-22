@@ -2,11 +2,11 @@
 layout: safety
 title: Don't self-sabotage during meetings
 description: >
-   Inefficiency and bad work can reduce morale and delay deployment of
-   low-carbon and low-pollution energy facilities, harming both institutional
-   efficacy as well as global public health. By understanding what professional
-   civilian saboteurs do, we can learn to recognize ineffective processes within
-   our own organizations.
+  Inefficiency and bad work can reduce morale and delay deployment of
+  low-carbon and low-pollution energy facilities, harming both institutional
+  efficacy as well as global public health. By understanding what professional
+  civilian saboteurs do, we can learn to recognize ineffective processes within
+  our own organizations.
 date: 2024-01-24
 byline: true
 author: nick
@@ -19,7 +19,7 @@ image: /img/cia-sabotage.jpg
 # What Happened
 
 In 1944, the OSS (predecessor to the CIA) published a booklet [1] describing how
-to introduce friction into professional settings via corporate sabotage. 
+to introduce friction into professional settings via corporate sabotage.
 {{page.description}}
 
 Some examples of sabotage included in the booklet as related to meetings
@@ -32,7 +32,6 @@ src="/img/cia-sabotage.jpg"  alt=""/></a>
 <figcaption class="figure-caption">Highlight from the 1944 OSS Sabotage booklet</figcaption>
 </figure>
 
-
 # Lessons
 
 1. Spend the time to include detailed meeting agendas in meeting invites, and stick to them
@@ -44,7 +43,6 @@ src="/img/cia-sabotage.jpg"  alt=""/></a>
    follow-up meeting's agenda and minutes.
 4. Ensure a meeting chair is empowered to cut off-topic discussions short, enforce
    adherence to the agenda, and make final decisions if there is serious conflict.
-
 
 # References and additional reading
 

@@ -9,11 +9,11 @@ date: 2015-04-25
 byline: true
 byline_extra: Bulk by Delvan Neville
 ---
+
 <div class="col-lg-8">
 
-
 <img class="float-end rounded" src="/img/fukushima_fish.png" alt="Are
-fish radioactive?"/>        
+fish radioactive?"/>
 
 <p>The Fukushima nuclear reactor accident released radioactive atoms
 into the environment. Many of these made it into the ocean and have been
@@ -28,7 +28,6 @@ involved in this research, provided the following summary of their
 measurements, and the health implications. He says:</p>
 
 <blockquote class="blockquote">
-
 
 <p>"The highest concentrations of Cs-137 and Cs-134 I've seen in albacore
 on our coast so far result in a CEDE (committed effective dose
@@ -61,7 +60,6 @@ any dose, no matter how small, carries some risk proportional to a dose
 large enough where we can measure an impact.  But biologically, that's
 not likely how it works.</p>
 
-
 </blockquote>
 <div class="blockquote-footer">
 Delvan Neville <cite title="Oregon State University">Oregon
@@ -72,7 +70,6 @@ State University</cite>
 factors used above are for a healthy adult (based on the NRC 10 CFR20
 Appendix B figures), and the numbers would be slightly different for the
 young, old, and unhealthy. </div>
-
 
 <h1 >References</h1> <ol> <li><a
 href="http://oregonstate.edu/ua/ncs/archives/2014/apr/study-finds-only-trace-levels-radiation-fukushima-albacore">OSU
@@ -87,6 +84,5 @@ us to post this, and to the Adkisson family for inspiring this summary
 and sending it to us! Also, thanks to a reddit user with an
 unpublishable username for asking the question that finally motivated us
 to post this.</p>
-
 
 </div>

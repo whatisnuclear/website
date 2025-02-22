@@ -1,19 +1,20 @@
-<hr />
+<hr>
 
-{% if page.comments %} Reader comments
-<div id="remark42"></div>
+{% if page.comments %}
+  Reader comments
+  <div id="remark42"></div>
 {% endif %}
 <footer class="text-center">
   <form action="https://duckduckgo.com/" id="search" method="get">
-    <input name="sites" type="hidden" value="whatisnuclear.com" />
+    <input name="sites" type="hidden" value="whatisnuclear.com">
     <input
       class="search"
       maxlength="300"
       name="q"
       placeholder="Search"
       type="text"
-    />
-    <input type="submit" value="Search" />
+    >
+    <input type="submit" value="Search">
   </form>
 
   <p>
@@ -24,9 +25,7 @@
     |
     <a href="{% link about.md %}">About</a>
     |
-    <a href="{% link feed.xml %}"
-      >RSS <i class="fa fa-rss" style="color: #ee802f"></i
-    ></a>
+    <a href="{% link feed.xml %}">RSS <i class="fa fa-rss" style="color: #ee802f"></i></a>
     |
     <a href="https://github.com/whatisnuclear/website">GitHub</a>
     |
@@ -43,8 +42,12 @@
     <a href="{% link terms.md %}">Terms</a>
   </p>
 </footer>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+  crossorigin="anonymous"
+></script>
 
-{% if page.layout == "gallery" %}
-<script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.2/dist/index.bundle.min.js"></script>
+{% if page.layout == 'gallery' %}
+  <script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.2/dist/index.bundle.min.js"></script>
 {% endif %}

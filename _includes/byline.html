@@ -1,15 +1,19 @@
 {% if page.byline %}
-<p class="mb-1"><em>
-    {% if page.author %}  By 
-    {% if site.data.authors[page.author] %}
-    {{ site.data.authors[page.author].display -}}, 
-    {% else %}
-    {{ page.author }},
-    {%- endif -%}
-    {%- endif -%}
-    {% if page.date %} {{ page.date | date: "%Y-%m-%d" }} {% endif %}
-    {% if page.byline_extra %}, {{ page.byline_extra -}} {% endif %}
-    {% if page.last_modified_at %}, Updated {{ page.last_modified_at | date: "%Y-%m-%d" }}{% endif %}
-    {% if page.reading_time %}, Reading time: {{ page.content | reading_time_as_i }} {% endif %}
-</em></p>
+  <p class="mb-1">
+    <em>
+      {% if page.author %}
+        By
+        {% if site.data.authors[page.author] %}
+          {{ site.data.authors[page.author].display -}}
+          ,
+        {% else %}
+          {{ page.author }},
+        {%- endif -%}
+      {%- endif -%}
+      {% if page.date %} {{ page.date | date: '%Y-%m-%d' }} {% endif %}
+      {% if page.byline_extra %}, {{ page.byline_extra -}}{% endif %}
+      {% if page.last_modified_at %}, Updated {{ page.last_modified_at | date: '%Y-%m-%d' }}{% endif %}
+      {% if page.reading_time %}, Reading time: {{ page.content | reading_time_as_i }} {% endif %}
+    </em>
+  </p>
 {% endif %}
