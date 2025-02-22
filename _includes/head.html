@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta content="width=device-width, initial-scale=1" name="viewport" />
 {%- capture fulltitle -%}
-{%- if page.title -%}{{ page.title | strip_html | escape }}{%- else -%}{{ site.title | escape }}{%- endif -%} {%- if page.subtitle -%}{%- unless page.title contains "?" %} &mdash;{%- endunless %} {{page.subtitle }}{%- endif -%}
+{%- if page.title -%}{{ page.title | strip_html | escape }}{%- else -%}{{ site.title | escape }}{%- endif -%} {%- if page.subtitle -%}{%- unless page.title contains "?" %} &ndash;{%- endunless %} {{page.subtitle }}{%- endif -%}
 {%- endcapture -%}
 <title>{{ fulltitle }}</title>
 <meta
