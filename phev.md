@@ -10,7 +10,6 @@ byline: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-
 <img class="float-end" style="width:250px;" src="/img/phev.png" alt="A plug-in hybrid-electric vehicle (PHEV)" title="A plug-in hybrid-electric vehicle(PHEV)" />
 Every so often, humanity comes up with great ideas. The plug-in hybrid electric vehicle (PHEV) is
 one of them, and here&rsquo;s why. PHEVs allow sustainable personal travel without compromising
