@@ -99,15 +99,33 @@ figure {
   height: 100%;
 }
 
-.carousel-control-prev,
-.carousel-control-next {
-  background-color: #cbcbcb;
-  width: 5vh;
+#newsCarousel .carousel-control-prev,
+#newsCarousel .carousel-control-next {
+  /* Move controls outside the carousel edges */
+  width: 10%; /* Increase clickable area */
+  left: -5%;  /* Push prev left of content */
+  right: -5%; /* Push next right of content (applied to next only below) */
+  z-index: 10; /* Ensure they’re above cards */
+  opacity: 0.7; /* Full opacity when visible */
 }
 
-.carousel-control-prev {
-  left: -60px;
+#newsCarousel .carousel-control-next {
+  right: -5%; /* Override default right positioning */
+  left: auto; /* Reset left for next button */
 }
-.carousel-control-next {
-  right: -60px;
+
+/* Enhance icon visibility */
+#newsCarousel .carousel-control-prev-icon,
+#newsCarousel .carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.7); /* Darker background */
+  border-radius: 50%; /* Circular shape */
+  width: 40px; /* Larger size */
+  height: 40px;
+  filter: none; /* Remove grayscale filter */
+}
+
+/* Hover effect for better UX */
+#newsCarousel .carousel-control-prev:hover .carousel-control-prev-icon,
+#newsCarousel .carousel-control-next:hover .carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.95); /* darker black on hover */
 }

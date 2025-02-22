@@ -65,14 +65,9 @@ last_modified_at: 2024-02-25
 
 <div class="col-12">
 
-<h2>Latest Updates:</h2>
+<h2>Latest Updates</h2>
 
 <div id="newsCarousel" class="carousel slide">
-<div class="carousel-indicators">
-  <button type="button" data-bs-target="#newsCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-  <button type="button" data-bs-target="#newsCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-  <button type="button" data-bs-target="#newsCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-</div>
 
 <div class="carousel-inner">
 {%- assign news = site.news | sort: 'date' | reverse -%}
@@ -86,7 +81,7 @@ last_modified_at: 2024-02-25
   {%- endif -%}
     <div class="row">
 {%- endif -%}
-      <div class="col-md-4 col-sm-12">
+      <div class="col-md-4 col-sm-12 ">
         <div class="card h-100">
           {%- if forloop.index > 3 -%}
           <img src="{{ post.image }}" class="card-img-top" alt="Header image for story">
@@ -108,7 +103,7 @@ last_modified_at: 2024-02-25
   </div>
 {%- endif -%}
 {%- endfor -%}
-</div>
+</div> <!-- end carousel-inner -->
 <button class="carousel-control-prev" type="button" data-bs-target="#newsCarousel" data-bs-slide="prev">
   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
   <span class="visually-hidden">Previous</span>
@@ -118,8 +113,9 @@ last_modified_at: 2024-02-25
   <span class="visually-hidden">Next</span>
 </button>
 </div>
-
 </div>
+
+<a href="{% link news.md %}" class="btn btn-success m-1" role="button"><i class="far fa-newspaper"></i> See all news</a>
 
 </main>
 
