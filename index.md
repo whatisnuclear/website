@@ -1,7 +1,7 @@
 ---
 layout: front
-title: What is nuclear?
-subtitle: Your direct connection to nuclear engineering expertise
+title: What is Nuclear?
+subtitle: Nuclear engineering expertise for everyone
 description: >
   Learn all about nuclear power directly from nuclear engineers, from the basics
   to detailed deep dives into types of reactors, nuclear history, economics, and
@@ -17,8 +17,8 @@ last_modified_at: 2024-02-25
     <img src="/img/reactor_web.svg" class="img-fluid w-50" alt="An icon of
     a nuclear reactor with an atom symbol on a cooling tower and a lightning bolt on the
     reactor." {% imagesize img/reactor_web.svg:props %} />
-      <h1 class="display-3 fw-bold">What is Nuclear?</h1>
-      <h3 class="fw-normal text-muted mb-3">Nuclear engineering expertise for everyone</h3>
+      <h1 class="display-3 fw-bold">{{ page.title }}</h1>
+      <h3 class="fw-normal text-muted mb-3">{{ page.subtitle }}</h3>
     </div>
   </div>
 
