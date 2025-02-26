@@ -186,12 +186,12 @@ off endless design-analysis loops.
 
 Still, I’d prefer the nuclear industry spend at least as much time looking at
 the successful nuclear buildouts in France, South Korea, and Japan as they do
-successful design in different industries. If we want to hang a poster on the
-wall, perhaps it should be of Shin Kori Unit 4, built in 2015 for approximately
-[$2,900/kW in 2025
+successful design in different industries. Those countries applied standard
+designs with the same utility, AE, EPC and regulator, to great effect. If we
+want to hang a poster on the wall, perhaps it should be of South Korea's Shin
+Kori Unit 4, built in 2015 for approximately [$2,900/kW in 2025
 dollars](https://www.sciencedirect.com/science/article/pii/S0301421516300106)
-(though certainly caveats are needed on the cost). Those countries applied
-standard designs with the same utility, AE, EPC and regulator, to great effect.
+(though certainly caveats are needed on the cost).
 
 If we could build a nuclear plant in the US today at that cost, [it would be
 cheaper to write off a brand new combined cycle natural gas plant, scrap it, and
