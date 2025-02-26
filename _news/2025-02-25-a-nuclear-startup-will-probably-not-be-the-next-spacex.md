@@ -23,7 +23,7 @@ comments: true
 <div class="col-md-8" markdown="1">
 
 <img src="/img/ethan_chaleff.jpg" class="rounded img-fluid w-25 float-end" alt="Headshot
-of Ethan Chaleff." {% imagesize img/reactor_web.svg:props %} />
+of Ethan Chaleff." {% imagesize img/ethan_chaleff.jpg:props %} />
 
 _This article represents my personal views of opinions and not those of my
 employer._
@@ -43,7 +43,7 @@ it was in 2008. As someone who was closely involved with several nuclear
 startups, has a background in aerospace engineering, worked with NASA on nuclear
 propulsion, and now works at a company building and maintaining reactors
 worldwide, I was inspired to to use my free time helping people understand
-something.(Shoutout to Nick Touran, Ph.D, P.E. for inspiration).
+something.(Shoutout to Nick Touran for inspiration).
 
 Unquestionably, radiation hazard (and public fear of radiation hazards) is a key
 difference between reactors and rockets; that said, I’m not going to address
@@ -143,23 +143,25 @@ could do this at all was they could literally bring rocket components into the
 house (or at least an assembly building). Even the largest components of each
 Falcon 9 can be shipped by truck, allowing manufacturing, transport, and
 delivery to happen in controlled, centralized locations from a finite number of
-suppliers. The fully integrated rocket is launched from where it is built or can
-be transported, allowing final integration to occur in a similarly controlled,
-consistent location.
+suppliers. The fully integrated rocket is launched from where it is built [or
+can be transported](https://images.app.goo.gl/eWtgkkmrgPM7x29m7), allowing final
+integration to occur in a similarly controlled, consistent location.
 
 Building a nuclear plant is a much bigger endeavor by a few orders magnitude.
 Each reactor must be integrated and operated in the same region it is used.
-While reactor vessels and other equipment for even GW-scale reactors can be
-readily shipped by truck or rail, most of the cost of building a nuclear plant
-is infrastructure-scale construction. Even the 2 MW reactors built by the Army
-in the 1960’s had sizeable earthworks, concrete shielding, control buildings,
-switchyards, cooling systems etc. Yes, if you can really shrink reactors down to
-where they fit on a truck (and concurrently figure out how to dramatically
-reduce the cost of fuel, site prep, construction, licensing, disposal, security,
-inspection, and maintenance) then building a thousand 1 MW reactors might be
-cheaper than building one 1 GW one. In that case, you can vertically integrate
-in the SpaceX model. But at least in the 1960’s when we tried, that didn’t pan
-out.
+While reactor vessels and other equipment for even GW-scale reactors [can be
+readily shipped by truck or rail](https://images.app.goo.gl/rBySAH1JTTAZrd4A9),
+most of the cost of building a nuclear plant is infrastructure-scale
+construction. Even the [2 MW reactors built by the Army in the
+1960’s](https://www.youtube.com/watch?v=4NH2AUAnzf8) had sizeable earthworks,
+concrete shielding, control buildings, switchyards, cooling systems etc. Yes, if
+you can really shrink reactors down to where they fit on a truck (and
+concurrently figure out how to dramatically reduce the cost of fuel, site prep,
+construction, licensing, disposal, security, inspection, and maintenance) then
+building a thousand 1 MW reactors might be cheaper than building one 1 GW one.
+In that case, you can vertically integrate in the SpaceX model. But at least in
+the [1960’s when we tried, that didn’t pan
+out](https://www.usace.army.mil/About/History/Exhibits/Nuclear-Power-Program/).
 
 For infrastructure-scale reactors, it is nearly impossible to vertically
 integrate the majority of your cost centers, and few utilities want to sign over
@@ -186,13 +188,15 @@ Still, I’d prefer the nuclear industry spend at least as much time looking at
 the successful nuclear buildouts in France, South Korea, and Japan as they do
 successful design in different industries. If we want to hang a poster on the
 wall, perhaps it should be of Shin Kori Unit 4, built in 2015 for approximately
-$2,900/kW in 2025 dollars (though certainly caveats are needed on the cost).
-Those countries applied standard designs with the same utility, AE, EPC and
-regulator, to great effect.
+[$2,900/kW in 2025
+dollars](https://www.sciencedirect.com/science/article/pii/S0301421516300106)
+(though certainly caveats are needed on the cost). Those countries applied
+standard designs with the same utility, AE, EPC and regulator, to great effect.
 
-If we could build a nuclear plant in the US today at that cost, it would be
+If we could build a nuclear plant in the US today at that cost, [it would be
 cheaper to write off a brand new combined cycle natural gas plant, scrap it, and
-build that nuclear plant.
+build that nuclear
+plant](https://research.google/pubs/analyzing-energy-technologies-and-policies-using-doscoe/).
 
 I think that’s cooler than landing a first stage.
 
