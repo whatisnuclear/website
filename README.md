@@ -33,3 +33,12 @@ or
     bundle exec jekyll serve
 
 you can test out your changes before submitting them.
+
+For linting, do:
+
+    npm install prettier
+    npm install --save-dev @shopify/prettier-plugin-liquid
+
+Then lint in your editor or with:
+
+    npx prettier -w .
