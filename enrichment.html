@@ -249,7 +249,7 @@ categories:
           value="32"
           step="1"
           min="1"
-          max="80"
+          max="100"
           class="form-range"
           id="eff"
         >
@@ -439,6 +439,7 @@ categories:
       let reload_waste = document.getElementById('waste-per-kwh');
       let reload_feed_mass = document.getElementById('reload-feed-mass');
 
+      // the pain we have to go through when not using a JS framework
       tails_assay.addEventListener('input', (e) => {
         computeFeed();
       });
@@ -450,6 +451,18 @@ categories:
       });
       feed_mass.addEventListener('input', (e) => {
         computeFeed();
+      });
+      feedcost.addEventListener('input', (e) => {
+        computeCost();
+      });
+      swucost.addEventListener('input', (e) => {
+        computeCost();
+      });
+      fabcost.addEventListener('input', (e) => {
+        computeCost();
+      });
+      convcost.addEventListener('input', (e) => {
+        computeCost();
       });
       range.addEventListener('input', (e) => {
         let val = parseFloat(e.target.value);
@@ -661,14 +674,22 @@ powerselect.addEventListener("change",(e)=>{
       function setInputVals() {
         // These can all be passed in as query params
         const input = new URLSearchParams(window.location.search);
-        tails_assay.value = input.get('tails-assay') || 0.25;
-        feed_assay.value = input.get('feed-assay') || 0.711;
-        number.value = input.get('enrich') || 4.0;
+        tails_assay.value = input.get('tails-assay') || tails_assay.value;
+        feed_assay.value = input.get('feed-assay') || feed_assay.value;
+        number.value = input.get('enrich') || number.value;
         range.value = number.value;
         setRange(number.value);
-        feed_mass.value = input.get('feed-mass') || 0;
-        product_mass.value = input.get('product-mass') || 1;
-        feed_mass.value = input.get('feed-mass') || 1;
+        feed_mass.value = input.get('feed-mass') || feed_mass.value;
+        product_mass.value = input.get('product-mass') || product_mass.value;
+        fabcost.value = input.get('fabcost') || fabcost.value;
+        swucost.value = input.get('swucost') || swucost.value;
+        feedcost.value = input.get('feedcost') || feedcost.value;
+        convcost.value = input.get('convcost') || convcost.value;
+        bunumber.value = input.get('bunumber') || bunumber.value;
+        burange.value = input.get('bunumber') || bunumber.value;
+        effnumber.value = input.get('efficiency') || effnumber.value;
+        effrange.value = input.get('efficiency') || effnumber.value;
+
         if (input.get('mode') == '0') {
           // check a checkbox
           prod_const.checked = true;
@@ -682,6 +703,12 @@ powerselect.addEventListener("change",(e)=>{
           ['enrich', number.value],
           ['feed-mass', feed_mass.value],
           ['product-mass', product_mass.value],
+          ['efficiency', effnumber.value],
+          ['fabcost', fabcost.value],
+          ['swucost', swucost.value],
+          ['feedcost', feedcost.value],
+          ['convcost', convcost.value],
+          ['bunumber', bunumber.value],
           ['mode', prod_const.checked ? '0' : '1'],
         ]);
 
