@@ -7,6 +7,8 @@ description: >
   page breaks down the facets of advancement that are being referred
   to.
 author: nick
+categories:
+  - deep dive
 byline: true
 date: 2023-04-16
 image: /img/reactor-type-graph.png

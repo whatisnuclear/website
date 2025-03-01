@@ -3,6 +3,9 @@ layout: default
 title: Nuclear Reactor Development History
 description: Learn about the wide variety of nuclear reactor development programs that have happened up to about 1970
 author: nick
+categories:
+  - deep dive
+  - history
 image: /img/nuclear_rocket.jpg
 date: 2020-01-12
 byline: true

@@ -1,0 +1,55 @@
+---
+layout: default
+title: Nuclear Power History Pages
+description: >
+  A listing of historical articles and resources covering
+  the vast and fascinating history of nuclear power.
+image: /img/dc_cook.jpg
+author: nick
+byline: false
+last_modified_at: 2024-02-25
+---
+<main>
+  <div class="col-12">
+    <div class="row">
+      {%- assign pages = site.pages
+        | where_exp: 'page', "page.categories
+      contains 'history'"
+        | sort: 'date'
+        | reverse
+      -%}
+      {%- for post in pages -%}
+        <div class="col-md-3 col-sm-12">
+          <a href="{{ post.url }}" style="text-decoration: none">
+            <div class="card h-100">
+              <div class="ratio ratio-16x9 overflow-hidden">
+                <img
+                  src="{{ post.image }}"
+                  class="card-img-top img-crop"
+                  alt="Header image for story"
+                >
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">{{ post.title }}</h5>
+                <p class="card-text">{{ post.description | truncatewords: 25 }}</p>
+                <button class="border-0">
+                  <img
+                    class="m-1"
+                    width="16"
+                    height="16"
+                    alt="Reactor icon"
+                    src="img/reactor_web.svg"
+
+                  >Read more
+                </button>
+              </div>
+              <div class="card-footer">
+                <small class="text-body-secondary">Posted on: {{ post.date | date: '%Y-%m-%d' }}</small>
+              </div>
+            </div>
+          </a>
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</main>

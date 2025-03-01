@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Notes on <em>Atoms for Peace and War</em>
-category: blog
 description: >
   Notes and summary for the official Atomic Energy Commission's history from 1953 to
   1961 covering the development of commercial nuclear power and also the new terrifying
   realities of thermonuclear weaponry.
 author: nick
 byline: true
+categories:
+  - history
+  - blog
 date: 2019-12-07
 image: /img/castle-bravo-if-on-dc.png
 ---

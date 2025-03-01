@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Admiral Rickover's 'Paper Reactor' memo
-category: blog
+categories:
+  - blog
+  - deep dive
 tags: museum
 description: >
   Rickover's famous speech about the distinction between academic (paper)

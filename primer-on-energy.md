@@ -1,8 +1,12 @@
 ---
 layout: default
 title: A primer on energy, greenhouse gas, intermittency, and nuclear
-category: blog
-description: An in-depth view of current world energy needs and the clean energy sources we have to meet them.
+categories:
+  - blog
+  - deep dive
+description: >
+  An in-depth view of current world energy needs and the clean energy sources we
+  have to meet them.
 author: nick
 published: true
 date: 2017-12-17

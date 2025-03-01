@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Notes on Alvin Weinberg's autobiography
-category: blog
+category:
+  - blog
+  - history
 description: Commentary on Weinberg's incredible life and advice about building the next nuclear era
 author: nick
 date: 2019-07-29

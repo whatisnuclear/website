@@ -37,13 +37,16 @@ indicated with <span class="badge bg-success">Free!</span>
 {% assign sorted = category.items | sort: 'date' | reverse %}
 
 <table class="table table-striped">
-<tr><th class="col-md-2">Author</th><th class="col-md-4">Title</th><th class="col-md-6">Description</th></tr>
+<tr><th class="col-md-2">Author</th><th class="col-md-4">Title</th><th class="col-md-1"></th><th class="col-md-5">Description</th></tr>
 {%- for item in sorted -%}
 <!-- tried using markdown table but no line wrap was killing me -->
 <tr>
 <td>{{ item.author }}</td>
 <td markdown="1">
-[{{ item.title }}]({{ item.url }}){% if item.free %}&nbsp;<span class="badge bg-success">Free!</span>{% endif %}
+[{{ item.title }}]({{ item.url }})
+</td>
+<td>
+{% if item.free %}&nbsp;<span class="badge bg-success">Free!</span>{% endif %}
 </td>
 <td markdown="1">
 {{ item.description }}{% if item.date %} ({{ item.date }}){% endif %}

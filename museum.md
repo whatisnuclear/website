@@ -5,6 +5,8 @@ description: Our collection of digitized nuclear reactor historical items
 author: nick
 image: /img/hallam-fuel.jpg
 permalink: /museum/
+categories:
+  - history
 date: 2024-06-01
 ---
 

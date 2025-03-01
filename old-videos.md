@@ -4,6 +4,8 @@ title: Historical Nuclear Energy Films
 description: A directory of historical nuclear energy films including digitization status and efforts
 image: /img/camp-century-pull.jpg
 byline: true
+categories:
+  - history
 author: nick
 reading_time: false
 comments: true

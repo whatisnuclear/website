@@ -7,6 +7,8 @@ description: >
   cost a lot, and what can be done to reduce the cost
 author: nick
 image: /img/us-nuclear-regulatory-institutions.jpg
+categories:
+  - deep dive
 date: 2020-01-26
 last_modified_at: 2023-11-28
 byline: true

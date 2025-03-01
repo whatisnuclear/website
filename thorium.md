@@ -2,8 +2,12 @@
 layout: default
 title: "What is thorium?"
 category: physics
-description: A discussion of the Thorium nuclear fuel cycle for nuclear reactors. How is it different from Uranium? What's so good about it? What are its downsides?
+description: >
+  A discussion of the Thorium nuclear fuel cycle for nuclear reactors. How is it
+  different from Uranium? What's so good about it? What are its downsides?
 author: nick
+categories:
+  - deep dive
 byline: true
 date: 2012-02-19
 last_modified_at: 2024-06-02

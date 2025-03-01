@@ -1,7 +1,9 @@
 ---
 layout: default
 title: How to Kill Nuclear Power With Good Intentions &mdash; A Primer
-category: blog
+categories:
+  - blog
+  - deep dive
 description: >
   We are all familiar with the arguments and tactics of the avowed opponents to nuclear
   power. However, various proponents espouse ideas, or tolerate inequities, which could

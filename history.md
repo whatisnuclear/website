@@ -1,8 +1,12 @@
 ---
 layout: default
 title: General History of Nuclear Energy
-category: concepts
-description: Learn the history of nuclear energy here, from Roentgen&rsquo;s discovery of x-rays, through the Manhattan project, up to Fukushima.
+categories:
+  - concepts
+  - history
+description: >
+  Learn the history of nuclear energy here, from Roentgen&rsquo;s discovery of
+  x-rays, through the Manhattan project, up to Fukushima.
 author: nick
 byline: true
 ---

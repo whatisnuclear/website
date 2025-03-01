@@ -7,6 +7,8 @@ description: >
   Power Facility, a Sodium Graphite Reactor that operated in Nebraska from
   1963 to 1964.
 byline: true
+categories:
+  - history
 reading_time: false
 date: 2023-06-03
 image: /img/hallam-decom/hallam-19-004.jpg
