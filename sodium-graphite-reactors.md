@@ -34,7 +34,7 @@ benefits:
   leaks in water-cooled reactors can be reduced/eliminated.
 
 - Graphite moderator allows reactors to work with very little fissile mass
-  and [enrichment]({% link enrichment.md %}).
+  and [enrichment]({% link enrichment.html %}).
   This allows operation with natural or low-enriched uranium, as opposed to
   sodium-cooled [fast reactors]({% link fast-reactor.md %}), which require ~12% or higher
   enrichment (or fissile concentration) to start up and maintain a neutron chain reaction.

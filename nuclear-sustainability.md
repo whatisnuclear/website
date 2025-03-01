@@ -55,7 +55,7 @@ transportation, industrial heat, etc.
 - A modern light-water reactor can pull an average of 60 MWd/kg out of its 4.8% enriched
   nuclear fuel ([AP1000 docs](https://aris.iaea.org/PDF/AP1000.pdf))
 - One kg of 4.8% enriched uranium requires 9.5 kgU natural uranium input to the enrichment
-  plant (and 7.8 SWU) (any old [SWU calculator]({% link enrichment.md %}?tails-assay=0.23&feed-assay=0.711&enrich=4.8&feed-mass=9.501&product-mass=1&mode=1))
+  plant (and 7.8 SWU) (any old [SWU calculator]({% link enrichment.html %}?tails-assay=0.23&feed-assay=0.711&enrich=4.8&feed-mass=9.501&product-mass=1&mode=1))
 - A breeder reactor with a recycling fuel cycle can pull [about 900 MWd/kg]({% link
     energy-density.md %}) out of non-enriched nuclear fuel (natural or depleted uranium or
   thorium)
