@@ -29,7 +29,9 @@
           >
         {%- endif -%}
         {%- if forloop.last -%}
-          <button class="btn btn-success m-2 disabled" type="button">Next &#10095;</button>
+          <button class="btn btn-success m-2 disabled" type="button">
+            Next &#10095;
+          </button>
         {%- else -%}
           {%- assign next = forloop.index0 | plus: 1 -%}
           {%- assign next_page = pages[next].url %}

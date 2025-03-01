@@ -1,4 +1,6 @@
 {
+  "tabWidth": 2,
+  "printWidth": 80,
   "plugins": ["@shopify/prettier-plugin-liquid"],
   "overrides": [
     {
@@ -9,6 +11,12 @@
     },
     {
       "files": "_layouts/*.html",
+      "options": {
+        "parser": "liquid-html"
+      }
+    },
+    {
+      "files": "*.html",
       "options": {
         "parser": "liquid-html"
       }

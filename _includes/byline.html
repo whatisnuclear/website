@@ -12,8 +12,12 @@
       {%- endif -%}
       {% if page.date %} {{ page.date | date: '%Y-%m-%d' }} {% endif %}
       {% if page.byline_extra %}, {{ page.byline_extra -}}{% endif %}
-      {% if page.last_modified_at %}, Updated {{ page.last_modified_at | date: '%Y-%m-%d' }}{% endif %}
-      {% if page.reading_time %}, Reading time: {{ page.content | reading_time_as_i }} {% endif %}
+      {% if page.last_modified_at -%}
+        , Updated {{ page.last_modified_at | date: '%Y-%m-%d' -}}
+      {%- endif %}
+      {% if page.reading_time -%}
+        , Reading time: {{ page.content | reading_time_as_i }}
+      {% endif %}
     </em>
   </p>
 {% endif %}

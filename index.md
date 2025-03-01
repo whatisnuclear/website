@@ -10,6 +10,7 @@ author: nick
 byline: false
 last_modified_at: 2024-02-25
 ---
+
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-body-tertiary">
   <div class="col-md-6 p-lg-3 mx-auto my-3">
     <img
@@ -32,7 +33,7 @@ last_modified_at: 2024-02-25
     <div class="container px-4 py-3">
       <div class="row g-4 py-3 row-cols-1 row-cols-lg-3">
         <div class="feature col">
-          <a href="{% link essentials.md %}">
+            <a href="{% link essentials.md %}" class="stretched-link"></a>
             <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
               <i class="fas fa-user-graduate"></i>
             </div>
@@ -42,7 +43,6 @@ last_modified_at: 2024-02-25
               types of nuclear reactors, reprocessing, thorium, fission vs. fusion, and nuclear waste.
             </p>
             <a href="{% link essentials.md %}" class="icon-link"> Start with the Essentials </a>
-          </a>
         </div>
         <div class="feature col">
           <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
@@ -86,8 +86,8 @@ last_modified_at: 2024-02-25
               <div class="row">
             {%- endif -%}
             <div class="col-md-4 col-sm-12 ">
-              <a href="{{ post.url }}" style="text-decoration: none;">
                 <div class="card h-100">
+                  <a href="{{ post.url}}" class="stretched-link"></a>
                   <img src="{{ post.image }}" class="card-img-top" alt="Header image for story">
                   <div class="card-body">
                     <h5 class="card-title">{{ post.title }}</h5>
@@ -100,7 +100,6 @@ last_modified_at: 2024-02-25
                     <small class="text-body-secondary">Posted on: {{ post.date | date: '%Y-%m-%d' }}</small>
                   </div>
                 </div>
-              </a>
             </div>
             {%- if mod == 0 or forloop.last -%}
               </div>
@@ -124,6 +123,7 @@ last_modified_at: 2024-02-25
     <a href="{% link news.md %}" class="btn btn-success m-1" role="button"
       ><i class="far fa-newspaper"></i> See all news</a
     >
+
   </main>
 
   <div class="row">
@@ -132,7 +132,8 @@ last_modified_at: 2024-02-25
     </div>
   </div>
 
-  {% include page_nav.html %}
-  {% include footer.html %}
+{% include page_nav.html %}
+{% include footer.html %}
+
 </div>
 <!-- end container -->

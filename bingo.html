@@ -5,17 +5,16 @@ description: Play Bingo for nuclear discussions, or make your own bingo card and
 author: nick
 image: /img/bingo.png
 ---
-
 <link
   href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900%7CMaterial+Icons"
   rel="stylesheet"
   type="text/css"
-/>
+>
 <link
   href="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.prod.css"
   rel="stylesheet"
   type="text/css"
-/>
+>
 <div id="q-app">
   <q-dialog v-model="openEditor">
     <q-card style="min-width: 350px">
@@ -79,8 +78,12 @@ image: /img/bingo.png
 </div>
 
 <!-- Add the following at the end of your body tag -->
-<script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.umd.prod.js"></script>
+<script
+  src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"
+></script>
+<script
+  src="https://cdn.jsdelivr.net/npm/quasar@2.0.4/dist/quasar.umd.prod.js"
+></script>
 
 <script>
   /*
@@ -95,46 +98,46 @@ image: /img/bingo.png
       });
 
       const originalWords = [
-        "Small Modular Reactor",
-        "HALEU",
-        "Onkalo Repository",
-        "Air pollution kills 8M/yr",
-        "Low carbon",
-        "Material footprint",
-        "Saved 1.8M lives",
-        "Fukushima",
-        "Chernobyl",
-        "Three Mile Island",
-        "What about the waste?",
-        "Our world in data",
-        "Gummy bears",
-        "Proliferation",
+        'Small Modular Reactor',
+        'HALEU',
+        'Onkalo Repository',
+        'Air pollution kills 8M/yr',
+        'Low carbon',
+        'Material footprint',
+        'Saved 1.8M lives',
+        'Fukushima',
+        'Chernobyl',
+        'Three Mile Island',
+        'What about the waste?',
+        'Our world in data',
+        'Gummy bears',
+        'Proliferation',
         "It's recyclable",
-        "Breeder reactors",
-        "Thorium",
-        "Molten Salt",
-        "Floating reactors",
-        "Uranium miners",
-        "Fusion",
-        "Germany",
-        "France",
-        "China",
-        "RBMK",
-        "PWR",
-        "BWR",
-        "Hanford",
-        "Radiation on flights",
-        "Banana",
-        "Jenkins firm low-carbon",
+        'Breeder reactors',
+        'Thorium',
+        'Molten Salt',
+        'Floating reactors',
+        'Uranium miners',
+        'Fusion',
+        'Germany',
+        'France',
+        'China',
+        'RBMK',
+        'PWR',
+        'BWR',
+        'Hanford',
+        'Radiation on flights',
+        'Banana',
+        'Jenkins firm low-carbon',
         "Sun doesn't always shine",
-        "Birds",
+        'Birds',
         "Wind doesn't always blow",
-        "LCOE",
-        "Economics",
-        "Vogtle",
+        'LCOE',
+        'Economics',
+        'Vogtle',
       ];
       const words = Vue.ref(originalWords);
-      const wordsText = Vue.ref("");
+      const wordsText = Vue.ref('');
       const openEditor = Vue.ref(false);
       const selected = Vue.ref([
         [0, 0, 0, 0, 0],
@@ -151,9 +154,9 @@ image: /img/bingo.png
         bingo.value = checkBingo();
         if (bingo.value) {
           Quasar.Notify.create({
-            message: "BINGO!",
-            caption: "Congrats!",
-            type: "positive",
+            message: 'BINGO!',
+            caption: 'Congrats!',
+            type: 'positive',
             timeout: 1000,
           });
         }
@@ -161,8 +164,8 @@ image: /img/bingo.png
 
       function getColor(row, col) {
         return selected.value[row - 1][col - 1] == 0
-          ? "primary"
-          : "deep-orange";
+          ? 'primary'
+          : 'deep-orange';
       }
 
       function clear() {
@@ -230,7 +233,7 @@ image: /img/bingo.png
       }
 
       function edit() {
-        wordsText.value = words.value.join("\n");
+        wordsText.value = words.value.join('\n');
         openEditor.value = true;
       }
       function updatePhrases() {
@@ -240,23 +243,23 @@ image: /img/bingo.png
       function loadPhrases() {
         // allow passing phrases in on URL
         let urlParams = new URLSearchParams(window.location.search);
-        if (urlParams.has("p")) {
-          words.value = decodeURIComponent(atob(urlParams.get("p"))).split("|");
+        if (urlParams.has('p')) {
+          words.value = decodeURIComponent(atob(urlParams.get('p'))).split('|');
         }
       }
       function sharePhrases() {
         // build sharable URLs with custom choices
-        let phrases = words.value.join("|");
+        let phrases = words.value.join('|');
         // strip off the existing search terms out of the location
         let path =
           window.location.origin +
           window.location.pathname +
-          "?p=" +
+          '?p=' +
           encodeURIComponent(btoa(phrases));
         Quasar.copyToClipboard(path).then(() => {
           Quasar.Notify.create({
-            message: "Copied sharable URL to clipboard",
-            type: "positive",
+            message: 'Copied sharable URL to clipboard',
+            type: 'positive',
           });
         });
       }
@@ -285,5 +288,5 @@ image: /img/bingo.png
   });
 
   app.use(Quasar);
-  app.mount("#q-app");
+  app.mount('#q-app');
 </script>

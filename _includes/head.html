@@ -43,7 +43,10 @@
   content="{{ fulltitle }}"
   property="og:title"
 >
-<meta content="{{ site.url }}{{ page.image | default: '/img/reactor.png' }}" property="og:image">
+<meta
+  content="{{ site.url }}{{ page.image | default: '/img/reactor.png' }}"
+  property="og:image"
+>
 {% if page.summary %}
   <meta content="{{ page.summary }}" property="og:description">
 {%- elsif page.description -%}

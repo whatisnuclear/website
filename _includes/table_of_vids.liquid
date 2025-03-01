@@ -12,7 +12,9 @@
         <div class="col">NARA ID</div>
         <div class="col">
           {%- if vid.naid -%}
-            <a href="https://catalog.archives.gov/id/{{ vid.naid }}">{{ vid.naid }}</a>
+            <a href="https://catalog.archives.gov/id/{{ vid.naid }}">
+              {{- vid.naid -}}
+            </a>
           {%- else -%}
             -
           {%- endif %}
