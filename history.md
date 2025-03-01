@@ -9,6 +9,7 @@ description: >
   x-rays, through the Manhattan project, up to Fukushima.
 author: nick
 byline: true
+image: /img/nuclear_timeline_sm.jpg
 ---
 
 <div class="row">
@@ -23,71 +24,105 @@ link reactor-history.md %}).
 
 ## Early discoveries
 
-No scientific progress ever really _starts_. Rather, it builds on the work of countless other
-discoveries. Since we have to start somewhere, this story will start in Germany, in 1895, where a
-fellow named Roentgen was experimenting with cathode rays in a glass tube that he had sucked the air
-out of. At one point, he had the device covered but noticed that the photographic plates off to the
-side were lighting up when the device was energized. He realized that he was looking at a new kind
-of ray, and called it what any reasonable physicist would call an unknown: the X-ray. He
-systematically studied these rays and took the first x-ray photo of his wife&rsquo;s hand two weeks
-later, thereby becoming the father of modern medical diagnostics.
+No scientific progress ever really _starts_. Rather, it builds on the work of
+countless other discoveries. Since we have to start somewhere, this story will
+start in Germany, in 1895, where a fellow named Roentgen was experimenting with
+cathode rays in a glass tube that he had sucked the air out of. At one point, he
+had the device covered but noticed that the photographic plates off to the side
+were lighting up when the device was energized. He realized that he was looking
+at a new kind of ray, and called it what any reasonable physicist would call an
+unknown: the X-ray. He systematically studied these rays and took the first
+x-ray photo of his wife&rsquo;s hand two weeks later, thereby becoming the
+father of modern medical diagnostics.
 
-Soon after in France, in 1896, a guy named Becquerel noticed that if he left uranium salts sitting on photographic plates, they would expose even though
-no cathode ray tube was energized. The energy must have been coming from inside the salts themselves. Marie Curie and her husband Pierre studied
-the phenomenon and isolated two new elements that exhibited this spontaneous energy production: Polonium and Radium. They named the phenomenon _radioactivity_.
+Soon after in France, in 1896, a guy named Becquerel noticed that if he left
+uranium salts sitting on photographic plates, they would expose even though no
+cathode ray tube was energized. The energy must have been coming from inside the
+salts themselves. Marie Curie and her husband Pierre studied the phenomenon and
+isolated two new elements that exhibited this spontaneous energy production:
+Polonium and Radium. They named the phenomenon _radioactivity_.
 
-In England, Ernest Rutherford starts studying radioactivity and discovers that there are two types of rays that come out that are different from x-rays.
-He calls them alpha- and beta- radiation. He later discovers the shocking fact that the vast majority of the mass of atoms is concentrated in their centers,
-and thus discovers the atomic nucleus. He is widely regarded today as the father of nuclear physics. He later discovers gamma radiation. In 1920, he theorizes the existence of a neutral
-particle in the nucleus called a neutron, though there is no evidence that neutrons exist yet.
+In England, Ernest Rutherford starts studying radioactivity and discovers that
+there are two types of rays that come out that are different from x-rays. He
+calls them alpha- and beta- radiation. He later discovers the shocking fact that
+the vast majority of the mass of atoms is concentrated in their centers, and
+thus discovers the atomic nucleus. He is widely regarded today as the father of
+nuclear physics. He later discovers gamma radiation. In 1920, he theorizes the
+existence of a neutral particle in the nucleus called a neutron, though there is
+no evidence that neutrons exist yet.
 
-In 1932, Chadwick reads some published results from the Curie&rsquo;s kid, Irene Joliot-Curie that says gamma radiation was found to knock protons out
-of wax. Disbelieving, he suspects they are seeing Rutherford&rsquo;s neutrons and does experiments to prove this, thus discovering the neutron.
+In 1932, Chadwick reads some published results from the Curie&rsquo;s kid, Irene
+Joliot-Curie that says gamma radiation was found to knock protons out of wax.
+Disbelieving, he suspects they are seeing Rutherford&rsquo;s neutrons and does
+experiments to prove this, thus discovering the neutron.
 
 ## Fission and the bomb
 
-With neutrons around, everyone&rsquo;s shooting them at various nuclides. Soon enough, Hahn and Strassman shoot them at uranium atoms and see some strange
-behavior which Lise Meitner and her nephew Frisch identify as the splitting of the atom, releasing much energy. They name it fission, after binary fission
-in biology.
+With neutrons around, everyone&rsquo;s shooting them at various nuclides. Soon
+enough, Hahn and Strassman shoot them at uranium atoms and see some strange
+behavior which Lise Meitner and her nephew Frisch identify as the splitting of
+the atom, releasing much energy. They name it fission, after binary fission in
+biology.
 
-Szilard recognizes fission as a potential way to form a chain reaction (which he had been considering for a long time). He and Fermi do some neutron
-multiplication studies and see that it is indeed possible. They go home, knowing that the world is about to change forever.
+Szilard recognizes fission as a potential way to form a chain reaction (which he
+had been considering for a long time). He and Fermi do some neutron
+multiplication studies and see that it is indeed possible. They go home, knowing
+that the world is about to change forever.
 
-Szilard, Wigner, and Teller write a letter to President Roosevelt, warning of nuclear weapons, and have Einstein sign it and send it (he was more famous).
-Roosevelt authorizes a small study into uranium. In 1942, Fermi successfully created the first man-made nuclear chain reaction in a squash court under
-the stadium at the University of Chicago. The Manhattan project kicked into full gear. Two types of bombs were pursued simultaneously, one made with
-enriched uranium, and the other made with plutonium. Giant secret cities were built very quickly. The one in Oak Ridge, TN
-had a reactor that created the first gram-quantities of plutonium for study, but its main task was to enrich uranium. The one in Hanford, WA is the site
-of plutonium production reactors (the first high-power nuclear reactors) and plutonium extraction chemistry plants. Another, in Los Alamos, NM is
-the site where the technology that turns weapons materials into weapons is developed. Both paths to the bomb are successful. The more uncertain design,
-the plutonium implosion device (like Fat Man) is successfully tested at the Trinity site in New Mexico in July, 1945.
+Szilard, Wigner, and Teller write a letter to President Roosevelt, warning of
+nuclear weapons, and have Einstein sign it and send it (he was more famous).
+Roosevelt authorizes a small study into uranium. In 1942, Fermi successfully
+created the first man-made nuclear chain reaction in a squash court under the
+stadium at the University of Chicago. The Manhattan project kicked into full
+gear. Two types of bombs were pursued simultaneously, one made with enriched
+uranium, and the other made with plutonium. Giant secret cities were built very
+quickly. The one in Oak Ridge, TN had a reactor that created the first
+gram-quantities of plutonium for study, but its main task was to enrich uranium.
+The one in Hanford, WA is the site of plutonium production reactors (the first
+high-power nuclear reactors) and plutonium extraction chemistry plants. Another,
+in Los Alamos, NM is the site where the technology that turns weapons materials
+into weapons is developed. Both paths to the bomb are successful. The more
+uncertain design, the plutonium implosion device (like Fat Man) is successfully
+tested at the Trinity site in New Mexico in July, 1945.
 
-The decision is made to drop Little Boy and Fat Man on Hiroshima and Nagasaki, Japan on August 6th and 9th, 1945. The cities are devastated, with up to
-250,000 people dead. Japan surrenders unconditionally 6 days later, on August 15th, 1945. This is the first time the public realizes that the US has
-been developing bombs.
+The decision is made to drop Little Boy and Fat Man on Hiroshima and Nagasaki,
+Japan on August 6th and 9th, 1945. The cities are devastated, with up to 250,000
+people dead. Japan surrenders unconditionally 6 days later, on August 15th, 1945. This is the first time the public realizes that the US has been developing
+bombs.
 
 ## Fission energy expands in application
 
-An experimental liquid-metal cooled reactor in Idaho called EBR-I was attached to a generator in 1951, producing the first nuclear-generated
-electricity. But before civilian power plants came to be, Admiral Rickover pushed to use reactors to power submarines, since they wouldn&rsquo;t
-need to refuel, or to use oxygen for combustion. The USS Nautilus launched in 1954 as the first nuclear-powered submarine. Soon after,
-the Soviet Union opens the first non-military, electricity producing reactor. Based on the submarine reactor design, the Shippingport reactor
-opens in 1957 as the first commercial reactor in the USA.
+An experimental liquid-metal cooled reactor in Idaho called EBR-I was attached
+to a generator in 1951, producing the first nuclear-generated electricity. But
+before civilian power plants came to be, Admiral Rickover pushed to use reactors
+to power submarines, since they wouldn&rsquo;t need to refuel, or to use oxygen
+for combustion. The USS Nautilus launched in 1954 as the first nuclear-powered
+submarine. Soon after, the Soviet Union opens the first non-military,
+electricity producing reactor. Based on the submarine reactor design, the
+Shippingport reactor opens in 1957 as the first commercial reactor in the USA.
 
 ## Nuclear energy expands and stagnates
 
-Through the 60s and 70s, lots of nuclear reactors are built for making electricity, using designs very similar to those made for the submarines.
-They work well and produce cheap, emission-free electricity with a very low mining and transportation footprint. A nuclear powered future is envisioned
-by many. In 1974, France decided to make a major push for nuclear energy, and ended up with 75% of their electricity coming from nuclear reactors. The US
-built 104 reactors, and got about 20% of its electricity from them. Eventually, labor shortages and construction delays started bringing the cost of
-nuclear reactors up, slowing their growth.
+Through the 60s and 70s, lots of nuclear reactors are built for making
+electricity, using designs very similar to those made for the submarines. They
+work well and produce cheap, emission-free electricity with a very low mining
+and transportation footprint. A nuclear powered future is envisioned by many. In
+1974, France decided to make a major push for nuclear energy, and ended up with
+75% of their electricity coming from nuclear reactors. The US built 104
+reactors, and got about 20% of its electricity from them. Eventually, labor
+shortages and construction delays started bringing the cost of nuclear reactors
+up, slowing their growth.
 
-The 1979 Three Mile Island accident and the 1986 Chernobyl accident further slowed the deployment of nuclear reactors. Tighter regulations brought
-costs higher. The 1986 passive safety tests at EBR-II prove that advanced reactor designs (besides the ones originally used to make submarines)
-can be substantially safer. These tests have major failure occur with no control rods inserted and the reactors shut themselves down automatically.
+The 1979 Three Mile Island accident and the 1986 Chernobyl accident further
+slowed the deployment of nuclear reactors. Tighter regulations brought costs
+higher. The 1986 passive safety tests at EBR-II prove that advanced reactor
+designs (besides the ones originally used to make submarines) can be
+substantially safer. These tests have major failure occur with no control rods
+inserted and the reactors shut themselves down automatically.
 
-In 1994, the Megatons to Megawatts treaty with Russia is signed to downblend nuclear warheads into reactor fuel. Eventually, 10% of US electricity comes from dismantled
-nuclear weapons.
+In 1994, the Megatons to Megawatts treaty with Russia is signed to downblend
+nuclear warheads into reactor fuel. Eventually, 10% of US electricity comes from
+dismantled nuclear weapons.
 
 In the late &rsquo;90s and &rsquo;00s, the phenomenal safety record of the US commercial reactor fleet (0 deaths) and smooth operation of reactors
 combined with ongoing worries of global climate change due to carbon emissions brings about substantial talk of a &quot;nuclear renaissance&quot;,

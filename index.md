@@ -32,39 +32,55 @@ last_modified_at: 2024-02-25
   <main>
     <div class="container px-4 py-3">
       <div class="row g-4 py-3 row-cols-1 row-cols-lg-3">
-        <div class="feature col">
+        <div class="col feature">
+          <div class="card border-0">
             <a href="{% link essentials.md %}" class="stretched-link"></a>
             <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
               <i class="fas fa-user-graduate"></i>
+            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">Essentials</h3>
             </div>
-            <h3 class="fs-2 text-body-emphasis">Nuclear Essentials</h3>
             <p>
               Start here to learn more about nuclear power's capabilities and limitations. You'll learn about different
               types of nuclear reactors, reprocessing, thorium, fission vs. fusion, and nuclear waste.
             </p>
             <a href="{% link essentials.md %}" class="icon-link"> Start with the Essentials </a>
+          </div>
         </div>
-        <div class="feature col">
+        <div class="col feature">
+          <div class="card border-0">
+          <a href="{% link deep-dives.html %}" class="stretched-link"></a>
           <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
             <i class="fas fa-book-open"></i>
-            <svg class="bi" width="1em" height="1em">
-              <use xlink:href="#people-circle"/>
-            </svg>
+            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">Deep Dives</h3>
           </div>
-          <h3 class="fs-2 text-body-emphasis">Nuclear Deep Dives</h3>
-          <p>Sharpen up on nuclear power economics, the history of nuclear reactor development, and more</p>
-          <a href="{% link reactor-history.md %}" class="icon-link"> Read some early reactor development history </a>
+          <p>Get nuanced by reading about nuclear power economics, thorium, the Rickover memo, and beyond</p>
+          <a href="{% link deep-dives.html %}" class="icon-link">Dive deeper</a>
         </div>
-        <div class="feature col">
+        </div>
+        <div class="col feature">
+          <div class="card border-0">
+          <a href="{% link histories.html %}" class="stretched-link"></a>
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
+            <i class="fas fa-history"></i>
+            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">History</h3>
+          </div>
+          <p>Learn about the amazing things done in the first nuclear era, and how they 
+          can help us proceed today.</p>
+          <a href="{% link histories.html %}" class="icon-link">Take me back</a>
+        </div>
+        </div>
+        <div class="col">
+          <div class="card border-0">
+          <a href="{% link reference.html %}" class="stretched-link"></a>
           <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
             <i class="far fa-folder-open"></i>
+            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">Reference</h3>
           </div>
-          <h3 class="fs-2 text-body-emphasis">Reference</h3>
           <p>
-            We also feature large amounts of reference information such as
-            <a href="{% link calcs.md %}">Calculations</a> and more.
+            We also feature large amounts of useful reference information and calculators. 
           </p>
-          <a href="{% link nuclear-reading-list.md %}" class="icon-link"> See the Nuclear Reading List </a>
+          <a href="{% link reference.html %}" class="icon-link">Get crazy</a>
+        </div>
         </div>
       </div>
     </div>

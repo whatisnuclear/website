@@ -7,6 +7,8 @@ author: nick
 layout: default
 date: 2022-11-01
 image: /img/beirvii.png
+categories:
+  - reference
 ---
 
 <div class="row">

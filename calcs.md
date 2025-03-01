@@ -6,6 +6,8 @@ description: >
 author: nick
 image: /img/equations-wow.png
 date: 2023-04-29
+categories:
+  - reference
 byline: false
 permalink: /calcs/
 # this should replace the factoids page.

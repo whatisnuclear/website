@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Computing the energy density of nuclear fuel
-category: concepts
 description: How to compute energy density of nuclear fuel
 author: nick
 date: 2020-10-30
 mathjax: true
 byline: true
+categories:
+  - reference
+image: /img/reactor_200.png
 ---
 
 <div class="row">

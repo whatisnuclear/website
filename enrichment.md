@@ -9,6 +9,8 @@ author: nick
 layout: default
 date: 2022-10-27
 image: /img/enrichment-ss.png
+categories:
+  - reference
 ---
 
 <div class="row">

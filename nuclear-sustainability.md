@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Nuclear fuel will last us for 4 billion years
-category: blog
+categories:
+  - reference
 description: >
   Some people claim nuclear fuel is inexhaustible and circular, others say
   we'll run out soon. We do the math. Turns out, it's roughly as inexhaustible as sunlight.

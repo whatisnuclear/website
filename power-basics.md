@@ -2,6 +2,9 @@
 layout: default
 title: Power and Energy
 description: The difference between power and energy, plus what nuclear burnup is.
+categories:
+  - reference
+image: img/waterTower.png
 ---
 
 <div class="row">

@@ -2,6 +2,9 @@
 layout: default
 title: Fun Nuclear Factlets
 description: Little facts about nuclear energy.
+categories:
+  - reference
+image: /img/aircraft_carriers_on_burj_dubai.jpg
 ---
 
 <div class="row">

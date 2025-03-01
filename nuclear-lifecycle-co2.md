@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Nuclear energy is low-carbon energy
-category: blog
+categories:
+  - reference
 description: >
   The nuclear fission reactions that underlie nuclear energy don't create any CO₂
   whatsoever. However, some is emitted during planning, mining, construction,

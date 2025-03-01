@@ -11,6 +11,7 @@ author: nick
 published: true
 date: 2017-12-17
 byline: true
+image: /img/lifecycle-carbon-emissions-nolabel.png
 ---
 
 <div class="row">

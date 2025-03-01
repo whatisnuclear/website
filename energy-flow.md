@@ -6,6 +6,8 @@ layout: default
 date: 2020-06-03
 byline: true
 image: /img/energy-flow-sm.jpg
+categories:
+  - deep dive
 ---
 
 <div class="row">

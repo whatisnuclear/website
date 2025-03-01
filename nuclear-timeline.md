@@ -2,6 +2,9 @@
 layout: default
 title: Timeline of nuclear energy history
 description: Learn the history of nuclear energy here, in timeline form from Roentgen&rsquo;s discovery of x-rays, through the Manhattan project, up to Fukushima.
+categories:
+  - history
+image: /img/nuclear_timeline_sm.jpg
 ---
 
 <div class="row">

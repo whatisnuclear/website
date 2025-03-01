@@ -5,6 +5,8 @@ description: These famous people have said positive things about nuclear energy
 image: /img/quotes/arnold.jpg
 byline_extra: Contributions from many on github
 byline: true
+categories:
+  - reference
 ---
 
 <div class="row">
