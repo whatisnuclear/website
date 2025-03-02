@@ -147,7 +147,8 @@ categories:
     </div>
 
     <div class="row">
-      <div class="col-12" id="plot"></div>
+      <div class="col-md-6" id="plot"></div>
+      <div class="col-md-6" id="plot-cost"></div>
     </div>
 
     <div class="row">
@@ -391,6 +392,24 @@ categories:
         >
       </div>
     </div>
+    <div class="row">
+      <label for="case-title" class="form-label">Case title (for plot)</label>
+      <div class="col-4">
+        <input
+          type="text"
+          value="Case 1"
+          placeholder="Case title"
+          class="form-control"
+          id="case-title"
+        >
+      </div>
+      <div class="col-4">
+        <button id="add" class="btn btn-primary">
+          <i class="fas fa-plus"></i> Add another case to cost plot for
+          comparison
+        </button>
+      </div>
+    </div>
 
     Abbrevs:
 
@@ -438,6 +457,9 @@ categories:
       let reload_conv_cost = document.getElementById('reload-conv-cost');
       let reload_waste = document.getElementById('waste-per-kwh');
       let reload_feed_mass = document.getElementById('reload-feed-mass');
+      let caseTitle = document.getElementById('case-title');
+      let addBtn = document.getElementById('add');
+      let caseNum = 0; // cost plot index
 
       // the pain we have to go through when not using a JS framework
       tails_assay.addEventListener('input', (e) => {
@@ -534,6 +556,21 @@ categories:
         effnumber.value = e.target.value;
         effrange.value = e.target.value;
         computeCost();
+      });
+      caseTitle.addEventListener('input', (e) => {
+        // update currently plotted case title
+        let newData = buildCostData();
+        Plotly.react('plot-cost', newData, layoutCost);
+      });
+      add.addEventListener('click', (e) => {
+        caseNum++;
+        caseTitle.value = `Case ${caseNum + 1}`;
+        for (trace of dataCost) {
+          trace.x.push(trace.x[caseNum - 1]);
+          trace.y.push(trace.y[caseNum - 1]);
+        }
+        let newData = buildCostData();
+        Plotly.react('plot-cost', newData, layoutCost);
       });
 
       /*
@@ -647,6 +684,8 @@ powerselect.addEventListener("change",(e)=>{
         reload_conv_cost.value = conv_cost_per_kwe.toFixed(3);
         reload_waste.value = (prod_kg_per_kwe * 1000000).toFixed(3);
         reload_feed_mass.value = (feed_per_kwe * 1000000).toFixed(3);
+        let newData = buildCostData();
+        Plotly.react('plot-cost', newData, layoutCost);
       }
 
       function vx(x) {
@@ -739,6 +778,9 @@ powerselect.addEventListener("change",(e)=>{
         yaxis: {
           type: 'log',
           autorange: true,
+          title: {
+            text: 'Mass (kg or tonne)',
+          },
         },
         autosize: true,
         margin: {
@@ -748,13 +790,73 @@ powerselect.addEventListener("change",(e)=>{
 
       Plotly.newPlot('plot', data, layout);
 
+      // cost breakdown plot
+      var feedTrace = {
+        x: [caseTitle.value],
+        y: [1.0],
+        name: 'Feed',
+        type: 'bar',
+      };
+      var swuTrace = {
+        x: [caseTitle.value],
+        y: [4.0],
+        name: 'SWU',
+        type: 'bar',
+      };
+      var convTrace = {
+        x: [caseTitle.value],
+        y: [6.0],
+        name: 'Conversion',
+        type: 'bar',
+      };
+      var fabTrace = {
+        x: [caseTitle.value],
+        y: [9.0],
+        name: 'Fabrication',
+        type: 'bar',
+      };
+      var layoutCost = {
+        barmode: 'stack',
+        yaxis: {
+          type: 'lin',
+          autorange: true,
+          title: {
+            text: 'Fuel reload cost $/kWh',
+          },
+        },
+        autosize: true,
+        margin: {
+          t: 0,
+        },
+      };
+      // make initial cost plot
+      var dataCost = [feedTrace, swuTrace, convTrace, fabTrace];
+      Plotly.newPlot('plot-cost', dataCost, layoutCost);
+
       window.onresize = function () {
         Plotly.relayout('plot', {});
+        Plotly.relayout('plot-cost', {});
       };
 
       // compute initial values
       setInputVals();
       computeFeed();
+
+      function buildCostData() {
+        feedTrace.x[caseNum] = caseTitle.value;
+        feedTrace.y[caseNum] = parseFloat(reload_feed_cost.value);
+        swuTrace.x[caseNum] = caseTitle.value;
+        swuTrace.y[caseNum] = parseFloat(reload_swu_cost.value);
+        convTrace.x[caseNum] = caseTitle.value;
+        convTrace.y[caseNum] = parseFloat(reload_conv_cost.value);
+        fabTrace.x[caseNum] = caseTitle.value;
+        fabTrace.y[caseNum] = parseFloat(reload_fab_cost.value);
+        // make copy of data so plot updates... (internal caching?)
+        let updatedData = JSON.parse(JSON.stringify(dataCost));
+        return updatedData;
+      }
+      let newData = buildCostData();
+      Plotly.react('plot-cost', newData, layoutCost);
     </script>
   </div>
 </div>
