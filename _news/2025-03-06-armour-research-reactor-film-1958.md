@@ -37,7 +37,8 @@ This is film [88092]({% link old-videos.md
 %}#armour-research-reactor) in our catalog.
 
 A very special thanks to <a href="https://veriten.com">Veriten</a> for
-sponsoring the digitization of this film.
+sponsoring the digitization of this film. They actually did a [whole Gener8 podcast
+episode](https://veriten.com/stream/gener8-031/) where you can along with the hosts and Nick.
 
 The Armour Research Reactor (ARR)'s license application was submitted on Jan 7, 1955. The construction permit was issued on March 28, 1955, and the license was
 issued on December 5, 1958 ([ref](https://www.osti.gov/servlets/purl/1364041)).
