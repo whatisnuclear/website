@@ -199,6 +199,8 @@ categories:
           id="swu-cost"
         >
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-3">
         <label for="fab-cost" class="form-label"
           >Fabrication cost ($/kgHM)</label
@@ -210,6 +212,17 @@ categories:
           class="form-control"
           id="fab-cost"
         >
+      </div>
+      <div class="col-md-3" markdown="1">
+        <label for="fab-select" class="form-label">Fabrication preset</label>
+        <select class="form-select" aria-label="Fab Presets" id="fab-select">
+          <option value="">Choose fabrication preset</option>
+          <option value="200">CANDU UO2 ($200/kg)</option>
+          <option value="300" selected>LWR UO2 ($300/kg)</option>
+          <option value="600">Fresh metallic ($600/kg)</option>
+          <option value="2000">MOX ($2,000/kg)</option>
+          <option value="7000">TRISO ($7,000/kg)</option>
+        </select>
       </div>
     </div>
 
@@ -449,6 +462,7 @@ categories:
       let feedcost = document.getElementById('feed-cost');
       let swucost = document.getElementById('swu-cost');
       let fabcost = document.getElementById('fab-cost');
+      let fabselect = document.getElementById('fab-select');
       let convcost = document.getElementById('conversion-cost');
       let reload_total_cost = document.getElementById('reload-total-cost');
       let reload_swu_cost = document.getElementById('reload-swu-cost');
@@ -478,9 +492,6 @@ categories:
         computeCost();
       });
       swucost.addEventListener('input', (e) => {
-        computeCost();
-      });
-      fabcost.addEventListener('input', (e) => {
         computeCost();
       });
       convcost.addEventListener('input', (e) => {
@@ -555,6 +566,18 @@ categories:
         }
         effnumber.value = e.target.value;
         effrange.value = e.target.value;
+        computeCost();
+      });
+      // fabrication
+      fabcost.addEventListener('input', (e) => {
+        fabselect.value = '';
+        computeCost();
+      });
+      fabselect.addEventListener('change', (e) => {
+        if (!e.target.value) {
+          return;
+        }
+        fabcost.value = e.target.value;
         computeCost();
       });
       caseTitle.addEventListener('input', (e) => {
