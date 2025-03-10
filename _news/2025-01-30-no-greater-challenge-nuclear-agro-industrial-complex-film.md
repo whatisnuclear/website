@@ -54,7 +54,7 @@ there are so many deserts on the ocean's edge.
 </blockquote>
 </figure>
 
-In 1967, just after the Six-Day War, an idea to user cheap power from nuclear
+In 1967, just after the Six-Day War, an idea to use cheap power from nuclear
 plants to literally make the desert bloom with seawater desalination plants
 became even more interesting and intriguing. Lewis invited Alvin Weinberg to his
 estate to discuss. Lewis Strauss passed these ideas to Eisenhower, who soon

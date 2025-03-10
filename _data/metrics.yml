@@ -104,6 +104,26 @@
       units: months
       examples: 18 months
       why: Needed for economics comparisons and operational assessments
+    - name: Reflector material
+      why: >
+        To know full neutronic capability, replacement rate, cost, shielding, and reflector heat removal needs
+      examples: Water, MgO, Beryllium
+    - name: Reflector dimensions
+      why: (Same as above)
+      examples: 20 cm average thickness
+    - name: Shield material(s)
+      why: >
+        To know dose rates outside core, to compute activation of ex-core materials, cost, shielding cooling needs, gas generation, etc.
+      examples: Leads, borated water, B4C, LiH, tungsten, U-238, sand
+    - name: Shield dimensions
+      why: (Same as above)
+      examples: >
+        Multiple layers consisting of 2" of lead, 2 feet of 2% borated water, 2" of tungsten, 5 feet of concrete
+    - name: Shield mass
+      why: (Same as above)
+    - name: Heat deposition rate in shield
+      why: To determine whether or not you need to include shielding coolant lines
+      examples: 1 MWt
 
 - name: Plant details
   vals:
