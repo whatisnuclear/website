@@ -27,9 +27,9 @@ National Archives digitized. See [our YouTube channel
 here](https://www.youtube.com/@whatisnuclear/videos) and [our Digital Reactor
 History Museum]({% link museum.md %}). You can read more about
 the process of digitization and see some results at [our ZPPR video page]({%
-link _news/2022-12-19-zppr-film-scanned.md %}) and [our announcement of the
+link _posts/2022-12-19-zppr-film-scanned.md %}) and [our announcement of the
 world re-premier of a Hallam film]({% link
-_news/2023-03-13-hallam-historical-films-scanned.md %}). If you're interested
+_posts/2023-03-13-hallam-historical-films-scanned.md %}). If you're interested
 in helping to get more of these scanned, check out [our digitization
 GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
 and/or [contact us]({% link contact.md %})!

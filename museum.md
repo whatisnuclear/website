@@ -10,7 +10,7 @@ categories:
 date: 2024-06-01
 ---
 
-{% assign items = site.pages | concat: site.news | where_exp: "page", "page.tags contains 'museum'" | sort: 'date'%}
+{% assign items = site.pages | concat: site.posts | where_exp: "page", "page.tags contains 'museum'" | sort: 'date'%}
 {% assign vids = site.data.videos | where: "win", "true"  | sort: "date" %}
 {% assign external = site.data.museum-pieces | sort: "date" %}
 
@@ -39,7 +39,7 @@ a list of them all.
 {%- if card.image -%}
 {{ card.image }}
 {%- else -%}
-{% assign other =  site.pages | concat: site.news | where_exp: "page", "page.url==url" | first -%}
+{% assign other =  site.pages | concat: site.posts | where_exp: "page", "page.url==url" | first -%}
 {{ other.image }}
 {%- endif -%}
 {% endcapture %}

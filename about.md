@@ -18,8 +18,9 @@ public about the capabilities of nuclear energy so that society may embrace it
 as an improvement in many aspects over current energy sources. Someday, we may
 be able to run the planet purely on solar power or fusion, but until then, we
 consider nuclear fission to be the energy source with the best capacity to
-produce world-scale energy responsibly. This website is built entirely by
-volunteers. We have no funding and no ads.
+produce world-scale energy responsibly. From 2006 to March 2025, this website
+was built entirely by volunteers. In March 2025 What is Nuclear, LLC was
+incorporated to manage and expand its value.
 
 ## Philosophy
 
@@ -38,8 +39,8 @@ This page was originally started by nuclear engineering students at the
 University of Michigan, but we have since graduated and moved into various other
 institutions. All information and opinions on this site are our own
 perspectives, and do not represent the views of our employers. The site servers
-and DNS names are funded out of our contributors' pockets and all writing is
-done for free on our own time.
+and DNS names are funded through the nuclear consulting services of What is
+Nuclear, LLC.
 
 ## Contacting us
 

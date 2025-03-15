@@ -76,7 +76,7 @@ Savannah.
 **Did you know?** The [NS Savannah](https://en.wikipedia.org/wiki/NS_Savannah)
 was a nuclear-powered cargo ship that operated between 1962 and 1972. It's
 deactivated now and moored at Pier 13 in Baltimore.  [We got a whole documentary
-about Savannah scanned.]({% link _news/2023-07-12-the-nuclear-ship-savannah-film-digitized.md %})
+about Savannah scanned.]({% link _posts/2023-07-12-the-nuclear-ship-savannah-film-digitized.md %})
 
 </div>
 

@@ -12,13 +12,9 @@ future: true
 markdown: kramdown
 highlighter: rouge
 collections:
+  # posts collection is hard-coded into jekyll
   posts:
     output: true
-    directory: blog
-    permalink: /blog/:year-:month-:day-:title.html
-  news:
-    output: true
-    directory: news
     permalink: /news/:year-:month-:day-:title.html
     future: true
   safetyminutes:
@@ -43,13 +39,10 @@ plugins:
 
 feed:
   collections:
-    news:
+    posts:
       # This is the main news section describing changes and additions to the site.
       # This is what people would likely point their feed reader too
       path: "/feed.xml"
-    posts:
-      # ATM these are kind of an "other" category rather than a blog
-      path: "/blog.xml"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

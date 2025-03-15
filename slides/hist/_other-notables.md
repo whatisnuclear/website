@@ -21,7 +21,7 @@
           <li>Atoms for Peace showcase</li>
           <li>Launched in 1962, went to Seattle World's Fair</li>
           <li><a href="{% link
-        _news/2023-07-12-the-nuclear-ship-savannah-film-digitized.md %}">The NS
+        _posts/2023-07-12-the-nuclear-ship-savannah-film-digitized.md %}">The NS
         Savannah film (1964)</a></li>
         <li>Traveled 450,000 nautical miles</li> 
         <li>Visited 45 foreign and 32 domestic ports</li>

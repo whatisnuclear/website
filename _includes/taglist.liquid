@@ -1,5 +1,5 @@
 <ul>
-  {% assign pages = site.news
+  {% assign pages = site.posts
     | where_exp: 'page', 'page.tags contains include.tag'
   %}
   {% for page in pages %}

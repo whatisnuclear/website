@@ -19,7 +19,7 @@ comments: true
 <div class="col-md-8" markdown="1">
 
 As a follow-up to [our previous digitization announcement]({% link
-_news/2024-03-16-six-early-nuclear-films.md %}), I'm now pleased to post the
+_posts/2024-03-16-six-early-nuclear-films.md %}), I'm now pleased to post the
 following.
 
 ## Naval research laboratory reactor (1958)

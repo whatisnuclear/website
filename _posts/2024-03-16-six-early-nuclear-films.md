@@ -266,7 +266,7 @@ in our catalog.
 
 Due to an issue with the audio track, this film was processed a bit later than
 the others, and [has been announced and displayed
-here]({% link _news/2024-04-07-naval-research-laboratory-reactor-1985.md %}).
+here]({% link _posts/2024-04-07-naval-research-laboratory-reactor-1985.md %}).
 
 <div class="row">
 <div class="col-md-8" markdown="1">

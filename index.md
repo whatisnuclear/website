@@ -1,6 +1,6 @@
 ---
 layout: front
-title: What is Nuclear? – Nuclear expertise for everyone
+title: What is Nuclear? – Learn about nuclear power
 description: >
   Learn all about nuclear power directly from nuclear engineers, from the basics
   to detailed deep dives into types of reactors, nuclear history, economics, and
@@ -24,7 +24,7 @@ last_modified_at: 2024-02-25
       {% imagesize img/reactor_web.svg:props %}
     >
     <h1 class="display-3 fw-bold">What is Nuclear?</h1>
-    <h3 class="fw-normal text-muted mb-3">Nuclear expertise for everyone</h3>
+    <h3 class="fw-normal text-muted mb-3">Learn about nuclear power</h3>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ last_modified_at: 2024-02-25
 
       <div id="newsCarousel" class="carousel slide">
         <div class="carousel-inner">
-          {%- assign news = site.news | sort: 'date' | reverse -%}
+          {%- assign news = site.posts | sort: 'date' | reverse -%}
           {%- for post in news limit: 6 -%}
             {%- assign mod = forloop.index | modulo: 3 -%}
             {%- if mod == 1 -%}

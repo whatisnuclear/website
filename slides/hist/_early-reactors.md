@@ -63,7 +63,7 @@
   <section>
   <h3>ZEEP and NRX HWRs in Canada</h3>
   <img class="r-stretch" data-src="/img/zeep.jpg"/>
-  <p>ZEEP with <a href="{% link _news/2024-11-13-restoration-of-nrx.md %}">NRX</a> under construction in background, from <a href="https://cns-snc.ca/wp-content/uploads/2022/01/Vol_16_No3_1995.pdf">ZEEP: The Little Reactor that Could</a></p>
+  <p>ZEEP with <a href="{% link _posts/2024-11-13-restoration-of-nrx.md %}">NRX</a> under construction in background, from <a href="https://cns-snc.ca/wp-content/uploads/2022/01/Vol_16_No3_1995.pdf">ZEEP: The Little Reactor that Could</a></p>
   </section>
 
   <section>
@@ -319,8 +319,8 @@ data-src="/img/vids/astr/astr-tower-02_4k.jpg" alt="Reactor on tower"/></a>
 
 Intended to power remote areas
 
-- [SM-1 at Ft. Belvoir]({% link _news/2024-03-16-six-early-nuclear-films.md%}#army-package-power-reactor-1957)
-- [PM-1 in Wyoming]({% link _news/2023-07-03-film-about-pm1-microreactor-in-wyoming.md %})
+- [SM-1 at Ft. Belvoir]({% link _posts/2024-03-16-six-early-nuclear-films.md%}#army-package-power-reactor-1957)
+- [PM-1 in Wyoming]({% link _posts/2023-07-03-film-about-pm1-microreactor-in-wyoming.md %})
 - [PM-2A in Camp Century ice base](https://www.youtube.com/watch?v=28NYczAuXl4)
 - [PM-3A in Antarctica](https://www.youtube.com/watch?v=SSmQ7TUowao)
 - [ML-1 Truck-mounted mobile](https://www.youtube.com/watch?v=PPPp5rtu04A)

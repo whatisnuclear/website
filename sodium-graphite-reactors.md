@@ -51,7 +51,7 @@ in any country that is not aggressively reprocessing its spent nuclear fuel.
 <figcaption markdown="1">1963 Atomic Energy Commission video about Hallam,
 digitized from the National Archives thanks to  [Nebraska Public Power
 District](https://www.nppd.com/). See our [announcement of the world re-premier
-of this film here]({% link _news/2023-03-13-hallam-historical-films-scanned.md %}).
+of this film here]({% link _posts/2023-03-13-hallam-historical-films-scanned.md %}).
 </figcaption> 
 </figure>
 
@@ -185,7 +185,7 @@ LSGR was the next step after Hallam I guess.
 
 # See Also
 
-- [Sodium Reactor Experiment Construction]({% link _news/2024-05-18-sodium-reactor-experiment-construction.html %})
+- [Sodium Reactor Experiment Construction]({% link _posts/2024-05-18-sodium-reactor-experiment-construction.html %})
 - [Hallam SGR photos]({% link hallam-photos.md %})
 - [ANS Nuclear Cafe -- Hallam Nuclear Station on 1960's TV!](https://www.ans.org/news/article-2163/hallam-nuclear-station-on-1960s-tv/)
 - [Sheldon Power Station](https://en.wikipedia.org/wiki/Sheldon_Power_Station)

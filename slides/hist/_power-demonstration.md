@@ -129,7 +129,7 @@
           <li>Utility declined to purchase</li>
           <li>Coal plant is still there today</li>
           <li><a href="{% link
-          _news/2023-03-13-hallam-historical-films-scanned.md %} ">Cool
+          _posts/2023-03-13-hallam-historical-films-scanned.md %} ">Cool
           historical films online</a></li>
           </ul>
       </div>
@@ -219,7 +219,7 @@
           <li>Costly repairs and modifications</li>
           <li>Technical difficulties led to shut down in 1968</li>
           <li><a href="{% link
-          _news/2023-09-19-film-about-bonus-reactor-in-puerto-rico.md
+          _posts/2023-09-19-film-about-bonus-reactor-in-puerto-rico.md
           %}">Digitized film on Youtube</a></li>
           </ul>
       </div>

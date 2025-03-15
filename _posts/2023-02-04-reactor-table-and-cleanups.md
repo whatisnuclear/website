@@ -11,7 +11,7 @@ byline: True
 <div class="col-md-8" markdown="1">
 
 In case you missed it, watch and read about our efforts to digitize a [historic video
-about ZPPR from the AEC]({% link _news/2022-12-19-zppr-film-scanned.md %}). There's also a wishlist of related
+about ZPPR from the AEC]({% link _posts/2022-12-19-zppr-film-scanned.md %}). There's also a wishlist of related
 videos that we will work to get digitized in the future. Secret hint, there are two
 of them are in the works!
 

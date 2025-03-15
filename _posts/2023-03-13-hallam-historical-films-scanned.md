@@ -115,7 +115,7 @@ of photos from the Hallam decommissioning]({% link hallam-photos.md %}).
 More to come on that!
 
 This digitization effort kicked off after we found out about the existence of the Hallam
-videos in a film catalog linked on [our ZPPR video page]({% link _news/2022-12-19-zppr-film-scanned.md %}).
+videos in a film catalog linked on [our ZPPR video page]({% link _posts/2022-12-19-zppr-film-scanned.md %}).
 There are lots more like this still.
 
 See Also:

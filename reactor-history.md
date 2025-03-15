@@ -634,7 +634,7 @@ A land-based prototype for the _NS Savannah_ merchant ship's core was built and
 operated in Lynchburg, VA in February, 1960. This reactor had full-length fuel
 assemblies and provided information needed before finishing the NS Savannah
 plant. Side-note: [we got a whole documentary about Savannah scanned.]({% link
-_news/2023-07-12-the-nuclear-ship-savannah-film-digitized.md %})
+_posts/2023-07-12-the-nuclear-ship-savannah-film-digitized.md %})
 
 <div class="alert
 alert-success" markdown="1">Nuclear-powered merchant ships could help decarbonize and clean up
@@ -934,7 +934,7 @@ positive.
 <div class="alert alert-info" markdown="1">
 <span class="badge bg-success">Video alert</span> 
 After learning more about Hallam, we got [an old video of it scanned in 4K and
-posted online]({% link _news/2023-03-13-hallam-historical-films-scanned.md %})
+posted online]({% link _posts/2023-03-13-hallam-historical-films-scanned.md %})
 with sponsorship from NPPD.
 </div>
 

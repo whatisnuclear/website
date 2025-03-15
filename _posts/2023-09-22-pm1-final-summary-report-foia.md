@@ -32,7 +32,7 @@ alt="{{ 'img/pm1/pm1fsr-01.jpg'| exif: 'image_description' }}"
 
 It contains cost and performance information, summarizing which systems worked
 well and which ones did not. This is a follow-up to some searching I did after
-getting [this summary film digitized.]({% link _news/2023-07-03-film-about-pm1-microreactor-in-wyoming.md %})
+getting [this summary film digitized.]({% link _posts/2023-07-03-film-about-pm1-microreactor-in-wyoming.md %})
 
 It's highly readable. The summary says that it was a big pain to maintain b/c it
 was too compact. They wanted it designed for maintainability first and
@@ -194,7 +194,7 @@ uploaded it here.](/assets/PM-1%20Final%20Summary%20Report.pdf) Enjoy!
 
 ## See Also
 
-- [Main PM-1 film digitization page]({% link _news/2023-07-03-film-about-pm1-microreactor-in-wyoming.md %})
+- [Main PM-1 film digitization page]({% link _posts/2023-07-03-film-about-pm1-microreactor-in-wyoming.md %})
 - [Tweet version of this page](https://twitter.com/whatisnuclear/status/1705078269392109952)
 
 </div></div>

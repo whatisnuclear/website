@@ -94,7 +94,7 @@ uprating. It was shut down in 1967 and the license was terminated on April 28, 1
 - [Picture of sign announcing the reactor](https://repository.iit.edu/islandora/object/islandora%3A1004684)
 - [Federal Register May 6, 1961 announcing license change to 75 kW](https://www.govinfo.gov/content/pkg/FR-1961-05-06/pdf/FR-1961-05-06.pdf) -- See page 19 of the PDF
 - [Aqueous Homogeneous Research Reactors]({% link
-  _news/2024-05-17-aqueous-homogeneous-reactors.html %}) -- An Atomics International pamphlet that also
+  _posts/2024-05-17-aqueous-homogeneous-reactors.html %}) -- An Atomics International pamphlet that also
   shows the ARR
 - [Our Digital Reactor History Museum]({% link museum.md %})
 - [Our Reactor Development History Page]({% link reactor-history.md %})

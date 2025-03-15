@@ -11,7 +11,7 @@ image: /img/dc_cook.jpg
 <div class="col-md-8" markdown="1">
 
 <ul>
-{% assign sorted = site.news | sort: 'date' | reverse %}
+{% assign sorted = site.posts | sort: 'date' | reverse %}
 {% for news in sorted %}
 <li><a href="{{news.url}}">{{news.date| date: "%Y-%m-%d" }} {{ news.title }}</a></li>
 {% endfor %}
