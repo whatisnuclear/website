@@ -193,11 +193,11 @@ The relevant (n,p) nuclear reaction from Oxygen-16 is:
 
 $$\text{O}^{16} + \text{n} \rightarrow \text{N}^{16} + \text{H}^1$$
 
-$$\text{N}^{16}$$ has a 7.3 second half-life and therefore emits the
-vast majority of its radiation within minutes after shutdown. However,
-it emits 10.5 MeV beta particles and up to 7.1 MeV gamma rays. Thus, any
-piping containing this material must be heavily shielded if it is to be
-inspected or maintained during operation.
+$$\text{N}^{16}$$ has a 7.3 second half-life and therefore emits the vast
+majority of its radiation within minutes after shutdown. However, it emits 10.5
+MeV beta particles and up to 7.1 MeV gamma rays. Thus, any piping containing
+this material must be heavily shielded if equipment nearby is to be inspected or
+maintained during operation.
 
 ### Pressurized Water
 
