@@ -24,7 +24,7 @@ laws of thermodynamics kick in to dissipate the heat to the ambient environment.
 
 At low power levels, the natural circulation of atmospheric air can be
 sufficient to operate a reactor without melting fuel. Fermi's CP-1 simply
-transferred its 2 Watts of heat to the convecting air under the squash court.
+transferred its 2 watts of heat to the convecting air under the squash court.
 
 To put a reactor to practical use, higher power is needed. Energy will dissipate
 naturally one way or another. If Fermi had run CP-1 at high power, the fuel
@@ -178,7 +178,7 @@ Pros:
 - Cheap
 - Used widely across industries
 - High heat capacity, can carry lots of heat at modest flow rates
-- High viscosity, easy to pump
+- Low viscosity, easy to pump
 
 Cons:
 
