@@ -183,7 +183,7 @@ Pros:
 Cons:
 
 - Can be corrosive if chemistry not carefully controlled
-- Low vapor pressure: requires thick-walled vessels and high pressures
+- High vapor pressure: requires thick-walled vessels and high pressures
   to use at high temperature
 - High activation during operation
 
@@ -327,6 +327,9 @@ In the Nuclear Space Program, a boiling mercury power cycle was developed, where
 vaporized mercury metal passed through an ultra-compact turbine. (See <a
 href="https://www.youtube.com/watch?v=Fa0SQ6Qbxvw">Mercury Rankine Program SNAP
 (YouTube)</a>)
+
+If you let the mercury boil, then the heat transfer can actually be pretty good.
+{% cite bradfuteEVALUATIONMERCURYCOOLED1959 %}
 
 ### Sodium-Potassium Eutectic (NaK)
 
