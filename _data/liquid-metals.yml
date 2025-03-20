@@ -1,0 +1,48 @@
+- name: Mercury
+  pros: Liquid at room temperature, non-reactive, common
+  cons: Corrosive, toxic, poor heat transfer
+  examples: Clementine
+- name: Sodium-Potassium eutectic (NaK)
+  pros: Liquid at room temperature, common, not corrosive, non-toxic
+  cons: >
+    Highly chemically reactive, high 14-hour induced radioactivity (it emits
+    about 30,000x more radiation than water during operation and takes days
+    rather than minutes to subside after shutdown)
+  examples: EBR-1
+- name: Sodium metal (Na)
+  pros: Commercially available, cheap, non-toxic, non-corrosive
+  cons: High 14-hour induced radioactivity, solid at room temperature, chemically reactive
+  examples: Fermi-1, SRE, Hallam, EBR-2, SEFOR, FFTF, Phenix, SuperPhenix, BOR-60, BN-350, BN-600, BN800
+- name: Lithium (Li-7)
+  pros: Extremely good heat transfer, 5x smaller/lighter pumps than for Na
+    {% cite unitedstatesAECAuthorizingLegislation1961a %}, Less chemically reactive
+  cons: >
+    Requires isotopic enrichment of lithium, expensive, medium corrosive, medium toxic,
+    generates tritium
+  examples: LCRE (concept and/or classified)
+- name: Potassium
+  pros: Cheap, non-corrosive, non-toxic
+  cons: Chemically reactive
+  examples: MPRE concept, SNAP-50 concept (secondary)
+- name: Lead
+  pros: Cheap, no induced radiation, low chemical reactivity, keeps fast neutrons moving fast
+  cons: Toxic, corrosive, heavy, hard to pump, melts at relatively high temperature (327 °C)
+  examples:
+- name: Bismuth
+  pros: Keeps fast neutrons moving fast, low chemical reactivity, low toxicity
+  cons: >
+    Expensive, corrosive, melts at relatively high temperature (271 °C),
+    activates to hazardous & volatile Po-210
+  examples:
+- name: Lead-Bismuth eutectic
+  pros: Melts at convenient low temperature (125 °C), keeps fast neutrons moving fast
+  cons: More expensive than lead, toxic, corrosive, activates to hazardous & volatile Po-210,
+  examples: USSR Alfa-class submarines, K-27 submarine, Russian BREST reactor
+- name: Rubidium
+  pros:
+  cons:
+  examples:
+- name: Cesium
+  pros: Low corrosion, low toxicity
+  cons: Expensive, chemically reactive
+  examples:

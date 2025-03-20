@@ -1,0 +1,30 @@
+- name: Air
+  wq: 11.9
+  pros: "Common, cheap"
+  cons: "Poor heat transfer, corrosive due to oxygen, activates to radioactive Ar-41, N-16, and C-14"
+  examples: "CP-1, CP-2, CP-3, X-10, Windscale, HTREs"
+- name: Nitrogen
+  wq: 11.9
+  pros: "Common, cheap"
+  cons: "Poor heat transfer, embrittles materials via nitriding"
+  examples: "GCRE, ML-1"
+- name: Steam
+  wq: 2.65
+  pros: "Common, cheap"
+  cons: "Corrosive, activates to Ar-41 and N-16"
+  examples: "Steam cooled fast reactor concepts"
+- name: Carbon dioxide
+  wq: 4.84
+  pros: "Common, cheap"
+  cons: "Radioactive C-14 builds up in loop, N-16 present during operation"
+  examples: "Calder Hall, UNGG, Magnox, AGR, EL4, Lucens"
+- name: Helium
+  wq: 5.1
+  pros: "Good heat transfer, chemically inert, low activation"
+  cons: "Uncommon, expensive, difficult to contain"
+  examples: "THTR, Peach Bottom, HTTR, Dragon, AVR, UHTREX"
+- name: Hydrogen
+  wq: 0.91
+  pros: "Good heat transfer, common, cheap"
+  cons: "Explosive, high neutron capture, difficult to contain"
+  examples: "NERVA"

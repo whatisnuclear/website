@@ -28,6 +28,12 @@ us navigate developments of the future.
 Our [economics page]({% link economics.md %}) discusses developments and
 economics from 1970 to the present.
 
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-8" markdown="1">
+
 ## The starting point
 
 When nuclear fission was discovered in 1938, <sup>235</sup>U existed at 0.7% in natural
@@ -43,26 +49,8 @@ Developments in other countries are not well covered here. Also, the chains
 of events are difficult to classify so the time linearity of the following is not perfect.
 </div>
 
-</div>
-<div class="col-md-4 mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted"
-style="">
-
-<strong class="d-md-block h6 my-2">On this page</strong>
-
-<hr class="d-md-block my-2">
-<div class="" id="tocContents">
-<nav id="TableOfContents" class="section-nav" markdown="1">
-
-<!-- prettier-ignore -->
-- Dummy list
-{:toc}
-
-</nav>
-</div>
-</div>
-
-<div class="col-md-8" markdown="1">
 ### Nuclear weapons production reactors
+
 Vast wealth and effort was first invested in nuclear reactor development because the
 unique characteristics of the atomic chain reaction could provide fundamental and dramatic
 military strategic advantages. Accordingly, the first high-power reactors were designed
@@ -525,7 +513,7 @@ and bold proposals covering a diverse range of reactor types and sizes including
 and boiling water reactors, an organic cooled/moderated reactor, two nuclear superheat
 BWRs, a sodium-cooled fast reactor, and a sodium/graphite intermediate reactor.
 
-  <figure>
+<figure>
   <a href="/img/power-demonstration-reactor-program_opt.svg"><img
 src="/img/blank.png" data-echo="/img/power-demonstration-reactor-program_opt.svg" 
 alt="Timeline of reactors built by the Atomic Energy Commission during the Power
@@ -534,7 +522,7 @@ Demonstration Reactor Program"
    <figcaption>The reactors of the 3+ phases of the AEC's Power Demonstration Reactor
 Program (PDRP). These were funded jointly by the AEC and the commercial partners. Note that
 several of the reactors are what we would consider today exotic.</figcaption>
-  </figure>
+</figure>
 
 ### The commercialization of the pressurized water reactor
 
@@ -2237,6 +2225,27 @@ prediction reflecting a general confidence in scientific progress:
 In reality, very few people at this time were confident that economical nuclear
 electricity was possible, much less around the corner.
 
+</div>
+</div>
+
+</div>
+
+<div class="col-md-4 mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted order-first order-lg-2"
+style="">
+
+<strong class="d-md-block h6 my-2">On this page</strong>
+
+<hr class="d-md-block my-2">
+<div class="" id="tocContents">
+<nav id="TableOfContents" class="section-nav" markdown="1">
+
+<!-- prettier-ignore -->
+- Dummy list
+{:toc}
+
+</nav>
+
+</div>
 </div>
 </div>
 
