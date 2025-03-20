@@ -23,9 +23,9 @@ which energy flows is called <b>power</b>. The same amount of energy can be rele
 (which will occur quickly) or at low power (which will take more time).
 
 Energy is measured in Joules. A ton of wood might have 18 billion Joules of energy stored in it.
-Power is measured in Watts, which are just Joules per second. So if you burned that ton of wood in a
-week, your furnace would be putting out 18 GJ/week, which converts to 29.7 thousand Watts. If you
-burned it in a month, the furnace would be running at 6.8 thousand Watts. In the end, no matter how
+Power is measured in watts, which are just Joules per second. So if you burned that ton of wood in a
+week, your furnace would be putting out 18 GJ/week, which converts to 29.7 thousand watts. If you
+burned it in a month, the furnace would be running at 6.8 thousand watts. In the end, no matter how
 quickly you did it, you still used 18 GJ of energy. By the way, the amount of energy required to
 lift an apple 1 meter is about 1 Joule.
 
@@ -33,7 +33,7 @@ lift an apple 1 meter is about 1 Joule.
 
 Rather than the standard units of Joules, electric companies bill by the kilowatt-hour, as you can
 see by looking at your most recent utility bill. This is just another measure of energy, akin to the
-Joule. 1 kW-hr is the amount of energy used if it is pulled at 1000 Watts for 1 hour. If you convert
+Joule. 1 kW-hr is the amount of energy used if it is pulled at 1000 watts for 1 hour. If you convert
 hours to seconds, you&rsquo;ll find that this is equivalent to 3.6 million Joules.
 
 # Burnup

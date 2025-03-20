@@ -22,7 +22,7 @@ Cassini, rovers, etc. have been powered by something called a radioisotopic
 thermal generator (RTG). These devices use radioactive isotopes produced in
 nuclear reactors on Earth (usually Plutonium-238) coupled to a device that can
 convert heat directly to electricity. RTGs are kind of like really long-lived
-batteries that can provide tens or hundreds of Watts for decades.
+batteries that can provide tens or hundreds of watts for decades.
 
 ## Nuclear reactors in space
 

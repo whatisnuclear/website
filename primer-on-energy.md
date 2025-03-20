@@ -191,7 +191,7 @@ energy in batteries and pumped hydro! Right?
 This kind of energy storage is extremely challenging, and almost certainly does not have the lowest
 environmental impact of our options. Every day in California, the sun comes out and the non-solar
 power plants ramp way down. Then at sunset, everyone comes home and opens their fridge. The
-non-solar grid generators ramp up 13 billion Watts in 3 hours for the evening and then stay fairly
+non-solar grid generators ramp up 13 billion watts in 3 hours for the evening and then stay fairly
 high until the sun comes back out. This makes what's now called <a
 href="https://en.wikipedia.org/wiki/Duck_curve">"The Duck Curve"</a>. What would it take to handle
 that kind of energy in batteries and pumped hydro? Read on!

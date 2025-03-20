@@ -108,7 +108,7 @@
     <div class="row">
       <div class="col-6">
         <ul>
-          <li>500 Watt nuclear fission reactor in space</li>
+          <li>500 watt nuclear fission reactor in space</li>
           <li>Uranium Zirconium Hydride (TRIGA) fuel</li>
           <li>Electromagnetcally pumped NaK</li>
           <li>Rotating control drums</li>

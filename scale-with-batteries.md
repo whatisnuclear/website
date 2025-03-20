@@ -38,7 +38,7 @@ night. This is just energy=power\*time
 
 {% highlight python %}
 
-> > > nightEnergy = 1.0e9 _ 8.0 _ 3600.0 # 1e9 Watts _ 8 hours _ 3600 seconds/hour
+> > > nightEnergy = 1.0e9 _ 8.0 _ 3600.0 # 1e9 watts _ 8 hours _ 3600 seconds/hour
 > > > print(nightEnergy)
 > > > 2.88e+13
 > > > {% endhighlight %}
@@ -47,14 +47,14 @@ Now, to figure out how many batteries that would be, we need to know how much en
 battery. Different types of batteries can store different amounts of energy. Using information from
 <a href="http://www.allaboutbatteries.com/Battery-Energy.html">here</a>, we load up some basic
 information (including some that will be used later). This table mixes energy units of Joules and
-Watt-hours, but they are easily related by 3600 Joules = 1 Watt-hour and we'll use this conversion
+watt-hours, but they are easily related by 3600 Joules = 1 watt-hour and we'll use this conversion
 throughout.
 
 {% highlight python %}
 batteryTypes=['LeadAcid','Alkaline','NiMH','Li-Ion']
 specificEnergy = dict(zip(batteryTypes,[146000,400000,340000,460000])) # J/kg
-costPerWh=dict(zip(batteryTypes,[0.17,0.19,0.99,0.47])) # $/Watt*hour
-wattHPerLiter=dict(zip(batteryTypes,[100,320,300,230])) # Watt*hours / liter
+costPerWh=dict(zip(batteryTypes,[0.17,0.19,0.99,0.47])) # $/watt*hour
+wattHPerLiter=dict(zip(batteryTypes,[100,320,300,230])) # watt*hours / liter
 {% endhighlight %}
 
 Now we can figure out the battery masses required to store 8 hours of energy from a 1 GWe plant using each type of battery:
@@ -273,7 +273,7 @@ areaFootball = 110\*49 # area of football field in square meters
 
 # Compute height as height= volume needed/ area available
 
-# Convert nightEnergy from Joules to Watt\*hours and liters to m^3.
+# Convert nightEnergy from Joules to watt\*hours and liters to m^3.
 
 heightOnFootballField = [nightEnergy/3600/wattHPerLiter[bType]\*0.001/areaFootball for bType in
 batteryTypes]

@@ -63,7 +63,7 @@ of people support expanding nuclear power.
         which release much of their combustion wastes into the air, causing
         severe health and environmental problems.
 
-The following table shows how long a 100 Watt light bulb could run from using 1
+The following table shows how long a 100 watt light bulb could run from using 1
 kg of various fuels. The natural uranium undergoes nuclear fission and thus
 attains extremely high energy density (energy stored in a unit of mass).
 

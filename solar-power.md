@@ -22,8 +22,8 @@ perspective, notice that this means that the surface of the USA on average recei
 href="{% link solar-power.md %}" onmouseover="domTT_activate(this, event, 'width','200','caption',
 'Note', 'content', 'To do this calculation, first convert 6 kWh/m^2/day to W/m^2 ( type 6.0
 kWh/m^2/day in W/m^2 into Google), then multiply by the area of the USA (see Wikipedia) to get the
-total power in Watts of the sun on the USA. Then, multiply this power by the number of seconds in a
-year. Remember, a Watt is a Joule/second.','trail', true);">*</a>]</sup>. In 2007, the entire power
+total power in watts of the sun on the USA. Then, multiply this power by the number of seconds in a
+year. Remember, a watt is a Joule/second.','trail', true);">*</a>]</sup>. In 2007, the entire power
 consumption of the USA was about 1.4x10<sup>19</sup> J. This means that <b>there is about 5400x the
 energy we use coming down from the sun.</b> Clearly there is more than enough solar power available.
 This would, of course, require that the entire USA was covered head to toe with solar panels. Since

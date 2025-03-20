@@ -58,7 +58,7 @@ The oil gallons, bbls, and cubic feet conversions all do check out 👍.
 On the energy equivalence side of things, 163 lbs of U-235 [represents 5.87
 petajoules]({% link energy-density.md %}) of energy. A nuclear ship engine of
 the PWR type is around 27% thermally efficient (shaft horsepower per thermal
-Watt), so that uranium could do about 67,300 horsepower-years.
+watt), so that uranium could do about 67,300 horsepower-years.
 
 28.6 M gallons of heavy fuel oil (33.4 MJ/L) contains 3.62 petajoules of energy,
 and these engines typically have more like 44% thermal efficiency, so that much
