@@ -27,7 +27,7 @@
 - name: Lead
   pros: Cheap, no induced radiation, low chemical reactivity, keeps fast neutrons moving fast
   cons: Toxic, corrosive, heavy, hard to pump, melts at relatively high temperature (327 °C)
-  examples:
+  examples: BREST
 - name: Bismuth
   pros: Keeps fast neutrons moving fast, low chemical reactivity, low toxicity
   cons: >
@@ -37,11 +37,7 @@
 - name: Lead-Bismuth eutectic
   pros: Melts at convenient low temperature (125 °C), keeps fast neutrons moving fast
   cons: More expensive than lead, toxic, corrosive, activates to hazardous & volatile Po-210,
-  examples: USSR Alfa-class submarines, K-27 submarine, Russian BREST reactor
-- name: Rubidium
-  pros:
-  cons:
-  examples:
+  examples: USSR Alfa-class submarines, K-27 submarine
 - name: Cesium
   pros: Low corrosion, low toxicity
   cons: Expensive, chemically reactive
