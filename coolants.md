@@ -201,14 +201,15 @@ maintained during operation.
 
 ### Pressurized Water
 
-Reactors that keep water under high pressure so as to not boil inside the
+Reactors that keep water under high pressure so as to not bulk boil inside the
 reactor vessel is a Pressurized Water Reactor (PWR). See [Reactors]({% link
 reactors.md %}) for more info.
 
 ### Boiling Water
 
-Any reactor that lets any water coolant boil in the reactor itself is known as
-a boiling water reactor. See [Reactors]({% link reactors.md %}) for more info.
+A light-water moderated, water-cooled reactor that lets water coolant bulk boil
+in the reactor itself is known as a boiling water reactor. See [Reactors]({%
+link reactors.md %}) for more info.
 
 ### Heavy Water
 
@@ -232,7 +233,7 @@ considered in a form of fast-neutron reactor, though none of these have been bui
 
 ## Liquid metal coolants
 
-Liquid metal coolants, such as bismuth, mercury, and bismuth, were among the
+Liquid metal coolants, such as bismuth, mercury, and sodium, were among the
 first considered coolants to make commercial power back in the Manhattan Project.
 They offer:
 
