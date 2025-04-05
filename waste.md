@@ -458,17 +458,21 @@ ORIGEN-S from Oak Ridge by whatisnuclear.com.
 </div>
 
 <table class="table table-striped">
-<caption><strong>Table 1.</strong> Heavy metal composition of 4.2% enriched
-nuclear fuel before and after running for about 3 years (40,000 MWd/MT). Minor
-actinides include neptunium, americium, and curium. This table does not include
-structural material such as zirconium and stainless steel.</caption> 
+<caption><strong>Table 1.</strong> Composition of 4.5% enriched nuclear fuel
+before and after running for about 3 years (45,000 MWd/MT). This table does not
+include oxygen in UO<sub>2</sub> or structural material such as zirconium.</caption> 
 <tr><th
-></th><th  >Charge</th><th >Discharge</th></tr>
-<tr><th>Uranium</th><td>100%</td><td>93.4%</td></tr> 
-<tr><th>Enrichment</th><td>4.20%</td><td>0.71%</td></tr> 
-<tr><th>Plutonium</th><td>0.00%</td><td>1.27%</td></tr>
-<tr><th>Minor Actinides</th><td>0.00%</td><td>0.14%</td></tr>
-<tr><th>Fission products</th><td>0.00%</td><td>5.15%</td></tr>
+></th><th>Charge</th><th >Discharge</th></tr>
+<tr><th>Uranium</th><td>100%</td><td>94.1%</td></tr> 
+<tr><th>Neptunium</th><td>0%</td><td>0.0760%</td></tr> 
+<tr><th>Plutonium</th><td>0.00%</td><td>1.13%</td></tr>
+<tr><th>Americium</th><td>0.00%</td><td>0.0218%</td></tr>
+<tr><th>Curium</th><td>0.00%</td><td>0.00774%</td></tr>
+<tr><th>Fission products</th><td>0.00%</td><td>4.68%</td></tr>
+<tr><th>Tritium</th><td>0.00%</td><td>7.87e-6%</td></tr>
+<tr><th>Helium-4</th><td>0.00%</td><td>1.58e-4%</td></tr>
+<tr><th>Other light elements</th><td>0.00%</td><td>4.58e-6%</td></tr>
+<tr><th>U-235 Enrichment</th><td>4.50%</td><td>1.14%</td></tr> 
 </table>
 
 </div>

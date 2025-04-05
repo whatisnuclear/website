@@ -404,7 +404,7 @@ Enriching lithium is a significant cost adder.
 
 Note that the fact that you can choose the _isotopic composition_ of each
 reactor material to specialize its nuclear properties to best suit your
-preferences further exasperates the combinatorial complexity of reactor
+preferences further exacerbate the combinatorial complexity of reactor
 design. The isotopics of each coolant, moderator, structure, control, fuel,
 etc. can be adjusted continuously, thereby truly showing that the set of
 possible reactor designs is uncountably infinite.
@@ -418,6 +418,31 @@ fluid in the MPRE. Yes, you can make a liquid metal vapor turbine!
 
 It was also planned as the secondary coolant in SNAP-50 and LCRE.
 
+### Heat Pipes
+
+Heat pipes are a form of liquid metal coolant, where the liquid metal is in a
+vapor form inside a tube, which often also contains a wicking structure. Heat
+moves passively from a heat source connected to one end to a heat sink connected
+to the other. They are often found in consumer electronics such as laptops. They
+have no moving parts and are low maintenance.
+
+On the downside, there are five operational limits to heat pipes that kick in at
+different geometries and operating conditions:
+
+- **The viscous limit** (low temperatures) --- the vapor pressure in the
+  evaporator is insufficient to drive the vapor flow toward the condenser section.
+- **The sonic limit** --- choking in the vapor flow limiting the mass flow rate.
+- **The capillary limit** -- when capillary pressure is insufficient to balance the pressure drops
+  along the heat pipe.
+- **The entrainment limit** --- when the vapor flow shears off the liquid at high-velocities,
+  causing the wick to dry out.
+- **The boiling limit** --- when high temperature boiling causes the wick
+  structure to dry out and block the liquid flow along the wick.
+
+Practically, these limitations prevent heat pipes from being used on large or
+high power reactors. Still, they are great for high-cost fringe applications
+like remote power, where simplicity and reliability are at a premium.
+
 ## Molten salt coolants
 
 Molten salt can be used as a fuel or as a coolant. When put to work as a pure
@@ -430,14 +455,15 @@ is a low-temperature eutectic, $$\text{60 NaNO}_3 - \text{40 KNO}_3$$.
 
 <div class="alert alert-success" markdown="1"><span class="badge bg-success">TIP</span>
 
-Many people mistakenly conflate molten salt and liquid sodium, probably
-because foods that are low in salt are for labeled "low sodium" instead of "low
-salt". Liquid sodium is a shiny flowing metal that conducts electricity, like what
-the T-1000 is made of in Terminator 2. Molten salt is what you get if you heat
-up table salt in an oven. It's melted salt. There is only one liquid sodium
-(elemental sodium) but there are thousands of salts that can be heated up and melted.
-In reactors, various fluoride and chloride salts are most common, but there are
-plenty more. We have a [page on this]({% link sodium-vs-salt.md %}).
+Many people mistakenly conflate molten salt and liquid sodium, probably because
+foods that are low in salt are for labeled "low sodium" instead of "low salt".
+Liquid sodium is a shiny flowing metal that conducts electricity, like what the
+T-1000 is made of in Terminator 2. Molten salt is what you get if you heat up
+table salt in a super high-temperature oven. It's melted salt. There is only one
+liquid sodium (elemental sodium) but there are thousands of salts that can be
+heated up and melted. In reactors, various fluoride and chloride salts are most
+common, but there are plenty more. We have a [page on this]({% link
+sodium-vs-salt.md %}).
 
 </div>
 
@@ -447,8 +473,8 @@ FLiBe is a common choice for salt-cooled reactors. It was identified in the
 aircraft reactor program as having appropriate properties as a coolant.
 
 There are some economic challenges with FLiBe. The lithium generally has to be
-isotopically enriched to minimize parasitic neutron absorption and tritium
-production.
+isotopically enriched in Li-7 to minimize parasitic neutron absorption and tritium
+production from the Li-6 isotope.
 
 Futhermore, Beryllium is an industrial inhalation hazard. This is more of a
 concern when machining solid beryllium, and certainly can and is handled with
