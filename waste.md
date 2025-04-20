@@ -464,7 +464,7 @@ include oxygen in UO<sub>2</sub> or structural material such as zirconium.</capt
 <tr><th
 ></th><th>Charge</th><th >Discharge</th></tr>
 <tr><th>Uranium</th><td>100%</td><td>94.1%</td></tr> 
-<tr><th>Neptunium</th><td>0%</td><td>0.0760%</td></tr> 
+<tr><th>Neptunium</th><td>0.00%</td><td>0.0760%</td></tr> 
 <tr><th>Plutonium</th><td>0.00%</td><td>1.13%</td></tr>
 <tr><th>Americium</th><td>0.00%</td><td>0.0218%</td></tr>
 <tr><th>Curium</th><td>0.00%</td><td>0.00774%</td></tr>

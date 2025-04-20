@@ -256,6 +256,9 @@ In exchange for these tantalizing capabilities, you must be willing to sacrifice
 - **High reactivity with air and water** -- generally requiring an extra
   intermediate loop before power conversion. This somewhat counteracts the cost
   savings of the reduced pressure as well as the higher temperature.
+- **Thermal shocks during transients** -- the thermal properties of liquid metals
+  can impart extreme stresses on components during transients, necessitating
+  the inclusion of thermal baffles to protect vessels, pipes, and welds.
 - **High induced radioactivity** -- requiring additional shielding in primary systems
 - **Not always liquid at room temperature** -- requiring heaters plus the
   associated sensors and controls along all piping systems to maintain
@@ -497,19 +500,32 @@ chloride salt fluid fuel are much more common.
 ## Gaseous coolants
 
 Blowing or circulating a gas through a nuclear chain reaction to carry the heat
-is a primordial reactor design idea.
+away is a primordial reactor design idea. The benefits include:
 
-Since gasses have already boiled, they are are the most common coolants of choice for
-reactors that aim to operate at very high temperatures (700 °C and beyond).
+- **High temperature capability** --- Since gasses have already boiled, they are
+  are the most common coolants of choice for reactors that aim to operate at very
+  high temperatures (700 °C and beyond).
+- **Good thermal efficiency** --- High temperatures allow improved thermal efficiency
+- **Access to better power cycles** --- High temperatures allow direct or
+  indirect use of Brayton-cycle power conversion (i.e. gas turbines instead of
+  steam turbines). These can be more compact and efficient. They can also maintain
+  efficiency over a wide variety of power fractions, crucial for operating
+  economically in marine propulsion or in other load-following modes.
 
-On the downside, gas cooling requires much higher pumping power per heat
-transfer than other coolant. It's not uncommon for the gas blowers to use
-up 10% of the total reactor power.
+On the downside:
 
-Gasses have low density. To pick up and transfer appreciable heat, they are
-almost always used in a high pressure arrangement. High pressure leads to
-challenges in leaking and requires pipes and structures strong enough to
-contain it.
+- **Low power density** --- Since gas can depressurize rapidly, gas-cooled
+  reactors must operate at low power density. Otherwise, the decay/afterglow heat
+  rate would be too high and the fission products contained in fuel could escape.
+  This ends up making gas-cooled reactors very large per unit power.
+- **High pumping power** --- gas cooling requires much higher pumping power per heat
+  transfer than other coolant. It's not uncommon for the gas blowers to use
+  up 10% of the total reactor power. This offsets the high thermal efficiency
+  to a degree.
+- **Leaks** --- Gasses have low density. To pick up and transfer appreciable heat, they are
+  almost always used in a high pressure arrangement. High pressure leads to
+  challenges in leaking and requires pipes and structures strong enough to
+  contain it.
 
 Any gas can work, but several have been used and seriously considered.
 

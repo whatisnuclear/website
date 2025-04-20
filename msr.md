@@ -302,14 +302,29 @@ Chinese). <a
     PDF</a> presentation by one of the PIs at MIT. </p>
 
 <h2 id="ongoing">Ongoing Molten Salt Reactor Work</h2>
-<p>There is ongoing work in MSRs around the world. The Europeans are working on MOSART, the Japanese
-have FUJI, the Americans are focused on the FHR. In 2011, the Chinese Academy of Science started a
-project in Shanghai to put substantial resources into MSR technology. There are 300-500 people on
-the project, with a budget in the hundreds of millions. Most of the work is on FHRs, but there is
-definitely MSR work as well. They are manufacturing Hastelloy-N, separating lithium, building salt
-    loops, and building advanced modeling capabilities. That project is most likely the most
-    exciting in MSRs since 1969. They plan on having both an experimental 2MW FHR and an
-    experimental 2MW MSR operational by 2020. </p>
+
+In 2011, the Chinese Academy of Science started a project in Shanghai to put
+substantial resources into MSR technology. There are 300-500 people on the
+project, with a budget in the hundreds of millions. Most of the work is on FHRs,
+but there is definitely MSR work as well. They are manufacturing Hastelloy-N,
+separating lithium, building salt loops, and building advanced modeling
+capabilities. That project is most likely the most exciting in MSRs since 1969.
+They originally planned on having both an experimental 2MW FHR and an
+experimental 2MW MSR operational by 2020.
+
+The new Chinese MSR, called the TMSR-LF-1, was completed and brought to
+criticality on Oct 11, 2023
+([ref](https://www.gen-4.org/resources/webinars/education-and-training-series-97-overview-and-update-msr-activities-within-gif)).
+Full power was reached on June 17, 2024. Pa-233 from the (very small amount of
+included) thorium was detected Oct 8, 2024. It's not actually thorium-fueled,
+it's run by U-235, but it is thorium-containing, which is a fun milestone and
+something the US folks as MSRE never did. It's certainly not the first thorium
+reactor, but it is the world's first thorium-containing reactor with fluid fuel.
+
+In the USA, Abilene Christian University in Texas obtained [a construction
+permit](https://www.nrc.gov/reactors/non-power/new-facility-licensing/msrr-acu.html)
+from the US NRC to allow them to build a small molten salt research reactor
+(MSRR) on campus. This reactor project is ongoing.
 
 <p>Several start-up companies have emerged to commercialize molten salt reactors. In Canada, <a
 href="https://terrestrialenergy.com/">Terrestrial Energy</a> is working on small modular MSRs,

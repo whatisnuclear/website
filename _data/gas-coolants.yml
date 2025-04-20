@@ -6,7 +6,7 @@
 - name: Nitrogen
   wq: 11.9
   pros: "Common, cheap"
-  cons: "Poor heat transfer, embrittles materials via nitriding"
+  cons: "Poor heat transfer, activates to C-14, embrittles materials via nitriding"
   examples: "GCRE, ML-1"
 - name: Steam
   wq: 2.65
@@ -20,9 +20,9 @@
   examples: "Calder Hall, UNGG, Magnox, AGR, EL4, Lucens"
 - name: Helium
   wq: 5.1
-  pros: "Good heat transfer, chemically inert, low activation"
+  pros: "Good heat transfer, chemically inert, no activation"
   cons: "Uncommon, expensive, difficult to contain"
-  examples: "THTR, Peach Bottom, HTTR, Dragon, AVR, UHTREX"
+  examples: "Dragon, Peach Bottom, AVR, THTR, UHTREX, Ft. St. Vrain, HTTR, HTR-10, HTR-PM"
 - name: Hydrogen
   wq: 0.91
   pros: "Good heat transfer, common, cheap"
