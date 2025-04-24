@@ -105,7 +105,7 @@ factors that limit industrial involvement is given. They include (verbatim):
   technical problems associated with the MSBR concept.
 
 Weapons were produced with graphite or heavy-water moderated production reactors and with
-gas centrifuge enrichment. Also, thermonuclear weapons require tritium, which is something
+gaseous diffusion enrichment. Also, thermonuclear weapons require tritium, which is something
 that many Thorium MSR designs excel in producing because they often contain Lithium. The
 commercial LWRs had nothing to do with making bomb material. Stop the nonsense.
 
