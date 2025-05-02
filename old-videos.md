@@ -11,6 +11,20 @@ reading_time: false
 comments: true
 ---
 
+{% assign vids_gotten = site.data.videos | where: "priority", empty  | sort: 'date' %}
+{% assign vids_wanted = site.data.videos | where_exp: "item", "item.priority > 0" %}
+
+{% assign grouped_wanted = vids_wanted | group_by: 'priority' %}
+{% assign prioritiesSorted = grouped_wanted | sort: "name" %}
+
+{% assign sorted_wanted= '' | split: '' %}
+{% for pri in prioritiesSorted %}
+{% assign sorted_this_pri = pri.items | sort: 'date' %}
+{% assign sorted_wanted = sorted_wanted | concat: sorted_this_pri %}
+{% endfor %}
+
+{% assign win_count = vids_gotten | where: "win", true | size %}
+
 <div class="row">
 <div class="col-md-12" markdown="1">
 In the olden days, the Atomic Energy Commission and others commissioned dozens
@@ -21,6 +35,7 @@ hyperlinks e.g. in the National Archives, where the physical films are housed.
 The [list of not-yet-digitized
 films](#videos-not-yet-digitized-in-order-of-want) is shown below the list of
 already-digitized ones.
+
 
 We have also learned how to get not-yet-digitized ones that exist in the
 National Archives digitized. See [our YouTube channel
@@ -33,6 +48,10 @@ _posts/2023-03-13-hallam-historical-films-scanned.md %}). If you're interested
 in helping to get more of these scanned, check out [our digitization
 GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
 and/or [contact us]({% link contact.md %})!
+
+<p class="h3 text-center">We have digitized <span class="hit-counter
+font-monospace px-2 bg-dark rounded d-inline-block">{{ win_count }}</span> films
+and counting</p>
 
 </div>
 </div>
@@ -63,17 +82,6 @@ On this page:
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-{% assign vids_gotten = site.data.videos | where: "priority", empty  %}
-{% assign vids_wanted = site.data.videos | where_exp: "item", "item.priority > 0" %}
-
-{% assign grouped_wanted = vids_wanted | group_by: 'priority' %}
-{% assign prioritiesSorted = grouped_wanted | sort: "name" %}
-
-{% assign sorted_wanted= '' | split: '' %}
-{% for pri in prioritiesSorted %}
-{% assign sorted_this_pri = pri.items | sort: 'date' %}
-{% assign sorted_wanted = sorted_wanted | concat: sorted_this_pri %}
-{% endfor %}
 
 # Videos that have been digitized
 

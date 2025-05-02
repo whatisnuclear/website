@@ -20,12 +20,14 @@ date: 2024-06-01
 What Is Nuclear has, through the years, collected, funded, and/or coordinated
 the digitization of forgotten and unique nuclear reactor history artifacts in
 order to preserve them for educational and archival purposes. This page contains
-a list of them all. 
+a list of them all.  We have digitized <span class="hit-counter font-monospace
+px-2 bg-dark rounded d-inline-block">{{ vids | size }}</span> films and counting.
 </p>
 
 <h1>Films</h1>
 
 {% for card in vids %}  
+{%- comment -%}Look for announcement page. If there is none, direct link to youtube.{%- endcomment -%}
 {%- capture url -%}
 {%- for link in card.links -%}
 {%- assign first = link.url|split: ""|first  -%}
@@ -34,13 +36,20 @@ a list of them all.
 {%- endif -%}
 {%- endfor -%}
 {% endcapture %}
+{%- if url==nil or url == "" -%}
+{%- assign url = card.links[0].url -%} 
+{%- endif -%}
 
+
+{% assign other =  site.pages | concat: site.posts | where_exp: "page", "page.url==url" | first -%}
 {%- capture img -%}
 {%- if card.image -%}
 {{ card.image }}
-{%- else -%}
-{% assign other =  site.pages | concat: site.posts | where_exp: "page", "page.url==url" | first -%}
+{%- elsif other.image != nil and other.image != "" -%}
 {{ other.image }}
+{%- else -%}
+{% assign video_id = card.links[0].url | split: "v=" | last | split: "&" | first %}
+https://img.youtube.com/vi/{{ video_id }}/mqdefault.jpg
 {%- endif -%}
 {% endcapture %}
 

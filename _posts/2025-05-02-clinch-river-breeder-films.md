@@ -9,6 +9,7 @@ description: >
   We found 27 films about the Clinch River Breeder Reactor Plant Project
   and started digitizing them.
 byline: true
+tags: museum
 image: /img/crbrp/CRBRP-site_sm.jpg
 comments: true
 ---
