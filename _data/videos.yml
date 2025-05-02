@@ -2990,7 +2990,7 @@
   color: false
   length: 23
   catalog: AEC 1966
-  priority: 2
+  win: true
   description: >
     This film depicts some of the most important stages in the develop-
     ment, construction, operation, and dismantling of Homogeneous Reac-
@@ -2999,6 +2999,9 @@
     the most important steps in assembling the reactor. Operation of the
     reactor is pictured. The film closes with scenes of the reactor being
     disassembled to make room for HRE-2.
+  links:
+    - url: https://www.youtube.com/watch?v=fsmAUDTYq-U
+      name: On Youtube
 
 - title: Fuel Element Burning Experiment
   naid: 88149
@@ -3298,3 +3301,70 @@
     of a five-shot free flight test with a model weighing 250 pounds. 6) Fastex
     and normal speed footage of a six-shot test -- shows the successful
     parachute recovery system operation.
+
+- title: GEORGIA NUCLEAR LABORATORY, PROGRESS REPORT NO. 1,(FIRST QUARTER 1959)
+  naid: 67567
+  iaea:
+  date: 1959
+  color: true
+  length: 11
+  catalog:
+  resolution: 144p
+  format: 16mm
+  description: >
+    Summary: Film shows pan shots of landscape; construction and assembly of Reactor
+    Pool; Primary Equipment pit; seepage pit; water system; filter plant;
+    Maintenance Bldg; Critical Experiment Facility building; Weather Station;
+    instrumentation Lab; Audio Tower; argon towers; Radiation Effects Laboratory;
+    technicians practicing the handling of controls in a hot cell mockup;
+    installation of partition in Hot Cell; Analytical Lab; and scenes of the first
+    hot tests conducted 15 December 1958. Good (Basic: Mas color)
+  links:
+    - url: https://www.youtube.com/watch?v=urGYMs0-UcM
+      name: On Youtube in low-res with watermark
+
+- title: "CRBRP: Open House at the Construction Site"
+  naid: 6250717
+  iaea:
+  date: 1983-09-10
+  color: true
+  length: 53
+  catalog:
+  resolution: 4k?
+  format: U-matic
+  win: true
+  description: >
+    Various Clinch River Breeder project leaders giving talks at the bottom of the excavation where
+    they wanted to do construction.
+
+- title: "CRBRP: Breeder Equipment Delivered"
+  naid: 6279972
+  iaea:
+  date: 1981?
+  color: true
+  length: "1:51"
+  catalog:
+  resolution: 
+  format: U-matic
+  win: true
+  description: >
+    Short newscast of a water tank being delivered for Clinch River
+  links:
+    url: https://www.youtube.com/watch?v=bLsl5nA5Bzs
+    label: On Youtube
+
+- title: "CRBRP: Fuel Handling"
+  naid: 7479943
+  iaea:
+  date: 1981?
+  color: true
+  length: "19:57"
+  catalog: 
+  resolution: 480p
+  format: U-matic
+  win: true
+  description: >
+    Fuel handling equipment for the Clinch River Breeder Reactor Project.
+  links:
+    url: https://www.youtube.com/watch?v=QfzjZum_RaM
+    label: On Youtube
