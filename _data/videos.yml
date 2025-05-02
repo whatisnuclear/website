@@ -3302,27 +3302,6 @@
     and normal speed footage of a six-shot test -- shows the successful
     parachute recovery system operation.
 
-- title: GEORGIA NUCLEAR LABORATORY, PROGRESS REPORT NO. 1,(FIRST QUARTER 1959)
-  naid: 67567
-  iaea:
-  date: 1959
-  color: true
-  length: 11
-  catalog:
-  resolution: 144p
-  format: 16mm
-  description: >
-    Summary: Film shows pan shots of landscape; construction and assembly of Reactor
-    Pool; Primary Equipment pit; seepage pit; water system; filter plant;
-    Maintenance Bldg; Critical Experiment Facility building; Weather Station;
-    instrumentation Lab; Audio Tower; argon towers; Radiation Effects Laboratory;
-    technicians practicing the handling of controls in a hot cell mockup;
-    installation of partition in Hot Cell; Analytical Lab; and scenes of the first
-    hot tests conducted 15 December 1958. Good (Basic: Mas color)
-  links:
-    - url: https://www.youtube.com/watch?v=urGYMs0-UcM
-      name: On Youtube in low-res with watermark
-
 - title: "CRBRP: Open House at the Construction Site"
   naid: 6250717
   iaea:
@@ -3330,12 +3309,17 @@
   color: true
   length: 53
   catalog:
-  resolution: 4k?
+  tags: crbrp
+  resolution: HD
   format: U-matic
   win: true
   description: >
     Various Clinch River Breeder project leaders giving talks at the bottom of the excavation where
     they wanted to do construction.
+  links:
+    url: https://www.youtube.com/watch?v=VCHu_F2-PUs
+    label: On Youtube
+    notes: Thanks to Aalo Atomics
 
 - title: "CRBRP: Breeder Equipment Delivered"
   naid: 6279972
@@ -3343,8 +3327,9 @@
   date: 1981?
   color: true
   length: "1:51"
+  tags: crbrp
   catalog:
-  resolution: 
+  resolution:
   format: U-matic
   win: true
   description: >
@@ -3352,6 +3337,7 @@
   links:
     url: https://www.youtube.com/watch?v=bLsl5nA5Bzs
     label: On Youtube
+    notes: Thanks to Aalo Atomics
 
 - title: "CRBRP: Fuel Handling"
   naid: 7479943
@@ -3359,7 +3345,8 @@
   date: 1981?
   color: true
   length: "19:57"
-  catalog: 
+  tags: crbrp
+  catalog:
   resolution: 480p
   format: U-matic
   win: true
@@ -3368,3 +3355,128 @@
   links:
     url: https://www.youtube.com/watch?v=QfzjZum_RaM
     label: On Youtube
+    notes: Thanks to Aalo Atomics
+
+- title: "Inert Gas: Coping with Oxygen Deficient Environments in 400 Area"
+  naid: 7479946
+  iaea:
+  date: 1979?
+  color: true
+  length: "9:26"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    Safety training video about inert gas environments, e.g. Argon and Nitrogen
+    from the FFTF areas. Originally part of the CRBRP.
+  links:
+    url: https://www.youtube.com/watch?v=lfiKdcF7jg4
+    label: On Youtube
+    notes: Thanks to Aalo Atomics
+
+- title: "Sodium Safety: Action and Reaction"
+  naid: 7479944
+  iaea:
+  date: 1979
+  color: true
+  length: "9:37"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    A liquid metal sodium safety film made as part of the Clinch River Breeder
+    Reactor Program. This is for training operators of sodium-cooled nuclear
+    reactors.
+  links:
+    url: https://www.youtube.com/watch?v=MF6GJ8zupms
+    label: On Youtube
+    notes: Thanks to Aalo Atomics
+
+- title: "Sodium Spill on Protective Suit"
+  naid: 7479947
+  iaea:
+  date: 1979
+  color: true
+  length: "8:33"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    This shows liquid metal sodium spraying onto a protective suit.
+    It also shows a guy putting on one of these clunky suits and trying to do
+    stuff like use a wrench, climb a ladder, and crawl around.
+  links:
+    url: https://www.youtube.com/watch?v=bhLzdpYd1HQ
+    label: On Youtube
+    notes: Thanks to Aalo Atomics
+
+- title: "Under Sodium Viewing"
+  naid: 7479949
+  iaea:
+  date: 1981
+  color: true
+  length: "4:12"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    Since liquid metal sodium is opaque and reactive, it can be hard to find
+    equipment or loose parts under it. So ultrasonic under-sodium viewing
+    technology was developed. This film shows an early form of the technology
+    being used at the Fast Flux Test Facility.
+
+    You could even see the identification notches on the assemblies.
+  links:
+    url: https://www.youtube.com/watch?v=XPWby030kTM
+    label: On Youtube
+    notes: Thanks to Aalo Atomics
+
+- title: "Clinch River Breeder Story Update"
+  naid: 7480001
+  iaea:
+  date: 1982
+  color: true
+  length: "13:18"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    This was part of the Employee Communications from Carolina Power and Light
+    covering the Clinch River Breeder Reactor.
+  links:
+    url: https://www.youtube.com/watch?v=i3iXvtiFSVE
+    label: On Youtube
+    notes: Thanks to Aalo Atomics
+
+- title: "Large Scale Sodium Fire Suppression Test, 1983"
+  naid: 7479945
+  iaea:
+  date: 1983-05-11
+  color: true
+  length: "17:41"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    This is footage from the Large-Scale Sodium Fire Suppression Test performed on
+    May 11, 1983 at the Rockwell International Sodium Fire Test Facility at Santa
+    Susana, CA in support of the Clinch River Breeder Reactor Project (CRBRP). At
+    the time, this was the largest sodium test ever conducted. 
+
+    Also contains NARA ID 7480000
+  links:
+    url: https://www.youtube.com/watch?v=E2HWF1ZKau8
+    label: On Youtube
+    notes: Thanks to Aalo Atomics
