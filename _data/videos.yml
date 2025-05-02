@@ -3317,9 +3317,9 @@
     Various Clinch River Breeder project leaders giving talks at the bottom of the excavation where
     they wanted to do construction.
   links:
-    url: https://www.youtube.com/watch?v=VCHu_F2-PUs
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=VCHu_F2-PUs
+      label: On Youtube
+      notes: Thanks to Aalo Atomics
 
 - title: "CRBRP: Breeder Equipment Delivered"
   naid: 6279972
@@ -3335,9 +3335,9 @@
   description: >
     Short newscast of a water tank being delivered for Clinch River
   links:
-    url: https://www.youtube.com/watch?v=bLsl5nA5Bzs
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=bLsl5nA5Bzs
+      label: On Youtube
+      notes: Thanks to Aalo Atomics
 
 - title: "CRBRP: Fuel Handling"
   naid: 7479943
@@ -3353,9 +3353,9 @@
   description: >
     Fuel handling equipment for the Clinch River Breeder Reactor Project.
   links:
-    url: https://www.youtube.com/watch?v=QfzjZum_RaM
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=QfzjZum_RaM
+      label: On Youtube
+      notes: Thanks to Aalo Atomics
 
 - title: "Inert Gas: Coping with Oxygen Deficient Environments in 400 Area"
   naid: 7479946
@@ -3372,9 +3372,9 @@
     Safety training video about inert gas environments, e.g. Argon and Nitrogen
     from the FFTF areas. Originally part of the CRBRP.
   links:
-    url: https://www.youtube.com/watch?v=lfiKdcF7jg4
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=lfiKdcF7jg4
+      label: On Youtube
+      notes: Thanks to Aalo Atomics
 
 - title: "Sodium Safety: Action and Reaction"
   naid: 7479944
@@ -3392,9 +3392,9 @@
     Reactor Program. This is for training operators of sodium-cooled nuclear
     reactors.
   links:
-    url: https://www.youtube.com/watch?v=MF6GJ8zupms
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=MF6GJ8zupms
+      label: On Youtube
+      notes: Thanks to Aalo Atomics
 
 - title: "Sodium Spill on Protective Suit"
   naid: 7479947
@@ -3412,9 +3412,9 @@
     It also shows a guy putting on one of these clunky suits and trying to do
     stuff like use a wrench, climb a ladder, and crawl around.
   links:
-    url: https://www.youtube.com/watch?v=bhLzdpYd1HQ
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=bhLzdpYd1HQ
+      label: On Youtube
+      notes: Thanks to Aalo Atomics
 
 - title: "Under Sodium Viewing"
   naid: 7479949
@@ -3435,9 +3435,9 @@
 
     You could even see the identification notches on the assemblies.
   links:
-    url: https://www.youtube.com/watch?v=XPWby030kTM
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=XPWby030kTM
+      label: On Youtube
+      notes: Thanks to Aalo Atomics
 
 - title: "Clinch River Breeder Story Update"
   naid: 7480001
@@ -3454,9 +3454,9 @@
     This was part of the Employee Communications from Carolina Power and Light
     covering the Clinch River Breeder Reactor.
   links:
-    url: https://www.youtube.com/watch?v=i3iXvtiFSVE
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=i3iXvtiFSVE
+      label: On Youtube
+      notes: Thanks to Aalo Atomics
 
 - title: "Large Scale Sodium Fire Suppression Test, 1983"
   naid: 7479945
@@ -3477,6 +3477,6 @@
 
     Also contains NARA ID 7480000
   links:
-    url: https://www.youtube.com/watch?v=E2HWF1ZKau8
-    label: On Youtube
-    notes: Thanks to Aalo Atomics
+    - url: https://www.youtube.com/watch?v=E2HWF1ZKau8
+      label: On Youtube
+      notes: Thanks to Aalo Atomics

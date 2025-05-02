@@ -108,5 +108,9 @@ Here are the photos included in the packet.
 </div>
 </div>
 
+## See Also
+
+* [CRBRP films]({% link _posts/2025-05-02-clinch-river-breeder-films.md %})
+
 </div> 
 </div>
