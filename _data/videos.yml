@@ -2465,19 +2465,22 @@
   naid: 88297
   iaea:
   date: 1969
-  length: 11
+  length: "11:41"
   color: true
   topics: ["Waste"]
-  priority: 2
+  win: true
   description: >
-    SHOWS EQUIPMENT AND PROCEDURES REQUIRED FOR THE PERMANENT SAFE AND ECONOMICAL
-    DISPOSAL OF HIGH LEVEL RADIOACTIVE WASTES FROM NUCLEAR POWER PLANTS PROJECT
-    SALT VAULT DEALS WITH A TWO YEAR STUDY CARRIED OUT BY USAEC'S OAK RIDGE
-    NATIONAL LABORATORY ON THE FEASIBILITY OF PERMANENT DISPOSAL OF THESE HIGH
-    LEVEL WASTES IN VACATED SALT MINES AND THE KEY STEPS IN SUCH DISPOSAL AT AN
-    ABANDONED SALT MINE IN KANSAS
+    Shows equipment and procedures required for the permanent safe and economical
+    disposal of high level radioactive wastes from nuclear power plants. Project
+    Salt Vault deals with a two year study carried out by USAEC's Oak Ridge
+    National Laboratory on the feasibility of permanent disposal of these high
+    level wastes in vacated salt mines and the key steps in such disposal at an
+    abandoned salt mine in Kansas.
   notes:
   links:
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=AU1IXlKeOhY
+      notes: Thanks to Asa Briggs
     - name: Short clip on critical path
       url: https://www.criticalpast.com/video/65675068698_Project-Salt-Vault_nuclear-power-plant_salt-mines_Oak-Ridge-National-Laboratory
 
