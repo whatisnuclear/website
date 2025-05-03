@@ -19,7 +19,7 @@ comments: true
 
 The Clinch River Breeder Reactor Plant (CRBRP) Project was a massive US-government
 nuclear reactor development project that aimed to build a prototype fast-neutron
-breeder reactor. The project ran from around 1969 to 1983 when it was defunded. 
+breeder reactor. The project ran from around 1969 to 1983 when it was defunded.
 A large amount of equipment was fabricated and delivered, though the plant
 was never built.
 
@@ -31,6 +31,7 @@ team at Aalo for making these happen.
 
 These are all on 3/4" U-matic video cassette format, so the resolution
 is a lot less than the 16mm films we've scanned in the past.
+
 </div>
 </div>
 
@@ -43,7 +44,7 @@ is a lot less than the 16mm films we've scanned in the past.
 
 <div class="row">
 
-{% for card in vids %}  
+{% for card in vids %}
 
 {% assign video_id = card.links[0].url | split: "v=" | last | split: "&" | first %}
 
@@ -61,10 +62,10 @@ is a lot less than the 16mm films we've scanned in the past.
 
 </div>
 
-
 ## See Also
 
-* [CRBRP info packet]({% link crbrp-info-packet.md %})
+- [CRBRP info packet]({% link crbrp-info-packet.md %})
+- [Digital Museum]({% link museum.md %})
 
 </div>
 </div>

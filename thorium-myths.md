@@ -308,7 +308,7 @@ that repeats the myths. We hope journalists will go the extra mile before publis
 more of this.
 
 - [Sam O'Nella academy -- Why Thorium Rocks](https://www.youtube.com/watch?v=jjM9E6d42-M)
-  --- A very popular Youtube video that gets it so wrong that I just can't even. It's like
+  --- A very popular YouTube video that gets it so wrong that I just can't even. It's like
   no one ever told them that they're describing breeding and thinking that thorium is
   somehow the only way to breed. Of course this is not true. Uranium can breed too. The
   entire video is misleading.

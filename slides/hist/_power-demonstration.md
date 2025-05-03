@@ -220,7 +220,7 @@
           <li>Technical difficulties led to shut down in 1968</li>
           <li><a href="{% link
           _posts/2023-09-19-film-about-bonus-reactor-in-puerto-rico.md
-          %}">Digitized film on Youtube</a></li>
+          %}">Digitized film on YouTube</a></li>
           </ul>
       </div>
       <div class="col-6">
