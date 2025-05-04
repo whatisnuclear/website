@@ -3483,27 +3483,6 @@
       name: On YouTube
       notes: Thanks to Aalo Atomics
 
-- title: "Target for Antares: Laser Fusion at Los Alamos"
-  naid:
-  iaea:
-  date: 1978
-  color: true
-  length: "17:41"
-  catalog:
-  win: true
-  resolution: 480p
-  format: U-matic
-  description: >
-    The concept of laser fusion is described with animations, and then the
-    amazing fabrication process of the small fusion targets is shown. These
-    targets were used in the Antares facility, a 40 kJ 1ns CO₂ laser facility
-    built at Los Alamos that became operational in the 1980s and has since been
-    shut down.
-
-  links:
-    - url: https://www.youtube.com/watch?v=eoHrsiKLNlU
-      name: On YouTube
-      notes: Thanks to Ron Knief and Suzanne Wehrenberg
 
 - title: "Clinch River Breeder Reactor Closure Head Testing"
   naid: 7480006
@@ -3526,3 +3505,47 @@
     - url: https://www.youtube.com/watch?v=rX7ZpPQ3ZCU
       name: On YouTube
       notes: Thanks to Aalo Atomics
+
+- title: "Target for Antares: Laser Fusion at Los Alamos"
+  naid:
+  iaea:
+  date: 1978
+  color: true
+  length: "17:41"
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    The concept of laser fusion is described with animations, and then the
+    amazing fabrication process of the small fusion targets is shown. These
+    targets were used in the Antares facility, a 40 kJ 1ns CO₂ laser facility
+    built at Los Alamos that became operational in the 1980s and has since been
+    shut down.
+
+  links:
+    - url: https://www.youtube.com/watch?v=eoHrsiKLNlU
+      name: On YouTube
+      notes: Thanks to Ron Knief and Suzanne Wehrenberg
+
+- title: "Breeder Reactors, featuring Superphénix"
+  naid:
+  iaea:
+  date: 1978?
+  color: true
+  length: "20:54"
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    The concept of breeder reactors is explained using a car with gas analogy
+    and animation. Then the Superphénix reactor is described via animations,
+    including the overall layout and key heat transport systems. The title is
+    listed as "Les Surregenerateurs", and the film was made by Yves Chelet.
+    Produced by Les Films de Saturne
+
+  links:
+    - url: https://www.youtube.com/watch?v=RSVHbKX2i6s
+      name: On YouTube
+      notes: Thanks to Ron Knief and Suzanne Wehrenberg
