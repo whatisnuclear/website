@@ -79,7 +79,22 @@ last_modified_at: 2024-02-25
           <p>
             We also feature large amounts of useful reference information and calculators. 
           </p>
-          <a href="{% link reference.html %}" class="icon-link">Get crazy</a>
+          <a href="{% link reference.html %}" class="icon-link">Bask in info</a>
+        </div>
+        </div>
+        <div class="col">
+          <div class="card border-0">
+          <a href="{% link consulting.md %}" class="stretched-link"></a>
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
+            <i class="fas fa-user-tie"></i>
+            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">Consulting</h3>
+          </div>
+          <p>
+            Hire us for nuclear consulting work. We can help execute
+            your reactor strategy, perform expert technical reviews, do due
+            diligence, and more. 
+          </p>
+          <a href="{% link consulting.md  %}" class="icon-link">Hire us</a>
         </div>
         </div>
       </div>
