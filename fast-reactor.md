@@ -233,7 +233,7 @@ U235, so the time that 200 years of uranium can last humanity turns into 20,000.
 There are also significantly more free neutrons in fast reactors. Since the probability of
 fission is lower for faster energies for every actinide, the neutron density is higher in
 fast reactors than it is in most reactors of the same power (since power is
-effectively the neutron density multiplied by the fission probability). Structural
+proportional to the product of neutron density and fission probability). Structural
 materials inside fast reactors thus undergo higher radiation damage rates than those in
 slow-neutron reactors.
 
