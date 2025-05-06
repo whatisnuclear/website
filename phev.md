@@ -52,7 +52,7 @@ pure electric vehicles could get more miles per charge than the hybrids. </li>
 ## See Also
 
 <ul>
-<li><a href="https://wheels.blogs.nytimes.com/2008/05/13/2010-endgame-or-hype/">A New York Times writeup</a> on some PHEVs that should be on the market in 2010. </li>
+<li><a href="https://archive.nytimes.com/wheels.blogs.nytimes.com/2008/05/13/2010-endgame-or-hype/">A New York Times writeup</a> on some PHEVs that should be on the market in 2010. </li>
 </ul>
 
 </div>

@@ -32,7 +32,7 @@ of Nuclear Engineering. [Professor Driscoll passed away on Dec 31,
 2020](https://news.mit.edu/2021/michael-driscoll-leader-nuclear-engineering-beloved-mentor-dies-0105)
 in Boston. This memo was passed down to whatisnuclear through mentors. [PDF memo available
 here](/assets/MikeDriscoll-good-intentions.pdf)._ This is also available [in tweet form
-here](https://twitter.com/whatisnuclear/status/1533552556911169536).
+here](https://x.com/whatisnuclear/status/1533552556911169536).
 
 We are all familiar with the arguments and tactics of the avowed opponents to nuclear
 power. However, various proponents espouse ideas, or tolerate inequities, which could

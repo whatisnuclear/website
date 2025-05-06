@@ -121,6 +121,6 @@ _These are loaded into the youtube video as chapters for your convenience._
   to get some of these scanned, check out [our digitization
   GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
   and/or [contact us]({% link contact.md %})!
-- [Tweet announcement of this](https://twitter.com/whatisnuclear/status/1676807927225806849)
+- [Tweet announcement of this](https://x.com/whatisnuclear/status/1676807927225806849)
 
 </div></div>

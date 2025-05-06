@@ -118,7 +118,7 @@ _These are loaded into the youtube video as chapters for your convenience._
 ## The N.S. Savannah at the Seattle World's Fair 1962
 
 My journey to digitizing this video actually started when [I happened
-upon](https://twitter.com/whatisnuclear/status/1652827641819574273) [a quote in
+upon](https://x.com/whatisnuclear/status/1652827641819574273) [a quote in
 an old document that
 said](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/who%20we%20are/engineering%20history/landmarks/87-ns-savannah-1962.pdf):
 
@@ -131,7 +131,7 @@ Fair"
 And so, I sought out a picture of N.S. Savannah in Seattle. By going through the
 newspaper archives around the time of her visit, [I found a bad-quality scan of
 the Savannah with the Space
-Needle](https://twitter.com/whatisnuclear/status/1654133262309281795) from the
+Needle](https://x.com/whatisnuclear/status/1654133262309281795) from the
 [October 2 1962
 Seattle PI newspaper](https://infoweb-newsbank-com.ezproxy.spl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C12EB6BE1393489FA580F5880B8B058E&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A142FE773BA94746A%2540EANX-NB-16D6365F762EAF47%25402437940-16D630242953EE36%25402-16D630242953EE36%2540/hlterms%3A).
 The more I looked, the more I decided I needed to get this film digitized,
@@ -230,7 +230,7 @@ Here are her photos:
   to get some of these scanned, check out [our digitization
   GoFundMe](https://www.gofundme.com/f/the-digitization-of-old-nuclear-energy-videos)
   and/or [contact us]({% link contact.md %})!
-- [Tweet announcement of this](https://twitter.com/whatisnuclear/status/1679261517571850240)
+- [Tweet announcement of this](https://x.com/whatisnuclear/status/1679261517571850240)
 - [A huge Flickr album featuring the Savannah](https://www.flickr.com/photos/rocbolt/albums/72157632493733676)
 
 </div></div>

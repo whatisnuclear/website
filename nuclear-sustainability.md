@@ -60,16 +60,16 @@ transportation, industrial heat, etc.
     energy-density.md %}) out of non-enriched nuclear fuel (natural or depleted uranium or
   thorium)
 - There are 6.1 million tonnes of uranium in reasonably assured deposits ([World
-  Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx))
+  Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium))
 - There are 6.3 million tonnes of thorium in reasonably assured deposits ([World
-  Nuclear Thorium](https://world-nuclear.org/information-library/current-and-future-generation/thorium.aspx))
+  Nuclear Thorium](https://world-nuclear.org/information-library/current-and-future-generation/thorium))
 - Uranium exists in seawater at an average concentration of 0.003 ppm (also World Nuclear
   Uranium)
 - There are about 332 million cubic miles of water on Earth, 96.5% of it is in the ocean
-  ([USGS](https://www.usgs.gov/special-topic/water-science-school/science/how-much-water-there-earth?qt-science_center_objects=0#qt-science_center_objects)).
+  ([USGS](https://www.usgs.gov/special-topics/water-science-school/science/how-much-water-there-earth?qt-science_center_objects=0)).
   At a density of 1 gram/cm$$^3$$, this comes out to 1.4 yottagrams of water, or 1.4e21 kg)
 - At 0.003 ppm, this means there are about 4000 million tonnes of uranium in seawater
-- The average crustal concentration of uranium is about 2.8 ppm ([World Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx))
+- The average crustal concentration of uranium is about 2.8 ppm ([World Nuclear Uranium](https://world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium))
 - There are about 6.5e13 tonnes (65 trillion) of uranium in the crust,
   which continuously replenishes the uranium in seawater through erosion, runoff, and
   plate tectonics.

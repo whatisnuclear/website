@@ -14,7 +14,7 @@ See also the [Nuclear Engineering Reading List]({% link nuclear-reading-list.md 
 <table class="table table-striped">
 <tr><th>Link</th><th >Comments</th></tr>
 <tr>
-  <td><a href="https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false">Electricity Map</a></td>
+  <td><a href="https://app.electricitymaps.com/map/72h/hourly">Electricity Map</a></td>
   <td>An amazing interactive map showing live data across the world about what the carbon
 intensity of electricity generation systems are now and throughout the day. You can see,
 for example, how many countries have decarbonized very well using nuclear (France,
@@ -55,19 +55,19 @@ reactor physicist, on the overall energy story</td>
 </tr>
 
 <tr>
-<td><a href="https://ourworldindata.org/what-is-the-safest-form-of-energy">Our World In
+<td><a href="https://ourworldindata.org/safest-sources-of-energy">Our World In
 Data</a></td>
 <td>Data about the safety of nuclear compared to other energy sources</td>
 </tr>
 
 <tr>
-<td><a href="https://www.nuclear-power.net/">Nuclear-power.net</a></td>
+<td><a href="https://www.nuclear-power.com/">Nuclear-power.net</a></td>
 <td>Another public-education nuclear site with elaborate detail in the reactor physics and
 engineering areas</td>
 </tr>
 
 <tr>
-<td><a href="https://dotearth.blogs.nytimes.com/2013/11/03/to-those-influencing-environmental-policy-but-opposed-to-nuclear-power/">Letter from energy scientists concerned about climate in support of nuclear</a></td>
+<td><a href="https://archive.nytimes.com/dotearth.blogs.nytimes.com/2013/11/03/to-those-influencing-environmental-policy-but-opposed-to-nuclear-power/">Letter from energy scientists concerned about climate in support of nuclear</a></td>
 <td>A letter from 4 famous energy scientists in support of nuclear to help with climate
 issues</td>
 </tr>
@@ -80,7 +80,8 @@ meaningful DNA damage</td>
 </tr>
 
 <tr>
-<td><a href="http://ansnuclearcafe.org/2014/01/14/a-century-of-technology-remarks-by-richard-rhodes/">A Century of Technology -- Remarks by Richard Rhodes</a></td>
+<td><a href="https://www.ans.org/news/article-1498/a-century-of-technology-remarks-by-richard-rhodes/
+">A Century of Technology -- Remarks by Richard Rhodes</a></td>
 <td>A long but excellent and inspiring speech given by Pulitzer prize winning technology history
 author, Richard Rhodes</td>
 </tr>
@@ -101,7 +102,7 @@ from microreactors to geology to computers.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.eti.co.uk/library/the-eti-nuclear-cost-drivers-project-summary-report">The ETI nuclear cost drivers summary</a></td>
+<td><a href="https://www.lucidcatalyst.com/the-eti-nuclear-cost-drivers">The ETI nuclear cost drivers summary</a></td>
 <td>A clear description of what has made nuclear expensive</td>
 </tr>
 

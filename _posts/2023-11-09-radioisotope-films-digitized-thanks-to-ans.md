@@ -41,7 +41,7 @@ Special thanks to Brett Rampal for the connection.
 
 - [Our Digital Reactor History Museum]({% link museum.md %})
 - [Our Old Videos page]({% link old-videos.md %})
-- [Tweet version of this page](https://twitter.com/whatisnuclear/status/1722623481781911646)
+- [Tweet version of this page](https://x.com/whatisnuclear/status/1722623481781911646)
 
 </div></div>
 

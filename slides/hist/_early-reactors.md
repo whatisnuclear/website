@@ -278,7 +278,7 @@ ORNL</a>)</p>
   <a href="/img/nuclear_rocket.jpg"><img class="img-fluid" 
   data-src="/img/nuclear_rocket_sm.jpg" alt="A wild looking nuclear jet engine concept art"/></a>
       <p class="small"><a
-      href="https://www.osti.gov/biblio/1048124-comprehensive-technical-report-general-electric-direct-air-cycle-aircraft-nuclear-propulsion-program-program-summary-references">APEX-901</a></p>
+      href="https://www.osti.gov/biblio/1048124">APEX-901</a></p>
           </div>
       <div class="col-4">
 <a href="/img/HTRE-2.jpg"><img class="img-fluid" 

@@ -246,11 +246,11 @@ Potassium-40 is found all around, including in bananas and in salt-substitutes a
 
 1. Wikipedia, ["Nuclear weapons testing"](https://en.wikipedia.org/wiki/Nuclear_weapons_testing)
 2. <a href="https://www.epa.gov/radon">EPA Radon Guide</a>
-3. <a href="http://hps.org/publicinformation/ate/faqs/commercialflights.html">Commercial air flight dose</a>
+3. <a href="https://hps.org/ate_faq/commercialflights/">Commercial air flight dose</a>
 4. Mara Hvistendahl, <a href="https://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/">&quot;Coal Ash Is More Radioactive
    than Nuclear Waste,&quot;</a> Scientific American (2007).
 5. <a href="https://www.eia.gov/nuclear/spent_fuel/">Energy Information Administration - Spent Nuclear Fuel</a>
-6. <a href="https://emergency.cdc.gov/radiation/isotopes/cesium.asp">Center for Disease Control and Prevention: Radioisotope Brief: Cesium-137</a>
+6. <a href="https://www.cdc.gov/radiation-emergencies/hcp/isotopes/cesium-137.html">Center for Disease Control and Prevention: Radioisotope Brief: Cesium-137</a>
 
 </div>
 </div>

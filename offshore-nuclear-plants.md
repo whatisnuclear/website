@@ -451,7 +451,7 @@ improved safety and improved cost.
 In 2010, the U.S.S. _Carl Vinson_ aircraft carrier used it's [nuclear-powered oceanwater
 desalination capabilities (400,000 gallons/day capacity) to provide relief to the
 incapacitated water
-network](https://blogs.wsj.com/dispatch/2010/01/16/aircraft-carrier-purifies-water-challenge-is-delivery/)
+network](https://www.wsj.com/articles/BL-DISPATCHB-929) (paywall)
 at Port-au-Prince, Haiti after a devastating earthquake.
 
 Many teams are talking about and actually building shipyard constructed FNPPs today. Most
@@ -459,13 +459,13 @@ of the modern concepts do not have the massive concrete breakwater.
 In 2016, MIT published a study of a new [Offshore Floating Nuclear Plant
 Concept](https://dspace.mit.edu/handle/1721.1/106334). in 2019, China [announced that they would
 start building FNPPs to power islets and offshore drilling platforms in the South China
-Sea.](https://www.asiatimes.com/2019/03/article/ocean-going-nuclear-plants-for-south-china-sea/)
+Sea.](https://asiatimes.com/2019/03/ocean-going-nuclear-plants-for-south-china-sea/)
 In December 2019, the Russian [Akademik
 Lomonosov](https://en.wikipedia.org/wiki/Akademik_Lomonosov) FNPP began operating in the
 Arctic.
 
 Some small advanced nuclear companies are planning to use shipyard construction and/or
-floating operation. [ThorCon plans](http://thorconpower.com/production/) to use shipyard
+floating operation. [ThorCon plans](https://thorconpower.com/our-plants/) to use shipyard
 construction but then deliver their plants to land-based sites. OPS had a similar option
 for riverine sites. [Seaborg plans
 to](https://www.theguardian.com/environment/2020/dec/17/floating-mini-nukes-could-power-countries-by-2025-says-startup)
@@ -519,9 +519,9 @@ Systems, Docket no. STN 50-437. June
 
 ## See Also
 
-- Will Davis [The Atlantic Generating Station](http://ansnuclearcafe.org/2013/01/03/the-atlantic-generating-station/) (2013)
+- Will Davis [The Atlantic Generating Station](https://www.ans.org/news/article-1239/the-atlantic-generating-station/) (2013)
 - Rod Adams, [Offshore Power Systems, Big Plants for a Big Customer](https://atomicinsights.com/offshore-power-systems-big-plants-for-big-customer/) (1996)
-- Reimann, [In the 1980s, a power company almost built a floating nuclear power plant off New Jersey](https://timeline.com/floating-nuclear-power-plants-c808bfe707aa) (2017)
+- Reimann, [In the 1980s, a power company almost built a floating nuclear power plant off New Jersey](https://web.archive.org/web/20220608083357/https://timeline.com/floating-nuclear-power-plants-c808bfe707aa?gi=de250ce9d114) (2017)
 - [Shore effect model, Atlantic Generating Station](https://catalog.hathitrust.org/Record/100394279) — includes some
   great photos of wave model testing
 - [Impact of offshore nuclear generating stations on recreational behavior at adjacent coastal
@@ -539,7 +539,7 @@ Systems, Docket no. STN 50-437. June
   newspaper article about the OPS crane being sold to China
 - [Floating Nuclear Power Plants](https://www.nrc.gov/reading-rm/basic-ref/students/history-101/floating-nuclear-power-plants.html) --- a NRC historian version
   of this OPS story
-- [Museum picture of OPS model](http://heinzhistorycenter.emuseum.com/objects/19019/offshore-power-systems-manufacturing-facility-blount-island;jsessionid=D570335AEF38A36B2A88A47B7C44B3FE?ctx=81b4d478-476b-4714-9e9c-15bdc994faa9&idx=8)
+- [Museum picture of OPS model](https://heinzhistorycenter.emuseum.com:443/objects/19019/offshore-power-systems-manufacturing-facility-blount-island;jsessionid=D570335AEF38A36B2A88A47B7C44B3FE?ctx=81b4d478-476b-4714-9e9c-15bdc994faa9&idx=8)
 - [Making of Nuclear Plants Backed by Jersey Utility](https://www.nytimes.com/1976/03/25/archives/making-of-nuclear-plants-backed-by-jersey-utility-public-service.html) --- New York Times article
 - [Before licensing floating nuclear powerplants many answers are needed](https://www.gao.gov/assets/emd-78-36.pdf) --- a US GAO report from 1978 before the license was issued
 

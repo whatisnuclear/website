@@ -37,7 +37,7 @@ I searched around but couldn't find a copy of it anywhere. There was [mention of
 in the National Archives](https://catalog.archives.gov/id/88308), but it was
 clearly labeled with: **This item has not been digitized**. I [pinged the
 National Labs on Twitter but heard
-nothing](https://twitter.com/whatisnuclear/status/1584024975518093314).
+nothing](https://x.com/whatisnuclear/status/1584024975518093314).
 
 [Having
 briefly pounded out](https://en.wikipedia.org/w/index.php?title=Zero_Power_Physics_Reactor&diff=prev&oldid=1025855316)
@@ -96,7 +96,7 @@ If anyone needs the 345 GB ProRes-format version, [let me know]({% link contact.
 ## See Also
 
 - [ZPPR wikipedia page](https://en.wikipedia.org/wiki/Zero_Power_Physics_Reactor)
-- [Film and Video Catalogue Peaceful Applications of Nuclear Energy 1927-1998](https://inis.iaea.org/collection/NCLCollectionStore/_Public/30/018/30018866.pdf)
+- [Film and Video Catalogue Peaceful Applications of Nuclear Energy 1927-1998](https://inis.iaea.org/records/cz0p1-3tt37)
 - [Another catalog](https://files.eric.ed.gov/fulltext/ED067128.pdf)
 - [Our Old Videos page]({% link old-videos.md %}) with a running list of the
   available and yet-to-be-scanned films out there. If you're interested in helping

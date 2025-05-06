@@ -113,7 +113,7 @@ class="img img-fluid center-block" ></a>
 
 <figcaption class="figure-caption" markdown="1">
 How much energy comes out [via different mechanisms]({% link
-radioactivity.md%}#types-of-nuclear-radiation) after you fission 1 kg of Uranium-235. This
+radioactivity.md%}#what-exactly-is-radiation) after you fission 1 kg of Uranium-235. This
 much fission is typical of one day of operation of a large gigawatt-scale power plant,
 powering a city of about 1 million people. Note that in the long term, energy from the
 alpha-decay of materials heavier than uranium produce the majority of the heat rather than
@@ -199,8 +199,8 @@ alt="Dry cask nuclear fuel storage"/>
 <figcaption class="figure-caption">
 Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
 Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: 
-<a href="https://twitter.com/ParisOrtizWines/status/1195184970613936129/photo/1">Paris Ortiz-Wines</a>, 
-Director of Outreach at <a href="https://twitter.com/envprogress">Environmental Progress</a>
+<a href="https://x.com/ParisOrtizWines/status/1195184970613936129/photo/1">Paris Ortiz-Wines</a>, 
+Director of Outreach at <a href="https://x.com/envprogress">Environmental Progress</a>
 </figcaption>
 </figure>
 
@@ -280,7 +280,8 @@ href="https://www.flickr.com/photos/departmentofenergy/7604695116">Photo by the 
 Finland is currently the world leader in long-term commercial nuclear waste disposal
 progress. Their Onkalo deep geologic repository is [expected to the be the world's first
 commercial one to
-operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste). They produced
+operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste/
+). They produced
 an excellent video describing the plan.
 
 <div class="ratio ratio-16x9">
@@ -491,12 +492,12 @@ See Also
    Reactors](https://www.iaea.org/publications/magazines/bulletin/60-2) -- IAEA Bulletin
 summarizing much of the current state of nuclear waste management
  * Canada's [Nuclear Waste Management Organization Reports](https://www.nwmo.ca/Documents-and-reports#) -- perhaps the most comprehensive collection of information on nuclear waste ever compiled.
- * [GAO Disposal of Nuclear Waste page](https://www.gao.gov/key_issues/disposal_of_highlevel_nuclear_waste/issue_summary)
+ * [GAO Disposal of Nuclear Waste page](https://www.gao.gov/nuclear-waste-disposal)
  * [Yucca Mountain Science and Engineering Report](https://www.nrc.gov/docs/ML0306/ML030640495.html) -- 900 pages of details about Yucca Mountain nuclear waste disposal site
  * [NRC Spent Fuel Storage Q&A](https://www.nrc.gov/waste/spent-fuel-storage/faqs.html)
  * [IEAE TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
  * [SOLID WASTE FROM THE OPERATION AND DECOMMISSIONING OF POWER PLANTS (ORNL/SPR-2016/774)](https://www.energy.gov/sites/prod/files/2017/01/f34/Environment%20Baseline%20Vol.%203--Solid%20Waste%20from%20the%20Operation%20and%20Decommissioning%20of%20Power%20Plants.pdf) (PDF)
- * [INTEGRATED REVIEW SERVICE FOR RADIOACTIVE WASTE AND SPENT FUEL MANAGEMENT, DECOMMISSIONING AND REMEDIATION (ARTEMIS) (pdf)](https://international.andra.fr/sites/international/files/2020-05/Rapport%20mission%20ARTEMIS.pdf)
+ * [INTEGRATED REVIEW SERVICE FOR RADIOACTIVE WASTE AND SPENT FUEL MANAGEMENT, DECOMMISSIONING AND REMEDIATION (ARTEMIS)](https://www.iaea.org/services/review-missions/integrated-review-service-for-radioactive-waste-and-spent-fuel-management-decommissioning-and-remediation-artemis)
  * [Sandia National Lab's Nuclear Waste Management Program](https://energy.sandia.gov/programs/nuclear-waste-management/)
    -- a 2018 review of the French nuclear waste disposal program
  * [The IAEA Online Information Resource for Radioactive Waste Management](https://www.iaea.org/topics/radioactive-waste-and-spent-fuel-management)

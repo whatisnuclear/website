@@ -34,12 +34,12 @@ Nuclear is already making 60% of the clean, carbon-free energy in the USA. It is
 There's been a strong anti-nuclear movement for many decades. As climate change became a problem,
 many of them made the switch and started supporting nuclear because it's extremely low-carbon.
 
-- [Pandora's Promise](http://pandoraspromise.com/) is a movie about people making the switch.
+- [Pandora's Promise](https://en.wikipedia.org/wiki/Pandora%27s_Promise) is a movie about people making the switch.
 - James Hansen, famous climate scientist, [became strongly pro-nuclear](https://www.theguardian.com/environment/2015/dec/03/nuclear-power-paves-the-only-viable-path-forward-on-climate-change).
-- James Lovelock, who originated Gaia Theory, has become [strongly pro-nuclear](http://www.jameslovelock.org/nuclear-energy-for-the-21st-century/).
+- James Lovelock, who originated Gaia Theory, has become [strongly pro-nuclear](https://www.jameslovelock.org/nuclear-energy-for-the-21st-century/).
 - Patrick Moore, co-founder of Greenpeace, [has become pro-nuclear](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/14/AR2006041401209.html) (before he started denying climate change outright, but that's another story).
 - Author Gwyneth Cravens documented her switch to being pronuclear in the book [Power to Save the World](https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World)
-- Recent movie [The New Fire](http://newfiremovie.com/) is all about millenials starting nuclear companies to combat climate change.
+- Recent movie [The New Fire](https://www.newfiremovie.com/) is all about millenials starting nuclear companies to combat climate change.
 
 A lot of momentum and support for nukes grew because of climate change. That's certainly how I got
 into nuclear!

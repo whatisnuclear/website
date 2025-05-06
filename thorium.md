@@ -174,8 +174,8 @@ already like 4 startups working on them, and China is developing them as well).
 - <a href="https://ans.tandfonline.com/toc/unct20/194/2">Special May 2016 Edition of Nuclear Technology on Thorium</a>
 
 <h2 id="refs2">References</h2>
-* <a href="http://www.world-nuclear.org/information-library/current-and-future-generation/thorium.aspx">World Nuclear - Known Thorium Reserves</a>
-* <a href="http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx">World Nuclear - Known Uranium Reserves</a>
+* <a href="http://www.world-nuclear.org/information-library/current-and-future-generation/thorium">World Nuclear - Known Thorium Reserves</a>
+* <a href="http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium">World Nuclear - Known Uranium Reserves</a>
 
 Questions? Comments? Send us <a href="/contact.html">a note</a>.
 

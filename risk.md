@@ -160,9 +160,9 @@ in load, the system may not have enough capacity to perform the safety function.
 ## External Links
 <ul>
 <li><a href="https://www.nrc.gov/reading-rm/doc-collections/commission/policy/60fr42622.pdf">NRC Policy Statement on the Use of PRA</a></li>
-<li><a href="https://ocw.mit.edu/courses/engineering-systems-division/esd-72-engineering-risk-benefit-analysis-spring-2007/">Engineering Risk-Benefit Analysis at MIT OCW</a></li>
-<li><a href="https://ocw.mit.edu/courses/nuclear-engineering/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
-<li><a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674005297">Wilson &amp; Crouch, Risk/Benefit Analysis, Harvard University Press, 2001.</a></li>
+<li><a href="https://ocw.mit.edu/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/">Engineering Risk-Benefit Analysis at MIT OCW</a></li>
+<li><a href="https://ocw.mit.edu/courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
+<li><a href="https://www.hup.harvard.edu/books/9780674005297">Wilson &amp; Crouch, Risk/Benefit Analysis, Harvard University Press, 2001.</a></li>
 </ul>
 
 ## See Also

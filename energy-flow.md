@@ -18,7 +18,7 @@ This diagram roughly shows the origin of energy we can use to help us do stuff.
 Most items are individually clickable to give you more info (mostly Wikipedia links).
 
 UPDATE: This [was remixed by @OperadorNuclear really
-well](https://twitter.com/OperadorNuclear/status/1403800198132994059).
+well](https://x.com/OperadorNuclear/status/1403800198132994059).
 
 <pre class="mermaid">
 {% include_relative energy-flow.mmd %}

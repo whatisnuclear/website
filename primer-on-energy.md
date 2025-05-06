@@ -463,7 +463,7 @@ href="http://www.sciencedirect.com/science/article/pii/S0301421516301690">respon
 <a href="http://www.sciencedirect.com/science/article/pii/S0301421516306000">response to the
 response</a> if you want to go into the debate. Russian build data is not included but they may
 actually be the <a
-href="http://www.world-nuclear-news.org/C-Russia-achieves-serial-nuclear-power-plant-construction-03061502.html">current
+href="https://www.world-nuclear-news.org/Articles/Russia-achieves-serial-nuclear-power-plant-constru">current
 world leaders in building reactors on time and budget</a>.</figcaption>
 </figure>
 
@@ -590,7 +590,7 @@ OK with supporting nukes as part of the all-of-the-above approach.
 
 If you're really convinced and want to get involved in nuclear outreach, check out <a
 href="http://www.generationatomic.org/">Generation Atomic</a>! Also, watch David Schumacher's recent
-<a href="http://newfiremovie.com/">film The New Fire</a> (I'm in it!).
+<a href="https://www.newfiremovie.com/">film The New Fire</a> (I'm in it!).
 
 <h3>Put solar panels on your roof and switch to an electric car</h3>
 We need all the carbon-free energy we can get. If you have a roof, put panels on it and use your
@@ -628,8 +628,9 @@ Fellow reactor designers and operators: make more nuclear reactors that can load
 this either by co-generation (desalinate water, make hydrogen, grow food, etc. with your spare heat
 when the grid doesn't need it) or by actually ramping up and down power. I know it is possible, we
 just have to make it easy and cheap. NuScale's <a
-href="http://www.nuscalepower.com/images/our_technology/nuscale-integration-with-renewables_icapp15.pdf">on
+href="https://www.researchgate.net/publication/295114246_Integrating_nuclear_and_renewables">on
 the right track!</a>
+
 <h1>Final word</h1>
 At the climate talk in Ballard, a few strongly anti-nuclear guys got up and angerly asked some
 broad-scale questions, followed by: "WHO'S PAYING YOU TO BE UP HERE SAYING THIS!?" The moderator

@@ -43,7 +43,7 @@ Enjoy!
 
 <div class="ifcontainer">
 <iframe
-  src="https://archive.org/embed/san-onofre-nuclear-generating-station"
+  src="https://archive.org/details/san-onofre-nuclear-generating-station?view=theater&ui=embed&wrapper=false"
   class="responsive-iframe"
   frameborder="0"
   webkitallowfullscreen="true"

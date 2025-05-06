@@ -68,11 +68,11 @@ Related to definition 2, in 2000, experts in the international nuclear power
 community came together in the Generation-IV International Forum (GIF) to
 help guide the industry's path forward. Over 100 experts looked through 130
 reactor types proposed and chose [the 6 most promising reactor
-types](https://www.gen-4.org/gif/jcms/c_40465/generation-iv-systems) that they
+types](https://www.gen-4.org/generation-iv-criteria-and-technologies) that they
 agreed had high potential to reach higher performance in [8 specific technology
-goals, listed here](https://www.gen-4.org/gif/jcms/c_40472/technology-goals).
+goals, listed here](https://www.gen-4.org/generation-iv-criteria-and-technologies).
 
-- [GIF project page](https://www.gen-4.org/gif/)
+- [GIF project page](https://www.gen-4.org/)
 - [GIF Wikipedia page](https://en.wikipedia.org/wiki/Generation_IV_reactor#Generation_IV_International_Forum)
 
 # Advanced _reactors_ vs. advanced reactor _concepts_
@@ -182,7 +182,7 @@ mined uranium and SWUs needed per kWh.
 </table>
 
 Special thanks to Brett Rampal and Adam Stein for discussing this [with "us"
-here](https://twitter.com/whatisnuclear/status/1646927354370068481).
+here](https://x.com/whatisnuclear/status/1646927354370068481).
 
 </div>
 </div>

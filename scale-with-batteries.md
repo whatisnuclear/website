@@ -706,7 +706,7 @@ In the very-cool smartgrid idea, when extra electricity is needed, the grid just
 for energy back from a fleet of electric vehicles where some percentage are usually plugged into the
 wall (because people are at home or work, not driving). This might be fine for the daily peaking,
 but to do this at night, considering that a Tesla Model S comes with a 60kW\*hour battery <a
-href="http://www.teslamotors.com/models/facts">source</a>, it would take:
+href="https://www.tesla.com/models">source</a>, it would take:
 
 {% highlight python %}
 

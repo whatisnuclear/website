@@ -112,7 +112,7 @@ retrofits were added to the fleet. The retrofits included the following<sup>1</s
 - PWR [steam generators required
   repair](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/steam-gen.html)
 - Pipes and other components needed reinforcement via the NRC [Standard Review
-  Plan](https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr0800/)
+  Plan](https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr0800/index.html)
 - Retrofits related to the [Three Mile Island (TMI)
   accident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident)
 
@@ -147,7 +147,7 @@ Other effects of growth and experience included<sup>1</sup>:
   [engineering standards](https://www.astm.org/Standards/nuclear-technology-standards.html) applied to
   nuclear equipment rose from 400 in 1970 to 1800 in 1978.
 - The number of [NRC guides and
-  positions](https://www.nrc.gov/reading-rm/doc-collections/reg-guides/) increased from 4 in 1970 to 304 in 1978.
+  positions](https://www.nrc.gov/reading-rm/doc-collections/reg-guides/index.html) increased from 4 in 1970 to 304 in 1978.
 - Quantities of concrete, steel, cable, cable tray, and conduits needed in a plant all
   basically doubled between 1973 and 1978 to protect from internal missiles, pipe whip, and seismic
   events.
@@ -239,7 +239,7 @@ chose BWRs. Construction trends in these countries is described in detail in
 Lovering, 2016<sup>9</sup>. The Korean approach of choosing one design,
 optimizing the heck out of it, and building lots of them is described lucidly
 by KunMo Chung in [this enlightening Titans of Nuclear podcast
-episode](https://www.titansofnuclear.com/experts/KunMoChung).
+episode](https://www.lastenergy.com/titansofnuclear/experts/KunMoChung).
 
 ## Nuclear renaissance?
 
@@ -297,11 +297,11 @@ weapons testing, and nuclear power plants have long been associated with them (a
 association not helped by accidents at Three Mile Island, Chernobyl, and Fukushima).
 
 But the low-carbon nature of nuclear power is clear and undisputed, and the [actual
-data](https://ourworldindata.org/what-is-the-safest-form-of-energy) comparing the health
+data](https://ourworldindata.org/safest-sources-of-energy) comparing the health
 effects of fossil fuels (~6 million deaths/year) to nuclear (up to 4000 deaths ever) is
 hard to ignore. The ensuing debate here reaches well beyond science and into personal
 identity itself. Progress is being made as this identity issue is being [recognized by
-climate-inspired advocates](https://www.titansofnuclear.com/experts/benheard) of nuclear energy.
+climate-inspired advocates](https://www.lastenergy.com/titansofnuclear/experts/benheard) of nuclear energy.
 
 ### New builds
 
@@ -319,10 +319,10 @@ were all devastating.
 
 Late-stage regulatory-enforced [re-design of the aircraft impact shield building for
 AP1000s caused part of the
-delay](http://ansnuclearcafe.org/2014/11/12/root-cause-of-vogtle-and-vc-summer-delays/),
+delay](https://www.ans.org/news/article-1646/root-cause-of-vogtle-and-vc-summer-delays/),
 but a Bechtel report released by the South Carolina Governor's office highlights [lack of
 experience, contract misalignment, and lack of detailed engineering
-design](http://www.world-nuclear-news.org/C-US-governor-releases-report-on-VC-Summer-flaws-06091701.html).
+design](https://www.world-nuclear-news.org/Articles/US-governor-releases-report-on-VC-Summer-flaws).
 
 Elsewhere, the EPR builds in Finland (Olkiluoto 3), France (Flamanville 3), and the UK
 (Hinkley Point C) are all many years late and many billions of Euros overbudget.
@@ -407,9 +407,9 @@ repeated failure of construction management. They recommended:
 ### ETI Nuclear Cost Driver report
 
 In April 2018, ETI published [a
-report](https://www.eti.co.uk/library/the-eti-nuclear-cost-drivers-project-summary-report)
+report](https://www.lucidcatalyst.com/the-eti-nuclear-cost-drivers)
 about the cost drivers of nuclear projects (here's the [press
-release](https://www.eti.co.uk/news/cost-drivers-identified-to-support-investment-in-new-nuclear-power-and-its-role-in-the-uks-future-low-carbon-energy-system)).
+release](https://www.world-nuclear-news.org/Articles/Identifying-the-cost-drivers-of-nuclear-projects)).
 The key findings from their research and analysis reached the following findings for cost-effective nuclear:
 
 - Complete design before construction
@@ -571,18 +571,18 @@ operations in December, 2019.
 2. Komanoff, Charles. _Power plant cost escalation: nuclear and coal capital costs,
    regulation, and economics_. Vol. 12. Van Nostrand Reinhold Company, 1981. (Full book
    freely [available from the
-   author](http://komanoff.net/nuclear_power/Power_Plant_Cost_Escalation.pdf))
+   author](https://komanoff.net/nuclear_power/Power_Plant_Cost_Escalation.pdf))
 3. Nuclear Power Annual Review, US EIA
    [EIA](https://www.eia.gov/totalenergy/data/annual/)
 4. Rod Adams, [Offshore Power Systems: Big Plants for a Big
    Customer](https://atomicinsights.com/offshore-power-systems-big-plants-for-big-customer/)
-5. OECD, [Reduction of Capital Costs of Nuclear Power Plants (2000)](https://www.oecd-ilibrary.org/nuclear-energy/reduction-of-capital-costs-of-nuclear-power-plants_9789264180574-en)
+5. OECD, [Reduction of Capital Costs of Nuclear Power Plants (2000)](https://www.oecd.org/en/publications/reduction-of-capital-costs-of-nuclear-power-plants_9789264180574-en.html)
 6. Komanoff, [10 blows that stopped nuclear
-   power](http://komanoff.net/nuclear_power/10_blows.php) (1991)
+   power](https://komanoff.net/nuclear_power/10_blows.php) (1991)
 7. MIT, [The Future of Nuclear Energy in a Carbon-Constrained
    World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/),
    2018
-8. [ETI Nuclear Cost Drivers Project Summary Report](https://www.eti.co.uk/library/the-eti-nuclear-cost-drivers-project-summary-report)
+8. [ETI Nuclear Cost Drivers Project Summary Report](https://www.lucidcatalyst.com/the-eti-nuclear-cost-drivers)
 9. Lovering, Historical construction costs of global nuclear power reactors, _Energy Policy_, 91, (2016) doi:[10.1016/j.enpol.2016.01.011](https://doi.org/10.1016/j.enpol.2016.01.011)
 10. [DOE/NE-0009 Power Plant Capital Investment Cost Estimates: Current Trends and Sensitivity to
     Economic Parameters](https://digital.library.unt.edu/ark:/67531/metadc1074451/) (1980)

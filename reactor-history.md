@@ -198,7 +198,7 @@ water reactor (Project Wizard).
 <a href="/img/s1w_reactor.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/s1w_reactor.jpg" alt="The S1W Nautilus prototype in Idaho"/></a>
 <figcaption><p>The STG/S1W Nautilus PWR prototype in Idaho (<a
-href="https://www.nrl.navy.mil/news/releases/nrl-history-phil-abelson-atomic-age">NRL
+href="https://www.nrl.navy.mil/Media/News/Article/2574001/nrl-history-phil-abelson-the-atomic-age/">NRL
 Atomic Age</a>)</p></figcaption> 
 </figure>
 </div>
@@ -314,7 +314,7 @@ on nuclear-powered cruise missiles and scramjets was performed.
 <a href="/img/nuclear_rocket.jpg"><img class="img-fluid" 
 src="/img/blank.png" data-echo="/img/nuclear_rocket_sm.jpg" alt="A wild looking nuclear jet engine concept art"/></a>
 <figcaption><p>A nuclear-powered jet engine concept (from <a
-href="https://www.osti.gov/biblio/1048124-comprehensive-technical-report-general-electric-direct-air-cycle-aircraft-nuclear-propulsion-program-program-summary-references">APEX-901</a>)</p></figcaption> 
+href="https://www.osti.gov/biblio/1048124">APEX-901</a>)</p></figcaption> 
 </figure>
 </div>
 
@@ -1122,7 +1122,7 @@ CC-BY-2.0</a>)</figcaption>
 
 Nuclear superheat reactors mostly operated pathetically due to high-temperature
 complications (corrosion, erosion). Nothing has been done on them since the 1960s (except
-maybe in Russia). [Some say](http://ansnuclearcafe.org/2014/06/13/pathfinder/) the concept
+maybe in Russia). [Some say](https://www.ans.org/news/article-1581/pathfinder/) the concept
 of direct superheat reactors is definitively dead due to these negative experiences.
 However, advances in materials since then may eventually warrant another look. The
 direct-cycle simplicity of a BWR plus the added efficiency of superheated steam could cut
@@ -1135,7 +1135,7 @@ The decommissioned BONUS nuclear superheat reactor in Puerto Rico [has 4.5 stars
 TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g264369-d635150-Reviews-Domes_Beach-Rincon_Puerto_Rico.html).
 The entire reactor was inside the dome (including the control room). Most of it has been
 grouted in place and entombed. Read more [from Will Davis
-here](http://ansnuclearcafe.org/2016/04/14/nuclear-energy-for-puerto-rico/).
+here]()https://www.ans.org/news/article-1818/nuclear-energy-for-puerto-rico/.
 </div>
 
 ### Gas-cooled reactors
@@ -1858,7 +1858,7 @@ The UNT library was also really useful for this work.
 - [Stacy, _Proving the Principle: A History of the Idaho National Engineering and Environmental Laboratory,
   1949-1999_](https://www.goodreads.com/book/show/7591369-proving-the-principle)
 - [B Reactor Historic American Engineering Record
-  WA-164](http://wcpeace.org/history/Hanford/HAER_WA-164_B-Reactor.pdf) — lots of good,
+  WA-164](https://web.archive.org/web/20240518151227/http://wcpeace.org/history/Hanford/HAER_WA-164_B-Reactor.pdf) — lots of good,
   detailed info about the B reactor, plus cool photos
 - Lawrence Suid, _The Army’s Nuclear Power Program (1990)_ — History of the Army reactor
   program
@@ -2016,16 +2016,16 @@ RAND study!
 - [Experimental testing of core component handling equipment and handling techniques for
   Hallam Nuclear Power Facility (1964)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095005693&view=1up&seq=1)
 - [23 minute video of Hallam](https://www.youtube.com/watch?v=ey1MO_1DkL4&t=20s)
-- [Shorter video of Hallam (silent)](http://ansnuclearcafe.org/2019/11/08/hallam-nuclear-station-on-1960s-tv/)
-- [My Research at the Knolls Atomic Power Laboratory (1946 - 1963)](http://www.etheric.com/Fred/KAPL.pdf) — Fred LaViolette's history, including some
+- [Shorter video of Hallam (silent)](https://www.ans.org/news/article-2163/hallam-nuclear-station-on-1960s-tv/)
+- [My Research at the Knolls Atomic Power Laboratory (1946 - 1963)](https://www.etheric.com/Fred/KAPL.pdf) — Fred LaViolette's history, including some
   very unique photos inside the S1G/D1G sphere
 - [High-res photos of S1G sphere from
   LIFE](http://images.google.com/hosted/life/c4707d71d407ce7d.html)
 - [Santa Susana cleanup site at DOE](https://www.etec.energy.gov/)
-- [Seawolf tries sodium](http://ansnuclearcafe.org/2017/11/14/seawolf-tries-sodium/) — ANS
+- [Seawolf tries sodium](https://www.ans.org/news/article-1999/seawolf-tries-sodium/) — ANS
   nuclear cafe article about Seawolf
 - [The USS Seawolf Sodium-Cooled Reactor
-  Submarine](http://www.ans.org/about/officers/docs/seawolf_sfr_sea_story_051712.pdf) —
+  Submarine](https://wx1.ans.org/about/officers/docs/seawolf_sfr_sea_story_051712.pdf) —
   Eric Loewen tells the story of Seawolf at an ANS meeting in 2012
 
 ### Organic Moderated Reactor references
@@ -2063,7 +2063,7 @@ RAND study!
 - [The Shippingport Reactor](https://babel.hathitrust.org/cgi/pt?id=mdp.39015003403626&view=1up&seq=7) — Textbook describing Shippingport; more pure gold from the 1958 Atoms for Peace series (610 pages)
 - [Shippingport photos at the Library of
   Congress](https://www.loc.gov/resource/hhh.pa1658.photos?st=gallery)
-- [The Hook ons (ANS Nuclear cafe)](http://ansnuclearcafe.org/2013/04/18/the-hook-ons/)
+- [The Hook ons (ANS Nuclear cafe)](https://www.ans.org/news/article-1309/the-hook-ons/)
 
 ### BWR Historical references
 
