@@ -12,7 +12,6 @@ byline: false
 last_modified_at: 2024-02-25
 ---
 
-<main>
 
 <div class="row">
 <div class="col-md-8" markdown="1">
