@@ -773,8 +773,10 @@
     full-scale machines to create unlimited industrial power by controlling a
     continuous fusion process at millions of degrees of temperature.
   notes:
-  priority: 2
+  win: tru
   links:
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=t2W6MXa1VT8
 
 - title: To Imitate the Sun
   naid: 88325
@@ -3482,7 +3484,6 @@
     - url: https://www.youtube.com/watch?v=E2HWF1ZKau8
       name: On YouTube
       notes: Thanks to Aalo Atomics
-
 
 - title: "Clinch River Breeder Reactor Closure Head Testing"
   naid: 7480006
