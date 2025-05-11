@@ -278,7 +278,8 @@ Sodium-Beryllium Reactors
 </td>
 <td markdown="1">
 * [SNAP-10A](https://en.wikipedia.org/wiki/SNAP-10A) (NaK with UZrH fuel)
-* [KNK-I](https://publikationen.bibliothek.kit.edu/270038327) (ZrH-moderated)
+* [KNK-I](https://publikationen.bibliothek.kit.edu/270038327) (UO<sub>2</sub>, ZrH)
+* [TOPAZ-II](https://www.researchgate.net/publication/234197135_TOPAZ_2_system_description) (NaK, UO<sub>2</sub>, ZrH)
 </td>
 </tr>
 
