@@ -200,7 +200,7 @@ alt="Dry cask nuclear fuel storage"/>
 Nuclear waste in a dry cask storage facility at the Palo Verde Nuclear Generating
 Station. Yes, you can stand right next to high-level nuclear waste in storage. Photo credit: 
 <a href="https://x.com/ParisOrtizWines/status/1195184970613936129/photo/1">Paris Ortiz-Wines</a>, 
-Director of Outreach at <a href="https://x.com/envprogress">Environmental Progress</a>
+Global Director of <a href="https://standupfornuclear.org/">Stand Up for Nuclear</a>
 </figcaption>
 </figure>
 
@@ -280,8 +280,7 @@ href="https://www.flickr.com/photos/departmentofenergy/7604695116">Photo by the 
 Finland is currently the world leader in long-term commercial nuclear waste disposal
 progress. Their Onkalo deep geologic repository is [expected to the be the world's first
 commercial one to
-operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste/
-). They produced
+operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste/). They produced
 an excellent video describing the plan.
 
 <div class="ratio ratio-16x9">
