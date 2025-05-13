@@ -9,7 +9,7 @@ description: >
   In the early 90s, the US bought 6 exotic TOPAZ-II space reactors
   from the USSR. Many interesting things happened next.
 byline: true
-image: /img/posts/topaz/topaz_10.jpg
+image: /img/posts/topaz/topaz10.jpg
 comments: true
 ---
 
