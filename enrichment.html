@@ -64,9 +64,11 @@ categories:
           <option value="90.0">Weapons-grade (90%)</option>
         </select>
       </div>
-      <div class="col-md-2" >LEU</div>
+      <div class="col-md-2" id="enrich-label">LEU</div>
     </div>
     <hr>
+    <div class="row">
+      <div class="col-md-6" >
     <div class="form-check">
       <input
         class="form-check-input"
@@ -91,6 +93,35 @@ categories:
       <label class="form-check-label" for="inputConstant">
         Compute feed mass from given product mass
       </label>
+    </div>
+    </div>
+      <div class="col-md-6" >
+    <div class="form-check">
+      <input
+        class="form-check-input"
+        type="radio"
+        name="outputMode"
+        value="0"
+        id="output-initial"
+      >
+      <label class="form-check-label" for="output-initial">
+        Output initial core costs
+      </label>
+    </div>
+    <div class="form-check">
+      <input
+        class="form-check-input"
+        type="radio"
+        name="outputMode"
+        value="1"
+        id="output-reload"
+        checked
+      >
+      <label class="form-check-label" for="output-reload">
+        Output reload costs
+      </label>
+    </div>
+    </div>
     </div>
 
     <div class="row">
@@ -448,6 +479,8 @@ categories:
       let tails_mass = document.getElementById('tails-mass');
       let swu = document.getElementById('swu-mass');
       let mode = document.getElementById('mode');
+      let output_reload = document.getElementById('output-reload');
+      let output_initial = document.getElementById('output-initial');
       let prod_const = document.getElementById('productConstant');
       let save = document.getElementById('save');
       let burange = document.getElementById('burnup');
@@ -474,6 +507,16 @@ categories:
       let caseTitle = document.getElementById('case-title');
       let addBtn = document.getElementById('add');
       let caseNum = 0; // cost plot index
+
+      // set labels for easly lookup (https://stackoverflow.com/a/285608/1279313)
+      var labels = document.getElementsByTagName('LABEL');
+      for (var i = 0; i < labels.length; i++) {
+          if (labels[i].htmlFor != '') {
+              var elem = document.getElementById(labels[i].htmlFor);
+              if (elem)
+                  elem.label = labels[i];         
+          }
+      }
 
       // the pain we have to go through when not using a JS framework
       tails_assay.addEventListener('input', (e) => {
@@ -532,6 +575,29 @@ categories:
         let val = parseFloat(e.target.value);
         bunumber.value = val;
         buselect.value = '';
+        computeCost();
+      });
+      output_reload.addEventListener('input', (e) => {
+        let val = parseFloat(e.target.value);
+        if (val == '1') {
+          reload_swu_cost.label.innerHTML="Reload SWU (¢/kWh)"
+          reload_fab_cost.label.innerHTML="Reload Fab (¢/kWh)"
+          reload_feed_cost.label.innerHTML="Reload Feed (¢/kWh)"
+          reload_conv_cost.label.innerHTML="Reload Conversion (¢/kWh)"
+          reload_total_cost.label.innerHTML="Total reload cost (¢/kWh)"
+        }
+        computeCost();
+      });
+      output_initial.addEventListener('input', (e) => {
+        let val = parseFloat(e.target.value);
+        if (val == '0') {
+          // set reload labels
+          reload_swu_cost.label.innerHTML="SWU cost ($)"
+          reload_fab_cost.label.innerHTML="Fab cost ($)"
+          reload_feed_cost.label.innerHTML="Feed cost ($)"
+          reload_conv_cost.label.innerHTML="Conversion cost ($)"
+          reload_total_cost.label.innerHTML="Total cost ($)"
+        }
         computeCost();
       });
       bunumber.addEventListener('input', (e) => {
@@ -683,31 +749,52 @@ powerselect.addEventListener("change",(e)=>{
         // kg = 1 kWe * 1 hour * 1/eff [MWt/MWe] * 1/24 [day/hour] * 1/burnup [kg/(MWt*day)] * 1000 kW/MW)
         let feed_factor = get_feed_factor();
         let swu_factor = get_swu_factor(feed_factor);
+        let swu_tcost 
+        let feed_tcost
+        let conv_tcost
+        let fab_tcost 
+        let t_tcost 
 
-        let prod_kg_per_kwe =
-          100.0 / (effnumber.value * 24.0 * burnup.value * 1000.0);
-        let swu_per_kwe = prod_kg_per_kwe * swu_factor;
-        let feed_per_kwe = prod_kg_per_kwe * feed_factor;
 
-        // convert to cents
-        let swu_cost_per_kwe = swu_per_kwe * swucost.value * 100;
-        let feed_cost_per_kwe = feed_per_kwe * feedcost.value * 100;
-        let fab_cost_per_kwe = prod_kg_per_kwe * fabcost.value * 100;
-        let conv_cost_per_kwe = feed_per_kwe * convcost.value * 100;
+        let output_mode = document.querySelector('input[name="outputMode"]:checked').value;
+        if (output_mode == '0') {
+          // compute raw costs (for initial core)
+          swu_tcost = swu.value * swucost.value;
+          feed_tcost = feed_mass.value * feedcost.value;
+          conv_tcost = feed_mass.value * convcost.value;
+          fab_tcost = product_mass.value * fabcost.value;
+          layoutCost.yaxis.title.text= "Fuel cost $"
+        }
+        else {
+          // compute continuous feed costs (for reloads)
+          let prod_kg_per_kwe =
+            100.0 / (effnumber.value * 24.0 * burnup.value * 1000.0);
+          let swu_per_kwe = prod_kg_per_kwe * swu_factor;
+          let feed_per_kwe = prod_kg_per_kwe * feed_factor;
+
+          // convert to cents
+          swu_tcost = swu_per_kwe * swucost.value * 100;
+          feed_tcost = feed_per_kwe * feedcost.value * 100;
+          fab_tcost = prod_kg_per_kwe * fabcost.value * 100;
+          conv_tcost = feed_per_kwe * convcost.value * 100;
+
+          reload_waste.value = (prod_kg_per_kwe * 1000000).toFixed(3);
+          reload_feed_mass.value = (feed_per_kwe * 1000000).toFixed(3);
+          layoutCost.yaxis.title.text= "Fuel reload cost ¢/kWh"
+        }
 
         let tcost =
-          swu_cost_per_kwe +
-          feed_cost_per_kwe +
-          conv_cost_per_kwe +
-          fab_cost_per_kwe;
+          swu_tcost+
+          feed_tcost+
+          conv_tcost+
+          fab_tcost;
         reload_total_cost.value = tcost.toFixed(3);
-        reload_swu_cost.value = swu_cost_per_kwe.toFixed(3);
-        reload_feed_cost.value = feed_cost_per_kwe.toFixed(3);
-        reload_fab_cost.value = fab_cost_per_kwe.toFixed(3);
-        reload_conv_cost.value = conv_cost_per_kwe.toFixed(3);
-        reload_waste.value = (prod_kg_per_kwe * 1000000).toFixed(3);
-        reload_feed_mass.value = (feed_per_kwe * 1000000).toFixed(3);
+        reload_swu_cost.value = swu_tcost.toFixed(3);
+        reload_feed_cost.value = feed_tcost.toFixed(3);
+        reload_fab_cost.value = fab_tcost.toFixed(3);
+        reload_conv_cost.value = conv_tcost.toFixed(3);
         let newData = buildCostData();
+        
         Plotly.react('plot-cost', newData, layoutCost);
       }
 
