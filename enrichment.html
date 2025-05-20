@@ -39,6 +39,16 @@ categories:
           id="feed-assay"
         >
       </div>
+      <div class="col-md-2">Conversion losses (%)</div>
+      <div class="col-md-1">
+        <input
+          type="text"
+          value="0.5"
+          placeholder="Conversion losses"
+          class="form-control"
+          id="conversion-losses"
+        >
+      </div>
     </div>
 
     <div class="row">
@@ -127,7 +137,7 @@ categories:
     <div class="row">
       <div class="col-md-3">
         <label for="feed-mass" class="form-label"
-          >Feed mass (kg or tonne)</label
+          >Feed mass (kg or tonne U in U<sub>3</sub>O<sub>8</sub>)</label
         >
         <input
           type="text"
@@ -139,7 +149,7 @@ categories:
       </div>
       <div class="col-md-3">
         <label for="product-mass" class="form-label"
-          >Product mass (kg or tonne)</label
+          >Product mass (kg or tonne U)</label
         >
         <input
           type="text"
@@ -149,7 +159,7 @@ categories:
           id="product-mass"
         >
       </div>
-      <div class="col-md-3">
+      <div class="col-md-2">
         <label for="tails-mass" class="form-label"
           >Tails mass (kg or tonne)</label
         >
@@ -162,9 +172,22 @@ categories:
           readonly
         >
       </div>
-      <div class="col-md-3">
+      <div class="col-md-2">
+        <label for="uf6-mass" class="form-label"
+          >U in UF<sub>6</sub> mass (kg or tonne)</label
+        >
+        <input
+          type="text"
+          value=""
+          placeholder="UF6 mass"
+          class="form-control"
+          id="uf6-mass"
+          readonly
+        >
+      </div>
+      <div class="col-md-2">
         <label for="swu-mass" class="form-label"
-          >SWU (kg-SWU or tonne-SWU)</label
+          >SWU (kg or tonne)</label
         >
         <input
           type="text"
@@ -198,11 +221,11 @@ categories:
     <div class="row">
       <div class="col-md-3">
         <label for="feed-cost" class="form-label"
-          >Cost of Feed U<sub>3</sub>O<sub>8</sub> ($/kgU)</label
+          >Cost of Feed U<sub>3</sub>O<sub>8</sub> ($/lb U<sub>3</sub>O<sub>8</sub>)</label
         >
         <input
           type="text"
-          value="110"
+          value="65"
           placeholder="Feed cost"
           class="form-control"
           id="feed-cost"
@@ -214,7 +237,7 @@ categories:
         >
         <input
           type="text"
-          value="16"
+          value="60"
           placeholder="Conversion cost"
           class="form-control"
           id="conversion-cost"
@@ -224,7 +247,7 @@ categories:
         <label for="swu-cost" class="form-label">Cost of SWU ($/kgSWU)</label>
         <input
           type="text"
-          value="100"
+          value="170"
           placeholder="SWU cost"
           class="form-control"
           id="swu-cost"
@@ -474,7 +497,9 @@ categories:
       let select = document.getElementById('enrich-select');
       let tails_assay = document.getElementById('tails-assay');
       let feed_assay = document.getElementById('feed-assay');
+      let conversion_losses = document.getElementById('conversion-losses');
       let feed_mass = document.getElementById('feed-mass');
+      let uf6_mass = document.getElementById('uf6-mass');
       let product_mass = document.getElementById('product-mass');
       let tails_mass = document.getElementById('tails-mass');
       let swu = document.getElementById('swu-mass');
@@ -523,6 +548,9 @@ categories:
         computeFeed();
       });
       feed_assay.addEventListener('input', (e) => {
+        computeFeed();
+      });
+      conversion_losses.addEventListener('input', (e) => {
         computeFeed();
       });
       product_mass.addEventListener('input', (e) => {
@@ -706,10 +734,15 @@ powerselect.addEventListener("change",(e)=>{
         // compute MF/MP = feed factor
         let mode = document.querySelector('input[name="mode"]:checked').value;
         let feed_factor = get_feed_factor();
+        let conv_factor = (100.0-conversion_losses.value)/100.0
         if (mode == '1') {
-          feed_mass.value = (feed_factor * product_mass.value).toFixed(3);
+          // compute feed mass from given product
+          uf6_mass.value = (feed_factor * product_mass.value).toFixed(3);
+          feed_mass.value = uf6_mass.value / conv_factor;
         } else {
-          product_mass.value = (feed_mass.value / feed_factor).toFixed(3);
+          // compute product mass from given feed
+          uf6_mass.value = feed_mass.value * conv_factor
+          product_mass.value = (uf6_mass.value / feed_factor).toFixed(3);
         }
         let swu_factor = get_swu_factor(feed_factor);
         swu.value = (swu_factor * product_mass.value).toFixed(3);
@@ -760,8 +793,11 @@ powerselect.addEventListener("change",(e)=>{
         if (output_mode == '0') {
           // compute raw costs (for initial core)
           swu_tcost = swu.value * swucost.value;
-          feed_tcost = feed_mass.value * feedcost.value;
-          conv_tcost = feed_mass.value * convcost.value;
+          // convert U3O8 to U and also lbs to kg
+          // (it's typical for U3O8 prices to be in $/lb U3O8)
+          // note also that people often assume 0.5% loss during U3O8 conversion to UF6.
+          feed_tcost = feed_mass.value * (feedcost.value * 2.2046 / 0.847981);
+          conv_tcost = uf6_mass.value * convcost.value;
           fab_tcost = product_mass.value * fabcost.value;
           layoutCost.yaxis.title.text= "Fuel cost $"
         }
@@ -774,7 +810,7 @@ powerselect.addEventListener("change",(e)=>{
 
           // convert to cents
           swu_tcost = swu_per_kwe * swucost.value * 100;
-          feed_tcost = feed_per_kwe * feedcost.value * 100;
+          feed_tcost = feed_per_kwe * feedcost.value * 2.2046 / 0.847981* 100;
           fab_tcost = prod_kg_per_kwe * fabcost.value * 100;
           conv_tcost = feed_per_kwe * convcost.value * 100;
 
