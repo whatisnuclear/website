@@ -89,6 +89,8 @@ Hands-on experience with core environment
 * Operates hot cell or reactor environments with >= 100,000s Curies of activity 
 </td>
 </tr>
+
+
 <tr>
 <th scope="row">Core modeling</th>
 <td markdown="1">
@@ -170,6 +172,27 @@ Hands-on experience with core environment
 </td>
 <td>Cell 4</td>
 </tr>
+
+<tr>
+<th scope="row">Financials</th>
+<td markdown="1">
+* Just getting started
+* Small friends and family raise
+* IPO'd before doing significant regulatory pre-application work
+</td>
+<td markdown="1">
+* VC backed with solid series A raise
+</td>
+<td markdown="1">
+* VC backed with solid series B raise and good runway
+* Backed by government with several-year mission to deploy nuclear energy
+</td>
+<td markdown="1">
+* Backed by government with multi-decade mission to deploy nuclear energy
+* Backed by wealthy group or individual with multi-decade mission to deploy nuclear energy
+</td>
+</tr>
+
 <tr>
 <th scope="row">Design Control</th>
 <td markdown="1">
