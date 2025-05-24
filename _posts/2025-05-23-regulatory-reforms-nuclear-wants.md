@@ -204,10 +204,12 @@ thankful for their guidance and support. Brett Rampal was extremely helpful, as 
 
 ## See Also
 
-- [X thread of this](https://x.com/whatisnuclear/status/1925922832787100040)
+- [Recording of the signing of the EOs](https://www.youtube.com/watch?v=O9rCTRL6vmQ)
 - [Reinvigorating the Nuclear Industrial Base](https://www.whitehouse.gov/presidential-actions/2025/05/reinvigorating-the-nuclear-industrial-base/)
 - [Reforming Nuclear Reactor Testing at the DOE](https://www.whitehouse.gov/presidential-actions/2025/05/reforming-nuclear-reactor-testing-at-the-department-of-energy/)
 - [Ordering the Reform of the Nuclear Regulatory Commission](https://www.whitehouse.gov/presidential-actions/2025/05/ordering-the-reform-of-the-nuclear-regulatory-commission/)
+- [X thread of this](https://x.com/whatisnuclear/status/1925922832787100040)
+- [BTI writeup: RELEASE: Four Nuclear Executive Orders Signed, and There is a Long Way to Go](https://thebreakthrough.org/press/release-four-nuclear-executive-orders-signed-and-there-is-a-long-way-to-go)
 
 </div>
 </div>
