@@ -39,7 +39,7 @@ exclusion for nth-of-a-kind facilities and power uprates in 10 CFR 51.22.
 
 <hr/>
 
-2: 📈Increase NRC staffing focused on new reactor licensing. The nuclear
+2: 📈**Increase NRC staffing focused on new reactor licensing**. The nuclear
 ecosystem is thriving, and dozens of new applicants are expected to hit the NRC
 soon. Staff has to be there in order to perform the reviews. I’d say this was
 the biggest and most common concern from across the nuclear industry.
@@ -52,7 +52,7 @@ from nuclear power are achieved safely.
 
 <hr/>
 
-3: 🎛️Improve dashboards, visibility, and timelines around Commission voting.
+3: 🎛️Improve dashboards, visibility, and **timelines around Commission voting**.
 The Commission often sits on votes for years, one example being NEPA Part 51
 rulemaking.
 
@@ -87,7 +87,8 @@ programs to meet the requirements of 10 CFR 50 Appendix B. Applicants can and
 often do commit to commercial-grade standards for certain components.
 
 <hr/>
-5: 🧑‍🤝‍🧑 Improve and encourage the NRC’s ability to perform consultation for
+
+5: 🧑‍🤝‍🧑 Improve and **encourage the NRC's ability to perform consultation** for
 licensees and prospective licensees. There’s a lingering tradition for the NRC
 staff to never directly answer questions, but rather to just always ask for more
 information, even if the NRC knows that something would be wrong if submitted as
@@ -103,7 +104,7 @@ may include additional fees, which could improve cost efficiency of NRC.
 
 <hr/>
 
-6: ☢️ Replace “As low as reasonably attainable” (ALARA) with **specific
+6: ☢️ Replace "As low as reasonably attainable" (ALARA) with **specific
 sub-background dose limit** of, like, 0.1 mSv/yr/person. ALARA is ill-defined
 and vague, can be abused to cause far more time and money to be spent for
 in-the-noise health benefits, especially in operations, decommissioning, and
@@ -115,7 +116,7 @@ there, but there is still plenty of scientific evidence supporting LNT, so any
 further declarations would require additional careful scientific analysis.
 Low-dose radiation effects are an extremely difficult problem to study, leaving
 Alvin Weinberg to once [call it
-“trans-scientific”](https://www.science.org/doi/epdf/10.1126/science.177.4045.211),
+"trans-scientific"](https://www.science.org/doi/epdf/10.1126/science.177.4045.211),
 meaning a question that could be asked scientifically but were beyond the
 scientific method to answer.
 
@@ -181,8 +182,8 @@ Preparedness drills. Green violations should be the max possible from drills.
 
 <hr/>
 
-12: 🧑‍⚖️Provide more Commission oversight and prioritization of the Advisory
-Committee on Reactor Safeguards (ACRS). They are very useful for reviewing new
+12: 🧑‍⚖️Provide more Commission **oversight and prioritization of the Advisory
+Committee on Reactor Safeguards** (ACRS). They are very useful for reviewing new
 and novel things, but the NRC staff technical capabilities have dramatically
 improved since the ACRS's founding in the early AEC days. Keep them focused on
 new and novel things and minimize redundancy with staff capabilities and work.
