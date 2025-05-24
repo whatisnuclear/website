@@ -87,22 +87,19 @@ programs to meet the requirements of 10 CFR 50 Appendix B. Applicants can and
 often do commit to commercial-grade standards for certain components.
 
 <hr/>
-
-5: 🧷Encourage use of [commercial-grade Quality Assurance
-standards](https://www.iaea.org/publications/15505/suitability-evaluation-of-commercial-grade-products-for-use-in-nuclear-power-plant-safety-systems)
-on safety-related design, procurement, maintenance, etc. instead of special
-nuclear-grade ones where extra quality from nuclear-grade QA does not have a
-major impact on public health.
-
-Modern redundancy and passive safety design increases tolerances of failures.
-Certain structures (e.g. 50 ton concrete blocks) will protect against various
-internal and external events to a large degree with normal industrial QA
-standards. Special nuclear-grade standards increase costs, and prevent many
-vendors from selling to nuclear plants. There are even examples where going to
-specialized nuclear-grade standards requires a whole new one-off line, which can
-decrease overall quality and safety. Update guidance to endorse ISO-9001 QA
-programs to meet the requirements of 10 CFR 50 Appendix B. Applicants can and
-often do commit to commercial-grade standards for certain components.
+5: 🧑‍🤝‍🧑 Improve and encourage the NRC’s ability to perform consultation for
+licensees and prospective licensees. There’s a lingering tradition for the NRC
+staff to never directly answer questions, but rather to just always ask for more
+information, even if the NRC knows that something would be wrong if submitted as
+is. This leads to a legalistic and adversarial relationship and wastes time in
+communication cycles. There is zero legal or regulatory basis for this behavior;
+it’s a culture that arose from nothing at some point within the NRC. The culture
+has been improving dramatically in the last 10 years, which is great. Encourage
+and enable the NRC more collaborative in the safety mission by allowing them to
+‘consult’ in this manner. Put out an official policy statement proclaiming that
+this kind of consultation and collaboration is allowed and encouraged. Allow
+fast non-public NRC/vendor communication, akin to group chats. Note that this
+may include additional fees, which could improve cost efficiency of NRC.
 
 <hr/>
 
