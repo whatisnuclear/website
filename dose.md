@@ -5,6 +5,7 @@ category: physics
 description: We discuss radioactive dose and sources of radiation. General health related stuff.
 author: jesse
 date: 2008-10-14
+last_modified_at: 2025-05-24
 byline: true
 ---
 
@@ -24,7 +25,7 @@ for a whole year.
 </div>
 
 <h2 id="doseequiv">What is dose equivalent?</h2>
-Great question. Different types of radiation have different effects on the body because 
+Different types of radiation have different effects on the body because 
 of the way they deposit their energy. To meaningfully interpret different doses of radiation, 
 we modify a given dose by something called a quality factor that depends on the type of radiation. 
 The higher the quality factor, the more dangerous an encounter with radiation may be. A table of 
@@ -107,6 +108,163 @@ Living near a nuclear power plant doesn't even register on the graph.
 2. **Distance** – The more distance that is put between you and the source decreases the intensity of the exposure from that source.
 3. **Shielding** – Shielding is quite simply putting material between you and the source to lower intensity of the radiation.
    Examples include concrete walls or lead but generally the more material the better.
+
+## Dose conversion table
+
+This table shows some doses in different units. Datapoints are from the [DOE dose charts](https://www.energy.gov/sites/prod/files/2018/01/f46/doe-ionizing-radiation-dose-ranges-jan-2018.pdf).
+
+<div class="table-responsive">
+   <table class="table table-striped table-bordered table-hover">
+         <thead class="table-dark">
+            <tr>
+               <th scope="col"></th>
+               <th scope="col">rem</th>
+               <th scope="col">mrem</th>
+               <th scope="col">Sv</th>
+               <th scope="col">mSv</th>
+               <th scope="col">µSv</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Typical cross-country flight</td>
+               <td>0.0037</td>
+               <td>3.7</td>
+               <td>0.000037</td>
+               <td>0.037</td>
+               <td>37</td>
+            </tr>
+            <tr>
+               <td>Chest x-ray</td>
+               <td>0.02</td>
+               <td>20</td>
+               <td>0.0002</td>
+               <td>0.2</td>
+               <td>200</td>
+            </tr>
+            <tr>
+               <td>NRC cleanup criteria (/yr)</td>
+               <td>0.025</td>
+               <td>25</td>
+               <td>0.00025</td>
+               <td>0.25</td>
+               <td>250</td>
+            </tr>
+            <tr>
+               <td>NRC dose limit to public (/yr)</td>
+               <td>0.1</td>
+               <td>100</td>
+               <td>0.001</td>
+               <td>1</td>
+               <td>1000</td>
+            </tr>
+            <tr>
+               <td>Average background (/yr)</td>
+               <td>0.6</td>
+               <td>600</td>
+               <td>0.006</td>
+               <td>6</td>
+               <td>6000</td>
+            </tr>
+            <tr>
+               <td>Chest CT</td>
+               <td>2.5</td>
+               <td>2500</td>
+               <td>0.025</td>
+               <td>25</td>
+               <td>25000</td>
+            </tr>
+            <tr>
+               <td>Guarapari background (/yr)</td>
+               <td>3.5</td>
+               <td>3500</td>
+               <td>0.035</td>
+               <td>35</td>
+               <td>35000</td>
+            </tr>
+            <tr>
+               <td>NRC dose limit to workers (/yr)</td>
+               <td>5</td>
+               <td>5000</td>
+               <td>0.05</td>
+               <td>50</td>
+               <td>50000</td>
+            </tr>
+            <tr>
+               <td>Acute dose that may increase lifetime cancer</td>
+               <td>10</td>
+               <td>10000</td>
+               <td>0.1</td>
+               <td>100</td>
+               <td>100000</td>
+            </tr>
+            <tr>
+               <td>Typical mission on ISS</td>
+               <td>12</td>
+               <td>12000</td>
+               <td>0.12</td>
+               <td>120</td>
+               <td>120000</td>
+            </tr>
+            <tr>
+               <td>Ramsar Iran background (/yr)</td>
+               <td>15</td>
+               <td>15000</td>
+               <td>0.15</td>
+               <td>150</td>
+               <td>150000</td>
+            </tr>
+            <tr>
+               <td>Interplanetary space background (/yr)</td>
+               <td>65</td>
+               <td>65000</td>
+               <td>0.65</td>
+               <td>650</td>
+               <td>650000</td>
+            </tr>
+            <tr>
+               <td>Expected Mars mission</td>
+               <td>100</td>
+               <td>100000</td>
+               <td>1</td>
+               <td>1000</td>
+               <td>1000000</td>
+            </tr>
+            <tr>
+               <td>Human LD 50/30, no medical attn</td>
+               <td>400</td>
+               <td>400000</td>
+               <td>4</td>
+               <td>4000</td>
+               <td>4000000</td>
+            </tr>
+            <tr>
+               <td>Total Body Irradiation therapy</td>
+               <td>500</td>
+               <td>500000</td>
+               <td>5</td>
+               <td>5000</td>
+               <td>5000000</td>
+            </tr>
+            <tr>
+               <td>Human LD 50/30, w/ medical attn</td>
+               <td>800</td>
+               <td>800000</td>
+               <td>8</td>
+               <td>8000</td>
+               <td>8000000</td>
+            </tr>
+            <tr>
+               <td>Death certain</td>
+               <td>1200</td>
+               <td>1200000</td>
+               <td>12</td>
+               <td>12000</td>
+                  <td>12000000</td>
+               </tr>
+         </tbody>
+   </table>
+</div>
 
 ## References
 
