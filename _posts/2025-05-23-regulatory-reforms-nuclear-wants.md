@@ -16,10 +16,10 @@ comments: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-Everyone says nuclear power is over-regulated. With word of the big nuclear EOs
-looming, I spent a few weeks talking to people in the nuclear industry to find
-out which reforms they thought would be most helpful, and which they were
-nervous about. Here are the top 12.
+Everyone says nuclear power is over-regulated. With word of the big nuclear
+Executive Orders looming, I spent a few weeks talking to people in the nuclear
+industry to find out which reforms they thought would be most helpful, and which
+they were nervous about. Here are the top 12.
 
 1:🌳 **Keep fixing NEPA**. We should default to Environmental Assessments instead of
 Environmental Impact Statements on sites with previous or generic EIS from
@@ -93,7 +93,7 @@ licensees and prospective licensees. There’s a lingering tradition for the NRC
 staff to never directly answer questions, but rather to just always ask for more
 information, even if the NRC knows that something would be wrong if submitted as
 is. This leads to a legalistic and adversarial relationship and wastes time in
-communication cycles. There is zero legal or regulatory basis for this behavior;
+communication cycles. There is no legal or regulatory basis for this behavior;
 it’s a culture that arose from nothing at some point within the NRC. The culture
 has been improving dramatically in the last 10 years, which is great. Encourage
 and enable the NRC more collaborative in the safety mission by allowing them to
@@ -122,7 +122,7 @@ scientific method to answer.
 
 <hr/>
 
-7:🤝 **Eliminate mandatory uncontested** hearing in section 189a of the Atomic
+7:🤝 **Eliminate the mandatory uncontested** hearing in section 189a of the Atomic
 Energy Act. The thoroughness of contemporary NRC technical review renders this
 unnecessary. Transparency is now handled by public outreach, scoping meetings at
 reactor sites, and global availability of application documents and staff
