@@ -1,6 +1,13 @@
 ---
 layout: default
 title: The Story of the Atomic Airplane
+description: >
+  13 hours of first-hand interviews and presentations on the Nuclear Powered Aircraft project, including
+  a full transcript 
+image: /img/anp-doco.jpg
+author: nick
+tags: museum
+byline: false
 ---
 
 <div class="row">
@@ -12,12 +19,11 @@ effort to make a nuclear-powered airplane.  The content is mostly focused on the
 Heat Transfer Reactor Experiments (HTREs) which can still be seen sitting out in
 the parking lot of the EBR-I museum in Idaho. 
 
-Dr. Jake Hecla, Stanton Postdoctoral Fellow at MIT, painstakingly digitized this
-material from a stack of video cassettes with the help of John Webb. He also
-tracked down the living descendants of George Pomeroy and Otto Woike to get
-permission to post the film.  The people who saved this film and got it to Dr.
-Hecla are: Lee Hite, David Carpenter, in memory of: John Webb W7NWH, Otto Woike,
-George Pomeroy, and Gunnar Thornton
+Dr. Jake Hecla, Stanton Postdoctoral Fellow at MIT, digitized this material with
+the help of John Webb. The people who saved this film and got it to Dr. Hecla
+are Lee Hite and David Carpenter. The late John Webb (W7NWH), Otto Woike, George
+Pomeroy, and Gunnar Thornton contributed to the development and preservation of
+this film.
 
 This page contains a full transcript of the recordings with links to the specific
 timestamps in the films.
