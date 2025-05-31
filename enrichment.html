@@ -1,71 +1,363 @@
 ---
-title: Enrichment SWU calculator
+title: Nuclear Fuel Cost calculator
 description: >
-  Interactive nuclear enrichment and SWU calculator where
-  you can enter a given feed or product mass and a product
-  enrichment and it will tell you how much feed and SWU you
-  need. Also plots results interactively as you go.
+  Interactive nuclear enrichment and SWU calculator where you can enter a given
+  feed or product mass and a product enrichment and it will tell you how much
+  feed and SWU you need, and what the fuel will cost. Also plots results
+  interactively as you go.
 author: nick
 layout: default
 date: 2022-10-27
+last_modified_at: 2025-05-31
 image: /img/enrichment-ss.png
 categories:
   - reference
 ---
 <div class="row">
   <div class="col-md-12">
-    Use this to calculate how much natural uranium and separative work you need
-    to get a given amount of enriched uranium at a certain enrichment, and so
-    on. Learn more about <a href="{% link isotopes.md %}">isotopes here</a>.
+    Use this to calculate how much natural uranium, separative work, conversion,
+    and fuel fabrication you need to get a given amount of enriched uranium at a
+    certain enrichment, and how much it will cost. Based on burnup and
+    efficiency, this can also compute how natural uranium you use per kWh
+    generated. Learn more about
+    <a href="{% link isotopes.md %}">isotopes here</a>.
 
-    <div class="row">
-      <div class="col-md-2 text-nowrap">Tails assay (wt %)</div>
-      <div class="col-md-1 text-nowrap">
-        <input
-          type="text"
-          value="0.25"
-          placeholder="Tails"
-          class="form-control"
-          id="tails-assay"
+    <div class="accordion">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button
+            class="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#panelsStayOpen-collapseOne"
+            aria-controls="panelsStayOpen-collapseOne"
+          >
+            Enrichment settings
+          </button>
+        </h2>
+        <div
+          id="panelsStayOpen-collapseOne"
+          class="accordion-collapse collapse"
         >
+          <div class="accordion-body">
+            <div class="row">
+              <div class="col-md-2 text-nowrap">Tails assay (wt %)</div>
+              <div class="col-md-1 text-nowrap">
+                <input
+                  type="text"
+                  value="0.25"
+                  placeholder="Tails"
+                  class="form-control"
+                  id="tails-assay"
+                >
+              </div>
+              <div class="col-md-2">Feed assay (wt %)</div>
+              <div class="col-md-1">
+                <input
+                  type="text"
+                  value="0.711"
+                  placeholder="Feed assay"
+                  class="form-control"
+                  id="feed-assay"
+                >
+              </div>
+              <div class="col-md-2">Conversion losses (%)</div>
+              <div class="col-md-1">
+                <input
+                  type="text"
+                  value="0.5"
+                  placeholder="Conversion losses"
+                  class="form-control"
+                  id="conversion-losses"
+                >
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="col-md-2">Feed assay (wt %)</div>
-      <div class="col-md-1">
-        <input
-          type="text"
-          value="0.711"
-          placeholder="Feed assay"
-          class="form-control"
-          id="feed-assay"
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button
+            class="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#panelsStayOpen-collapseTwo"
+            aria-controls="panelsStayOpen-collapseTwo"
+          >
+            Unit costs
+          </button>
+        </h2>
+        <div
+          id="panelsStayOpen-collapseTwo"
+          class="accordion-collapse collapse"
         >
+          <div class="accordion-body">
+            <div class="row">
+              <div class="col-md-3">
+                <label for="feed-cost" class="form-label"
+                  >Cost of Feed U<sub>3</sub>O<sub>8</sub> ($/lb U<sub>3</sub
+                  >O<sub>8</sub>)</label
+                >
+                <input
+                  type="text"
+                  value="65"
+                  placeholder="Feed cost"
+                  class="form-control"
+                  id="feed-cost"
+                >
+              </div>
+              <div class="col-md-3">
+                <label for="conversion-cost" class="form-label"
+                  >Cost of Conversion to UF<sub>6</sub> ($/kgU)</label
+                >
+                <input
+                  type="text"
+                  value="60"
+                  placeholder="Conversion cost"
+                  class="form-control"
+                  id="conversion-cost"
+                >
+              </div>
+              <div class="col-md-3">
+                <label for="swu-cost" class="form-label"
+                  >Cost of SWU ($/kgSWU)</label
+                >
+                <input
+                  type="text"
+                  value="170"
+                  placeholder="SWU cost"
+                  class="form-control"
+                  id="swu-cost"
+                >
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-3">
+                <label for="fab-cost" class="form-label"
+                  >Fabrication cost ($/kgHM)</label
+                >
+                <input
+                  type="text"
+                  value="300"
+                  placeholder="Fabrication cost"
+                  class="form-control"
+                  id="fab-cost"
+                >
+              </div>
+              <div class="col-md-3">
+                <label for="fab-select" class="form-label"
+                  >Fabrication preset</label
+                >
+                <select
+                  class="form-select"
+                  aria-label="Fab Presets"
+                  id="fab-select"
+                >
+                  <option value="">Choose fabrication preset</option>
+                  <option value="200">CANDU UO2 ($200/kg)</option>
+                  <option value="300" selected>LWR UO2 ($300/kg)</option>
+                  <option value="600">Fresh metallic ($600/kg)</option>
+                  <option value="2000">MOX ($2,000/kg)</option>
+                  <option value="7000">TRISO ($7,000/kg)</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="col-md-2">Conversion losses (%)</div>
-      <div class="col-md-1">
-        <input
-          type="text"
-          value="0.5"
-          placeholder="Conversion losses"
-          class="form-control"
-          id="conversion-losses"
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button
+            class="accordion-button"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#panelsStayOpen-collapseThree"
+            aria-expanded="true"
+            aria-controls="panelsStayOpen-collapseThree"
+          >
+            Mode
+          </button>
+        </h2>
+        <div
+          id="panelsStayOpen-collapseThree"
+          class="accordion-collapse collapse show"
         >
+          <div class="accordion-body">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-check">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    name="mode"
+                    value="1"
+                    id="inputConstant"
+                    checked
+                  >
+                  <label class="form-check-label" for="inputConstant">
+                    Compute feed mass from given product mass
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    name="mode"
+                    value="0"
+                    id="productConstant"
+                  >
+                  <label class="form-check-label" for="productConstant">
+                    Compute product mass from given feed mass
+                  </label>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-check">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    name="outputMode"
+                    value="0"
+                    id="output-initial"
+                  >
+                  <label class="form-check-label" for="output-initial">
+                    Output fuel costs
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    name="outputMode"
+                    value="1"
+                    id="output-reload"
+                    checked
+                  >
+                  <label class="form-check-label" for="output-reload">
+                    Output fuel costs per kWh (equilibrium)
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button
+            class="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#panelsStayOpen-collapseFour"
+            aria-controls="panelsStayOpen-collapseFour"
+            aria-expanded="false"
+          >
+            Reactor settings
+          </button>
+        </h2>
+        <div
+          id="panelsStayOpen-collapseFour"
+          class="accordion-collapse collapse"
+        >
+          <div class="accordion-body">
+            <div class="row">
+              <label for="burnup" class="form-label"
+                >Average discharge burnup (MWd/kgHM)</label
+              >
+              <div class="col-md-4">
+                <input
+                  type="range"
+                  value="50"
+                  step="1"
+                  min="1"
+                  max="938"
+                  class="form-range"
+                  id="burnup"
+                >
+              </div>
+              <div class="col-md-2">
+                <input
+                  type="text"
+                  value="50"
+                  class="form-control"
+                  id="burnup-text"
+                >
+              </div>
+              <div class="col-md-4">
+                <select
+                  class="form-select"
+                  aria-label="Presets"
+                  id="burnup-select"
+                >
+                  <option value="">Choose burnup preset</option>
+                  <option value="7">CANDU (7 MWd/kg)</option>
+                  <option value="50" selected>Typical LWR (50 MWd/kg)</option>
+                  <option value="200">Deep burn open cycle (200 MWd/kg)</option>
+                  <option value="800">
+                    Multi-recycle breeder (800 MWd/kg)
+                  </option>
+                </select>
+              </div>
+            </div>
+
+            <div class="row">
+              <label for="eff" class="form-label">Thermal efficiency (%)</label>
+              <div class="col-md-4">
+                <input
+                  type="range"
+                  value="32"
+                  step="1"
+                  min="1"
+                  max="100"
+                  class="form-range"
+                  id="eff"
+                >
+              </div>
+              <div class="col-md-2">
+                <input
+                  type="text"
+                  value="32"
+                  class="form-control"
+                  id="eff-text"
+                >
+              </div>
+              <div class="col-md-4">
+                <select
+                  class="form-select"
+                  aria-label="Presets"
+                  id="eff-select"
+                >
+                  <option value="">Choose efficiency preset</option>
+                  <option value="6">Thermionic (6%)</option>
+                  <option value="32" selected>Typical LWR (32%)</option>
+                  <option value="39">Sodium-cooled reactor (39%)</option>
+                  <option value="43">
+                    High-temperature gas-cooled reactor (43%)
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-
     <div class="row">
       <label for="enrich" class="form-label">Product Enrichment (wt %)</label>
-      <div class="col-md-4" >
+      <div class="col-md-4">
         <input
           type="range"
           value="4.0"
           step="0.1"
+          max="100"
+          min="0"
           class="form-range"
           id="enrich"
         >
       </div>
-      <div class="col-md-2" >
+      <div class="col-md-2">
         <input type="text" value="4.0" class="form-control" id="enrich-text">
       </div>
-      <div class="col-md-4" >
+      <div class="col-md-4">
         <select class="form-select" aria-label="Presets" id="enrich-select">
           <option value="" selected>Choose Enrichment Preset</option>
           <option value="0.711">Natural Uranium (0.711%)</option>
@@ -76,68 +368,11 @@ categories:
       </div>
       <div class="col-md-2" id="enrich-label">LEU</div>
     </div>
-    <hr>
-    <div class="row">
-      <div class="col-md-6" >
-    <div class="form-check">
-      <input
-        class="form-check-input"
-        type="radio"
-        name="mode"
-        value="0"
-        id="productConstant"
-      >
-      <label class="form-check-label" for="productConstant">
-        Compute product mass from given feed mass
-      </label>
-    </div>
-    <div class="form-check">
-      <input
-        class="form-check-input"
-        type="radio"
-        name="mode"
-        value="1"
-        id="inputConstant"
-        checked
-      >
-      <label class="form-check-label" for="inputConstant">
-        Compute feed mass from given product mass
-      </label>
-    </div>
-    </div>
-      <div class="col-md-6" >
-    <div class="form-check">
-      <input
-        class="form-check-input"
-        type="radio"
-        name="outputMode"
-        value="0"
-        id="output-initial"
-      >
-      <label class="form-check-label" for="output-initial">
-        Output initial core costs
-      </label>
-    </div>
-    <div class="form-check">
-      <input
-        class="form-check-input"
-        type="radio"
-        name="outputMode"
-        value="1"
-        id="output-reload"
-        checked
-      >
-      <label class="form-check-label" for="output-reload">
-        Output reload costs
-      </label>
-    </div>
-    </div>
-    </div>
 
     <div class="row">
       <div class="col-md-3">
         <label for="feed-mass" class="form-label"
-          >Feed mass (kg or tonne U in U<sub>3</sub>O<sub>8</sub>)</label
+          >Feed mass (kg U in U<sub>3</sub>O<sub>8</sub>)</label
         >
         <input
           type="text"
@@ -145,12 +380,11 @@ categories:
           placeholder="Feed mass"
           class="form-control"
           id="feed-mass"
+          disabled
         >
       </div>
       <div class="col-md-3">
-        <label for="product-mass" class="form-label"
-          >Product mass (kg or tonne U)</label
-        >
+        <label for="product-mass" class="form-label">Product mass (kg U)</label>
         <input
           type="text"
           value="1"
@@ -160,21 +394,19 @@ categories:
         >
       </div>
       <div class="col-md-2">
-        <label for="tails-mass" class="form-label"
-          >Tails mass (kg or tonne)</label
-        >
+        <label for="tails-mass" class="form-label">Tails mass (kg)</label>
         <input
           type="text"
           value=""
           placeholder="Tails mass"
           class="form-control"
           id="tails-mass"
-          readonly
+          disabled
         >
       </div>
       <div class="col-md-2">
         <label for="uf6-mass" class="form-label"
-          >U in UF<sub>6</sub> mass (kg or tonne)</label
+          >U in UF<sub>6</sub> mass (kg)</label
         >
         <input
           type="text"
@@ -182,157 +414,19 @@ categories:
           placeholder="UF6 mass"
           class="form-control"
           id="uf6-mass"
-          readonly
+          disabled
         >
       </div>
       <div class="col-md-2">
-        <label for="swu-mass" class="form-label"
-          >SWU (kg or tonne)</label
-        >
+        <label for="swu-mass" class="form-label">SWU (kg)</label>
         <input
           type="text"
           value=""
           placeholder="SWUs"
           class="form-control"
           id="swu-mass"
-          readonly
+          disabled
         >
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-6" id="plot"></div>
-      <div class="col-md-6" id="plot-cost"></div>
-    </div>
-
-    <div class="row">
-      <div class="col-12">
-        <p class="text-center">
-          <button id="save" class="btn btn-primary">
-            <i class="fa fa-clipboard fa-lg"></i> Copy current settings to
-            clipboard
-          </button>
-        </p>
-      </div>
-    </div>
-
-    <hr>
-    <h2>Economics inputs:</h2>
-    <div class="row">
-      <div class="col-md-3">
-        <label for="feed-cost" class="form-label"
-          >Cost of Feed U<sub>3</sub>O<sub>8</sub> ($/lb U<sub>3</sub>O<sub>8</sub>)</label
-        >
-        <input
-          type="text"
-          value="65"
-          placeholder="Feed cost"
-          class="form-control"
-          id="feed-cost"
-        >
-      </div>
-      <div class="col-md-3">
-        <label for="conversion-cost" class="form-label"
-          >Cost of Conversion to UF<sub>6</sub> ($/kgU)</label
-        >
-        <input
-          type="text"
-          value="60"
-          placeholder="Conversion cost"
-          class="form-control"
-          id="conversion-cost"
-        >
-      </div>
-      <div class="col-md-3">
-        <label for="swu-cost" class="form-label">Cost of SWU ($/kgSWU)</label>
-        <input
-          type="text"
-          value="170"
-          placeholder="SWU cost"
-          class="form-control"
-          id="swu-cost"
-        >
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-3">
-        <label for="fab-cost" class="form-label"
-          >Fabrication cost ($/kgHM)</label
-        >
-        <input
-          type="text"
-          value="300"
-          placeholder="Fabrication cost"
-          class="form-control"
-          id="fab-cost"
-        >
-      </div>
-      <div class="col-md-3" >
-        <label for="fab-select" class="form-label">Fabrication preset</label>
-        <select class="form-select" aria-label="Fab Presets" id="fab-select">
-          <option value="">Choose fabrication preset</option>
-          <option value="200">CANDU UO2 ($200/kg)</option>
-          <option value="300" selected>LWR UO2 ($300/kg)</option>
-          <option value="600">Fresh metallic ($600/kg)</option>
-          <option value="2000">MOX ($2,000/kg)</option>
-          <option value="7000">TRISO ($7,000/kg)</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="row">
-      <label for="burnup" class="form-label"
-        >Average discharge burnup (MWd/kgHM)</label
-      >
-      <div class="col-md-4">
-        <input
-          type="range"
-          value="50"
-          step="1"
-          min="1"
-          max="938"
-          class="form-range"
-          id="burnup"
-        >
-      </div>
-      <div class="col-md-2" >
-        <input type="text" value="50" class="form-control" id="burnup-text">
-      </div>
-      <div class="col-md-4" >
-        <select class="form-select" aria-label="Presets" id="burnup-select">
-          <option value="">Choose burnup preset</option>
-          <option value="7">CANDU (7 MWd/kg)</option>
-          <option value="50" selected>Typical LWR (50 MWd/kg)</option>
-          <option value="200">Deep burn open cycle (200 MWd/kg)</option>
-          <option value="800">Multi-recycle breeder (800 MWd/kg)</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="row">
-      <label for="eff" class="form-label">Thermal efficiency (%)</label>
-      <div class="col-md-4">
-        <input
-          type="range"
-          value="32"
-          step="1"
-          min="1"
-          max="100"
-          class="form-range"
-          id="eff"
-        >
-      </div>
-      <div class="col-md-2" >
-        <input type="text" value="32" class="form-control" id="eff-text">
-      </div>
-      <div class="col-md-4" >
-        <select class="form-select" aria-label="Presets" id="eff-select">
-          <option value="">Choose efficiency preset</option>
-          <option value="6">Thermionic (6%)</option>
-          <option value="32" selected>Typical LWR (32%)</option>
-          <option value="39">Sodium-cooled reactor (39%)</option>
-          <option value="43">High-temperature gas-cooled reactor (43%)</option>
-        </select>
       </div>
     </div>
 
@@ -363,102 +457,134 @@ categories:
     -->
     <h2>Outputs</h2>
     <div class="row">
-      <div class="col-md-2">
-        <label for="reload-total-cost" class="form-label"
-          >Reload total (¢/kWh)</label
-        >
-        <input
-          type="text"
-          value=""
-          placeholder="Total cost"
-          class="form-control"
-          id="reload-total-cost"
-          readonly
-        >
+      <div class="col-md-6">
+        <div class="row">
+          <div class="col-md-6">
+            <label for="reload-feed-cost" class="form-label"
+              >Reload feed (¢/kWh)</label
+            >
+          </div>
+          <div class="col-md-6">
+            <input
+              type="text"
+              value=""
+              class="form-control"
+              id="reload-feed-cost"
+              disabled
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label for="reload-conv-cost" class="form-label"
+              >Conversion (¢/kWh)</label
+            >
+          </div>
+          <div class="col-md-6">
+            <input
+              type="text"
+              value=""
+              placeholder="Converted UF6"
+              class="form-control"
+              id="reload-conv-cost"
+              disabled
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label for="reload-swu-cost" class="form-label"
+              >Reload SWU (¢/kWh)</label
+            >
+          </div>
+          <div class="col-md-6">
+            <input
+              type="text"
+              value=""
+              placeholder="SWU"
+              class="form-control"
+              id="reload-swu-cost"
+              disabled
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label for="reload-fab-cost" class="form-label"
+              >Fabrication (¢/kWh)</label
+            >
+          </div>
+          <div class="col-md-6">
+            <input
+              type="text"
+              value=""
+              placeholder="Fabricated fuel"
+              class="form-control"
+              id="reload-fab-cost"
+              disabled
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label for="reload-total-cost" class="form-label"
+              >Reload total (¢/kWh)</label
+            >
+          </div>
+          <div class="col-md-6">
+            <input
+              type="text"
+              value=""
+              placeholder="Total cost"
+              class="form-control"
+              id="reload-total-cost"
+              disabled
+            >
+          </div>
+        </div>
       </div>
-      <div class="col-md-2">
-        <label for="reload-swu-cost" class="form-label"
-          >Reload SWU (¢/kWh)</label
-        >
-        <input
-          type="text"
-          value=""
-          placeholder="SWU"
-          class="form-control"
-          id="reload-swu-cost"
-          readonly
-        >
-      </div>
-      <div class="col-md-2">
-        <label for="reload-feed-cost" class="form-label"
-          >Reload feed (¢/kWh)</label
-        >
-        <input
-          type="text"
-          value=""
-          placeholder="Mined U"
-          class="form-control"
-          id="reload-feed-cost"
-          readonly
-        >
-      </div>
-      <div class="col-md-2">
-        <label for="reload-conv-cost" class="form-label"
-          >Conversion (¢/kWh)</label
-        >
-        <input
-          type="text"
-          value=""
-          placeholder="Converted UF6"
-          class="form-control"
-          id="reload-conv-cost"
-          readonly
-        >
-      </div>
-      <div class="col-md-2">
-        <label for="reload-fab-cost" class="form-label"
-          >Fabrication (¢/kWh)</label
-        >
-        <input
-          type="text"
-          value=""
-          placeholder="Fabricated fuel"
-          class="form-control"
-          id="reload-fab-cost"
-          readonly
-        >
-      </div>
-    </div>
 
-    <div class="row">
-      <div class="col-md-3">
-        <label for="reload-feed-mass" class="form-label"
-          >Required mined material (gU/MWh)</label
-        >
-        <input
-          type="text"
-          value=""
-          title="How much uranium you have to mine per kWh generated"
-          placeholder="Mined U"
-          class="form-control"
-          id="reload-feed-mass"
-          readonly
-        >
-      </div>
-      <div class="col-md-3">
-        <label for="waste-per-kwh" class="form-label"
-          >High-level waste (gHM/MWh)</label
-        >
-        <input
-          type="text"
-          value=""
-          placeholder="Waste"
-          class="form-control"
-          id="waste-per-kwh"
-          readonly
-        >
+      <div class="col-md-6">
+        <div class="row">
+          <div class="col-md-6">
+            <label for="reload-feed-mass" class="form-label"
+              >Required mined material (gU/MWh)</label
+            >
+          </div>
+          <div class="col-md-6">
+            <input
+              type="text"
+              value=""
+              title="How much uranium you have to mine per kWh generated"
+              class="form-control"
+              id="reload-feed-mass"
+              disabled
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label for="waste-per-kwh" class="form-label"
+              >High-level waste (gHM/MWh)</label
+            >
+          </div>
+          <div class="col-md-6">
+            <input
+              type="text"
+              value=""
+              class="form-control"
+              id="waste-per-kwh"
+              disabled
+            >
+          </div>
+        </div>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-6" id="plot"></div>
+      <div class="col-md-6" id="plot-cost"></div>
+    </div>
+    <hr>
     <div class="row">
       <label for="case-title" class="form-label">Case title (for plot)</label>
       <div class="col-4">
@@ -476,6 +602,14 @@ categories:
           comparison
         </button>
       </div>
+      <div class="col-4">
+        <p class="text-center">
+          <button id="save" class="btn btn-primary">
+            <i class="fa fa-clipboard fa-lg"></i> Copy current settings to
+            clipboard
+          </button>
+        </p>
+      </div>
     </div>
 
     Abbrevs:
@@ -488,209 +622,232 @@ categories:
       <li>MWd - Megawatt-day thermal</li>
       <li>SWU - Separative Work Unit</li>
     </ul>
+  </div>
+</div>
 
-    <script src="https://cdn.plot.ly/plotly-2.16.1.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-2.16.1.min.js"></script>
 
-    <script>
-      let range = document.getElementById('enrich');
-      let number = document.getElementById('enrich-text');
-      let select = document.getElementById('enrich-select');
-      let tails_assay = document.getElementById('tails-assay');
-      let feed_assay = document.getElementById('feed-assay');
-      let conversion_losses = document.getElementById('conversion-losses');
-      let feed_mass = document.getElementById('feed-mass');
-      let uf6_mass = document.getElementById('uf6-mass');
-      let product_mass = document.getElementById('product-mass');
-      let tails_mass = document.getElementById('tails-mass');
-      let swu = document.getElementById('swu-mass');
-      let mode = document.getElementById('mode');
-      let output_reload = document.getElementById('output-reload');
-      let output_initial = document.getElementById('output-initial');
-      let prod_const = document.getElementById('productConstant');
-      let save = document.getElementById('save');
-      let burange = document.getElementById('burnup');
-      let bunumber = document.getElementById('burnup-text');
-      let buselect = document.getElementById('burnup-select');
-      let effrange = document.getElementById('eff');
-      let effnumber = document.getElementById('eff-text');
-      let effselect = document.getElementById('eff-select');
-      let powerrange = document.getElementById('power');
-      let powernumber = document.getElementById('power-text');
-      let powerselect = document.getElementById('power-select');
-      let feedcost = document.getElementById('feed-cost');
-      let swucost = document.getElementById('swu-cost');
-      let fabcost = document.getElementById('fab-cost');
-      let fabselect = document.getElementById('fab-select');
-      let convcost = document.getElementById('conversion-cost');
-      let reload_total_cost = document.getElementById('reload-total-cost');
-      let reload_swu_cost = document.getElementById('reload-swu-cost');
-      let reload_feed_cost = document.getElementById('reload-feed-cost');
-      let reload_fab_cost = document.getElementById('reload-fab-cost');
-      let reload_conv_cost = document.getElementById('reload-conv-cost');
-      let reload_waste = document.getElementById('waste-per-kwh');
-      let reload_feed_mass = document.getElementById('reload-feed-mass');
-      let caseTitle = document.getElementById('case-title');
-      let addBtn = document.getElementById('add');
-      let caseNum = 0; // cost plot index
+<script>
+  let range = document.getElementById('enrich');
+  let number = document.getElementById('enrich-text');
+  let select = document.getElementById('enrich-select');
+  let tails_assay = document.getElementById('tails-assay');
+  let feed_assay = document.getElementById('feed-assay');
+  let conversion_losses = document.getElementById('conversion-losses');
+  let feed_mass = document.getElementById('feed-mass');
+  let uf6_mass = document.getElementById('uf6-mass');
+  let product_mass = document.getElementById('product-mass');
+  let tails_mass = document.getElementById('tails-mass');
+  let swu = document.getElementById('swu-mass');
+  let mode = document.getElementById('mode');
+  let output_reload = document.getElementById('output-reload');
+  let output_initial = document.getElementById('output-initial');
+  let prod_const = document.getElementById('productConstant');
+  let inp_const = document.getElementById('inputConstant');
+  let save = document.getElementById('save');
+  let burange = document.getElementById('burnup');
+  let bunumber = document.getElementById('burnup-text');
+  let buselect = document.getElementById('burnup-select');
+  let effrange = document.getElementById('eff');
+  let effnumber = document.getElementById('eff-text');
+  let effselect = document.getElementById('eff-select');
+  let powerrange = document.getElementById('power');
+  let powernumber = document.getElementById('power-text');
+  let powerselect = document.getElementById('power-select');
+  let feedcost = document.getElementById('feed-cost');
+  let swucost = document.getElementById('swu-cost');
+  let fabcost = document.getElementById('fab-cost');
+  let fabselect = document.getElementById('fab-select');
+  let convcost = document.getElementById('conversion-cost');
+  let reload_total_cost = document.getElementById('reload-total-cost');
+  let reload_swu_cost = document.getElementById('reload-swu-cost');
+  let reload_feed_cost = document.getElementById('reload-feed-cost');
+  let reload_fab_cost = document.getElementById('reload-fab-cost');
+  let reload_conv_cost = document.getElementById('reload-conv-cost');
+  let reload_waste = document.getElementById('waste-per-kwh');
+  let reload_feed_mass = document.getElementById('reload-feed-mass');
+  let caseTitle = document.getElementById('case-title');
+  let addBtn = document.getElementById('add');
+  let caseNum = 0; // cost plot index
 
-      // set labels for easly lookup (https://stackoverflow.com/a/285608/1279313)
-      var labels = document.getElementsByTagName('LABEL');
-      for (var i = 0; i < labels.length; i++) {
-          if (labels[i].htmlFor != '') {
-              var elem = document.getElementById(labels[i].htmlFor);
-              if (elem)
-                  elem.label = labels[i];         
-          }
-      }
+  // set labels for easly lookup (https://stackoverflow.com/a/285608/1279313)
+  var labels = document.getElementsByTagName('LABEL');
+  for (var i = 0; i < labels.length; i++) {
+    if (labels[i].htmlFor != '') {
+      var elem = document.getElementById(labels[i].htmlFor);
+      if (elem) elem.label = labels[i];
+    }
+  }
 
-      // the pain we have to go through when not using a JS framework
-      tails_assay.addEventListener('input', (e) => {
-        computeFeed();
-      });
-      feed_assay.addEventListener('input', (e) => {
-        computeFeed();
-      });
-      conversion_losses.addEventListener('input', (e) => {
-        computeFeed();
-      });
-      product_mass.addEventListener('input', (e) => {
-        computeFeed();
-      });
-      feed_mass.addEventListener('input', (e) => {
-        computeFeed();
-      });
-      feedcost.addEventListener('input', (e) => {
-        computeCost();
-      });
-      swucost.addEventListener('input', (e) => {
-        computeCost();
-      });
-      convcost.addEventListener('input', (e) => {
-        computeCost();
-      });
-      range.addEventListener('input', (e) => {
-        let val = parseFloat(e.target.value);
-        if (val < parseFloat(feed_assay.value)) {
-          return;
-        }
-        number.value = val;
-        select.value = '';
-        setRange(val);
-        computeFeed();
-      });
-      number.addEventListener('input', (e) => {
-        range.value = e.target.value;
-        select.value = '';
-        setRange(e.target.value);
-        computeFeed();
-      });
-      select.addEventListener('change', (e) => {
-        if (!e.target.value) {
-          return;
-        }
-        number.value = e.target.value;
-        range.value = e.target.value;
-        setRange(e.target.value);
-        computeFeed();
-      });
+  // the pain we have to go through when not using a JS framework
+  tails_assay.addEventListener('input', (e) => {
+    computeFeed();
+  });
+  feed_assay.addEventListener('input', (e) => {
+    computeFeed();
+  });
+  conversion_losses.addEventListener('input', (e) => {
+    computeFeed();
+  });
+  product_mass.addEventListener('input', (e) => {
+    computeFeed();
+  });
+  feed_mass.addEventListener('input', (e) => {
+    computeFeed();
+  });
+  feedcost.addEventListener('input', (e) => {
+    computeCost();
+  });
+  swucost.addEventListener('input', (e) => {
+    computeCost();
+  });
+  convcost.addEventListener('input', (e) => {
+    computeCost();
+  });
+  range.addEventListener('input', (e) => {
+    let val = parseFloat(e.target.value);
+    if (val < parseFloat(feed_assay.value)) {
+      val = feed_assay.value;
+    } else if (val >= 100) {
+      val = 99.999;
+    }
+    number.value = val;
+    select.value = '';
+    setRange(val);
+    computeFeed();
+  });
+  number.addEventListener('input', (e) => {
+    range.value = e.target.value;
+    select.value = '';
+    setRange(e.target.value);
+    computeFeed();
+  });
+  select.addEventListener('change', (e) => {
+    if (!e.target.value) {
+      return;
+    }
+    number.value = e.target.value;
+    range.value = e.target.value;
+    setRange(e.target.value);
+    computeFeed();
+  });
 
-      save.addEventListener('click', (e) => {
-        copySettingsToClipboard();
-      });
+  save.addEventListener('click', (e) => {
+    copySettingsToClipboard();
+  });
 
-      // burnup
-      burange.addEventListener('input', (e) => {
-        let val = parseFloat(e.target.value);
-        bunumber.value = val;
-        buselect.value = '';
-        computeCost();
-      });
-      output_reload.addEventListener('input', (e) => {
-        let val = parseFloat(e.target.value);
-        if (val == '1') {
-          reload_swu_cost.label.innerHTML="Reload SWU (¢/kWh)"
-          reload_fab_cost.label.innerHTML="Reload Fab (¢/kWh)"
-          reload_feed_cost.label.innerHTML="Reload Feed (¢/kWh)"
-          reload_conv_cost.label.innerHTML="Reload Conversion (¢/kWh)"
-          reload_total_cost.label.innerHTML="Total reload cost (¢/kWh)"
-        }
-        computeCost();
-      });
-      output_initial.addEventListener('input', (e) => {
-        let val = parseFloat(e.target.value);
-        if (val == '0') {
-          // set reload labels
-          reload_swu_cost.label.innerHTML="SWU cost ($)"
-          reload_fab_cost.label.innerHTML="Fab cost ($)"
-          reload_feed_cost.label.innerHTML="Feed cost ($)"
-          reload_conv_cost.label.innerHTML="Conversion cost ($)"
-          reload_total_cost.label.innerHTML="Total cost ($)"
-        }
-        computeCost();
-      });
-      bunumber.addEventListener('input', (e) => {
-        burange.value = e.target.value;
-        buselect.value = '';
-        computeCost();
-      });
-      buselect.addEventListener('change', (e) => {
-        if (!e.target.value) {
-          return;
-        }
-        bunumber.value = e.target.value;
-        burange.value = e.target.value;
-        computeCost();
-      });
+  // burnup
+  burange.addEventListener('input', (e) => {
+    let val = parseFloat(e.target.value);
+    bunumber.value = val;
+    buselect.value = '';
+    computeCost();
+  });
+  output_reload.addEventListener('input', (e) => {
+    let val = parseFloat(e.target.value);
+    if (val == '1') {
+      reload_swu_cost.label.innerHTML = 'Reload SWU (¢/kWh)';
+      reload_fab_cost.label.innerHTML = 'Reload Fab (¢/kWh)';
+      reload_feed_cost.label.innerHTML = 'Reload Feed (¢/kWh)';
+      reload_conv_cost.label.innerHTML = 'Reload Conversion (¢/kWh)';
+      reload_total_cost.label.innerHTML = 'Total reload cost (¢/kWh)';
+    }
+    computeCost();
+  });
+  output_initial.addEventListener('input', (e) => {
+    let val = parseFloat(e.target.value);
+    if (val == '0') {
+      // set reload labels
+      reload_swu_cost.label.innerHTML = 'SWU cost ($)';
+      reload_fab_cost.label.innerHTML = 'Fab cost ($)';
+      reload_feed_cost.label.innerHTML = 'Feed cost ($)';
+      reload_conv_cost.label.innerHTML = 'Conversion cost ($)';
+      reload_total_cost.label.innerHTML = 'Total cost ($)';
 
-      // efficiency
-      effrange.addEventListener('input', (e) => {
-        let val = parseFloat(e.target.value);
-        effnumber.value = val;
-        effselect.value = '';
-        computeCost();
-      });
-      effnumber.addEventListener('input', (e) => {
-        effrange.value = e.target.value;
-        effselect.value = '';
-        computeCost();
-      });
-      effselect.addEventListener('change', (e) => {
-        if (!e.target.value) {
-          return;
-        }
-        effnumber.value = e.target.value;
-        effrange.value = e.target.value;
-        computeCost();
-      });
-      // fabrication
-      fabcost.addEventListener('input', (e) => {
-        fabselect.value = '';
-        computeCost();
-      });
-      fabselect.addEventListener('change', (e) => {
-        if (!e.target.value) {
-          return;
-        }
-        fabcost.value = e.target.value;
-        computeCost();
-      });
-      caseTitle.addEventListener('input', (e) => {
-        // update currently plotted case title
-        let newData = buildCostData();
-        Plotly.react('plot-cost', newData, layoutCost);
-      });
-      add.addEventListener('click', (e) => {
-        caseNum++;
-        caseTitle.value = `Case ${caseNum + 1}`;
-        for (trace of dataCost) {
-          trace.x.push(trace.x[caseNum - 1]);
-          trace.y.push(trace.y[caseNum - 1]);
-        }
-        let newData = buildCostData();
-        Plotly.react('plot-cost', newData, layoutCost);
-      });
+      // clear irrelevant outputs to avoid misleading
+      reload_feed_mass.value = '';
+      reload_waste.value = '';
+    }
+    computeCost();
+  });
+  bunumber.addEventListener('input', (e) => {
+    burange.value = e.target.value;
+    buselect.value = '';
+    computeCost();
+  });
+  buselect.addEventListener('change', (e) => {
+    if (!e.target.value) {
+      return;
+    }
+    bunumber.value = e.target.value;
+    burange.value = e.target.value;
+    computeCost();
+  });
 
-      /*
+  // efficiency
+  effrange.addEventListener('input', (e) => {
+    let val = parseFloat(e.target.value);
+    effnumber.value = val;
+    effselect.value = '';
+    computeCost();
+  });
+  effnumber.addEventListener('input', (e) => {
+    effrange.value = e.target.value;
+    effselect.value = '';
+    computeCost();
+  });
+  effselect.addEventListener('change', (e) => {
+    if (!e.target.value) {
+      return;
+    }
+    effnumber.value = e.target.value;
+    effrange.value = e.target.value;
+    computeCost();
+  });
+  // fabrication
+  fabcost.addEventListener('input', (e) => {
+    fabselect.value = '';
+    computeCost();
+  });
+  fabselect.addEventListener('change', (e) => {
+    if (!e.target.value) {
+      return;
+    }
+    fabcost.value = e.target.value;
+    computeCost();
+  });
+  caseTitle.addEventListener('input', (e) => {
+    // update currently plotted case title
+    let newData = buildCostData();
+    Plotly.react('plot-cost', newData, layoutCost);
+  });
+  add.addEventListener('click', (e) => {
+    caseNum++;
+    caseTitle.value = `Case ${caseNum + 1}`;
+    for (trace of dataCost) {
+      trace.x.push(trace.x[caseNum - 1]);
+      trace.y.push(trace.y[caseNum - 1]);
+    }
+    let newData = buildCostData();
+    Plotly.react('plot-cost', newData, layoutCost);
+  });
+
+  prod_const.addEventListener('input', (e) => {
+    // change input field disabled
+    if (e.target.value == '0') {
+      feed_mass.disabled = false;
+      product_mass.disabled = true;
+    }
+  });
+  inp_const.addEventListener('input', (e) => {
+    // change input field disabled
+    if (e.target.value == '1') {
+      feed_mass.disabled = true;
+      product_mass.disabled = false;
+    }
+  });
+
+  /*
 // power
 powerrange.addEventListener("input",(e)=>{
     let val = parseFloat(e.target.value);
@@ -710,299 +867,297 @@ powerselect.addEventListener("change",(e)=>{
 })
 */
 
-      function setRange(val) {
-        let label = document.getElementById('enrich-label');
-        if (val >= 0.0 && val < 0.7) {
-          label.innerHTML = 'Depleted';
-        } else if (val == 0.7) {
-          label.innerHTML = 'Natural';
-        } else if (val > 0.7 && val <= 5) {
-          label.innerHTML = 'LEU';
-        } else if (val > 5 && val <= 20.0) {
-          label.innerHTML = 'HALEU';
-        } else if (val > 20.0 && val <= 99.0) {
-          label.innerHTML = 'HEU';
-        } else if (val > 99.0 && val <= 100.0) {
-          label.innerHTML = '😲';
-        } else {
-          label.innerHTML = 'Impossible';
-        }
-      }
+  function setRange(val) {
+    let label = document.getElementById('enrich-label');
+    if (val >= 0.0 && val < 0.7) {
+      label.innerHTML = 'Depleted';
+    } else if (val == 0.7) {
+      label.innerHTML = 'Natural';
+    } else if (val > 0.7 && val <= 5) {
+      label.innerHTML = 'LEU';
+    } else if (val > 5 && val <= 20.0) {
+      label.innerHTML = 'HALEU';
+    } else if (val > 20.0 && val <= 99.0) {
+      label.innerHTML = 'HEU';
+    } else if (val > 99.0 && val <= 100.0) {
+      label.innerHTML = '😲';
+    } else {
+      label.innerHTML = 'Impossible';
+    }
+  }
 
-      function computeFeed() {
-        // Compute feed and SWU given desired product and enrichment
-        // compute MF/MP = feed factor
-        let mode = document.querySelector('input[name="mode"]:checked').value;
-        let feed_factor = get_feed_factor();
-        let conv_factor = (100.0-conversion_losses.value)/100.0
-        if (mode == '1') {
-          // compute feed mass from given product
-          uf6_mass.value = (feed_factor * product_mass.value).toFixed(3);
-          feed_mass.value = uf6_mass.value / conv_factor;
-        } else {
-          // compute product mass from given feed
-          uf6_mass.value = feed_mass.value * conv_factor
-          product_mass.value = (uf6_mass.value / feed_factor).toFixed(3);
-        }
-        let swu_factor = get_swu_factor(feed_factor);
-        swu.value = (swu_factor * product_mass.value).toFixed(3);
-        tails_mass.value = (feed_mass.value - product_mass.value).toFixed(3);
+  function computeFeed() {
+    // Compute feed and SWU given desired product and enrichment
+    // compute MF/MP = feed factor
+    let mode = document.querySelector('input[name="mode"]:checked').value;
+    let feed_factor = get_feed_factor();
+    let conv_factor = (100.0 - conversion_losses.value) / 100.0;
+    if (mode == '1') {
+      // compute feed mass from given product
+      uf6_mass.value = (feed_factor * product_mass.value).toFixed(3);
+      feed_mass.value = (uf6_mass.value / conv_factor).toFixed(3);
+    } else {
+      // compute product mass from given feed
+      uf6_mass.value = feed_mass.value * conv_factor;
+      product_mass.value = (uf6_mass.value / feed_factor).toFixed(3);
+    }
+    let swu_factor = get_swu_factor(feed_factor);
+    swu.value = (swu_factor * product_mass.value).toFixed(3);
+    tails_mass.value = (feed_mass.value - product_mass.value).toFixed(3);
 
-        // update plot data
-        let u238 = {
-          x: ['Feed', 'Product', 'Tails'],
-          y: [
-            feed_mass.value * (1 - feed_assay.value / 100.0),
-            product_mass.value * (1 - number.value / 100.0),
-            tails_mass.value * (1 - tails_assay.value / 100.0),
-          ],
-          name: 'U238',
-          type: 'bar',
-        };
-        let u235 = {
-          x: ['Feed', 'Product', 'Tails'],
-          y: [
-            feed_mass.value * (feed_assay.value / 100.0),
-            product_mass.value * (number.value / 100.0),
-            tails_mass.value * (tails_assay.value / 100.0),
-          ],
-          name: 'U235',
-          type: 'bar',
-        };
+    // update plot data
+    let u238 = {
+      x: ['Feed', 'Product', 'Tails'],
+      y: [
+        feed_mass.value * (1 - feed_assay.value / 100.0),
+        product_mass.value * (1 - number.value / 100.0),
+        tails_mass.value * (1 - tails_assay.value / 100.0),
+      ],
+      name: 'U238',
+      type: 'bar',
+    };
+    let u235 = {
+      x: ['Feed', 'Product', 'Tails'],
+      y: [
+        feed_mass.value * (feed_assay.value / 100.0),
+        product_mass.value * (number.value / 100.0),
+        tails_mass.value * (tails_assay.value / 100.0),
+      ],
+      name: 'U235',
+      type: 'bar',
+    };
 
-        var data = [u238, u235];
-        Plotly.react('plot', data, layout);
-        computeCost();
-      }
+    var data = [u238, u235];
+    Plotly.react('plot', data, layout);
+    computeCost();
+  }
 
-      function computeCost() {
-        // we want to know $SWU/kWh, $Feed/kWh, $Fab/kWh and total cost for plotting
-        // so we need SWU = SWUfactor*product * swu cost
-        // product = how much fuel is needed to make a kWh
-        // kg = 1 kWe * 1 hour * 1/eff [MWt/MWe] * 1/24 [day/hour] * 1/burnup [kg/(MWt*day)] * 1000 kW/MW)
-        let feed_factor = get_feed_factor();
-        let swu_factor = get_swu_factor(feed_factor);
-        let swu_tcost 
-        let feed_tcost
-        let conv_tcost
-        let fab_tcost 
-        let t_tcost 
+  function computeCost() {
+    // we want to know $SWU/kWh, $Feed/kWh, $Fab/kWh and total cost for plotting
+    // so we need SWU = SWUfactor*product * swu cost
+    // product = how much fuel is needed to make a kWh
+    // kg = 1 kWe * 1 hour * 1/eff [MWt/MWe] * 1/24 [day/hour] * 1/burnup [kg/(MWt*day)] * 1000 kW/MW)
+    let feed_factor = get_feed_factor();
+    let swu_factor = get_swu_factor(feed_factor);
+    let swu_tcost;
+    let feed_tcost;
+    let conv_tcost;
+    let fab_tcost;
+    let t_tcost;
 
+    let output_mode = document.querySelector(
+      'input[name="outputMode"]:checked',
+    ).value;
+    if (output_mode == '0') {
+      // compute raw costs (for initial core)
+      swu_tcost = swu.value * swucost.value;
+      // convert U3O8 to U and also lbs to kg
+      // (it's typical for U3O8 prices to be in $/lb U3O8)
+      // note also that people often assume 0.5% loss during U3O8 conversion to UF6.
+      feed_tcost = feed_mass.value * ((feedcost.value * 2.2046) / 0.847981);
+      conv_tcost = uf6_mass.value * convcost.value;
+      fab_tcost = product_mass.value * fabcost.value;
+      layoutCost.yaxis.title.text = 'Fuel cost $';
+    } else {
+      // compute continuous feed costs (for reloads)
+      let prod_kg_per_kwe =
+        100.0 / (effnumber.value * 24.0 * burnup.value * 1000.0);
+      let swu_per_kwe = prod_kg_per_kwe * swu_factor;
+      let feed_per_kwe = prod_kg_per_kwe * feed_factor;
 
-        let output_mode = document.querySelector('input[name="outputMode"]:checked').value;
-        if (output_mode == '0') {
-          // compute raw costs (for initial core)
-          swu_tcost = swu.value * swucost.value;
-          // convert U3O8 to U and also lbs to kg
-          // (it's typical for U3O8 prices to be in $/lb U3O8)
-          // note also that people often assume 0.5% loss during U3O8 conversion to UF6.
-          feed_tcost = feed_mass.value * (feedcost.value * 2.2046 / 0.847981);
-          conv_tcost = uf6_mass.value * convcost.value;
-          fab_tcost = product_mass.value * fabcost.value;
-          layoutCost.yaxis.title.text= "Fuel cost $"
-        }
-        else {
-          // compute continuous feed costs (for reloads)
-          let prod_kg_per_kwe =
-            100.0 / (effnumber.value * 24.0 * burnup.value * 1000.0);
-          let swu_per_kwe = prod_kg_per_kwe * swu_factor;
-          let feed_per_kwe = prod_kg_per_kwe * feed_factor;
+      // convert to cents
+      swu_tcost = swu_per_kwe * swucost.value * 100;
+      feed_tcost = ((feed_per_kwe * feedcost.value * 2.2046) / 0.847981) * 100;
+      fab_tcost = prod_kg_per_kwe * fabcost.value * 100;
+      conv_tcost = feed_per_kwe * convcost.value * 100;
 
-          // convert to cents
-          swu_tcost = swu_per_kwe * swucost.value * 100;
-          feed_tcost = feed_per_kwe * feedcost.value * 2.2046 / 0.847981* 100;
-          fab_tcost = prod_kg_per_kwe * fabcost.value * 100;
-          conv_tcost = feed_per_kwe * convcost.value * 100;
+      reload_waste.value = (prod_kg_per_kwe * 1000000).toFixed(3);
+      reload_feed_mass.value = (feed_per_kwe * 1000000).toFixed(3);
+      layoutCost.yaxis.title.text = 'Fuel reload cost ¢/kWh';
+    }
 
-          reload_waste.value = (prod_kg_per_kwe * 1000000).toFixed(3);
-          reload_feed_mass.value = (feed_per_kwe * 1000000).toFixed(3);
-          layoutCost.yaxis.title.text= "Fuel reload cost ¢/kWh"
-        }
+    let tcost = swu_tcost + feed_tcost + conv_tcost + fab_tcost;
+    reload_total_cost.value = tcost.toFixed(3);
+    reload_swu_cost.value = swu_tcost.toFixed(3);
+    reload_feed_cost.value = feed_tcost.toFixed(3);
+    reload_fab_cost.value = fab_tcost.toFixed(3);
+    reload_conv_cost.value = conv_tcost.toFixed(3);
+    let newData = buildCostData();
 
-        let tcost =
-          swu_tcost+
-          feed_tcost+
-          conv_tcost+
-          fab_tcost;
-        reload_total_cost.value = tcost.toFixed(3);
-        reload_swu_cost.value = swu_tcost.toFixed(3);
-        reload_feed_cost.value = feed_tcost.toFixed(3);
-        reload_fab_cost.value = fab_tcost.toFixed(3);
-        reload_conv_cost.value = conv_tcost.toFixed(3);
-        let newData = buildCostData();
-        
-        Plotly.react('plot-cost', newData, layoutCost);
-      }
+    Plotly.react('plot-cost', newData, layoutCost);
+  }
 
-      function vx(x) {
-        // value function: gotta convert percentages to fraction
-        let xn = Number(x / 100.0);
-        return (1.0 - 2 * xn) * Math.log((1.0 - xn) / xn);
-      }
+  function vx(x) {
+    // value function: gotta convert percentages to fraction
+    let xn = Number(x / 100.0);
+    return (1.0 - 2 * xn) * Math.log((1.0 - xn) / xn);
+  }
 
-      function get_feed_factor() {
-        // feed factor = F/P
-        return (
-          (number.value - tails_assay.value) /
-          (feed_assay.value - tails_assay.value)
-        );
-      }
+  function get_feed_factor() {
+    // feed factor = F/P
+    return (
+      (number.value - tails_assay.value) /
+      (feed_assay.value - tails_assay.value)
+    );
+  }
 
-      function get_swu_factor(feed_factor) {
-        // swufactor= SWU/MP
-        let vxt = vx(tails_assay.value);
-        return (
-          vx(number.value) - vxt - feed_factor * (vx(feed_assay.value) - vxt)
-        );
-      }
+  function get_swu_factor(feed_factor) {
+    // swufactor= SWU/MP
+    let vxt = vx(tails_assay.value);
+    return vx(number.value) - vxt - feed_factor * (vx(feed_assay.value) - vxt);
+  }
 
-      function setInputVals() {
-        // These can all be passed in as query params
-        const input = new URLSearchParams(window.location.search);
-        tails_assay.value = input.get('tails-assay') || tails_assay.value;
-        feed_assay.value = input.get('feed-assay') || feed_assay.value;
-        number.value = input.get('enrich') || number.value;
-        range.value = number.value;
-        setRange(number.value);
-        feed_mass.value = input.get('feed-mass') || feed_mass.value;
-        product_mass.value = input.get('product-mass') || product_mass.value;
-        fabcost.value = input.get('fabcost') || fabcost.value;
-        swucost.value = input.get('swucost') || swucost.value;
-        feedcost.value = input.get('feedcost') || feedcost.value;
-        convcost.value = input.get('convcost') || convcost.value;
-        bunumber.value = input.get('bunumber') || bunumber.value;
-        burange.value = input.get('bunumber') || bunumber.value;
-        effnumber.value = input.get('efficiency') || effnumber.value;
-        effrange.value = input.get('efficiency') || effnumber.value;
+  function setInputVals() {
+    // These can all be passed in as query params
+    const input = new URLSearchParams(window.location.search);
+    tails_assay.value = input.get('tails-assay') || tails_assay.value;
+    feed_assay.value = input.get('feed-assay') || feed_assay.value;
+    number.value = input.get('enrich') || number.value;
+    range.value = number.value;
+    setRange(number.value);
+    feed_mass.value = input.get('feed-mass') || feed_mass.value;
+    product_mass.value = input.get('product-mass') || product_mass.value;
+    fabcost.value = input.get('fabcost') || fabcost.value;
+    swucost.value = input.get('swucost') || swucost.value;
+    feedcost.value = input.get('feedcost') || feedcost.value;
+    convcost.value = input.get('convcost') || convcost.value;
+    bunumber.value = input.get('bunumber') || bunumber.value;
+    burange.value = input.get('bunumber') || bunumber.value;
+    effnumber.value = input.get('efficiency') || effnumber.value;
+    effrange.value = input.get('efficiency') || effnumber.value;
 
-        if (input.get('mode') == '0') {
-          // check a checkbox
-          prod_const.checked = true;
-        }
-      }
+    if (input.get('mode') == '0') {
+      prod_const.checked = true;
+    }
 
-      function copySettingsToClipboard() {
-        let params = new URLSearchParams([
-          ['tails-assay', tails_assay.value],
-          ['feed-assay', feed_assay.value],
-          ['enrich', number.value],
-          ['feed-mass', feed_mass.value],
-          ['product-mass', product_mass.value],
-          ['efficiency', effnumber.value],
-          ['fabcost', fabcost.value],
-          ['swucost', swucost.value],
-          ['feedcost', feedcost.value],
-          ['convcost', convcost.value],
-          ['bunumber', bunumber.value],
-          ['mode', prod_const.checked ? '0' : '1'],
-        ]);
+    if (input.get('reload') == '1') {
+      output_reload.checked = true;
+    } else {
+      output_initial.checked = true;
+    }
+  }
 
-        let text = new URL(
-          `${location.protocol + '//' + location.host + location.pathname}?${params}`,
-        );
-        navigator.clipboard.writeText(text);
-      }
+  function copySettingsToClipboard() {
+    let params = new URLSearchParams([
+      ['tails-assay', tails_assay.value],
+      ['feed-assay', feed_assay.value],
+      ['enrich', number.value],
+      ['feed-mass', feed_mass.value],
+      ['product-mass', product_mass.value],
+      ['efficiency', effnumber.value],
+      ['fabcost', fabcost.value],
+      ['swucost', swucost.value],
+      ['feedcost', feedcost.value],
+      ['convcost', convcost.value],
+      ['bunumber', bunumber.value],
+      ['mode', prod_const.checked ? '0' : '1'],
+      ['reload', output_reload.checked ? '1' : '0'],
+    ]);
 
-      var trace1 = {
-        x: ['Feed', 'Product', 'Tails'],
-        y: [20, 14, 23],
-        name: 'U238',
-        type: 'bar',
-      };
+    let text = new URL(
+      `${location.protocol + '//' + location.host + location.pathname}?${params}`,
+    );
+    navigator.clipboard.writeText(text);
+  }
 
-      var trace2 = {
-        x: ['Feed', 'Product', 'Tails'],
-        y: [12, 18, 29],
-        name: 'U235',
-        type: 'bar',
-      };
+  var trace1 = {
+    x: ['Feed', 'Product', 'Tails'],
+    y: [20, 14, 23],
+    name: 'U238',
+    type: 'bar',
+  };
 
-      var data = [trace1, trace2];
+  var trace2 = {
+    x: ['Feed', 'Product', 'Tails'],
+    y: [12, 18, 29],
+    name: 'U235',
+    type: 'bar',
+  };
 
-      var layout = {
-        barmode: 'stack',
-        yaxis: {
-          type: 'log',
-          autorange: true,
-          title: {
-            text: 'Mass (kg or tonne)',
-          },
-        },
-        autosize: true,
-        margin: {
-          t: 0,
-        },
-      };
+  var data = [trace1, trace2];
 
-      Plotly.newPlot('plot', data, layout);
+  var layout = {
+    barmode: 'stack',
+    yaxis: {
+      type: 'log',
+      autorange: true,
+      title: {
+        text: 'Mass (kg)',
+      },
+    },
+    autosize: true,
+    margin: {
+      t: 0,
+    },
+  };
 
-      // cost breakdown plot
-      var feedTrace = {
-        x: [caseTitle.value],
-        y: [1.0],
-        name: 'Feed',
-        type: 'bar',
-      };
-      var swuTrace = {
-        x: [caseTitle.value],
-        y: [4.0],
-        name: 'SWU',
-        type: 'bar',
-      };
-      var convTrace = {
-        x: [caseTitle.value],
-        y: [6.0],
-        name: 'Conversion',
-        type: 'bar',
-      };
-      var fabTrace = {
-        x: [caseTitle.value],
-        y: [9.0],
-        name: 'Fabrication',
-        type: 'bar',
-      };
-      var layoutCost = {
-        barmode: 'stack',
-        yaxis: {
-          type: 'lin',
-          autorange: true,
-          title: {
-            text: 'Fuel reload cost ¢/kWh',
-          },
-        },
-        autosize: true,
-        margin: {
-          t: 0,
-        },
-      };
-      // make initial cost plot
-      var dataCost = [feedTrace, swuTrace, convTrace, fabTrace];
-      Plotly.newPlot('plot-cost', dataCost, layoutCost);
+  Plotly.newPlot('plot', data, layout);
 
-      window.onresize = function () {
-        Plotly.relayout('plot', {});
-        Plotly.relayout('plot-cost', {});
-      };
+  // cost breakdown plot
+  var feedTrace = {
+    x: [caseTitle.value],
+    y: [1.0],
+    name: 'Mining',
+    type: 'bar',
+  };
+  var swuTrace = {
+    x: [caseTitle.value],
+    y: [4.0],
+    name: 'Enrichment',
+    type: 'bar',
+  };
+  var convTrace = {
+    x: [caseTitle.value],
+    y: [6.0],
+    name: 'Conversion',
+    type: 'bar',
+  };
+  var fabTrace = {
+    x: [caseTitle.value],
+    y: [9.0],
+    name: 'Fabrication',
+    type: 'bar',
+  };
+  var layoutCost = {
+    barmode: 'stack',
+    yaxis: {
+      type: 'lin',
+      autorange: true,
+      title: {
+        text: 'Fuel reload cost ¢/kWh',
+      },
+    },
+    autosize: true,
+    margin: {
+      t: 0,
+    },
+  };
+  // make initial cost plot
+  var dataCost = [feedTrace, swuTrace, convTrace, fabTrace];
+  Plotly.newPlot('plot-cost', dataCost, layoutCost);
 
-      // compute initial values
-      setInputVals();
-      computeFeed();
+  window.onresize = function () {
+    Plotly.relayout('plot', {});
+    Plotly.relayout('plot-cost', {});
+  };
 
-      function buildCostData() {
-        feedTrace.x[caseNum] = caseTitle.value;
-        feedTrace.y[caseNum] = parseFloat(reload_feed_cost.value);
-        swuTrace.x[caseNum] = caseTitle.value;
-        swuTrace.y[caseNum] = parseFloat(reload_swu_cost.value);
-        convTrace.x[caseNum] = caseTitle.value;
-        convTrace.y[caseNum] = parseFloat(reload_conv_cost.value);
-        fabTrace.x[caseNum] = caseTitle.value;
-        fabTrace.y[caseNum] = parseFloat(reload_fab_cost.value);
-        // make copy of data so plot updates... (internal caching?)
-        let updatedData = JSON.parse(JSON.stringify(dataCost));
-        return updatedData;
-      }
-      let newData = buildCostData();
-      Plotly.react('plot-cost', newData, layoutCost);
-    </script>
-  </div>
-</div>
+  // compute initial values
+  setInputVals();
+  computeFeed();
+
+  function buildCostData() {
+    feedTrace.x[caseNum] = caseTitle.value;
+    feedTrace.y[caseNum] = parseFloat(reload_feed_cost.value);
+    swuTrace.x[caseNum] = caseTitle.value;
+    swuTrace.y[caseNum] = parseFloat(reload_swu_cost.value);
+    convTrace.x[caseNum] = caseTitle.value;
+    convTrace.y[caseNum] = parseFloat(reload_conv_cost.value);
+    fabTrace.x[caseNum] = caseTitle.value;
+    fabTrace.y[caseNum] = parseFloat(reload_fab_cost.value);
+    // make copy of data so plot updates... (internal caching?)
+    let updatedData = JSON.parse(JSON.stringify(dataCost));
+    return updatedData;
+  }
+  let newData = buildCostData();
+  Plotly.react('plot-cost', newData, layoutCost);
+</script>
