@@ -99,6 +99,7 @@ POWERPLANT](https://digital.library.unt.edu/ark:/67531/metadc868990/m2/1/high_re
 ## See Also
 
 - [A related film about the reactor that flew]({% link _posts/2024-11-08-astr-tower-experiment.md %})
+- [13-hour documentary where veterans from this program describe it]({% link the-story-of-the-atomic-airplane.md %})
 - [A X post about this](https://x.com/whatisnuclear/status/1886397754143867189)
 - [Our Digital Reactor History Museum]({% link museum.md %})
 - [Our Reactor Development History Page]({% link reactor-history.md %})

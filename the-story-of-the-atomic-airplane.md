@@ -29,6 +29,7 @@ This page contains a full transcript of the recordings with links to the specifi
 timestamps in the films.
 
 
+
 <div class="row">
 <div class="col-6">
 <figure>
@@ -50,6 +51,17 @@ timestamps in the films.
 </figure>
 </div>
 </div>
+
+For a more 'vivid' view of the project, make sure to check out [this 1960 film]({% link
+_posts/2025-02-03-declassified-nuclear-powered-aircraft-progress-update-manned-flight-film.md
+%})
+we got digitized showing the actual hardware these guys are talking about: 
+
+<figure>
+<div class="ratio ratio-16x9">
+{% include youtube.html id="V-8q8INxQEY" title="Aircraft Nuclear Power progress report 1956-1958 film" %}
+</div>
+</figure>
 
 
 ## 1 Intro
@@ -1732,7 +1744,7 @@ timestamps in the films.
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=NIQxLJ66py4&t=21677">361:17</a></div><div class="col-8">all the techniques that had been developed and these were among them. The relatively brief history of the ANP program saw tremendous advances in the area of structural mechanics computations.</div></div>
 
 ## See Also
-
+- [A 1950s film describing the project]({% link _posts/2025-02-03-declassified-nuclear-powered-aircraft-progress-update-manned-flight-film.md %})
 - [The rest of our Digital Museum]({% link museum.md %})
 - [Old Videos page]({% link old-videos.md %})
 </div>
