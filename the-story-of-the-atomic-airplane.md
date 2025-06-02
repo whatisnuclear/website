@@ -1731,6 +1731,10 @@ timestamps in the films.
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=NIQxLJ66py4&t=21648">360:48</a></div><div class="col-8">The other divisions also in the company benefited from this work dynamic analysis program development through the medium of the stress and vibration workshops which were started in 1965 era when GE introduced the GE 635 computer that which later became the Honeywell 6000 and we shared between the different components of the company.</div></div>
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=NIQxLJ66py4&t=21677">361:17</a></div><div class="col-8">all the techniques that had been developed and these were among them. The relatively brief history of the ANP program saw tremendous advances in the area of structural mechanics computations.</div></div>
 
+## See Also
+
+- [The rest of our Digital Museum]({% link museum.md %})
+- [Old Videos page]({% link old-videos.md %})
 </div>
 
 <div class="col-md-2 mt-3 mb-5 my-lg-0 ps-xl-3 mb-lg-5 text-muted order-first order-lg-2"
