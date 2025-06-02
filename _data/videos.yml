@@ -3507,6 +3507,45 @@
       name: On YouTube
       notes: Thanks to Aalo Atomics
 
+- title: "Endless Energy with Dr. Edward Teller"
+  naid: 6254975
+  iaea:
+  date: 1981-09-09
+  color: true
+  length: "27:00"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    The story of nuclear power and breeder reactors as told by Dr. Edward
+    Teller.  He also speaks of fusion, fusion-fission hybrids, molten salt
+    reactors, underground autonomous traveling wave reactors, regulations, TMI,
+    and many other topics.
+  links:
+    - url: https://www.youtube.com/watch?v=eTRz1Fw3Yjc
+      name: On YouTube
+      notes: Thanks to Aalo Atomics
+
+- title: "The Next Step: Progress Report: The Clinch River Breeder Reactor Plant Project (1980)"
+  naid: 7480017
+  iaea:
+  date: 1980-05-01
+  color: true
+  length: "13:56"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    This is a summary of the (now cancelled) Clinch River Breeder Reactor Plant Project.
+  links:
+    - url: https://www.youtube.com/watch?v=EJ-GR2KjyGc
+      name: On YouTube
+      notes: Thanks to Aalo Atomics
+
 - title: "Target for Antares: Laser Fusion at Los Alamos"
   naid:
   iaea:
