@@ -3204,7 +3204,6 @@
   color: true
   length: 13
   catalog: IAEA
-  priority: 1
   resolution: 4K
   format: 16mm
   description: >
@@ -3213,6 +3212,9 @@
     illustrates the hot -laboratory remote-control techniques used to separate and
     recover enriched fuel from the blanket material.
   notes: There's also a French soundtrack
+  links:
+    - url: https://www.youtube.com/watch?v=FY74p-HDVsQ
+      name: On ANL's YouTube
 
 - title: Plutonium fuel fabrication for MTR
   naid: 88409
@@ -3589,3 +3591,50 @@
     - url: https://www.youtube.com/watch?v=RSVHbKX2i6s
       name: On YouTube
       notes: Thanks to Ron Knief and Suzanne Wehrenberg
+
+- title: "HTRE #3"
+  naid: 326-ORNL-22
+  iaea:
+  date: 
+  color: 
+  length: "46:00"
+  catalog: Archives Q4 2024
+  priority: 1
+  resolution: 
+  format: 16mm
+  description:
+  notes:
+    Listed in Archives FY2024 Q4 release list with no description. 
+
+
+- title: "HTRE 3 & FET"
+  naid: 326-ORNL-27
+  iaea:
+  date: 
+  color: 
+  length: "8:15"
+  catalog: Archives Q4 2024
+  priority: 1
+  resolution: 
+  format: 16mm
+  description:
+  notes: >
+    Listed in Archives FY2024 Q4 release list with no description but very 
+    likely shows the aircraft reactor prototype HTRE-3 in Idaho. 
+    HTRE is high temperature reactor experiment. FET is Flight Engine Test.
+
+- title: "C.T.F. Progress Report"
+  naid: 326-ORNL-25
+  iaea:
+  date: 
+  color: 
+  length: "4:15"
+  catalog: Archives Q4 2024
+  priority: 2
+  resolution: 
+  format: 16mm
+  description:
+  notes: >
+    Listed in Archives FY2024 Q4 release list with no description but very 
+    likely shows the Contained Test Facility as it relates to the aircraft reactor 
+    program in Idaho.
