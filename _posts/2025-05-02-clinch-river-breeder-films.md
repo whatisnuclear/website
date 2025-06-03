@@ -54,7 +54,11 @@ is a lot less than the 16mm films we've scanned in the past.
 <p class="h6 card-subtitle mb-2 text-muted">{{ card.date }}</p>
 
 <p class="card-text">{{ card.description | truncate: 150}}</p> 
+{% if card.links[1] %}
+<a href="{{ card.links[1].url }}" class="stretched-link"></a>
+{%- else -%}
 <a href="{{ card.links[0].url }}" target="_blank" class="stretched-link"></a>
+{%- endif -%}
 </div>
 </div>
 {% endfor %}

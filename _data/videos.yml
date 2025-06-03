@@ -3548,6 +3548,27 @@
       name: On YouTube
       notes: Thanks to Aalo Atomics
 
+- title: "Atomic Safety and Licensing Board hearings on CRBRP (1982)"
+  naid: 7479942
+  iaea:
+  date: 1982-09-01
+  color: true
+  length: "44:18"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    This is a ASLB meeting discussing the (now cancelled) Clinch River Breeder Reactor Plant Project.
+  links:
+    - url: https://www.youtube.com/watch?v=M_iDF5RlFL8
+      name: On YouTube
+      notes: Thanks to Aalo Atomics
+    - url: /crbrp-aslb-hearing-1982-transcript.html
+      name: Our transcription
+      notes: Thanks to Aalo Atomics
+
 - title: "Target for Antares: Laser Fusion at Los Alamos"
   naid:
   iaea:
