@@ -43,6 +43,7 @@ function computeFuelCost(unitCosts, swu, feed_mass, uf6_mass, product_mass) {
   costs["feed"] = feed_mass * ((unitCosts["feed"] * 2.2046) / 0.847981);
   costs["conv"] = uf6_mass * unitCosts["conv"];
   costs["fab"] = product_mass * unitCosts["fab"];
+  costs["sum"] = Object.values(costs).reduce((total, value) => total + value, 0);
 
   return costs
 }
@@ -69,6 +70,7 @@ function computeReloadCost(
     ((feed_per_kwe * unitCosts["feed"] * 2.2046) / 0.847981) * 100;
   costs["fab"] = prod_kg_per_kwe * unitCosts["fab"] * 100;
   costs["conv"] = uf6_per_kwe * unitCosts["conv"] * 100;
+  costs["sum"] = Object.values(costs).reduce((total, value) => total + value, 0);
 
   let reload_waste = prod_kg_per_kwe * 1000000;
   let reload_feed_mass = feed_per_kwe * 1000000;

@@ -948,8 +948,7 @@ categories:
       reload_waste.value = reload_waste_.toFixed(3);
     }
 
-    let tcost = costs['swu'] + costs['feed'] + costs['conv'] + costs['fab'];
-    reload_total_cost.value = tcost.toFixed(3);
+    reload_total_cost.value = costs['sum'].toFixed(3);
     reload_swu_cost.value = costs['swu'].toFixed(3);
     reload_feed_cost.value = costs['feed'].toFixed(3);
     reload_fab_cost.value = costs['fab'].toFixed(3);
