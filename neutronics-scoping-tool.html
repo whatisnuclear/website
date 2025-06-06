@@ -11,32 +11,9 @@ categories:
   - reference
 ---
 <style>
-  body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
-  #container {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: center;
-  }
-  #threejs-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-right: 20px;
-    margin-top: 10px;
-  }
-  #plot-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-right: 20px;
-  }
   #plotly-container {
-    width: 400px;
-    height: 400px;
+    max-width: 400px;
+    max-height: 400px;
   }
   canvas {
     border: 1px solid black;
@@ -70,8 +47,8 @@ calculations under the hood with actual transport and depletion.
 
 
 
-<div id="container">
-  <div id="threejs-container">
+<div class="row">
+  <div class="col">
     <canvas id="canvas"></canvas>
     <div class="slider-container">
       <label for="heightSlider">Height (cm): </label>
@@ -87,7 +64,7 @@ calculations under the hood with actual transport and depletion.
     </div>
     <div id="dimensions">Height: 75 cm, Radius: 100 cm</div>
   </div>
-  <div id="plot-container">
+  <div class="col">
     <div id="plotly-container"></div>
     <div id="output">
       <table class="table">
