@@ -1024,7 +1024,7 @@ powerselect.addEventListener("change",(e)=>{
 
     if (input.get('reload') == '1') {
       output_reload.checked = true;
-    } else {
+    } else if (input.get('reload') =='0') {
       output_initial.checked = true;
     }
   }
