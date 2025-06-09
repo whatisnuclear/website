@@ -4,10 +4,10 @@ import physics from "/assets/reactor-physics.json" with { type: "json" };
 
 // hard-coded for now, with UO2 fab (maybe load onto physics json!)
 const unitCosts = {
-    feed: 65.0,
-    conv: 60.0,
-    fab: 300.0,
-    swu: 170.0,
+  feed: 65.0,
+  conv: 60.0,
+  fab: 300.0,
+  swu: 170.0,
 };
 
 // Three.js setup
@@ -108,7 +108,8 @@ function updatePlot(radius, height, enrich) {
     physics[reactorType]["cycle"],
     enrich,
   );
-  migrationArea = average(interpData["migration_areas"]);
+  //migrationArea = average(interpData["migration_areas"]);
+  migrationArea = 85;
   bucklingGeometric = (2.405 / radius) ** 2 + (3.14159 / height) ** 2;
   p_non_leakage = 1 / (1 + bucklingGeometric * migrationArea);
   p_leakage = 1 - p_non_leakage;
@@ -128,7 +129,7 @@ function updatePlot(radius, height, enrich) {
     width: 400,
     height: 400,
     margin: { t: 40, b: 40, l: 40, r: 20 },
-    // add red criticality line
+    // add criticality line at 1.0
     shapes: [
       {
         type: "line",
@@ -177,9 +178,9 @@ function updateCylinderAndPlot() {
   // convert to kg for economics calc
   let feed_factor = getFeedFactor(enrich, 0.25, 0.711);
   let swu_factor = getSwuFactor(enrich, 0.25, 0.711, feed_factor);
-  let [uf6, feed] = computeFeedFromProduct(feed_factor, fuel_mt*1000, 0.5);
-  let [swu, tails] = computeSWU(swu_factor, feed, fuel_mt*1000)
-  let costs = computeFuelCost(unitCosts, swu, feed, uf6, fuel_mt*1000);
+  let [uf6, feed] = computeFeedFromProduct(feed_factor, fuel_mt * 1000, 0.5);
+  let [swu, tails] = computeSWU(swu_factor, feed, fuel_mt * 1000)
+  let costs = computeFuelCost(unitCosts, swu, feed, uf6, fuel_mt * 1000);
 
 
 
@@ -190,7 +191,7 @@ function updateCylinderAndPlot() {
   outPower.textContent = `${power.toFixed(2)} MWt`;
   outFuel.textContent = `${fuel_mt.toFixed(2)} MTHM`;
   outFissile.textContent = `${fissile_mt.toFixed(2)} MT`;
-  outCost.textContent = `$${(costs['sum']/1e6).toFixed(2)} million`;
+  outCost.textContent = `$${(costs['sum'] / 1e6).toFixed(2)} million`;
   updatePlot(radius, height, enrich);
 }
 

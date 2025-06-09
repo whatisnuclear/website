@@ -3487,6 +3487,25 @@
       name: On YouTube
       notes: Thanks to Aalo Atomics
 
+- title: "Large Scale Fire Suppression Test #1 "
+  naid: 7459148
+  iaea:
+  date: 1983-05-11
+  color: true
+  length: "30:18"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    Additional footage of the Large-Scale Sodium test, related to
+    NAID 7459148
+  links:
+    - url: https://www.youtube.com/watch?v=BBl1-3Mr134
+      name: On YouTube
+      notes: Thanks to Aalo Atomics
+
 - title: "Clinch River Breeder Reactor Closure Head Testing"
   naid: 7480006
   iaea:
@@ -3569,6 +3588,24 @@
       name: Our transcription
       notes: Thanks to Aalo Atomics
 
+- title: "Site Activities at CRBRP"
+  naid: 7480005
+  iaea:
+  date: 1982-09-22
+  color: true
+  length: "6:08"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    Clearing the site at CRBRP
+  links:
+    - url: https://www.youtube.com/watch?v=qLZgN8UCFBs
+      name: On YouTube
+      notes: Thanks to Aalo Atomics
+
 - title: "Target for Antares: Laser Fusion at Los Alamos"
   naid:
   iaea:
@@ -3616,27 +3653,25 @@
 - title: "HTRE #3"
   naid: 326-ORNL-22
   iaea:
-  date: 
-  color: 
+  date:
+  color:
   length: "46:00"
   catalog: Archives Q4 2024
   priority: 1
-  resolution: 
+  resolution:
   format: 16mm
   description:
-  notes:
-    Listed in Archives FY2024 Q4 release list with no description. 
-
+  notes: Listed in Archives FY2024 Q4 release list with no description.
 
 - title: "HTRE 3 & FET"
   naid: 326-ORNL-27
   iaea:
-  date: 
-  color: 
+  date:
+  color:
   length: "8:15"
   catalog: Archives Q4 2024
   priority: 1
-  resolution: 
+  resolution:
   format: 16mm
   description:
   notes: >
@@ -3647,12 +3682,12 @@
 - title: "C.T.F. Progress Report"
   naid: 326-ORNL-25
   iaea:
-  date: 
-  color: 
+  date:
+  color:
   length: "4:15"
   catalog: Archives Q4 2024
   priority: 2
-  resolution: 
+  resolution:
   format: 16mm
   description:
   notes: >
