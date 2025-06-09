@@ -3606,6 +3606,43 @@
       name: On YouTube
       notes: Thanks to Aalo Atomics
 
+- title: "Six Foot Vessel Test (Seismic) CRBRP"
+  naid: 7479941
+  iaea:
+  date: 1978-09-22
+  color: true
+  length: "32:27"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    Technical recording of shake testing of a 6-foot vessel. 326-CRB-17
+  links:
+    - url: https://www.youtube.com/watch?v=w5OS2pn9s58
+      name: On YouTube
+      notes: Thanks to Aalo Atomics
+
+- title: '24" Pipe Test from CRBRP'
+  naid: 7479950
+  iaea:
+  date: 1979-02-27
+  color: true
+  length: "16:18"
+  tags: crbrp
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    Technical recording of shake testing of a large sodium pipe. 326-CRB-15
+    Looking for resonances.
+  links:
+    - url: https://www.youtube.com/watch?v=IumArod8mO0
+      name: On YouTube
+      notes: Thanks to Aalo Atomics
+
 - title: "Target for Antares: Laser Fusion at Los Alamos"
   naid:
   iaea:
