@@ -29,6 +29,15 @@ categories:
     margin-top: 10px;
     font-size: 16px;
   }
+  #warning-label {
+  background-color: white;
+  color: black; /* Text color for readability */
+  font-weight: bold;
+  font-size: 1.2rem;
+  border: 1px solid #ccc; /* Optional: subtle border */
+  transition: background-color 0.5s ease; /* Smooth color transition */
+  max-width: 200px; 
+}
 </style>
 <script type="importmap">
   {
@@ -56,17 +65,18 @@ calculations under the hood with actual transport and depletion.
     <canvas id="canvas"></canvas>
     <div class="slider-container">
       <label for="heightSlider">Height (cm): </label>
-      <input type="range" id="heightSlider" min="1" max="500" value="75">
+      <input type="range" id="heightSlider" min="0" max="500" value="75">
     </div>
     <div class="slider-container">
       <label for="radiusSlider">Radius (cm): </label>
-      <input type="range" id="radiusSlider" min="1" max="300" value="100">
+      <input type="range" id="radiusSlider" min="0" max="300" value="100">
     </div>
     <div class="slider-container">
       <label for="enrichSlider">Enrichment (%): </label>
-      <input type="range" id="enrichSlider" min="0.711" max="20" value="3">
+      <input type="range" id="enrichSlider" min="0" max="20" step="0.5" value="3">
     </div>
     <div id="dimensions">Height: 75 cm, Radius: 100 cm</div>
+    <div id="warning-label" class="text-center p-0">OVERESTIMATE</div>
   </div>
   <div class="col-md-6">
     <div id="plotly-container"></div>

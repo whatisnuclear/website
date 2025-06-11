@@ -101,7 +101,7 @@ let power;
 let volume;
 
 // Initial scatter plot
-function updatePlot(radius, height, enrich) {
+export function updatePlot(radius, height, enrich) {
   // compute geometric buckling for bare finite cylinder
   let interpData = interpolatePhysicsData(
     physics[reactorType]["cycle"],
@@ -151,6 +151,7 @@ function updatePlot(radius, height, enrich) {
     ],
   };
   Plotly.newPlot("plotly-container", [trace], layout, plotlyConfig);
+  return keffs[0]; // for benchmarking
 }
 
 // Update cylinder and plot
@@ -275,18 +276,45 @@ function interpolatePhysicsData(data, enrichValue) {
 // Slider event listeners
 heightSlider.addEventListener("input", () => {
   height = parseFloat(heightSlider.value);
+  // force stop at reasonable values where physics breaks down
+  if (height < 50) {
+    height = 50;
+    heightSlider.value = height;
+  }
+  updateWarningLabel(height, 50);
   updateCylinderAndPlot();
 });
 
 radiusSlider.addEventListener("input", () => {
   radius = parseFloat(radiusSlider.value);
+  // force stop at reasonable values where physics breaks down
+  if (radius < 25) {
+    radius = 25;
+    radiusSlider.value = radius;
+  }
+  updateWarningLabel(radius, 25);
   updateCylinderAndPlot();
 });
 
 enrichSlider.addEventListener("input", () => {
   enrich = parseFloat(enrichSlider.value);
+  if (enrich<0.711) {
+    // hard limit at natural u
+    enrich = 0.711;
+    //enrichSlider.value=enrich;
+  }
   updateCylinderAndPlot();
 });
+
+export function updateWarningLabel() {
+  const label = document.getElementById("warning-label");
+  let heightWarning = (height-50)/50;
+  let radiusWarning = (radius-25)/25;
+  const redIntensity = 1 - Math.min(heightWarning, radiusWarning);
+  // Compute RGB: red stays 255, green/blue decrease from 255 to 0
+  const greenBlue = Math.round(255 * (1 - redIntensity));
+  label.style.backgroundColor = `rgb(255, ${greenBlue}, ${greenBlue})`;
+}
 
 // Initial plot
 updatePlot(radius, height);
