@@ -20,7 +20,6 @@ const camera = new THREE.PerspectiveCamera(
   1000,
 );
 const renderer = new THREE.WebGLRenderer({ canvas: canvas, antialias: true });
-renderer.setSize(400, 400);
 camera.position.set(0, 100, 400);
 
 // OrbitControls
@@ -109,10 +108,11 @@ function updatePlot(radius, height, enrich) {
     enrich,
   );
   migrationArea = average(interpData["migration_areas"]);
-  let extrap = 2.3 // extrapolation distance.
-  extrap = 0 // zero for small cores where most leakage is fast
+  let extrap = 2.3; // extrapolation distance.
+  extrap = 0; // zero for small cores where most leakage is fast
   //migrationArea = 85;
-  bucklingGeometric = (2.405 / (radius+extrap)) ** 2 + (3.14159 / (height+2*extrap)) ** 2;
+  bucklingGeometric =
+    (2.405 / (radius + extrap)) ** 2 + (3.14159 / (height + 2 * extrap)) ** 2;
   p_non_leakage = 1 / (1 + bucklingGeometric * migrationArea);
   p_leakage = 1 - p_non_leakage;
   const keffs = interpData["kinfs"].map((v) => v * p_non_leakage);
@@ -123,14 +123,17 @@ function updatePlot(radius, height, enrich) {
     type: "scatter",
     marker: { size: 8, color: "#ff6347" },
   };
+  const plotlyConfig = {
+    responsive: true,
+    displayModeBar: true,
+  };
   const layout = {
     title: "Reactivity vs. Time",
     xaxis: { title: { text: "Time (yr)" }, range: [0, 1.5] },
     //yaxis: { title: 'k', range: [0, Math.max(...keffs) * 1.2] },
     yaxis: { title: { text: "k-eff" }, range: [0, 1.7] },
-    width: 400,
-    height: 400,
     margin: { t: 40, b: 40, l: 40, r: 20 },
+    autosize: true,
     // add criticality line at 1.0
     shapes: [
       {
@@ -147,7 +150,7 @@ function updatePlot(radius, height, enrich) {
       },
     ],
   };
-  Plotly.newPlot("plotly-container", [trace], layout);
+  Plotly.newPlot("plotly-container", [trace], layout, plotlyConfig);
 }
 
 // Update cylinder and plot
@@ -169,6 +172,12 @@ function updateCylinderAndPlot() {
 
   volume = Math.PI * radius ** 2 * height;
 
+  if (resizeRendererToDisplaySize(renderer)) {
+    const canvas = renderer.domElement;
+    camera.aspect = 1.0 //canvas.clientWidth / canvas.clientHeight;
+    camera.updateProjectionMatrix();
+  }
+
   // update output values
   let leakage = 100 * p_leakage;
   let migrationLength = Math.sqrt(migrationArea);
@@ -181,10 +190,8 @@ function updateCylinderAndPlot() {
   let feed_factor = getFeedFactor(enrich, 0.25, 0.711);
   let swu_factor = getSwuFactor(enrich, 0.25, 0.711, feed_factor);
   let [uf6, feed] = computeFeedFromProduct(feed_factor, fuel_mt * 1000, 0.5);
-  let [swu, tails] = computeSWU(swu_factor, feed, fuel_mt * 1000)
+  let [swu, tails] = computeSWU(swu_factor, feed, fuel_mt * 1000);
   let costs = computeFuelCost(unitCosts, swu, feed, uf6, fuel_mt * 1000);
-
-
 
   // update output UI
   dimensionsDiv.textContent = `Height: ${height} cm, Radius: ${radius} cm, Enrich: ${enrich}%`;
@@ -193,8 +200,19 @@ function updateCylinderAndPlot() {
   outPower.textContent = `${power.toFixed(2)} MWt`;
   outFuel.textContent = `${fuel_mt.toFixed(2)} MTHM`;
   outFissile.textContent = `${fissile_mt.toFixed(2)} MT`;
-  outCost.textContent = `$${(costs['sum'] / 1e6).toFixed(2)} million`;
+  outCost.textContent = `$${(costs["sum"] / 1e6).toFixed(2)} million`;
   updatePlot(radius, height, enrich);
+}
+
+function resizeRendererToDisplaySize(renderer) {
+  const canvas = renderer.domElement;
+  const width = canvas.clientWidth;
+  const height = width //canvas.clientHeight;
+  const needResize = canvas.width !== width || canvas.height !== height;
+  if (needResize) {
+    renderer.setSize(width, height, false);
+  }
+  return needResize;
 }
 
 function interpolatePhysicsData(data, enrichValue) {

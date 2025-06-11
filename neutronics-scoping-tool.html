@@ -14,9 +14,13 @@ categories:
   #plotly-container {
     max-width: 400px;
     max-height: 400px;
+    width: 100%
   }
   canvas {
     border: 1px solid black;
+    width: 100%;
+    max-width: 400px;
+    max-height: 400px;
   }
   .slider-container {
     margin: 10px;
@@ -48,7 +52,7 @@ calculations under the hood with actual transport and depletion.
 
 
 <div class="row">
-  <div class="col">
+  <div class="col-md-6">
     <canvas id="canvas"></canvas>
     <div class="slider-container">
       <label for="heightSlider">Height (cm): </label>
@@ -64,7 +68,7 @@ calculations under the hood with actual transport and depletion.
     </div>
     <div id="dimensions">Height: 75 cm, Radius: 100 cm</div>
   </div>
-  <div class="col">
+  <div class="col-md-6">
     <div id="plotly-container"></div>
     <div id="output">
       <table class="table">
