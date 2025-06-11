@@ -108,9 +108,11 @@ function updatePlot(radius, height, enrich) {
     physics[reactorType]["cycle"],
     enrich,
   );
-  //migrationArea = average(interpData["migration_areas"]);
-  migrationArea = 85;
-  bucklingGeometric = (2.405 / radius) ** 2 + (3.14159 / height) ** 2;
+  migrationArea = average(interpData["migration_areas"]);
+  let extrap = 2.3 // extrapolation distance.
+  extrap = 0 // zero for small cores where most leakage is fast
+  //migrationArea = 85;
+  bucklingGeometric = (2.405 / (radius+extrap)) ** 2 + (3.14159 / (height+2*extrap)) ** 2;
   p_non_leakage = 1 / (1 + bucklingGeometric * migrationArea);
   p_leakage = 1 - p_non_leakage;
   const keffs = interpData["kinfs"].map((v) => v * p_non_leakage);
