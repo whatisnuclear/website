@@ -68,7 +68,7 @@ let head = null;
 // init shielding shapes
 const shieldMaterial = new THREE.MeshPhysicalMaterial({
   transparent: true,
-  opacity: 0.5,
+  opacity: 0.4,
   roughness: 0.1,
   metalness: 0.0,
   transmission: 0.9,

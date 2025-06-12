@@ -88,11 +88,11 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
     <canvas id="canvas"></canvas>
     <div class="slider-container">
       <label for="heightSlider">Height (cm): </label>
-      <input type="range" id="heightSlider" min="0" max="500" value="75">
+      <input type="range" id="heightSlider" min="0" max="700" value="75">
     </div>
     <div class="slider-container">
       <label for="radiusSlider">Radius (cm): </label>
-      <input type="range" id="radiusSlider" min="0" max="300" value="100">
+      <input type="range" id="radiusSlider" min="0" max="500" value="100">
     </div>
     <div class="slider-container">
       <label for="enrichSlider">Enrichment (%): </label>
