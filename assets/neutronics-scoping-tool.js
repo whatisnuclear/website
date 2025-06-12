@@ -17,7 +17,7 @@ const camera = new THREE.PerspectiveCamera(
   75,
   canvas.width / canvas.height,
   0.1,
-  1000,
+  10000,
 );
 const renderer = new THREE.WebGLRenderer({ canvas: canvas, antialias: true });
 camera.position.set(0, 100, 400);
@@ -37,38 +37,57 @@ scene.add(new THREE.AmbientLight(0x404040, 20));
 
 let enrich = 3;
 
-// Cylinder
+// Core
 let height = 75;
 let radius = 100;
-let cylinderGeometry = new THREE.CylinderGeometry(radius, radius, height, 32);
-const cylinderMaterial = new THREE.MeshPhongMaterial({ color: 0x4682b4 });
-let cylinder = new THREE.Mesh(cylinderGeometry, cylinderMaterial);
-cylinder.position.x = -5;
-scene.add(cylinder);
+
+// shield
+let shieldThickness = 6 * 12 * 2.54;
+
+const coreMaterial = new THREE.MeshPhongMaterial({ color: 0x4682b4 });
+let coreGeometry = null;
+let core = null;
 
 // Person (5'9" = 175.26 cm)
 const personHeight = 175.26;
 const bodyHeight = personHeight * 0.8;
 const headRadius = personHeight * 0.1;
 const bodyRadius = headRadius * 0.5;
-const bodyGeometry = new THREE.CylinderGeometry(
+let bodyGeometry = new THREE.CylinderGeometry(
   bodyRadius,
   bodyRadius,
   bodyHeight,
   32,
 );
-const personMaterial = new THREE.MeshPhongMaterial({ color: 0xff6347 });
-let body = new THREE.Mesh(bodyGeometry, personMaterial);
-body.position.set(radius + 5, -height / 2.0 + bodyHeight / 2, 0);
-scene.add(body);
 const headGeometry = new THREE.SphereGeometry(headRadius, 32, 32);
-let head = new THREE.Mesh(headGeometry, personMaterial);
-head.position.set(radius + 5, -height / 2.0 + bodyHeight + headRadius, 0);
-scene.add(head);
+
+const personMaterial = new THREE.MeshPhongMaterial({ color: 0xff6347 });
+let body = null;
+let head = null;
+
+// init shielding shapes
+const shieldMaterial = new THREE.MeshPhysicalMaterial({
+  transparent: true,
+  opacity: 0.5,
+  roughness: 0.1,
+  metalness: 0.0,
+  transmission: 0.9,
+  depthWrite: false,
+  thickness: 1.0,
+});
+let radialShieldGeometry = null;
+let topShieldGeometry = null;
+let bottomShieldGeometry = null;
+
+let radialShield = null;
+let topShield = null;
+let bottomShield = null;
 
 let bucklingGeometric = (2.405 / radius) ** 2 + (3.14159 / height) ** 2;
 let migrationArea = 20.0; // update!
-
+let peakingFactor = 1.57 * 1.55; // cosine * bessel
+let time = [0, 1.5];
+let powerMult = 1.0; // adjust to downrate
 let reactorType = "LWR";
 
 const average = (array) => array.reduce((a, b) => a + b) / array.length;
@@ -77,6 +96,7 @@ const average = (array) => array.reduce((a, b) => a + b) / array.length;
 const heightSlider = document.getElementById("heightSlider");
 const radiusSlider = document.getElementById("radiusSlider");
 const enrichSlider = document.getElementById("enrichSlider");
+const powerSlider = document.getElementById("powerSlider");
 const dimensionsDiv = document.getElementById("dimensions");
 const outLeakage = document.getElementById("outLeakage");
 const outMigration = document.getElementById("outMigration");
@@ -84,21 +104,16 @@ const outPower = document.getElementById("outPower");
 const outFuel = document.getElementById("outFuel");
 const outFissile = document.getElementById("outFissile");
 const outCost = document.getElementById("outCost");
-
-// Plotly data
-const xValues = [
-  0.0, 0.006844626967830253, 0.08213552361396305, 0.1642710472279261,
-  0.24640657084188913, 0.3285420944558522, 0.41067761806981523,
-  0.49281314168377827, 0.5749486652977412, 0.6570841889117044,
-  0.7392197125256673, 0.8213552361396305, 0.9034907597535935,
-  0.9856262833675565, 1.0677618069815196, 1.1498973305954825,
-  1.2320328542094456, 1.3141683778234088, 1.3963039014373717,
-];
+const outTime = document.getElementById("outTime");
+const outBu = document.getElementById("outBu");
+const outShield = document.getElementById("outShield");
+const warnSubcrit = document.getElementById("warning-subcrit");
 
 let p_non_leakage;
 let p_leakage;
 let power;
 let volume;
+let crossYear;
 
 // Initial scatter plot
 export function updatePlot(radius, height, enrich) {
@@ -115,9 +130,15 @@ export function updatePlot(radius, height, enrich) {
     (2.405 / (radius + extrap)) ** 2 + (3.14159 / (height + 2 * extrap)) ** 2;
   p_non_leakage = 1 / (1 + bucklingGeometric * migrationArea);
   p_leakage = 1 - p_non_leakage;
-  const keffs = interpData["kinfs"].map((v) => v * p_non_leakage);
+  let timeYr = physics[reactorType]["years"].map((v) => v / powerMult);
+  let keffs = interpData["kinfs"].map((v) => v * p_non_leakage);
+  crossYear = findCriticalCrossoverTime(timeYr, keffs);
+  if (crossYear && crossYear > timeYr[timeYr.length - 1]) {
+    timeYr.push(crossYear);
+    keffs.push(1.0);
+  }
   const trace = {
-    x: xValues,
+    x: timeYr,
     y: keffs,
     mode: "lines+markers",
     type: "scatter",
@@ -129,11 +150,12 @@ export function updatePlot(radius, height, enrich) {
   };
   const layout = {
     title: "Reactivity vs. Time",
-    xaxis: { title: { text: "Time (yr)" }, range: [0, 1.5] },
+    xaxis: { title: { text: "Time (yr)" }, autorange: true },
     //yaxis: { title: 'k', range: [0, Math.max(...keffs) * 1.2] },
-    yaxis: { title: { text: "k-eff" }, range: [0, 1.7] },
-    margin: { t: 40, b: 40, l: 40, r: 20 },
+    yaxis: { title: { text: "k-eff" }, autorange: true },
+    margin: { t: 100, b: 40, l: 40, r: 20 },
     autosize: true,
+    showlegend: false,
     // add criticality line at 1.0
     shapes: [
       {
@@ -156,59 +178,81 @@ export function updatePlot(radius, height, enrich) {
 
 // Update cylinder and plot
 function updateCylinderAndPlot() {
-  scene.remove(cylinder);
-  scene.remove(body);
-  scene.remove(head);
-  cylinderGeometry = new THREE.CylinderGeometry(radius, radius, height, 32);
-  cylinder = new THREE.Mesh(cylinderGeometry, cylinderMaterial);
-  cylinder.position.x = -5;
-  scene.add(cylinder);
+  if (core) {
+    scene.remove(core);
+    scene.remove(body);
+    scene.remove(head);
+  }
+  coreGeometry = new THREE.CylinderGeometry(radius, radius, height, 32);
+  core = new THREE.Mesh(coreGeometry, coreMaterial);
+  core.position.x = -5;
+  scene.add(core);
 
   body = new THREE.Mesh(bodyGeometry, personMaterial);
-  body.position.set(radius + 5, -height / 2 + bodyHeight / 2, 0);
+  body.position.set(
+    radius + shieldThickness + 5,
+    -height / 2 + bodyHeight / 2,
+    0,
+  );
   scene.add(body);
   head = new THREE.Mesh(headGeometry, personMaterial);
-  head.position.set(radius + 5, -height / 2 + bodyHeight + headRadius, 0);
+  head.position.set(
+    radius + shieldThickness + 5,
+    -height / 2 + bodyHeight + headRadius,
+    0,
+  );
   scene.add(head);
 
   volume = Math.PI * radius ** 2 * height;
 
+  renderShielding(radius, height, scene);
+
   if (resizeRendererToDisplaySize(renderer)) {
     const canvas = renderer.domElement;
-    camera.aspect = 1.0 //canvas.clientWidth / canvas.clientHeight;
+    camera.aspect = 1.0; //canvas.clientWidth / canvas.clientHeight;
     camera.updateProjectionMatrix();
   }
 
   // update output values
   let leakage = 100 * p_leakage;
   let migrationLength = Math.sqrt(migrationArea);
-  let power = (volume * physics[reactorType]["pdens"]) / 1e6;
-  let fuel_mt = (volume * physics[reactorType]["hmDensity"]) / 1e6;
-  let fissile_mt =
-    (volume * physics[reactorType]["hmDensity"] * enrich) / 100.0 / 1e6;
+  let powerMWt = ((volume * physics[reactorType]["pdens"]) / 1e6) * powerMult;
+  let fuelMT = (volume * physics[reactorType]["hmDensity"]) / 1e6;
+  let fissileMT = (fuelMT * enrich) / 100.0;
+  let shieldVolume =
+    Math.PI * ((radius + shieldThickness) ** 2 - radius ** 2) * height +
+    2 * Math.PI * (radius + shieldThickness) ** 2 * shieldThickness;
+  let shieldMassMT = (shieldVolume * 4.0) / 1e6; // high density concrete @ 4 g/cc
 
   // convert to kg for economics calc
   let feed_factor = getFeedFactor(enrich, 0.25, 0.711);
   let swu_factor = getSwuFactor(enrich, 0.25, 0.711, feed_factor);
-  let [uf6, feed] = computeFeedFromProduct(feed_factor, fuel_mt * 1000, 0.5);
-  let [swu, tails] = computeSWU(swu_factor, feed, fuel_mt * 1000);
-  let costs = computeFuelCost(unitCosts, swu, feed, uf6, fuel_mt * 1000);
+  let [uf6, feed] = computeFeedFromProduct(feed_factor, fuelMT * 1000, 0.5);
+  let [swu, tails] = computeSWU(swu_factor, feed, fuelMT * 1000);
+  let costs = computeFuelCost(unitCosts, swu, feed, uf6, fuelMT * 1000);
+
+  updatePlot(radius, height, enrich);
+
+  let burnupAvg = (((crossYear * powerMWt) / fuelMT) * 365.25) / 1000;
+  let burnupPeak = burnupAvg * peakingFactor;
 
   // update output UI
-  dimensionsDiv.textContent = `Height: ${height} cm, Radius: ${radius} cm, Enrich: ${enrich}%`;
+  dimensionsDiv.textContent = `Height: ${height} cm, Radius: ${radius} cm, Enrich: ${enrich}%, Rating: ${powerMult * 100}%`;
   outLeakage.textContent = `${leakage.toFixed(2)}%`;
   outMigration.textContent = `${migrationLength.toFixed(2)} cm`;
-  outPower.textContent = `${power.toFixed(2)} MWt`;
-  outFuel.textContent = `${fuel_mt.toFixed(2)} MTHM`;
-  outFissile.textContent = `${fissile_mt.toFixed(2)} MT`;
+  outPower.textContent = `${powerMWt.toFixed(2)} MWt`;
+  outFuel.textContent = `${fuelMT.toFixed(2)} MTHM`;
+  outFissile.textContent = `${fissileMT.toFixed(2)} MT`;
   outCost.textContent = `$${(costs["sum"] / 1e6).toFixed(2)} million`;
-  updatePlot(radius, height, enrich);
+  outTime.textContent = `${crossYear.toFixed(3)} years`;
+  outBu.textContent = `${burnupAvg.toFixed(2)} (avg) / ${burnupPeak.toFixed(2)} (peak) MWd/kg`;
+  outShield.textContent = `${shieldMassMT.toFixed(2)} MT (high density concrete)`;
 }
 
 function resizeRendererToDisplaySize(renderer) {
   const canvas = renderer.domElement;
   const width = canvas.clientWidth;
-  const height = width //canvas.clientHeight;
+  const height = width; //canvas.clientHeight;
   const needResize = canvas.width !== width || canvas.height !== height;
   if (needResize) {
     renderer.setSize(width, height, false);
@@ -273,6 +317,79 @@ function interpolatePhysicsData(data, enrichValue) {
   };
 }
 
+function findCriticalCrossoverTime(times, keffs) {
+  // given times and keffs, find the time when it would reach 1.0
+  // interpolates within curve or does linear extrapolation of the last two points.
+  let x1;
+  let x2;
+  let y1;
+  let y2;
+  for (let n = 2; n <= times.length; n++) {
+    x1 = times[n - 2];
+    x2 = times[n - 1];
+    y1 = keffs[n - 2];
+    y2 = keffs[n - 1];
+
+    if (y1 < 1.0) {
+      // never went critical
+      return 0;
+    }
+    if (y1 > 1.0 && y2 < 1.0) {
+      // goes subcritical this step, interpolate
+      break;
+    }
+  }
+  if (y1 === y2) {
+    return y1 === 1.0 ? x1 : null;
+  }
+  const slope = (y2 - y1) / (x2 - x1);
+  if (slope === 0) return null;
+  // Find x for y = 1.0
+  const xCross = x1 + (1.0 - y1) / slope;
+  if (xCross > 0) return xCross;
+  return 0.0;
+}
+
+function renderShielding(radius, height, scene) {
+  // add 8 ft. concrete shielding on all sides
+
+  if (radialShield) {
+    scene.remove(radialShield);
+    radialShield.geometry.dispose();
+    scene.remove(topShield);
+    topShield.geometry.dispose();
+    scene.remove(bottomShield);
+    bottomShield.geometry.dispose();
+  }
+
+  const outerRadius = radius + shieldThickness;
+  const axialShieldHeight = shieldThickness;
+  radialShieldGeometry = new THREE.CylinderGeometry(
+    outerRadius,
+    outerRadius,
+    height,
+    32,
+  );
+  topShieldGeometry = new THREE.CylinderGeometry(
+    outerRadius,
+    outerRadius,
+    axialShieldHeight,
+    32,
+  );
+  bottomShieldGeometry = topShieldGeometry.clone();
+
+  radialShield = new THREE.Mesh(radialShieldGeometry, shieldMaterial);
+  scene.add(radialShield);
+  topShield = new THREE.Mesh(topShieldGeometry, shieldMaterial);
+  topShield.position.y = height / 2.0 + axialShieldHeight / 2.0;
+  scene.add(topShield);
+  bottomShield = new THREE.Mesh(bottomShieldGeometry, shieldMaterial);
+  bottomShield.position.y = -height / 2.0 - axialShieldHeight / 2.0;
+  scene.add(bottomShield);
+}
+
+// Event listeners
+
 // Slider event listeners
 heightSlider.addEventListener("input", () => {
   height = parseFloat(heightSlider.value);
@@ -281,8 +398,8 @@ heightSlider.addEventListener("input", () => {
     height = 50;
     heightSlider.value = height;
   }
-  updateWarningLabel(height, 50);
   updateCylinderAndPlot();
+  updateWarningLabel();
 });
 
 radiusSlider.addEventListener("input", () => {
@@ -292,28 +409,41 @@ radiusSlider.addEventListener("input", () => {
     radius = 25;
     radiusSlider.value = radius;
   }
-  updateWarningLabel(radius, 25);
   updateCylinderAndPlot();
+  updateWarningLabel();
 });
 
 enrichSlider.addEventListener("input", () => {
   enrich = parseFloat(enrichSlider.value);
-  if (enrich<0.711) {
+  if (enrich < 0.711) {
     // hard limit at natural u
     enrich = 0.711;
     //enrichSlider.value=enrich;
   }
   updateCylinderAndPlot();
+  updateWarningLabel();
+});
+powerSlider.addEventListener("input", () => {
+  powerMult = parseFloat(powerSlider.value) / 100;
+  updateCylinderAndPlot();
 });
 
 export function updateWarningLabel() {
   const label = document.getElementById("warning-label");
-  let heightWarning = (height-50)/50;
-  let radiusWarning = (radius-25)/25;
+  let heightWarning = (height - 50) / 50;
+  let radiusWarning = (radius - 25) / 25;
   const redIntensity = 1 - Math.min(heightWarning, radiusWarning);
   // Compute RGB: red stays 255, green/blue decrease from 255 to 0
   const greenBlue = Math.round(255 * (1 - redIntensity));
   label.style.backgroundColor = `rgb(255, ${greenBlue}, ${greenBlue})`;
+
+  if (crossYear <= 0) {
+    warnSubcrit.classList.add("visible");
+    warnSubcrit.classList.remove("hidden");
+  } else {
+    warnSubcrit.classList.remove("visible");
+    warnSubcrit.classList.add("hidden");
+  }
 }
 
 // Initial plot
