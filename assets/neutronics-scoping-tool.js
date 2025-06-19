@@ -104,16 +104,22 @@ const outPower = document.getElementById("outPower");
 const outFuel = document.getElementById("outFuel");
 const outFissile = document.getElementById("outFissile");
 const outCost = document.getElementById("outCost");
+const outLCOE = document.getElementById("outLCOE");
 const outTime = document.getElementById("outTime");
 const outBu = document.getElementById("outBu");
 const outShield = document.getElementById("outShield");
+const outSwing = document.getElementById("outSwing");
 const warnSubcrit = document.getElementById("warning-subcrit");
-
 let p_non_leakage;
 let p_leakage;
-let power;
+let powerMWt;
 let volume;
 let crossYear;
+let thermalEfficiency = 0.33;
+let capacityFactor = 0.92;
+const hoursPerYear = 365.25 * 24;
+let keffs = [];
+
 
 // Initial scatter plot
 export function updatePlot(radius, height, enrich) {
@@ -131,7 +137,7 @@ export function updatePlot(radius, height, enrich) {
   p_non_leakage = 1 / (1 + bucklingGeometric * migrationArea);
   p_leakage = 1 - p_non_leakage;
   let timeYr = physics[reactorType]["years"].map((v) => v / powerMult);
-  let keffs = interpData["kinfs"].map((v) => v * p_non_leakage);
+  keffs = interpData["kinfs"].map((v) => v * p_non_leakage);
   crossYear = findCriticalCrossoverTime(timeYr, keffs);
   if (crossYear && crossYear > timeYr[timeYr.length - 1]) {
     timeYr.push(crossYear);
@@ -216,13 +222,14 @@ function updateCylinderAndPlot() {
   // update output values
   let leakage = 100 * p_leakage;
   let migrationLength = Math.sqrt(migrationArea);
-  let powerMWt = ((volume * physics[reactorType]["pdens"]) / 1e6) * powerMult;
+  powerMWt = ((volume * physics[reactorType]["pdens"]) / 1e6) * powerMult;
   let fuelMT = (volume * physics[reactorType]["hmDensity"]) / 1e6;
   let fissileMT = (fuelMT * enrich) / 100.0;
   let shieldVolume =
     Math.PI * ((radius + shieldThickness) ** 2 - radius ** 2) * height +
     2 * Math.PI * (radius + shieldThickness) ** 2 * shieldThickness;
   let shieldMassMT = (shieldVolume * 4.0) / 1e6; // high density concrete @ 4 g/cc
+
 
   // convert to kg for economics calc
   let feed_factor = getFeedFactor(enrich, 0.25, 0.711);
@@ -233,6 +240,14 @@ function updateCylinderAndPlot() {
 
   updatePlot(radius, height, enrich);
 
+  // compute a lifetime that's a multiple of cycle length so you don't get noise
+  // from overbuying fuel that you don't completely use up
+  // Find the one that's just over 60 years.
+  let lifetimeInYears = Math.ceil(60 / crossYear) * crossYear;
+
+  let lcoe = computeFuelLCOE(costs["sum"], costs["sum"], crossYear, powerMWt * thermalEfficiency * capacityFactor * hoursPerYear, 0.08, lifetimeInYears);
+
+  let swing = (keffs[0] - keffs[keffs.length - 1]) / keffs[keffs.length - 1] * 100;
   let burnupAvg = (((crossYear * powerMWt) / fuelMT) * 365.25) / 1000;
   let burnupPeak = burnupAvg * peakingFactor;
 
@@ -244,8 +259,10 @@ function updateCylinderAndPlot() {
   outFuel.textContent = `${fuelMT.toFixed(2)} MTHM`;
   outFissile.textContent = `${fissileMT.toFixed(2)} MT`;
   outCost.textContent = `$${(costs["sum"] / 1e6).toFixed(2)} million`;
+  outLCOE.textContent = `${lcoe.toFixed(2)} $/MWh`;
   outTime.textContent = `${crossYear.toFixed(3)} years`;
   outBu.textContent = `${burnupAvg.toFixed(2)} (avg) / ${burnupPeak.toFixed(2)} (peak) MWd/kg`;
+  outSwing.textContent = `${swing.toFixed(2)} %dk/k`;
   outShield.textContent = `${shieldMassMT.toFixed(2)} MT (high density concrete)`;
 }
 

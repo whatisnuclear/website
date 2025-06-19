@@ -134,12 +134,20 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
             <td id="outCost"></td>   
           </tr>
           <tr>
+            <th scope="row">Fuel LCOE</th>
+            <td id="outLCOE"></td>   
+          </tr>
+          <tr>
             <th scope="row">Time critical</th>
             <td id="outTime"></td>
           </tr>
           <tr>
             <th scope="row">Discharge burnup</th>
             <td id="outBu"></td>
+          </tr>
+          <tr>
+            <th scope="row">Reactivity swing</th>
+            <td id="outSwing"></td>
           </tr>
           <tr>
             <th scope="row">Shielding Mass</th>

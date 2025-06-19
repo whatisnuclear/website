@@ -94,3 +94,22 @@ function getSwuFactor(enrich, tails_assay, feed_assay, feed_factor) {
   let vxt = vx(tails_assay);
   return vx(enrich) - vxt - feed_factor * (vx(feed_assay) - vxt);
 }
+
+function computeFuelLCOE(initialCost, reloadCost, cycleLengthYears, generationMWhPerYear, discountRate, lifetimeInYears) {
+  //const happensThisYear = (freq, yr) => Math.floor((yr + 1) / freq) <= Math.floor(yr / freq);
+  const numberCyclesThisYear = (cycleLength, yr) => {
+    // this is just the cycle number at any given year
+    if (yr == 0) {
+      // start with initial costs
+      return 0
+    }
+    return Math.floor(yr / cycleLength) - Math.floor((yr - 1) / cycleLength)
+  }
+  let years = Array.from({ length: lifetimeInYears + 1 }, (x, i) => i);
+  let npvFuel = years.reduce((sum, year) => {
+    let val = reloadCost / ((1 + discountRate) ** year)
+    return sum + val * numberCyclesThisYear(cycleLengthYears, year)
+  }, initialCost);
+  let npvGeneration = years.reduce((sum, year) => sum + generationMWhPerYear / ((1 + discountRate) ** year), 0.0);
+  return npvFuel / npvGeneration;
+}
