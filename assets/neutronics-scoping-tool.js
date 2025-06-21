@@ -242,8 +242,9 @@ function updateCylinderAndPlot() {
 
   // compute a lifetime that's a multiple of cycle length so you don't get noise
   // from overbuying fuel that you don't completely use up
-  // Find the one that's just over 60 years.
-  let lifetimeInYears = Math.ceil(60 / crossYear) * crossYear;
+  // Find the one that's over 60 years but cut it off at a year
+  // so we get a full year of generation)
+  let lifetimeInYears = Math.floor(Math.ceil(60 / crossYear) * crossYear);
 
   let lcoe = computeFuelLCOE(costs["sum"], costs["sum"], crossYear, powerMWt * thermalEfficiency * capacityFactor * hoursPerYear, 0.08, lifetimeInYears);
 

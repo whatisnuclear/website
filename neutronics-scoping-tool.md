@@ -118,7 +118,15 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
         </thead>
         <tbody>
           <tr>
-            <th scope="row">Power</th>
+            <th scope="row">Fuel LCOE</th>
+            <td id="outLCOE" class="text-primary"></td>   
+          </tr>
+          <tr>
+            <th scope="row">Fuel cost</th>
+            <td id="outCost"></td>   
+          </tr>
+          <tr>
+            <th scope="row">Thermal power</th>
             <td id="outPower"></td>   
           </tr>
           <tr>
@@ -130,15 +138,7 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
             <td id="outFissile"></td>   
           </tr>
           <tr>
-            <th scope="row">Fuel cost</th>
-            <td id="outCost"></td>   
-          </tr>
-          <tr>
-            <th scope="row">Fuel LCOE</th>
-            <td id="outLCOE"></td>   
-          </tr>
-          <tr>
-            <th scope="row">Time critical</th>
+            <th scope="row">Cycle length</th>
             <td id="outTime"></td>
           </tr>
           <tr>
