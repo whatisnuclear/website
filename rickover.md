@@ -106,6 +106,7 @@ H. G. Rickover<br>Captain, USN
 June 5, 1953
 
 <hr />
+
 ## Notes
 
 _\*This is a reproduction of Rickover's famous 'paper reactor' memo, published
@@ -117,6 +118,10 @@ testimony](https://babel.hathitrust.org/cgi/pt?id=uc1.a0014447122&view=1up&seq=7
 <p id="1">1 - Interestingly, in the decades after Rickover published this memo, we now
 have reactors that get beyond 60,000 mwd/ton burnup using low-enriched uranium in high
 temperature/high pressure water.</p>
+
+## See Also
+
+* [Rickover memo Dunning-Kruger curve]({% link _posts/2025-06-26-nuclear-dunning-kruger.md %})
 
 </div>
 </div>
