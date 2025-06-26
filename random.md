@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Your random reactor is
+title: The Random Reactor Generator
+heading: Your random reactor is
 description: A generator of innovative nuclear reactor ideas
 author: nick
 toc: true
@@ -29,7 +30,7 @@ Start Company
 
 <hr/>
 
-[Learn more]({% link random-info.md %}) about the acronyms and project.
+[Learn more]({% link random-info.md %}) about the acronyms and the random reactor generator.
 
 </div>
 </div>
