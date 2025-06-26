@@ -87,6 +87,13 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
   <div class="col-md-6">
     <canvas id="canvas"></canvas>
     <div class="slider-container">
+      <label for="reactorType">Reactor type: </label>
+      <select id="reactorType" name="reactor_type">
+        <option value="LWR">LWR</option>
+        <option value="HTGR">HTGR</option>
+    </select>
+    </div>
+    <div class="slider-container">
       <label for="heightSlider">Height (cm): </label>
       <input type="range" id="heightSlider" min="0" max="700" value="75">
     </div>
@@ -126,7 +133,7 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
             <td id="outCost"></td>   
           </tr>
           <tr>
-            <th scope="row">Thermal power</th>
+            <th scope="row">Power</th>
             <td id="outPower"></td>   
           </tr>
           <tr>
@@ -144,6 +151,10 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
           <tr>
             <th scope="row">Discharge burnup</th>
             <td id="outBu"></td>
+          </tr>
+          <tr>
+            <th scope="row">Mining intensity</th>
+            <td id="outMining"></td>
           </tr>
           <tr>
             <th scope="row">Reactivity swing</th>

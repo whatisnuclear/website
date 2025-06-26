@@ -3,7 +3,7 @@ import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 import physics from "/assets/reactor-physics.json" with { type: "json" };
 
 // hard-coded for now, with UO2 fab (maybe load onto physics json!)
-const unitCosts = {
+let unitCosts = {
   feed: 65.0,
   conv: 60.0,
   fab: 300.0,
@@ -93,6 +93,7 @@ let reactorType = "LWR";
 const average = (array) => array.reduce((a, b) => a + b) / array.length;
 
 // UI elements
+const reactorTypeInp = document.getElementById("reactorType");
 const heightSlider = document.getElementById("heightSlider");
 const radiusSlider = document.getElementById("radiusSlider");
 const enrichSlider = document.getElementById("enrichSlider");
@@ -107,6 +108,7 @@ const outCost = document.getElementById("outCost");
 const outLCOE = document.getElementById("outLCOE");
 const outTime = document.getElementById("outTime");
 const outBu = document.getElementById("outBu");
+const outMining = document.getElementById("outMining");
 const outShield = document.getElementById("outShield");
 const outSwing = document.getElementById("outSwing");
 const warnSubcrit = document.getElementById("warning-subcrit");
@@ -246,7 +248,9 @@ function updateCylinderAndPlot() {
   // so we get a full year of generation)
   let lifetimeInYears = Math.floor(Math.ceil(60 / crossYear) * crossYear);
 
-  let lcoe = computeFuelLCOE(costs["sum"], costs["sum"], crossYear, powerMWt * thermalEfficiency * capacityFactor * hoursPerYear, 0.08, lifetimeInYears);
+  let electricityMWhPerYear = powerMWt * thermalEfficiency * capacityFactor * hoursPerYear
+
+  let lcoe = computeFuelLCOE(costs["sum"], costs["sum"], crossYear, electricityMWhPerYear, 0.08, lifetimeInYears);
 
   let swing = (keffs[0] - keffs[keffs.length - 1]) / keffs[keffs.length - 1] * 100;
   let burnupAvg = (((crossYear * powerMWt) / fuelMT) * 365.25) / 1000;
@@ -256,13 +260,14 @@ function updateCylinderAndPlot() {
   dimensionsDiv.textContent = `Height: ${height} cm, Radius: ${radius} cm, Enrich: ${enrich}%, Rating: ${powerMult * 100}%`;
   outLeakage.textContent = `${leakage.toFixed(2)}%`;
   outMigration.textContent = `${migrationLength.toFixed(2)} cm`;
-  outPower.textContent = `${powerMWt.toFixed(2)} MWt`;
-  outFuel.textContent = `${fuelMT.toFixed(2)} MTHM`;
-  outFissile.textContent = `${fissileMT.toFixed(2)} MT`;
+  outPower.textContent = `${powerMWt.toFixed(2)} MWt | ${(powerMWt*thermalEfficiency).toFixed(2)} MWe`;
+  outFuel.textContent = `${fuelMT.toFixed(2)} MTHM | ${(1000*fuelMT/powerMWt/thermalEfficiency).toFixed(2)} kgHM/MWe`;
+  outFissile.textContent = `${fissileMT.toFixed(2)} MT | ${(1000*fissileMT/powerMWt/thermalEfficiency).toFixed(2)} kg/MWe`;
   outCost.textContent = `$${(costs["sum"] / 1e6).toFixed(2)} million`;
   outLCOE.textContent = `${lcoe.toFixed(2)} $/MWh`;
+  outMining.textContent = `${(feed*1000/(electricityMWhPerYear*crossYear)).toFixed(2)} gU/MWh`;
   outTime.textContent = `${crossYear.toFixed(3)} years`;
-  outBu.textContent = `${burnupAvg.toFixed(2)} (avg) / ${burnupPeak.toFixed(2)} (peak) MWd/kg`;
+  outBu.textContent = `${burnupAvg.toFixed(2)} (avg) | ${burnupPeak.toFixed(2)} (peak) MWd/kg`;
   outSwing.textContent = `${swing.toFixed(2)} %dk/k`;
   outShield.textContent = `${shieldMassMT.toFixed(2)} MT (high density concrete)`;
 }
@@ -407,6 +412,14 @@ function renderShielding(radius, height, scene) {
 }
 
 // Event listeners
+reactorTypeInp.addEventListener("change", () => {
+  reactorType = reactorTypeInp.value;
+  // update fab cost which is reactor specific
+  unitCosts["fab"] = physics[reactorType]["fabCost"];
+  thermalEfficiency = physics[reactorType]["thermalEfficiency"];
+  updateCylinderAndPlot();
+  updateWarningLabel();
+});
 
 // Slider event listeners
 heightSlider.addEventListener("input", () => {
