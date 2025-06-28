@@ -13,22 +13,26 @@ categories:
 
 <style>
   #plotly-container {
-    max-width: 400px;
+    width: 100%;
     max-height: 400px;
-    width: 100%
   }
   canvas {
     border: 1px solid black;
     width: 100%;
-    max-width: 400px;
     max-height: 400px;
-  }
-  .slider-container {
-    margin: 10px;
   }
   #dimensions {
     margin-top: 10px;
     font-size: 16px;
+  }
+    /* Ensure checkbox and label are on the same line */
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+  }
+  .slider-container input[type="range"] {
+    width: 100%;
+    box-sizing: border-box; /* Ensure padding/margins don't affect width */
   }
   #warning-label {
     background-color: white;
@@ -39,7 +43,7 @@ categories:
     transition: background-color 0.5s ease; /* Smooth color transition */
     max-width: 200px; 
   }
-  #warning-subcrit {
+  #warning-subcrit, #warning-high-bu, #warning-imp-bu {
     background-color: rgb(255, 0, 0);
     color: black; /* Text color for readability */
     font-weight: bold;
@@ -49,10 +53,10 @@ categories:
     transition: opacity 0.5s ease-in-out;
     opacity: 0;
   }
-  #warning-subcrit.visible {
+  #warning-subcrit.visible, #warning-high-bu.visible, #warning-imp-bu.visible{
     opacity: 1;
   }
-  #warning-subcrit.hidden {
+  #warning-subcrit.hidden, #warning-high-bu.hidden, #warning-imp-bu.hidden {
     display: block;
     opacity: 0;
   }
@@ -91,27 +95,61 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
       <select id="reactorType" name="reactor_type">
         <option value="LWR">LWR</option>
         <option value="HTGR">HTGR</option>
+        <option value="SFR">SFR</option>
     </select>
     </div>
-    <div class="slider-container">
-      <label for="heightSlider">Height (cm): </label>
-      <input type="range" id="heightSlider" min="0" max="700" value="75">
+    <div class="row">
+      <div class="col-4">
+        <label for="heightSlider">Height: </label>
+      </div>
+      <div class="col-6 slider-container">
+        <input type="range" id="heightSlider" min="0" max="700" value="75">
+      </div>
+      <div class="col" id="heightVal">75 cm</div>
     </div>
-    <div class="slider-container">
-      <label for="radiusSlider">Radius (cm): </label>
-      <input type="range" id="radiusSlider" min="0" max="500" value="100">
+    <div class="row">
+      <div class="col-4"> <label for="radiusSlider">Radius:</label> </div>
+      <div class="col-6 slider-container">
+        <input type="range" id="radiusSlider" min="0" max="500" value="100">
+      </div>
+      <div class="col" id="radiusVal">100 cm</div>
     </div>
-    <div class="slider-container">
-      <label for="enrichSlider">Enrichment (%): </label>
-      <input type="range" id="enrichSlider" min="0" max="20" step="0.5" value="3">
+    <div class="row">
+      <div class="col-4">
+        <label for="enrichSlider">Enrichment: </label>
+        </div>
+      <div class="col-6 slider-container">
+        <input type="range" id="enrichSlider" min="0" max="20" step="0.5" value="3">
+      </div>
+      <div class="col" id="enrichVal">3 %</div>
     </div>
-    <div class="slider-container">
-      <label for="powerSlider">Power rating (%): </label>
-      <input type="range" id="powerSlider" min="1" max="200" step="1" value="100">
+    <div class="row">
+      <div class="col-4"> <label for="powerSlider">Power rating: </label> </div>
+      <div class="col-6 slider-container">
+        <input type="range" id="powerSlider" min="1" max="200" step="1" value="100">
+      </div>
+      <div class="col" id="powerVal">100 %</div>
     </div>
-    <div id="dimensions">Height: 75 cm, Radius: 100 cm, Power: 100%</div>
+    <div class="row">
+      <div class="col-4 checkbox-container">
+        <label for="cycleSlider">Cycle Length: </label>
+        <div class="px-2">
+          <input type="checkbox" id="cycleAuto" value="1" checked>
+          <label for="cycleAuto">Auto</label>
+        </div>
+      </div>
+      <div class="col-6 slider-container">
+        <input type="range" id="cycleSlider" min="0" max="60" step="0.25" value="1.5" disabled>
+      </div>
+      <div class="col">
+        <span id=cycleVal>1.5 yr</span>
+      </div>
+    </div>
     <div id="warning-label" class="text-center p-0">K OVERESTIMATE</div>
     <div id="warning-subcrit" class="text-center p-0 hidden">SUBCRITICAL</div>
+    <div id="warning-high-bu" class="text-center p-0 hidden" >HIGH BURNUP</div>
+    <div id="warning-imp-bu" class="text-center p-0 hidden">IMPOSSIBLE BURNUP</div>
+
   </div>
   <div class="col-md-6">
     <div id="plotly-container"></div>

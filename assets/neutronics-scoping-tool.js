@@ -90,15 +90,25 @@ let time = [0, 1.5];
 let powerMult = 1.0; // adjust to downrate
 let reactorType = "LWR";
 
+let burnupAvg;
+let burnupPeak;
+let swing;
+
 const average = (array) => array.reduce((a, b) => a + b) / array.length;
 
 // UI elements
 const reactorTypeInp = document.getElementById("reactorType");
 const heightSlider = document.getElementById("heightSlider");
+const heightVal = document.getElementById("heightVal");
 const radiusSlider = document.getElementById("radiusSlider");
+const radiusVal = document.getElementById("radiusVal");
 const enrichSlider = document.getElementById("enrichSlider");
+const enrichVal = document.getElementById("enrichVal");
 const powerSlider = document.getElementById("powerSlider");
-const dimensionsDiv = document.getElementById("dimensions");
+const powerVal = document.getElementById("powerVal");
+const cycleSlider = document.getElementById("cycleSlider");
+const cycleVal = document.getElementById("cycleVal");
+const cycleAuto = document.getElementById("cycleAuto");
 const outLeakage = document.getElementById("outLeakage");
 const outMigration = document.getElementById("outMigration");
 const outPower = document.getElementById("outPower");
@@ -112,6 +122,9 @@ const outMining = document.getElementById("outMining");
 const outShield = document.getElementById("outShield");
 const outSwing = document.getElementById("outSwing");
 const warnSubcrit = document.getElementById("warning-subcrit");
+const label = document.getElementById("warning-label");
+const warnHighBu = document.getElementById("warning-high-bu");
+const warnImpBu = document.getElementById("warning-imp-bu");
 let p_non_leakage;
 let p_leakage;
 let powerMWt;
@@ -140,11 +153,18 @@ export function updatePlot(radius, height, enrich) {
   p_leakage = 1 - p_non_leakage;
   let timeYr = physics[reactorType]["years"].map((v) => v / powerMult);
   keffs = interpData["kinfs"].map((v) => v * p_non_leakage);
-  crossYear = findCriticalCrossoverTime(timeYr, keffs);
-  if (crossYear && crossYear > timeYr[timeYr.length - 1]) {
+  if (cycleSlider.disabled) {
+    crossYear = findCriticalCrossoverTime(timeYr, keffs);
+  } else {
+    // use user input for cycle length
+    crossYear = parseFloat(cycleSlider.value);
+  }
+  if ((crossYear && crossYear > timeYr[timeYr.length - 1]) || !cycleSlider.disabled) {
     timeYr.push(crossYear);
     keffs.push(1.0);
   }
+  cycleVal.textContent = `${crossYear.toFixed(2)} yr`
+  cycleSlider.value = crossYear;
   const trace = {
     x: timeYr,
     y: keffs,
@@ -217,7 +237,7 @@ function updateCylinderAndPlot() {
 
   if (resizeRendererToDisplaySize(renderer)) {
     const canvas = renderer.domElement;
-    camera.aspect = 1.0; //canvas.clientWidth / canvas.clientHeight;
+    camera.aspect = canvas.clientWidth / canvas.clientHeight;
     camera.updateProjectionMatrix();
   }
 
@@ -252,12 +272,11 @@ function updateCylinderAndPlot() {
 
   let lcoe = computeFuelLCOE(costs["sum"], costs["sum"], crossYear, electricityMWhPerYear, 0.08, lifetimeInYears);
 
-  let swing = (keffs[0] - keffs[keffs.length - 1]) / keffs[keffs.length - 1] * 100;
-  let burnupAvg = (((crossYear * powerMWt) / fuelMT) * 365.25) / 1000;
-  let burnupPeak = burnupAvg * peakingFactor;
+  swing = (keffs[0] - keffs[keffs.length - 1]) / keffs[keffs.length - 1] * 100;
+  burnupAvg = (((crossYear * powerMWt) / fuelMT) * 365.25) / 1000;
+  burnupPeak = burnupAvg * peakingFactor;
 
   // update output UI
-  dimensionsDiv.textContent = `Height: ${height} cm, Radius: ${radius} cm, Enrich: ${enrich}%, Rating: ${powerMult * 100}%`;
   outLeakage.textContent = `${leakage.toFixed(2)}%`;
   outMigration.textContent = `${migrationLength.toFixed(2)} cm`;
   outPower.textContent = `${powerMWt.toFixed(2)} MWt | ${(powerMWt*thermalEfficiency).toFixed(2)} MWe`;
@@ -370,7 +389,8 @@ function findCriticalCrossoverTime(times, keffs) {
   // Find x for y = 1.0
   const xCross = x1 + (1.0 - y1) / slope;
   if (xCross > 0) return xCross;
-  return 0.0;
+  // slope may be negative, e.g. breeding SFR. just cut off at default
+  return times[times.length-1];
 }
 
 function renderShielding(radius, height, scene) {
@@ -429,6 +449,7 @@ heightSlider.addEventListener("input", () => {
     height = 50;
     heightSlider.value = height;
   }
+  heightVal.textContent = `${height} cm`
   updateCylinderAndPlot();
   updateWarningLabel();
 });
@@ -440,6 +461,7 @@ radiusSlider.addEventListener("input", () => {
     radius = 25;
     radiusSlider.value = radius;
   }
+  radiusVal.textContent = `${radius} cm`
   updateCylinderAndPlot();
   updateWarningLabel();
 });
@@ -451,16 +473,35 @@ enrichSlider.addEventListener("input", () => {
     enrich = 0.711;
     //enrichSlider.value=enrich;
   }
+  enrichVal.textContent = `${enrich} %`
   updateCylinderAndPlot();
   updateWarningLabel();
 });
 powerSlider.addEventListener("input", () => {
   powerMult = parseFloat(powerSlider.value) / 100;
+  powerVal.textContent = `${powerSlider.value} %`
   updateCylinderAndPlot();
+  updateWarningLabel();
+});
+
+cycleSlider.addEventListener("input", () => {
+  crossYear = parseFloat(cycleSlider.value);
+  cycleVal.textContent = `${crossYear} yr`
+  updateCylinderAndPlot();
+  updateWarningLabel();
+});
+
+cycleAuto.addEventListener('change', (event) => {
+    if (event.target.checked) {
+        cycleSlider.disabled = true;
+    } else {
+        cycleSlider.disabled = false;
+    }
+    updateCylinderAndPlot();
+    updateWarningLabel();
 });
 
 export function updateWarningLabel() {
-  const label = document.getElementById("warning-label");
   let heightWarning = (height - 50) / 50;
   let radiusWarning = (radius - 25) / 25;
   const redIntensity = 1 - Math.min(heightWarning, radiusWarning);
@@ -468,13 +509,31 @@ export function updateWarningLabel() {
   const greenBlue = Math.round(255 * (1 - redIntensity));
   label.style.backgroundColor = `rgb(255, ${greenBlue}, ${greenBlue})`;
 
-  if (crossYear <= 0) {
+  if (keffs[0] < 1.0) {
     warnSubcrit.classList.add("visible");
     warnSubcrit.classList.remove("hidden");
   } else {
     warnSubcrit.classList.remove("visible");
     warnSubcrit.classList.add("hidden");
   }
+  if (burnupAvg >= 200 && burnupAvg<938) {
+    warnHighBu.classList.add("visible");
+    warnHighBu.classList.remove("hidden");
+  } else {
+    warnHighBu.classList.remove("visible");
+    warnHighBu.classList.add("hidden");
+  }
+
+  if (burnupAvg >= 938) {
+    warnImpBu.classList.add("visible");
+    warnImpBu.classList.remove("hidden");
+  } else {
+    warnImpBu.classList.remove("visible");
+    warnImpBu.classList.add("hidden");
+  }
+     
+
+
 }
 
 // Initial plot
