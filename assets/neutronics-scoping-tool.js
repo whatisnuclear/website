@@ -125,6 +125,8 @@ const warnSubcrit = document.getElementById("warning-subcrit");
 const label = document.getElementById("warning-label");
 const warnHighBu = document.getElementById("warning-high-bu");
 const warnImpBu = document.getElementById("warning-imp-bu");
+const save = document.getElementById('save');
+
 let p_non_leakage;
 let p_leakage;
 let powerMWt;
@@ -501,6 +503,10 @@ cycleAuto.addEventListener('change', (event) => {
     updateWarningLabel();
 });
 
+  save.addEventListener('click', (e) => {
+    copySettingsToClipboard();
+  });
+
 export function updateWarningLabel() {
   let heightWarning = (height - 50) / 50;
   let radiusWarning = (radius - 25) / 25;
@@ -531,11 +537,62 @@ export function updateWarningLabel() {
     warnImpBu.classList.remove("visible");
     warnImpBu.classList.add("hidden");
   }
-     
-
 
 }
 
+function copySettingsToClipboard() {
+    let params = new URLSearchParams([
+      ['height', height],
+      ['radius', radius],
+      ['enrich', enrich],
+      ['rating', powerMult],
+      ['reactor', reactorType],
+      ['cycleAuto', cycleAuto.checked],
+      ['cycle', crossYear],
+    ]);
+
+    let text = new URL(
+      `${location.protocol + '//' + location.host + location.pathname}?${params}`,
+    );
+    navigator.clipboard.writeText(text);
+        // Show the modal
+    const modal = new bootstrap.Modal(document.getElementById('copySuccessModal'), {
+        backdrop: false // Optional: removes backdrop for a cleaner look
+    });
+    modal.show();
+
+    // Auto-hide after 1.5 seconds
+    setTimeout(() => {
+        modal.hide();
+    }, 1500);
+  }
+
+  function setInputVals() {
+    // These can all be passed in as query params
+    const input = new URLSearchParams(window.location.search);
+    let hasVals = input.get("reactor") 
+    if (!hasVals) {
+      return
+    }
+    reactorTypeInp.value = hasVals;
+    reactorTypeInp.dispatchEvent(new Event('change'));
+    heightSlider.value = input.get('height');
+    heightSlider.dispatchEvent(new Event('input'));
+    radiusSlider.value = input.get('radius');
+    radiusSlider.dispatchEvent(new Event('input'));
+    enrichSlider.value = input.get('enrich');
+    enrichSlider.dispatchEvent(new Event('input'));
+    powerSlider.value = parseFloat(input.get('rating'))*100;
+    powerSlider.dispatchEvent(new Event('input'));
+    if (input.get('cycleAuto') == 'false') {
+      cycleAuto.checked = false;
+      cycleSlider.disabled = false;
+    }
+    cycleSlider.value = input.get('cycle');
+    cycleSlider.dispatchEvent(new Event('input'));
+  }
+
+  setInputVals();
 // Initial plot
 updatePlot(radius, height);
 

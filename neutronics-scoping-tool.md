@@ -75,15 +75,15 @@ categories:
 
 <div class="row" markdown="1">
 
-This is a beta version of the What is Nuclear Neutronics Scoping Tool. Dial in
-your core dimensions and enrichment and see how critical it is and how much the
-fuel costs and what the normal power would be at that volume (assuming typical
-power density). It is currently hard-coded to a LWR-like core but we'll add
-TRISO and SFR cases in soon. The translucent outer area represents typical
-shielding required. This uses pre-calculated unit-cell calculations under the
-hood with actual transport and depletion. Still, this is very approximate
-and especially **overestimates reactivity for small cores**. It can give you
-an idea within like 1-4% dk/k. Please confirm with real calculations.
+This is a **beta version** of our new Neutronics Scoping Tool. Dial in your core
+dimensions and enrichment and see how critical it is and how much the fuel costs
+and what the normal power would be at that volume (assuming typical power
+density). The translucent outer area represents typical shielding required. Read
+[more information about the tool here]({% link
+_posts/2025-06-28-about-the-neutronics-scoping-tool.md %}). Still, this is very
+approximate and especially **overestimates reactivity for small cores**. It can
+give you an idea within like 1-4% dk/k. **Please confirm with real
+calculations.**
 
 </div>
 
@@ -99,7 +99,7 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
     </select>
     </div>
     <div class="row">
-      <div class="col-4">
+      <div class="col-sm-2 col-md-4">
         <label for="heightSlider">Height: </label>
       </div>
       <div class="col-6 slider-container">
@@ -108,14 +108,14 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
       <div class="col" id="heightVal">75 cm</div>
     </div>
     <div class="row">
-      <div class="col-4"> <label for="radiusSlider">Radius:</label> </div>
+      <div class="col-sm-2 col-md-4"> <label for="radiusSlider">Radius:</label> </div>
       <div class="col-6 slider-container">
         <input type="range" id="radiusSlider" min="0" max="500" value="100">
       </div>
       <div class="col" id="radiusVal">100 cm</div>
     </div>
     <div class="row">
-      <div class="col-4">
+      <div class="col-sm-2 col-md-4">
         <label for="enrichSlider">Enrichment: </label>
         </div>
       <div class="col-6 slider-container">
@@ -124,7 +124,7 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
       <div class="col" id="enrichVal">3 %</div>
     </div>
     <div class="row">
-      <div class="col-4"> <label for="powerSlider">Power rating: </label> </div>
+      <div class="col-sm-2 col-md-4"> <label for="powerSlider">Power rating: </label> </div>
       <div class="col-6 slider-container">
         <input type="range" id="powerSlider" min="1" max="200" step="1" value="100">
       </div>
@@ -149,6 +149,12 @@ an idea within like 1-4% dk/k. Please confirm with real calculations.
     <div id="warning-subcrit" class="text-center p-0 hidden">SUBCRITICAL</div>
     <div id="warning-high-bu" class="text-center p-0 hidden" >HIGH BURNUP</div>
     <div id="warning-imp-bu" class="text-center p-0 hidden">IMPOSSIBLE BURNUP</div>
+    <p class="text-center">
+      <button id="save" class="btn btn-primary">
+        <i class="fa fa-clipboard fa-lg"></i> Copy current settings to
+        clipboard
+      </button>
+    </p>
 
   </div>
   <div class="col-md-6">
@@ -224,5 +230,22 @@ Assumptions and simplifications in place:
 - No control rods or burnable poison (somewhat counteracts the former)
 - Vacuum boundary conditions
 - No fuel shuffling (single cycle)
+
+## See Also
+
+- [About the Neutronics Scoping Tool]({% link _posts/2025-06-28-about-the-neutronics-scoping-tool.md %})
+- Our [Fuel Cost/SWU Calculator]({% link enrichment.html %})
+
+<!-- Modal -->
+<div class="modal fade" id="copySuccessModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-sm modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body text-center">
+        <i class="bi bi-check-circle-fill text-success me-2"></i>
+        Settings copied to clipboard!
+      </div>
+    </div>
+  </div>
+</div>
 
 </div>
