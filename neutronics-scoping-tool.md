@@ -7,6 +7,7 @@ description: >
 author: nick
 layout: default
 date: 2025-06-06
+image: /img/scoping-tool-cover.png
 categories:
   - reference
 ---
