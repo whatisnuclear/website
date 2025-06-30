@@ -235,6 +235,7 @@ Assumptions and simplifications in place:
 ## See Also
 
 - [About the Neutronics Scoping Tool]({% link _posts/2025-06-28-about-the-neutronics-scoping-tool.md %})
+- [Screenshare demo of the scoping tool](https://www.youtube.com/watch?v=GQzDfrdf71Y)
 - Our [Fuel Cost/SWU Calculator]({% link enrichment.html %})
 
 <!-- Modal -->

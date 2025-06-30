@@ -21,7 +21,8 @@ Much can be known about a nuclear reactor from relatively simple analysis
 tools. We made the [Neutronics Scoping Tool]({% link neutronics-scoping-tool.md
 %}) to help build an intuition for the core performance of different reactor
 types, fuels, and enrichments. If you haven't tried it out yet, click that link,
-play around with it, and then come back for more info.
+play around with it, and then come back for more info. You can also watch me
+play with it in [this screenshare](https://www.youtube.com/watch?v=GQzDfrdf71Y).
 
 Using it, you can quickly:
 
@@ -273,6 +274,7 @@ If you have ideas or bug reports on how to improve the scoping tool,
 ## See Also
 
 - [Neutronics Scoping Tool]({% link neutronics-scoping-tool.md %})
+- [Screenshare demo of the scoping tool](https://www.youtube.com/watch?v=GQzDfrdf71Y)
 - Our [Fuel Cost/SWU Calculator]({% link enrichment.html %})
 
 </div>
