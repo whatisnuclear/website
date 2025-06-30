@@ -84,7 +84,7 @@ let topShield = null;
 let bottomShield = null;
 
 let bucklingGeometric = (2.405 / radius) ** 2 + (3.14159 / height) ** 2;
-let migrationArea = 20.0; // update!
+let migrationArea; // update!
 let peakingFactor = 1.57 * 1.55; // cosine * bessel
 let time = [0, 1.5];
 let powerMult = 1.0; // adjust to downrate
@@ -148,7 +148,6 @@ export function updatePlot(radius, height, enrich) {
   migrationArea = average(interpData["migration_areas"]);
   let extrap = 2.3; // extrapolation distance.
   extrap = 0; // zero for small cores where most leakage is fast
-  //migrationArea = 85;
   bucklingGeometric =
     (2.405 / (radius + extrap)) ** 2 + (3.14159 / (height + 2 * extrap)) ** 2;
   p_non_leakage = 1 / (1 + bucklingGeometric * migrationArea);
@@ -245,7 +244,6 @@ function updateCylinderAndPlot() {
 
   // update output values
   let leakage = 100 * p_leakage;
-  let migrationLength = Math.sqrt(migrationArea);
   powerMWt = ((volume * physics[reactorType]["pdens"]) / 1e6) * powerMult;
   let fuelMT = (volume * physics[reactorType]["hmDensity"]) / 1e6;
   let fissileMT = (fuelMT * enrich) / 100.0;
@@ -263,6 +261,9 @@ function updateCylinderAndPlot() {
   let costs = computeFuelCost(unitCosts, swu, feed, uf6, fuelMT * 1000);
 
   updatePlot(radius, height, enrich);
+
+  // update this after the plot b/c it's from interpolated data
+  let migrationLength = Math.sqrt(migrationArea);
 
   // compute a lifetime that's a multiple of cycle length so you don't get noise
   // from overbuying fuel that you don't completely use up
