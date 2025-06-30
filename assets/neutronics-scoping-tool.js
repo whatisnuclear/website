@@ -243,7 +243,6 @@ function updateCylinderAndPlot() {
   }
 
   // update output values
-  let leakage = 100 * p_leakage;
   powerMWt = ((volume * physics[reactorType]["pdens"]) / 1e6) * powerMult;
   let fuelMT = (volume * physics[reactorType]["hmDensity"]) / 1e6;
   let fissileMT = (fuelMT * enrich) / 100.0;
@@ -262,8 +261,9 @@ function updateCylinderAndPlot() {
 
   updatePlot(radius, height, enrich);
 
-  // update this after the plot b/c it's from interpolated data
+  // update these after the plot b/c it's from interpolated data
   let migrationLength = Math.sqrt(migrationArea);
+  let leakage = 100 * p_leakage;
 
   // compute a lifetime that's a multiple of cycle length so you don't get noise
   // from overbuying fuel that you don't completely use up
