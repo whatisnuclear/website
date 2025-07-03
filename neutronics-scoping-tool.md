@@ -10,58 +10,10 @@ date: 2025-06-06
 image: /img/scoping-tool-cover.png
 categories:
   - reference
+css:
+  - scoping-tool.css
 ---
 
-<style>
-  #plotly-container {
-    width: 100%;
-    max-height: 400px;
-  }
-  canvas {
-    border: 1px solid black;
-    width: 100%;
-    max-height: 400px;
-  }
-  #dimensions {
-    margin-top: 10px;
-    font-size: 16px;
-  }
-    /* Ensure checkbox and label are on the same line */
-  .checkbox-container {
-    display: flex;
-    align-items: center;
-  }
-  .slider-container input[type="range"] {
-    width: 100%;
-    box-sizing: border-box; /* Ensure padding/margins don't affect width */
-  }
-  #warning-label {
-    background-color: white;
-    color: black; /* Text color for readability */
-    font-weight: bold;
-    font-size: 1.0rem;
-    border: 1px solid #ccc; /* Optional: subtle border */
-    transition: background-color 0.5s ease; /* Smooth color transition */
-    max-width: 200px; 
-  }
-  #warning-subcrit, #warning-high-bu, #warning-imp-bu {
-    background-color: rgb(255, 0, 0);
-    color: black; /* Text color for readability */
-    font-weight: bold;
-    font-size: 1.0rem;
-    border: 1px solid #ccc; /* Optional: subtle border */
-    max-width: 200px; 
-    transition: opacity 0.5s ease-in-out;
-    opacity: 0;
-  }
-  #warning-subcrit.visible, #warning-high-bu.visible, #warning-imp-bu.visible{
-    opacity: 1;
-  }
-  #warning-subcrit.hidden, #warning-high-bu.hidden, #warning-imp-bu.hidden {
-    display: block;
-    opacity: 0;
-  }
-</style>
 <script type="importmap">
   {
     "imports": {
@@ -72,7 +24,7 @@ categories:
 </script>
 <script src="/assets/fuel-cycle-cost.js?{{ site.time | date: '%s' }}"></script>
 <script type="module" src="{{ '/assets/neutronics-scoping-tool.js' | relative_url }}?{{ site.time | date: '%s' }}"></script>
-<script src="https://cdn.plot.ly/plotly-3.0.1.min.js" charset="utf-8"></script>
+<script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
 
 <div class="row" markdown="1">
 

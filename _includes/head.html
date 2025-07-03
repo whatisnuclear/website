@@ -113,6 +113,10 @@
     crossorigin="anonymous"
   >
   <link href="{{ '/dist/whatisnuclear.css' | relative_url }}" rel="stylesheet">
+  {% for cssf in page.css -%}
+    <link href="{{ '/dist/' }}{{ cssf }}" rel="stylesheet">
+  {% endfor %}
+
 {%- endunless -%}
 {% if page.mathjax %}
   <script
