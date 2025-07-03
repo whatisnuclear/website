@@ -122,10 +122,10 @@ on the moon), so that&rsquo;s something to keep in mind.
 <ol>
     <li>UNSCEAR 2000 REPORT Vol. I, SOURCES AND EFFECTS OF IONIZING RADIATION,
         &quot;Exposures from natural radiation sources,&quot; <a
-            href="http://www.unscear.org/docs/reports/annexb.pdf">Annex B</a>
+            href="https://www.unscear.org/unscear/uploads/documents/publications/UNSCEAR_2000_Annex-B.pdf">Annex B</a>
         (2000).</li> <li>UNSCEAR 2000 REPORT Vol. I, SOURCES AND EFFECTS OF IONIZING
         RADIATION, &quot;Occupational radiation exposures,&quot; <a
-    href="http://www.unscear.org/docs/reports/annexe.pdf">Annex E</a> (2000).</li>
+    href="https://www.unscear.org/unscear/uploads/documents/publications/UNSCEAR_2000_Annex-E-CORR.pdf">Annex E</a> (2000).</li>
    <li>DA Schauer, <a href="https://doi.org/10.1097/01.hp.0000356672.44380.b7">Ionizing
            Radiation Exposure of the Population of the United States (2009).</a></li>
    <li>E. Pukkala, et. al., <a
