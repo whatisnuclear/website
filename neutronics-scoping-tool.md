@@ -97,6 +97,7 @@ calculations.**
         <option value="LWR">LWR</option>
         <option value="HTGR">HTGR</option>
         <option value="SFR">SFR</option>
+        <option value="CANDU">CANDU</option>
     </select>
     </div>
     <div class="row">
