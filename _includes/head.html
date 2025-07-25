@@ -39,7 +39,8 @@
   property="og:url"
 >
 <meta content="What is nuclear?" property="og:site_name">
-{% if page.date %}<meta name="date" content="{{ page.date  | date: '%Y-%m-%d'}}"> {% endif %}
+{% if page.date %}<meta name="date" content="{{ page.date  | date: '%Y-%m-%d'}}"> 
+<meta name="citation_date" content="{{ page.date  | date: '%Y-%m-%d'}}">{% endif %}
 {% if page.last_modified_at %}<meta name="last-modified" content="{{ page.last_modified_at | date: '%Y-%m-%d'}}"> {% endif %}
 <meta
   content="{{ fulltitle }}"
