@@ -80,7 +80,7 @@ signal to noise high).
 
 ## Related collections
 
-- [Who gets it?](https://decarbonisesa.com/about-2/who-gets-it/) by Ben Heard
+- [Who gets it?](https://web.archive.org/web/20200821203338/https://decarbonisesa.com/about-2/who-gets-it/) by Ben Heard
 
 </div>
 </div>

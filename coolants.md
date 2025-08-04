@@ -79,7 +79,7 @@ independent trains of coolant loops between the core and turbine. A
 
 </div>
 
-<div class="col-md-4 order-first order-lg-2" markdown="1">
+<div class="col-md-4 order-first order-lg-2 order-md-2" markdown="1">
 On this page: 
 <!-- prettier-ignore -->
 - Dummy list
