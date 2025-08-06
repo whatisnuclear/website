@@ -4,4 +4,4 @@
 | Coal | 30 | 1.3 tons | 22 tons |
 | Oil | 42 | 250 gallons | 4350 gallons |
 | Natural Gas | 53.5 | 34,000 cubic ft | 590,000 cubic ft
-| Lithium | 43 | 0.9 tons | 16 tons |
+| Lithium-ion batteries (1 charge)| 0.75 | 16 tons | 900 tons |

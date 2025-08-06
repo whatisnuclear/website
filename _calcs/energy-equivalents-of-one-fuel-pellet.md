@@ -39,7 +39,7 @@ Data supporting this include:
 
 - crude oil volumetric energy density 37 MJ/L
 - natural gas density at STP is 0.0364 MJ/L
-- lithium energy density is 43 MJ/kg
+- lithium-ion battery energy density is 0.75 MJ/kg
 - coal energy density is 30 MJ/kg
 
 GNU units commands:
@@ -50,8 +50,8 @@ GNU units commands:
     units -1 --digits 2 "46 MW*d/kg * 10 grams * 238/(238+32)/(30 MJ/kg)" "ton"
     1.3
 
-    units -1 --digits 2 "46 MW*d/kg * 10 grams * 238/(238+32)/(43 MJ/kg)" "ton"
-    0.9
+    units -1 --digits 2 "46 MW*d/kg * 10 grams * 238/(238+32)/(0.75 MJ/kg)" "ton"
+    51
 
     units -1 --digits 2 "46 MW*d/kg * 10 grams * 238/(238+32)/(37 MJ/L)" "gallon"
     2.5e2
