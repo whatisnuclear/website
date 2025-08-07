@@ -33,6 +33,7 @@
       why: To know how much of the total power is being actually used rather than wasted to ambient
     - name: Technology Readiness Level
       units:
+      examples: 1-9
       description: How mature the reactor product is.
       why: To differentiate between basic reactor concepts, partially-developed reactor products, and fully mature fleet products
 

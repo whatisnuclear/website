@@ -13,7 +13,7 @@
         - name: Moderator
           val: Water
         - name: TRL
-          val: 10
+          val: 9
     - title: Core
       facts:
         - name: Structure
