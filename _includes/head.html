@@ -115,9 +115,9 @@
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
     crossorigin="anonymous"
   >
-  <link href="{{ '/dist/whatisnuclear.css' | relative_url }}" rel="stylesheet">
+  <link href="{{ '/dist/whatisnuclear.css' | relative_url }}?{{ site.time | date: '%s' }}" rel="stylesheet">
   {% for cssf in page.css -%}
-    <link href="{{ '/dist/' }}{{ cssf }}" rel="stylesheet">
+    <link href="{{ '/dist/' }}{{ cssf }}?{{ site.time | date: '%s' }}" rel="stylesheet">
   {% endfor %}
 
 {%- endunless -%}
