@@ -2,20 +2,23 @@
 # derive/compute many more interesting metrics for comparison, such as
 # specific power density, natural U required per kWh,
 # SWUs/yr/kWh, and all sorts of good stuff.
-- name: Basics
+- name: General
   vals:
-    - name: Make
-      description: Organization that designed the plant
-      examples: KEPCO, EDF, Westinghouse, GEH
     - name: Model
       description: Trade name of the reactor type
       examples: APR-1400, AP1000, ABWR, BWR-4
-    - name: Plant
-      description: Individual plant name (if applicable), N/A if just talking about a design
-      examples: Diablo Canyon
-    - name: Unit
-      description: Individual unit name in a given plant (if applicable), N/A if just talking about a design
-      examples: Unit 2
+    - name: Fuel form
+      description: What the fuel is made of
+      examples: UO2, carbide, molten salt, metal
+      why: To know details of fuel fabrication and supply chain, fabrication cost, capabilities
+    - name: Primary coolant
+      description: What material transfers heat between the splitting atoms and the first heat exchanger/steam generator?
+      why: Basic
+      examples: Water (PWR and BWR), sodium metal, helium, enriched chloride salt
+    - name: Moderator
+      description: What moderator (if any) is used in the core?
+      examples: Water, heavy water, graphite, beryllium, none
+      why: To know if it's a fast or thermal reactor, and what the basic power density will likely be based on migration length
     - name: Rated thermal power
       units: MW (thermal)
       description: Peak thermal power of the core
@@ -28,6 +31,177 @@
       units: BTU/hour (thermal)
       description: How much thermal power is utilized for a productive process (e.g. industrial heat, desalination, hydrogen)
       why: To know how much of the total power is being actually used rather than wasted to ambient
+    - name: Technology Readiness Level
+      units:
+      description: How mature the reactor product is.
+      why: To differentiate between basic reactor concepts, partially-developed reactor products, and fully mature fleet products
+
+- name: Core
+  vals:
+    - name: Structure
+      description: Material used for core structural members
+      examples: Zircaloy, SS316, Graphite
+      why: To understand the contents and capabilities of the core
+    - name: Control
+      description: Material(s) used for control
+      examples: B4C, Ag-In-Cd, soluble boron
+      why: To understand the control characteristics
+    - name: Average discharge burnup
+      description: Amount of thermal energy extracted from fuel
+      units: MWd/kg
+      examples: 7, 50, 200
+      why: Essential quantity that determines fuel cycle economics, high level waste generation, and sustainability
+    - name: Core power density
+      description: How much heat is generated in each unit of core volume
+      units: kW/l
+      examples: 104
+      why: Describes how much power can fit in a volume, determines core size and decay heat removal requirements
+    - name: Conversion ratio
+      description: Fraction of fissile material at end of cycle divided by initial
+      units: unitless
+      examples: 0.5, 1.2
+      why: Explains to what degree the core breeds or converts fissile material
+    - name: Initial heavy metal mass
+      description: Total heavy metal mass loaded into reactor at startup
+      units: metric tonnes of heavy metal (e.g. of uranium)
+      examples: 20 MT
+      why: Combined with fissile fraction, determines cost and resource needs of a new unit
+    - name: Average initial fissile fraction
+      description: Average fissile fraction of initial core (enrichment)
+      units: Mass percent
+      examples: 4.5%
+      why: Important factor in fuel cycle practicality, sustainability, and economics
+    - name: Average reload HM mass
+      description: Rate at which heavy metal mass is loaded into the core.
+      units: metric tonnes of heavy metal per full-power year
+      examples: 3 MT
+      why: Sustainability and economics assessments
+    - name: Average reload fissile fraction
+      description: Average fissile fraction of reload fuel in equilibrium (enrichment)
+      units: Mass percent
+      examples: 3.2%
+      why: Important factor in fuel cycle practicality, sustainability, and economics
+
+- name: Core data
+  vals:
+    - name: Average core height
+      description: Average height of the core
+      units: m
+      examples: 4.2 m
+      why: To know the size and power density
+    - name: Average core radius
+      description: Average radius of the core
+      units: m
+      examples: 4.2 m
+      why: To know the size
+    - name: Cycle length
+      description: Average time between startup and shutdown (e.g. for maintenance and/or refueling)
+      units: months
+      examples: 18 months
+      why: Needed for economics comparisons and operational assessments. Short cycle lengths are often associated with lower capacity factors
+    - name: Reflector material
+      why: >
+        To know full neutronic capability, replacement rate, cost, shielding, and reflector heat removal needs
+      examples: Water, MgO, Beryllium
+    - name: Reflector dimensions
+      why: (Same as above)
+      examples: 20 cm average thickness
+
+- name: Fuel cycle
+  vals:
+    - name: Initial fuel source
+      description: Where the initial fuel is coming from in the fuel cycle
+      examples: Mined, recycled, downblended
+      why: To understand the fuel cycle
+    - name: Reload fuel source
+      description: Where the reload fuel is coming from in the fuel cycle
+      examples: Mined, recycled, downblended
+      why: To understand the fuel cycle
+
+- name: Thermal data
+  vals:
+    - name: Flow rate
+      description: Primary coolant flow rate
+      units: kg/s
+      examples: 17000
+      why: To understand the energy balance and pumping requirements
+    - name: Primary coolant pressure
+      description: The average pressure of the primary coolant.
+      units: kPa
+      examples: 16000 kPa
+      why: To understand the containment/cooling needs after depressurization
+    - name: Average coolant outlet temperature
+      description: Average coolant temperature at outlet of core
+      examples: 500 °C
+      units: °C
+      why: To know which end uses of the heat are available, and to know material choices
+    - name: Core delta-T
+      description: Change of temperature across the core
+      examples: 32 °C
+      units: °C
+      why: To understand the heat balance, and thermal strains
+
+- name: Shielding
+  vals:
+    - name: Shield material(s)
+      why: >
+        To know dose rates outside core, to compute activation of ex-core materials, cost, shielding cooling needs, gas generation, etc.
+      examples: Lead, borated water, B4C, LiH, tungsten, U-238, sand
+    - name: Shield dimensions
+      why: (Same as above)
+      examples: >
+        Multiple layers consisting of 2" of lead, 2 feet of 2% borated water, 2" of tungsten, 5 feet of concrete
+    - name: Shield mass
+      why: (Same as above)
+    - name: Heat deposition rate in shield
+      why: To determine whether or not you need to include shielding coolant lines
+      examples: 1 MWt
+    - name: Dose rate outside shield
+      why: To know how effective the shield is and how close people can be
+      units: mSv/hr
+      examples: 6 mSv/hr
+
+- name: Plant data
+  vals:
+    - name: Secondary coolant
+      description: What material transfers heat between the first heat exchanger and the second heat exchanger/steam generator (if applicable)?
+      why: Basic
+      examples: Water (PWR), sodium metal, fluoride salt
+    - name: Tertiary coolant
+      description: What material transfers heat between the second and third heat exchanger/steam generator (if applicable)?
+      why: Basic
+      examples: Water, nitrate salt
+    - name: Quaternary coolant
+      description: What material transfers heat between the third and fourth heat exchanger/steam generator (if applicable)?
+      why: Basic
+      examples: Water
+    - name: Power cycle
+      description: What kind of power conversion system is in place?
+      examples: Steam Rankine, Gas Brayton, Stirling, thermoelectric, endothermic chemical reaction
+      why: To know overall capabilities
+
+- name: Safety data
+  vals:
+    - name: Safety related generators?
+      description: Whether or not the diesel generators are safety-related
+      why: Determines level of passive safety
+      examples: Yes, No
+    - name: SBO survival time
+      description: How long the plant can cool itself in a station blackout without operator intervention
+      why: Determines level of passive safety
+      examples: 2 hours, 72 hours, indefinitely
+
+- name: Administrative
+  vals:
+    - name: Make
+      description: Organization that designed the plant
+      examples: KEPCO, EDF, Westinghouse, GEH
+    - name: Plant
+      description: Individual plant name (if applicable), N/A if just talking about a design
+      examples: Diablo Canyon
+    - name: Unit
+      description: Individual unit name in a given plant (if applicable), N/A if just talking about a design
+      examples: Unit 2
     - name: Date announced
       examples: "1962-05-12"
       description: When the design/reactor was first announced
@@ -50,110 +224,3 @@
       units: percent
       examples: 96%
       why: To know how much load following is occurring, and to compute total capacity factor
-
-- name: Core
-  vals:
-    - name: Fuel form
-      description: What the fuel is made of
-      examples: UO2, carbide, molten salt, metal
-      why: Basic
-    - name: Moderator
-      description: What moderator (if any) is used in the core?
-      examples: Water, heavy water, graphite, beryllium
-      why: Basic
-    - name: Average reload fissile fraction
-      description: Average fissile fraction of reload fuel in equilibrium (enrichment)
-      units: Mass percent
-      examples: 3.2%
-      why: Important factor in fuel cycle practicality, sustainability, and economics
-    - name: Average initial fissile fraction
-      description: Average fissile fraction of initial core (enrichment)
-      units: Mass percent
-      examples: 4.5%
-      why: Important factor in fuel cycle practicality, sustainability, and economics
-    - name: Initial heavy metal mass
-      description: Total heavy metal mass loaded into reactor at startup
-      units: metric tonnes of heavy metal (e.g. of uranium)
-      examples: 20 MT
-      why: Combined with fissile fraction, determines cost and resource needs of a new unit
-    - name: Average reload HM mass
-      description: Rate at which heavy metal mass is loaded into the core.
-      units: metric tonnes of heavy metal per full-power year
-      examples: 3 MT
-      why: Sustainability and economics assessments
-    - name: Initial fuel source
-      description: Where the initial fuel is coming from in the fuel cycle
-      examples: Mined, recycled, downblended
-      why: To understand the fuel cycle
-    - name: Reload fuel source
-      description: Where the reload fuel is coming from in the fuel cycle
-      examples: Mined, recycled, downblended
-      why: To understand the fuel cycle
-    - name: Average core height
-      description: Average height of the core
-      units: m
-      examples: 4.2 m
-      why: To know the size
-    - name: Average core radius
-      description: Average radius of the core
-      units: m
-      examples: 4.2 m
-      why: To know the size
-    - name: Cycle length
-      description: Average time between startup and shutdown (e.g. for maintenance and/or refueling)
-      units: months
-      examples: 18 months
-      why: Needed for economics comparisons and operational assessments
-    - name: Reflector material
-      why: >
-        To know full neutronic capability, replacement rate, cost, shielding, and reflector heat removal needs
-      examples: Water, MgO, Beryllium
-    - name: Reflector dimensions
-      why: (Same as above)
-      examples: 20 cm average thickness
-    - name: Shield material(s)
-      why: >
-        To know dose rates outside core, to compute activation of ex-core materials, cost, shielding cooling needs, gas generation, etc.
-      examples: Leads, borated water, B4C, LiH, tungsten, U-238, sand
-    - name: Shield dimensions
-      why: (Same as above)
-      examples: >
-        Multiple layers consisting of 2" of lead, 2 feet of 2% borated water, 2" of tungsten, 5 feet of concrete
-    - name: Shield mass
-      why: (Same as above)
-    - name: Heat deposition rate in shield
-      why: To determine whether or not you need to include shielding coolant lines
-      examples: 1 MWt
-
-- name: Plant details
-  vals:
-    - name: Primary coolant
-      description: What material transfers heat between the splitting atoms and the first heat exchanger/steam generator?
-      why: Basic
-      examples: Water (PWR and BWR), sodium metal, helium, enriched chloride salt
-    - name: Secondary coolant
-      description: What material transfers heat between the first heat exchanger and the second heat exchanger/steam generator (if applicable)?
-      why: Basic
-      examples: Water (PWR), sodium metal, fluoride salt
-    - name: Tertiary coolant
-      description: What material transfers heat between the second and third heat exchanger/steam generator (if applicable)?
-      why: Basic
-      examples: Water, nitrate salt
-    - name: Quaternary coolant
-      description: What material transfers heat between the third and fourth heat exchanger/steam generator (if applicable)?
-      why: Basic
-      examples: Water
-    - name: Primary coolant pressure
-      description: The average pressure of the primary coolant.
-      units: kPa
-      examples: 16000 kPa
-      why: To understand the containment/cooling needs after depressurization
-    - name: Power cycle
-      description: What kind of power conversion system is in place?
-      examples: Steam Rankine, Gas Brayton, Stirling, thermoelectric, endothermic chemical reaction
-      why: To know overall capabilities
-    - name: Average coolant temperature at plant output
-      description: Average coolant temperature at inlet to turbine (or other process)
-      examples: 500 °C
-      units: °C
-      why: To know which end uses of the heat are available, and to know material choices

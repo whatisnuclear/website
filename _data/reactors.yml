@@ -1,0 +1,72 @@
+- name: AP1000
+  sections:
+    - title: General
+      facts:
+        - name: Type
+          val: PWR
+        - name: Fuel form
+          val: UO₂
+        - name: Fissile
+          val: 3-5% U-235
+        - name: Coolant
+          val: Water
+        - name: Moderator
+          val: Water
+        - name: TRL
+          val: 10
+    - title: Core
+      facts:
+        - name: Structure
+          val: Zircaloy
+        - name: Control
+          val: Ag-In-Cd rods + soluble boron
+        - name: Avg. discharge burnup (MWd/kg)
+          val: 50
+        - name: Core loading (tHM)
+          val: 85
+        - name: Fissile loading (tHM)
+          val: 3.8
+        - name: Power density (kW/l)
+          val: 104
+        - name: Conversion ratio
+          val: 0.5
+        - name: Cycle length (EFPD)
+          val: 492
+    - title: Thermal
+      facts:
+        - name: Flow rate (kg/s)
+          val: 17000
+        - name: Core ΔT (°C)
+          val: 32
+        - name: Outlet temperature (°C)
+          val: 332
+        - name: Thermal Power (MWt)
+          val: 3400
+        - name: Num. independent loops
+          val: 2
+        - name: Num. heat exchangers/loop
+          val: 1
+    - title: Shielding
+      facts:
+        - name: Shield materials
+          val: Water, concrete, steel
+        - name: Bio shield thickness (m)
+          val: "?"
+        - name: Bio shield mass (t)
+          val: "?"
+        - name: Dose rate outside shield (mSv/hr)
+          val: "?"
+    - title: Plant
+      facts:
+        - name: Power conversion
+          val: Steam Rankine
+        - name: Electric Power (MWe)
+          val: 1115
+        - name: Thermal efficiency
+          val: 33%
+    - title: Safety
+      facts:
+        - name: Safety-related generators?
+          val: "Yes"
+        - name: SBO survival time
+          val: 72 hours

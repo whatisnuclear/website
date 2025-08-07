@@ -147,3 +147,40 @@ figure {
   border: 1px solid #333; /* Subtle border to mimic hardware */
   color: #39ff14; /* Bright neon green */
 }
+
+/* For Reactor Nutrition Facts */
+.facts-box {
+  width: 300px;
+  border: 8px solid black;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  background: white;
+}
+
+.facts-title {
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: 4px solid black;
+  padding-bottom: 4px;
+  margin-bottom: 8px;
+}
+
+.section-title {
+  font-weight: bold;
+  font-size: 16px;
+  border-top: 1px solid black;
+  margin-top: 10px;
+  padding-top: 6px;
+}
+
+.fact-line {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px dotted #333;
+  padding: 4px 0;
+  font-size: 14px;
+}
+
+.fact-line:first-of-type {
+  border-top: none;
+}

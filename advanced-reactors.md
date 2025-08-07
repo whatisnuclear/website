@@ -148,10 +148,12 @@ types of reactors. Which ones are _advanced_ and which ones are not is pretty su
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-# Useful reactor metric inputs
+# Useful reactor data
 
 Given these, many useful quantities can be computed for comparison, such as
-mined uranium and SWUs needed per kWh.
+mined uranium and SWUs needed per kWh. It'd be nice if people got serious about
+putting these all on [Reactor Consumer Labels]({% link
+_posts/2025-08-07-reactor-consumer-labels.md %}).
 
 <table class="table table-striped">
 <tr>
