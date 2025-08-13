@@ -166,7 +166,7 @@ Moderator &#8594;
 <th scope="col">Heavy water</th>
 <th scope="col">Graphite</th>
 <th scope="col">Not moderated</th>
-<th scope="col">Beryllium</th>
+<th scope="col">Beryllium/BeO</th>
 <th scope="col">Organic</th>
 <th scope="col">Hydrogen / Hydride</th>
 </tr>
@@ -335,6 +335,7 @@ Heavy Water Gas Cooled Reactors (HWGCR)
   * [EL4](https://en.wikipedia.org/wiki/Brennilis_Nuclear_Power_Plant) in France
   * [Bohunice A1 KS-150](https://en.wikipedia.org/wiki/KS_150) in Slovakia
   * [Lucens](https://en.wikipedia.org/wiki/Lucens_reactor)
+  * [KKN](https://www.euronuclear.org/glossary/kkn/)
   * [ECNG-FWCNG](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095080597&seq=1&view=1up)<sup>1</sup>
 </td>
 <td markdown="1">
