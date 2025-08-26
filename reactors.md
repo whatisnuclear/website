@@ -426,7 +426,7 @@ Organic (e.g. terphenyl)
 <td markdown="1"> </td>
 <td markdown="1">
 * [Whiteshell Reactor 1 (WR-1) aka OCDRE](https://en.wikipedia.org/wiki/WR-1)
-* [HWOCR](https://doi.org/10.2172/4229023)
+* [HWOCR](https://www.osti.gov/biblio/4229023)
 </td>
 <td></td>
 <td></td>
