@@ -39,9 +39,16 @@
   property="og:url"
 >
 <meta content="What is nuclear?" property="og:site_name">
-{% if page.date %}<meta name="date" content="{{ page.date  | date: '%Y-%m-%d'}}"> 
-<meta name="citation_date" content="{{ page.date  | date: '%Y-%m-%d'}}">{% endif %}
-{% if page.last_modified_at %}<meta name="last-modified" content="{{ page.last_modified_at | date: '%Y-%m-%d'}}"> {% endif %}
+{% if page.date -%}
+  <meta name="date" content="{{ page.date  | date: '%Y-%m-%d'}}">
+  <meta name="citation_date" content="{{ page.date  | date: '%Y-%m-%d'}}">
+{%- endif %}
+{% if page.last_modified_at -%}
+  <meta
+    name="last-modified"
+    content="{{ page.last_modified_at | date: '%Y-%m-%d'}}"
+  >
+{% endif %}
 <meta
   content="{{ fulltitle }}"
   property="og:title"
@@ -115,11 +122,16 @@
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
     crossorigin="anonymous"
   >
-  <link href="{{ '/dist/whatisnuclear.css' | relative_url }}?{{ site.time | date: '%s' }}" rel="stylesheet">
+  <link
+    href="{{ '/dist/whatisnuclear.css' | relative_url }}?{{ site.time | date: '%s' }}"
+    rel="stylesheet"
+  >
   {% for cssf in page.css -%}
-    <link href="{{ '/dist/' }}{{ cssf }}?{{ site.time | date: '%s' }}" rel="stylesheet">
+    <link
+      href="{{ '/dist/' }}{{ cssf }}?{{ site.time | date: '%s' }}"
+      rel="stylesheet"
+    >
   {% endfor %}
-
 {%- endunless -%}
 {% if page.mathjax %}
   <script
@@ -128,26 +140,7 @@
   ></script>
 {%- endif -%}
 {% if page.comments %}
-  <script>
-    var remark_config = {
-      host: 'https://comments.whatisnuclear.com',
-      site_id: 'whatisnuclear',
-      no_footer: true,
-    };
-  </script>
-  <script>
-    !(function (e, n) {
-      for (var o = 0; o < e.length; o = o + 1) {
-        var r = n.createElement('script'),
-          c = '.js',
-          d = n.head || n.body;
-        'noModule' in r ? ((r.type = 'module'), (c = '.mjs')) : (r.async = !0),
-          (r.defer = !0),
-          (r.src = remark_config.host + '/web/' + e[o] + c),
-          d.appendChild(r);
-      }
-    })(remark_config.components || ['embed'], document);
-  </script>
+  {%- include discourse_comments.html -%}
 {% endif %}
 
 {%- include breadcrumbs.html -%}
