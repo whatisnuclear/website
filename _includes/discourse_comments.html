@@ -3,7 +3,8 @@
 <script type="text/javascript">
   DiscourseEmbed = {
     discourseUrl: 'https://forum.whatisnuclear.com/',
-    discourseEmbedUrl: '[EMBED_URL]({{ page.url }})',
+    discourseEmbedUrl:
+      '[EMBED_URL]({{ site.url }}{{ site.baseurl }}{{ page.url }})',
     // className: 'CLASS_NAME',
   };
 
