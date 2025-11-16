@@ -46,34 +46,3 @@ image: /img-slide/offshore-reactors-slide1.png
 {% include_relative _floating-npps.html %}
 {% include_relative _how-to-help.html %}
 {% include_relative _what-about-waste.html %}
-
-<script>
-  let now = new Date();
-  let event = document.getElementById('event');
-  let eventC = document.getElementById('event-c');
-  let presenter = document.getElementById('presenter');
-  let presenterC = document.getElementById('presenter-c');
-  let date = document.getElementById('date');
-  let title = document.getElementById('pres-title');
-
-  function setInputVals() {
-    // These can all be passed in as query params
-    const input = new URLSearchParams(window.location.search);
-    event.innerText = input.get('event') || 'Science on Tap';
-    presenter.innerText = input.get('presenter') || 'Nick Touran PhD, PE';
-    date.innerText = input.get('date') || now.toLocaleDateString();
-    let newtitle = input.get('title');
-    if (newtitle) {
-      title.innerText = input.get('title');
-    }
-
-    if (!presenter.innerText) {
-      presenterC.style.visibility = 'hidden';
-    }
-    if (!event.innerText) {
-      eventC.style.visibility = 'hidden';
-    }
-  }
-
-  setInputVals();
-</script>

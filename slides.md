@@ -60,6 +60,23 @@ areas on the front page. Please use responsibly.
 <input type="text" value="" placeholder="Date" class="form-control" id="date">
 </div>
 </div>
+<div class="row">
+  <div style="col">
+      <label for="theme-select" style="margin-right: 8px;">Theme:</label>
+      <select id="theme-select">
+        <option value="black">Black</option>
+        <option value="white">White</option>
+        <option value="league">League</option>
+        <option value="sky">Sky</option>
+        <option value="beige">Beige</option>
+        <option value="simple">Simple</option>
+        <option value="solarized">Solarized</option>
+        <option value="blood">Blood</option>
+        <option value="night">Night</option>
+        <option value="moon">Moon</option>
+      </select>
+  </div>
+</div>
 <button onclick="copySettingsToClipboard()">Generate your presentation!</button>
 
 <script>
@@ -68,6 +85,7 @@ let event=document.getElementById("event");
 let presenter=document.getElementById('presenter')
 let date=document.getElementById('date')
 let title=document.getElementById('ptitle')
+let theme=document.getElementById('theme-select')
 
 
 function setInputVals() {
@@ -77,6 +95,7 @@ function setInputVals() {
   presenter.value = input.get("presenter") || "";
   date.value = input.get("date") || "";
   title.value = input.get("title") || "";
+  theme.value = input.get("theme") || "";
 }
 
 function copySettingsToClipboard() {
@@ -85,6 +104,7 @@ function copySettingsToClipboard() {
     ["presenter", presenter.value],
     ["date", date.value],
     ["title", title.value],
+    ["theme", theme.value],
   ]);
 
   let text = new URL(`${location.protocol + '//' + location.host}` + '/slides/nuclear-overview.html' + `?${params}`);
