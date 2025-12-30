@@ -132,7 +132,7 @@ GEM
     time (0.4.1)
       date
     unicode-display_width (2.6.0)
-    uri (1.0.3)
+    uri (1.0.4)
     webrick (1.9.1)
 
 PLATFORMS
