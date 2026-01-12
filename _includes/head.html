@@ -131,9 +131,27 @@
   {% endfor %}
 {%- endunless -%}
 {% if page.mathjax %}
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [
+          ['$', '$'],
+          ['\\(', '\\)'],
+        ],
+        displayMath: [
+          ['$$', '$$'],
+          ['\\[', '\\]'],
+        ],
+        processEscapes: true,
+      },
+    };
+  </script>
   <script
+    src="https://cdn.jsdelivr.net/npm/mathjax@4.1.0/tex-mml-chtml.js"
     defer
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"
+    integrity="sha384-pTCnJ6SV7q3Uxsux1a1dYA7psHUmFQB178t6FtIE16r5QY5EibXwxLy9KRzBqM1w"
+    id="MathJax-script"
+    crossorigin="anonymous"
   ></script>
 {%- endif -%}
 {% if page.comments %}
