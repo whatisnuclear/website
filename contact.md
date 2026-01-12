@@ -64,8 +64,8 @@ You can also find us on social media.
 <li><a href="/feed.xml" title="Read our news"> <i class="fa fa-rss"></i> Subscribe to our RSS feed</a></li>
 <li><a href="https://bsky.app/profile/whatisnuclear.com" title="See us on BlueSky">Check us out on BlueSky</a></li>
 <li><a href="https://www.facebook.com/pages/Whatisnuclearcom/209141202434177" title = "Like us on Facebook" target="_blank"><img src="/img/FB-f-Logo__blue_50.png" alt="facebook" width="50"/> Like us on Facebook </a></li>
-<li><a href="http://x.com/whatisnuclear" title="Follow us on twitter"><img
-src="/img/twitter.png" width="50" alt="Twitter" /> Follow us on X</a>
+<li><a href="http://x.com/whatisnuclear" title="Follow us on X"><img
+src="/img/twitter.png" width="50" alt="X" /> Follow us on X</a>
 </li>
 <li> <a href="https://github.com/whatisnuclear" title = "Collaborate on GitHub"><img src="/img/GitHub-Mark-64px.png" alt="github" width="50"/> Collaborate on github</a> </li>
 </ul>
