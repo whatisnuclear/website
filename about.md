@@ -67,11 +67,13 @@ href="https://partofthething.com/nick-publickey.asc">public key</a>.
 <h4 class="media-heading">Nick Touran, Ph.D.</h4>
 <h5>Articles, editing, sysadmin</h5>
 
-I'm a reactor physicist working on the design of an advanced nuclear reactor for a nuclear
-innovation company, where I've been since 2009. I have a Ph.D. in nuclear engineering from the
-University of Michigan based on the multiobjective optimization of fast reactors using
-perturbation-based equilibrium cycle methods. <a href="https://partofthething.com">Visit my personal
-home page.</a>
+I'm a nuclear engineering professional. I worked as a reactor physicist on the
+design of advanced nuclear reactors for a nuclear innovation company from
+2009-2023. I have a Professional Engineering license in nuclear engineering and
+a Ph.D. in nuclear engineering from the University of Michigan based on the
+multiobjective optimization of fast reactors using perturbation-based
+equilibrium cycle methods. <a href="https://partofthething.com">Visit my
+personal home page.</a>
 
 </div>
 </div>
