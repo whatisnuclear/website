@@ -109,8 +109,8 @@
 {% unless page.nocss %}
   <link
     rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css"
-    integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+    href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css" 
+    integrity="sha256-wiz7ZSCn/btzhjKDQBms9Hx4sSeUYsDrTLg7roPstac=" 
     crossorigin="anonymous"
   >
   <link
@@ -153,6 +153,28 @@
     id="MathJax-script"
     crossorigin="anonymous"
   ></script>
+{%- endif -%}
+
+{%- if page.mermaid -%}
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  var config = {
+    startOnLoad: true,
+    htmlLabels: true,
+    flowchart: {
+      curve: "basis",
+      useMaxWidth: true,
+      stroke: "gray",
+      fill: "honeydew",
+      diagramPadding: 3,
+      nodeSpacing: 30,
+      rankSpacing: 40,
+    },
+    securityLevel: "loose",
+  };
+
+  mermaid.initialize(config);
+</script>
 {%- endif -%}
 {% if page.comments %}
   {%- include discourse_comments.html -%}

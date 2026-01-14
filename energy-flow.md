@@ -5,6 +5,7 @@ author: nick
 layout: default
 date: 2020-06-03
 byline: true
+mermaid: true
 image: /img/energy-flow-sm.jpg
 categories:
   - deep dive
@@ -25,26 +26,6 @@ well](https://x.com/OperadorNuclear/status/1403800198132994059).
 </pre>
 
 You can download this as a jpg [here](/img/energy-flow.jpg).
-
-<script type="module">
-  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
-  var config = {
-    startOnLoad: true,
-    htmlLabels: true,
-    flowchart: {
-      curve: "basis",
-      useMaxWidth: true,
-      stroke: "gray",
-      fill: "honeydew",
-      diagramPadding: 3,
-      nodeSpacing: 30,
-      rankSpacing: 30,
-    },
-    securityLevel: "loose",
-  };
-
-  mermaid.initialize(config);
-</script>
 
 </div>
 </div>

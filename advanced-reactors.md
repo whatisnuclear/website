@@ -11,6 +11,7 @@ categories:
   - deep dive
 byline: true
 date: 2023-04-16
+mermaid: true
 image: /img/reactor-type-graph.png
 ---
 

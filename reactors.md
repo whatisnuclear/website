@@ -8,6 +8,7 @@ description: >
   touches on how they work, and discusses several different varieties.
 author: nick
 image: /img/dccook.jpg
+mermaid: true
 byline: true
 ---
 

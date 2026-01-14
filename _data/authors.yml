@@ -1,17 +1,43 @@
 nick:
   name: Nick Touran
-  display: Nick Touran, Ph.D., P.E.
+  display: Dr. Nick Touran, Ph.D., P.E.
   twitter: whatisnuclear
-  picture: /img/nick_cave.jpg
+  linkedin: nick-touran-ph-d-p-e-84217111
+  picture: /img/nick_dog_sm.jpg
+  bio: |
+    Nick Touran is a nuclear engineer with expertise in advanced nuclear reactor
+    design, reactor development, and the history of nuclear power. After getting
+    a Ph.D. at the University of Michigan, he spent 15 years at TerraPower in
+    Seattle working on core design, business development, software development,
+    and configuration management. He is now a consultant involved in advising
+    and assisting numerous reactor development and deployment efforts. He is
+    also a licensed professional engineer in Nuclear Engineering.
+
+    Nick has been active in public education around nuclear since 2006 as the
+    founder of whatisnuclear.com. He has spoken at numerous institutions,
+    schools, and public events, and was once featured on NPR's Science Friday.
+    Recently, he has coordinated the digitization of over 45 historical nuclear
+    films.
+
 jesse:
   name: Jesse Cheatham
   display: Jesse Cheatham, Ph.D., P.E.
+  bio: >
+    Jesse Cheatham has a Ph.D. in nuclear engineering from the University of
+    Michigan and has worked in non-proliferation and advanced reactor design
+    for over 15 years.
 brianj:
   name: Brian Johnson
   display: Brian Johnson, Ph.D., P.E.
+  bio: >
+    Brian Johnson has a Ph.D. in nuclear engineering from MIT and is one of the 
+    top world experts on fast reactor safety and PRA.
 natallia:
   name: Natallia Pinchuk
   display: Natallia Pinchuk
+  bio:
+    Natallia Pinchuk has a masters degree in nuclear engineering from the University
+    of Michigan and a MBA from MIT.
 cheng:
   name: Cheng Xu
   display: Cheng Xu
