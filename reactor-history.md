@@ -1793,30 +1793,6 @@ They still need more work so if you're bored and see a gap, it's a fun way to
 pass an hour.
 </div>
 
-<div class="card mb-3">
-  <div class="card-header text-white bg-success"><strong>About the Author</strong></div>
-  <div class="card-body" markdown="1">
-<img src="img/nick_cave.jpg" alt="Picture of author" class="img img-fluid float-end w-25 rounded" />
-Nick Touran decided he wanted to help solve the world's energy issues in 2002.
-He discovered nuclear engineering as a challenging yet interesting pathway to
-accomplish this, and dedicated his career to the challenge. He and his
-colleagues started this website to help improve public understanding of nuclear
-tech. He studied the design and performance of conventional, sodium-cooled, and
-fusion reactors while earning a bachelors, masters, and Ph.D. in nuclear
-engineering at the University of Michigan. He moved to Seattle in 2009 to push
-the envelope in reactor deployment at a nuclear technology development company
-(which is wholly unaffiliated with this website).
-
-He frequently gives public talks and seminars describing the current world
-energy situation, nuclear technology in general, and (most recently) the
-history of nuclear reactor development. This page was written on vacation as
-a labor of personal interest. You can [contact him here]({% link contact.md %})
-with comments, suggestions, and requests. He is a licensed Professional
-Engineer in Nuclear Engineering in the State of Washington.
-
-  </div>
-</div>
-
 ## References
 
 <div class="card mb-3">
