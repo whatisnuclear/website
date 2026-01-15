@@ -3,8 +3,8 @@ layout: default
 title: "About What is Nuclear"
 description: >
   About the people and philosophy behind the What is Nuclear organization
-author: nick
-byline: true
+byline: false
+reading_time: false
 ---
 
 <div class="row">

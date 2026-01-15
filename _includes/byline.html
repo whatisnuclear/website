@@ -1,3 +1,4 @@
+{%- if page.byline -%} 
 <div class="d-flex align-items-center mb-3">
   {% if site.data.authors[page.author].picture %}  
   <img src="{{ site.data.authors[page.author].picture }}" 
@@ -27,3 +28,4 @@
     </em>
   </p>
 </div>
+{%- endif -%}

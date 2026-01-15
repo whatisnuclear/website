@@ -2,7 +2,7 @@
 layout: default
 title: Contact us
 description: Ask us your questions or send in suggestions and comments
-author: nick
+reading_time: false
 ---
 
 <div class="row">

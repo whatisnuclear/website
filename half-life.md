@@ -6,6 +6,8 @@ author: nick
 layout: default
 date: 2022-10-30
 image: /img/half-life.jpg
+byline: false
+reading_time: false
 ---
 
 <div class="row">

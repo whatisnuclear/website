@@ -2,7 +2,7 @@
 title: Real Life Nuclear Engineers
 description: First hand stories of young nuclear engineers getting into the field.
 layout: default
-byline: true
+byline: false
 ---
 
 <div class="row">

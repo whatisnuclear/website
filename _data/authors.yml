@@ -21,32 +21,39 @@ nick:
 
 jesse:
   name: Jesse Cheatham
-  display: Jesse Cheatham, Ph.D., P.E.
+  display: Dr. Jesse Cheatham, Ph.D., P.E.
   bio: >
     Jesse Cheatham has a Ph.D. in nuclear engineering from the University of
     Michigan and has worked in non-proliferation and advanced reactor design
     for over 15 years.
 brianj:
   name: Brian Johnson
-  display: Brian Johnson, Ph.D., P.E.
+  display: Dr. Brian Johnson, Ph.D., P.E.
+  picture: /img/bjohnson.jpg
   bio: >
     Brian Johnson has a Ph.D. in nuclear engineering from MIT and is one of the 
     top world experts on fast reactor safety and PRA.
 natallia:
   name: Natallia Pinchuk
   display: Natallia Pinchuk
-  bio:
+  bio: >
     Natallia Pinchuk has a masters degree in nuclear engineering from the University
     of Michigan and a MBA from MIT.
+  picture: /img/natallia.gif
 cheng:
   name: Cheng Xu
-  display: Cheng Xu
+  display: Dr. Cheng Xu, Ph.D.
 rachel:
   name: Rachel Slaybaugh
-  display: Rachel Slaybaugh
+  display: Dr. Rachel Slaybaugh, Ph.D.
+  bio: >
+    Rachel Slaybaugh has a Ph.D. in nuclear engineering from the University of Wisconsin,
+    was a tenured Associate Professor at the University of California, Berkeley, and is 
+    a partner at a VC firm.
 riddle:
   name: Michael Riddle
   display: Michael Riddle
 echaleff:
   name: Ethan S. Chaleff
-  display: Ethan S. Chaleff, PhD
+  display: Dr. Ethan S. Chaleff, Ph.D.
+  picture: /img/ethan_chaleff.jpg
