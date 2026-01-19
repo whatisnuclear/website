@@ -37,9 +37,8 @@ px-2 bg-dark rounded d-inline-block">{{ vids | size }}</span> films and counting
 {%- endfor -%}
 {% endcapture %}
 {%- if url==nil or url == "" -%}
-{%- assign url = card.links[0].url -%} 
+{%- assign url = card.links[0].url -%}
 {%- endif -%}
-
 
 {% assign other =  site.pages | concat: site.posts | where_exp: "page", "page.url==url" | first -%}
 {%- capture img -%}

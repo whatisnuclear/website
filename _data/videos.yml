@@ -3731,3 +3731,70 @@
     Listed in Archives FY2024 Q4 release list with no description but very 
     likely shows the Contained Test Facility as it relates to the aircraft reactor 
     program in Idaho.
+
+- title: "Splitting Atoms – An Electrifying Experience"
+  naid:
+  iaea:
+  date: 1996
+  color: true
+  length: "11:24"
+  catalog:
+  # slight hack b/c annoucement page has 3 vids
+  image: https://img.youtube.com/vi/6Cwkk2mMM64/mqdefault.jpg
+  win: true
+  resolution: 480p
+  format: VHS
+  description: >
+    DOE film where 90's kids explain nuclear power in an easy-to-understand way.
+  links:
+    - url: https://www.youtube.com/watch?v=6Cwkk2mMM64
+      name: On YouTube
+      notes: Thanks to Ron Knief
+    - name: Digitization Annoucement and Summary
+      url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
+
+- title: "Accident Testing"
+  naid: 620828
+  iaea: AVN 0696
+  date: 1980
+  color: true
+  length: "12:03"
+  catalog:
+  win: true
+  resolution: 2K
+  format: 16mm
+  description: >
+    Shows a series of tests predicting and verifying the ability of nuclear fuel
+    shipping casks to survive extreme accidents (collision, puncture, fire,
+    immersion in water) without release of radioactivity to the environment. The
+    use of computers to analyze impact on transportation casks is demonstrated as
+    well as computer simulation tests, scale model tests and full scale tests at
+    various speeds.
+  links:
+    - url: https://www.youtube.com/watch?v=1LVqkhpp0wQ
+      name: On YouTube
+      notes: Thanks to Ron Knief
+    - name: Digitization Annoucement and Summary
+      url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
+
+- title: "Sun of Man"
+  naid:
+  iaea:
+  date: 1988
+  color: true
+  length: "57:13"
+  catalog:
+  # slight hack b/c annoucement page has 3 vids
+  image: https://img.youtube.com/vi/WussAV3DKA4/mqdefault.jpg
+  win: true
+  resolution: 480p
+  format: VHS
+  description: >
+    A public broadcast documentary about fusion covering PPPL, LLNL, Moscow, and
+    the initial work on ITER.
+  links:
+    - url: https://www.youtube.com/watch?v=WussAV3DKA4
+      name: On YouTube
+      notes: Thanks to Ron Knief
+    - name: Digitization Annoucement and Summary
+      url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html

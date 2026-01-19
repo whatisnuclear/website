@@ -44,7 +44,6 @@ feed:
       # This is what people would likely point their feed reader too
       path: "/feed.xml"
   # for speed
-  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -75,3 +74,4 @@ defaults:
       path: ""
     values:
       reading_time: true
+      about_author: true
