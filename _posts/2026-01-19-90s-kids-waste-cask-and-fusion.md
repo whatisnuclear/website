@@ -221,9 +221,10 @@ Note that at the end they point to this excellent resource: [The Harnessed Atom]
 
 # Accident Testing
 
-This shows the classic Sandia destructive nuclear waste cask tests where they hit it with
-a rocket powered truck and train and then burn it in jet fuel for 90 minutes. While this exists
-online, I wanted a higher-res scan so this is the first publicly available 2K scan as far as I'm aware.
+This shows the classic Sandia destructive nuclear waste cask tests where they
+hit it with a rocket powered truck and train and then burn it in jet fuel for 90
+minutes. While this exists online, I wanted a higher-res scan so this is the
+first publicly available 2K scan as far as I'm aware.
 
 <figure>
 <div class="ratio ratio-16x9"> 
@@ -236,16 +237,25 @@ online, I wanted a higher-res scan so this is the first publicly available 2K sc
 </button>
 
 <div class="collapse mt-3" id="transcript2">
-  <div class="card card-body" markdown="1">
-Accidents happen. Transportation accidents can involve the carriers of containers used to transport highly radioactive materials, such as the spent fuel from nuclear power plants.
 
-These containers, called casks, are designed by engineers in the nuclear industry and the federal government to survive the potential hazards of transportation accidents.
+<div class="card card-body" markdown="1">
 
-Casks must pass a series of qualification tests prescribed by the Nuclear Regulatory Commission and the Department of Transportation
-that simulate the threat that casks would face in serious accidents involving impact, puncture, fire, and immersion.
+Accidents happen. Transportation accidents can involve the carriers of
+containers used to transport highly radioactive materials, such as the spent
+fuel from nuclear power plants.
 
-When a new cask is being developed, designers must demonstrate, either with analysis, experiment, or both,
-that it can survive the impact conditions of a 30-foot drop onto an unyielding target.
+These containers, called casks, are designed by engineers in the nuclear
+industry and the federal government to survive the potential hazards of
+transportation accidents.
+
+Casks must pass a series of qualification tests prescribed by the Nuclear
+Regulatory Commission and the Department of Transportation that simulate the
+threat that casks would face in serious accidents involving impact, puncture,
+fire, and immersion.
+
+When a new cask is being developed, designers must demonstrate, either with
+analysis, experiment, or both, that it can survive the impact conditions of a
+30-foot drop onto an unyielding target.
 
 Other prescribed tests in the sequence include puncture, fire, and extended immersion in water.
 
@@ -393,9 +403,19 @@ Even in the event those casks were to be exposed to extremely violent transporta
 since these modeling and testing techniques proved valid, they can be used in the future
 in the design of casks and other shipping systems.
 
-  </div>
-
 </div>
+</div>
+
+## Nuclear Waste Collisions with Red Alert Music
+
+For extra fun, I also made a short highlights reel of the main collisions synchronized to the
+music from the old video game: Command &amp; Conquer: Red Alert.
+
+<figure>
+<div class="ratio ratio-16x9"> 
+{% include youtube.html id="0-fWLi1-q1U" title="Accident Testing Highlights" %}
+</div>
+</figure>
 
 <hr/>
 
