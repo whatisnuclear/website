@@ -94,7 +94,7 @@
           eventC.style.visibility = 'hidden';
         }
 
-        themeLink.href = baseUrl + themes[input.get('theme', 'night')];
+        themeLink.href = baseUrl + themes[input.get('theme') || 'night'];
       }
 
       setInputVals();

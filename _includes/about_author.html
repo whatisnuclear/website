@@ -1,37 +1,50 @@
 {%- if page.author -%}
-<div class="card bg-light border-0 shadow-sm my-5">
-  <div class="card-body p-4">
-    <div class="d-flex flex-column flex-md-row align-items-center">
-    {% if site.data.authors[page.author].picture %}  
-      <div class="flex-shrink-0 mb-3 mb-md-0">
-        <img src="{{ site.data.authors[page.author].picture }}" 
-             alt="{{ page.author }}" 
-             class="rounded-circle border border-3 border-white shadow-sm" 
-             style="width: 100px; height: 100px; object-fit: cover;">
-      </div>
-      {% endif %}
-      
-      <div class="flex-grow-1 ms-md-4 text-center text-md-start">
-        <h5 class="card-title mb-1">About {{site.data.authors[page.author].display}}</h5>
-        <p class="card-text text-muted mb-2" markdown="1">
-            {{ site.data.authors[page.author].bio | markdownify }} 
-        </p>
+  <div class="card bg-light border-0 shadow-sm my-5">
+    <div class="card-body p-4">
+      <div class="d-flex flex-column flex-md-row align-items-center">
+        {% if site.data.authors[page.author].picture %}
+          <div class="flex-shrink-0 mb-3 mb-md-0">
+            <img
+              src="{{ site.data.authors[page.author].picture }}"
+              alt="{{ page.author }}"
+              class="rounded-circle border border-3 border-white shadow-sm"
+              style="width: 100px; height: 100px; object-fit: cover;"
+            >
+          </div>
+        {% endif %}
 
-        <div class="d-flex align-items-center justify-content-center justify-content-md-start">
-          {% if site.data.authors[page.author].twitter %}
-          <a href="https://x.com/{{ site.data.authors[page.author].twitter }}" class="text-secondary me-3 text-decoration-none" title="Follow on X" rel="me">
-            <i class="fa-brands fa-x-twitter fa-lg"></i>
-          </a>
-          {% endif %}
-          {% if site.data.authors[page.author].linkedin %}
-          <a href="https://linkedin.com/in/{{ site.data[page.author].linkedin}}" class="text-secondary me-3 text-decoration-none" title="Connect on LinkedIn" rel="me">
-            <i class="fa-brands fa-linkedin fa-lg"></i>
-          </a>
-          {% endif %}
+        <div class="flex-grow-1 ms-md-4 text-center text-md-start">
+          <h5 class="card-title mb-1">
+            About {{ site.data.authors[page.author].display }}
+          </h5>
+          <div class="card-text text-muted mb-2">
+            {{ site.data.authors[page.author].bio | markdownify }}
+          </div>
+
+          <div class="d-flex align-items-center justify-content-center justify-content-md-start">
+            {% if site.data.authors[page.author].twitter %}
+              <a
+                href="https://x.com/{{ site.data.authors[page.author].twitter }}"
+                class="text-secondary me-3 text-decoration-none"
+                title="Follow on X"
+                rel="me"
+              >
+                <i class="fa-brands fa-x-twitter fa-lg"></i>
+              </a>
+            {% endif %}
+            {% if site.data.authors[page.author].linkedin %}
+              <a
+                href="https://linkedin.com/in/{{ site.data[page.author].linkedin}}"
+                class="text-secondary me-3 text-decoration-none"
+                title="Connect on LinkedIn"
+                rel="me"
+              >
+                <i class="fa-brands fa-linkedin fa-lg"></i>
+              </a>
+            {% endif %}
+          </div>
         </div>
-        
       </div>
     </div>
   </div>
-</div>
 {%- endif -%}

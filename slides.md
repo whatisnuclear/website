@@ -61,7 +61,7 @@ areas on the front page. Please use responsibly.
 </div>
 </div>
 <div class="row">
-  <div style="col">
+  <div class="col">
       <label for="theme-select" style="margin-right: 8px;">Theme:</label>
       <select id="theme-select">
         <option value="black">Black</option>
