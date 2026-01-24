@@ -35,6 +35,7 @@
   pages:
     - candu
     - msr
+    - microreactors
     - twr
     - sodium-graphite-reactors
       #- lwr

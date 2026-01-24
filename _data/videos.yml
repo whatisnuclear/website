@@ -3798,3 +3798,56 @@
       notes: Thanks to Ron Knief
     - name: Digitization Annoucement and Summary
       url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
+
+- title: "Enrichment of Uranium"
+  naid:
+  iaea:
+  date: 1980?
+  color: true
+  length: ""
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    An explanation of uranium enrichment, particularly focused on
+    the older gaseous diffusion methods.
+  links:
+    - url: https://www.youtube.com/watch?v=U5gNxH1LcoI
+      name: On YouTube
+      notes: Thanks to Ron Knief
+
+- title: "Managing Radioactive Waste at the Nevada Test Site"
+  naid:
+  iaea:
+  date: 1980
+  color: true
+  length: ""
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    An overview of how different types of nuclear waste is and can be stored at the Nevada Test Site.
+  links:
+    - url: https://www.youtube.com/watch?v=V1Jdr92Jga0
+      name: On YouTube
+      notes: Thanks to Ron Knief
+
+- title: "Basalt Waste Isolation Project"
+  naid:
+  iaea:
+  date: 1981
+  color: true
+  length: ""
+  catalog:
+  win: true
+  resolution: 480p
+  format: U-matic
+  description: >
+    A film explaining research into nuclear waste storage in Basalt formations,
+    particular on the Hanford reservation in Washington State.
+  links:
+    - url: https://www.youtube.com/watch?v=atx7p5n99C4
+      name: On YouTube
+      notes: Thanks to Ron Knief
