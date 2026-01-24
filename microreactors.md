@@ -163,7 +163,7 @@ dollars per kWh generated. More recently, numerous SMR vendors, including
 NuScale and Oklo have uprated their designs _specifically_ to reduce the
 overall cost.
 
-Outside nuclear, we know that GE alone manufactures 200,000 MW of internal
+Outside nuclear, we know that GM alone manufactures 200,000 MW of internal
 combustion engine capacity per year for vehicles using ultra-optimized assembly
 lines and a lean global supply chain. Yet, zero of these engines are used for
 electricity generation. Why? Because the big fossil-fired generators are so much
