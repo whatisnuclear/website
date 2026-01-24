@@ -176,6 +176,13 @@ powering data centers or making electricity for the grid, the likelihood of
 microreactors competing with larger reactors or other power systems appears to
 be quite low**.
 
+Some of the hype out there where people claim their mass-produced microreactors
+will make sense in commodity markets have not convincingly argued that they
+really can deliver at the required price point. While some overhyping is normal,
+these kinds of arguments can inadvertently undercut the deployment of
+highly-optimized time-honed top-notch all-American workhorse reactors that are
+already proven and have fully licensed designs (like the AP1000 AND ABWR).
+
 <figure>
 <a href="/img/costs_1961.jpg"><img
 src="/img/costs_1961.jpg" alt="Construction costs of nuclear reactors up to 1961"
