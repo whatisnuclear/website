@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Microreactors
-description: What are microreactors, and why are people excited about them?
+title: What are Microreactors?
+description: Definition, history, opportunities, and challenges of micro nuclear reactors
 author: nick
 byline: true
-image: /img/ml1.jpg
+image: /img/ml1-on-trailer.jpg
 date: 2026-01-24
 mathjax: true
 ---
@@ -12,7 +12,7 @@ mathjax: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<img class="img img-fluid rounded float-end w-25" src="/img/ml1-on-trailer.png" alt="ML-1 on truck" title="ML-1 on truck"/>
+<a href="/img/ml1-on-trailer.jpg"><img class="img img-fluid rounded float-end w-25" src="/img/ml1-on-trailer.jpg" alt="ML-1 on truck" title="ML-1 on truck"/></a>
 
 Microreactors are small, low-power nuclear fission [reactors]({% link
 reactors.md %}) that make less than 10 megawatts (MW) of electricity (or ~30 MW
