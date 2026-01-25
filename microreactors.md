@@ -24,7 +24,9 @@ moderator combination]({% link reactors.md %}#types).
 ## Why microreactors?
 
 Excitement about microreactors is prevalent in the private sector (numerous
-startups), the civilian government (the US DOE [pilot
+startups), the civilian government (the US Dept of State [Project
+Phoenix](https://2021-2025.state.gov/project-phoenix/)
+and Dept of Energy [pilot
 program](https://www.energy.gov/ne/us-department-energy-reactor-pilot-program)),
 and the military (Pele and
 [Janus](https://www.army.mil/article/288903/army_announces_janus_program_for_next_generation_nuclear_energy)).
