@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Nuclear Power Essentials
-subtitle: Learn the fundamentals of nuclear power
+title: What is nuclear energy?
+subtitle: Learn the fundamentals
 description: >
   Learn all about nuclear power directly from nuclear engineers, from the basics
   to detailed deep dives into types of reactors, nuclear history, economics, and
@@ -11,7 +11,6 @@ author: nick
 byline: false
 last_modified_at: 2024-02-25
 ---
-
 
 <div class="row">
 <div class="col-md-8" markdown="1">
