@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What are Microreactors?
+title: What is a Microreactor?
 description: Definition, history, opportunities, and challenges of micro nuclear reactors
 author: nick
 byline: true
