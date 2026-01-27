@@ -2918,7 +2918,6 @@
   naid: 88303
   date: 1969
   length: 22
-  priority: 2
   color: true
   catalog: ERDA 1976
   description: >
@@ -2934,7 +2933,12 @@
     proper handling procedures; scenes of persons working with U-235 in various
     forms (gas, powder, metal, liquid) in several work areas; emergency procedures;
     and a few scenes of U-233 and plutonium work areas
-  notes: Would be cool to see Y-12
+  notes: May be worth rescanning from 16mm at NARA for better picture quality.
+  win: true
+  links:
+    - url: https://www.youtube.com/watch?v=pOYfKfNEt10
+      name: On YouTube
+      notes: Low quality VHS transfer. Thanks to Ronald Knief.
 
 - title: Atomic Power at Shippingport
   naid: 88108
