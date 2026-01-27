@@ -12,7 +12,9 @@ mathjax: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-<a href="/img/ml1-on-trailer.jpg"><img class="img img-fluid rounded float-end w-25" src="/img/ml1-on-trailer.jpg" alt="ML-1 on truck" title="ML-1 on truck"/></a>
+<a href="/img/ml1-on-trailer.jpg"><img class="img img-fluid rounded float-end
+w-25" src="/img/ml1-on-trailer.jpg" alt="ML-1 on truck" title="ML-1 on
+truck"/></a>
 
 Microreactors are small, low-power nuclear fission [reactors]({% link
 reactors.md %}) that make less than 10 megawatts (MW) of electricity (or ~30 MW
@@ -28,7 +30,7 @@ startups), the civilian government (the US Dept of State [Project
 Phoenix](https://2021-2025.state.gov/project-phoenix/)
 and Dept of Energy [pilot
 program](https://www.energy.gov/ne/us-department-energy-reactor-pilot-program)),
-and the military (Pele and
+and the military ([Pele](https://en.wikipedia.org/wiki/Project_Pele) and
 [Janus](https://www.army.mil/article/288903/army_announces_janus_program_for_next_generation_nuclear_energy)).
 What makes people think micros are a good idea?
 
