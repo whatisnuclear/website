@@ -9,8 +9,12 @@ factlets:
   - Existing US nuclear waste could generate 100% of US electricity for 160
     years (given a fleet of breeder reactors)
   - Existing US nuclear waste could generate 100% of world electricity for 25 years
-  - Existing US nuclear waste contains about 6670 exajoules of energy, or
+  - Existing US nuclear waste contains about 6,670 exajoules of energy, or
     about 11 years of total world primary energy.
+  - Existing US depleted uranium contains about 52,000 exajoules of energy, or
+    about 80 years of total world primary energy.
+  - This energy cannot be accessed without bootstrapping breeder reactors
+    over about 5 doubling times, or ~150 years
 ---
 
 <div class="row">
@@ -68,10 +72,39 @@ of US electricity for 164 years**.
 
 Note that these scenarios would require an established fleet of breeder reactors
 to actually achieve, all of which would need to be already started up, which
-would require a huge amount of fissile material that is not included here.
-Actually ramping up such a fleet is generally expected to start from the much
-smaller amount of plutonium contained in the fuel and ramp up gradually over
-decades.
+would require a huge amount of fissile material. For example, the S-PRISM 1000
+MWt SFR requires 2336 kg of Pu to start up {% cite
+hoffmanPreliminaryCoreDesign2008 %}, and you'd need 3000 S-PRISM cores to make
+all US primary thermal energy, so you'd need 7000 tonnes of separated plutonium
+to start such a fleet up. There are only about 1000 tonnes of plutonium in the
+spent fuel, so there needs to be a 'phase in' period before all this energy can
+be accessed. Ramping up such a fleet is generally envisioned to start from the
+1000 tonnes of plutonium contained in the spent fuel and ramp up gradually over
+about 150 years.
+
+## What about all our depleted uranium (DU)?
+
+The US currently has about 750,000 tonnes
+of it in storage at Paducah, KY and Portsmouth, OH left over as tails from
+uranium enrichment. It's barely radioactive, and so is not high-level nuclear
+waste, but is still a nuclear byproduct material. This material contains
+about 52,000 exajoules!
+
+    units -1 "750000 tonnes * 800 GW*day/tonne" "exajoules"
+    51840
+
+This is enough to provide the whole world's primary energy (~650 exajoules per year)
+for about 80 years! Again, from a practical point of view this is actually not possible
+without a gradual ramp-up from existing fissile material. You could start
+~1000 breeder reactors with available plutonium today, making about 31 exajoules/year (5% of
+total world energy) and then, over 5&ndash;6 doubling times, build up enough plutonium
+to ramp up 20x to full world power, and then consume the energy in the DU. If you
+used HALEU instead, you could never consume the pile of DU because you'd be adding
+far more DU than you can consume while enriching the HALEU.
+
+## References
+
+{% bibliography --cited %}
 
 </div>
 </div>
