@@ -418,7 +418,7 @@ reactors.md %}) page.
 
 {% include featured.html %}
 
-<h4>Our goal</h4>
+<p class="fs-4">Our goal</p>
 <p>To answer this common sentiment: </p>
 
 <figure class="text-start">
