@@ -190,7 +190,7 @@ of the 5 WPPS reactors were cancelled. Today, half-built old NPPs are still foun
 parts of the USA.
 
 <div class="card border-primary">
-<h5 class="card-header text-primary">Coal plant costs rose too</h5>
+<p class="fs-5 card-header text-primary">Coal plant costs rose too</p>
 <div class="card-body">
 <p class="card-text" markdown="1">
 In the 1970s, coal plants also suffered cost escalation due to growing fleet size. Public

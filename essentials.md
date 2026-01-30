@@ -215,7 +215,7 @@ what should be done with this high-level nuclear waste.
 </p>
 <img src="/img/fission-chain-reaction-optsvg.svg" class="card-img-top" alt="...">
 
-<h5 class="card-title">Waste solutions</h5>
+<p class="fs-5 card-title">Waste solutions</p>
 <p class="card-text" markdown="1">
   We know how to deal with nuclear waste safely. The Finns simply chose to go
   ahead and solve their nuclear waste issue and built the repository at Onkalo.
@@ -256,7 +256,7 @@ material. So, people worry about reactor safety.
       <img src="/img/decay_heat_power_opt.svg" class="card-img-top" alt="A graph showing
 power of a nuclear reactor before and after shutdown.">
 
-      <h5 class="card-title">Safety solutions</h5>
+      <p class="fs-5 card-title">Safety solutions</p>
       <p class="card-text" markdown="1">
 
 Nuclear energy has actually _saved_ over 1.8 million lives by displacing air-pollution
@@ -291,7 +291,7 @@ there is some technology overlap, especially in fuel cycle facilities like
 enrichment and reprocessing plants. So, some people argue that having reactors
 around might make it easier to spread nuclear weapons.
 </p>
-<h5 class="card-title">Proliferation solutions</h5>
+<p class="fs-5 card-title">Proliferation solutions</p>
       <p class="card-text" markdown="1">
 It is important for nuclear facilities to monitor nuclear material. That said,
 advanced designs are being developed that reduce reliance on enrichment.
@@ -320,7 +320,7 @@ concrete and nuclear-grade quality assurance programs. As a result, they tend to
 be expensive to build. Once they're built, the fuel and operating costs are
 relatively cheap, but the capital cost is a major hurdle.
 </p>
-<h5 class="card-title">Cost Solutions</h5>
+<p class="fs-5 card-title">Cost Solutions</p>
 <p class="card-text" markdown="1">
 If carbon dioxide is ever treated as a pollutant, then nuclear reactors will
 become much more competitive.  But there is definitely room to improve! Research

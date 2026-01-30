@@ -24,7 +24,7 @@ last_modified_at: 2024-02-25
       {% imagesize img/reactor_web.svg:props %}
     >
     <h1 class="display-3 fw-bold">What is Nuclear?</h1>
-    <h3 class="fw-normal text-muted mb-3">Learn about nuclear power</h3>
+    <p class="fs-3 fw-normal text-muted mb-3">Learn about nuclear power</p>
   </div>
 </div>
 
@@ -37,7 +37,7 @@ last_modified_at: 2024-02-25
             <a href="{% link essentials.md %}" class="stretched-link"></a>
             <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
               <i class="fas fa-user-graduate"></i>
-            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">Essentials</h3>
+            <p class="fs-2 mx-2 mb-0 text-body-emphasis">Essentials</p>
             </div>
             <p>
               Start here to learn more about nuclear power's capabilities and limitations. You'll learn about different
@@ -51,7 +51,7 @@ last_modified_at: 2024-02-25
           <a href="{% link deep-dives.html %}" class="stretched-link"></a>
           <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
             <i class="fas fa-book-open"></i>
-            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">Deep Dives</h3>
+            <p class="fs-2 mx-2 mb-0 text-body-emphasis">Deep Dives</p>
           </div>
           <p>Get nuanced by reading about nuclear power economics, thorium, the Rickover memo, and beyond</p>
           <a href="{% link deep-dives.html %}" class="icon-link">Dive deeper</a>
@@ -62,7 +62,7 @@ last_modified_at: 2024-02-25
           <a href="{% link histories.html %}" class="stretched-link"></a>
           <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
             <i class="fas fa-history"></i>
-            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">History</h3>
+            <p class="fs-2 mx-2 mb-0 text-body-emphasis">History</p>
           </div>
           <p>Learn about the amazing things done in the first nuclear era, and how they 
           can help us proceed today.</p>
@@ -74,7 +74,7 @@ last_modified_at: 2024-02-25
           <a href="{% link reference.html %}" class="stretched-link"></a>
           <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
             <i class="far fa-folder-open"></i>
-            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">Reference</h3>
+            <p class="fs-2 mx-2 mb-0 text-body-emphasis">Reference</p>
           </div>
           <p>
             We also feature large amounts of useful reference information and calculators. 
@@ -87,7 +87,7 @@ last_modified_at: 2024-02-25
           <a href="{% link consulting.md %}" class="stretched-link"></a>
           <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
             <i class="fas fa-user-tie"></i>
-            <h3 class="fs-2 mx-2 mb-0 text-body-emphasis">Consulting</h3>
+            <p class="fs-2 mx-2 mb-0 text-body-emphasis">Consulting</p>
           </div>
           <p>
             Hire us for nuclear consulting work. We can help execute
@@ -121,7 +121,7 @@ last_modified_at: 2024-02-25
                   <a href="{{ post.url}}" class="stretched-link"></a>
                   <img src="{{ post.image }}" class="card-img-top" alt="Header image for story">
                   <div class="card-body">
-                    <h5 class="card-title">{{ post.title }}</h5>
+                    <p class="fs-5 card-title">{{ post.title }}</p>
                     <p class="card-text">{{ post.description | truncatewords: 25 }}</p>
                     <button class="border-0">
                       <img class="m-1" width="16" height="16" alt="Reactor icon" src="img/reactor_web.svg">Read more
