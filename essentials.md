@@ -45,47 +45,58 @@ of people support expanding nuclear power.
 
 <div class="accordion" id="accordion">
   <div class="accordion-item">
-    <h2 class="accordion-header card-header" id="headingThree">
+    <h3 class="accordion-header card-header" id="headingThree">
       <button class="accordion-button collapsed" type="button"
-      data-bs-toggle="collapse" data-bs-target="#collapseThree"
-      aria-expanded="false" aria-controls="collapseThree">
-        <span class="fas fa-star fa-lg text-primary px-2"></span> Extreme energy
-        density leads to minuscule pollution and mineral needs
+              data-bs-toggle="collapse" data-bs-target="#collapseThree"
+              aria-expanded="false" aria-controls="collapseThree">
+        <span class="fas fa-star fa-lg text-primary px-2" aria-hidden="true"></span> 
+        Extreme energy density leads to minuscule pollution and mineral needs
       </button>
-    </h2>
-    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree">
+    </h3>
+    
+    <div id="collapseThree" class="accordion-collapse collapse" 
+         role="region" aria-labelledby="headingThree">
       <div class="accordion-body">
-        Because nuclear fuel contains millions of times more energy per mass
-        than anything else, it is possible to keep all the byproducts accounted
-        for and out of the biosphere, in strong contrast to fossil and biofuels
-        which release much of their combustion wastes into the air, causing
-        severe health and environmental problems.
+        <p>
+          Because nuclear fuel contains millions of times more energy per mass
+          than anything else, it is possible to keep all the byproducts accounted
+          for and out of the biosphere, in strong contrast to fossil and biofuels...
+        </p>
 
-The following table shows how long a 100 watt light bulb could run from using 1
-kg of various fuels. The natural uranium undergoes nuclear fission and thus
-attains extremely high energy density (energy stored in a unit of mass).
+        <table class="table table-striped">
+          <caption>
+            Energy densities of various energy sources in MJ/kg and the
+            length of time that 1 kg of each material could run a 100W load.
+          </caption>
+          <thead>
+            <tr>
+              <th scope="col">Material</th>
+              <th scope="col">Energy Density (MJ/kg)</th>
+              <th scope="col">100W light bulb time (1kg)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Wood</td><td>10</td><td>1.2 days</td></tr>
+            <tr><td>Ethanol</td><td>26.8</td><td>3.1 days</td></tr>
+            <tr><td>Coal</td><td>32.5</td><td>3.8 days</td></tr>
+            <tr><td>Crude oil</td><td>41.9</td><td>4.8 days</td></tr>
+            <tr><td>Diesel</td><td>45.8</td><td>5.3 days</td></tr>
+            <tr><td>Natural Uranium (LWR)</td><td>5.7x10<sup>5</sup></td><td>182 <em>years</em></td></tr>
+            <tr><td>Reactor Grade Uranium (LWR)</td><td>3.7x10<sup>6</sup></td><td>1,171 <em>years</em></td></tr>
+            <tr><td>Natural Uranium (breeder)</td><td>8.1x10<sup>7</sup></td><td>25,700 <em>years</em></td></tr>
+            <tr><td>Thorium (breeder)</td><td>7.9x10<sup>7</sup></td><td>25,300 <em>years</em></td></tr>
+          </tbody>
+        </table>
 
-<table class="table table-striped">
-<tr><th>Material</th><th >Energy Density (MJ/kg)</th><th >100W light bulb time (1kg)</th></tr>
-<tr><td>Wood</td><td>10</td><td>1.2 days</td></tr>
-<tr><td>Ethanol</td><td>26.8</td><td>3.1 days</td></tr>
-<tr><td>Coal</td><td>32.5</td><td>3.8 days</td></tr>
-<tr><td>Crude oil</td><td>41.9</td><td>4.8 days</td></tr>
-<tr><td>Diesel</td><td>45.8</td><td>5.3 days</td></tr>
-<tr><td>Natural Uranium (LWR)</td><td>5.7x10<sup>5</sup></td><td>182 <em>years</em></td></tr>
-<tr><td>Reactor Grade Uranium (LWR)</td><td>3.7x10<sup>6</sup></td><td>1,171 <em>years</em></td></tr>
-<tr><td>Natural Uranium (breeder)</td><td>8.1x10<sup>7</sup></td><td>25,700 <em>years</em></td></tr>
-<tr><td>Thorium (breeder)</td><td>7.9x10<sup>7</sup></td><td>25,300 <em>years</em></td></tr>
-</table>
-<p class="caption">Energy densities of various energy sources in MJ/kg and in
-length of time that 1 kg of each material could run a 100W load. Natural uranium
-has undergone no enrichment (0.7% U-235), reactor-grade uranium has 5% U-235. By
-the way, 1 kg of weapons grade uranium (95% U-235) could power the entire USA
-for 177 seconds. All numbers assume 100% thermal-to-electrical conversion. See
-our <a href="{% link energy-density.md %}">energy density of nuclear fuel</a>
-page for details.</p>   
+        <p class="small text-muted mt-2">
+          Natural uranium has undergone no enrichment (0.7% U-235), reactor-grade uranium has 5% U-235.
+          By the way, 1 kg of weapons grade uranium (95% U-235) could power the entire USA for 177 seconds.
+          All numbers assume 100% thermal-to-electrical conversion. See our
+          <a href="{% link energy-density.md %}">energy density of nuclear fuel</a> page for details.
+        </p>
       </div>
     </div>
+
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header card-header" id="headingOne">
@@ -93,7 +104,7 @@ page for details.</p>
         <span class="fas fa-tree fa-lg text-success px-2"></span> Nuclear energy is carbon-free
       </button>
     </h2>
-    <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne">
+    <div id="collapseOne" class="accordion-collapse collapse" role="region" aria-labelledby="headingOne">
       <div class="accordion-body">
         <p>
           Splitting atoms is a carbon-free process, so nuclear power is a global
@@ -137,7 +148,7 @@ page for details.</p>
         Nuclear reactors can make energy on demand as needed
       </button>
     </h2>
-    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo">
+    <div id="collapseTwo" class="accordion-collapse collapse" role="region" aria-labelledby="headingTwo">
       <div class="accordion-body">
         One loading of fuel lasts 18+ months in a reactor, and they generally
         operate for that long non-stop.  No cloudy days or calm nights will
@@ -167,7 +178,7 @@ page for details.</p>
         <span class="fa fa-battery-full fa-lg text-success px-2"></span> Nuclear energy is sustainable
       </button>
     </h2>
-    <div id="collapseFour" class="accordion-collapse collapse " aria-labelledby="headingFour">
+    <div id="collapseFour" class="accordion-collapse collapse" role="region" aria-labelledby="headingFour">
       <div class="accordion-body" markdown="1">
 We have enough nuclear fuel resources to power the world for [literally billions
 of years]({% link nuclear-sustainability.md %}) with advanced reactors. Even
@@ -203,7 +214,7 @@ regarding nuclear energy. Click for details.
 <i class="fa fa-trash fa-lg px-3"></i>What about the waste?
       </button>
     </h2>
-    <div id="collapseWOne" class="accordion-collapse collapse " aria-labelledby="headingWOne">
+    <div id="collapseWOne" class="accordion-collapse collapse" role="region" aria-labelledby="headingWOne">
       <div class="accordion-body">
 <p markdown="1">
 When heavy atoms split and release energy, the two smaller atoms remaining (called
@@ -242,7 +253,7 @@ We have a detailed page dedicated to <a href="{% link waste.md %}" class="card-l
 <i class="fas fa-life-ring fa-lg px-3"></i> What about meltdowns?
       </button>
     </h2>
-    <div id="collapseWTwo" class="accordion-collapse collapse " aria-labelledby="headingWTwo">
+    <div id="collapseWTwo" class="accordion-collapse collapse" role="region" aria-labelledby="headingWTwo">
       <div class="accordion-body">
 <p class="card-text" markdown="1">
 The radioactive fission products are hottest when a reactor first shuts down. In effect,
@@ -282,7 +293,7 @@ And advanced designs can make them even safer.
 <i class="fas fa-bomb fa-lg px-3"></i> What about nuclear proliferation?
       </button>
     </h2>
-    <div id="collapseWThree" class="accordion-collapse collapse " aria-labelledby="headingWThree">
+    <div id="collapseWThree" class="accordion-collapse collapse" role="region" aria-labelledby="headingWThree">
       <div class="accordion-body">
 <p class="card-text" markdown="1">
 The [first application of fission]({% link history.md %}) was as an atomic bomb.
@@ -312,7 +323,7 @@ Megatons-to-Megawatts program.
       <i class="fas fa-balance-scale fa-lg px-3"></i> What about the economics?
       </button>
     </h2>
-    <div id="collapseWFour" class="accordion-collapse collapse " aria-labelledby="headingWFour">
+    <div id="collapseWFour" class="accordion-collapse collapse" role="region" aria-labelledby="headingWFour">
       <div class="accordion-body">
 <p class="card-text" markdown="1">
 Nuclear reactors are generally large and complex, with lots of reinforced
