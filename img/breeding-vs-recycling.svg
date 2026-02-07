@@ -7,7 +7,7 @@
    viewBox="0 0 169.48031 146.74434"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="breeding-vs-recycling.svg"
    inkscape:export-filename="/pool/Projects/outreach/outreach-material/infosheets/breeding-vs-recyclingn.png"
    inkscape:export-xdpi="200"
@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0897757"
-     inkscape:cx="235.82835"
-     inkscape:cy="288.13269"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:zoom="0.77058779"
+     inkscape:cx="435.38193"
+     inkscape:cy="397.09947"
+     inkscape:window-width="1644"
+     inkscape:window-height="1033"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-global="true"
@@ -41,9 +41,17 @@
      fit-margin-left="1"
      fit-margin-right="1"
      fit-margin-bottom="1"
-     inkscape:snap-bbox="true" />
+     inkscape:snap-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
+    <rect
+       x="576.18354"
+       y="302.36659"
+       width="31.793912"
+       height="33.091622"
+       id="rect4" />
     <marker
        style="overflow:visible"
        id="marker74206"
@@ -201,14 +209,14 @@
     <rect
        x="179.01294"
        y="324.79401"
-       width="50.8316"
-       height="24.282688"
+       width="162.1976"
+       height="65.306825"
        id="rect15775-2-9" />
     <rect
        x="179.01294"
        y="324.79401"
-       width="156.45822"
-       height="31.775906"
+       width="162.94677"
+       height="43.455302"
        id="rect15775-2-9-6" />
     <rect
        x="179.01294"
@@ -286,6 +294,108 @@
        width="113.36427"
        height="30.253725"
        id="rect15775-2-3-3" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="163.53351"
+       height="65.733032"
+       id="rect15775-2-9-3" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="229.0679"
+       height="61.191045"
+       id="rect15775-2-9-3-5" />
+    <rect
+       x="179.01294"
+       y="324.79401"
+       width="162.1976"
+       height="65.306824"
+       id="rect15775-2-9-1" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-6" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-1" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-6-8" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-0" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-6-2" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-2" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-6-89" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-3" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-8" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-61" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-06" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-7" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-37" />
+    <rect
+       x="576.18353"
+       y="302.36658"
+       width="31.793913"
+       height="33.091621"
+       id="rect4-4" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -298,7 +408,8 @@
        width="169.875"
        height="147.22731"
        x="16.185928"
-       y="21.182547" />
+       y="21.182547"
+       sodipodi:insensitive="true" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.25125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 18.492092,37.549912 H 186.62161"
@@ -314,13 +425,13 @@
        style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect3638)"
        x="31.007812"
        y="0"><tspan
-         x="144.09961"
-         y="150.92383"
-         id="tspan5782">Breeder 
+         x="146.19298"
+         y="151.32558"
+         id="tspan5">Breeder 
 </tspan><tspan
-         x="145.55273"
-         y="170.92383"
-         id="tspan5784">reactors</tspan></text>
+         x="147.52896"
+         y="171.32558"
+         id="tspan6">reactors</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-29.01018,24.53434)"
@@ -328,13 +439,13 @@
        style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect3638-0)"
        x="49.433594"
        y="0"><tspan
-         x="171.91699"
-         y="150.92383"
-         id="tspan5786">Non-breeder
+         x="173.81317"
+         y="151.32558"
+         id="tspan7">Non-breeder
 </tspan><tspan
-         x="189.25293"
-         y="170.92383"
-         id="tspan5788">reactors</tspan></text>
+         x="191.22916"
+         y="171.32558"
+         id="tspan8">reactors</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,12.357969,-14.65644)"
@@ -342,13 +453,13 @@
        style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect3638-01)"
        x="67.027344"
        y="0"><tspan
-         x="169.95215"
-         y="150.92383"
-         id="tspan5790">No recycling 
+         x="173.58917"
+         y="151.32558"
+         id="tspan9">No recycling 
 </tspan><tspan
-         x="153.6748"
-         y="170.92383"
-         id="tspan5792">(Open fuel cycle)</tspan></text>
+         x="159.88519"
+         y="171.32558"
+         id="tspan10">(Open fuel cycle)</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,79.771608,-13.43148)"
@@ -356,13 +467,13 @@
        style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect3638-6)"
        x="72.53125"
        y="0"><tspan
-         x="183.83105"
-         y="150.92383"
-         id="tspan5794">Recycling
+         x="186.83717"
+         y="151.32558"
+         id="tspan11">Recycling
 </tspan><tspan
-         x="148.1709"
-         y="170.92383"
-         id="tspan5796">(Closed fuel cycle)</tspan></text>
+         x="155.2852"
+         y="171.32558"
+         id="tspan12">(Closed fuel cycle)</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.106937"
        id="rect14561"
@@ -412,11 +523,12 @@
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.0908662"
        id="rect14561-7-4"
-       width="55.060162"
+       width="52.268108"
        height="8.8741951"
        x="54.11731"
        y="67.266029"
-       ry="2.0796993" />
+       ry="2.0796993"
+       rx="2.0796993" />
     <text
        xml:space="preserve"
        id="text15773-4-6"
@@ -448,28 +560,86 @@
          id="text15773-7"
          style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15775-2)"><tspan
            x="179.01367"
-           y="338.95117"
-           id="tspan5798">French LWRs</tspan></text>
+           y="339.35292"
+           id="tspan13">French LWRs</tspan></text>
     </g>
     <g
-       id="g109914"
-       transform="translate(7.7596097,5.1410996)">
+       id="g1"
+       transform="translate(-8.9634848,-4.6352602)">
       <rect
-         style="fill:none;stroke:#000000;stroke-width:0.0472984"
+         style="fill:none;stroke:#000000;stroke-width:0.0472985"
          id="rect14561-0-0"
-         width="14.92236"
-         height="8.8717222"
-         x="130.87602"
-         y="106.50631"
-         ry="2.0791199" />
+         width="43.925549"
+         height="13.506983"
+         x="128.34796"
+         y="101.56315"
+         ry="2.0791199"
+         rx="2.0791199" />
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,86.153949,22.802332)"
+         transform="matrix(0.26458333,0,0,0.26458333,81.552864,17.471177)"
          id="text15773-7-5"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15775-2-9)"><tspan
-           x="179.01367"
-           y="338.95117"
-           id="tspan5800">SFRs</tspan></text>
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9)"
+         x="55.615967"
+         y="0"><tspan
+           x="183.82434"
+           y="339.35292"
+           id="tspan14">Liquid metal-cooled  </tspan><tspan
+           x="197.36034"
+           y="359.35292"
+           id="tspan15">breeder reactors</tspan></text>
+    </g>
+    <g
+       id="g1-7"
+       transform="translate(-8.9634848,13.571101)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0472985"
+         id="rect14561-0-0-09"
+         width="43.925549"
+         height="13.506983"
+         x="128.34796"
+         y="101.56315"
+         ry="2.0791199"
+         rx="2.0791199" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,81.552864,17.471177)"
+         id="text15773-7-5-36"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-1);display:inline"
+         x="55.615967"
+         y="0"><tspan
+           x="186.47234"
+           y="339.35292"
+           id="tspan16">Gas-cooled breeder </tspan><tspan
+           x="229.26431"
+           y="359.35292"
+           id="tspan17">reactors</tspan></text>
+    </g>
+    <g
+       id="g2"
+       transform="translate(-4.9725123,16.824278)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0472985"
+         id="rect14561-0-0-75"
+         width="46.232025"
+         height="13.506983"
+         x="123.20375"
+         y="133.72923"
+         ry="2.0791199"
+         rx="2.0791199" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,77.300485,49.637257)"
+         id="text15773-7-5-3"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-3);display:inline"
+         x="55.615967"
+         y="0"><tspan
+           x="185.8123"
+           y="339.35292"
+           id="tspan18">Light-water breeder </tspan><tspan
+           x="229.93228"
+           y="359.35292"
+           id="tspan19">reactors</tspan></text>
     </g>
     <g
        id="g109928"
@@ -489,12 +659,12 @@
          style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-4)"
          x="60.675781"
          y="0"><tspan
-           x="182.52051"
-           y="338.95117"
-           id="tspan5802">Traveling wave </tspan><tspan
-           x="209.49316"
-           y="358.95117"
-           id="tspan5804">reactors</tspan></text>
+           x="186.63741"
+           y="339.35292"
+           id="tspan20">Traveling wave </tspan><tspan
+           x="211.46939"
+           y="359.35292"
+           id="tspan21">reactors</tspan></text>
     </g>
     <g
        id="g109923"
@@ -514,9 +684,9 @@
          style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-4-0)"
          x="60.675781"
          y="0"><tspan
-           x="209.60254"
-           y="338.95117"
-           id="tspan5806">CANDLE</tspan></text>
+           x="211.58939"
+           y="339.35292"
+           id="tspan22">CANDLE</tspan></text>
     </g>
     <g
        id="g109933"
@@ -536,32 +706,38 @@
          style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-4-3)"
          x="45.183594"
          y="0"><tspan
-           x="211.02832"
-           y="338.95117"
-           id="tspan5808">Fast mixed-</tspan><tspan
-           x="183.81348"
-           y="358.95117"
-           id="tspan5810">spectrum reactors</tspan></text>
+           x="213.97215"
+           y="339.35292"
+           id="tspan23">Fast mixed-</tspan><tspan
+           x="188.38815"
+           y="359.35292"
+           id="tspan24">spectrum reactors</tspan></text>
     </g>
     <g
        id="g109919"
-       transform="translate(3.690515,5.1410996)">
+       transform="translate(-2.591878,16.729922)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.073786"
          id="rect14561-0-0-7"
-         width="36.424316"
-         height="8.8452339"
-         x="124.84608"
-         y="120.67914"
-         ry="2.0729127" />
+         width="46.665977"
+         height="12.487035"
+         x="120.60614"
+         y="116.62393"
+         ry="2.0729127"
+         rx="2.0729127" />
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,80.596415,36.999124)"
+         transform="matrix(0.26458333,0,0,0.26458333,74.997626,32.021989)"
          id="text15773-7-5-7"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15775-2-9-6)"><tspan
-           x="179.01367"
-           y="338.95117"
-           id="tspan5812">Thorium MSRs</tspan></text>
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15775-2-9-6)"
+         x="60.527985"
+         y="0"><tspan
+           x="186.72636"
+           y="339.35292"
+           id="tspan25">Molten salt breeder </tspan><tspan
+           x="229.63834"
+           y="359.35292"
+           id="tspan26">reactors</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#008000;stroke-width:0.728;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker74206);marker-end:url(#TriangleOutM)"
@@ -581,5 +757,122 @@
        style="fill:none;stroke:#000000;stroke-width:1.24883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 47.074814,23.031067 V 167.01135"
        id="path972-1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.974139,19.204038)"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);opacity:1;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan27">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.265307,23.827789)"
+       id="text4-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-6);display:inline;fill:#803300;stroke:none;stroke-width:5.27244"><tspan
+         x="582.19208"
+         y="316.92519"
+         id="tspan28">Th</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.974139,36.997704)"
+       id="text4-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-1);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan29">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.265307,41.621455)"
+       id="text4-6-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-6-8);display:inline;fill:#803300;stroke:none;stroke-width:5.27244"><tspan
+         x="582.19208"
+         y="316.92519"
+         id="tspan30">Th</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.974139,54.52862)"
+       id="text4-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-0);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan31">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.265307,59.152371)"
+       id="text4-6-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-6-2);display:inline;fill:#803300;stroke:none;stroke-width:5.27244"><tspan
+         x="582.19208"
+         y="316.92519"
+         id="tspan32">Th</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.974139,72.099798)"
+       id="text4-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-2);display:inline;fill:#008000;stroke:none;stroke-width:5.27244" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.265307,76.723549)"
+       id="text4-6-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-6-89);display:inline;fill:#803300;stroke:none;stroke-width:5.27244"><tspan
+         x="582.19208"
+         y="316.92519"
+         id="tspan33">Th</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,18.311021,-10.59006)"
+       id="text4-94"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan34">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.9020594,-32.531709)"
+       id="text4-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-8);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan35">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-49.817673,-32.432111)"
+       id="text4-63"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-61);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan36">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-48.111807,-10.79864)"
+       id="text4-55"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-06);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan37">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-52.348471,29.12862)"
+       id="text4-56"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-7);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan38">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-52.348471,45.00362)"
+       id="text4-52"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-37);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan39">U</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-52.348471,62.951694)"
+       id="text4-4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-4);display:inline;fill:#008000;stroke:none;stroke-width:5.27244"><tspan
+         x="586.03207"
+         y="316.92519"
+         id="tspan40">U</tspan></text>
   </g>
 </svg>
