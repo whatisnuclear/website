@@ -18,7 +18,5 @@ dist/css/joplin.css
 assets/crbrp
 vendor*
 node_modules
-package-lock.json
-package.json
 .vscode
 .claude

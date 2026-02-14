@@ -50,7 +50,7 @@ Now cut the sorted dates off the list (hacky)
 
 <h2 id="{{person.name|slugify}}" class="mb-0">{{ person.name }} <a href="#{{person.name|slugify}}">&#167;</a></h2>
 {%- if person.title %}
-<h6>{{ person.title }}</h6>
+<p class="h6">{{ person.title }}</p>
 {%- endif -%}
 {%- if person.img -%}
 <img src="/img/quotes/{{person.img}}" style="max-height:150px;" class="img img-fluid

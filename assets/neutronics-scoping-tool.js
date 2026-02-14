@@ -125,7 +125,7 @@ const warnSubcrit = document.getElementById("warning-subcrit");
 const label = document.getElementById("warning-label");
 const warnHighBu = document.getElementById("warning-high-bu");
 const warnImpBu = document.getElementById("warning-imp-bu");
-const save = document.getElementById('save');
+const save = document.getElementById("save");
 
 let p_non_leakage;
 let p_leakage;
@@ -136,7 +136,6 @@ let thermalEfficiency = 0.33;
 let capacityFactor = 0.92;
 const hoursPerYear = 365.25 * 24;
 let keffs = [];
-
 
 // Initial scatter plot
 export function updatePlot(radius, height, enrich) {
@@ -160,11 +159,14 @@ export function updatePlot(radius, height, enrich) {
     // use user input for cycle length
     crossYear = parseFloat(cycleSlider.value);
   }
-  if ((crossYear && crossYear > timeYr[timeYr.length - 1]) || !cycleSlider.disabled) {
+  if (
+    (crossYear && crossYear > timeYr[timeYr.length - 1]) ||
+    !cycleSlider.disabled
+  ) {
     timeYr.push(crossYear);
     keffs.push(1.0);
   }
-  cycleVal.textContent = `${crossYear.toFixed(2)} yr`
+  cycleVal.textContent = `${crossYear.toFixed(2)} yr`;
   cycleSlider.value = crossYear;
   const trace = {
     x: timeYr,
@@ -251,7 +253,6 @@ function updateCylinderAndPlot() {
     2 * Math.PI * (radius + shieldThickness) ** 2 * shieldThickness;
   let shieldMassMT = (shieldVolume * 4.0) / 1e6; // high density concrete @ 4 g/cc
 
-
   // convert to kg for economics calc
   let feed_factor = getFeedFactor(enrich, 0.25, 0.711);
   let swu_factor = getSwuFactor(enrich, 0.25, 0.711, feed_factor);
@@ -271,23 +272,32 @@ function updateCylinderAndPlot() {
   // so we get a full year of generation)
   let lifetimeInYears = Math.floor(Math.ceil(60 / crossYear) * crossYear);
 
-  let electricityMWhPerYear = powerMWt * thermalEfficiency * capacityFactor * hoursPerYear
+  let electricityMWhPerYear =
+    powerMWt * thermalEfficiency * capacityFactor * hoursPerYear;
 
-  let lcoe = computeFuelLCOE(costs["sum"], costs["sum"], crossYear, electricityMWhPerYear, 0.08, lifetimeInYears);
+  let lcoe = computeFuelLCOE(
+    costs["sum"],
+    costs["sum"],
+    crossYear,
+    electricityMWhPerYear,
+    0.08,
+    lifetimeInYears,
+  );
 
-  swing = (keffs[0] - keffs[keffs.length - 1]) / keffs[keffs.length - 1] * 100;
+  swing =
+    ((keffs[0] - keffs[keffs.length - 1]) / keffs[keffs.length - 1]) * 100;
   burnupAvg = (((crossYear * powerMWt) / fuelMT) * 365.25) / 1000;
   burnupPeak = burnupAvg * peakingFactor;
 
   // update output UI
   outLeakage.textContent = `${leakage.toFixed(2)}%`;
   outMigration.textContent = `${migrationLength.toFixed(2)} cm`;
-  outPower.textContent = `${powerMWt.toFixed(2)} MWt | ${(powerMWt*thermalEfficiency).toFixed(2)} MWe`;
-  outFuel.textContent = `${fuelMT.toFixed(2)} MTHM | ${(1000*fuelMT/powerMWt/thermalEfficiency).toFixed(2)} kgHM/MWe`;
-  outFissile.textContent = `${fissileMT.toFixed(2)} MT | ${(1000*fissileMT/powerMWt/thermalEfficiency).toFixed(2)} kg/MWe`;
+  outPower.textContent = `${powerMWt.toFixed(2)} MWt | ${(powerMWt * thermalEfficiency).toFixed(2)} MWe`;
+  outFuel.textContent = `${fuelMT.toFixed(2)} MTHM | ${((1000 * fuelMT) / powerMWt / thermalEfficiency).toFixed(2)} kgHM/MWe`;
+  outFissile.textContent = `${fissileMT.toFixed(2)} MT | ${((1000 * fissileMT) / powerMWt / thermalEfficiency).toFixed(2)} kg/MWe`;
   outCost.textContent = `$${(costs["sum"] / 1e6).toFixed(2)} million`;
   outLCOE.textContent = `${lcoe.toFixed(2)} $/MWh`;
-  outMining.textContent = `${(feed*1000/(electricityMWhPerYear*crossYear)).toFixed(2)} gU/MWh`;
+  outMining.textContent = `${((feed * 1000) / (electricityMWhPerYear * crossYear)).toFixed(2)} gU/MWh`;
   outTime.textContent = `${crossYear.toFixed(3)} years`;
   outBu.textContent = `${burnupAvg.toFixed(2)} (avg) | ${burnupPeak.toFixed(2)} (peak) MWd/kg`;
   outSwing.textContent = `${swing.toFixed(2)} %dk/k`;
@@ -393,7 +403,7 @@ function findCriticalCrossoverTime(times, keffs) {
   const xCross = x1 + (1.0 - y1) / slope;
   if (xCross > 0) return xCross;
   // slope may be negative, e.g. breeding SFR. just cut off at default
-  return times[times.length-1];
+  return times[times.length - 1];
 }
 
 function renderShielding(radius, height, scene) {
@@ -452,7 +462,7 @@ heightSlider.addEventListener("input", () => {
     height = 50;
     heightSlider.value = height;
   }
-  heightVal.textContent = `${height} cm`
+  heightVal.textContent = `${height} cm`;
   updateCylinderAndPlot();
   updateWarningLabel();
 });
@@ -464,7 +474,7 @@ radiusSlider.addEventListener("input", () => {
     radius = 25;
     radiusSlider.value = radius;
   }
-  radiusVal.textContent = `${radius} cm`
+  radiusVal.textContent = `${radius} cm`;
   updateCylinderAndPlot();
   updateWarningLabel();
 });
@@ -476,37 +486,37 @@ enrichSlider.addEventListener("input", () => {
     enrich = 0.711;
     //enrichSlider.value=enrich;
   }
-  enrichVal.textContent = `${enrich} %`
+  enrichVal.textContent = `${enrich} %`;
   updateCylinderAndPlot();
   updateWarningLabel();
 });
 powerSlider.addEventListener("input", () => {
   powerMult = parseFloat(powerSlider.value) / 100;
-  powerVal.textContent = `${powerSlider.value} %`
+  powerVal.textContent = `${powerSlider.value} %`;
   updateCylinderAndPlot();
   updateWarningLabel();
 });
 
 cycleSlider.addEventListener("input", () => {
   crossYear = parseFloat(cycleSlider.value);
-  cycleVal.textContent = `${crossYear} yr`
+  cycleVal.textContent = `${crossYear} yr`;
   updateCylinderAndPlot();
   updateWarningLabel();
 });
 
-cycleAuto.addEventListener('change', (event) => {
-    if (event.target.checked) {
-        cycleSlider.disabled = true;
-    } else {
-        cycleSlider.disabled = false;
-    }
-    updateCylinderAndPlot();
-    updateWarningLabel();
+cycleAuto.addEventListener("change", (event) => {
+  if (event.target.checked) {
+    cycleSlider.disabled = true;
+  } else {
+    cycleSlider.disabled = false;
+  }
+  updateCylinderAndPlot();
+  updateWarningLabel();
 });
 
-  save.addEventListener('click', (e) => {
-    copySettingsToClipboard();
-  });
+save.addEventListener("click", (e) => {
+  copySettingsToClipboard();
+});
 
 export function updateWarningLabel() {
   let heightWarning = (height - 50) / 50;
@@ -523,7 +533,7 @@ export function updateWarningLabel() {
     warnSubcrit.classList.remove("visible");
     warnSubcrit.classList.add("hidden");
   }
-  if (burnupAvg >= 200 && burnupAvg<938) {
+  if (burnupAvg >= 200 && burnupAvg < 938) {
     warnHighBu.classList.add("visible");
     warnHighBu.classList.remove("hidden");
   } else {
@@ -538,62 +548,64 @@ export function updateWarningLabel() {
     warnImpBu.classList.remove("visible");
     warnImpBu.classList.add("hidden");
   }
-
 }
 
 function copySettingsToClipboard() {
-    let params = new URLSearchParams([
-      ['height', height],
-      ['radius', radius],
-      ['enrich', enrich],
-      ['rating', powerMult],
-      ['reactor', reactorType],
-      ['cycleAuto', cycleAuto.checked],
-      ['cycle', crossYear],
-    ]);
+  let params = new URLSearchParams([
+    ["height", height],
+    ["radius", radius],
+    ["enrich", enrich],
+    ["rating", powerMult],
+    ["reactor", reactorType],
+    ["cycleAuto", cycleAuto.checked],
+    ["cycle", crossYear],
+  ]);
 
-    let text = new URL(
-      `${location.protocol + '//' + location.host + location.pathname}?${params}`,
-    );
-    navigator.clipboard.writeText(text);
-        // Show the modal
-    const modal = new bootstrap.Modal(document.getElementById('copySuccessModal'), {
-        backdrop: false // Optional: removes backdrop for a cleaner look
-    });
-    modal.show();
+  let text = new URL(
+    `${location.protocol + "//" + location.host + location.pathname}?${params}`,
+  );
+  navigator.clipboard.writeText(text);
+  // Show the modal
+  const modal = new bootstrap.Modal(
+    document.getElementById("copySuccessModal"),
+    {
+      backdrop: false, // Optional: removes backdrop for a cleaner look
+    },
+  );
+  modal.show();
 
-    // Auto-hide after 1.5 seconds
-    setTimeout(() => {
-        modal.hide();
-    }, 1500);
+  // Auto-hide after 1.5 seconds
+  setTimeout(() => {
+    modal.hide();
+  }, 1500);
+}
+
+function setInputVals() {
+  // These can all be passed in as query params
+  const input = new URLSearchParams(window.location.search);
+  let hasVals = input.get("reactor");
+  if (!hasVals) {
+    return;
   }
-
-  function setInputVals() {
-    // These can all be passed in as query params
-    const input = new URLSearchParams(window.location.search);
-    let hasVals = input.get("reactor") 
-    if (!hasVals) {
-      return
-    }
-    reactorTypeInp.value = hasVals;
-    reactorTypeInp.dispatchEvent(new Event('change'));
-    heightSlider.value = input.get('height');
-    heightSlider.dispatchEvent(new Event('input'));
-    radiusSlider.value = input.get('radius');
-    radiusSlider.dispatchEvent(new Event('input'));
-    enrichSlider.value = input.get('enrich');
-    enrichSlider.dispatchEvent(new Event('input'));
-    powerSlider.value = parseFloat(input.get('rating'))*100;
-    powerSlider.dispatchEvent(new Event('input'));
-    if (input.get('cycleAuto') == 'false') {
-      cycleAuto.checked = false;
-      cycleSlider.disabled = false;
-    }
-    cycleSlider.value = input.get('cycle');
-    cycleSlider.dispatchEvent(new Event('input'));
+  reactorTypeInp.value = hasVals;
+  reactorTypeInp.dispatchEvent(new Event("change"));
+  heightSlider.value = input.get("height");
+  heightSlider.dispatchEvent(new Event("input"));
+  radiusSlider.value = input.get("radius");
+  radiusSlider.dispatchEvent(new Event("input"));
+  enrichSlider.value = input.get("enrich");
+  enrichSlider.dispatchEvent(new Event("input"));
+  powerSlider.value = parseFloat(input.get("rating")) * 100;
+  powerSlider.dispatchEvent(new Event("input"));
+  if (input.get("cycleAuto") == "false") {
+    cycleAuto.checked = false;
+    cycleSlider.disabled = false;
   }
+  cycleSlider.value = input.get("cycle");
+  cycleSlider.dispatchEvent(new Event("input"));
+}
 
-  setInputVals();
+setInputVals();
 // Initial plot
 updatePlot(radius, height);
 

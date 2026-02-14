@@ -7,6 +7,7 @@ image: /img/dc_cook.jpg
 author: nick
 byline: true
 ---
+
 <div class="row">
 <div class="col-md-8" markdown="1">
 
@@ -19,12 +20,12 @@ projects.
 This page contains some rubrics for assessing the maturity and status
 of nuclear projects. It may be useful for:
 
-* Government and/or private investors performing due diligence on nuclear reactor vendors
-* Nuclear startup companies plotting a roadmap for their own maturity
-* Nuclear professionals choosing which nuclear company to join
-* Power customers evaluating reactor vendors
+- Government and/or private investors performing due diligence on nuclear reactor vendors
+- Nuclear startup companies plotting a roadmap for their own maturity
+- Nuclear professionals choosing which nuclear company to join
+- Power customers evaluating reactor vendors
 
-You can design a series of questions that will place any given organization in 
+You can design a series of questions that will place any given organization in
 a specific box for each row and then rank organizations by their total score.
 
 <!--If you
@@ -37,7 +38,6 @@ would like expert assistance evaluating a reactor project or company, feel free 
 
 <div class="row">
 <div markdown="1" class="col col-12">
-
 
 <table class="table table-bordered">
 <thead class="sticky-top bg-light">
@@ -89,7 +89,6 @@ Hands-on experience with core environment
 * Operates hot cell or reactor environments with >= 100,000s Curies of activity 
 </td>
 </tr>
-
 
 <tr>
 <th scope="row">Core modeling</th>
@@ -410,57 +409,52 @@ for relatively little money, and with no risk to health or the environment. You
 can tell a lot about a reactor's maturity by understanding the tools and methods
 the design team use to probe and optimize the design.
 
-
 ## Process and QA
 
 Doing the right work is one thing, but doing the work right is another!
-
-
 
 ## Supply Chain
 
 To build a nuclear plant, you need to make sure you can get all the parts you need.
 
-
 ## Legal and Regulatory Readiness
 
-Having all the treaties, licenses, and permits lined up is obviously a big part of 
+Having all the treaties, licenses, and permits lined up is obviously a big part of
 any nuclear build.
 
 ## Project Management
 
 ## Operations and Maintenance
 
-* Operators trained and licensed on your plant (maybe trained by a training simulator based on the design)
+- Operators trained and licensed on your plant (maybe trained by a training simulator based on the design)
 
 ## Typical design lifecycle stages
 
 ### Idea phase
 
-* Do hand-calcs
-* Run simple MCNP calcs and have a retired nobel prize winner review them (for clout)
-* Make PowerPoints
-* Talk big online
+- Do hand-calcs
+- Run simple MCNP calcs and have a retired nobel prize winner review them (for clout)
+- Make PowerPoints
+- Talk big online
 
 ### Pre-conceptual design
 
-During pre-conceptual design, a reactor idea is subjected to numerous trade studies to establish 
+During pre-conceptual design, a reactor idea is subjected to numerous trade studies to establish
 appropriate design solutions to the project objectives. It involves:
 
-* Building multidisciplinary analysis capabilities capable of evaluating design solutions
+- Building multidisciplinary analysis capabilities capable of evaluating design solutions
   in terms of performance and cost
-* Using the tools to figure out the optimal reactor design parameters: power, fuel type, reactor configuration,
+- Using the tools to figure out the optimal reactor design parameters: power, fuel type, reactor configuration,
   dimensions, notional interfaces between all required systems
-  * This involves multiobjective optimization, as performance and cost parameters will be conflicting
-* Performing tests on low-readiness enabling technologies (non-nuclear, or with a nuclear reactor experiment)
-  * These give information needed to properly optimize the design of the reactor product
-* Establishing hands-on familiarity with the prototypic (often non-nuclear) versions of the equipment,
+  - This involves multiobjective optimization, as performance and cost parameters will be conflicting
+- Performing tests on low-readiness enabling technologies (non-nuclear, or with a nuclear reactor experiment)
+  - These give information needed to properly optimize the design of the reactor product
+- Establishing hands-on familiarity with the prototypic (often non-nuclear) versions of the equipment,
   materials, fluids, systems called for by the design
 
-Note that if you do decide to perform a reactor experiment, you will likely need to kick off a 
+Note that if you do decide to perform a reactor experiment, you will likely need to kick off a
 smaller sub-project that goes through all these phases and then return here for the reactor
 product after you obtain the necessary information.
-
 
 ### Conceptual design
 
@@ -478,77 +472,78 @@ Projects](https://engstandards.lanl.gov/esm/general/Raines-memo-2018-5-1.df)
 
 ### Detailed design
 
-### Construction 
+### Construction
 
 ### Production design
 
 As a reactor product is built and operated, various issues and challenges will inevitably be
-encountered. The design will be adjusted slightly by the owner as equipment is swapped out 
-or adjusted during maintenance and operation. This evolving design during operation may 
+encountered. The design will be adjusted slightly by the owner as equipment is swapped out
+or adjusted during maintenance and operation. This evolving design during operation may
 be called production design. Depending on the severity of the challenges, an updated
 design may be called for for future units. This may required updating licensing documents
 and undergoing another round of design certification.
 
 ## Design Deliverables
 
-An exciting-sounding reactor concept can inspire and motivate a team and investors. 
+An exciting-sounding reactor concept can inspire and motivate a team and investors.
 It's useful to chart a path through the design activities and deliverables.
 
-Before you can build and operate a nuclear power plant, you need to design it. 
+Before you can build and operate a nuclear power plant, you need to design it.
 You will need to have:
 
-* An operational and audited nuclear quality assurance program
+- An operational and audited nuclear quality assurance program
 
-* Design basis documents proving that the design solutions you've specified will
+- Design basis documents proving that the design solutions you've specified will
   perform as expected in all anticipated operational occurrences and design basis
   accidents. Also include best-estimate confirmation that they perform reasonably
   even in beyond design basis accidents
-  * This requires a detailed list of initiating events and analysis of the event trees
+
+  - This requires a detailed list of initiating events and analysis of the event trees
     that happen based on them
-  * Large seismic events are often challenging to survive and analyze
-  * If you're using a nuclear fuel in conditions that don't have as much experimental basis,
+  - Large seismic events are often challenging to survive and analyze
+  - If you're using a nuclear fuel in conditions that don't have as much experimental basis,
     you need to perform irradiation testing and transient experiments, e.g. in TREAT
-  * If you're using specialized equipment in uncommon conditions, you need to validate its
+  - If you're using specialized equipment in uncommon conditions, you need to validate its
     performance in DBA conditions experimentally and fill in the gaps analytically
-  * It's a rich tradition to not include enough radiation shielding, leading to rework.
+  - It's a rich tradition to not include enough radiation shielding, leading to rework.
     Assume 7-9 ft. of dense concrete + multiple layers of 4"-thick lead/tungsten or equivalent for starters.
 
+- Technical specifications describing the allowable operating parameters for all equipment
 
-* Technical specifications describing the allowable operating parameters for all equipment
-
-* List of equipment needed with detailed specifications that satisfy the design
+- List of equipment needed with detailed specifications that satisfy the design
   basis, along with where you will buy it from/who will make
   it/how much it will cost
 
-* Process flow diagrams
+- Process flow diagrams
 
-* Piping and Instrument diagrams
+- Piping and Instrument diagrams
 
-* Electrical one-line diagrams
+- Electrical one-line diagrams
 
-* Location of concrete embeds
+- Location of concrete embeds
 
-* Manufacturing drawings and detailed specifications for all custom parts in the reactor informed by vendors
+- Manufacturing drawings and detailed specifications for all custom parts in the reactor informed by vendors
   in the supply chain (or your internal machinists) who have confirmed that the
   parts can be made economically and at the required scale
-  * Includes fuel. Ensure you have a pathway to get nuclear fuel enriched and fabricated
+
+  - Includes fuel. Ensure you have a pathway to get nuclear fuel enriched and fabricated
     to specification
 
-* A site and appropriate financing to build on it, and a supportive surrounding community (or no population)
+- A site and appropriate financing to build on it, and a supportive surrounding community (or no population)
 
-* Site preparation documents: what roads, train-line, transmission lines, water
-  sources, effluent pathways will you need? Where exactly will they be, how deep do you need 
+- Site preparation documents: what roads, train-line, transmission lines, water
+  sources, effluent pathways will you need? Where exactly will they be, how deep do you need
   to dig down, what capacity do the roads need to have? How will you get equipment to the site?
 
-* Licenses and permits from all active regulatory bodies in the locality of the site, including
+- Licenses and permits from all active regulatory bodies in the locality of the site, including
   international (IAEA), national (NRC, EPA), state, local, and industry (e.g. INPO).
 
-* Construction procedures describing how to build everything, and in what order. What temporary
+- Construction procedures describing how to build everything, and in what order. What temporary
   construction structures and equipment need to be installed/moved/removed, and when?
 
-* Operating procedures describing how to operate the plant
+- Operating procedures describing how to operate the plant
 
-* Operators trained and licensed on your plant (maybe trained by a training simulator based on the design)
+- Operators trained and licensed on your plant (maybe trained by a training simulator based on the design)
 
 Given all that, you are ready to build!
 
@@ -558,8 +553,5 @@ no precise definition. But some institutions, like the US DOE, have promulgated 
 does a pretty good job of listing out the activities and deliverables expected, at least in
 the Conceptual and Preliminary design phases.
 
-
-
 </div>
 </div>
-

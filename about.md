@@ -64,8 +64,8 @@ href="https://partofthething.com/nick-publickey.asc">public key</a>.
 <img src="/img/nick_bowtie_rumps_wedding.jpg" alt="Nick Touran" title="Picture of Nick Touran" >
 </a>
 <div class="media-body" markdown="1">
-<h4 class="media-heading">Nick Touran, Ph.D.</h4>
-<h5>Articles, editing, sysadmin</h5>
+<p class="h4 media-heading">Nick Touran, Ph.D.</p>
+<p class="h5">Articles, editing, sysadmin</p>
 
 I'm a nuclear engineering professional. I worked as a reactor physicist on the
 design of advanced nuclear reactors for a nuclear innovation company from
@@ -83,8 +83,8 @@ personal home page.</a>
 <img src="/img/natallia.gif" alt="Natallia" title="Natallia" width="100"/> 
 </a>
 <div class="media-body" markdown="1">
-<h4 class="media-heading">Natallia Pinchuk</h4>
-<h5>Articles</h5>
+<p class="h4 media-heading">Natallia Pinchuk</p>
+<p class="h5">Articles</p>
 I'm Natallia. I was born in Belarus. I was a nuclear engineer working in industry and now I got my
 MBA and am working in consulting. I also have a BSE and MSE in nuclear engineering. 
 </div>
@@ -95,8 +95,8 @@ MBA and am working in consulting. I also have a BSE and MSE in nuclear engineeri
 <img src="/img/brian.gif" alt="Brian Wagner" title="Brian Wagner" width="100"/> 
 </a>
 <div class="media-body" markdown="1">
-<h4 class="media-heading">Brian Wagner</h4>
-<h5>Articles</h5>
+<p class="h4 media-heading">Brian Wagner</p>
+<p class="h5">Articles</p>
 I'm Brian. I'm a nuclear engineer working in regulation. I have an MSE in nuclear engineering.
 </div>
 </div>
@@ -106,8 +106,8 @@ I'm Brian. I'm a nuclear engineer working in regulation. I have an MSE in nuclea
 
 </a>
 <div class="media-body" markdown="1">
-<h4 class="media-heading">Others</h4>
-<h5>Articles, consultation</h5>
+<p class="h4 media-heading">Others</p>
+<p class="h4">Articles, consultation</p>
 
 - Dr. Robert Petroski, Ph.D., MIT
 - Dr. Jesse Cheatham, Ph.D., Univ. of Michigan

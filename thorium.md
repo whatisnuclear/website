@@ -49,7 +49,7 @@ in the not-too-distant future...
 something unbelievable about Thorium, you might want to check out our <a href="{% link
 thorium-myths.md %}">Thorium Myths page</a> just to double check it.
 
-#### On this page
+<p class="h4">On this page</p>
 
 - <a href="#benefits">What are the benefits of using Thorium?</a>
 - <a href="#downsides">What are the downsides of Thorium?</a>

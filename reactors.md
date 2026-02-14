@@ -31,7 +31,7 @@ the reactor by coolant, which is most commonly just plain water. The coolant
 heats up and goes off to a turbine to spin a generator or drive shaft.
 **Nuclear reactors are just exotic heat sources.**
 
-#### On this page
+<p class="h4">On this page</p>
 
 - [Components of nuclear reactors](#components)
 - [Animated reactor system](#animated)

@@ -3,7 +3,7 @@ layout: default
 title: The Story of the Atomic Airplane
 description: >
   13 hours of first-hand interviews and presentations on the Nuclear Powered Aircraft project, including
-  a full transcript 
+  a full transcript
 image: /img/anp-doco.jpg
 author: nick
 tags: museum
@@ -15,9 +15,9 @@ byline: false
 
 In 1980s, veterans of the Aircraft Nuclear Propulsion program got together and
 recorded nearly 13 hours of presentations and interviews describing the amazing
-effort to make a nuclear-powered airplane.  The content is mostly focused on the
+effort to make a nuclear-powered airplane. The content is mostly focused on the
 Heat Transfer Reactor Experiments (HTREs) which can still be seen sitting out in
-the parking lot of the EBR-I museum in Idaho. 
+the parking lot of the EBR-I museum in Idaho.
 
 Dr. Jake Hecla, Stanton Postdoctoral Fellow at MIT, digitized this material with
 the help of John Webb. The people who saved this film and got it to Dr. Hecla
@@ -27,8 +27,6 @@ this film.
 
 This page contains a full transcript of the recordings with links to the specific
 timestamps in the films.
-
-
 
 <div class="row">
 <div class="col-6">
@@ -55,14 +53,13 @@ timestamps in the films.
 For a more 'vivid' view of the project, make sure to check out [this 1960 film]({% link
 _posts/2025-02-03-declassified-nuclear-powered-aircraft-progress-update-manned-flight-film.md
 %})
-we got digitized showing the actual hardware these guys are talking about: 
+we got digitized showing the actual hardware these guys are talking about:
 
 <figure>
 <div class="ratio ratio-16x9">
 {% include youtube.html id="V-8q8INxQEY" title="Aircraft Nuclear Power progress report 1956-1958 film" %}
 </div>
 </figure>
-
 
 ## 1 Intro
 
@@ -80,7 +77,7 @@ we got digitized showing the actual hardware these guys are talking about:
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=qjQqI1XoIXQ&t=423">07:03</a></div><div class="col-8">Air inlets to the engines are located at the base of the wings. J-75s are mounted in pods and are used for takeoff only in the event of a loss of an engine. The hangar to house this aircraft and provide the remote maintenance was constructed in Idaho by April of 1961 when the Aircraft Nuclear Propulsion Program</div></div>
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=qjQqI1XoIXQ&t=453">07:33</a></div><div class="col-8">was cancelled.</div></div>
 
-## 2.1 Background 
+## 2.1 Background
 
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=qjQqI1XoIXQ&t=905">15:05</a></div><div class="col-8">The temperature reached 108 degrees in the afternoon in Mindanao. But lo and behold, we were issued new rifles, OD winter clothes, and OD blankets, as well as other equipment. Rumors were flying that the Japanese islands were next. Meanwhile, on the 6th of August, several people</div></div>
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=qjQqI1XoIXQ&t=932">15:32</a></div><div class="col-8">were loading the bomb into the Enola Gay's bomb bay. One of these men was Gunner Thornton. Gunner, whom we have with us fortunately today, will you describe that short film? The first minor correction was on the 5th of August because the bomber took off quite early in the morning on the 6th of August and everything had to be ready naturally on the 5th.</div></div>
@@ -183,7 +180,7 @@ we got digitized showing the actual hardware these guys are talking about:
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=qjQqI1XoIXQ&t=3712">61:52</a></div><div class="col-8">And the post-war development of those things. Okay, so that was the motivation that existed at the time of the NEPA project, and as summarized in the NEPA final report, and it's interesting that they make a point of that this could be the combination of nuclear energy propulsion in addition to atomic...</div></div>
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=qjQqI1XoIXQ&t=3739">62:19</a></div><div class="col-8">bombs could be the dominant factor in maintaining world peace, which is the point brought up in 1914 in the book by H.G. Wells.</div></div>
 
-## 2.2 R-1 Reactor 
+## 2.2 R-1 Reactor
 
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=qjQqI1XoIXQ&t=3775">62:55</a></div><div class="col-8">the Joint Chiefs of Staff endorsed the military necessity of a nuclear-powered aircraft. The Air Force, therefore, scheduled the flying testbed to prove the concept. In March of 51, the Air Force awarded GE a contract to develop a nuclear turbojet engine. By June, the AEC also contracted with GE to develop the nuclear reactor. After several months of study,</div></div>
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=qjQqI1XoIXQ&t=3803">63:23</a></div><div class="col-8">GE chose the direct air cycle concept using an air-cooled reactor with metallic fuel elements. Water was to be both moderator and structural coolant. The resulting GE power plant, the P-1, was to be test flown in a B-36H modified by Convair. Initial ground tests of the P-1 was scheduled for 1954 in Idaho. The test bed aircraft designated the X-6</div></div>

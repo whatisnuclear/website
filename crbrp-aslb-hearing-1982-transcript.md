@@ -18,7 +18,6 @@ byline: false
 <figcaption>The meeting</figcaption>
 </figure>
 
-
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=M_iDF5RlFL8&t=0">00:00</a></div><div class="col-8">Same for the sentence in the middle of the second paragraph, which states that additional sensitivity analyses have shown that containment temperatures and pressure margins would accommodate a wide range of material releases to containment in excess of those predicted from realistic assessment.</div></div>
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=M_iDF5RlFL8&t=19">00:19</a></div><div class="col-8">Part of that information is contained in the documents that you referred to.</div></div>
 <div class="row"><div class="col-2 timestamp font-monospace small text-danger"><a href="https://www.youtube.com/watch?v=M_iDF5RlFL8&t=25">00:25</a></div><div class="col-8">And are you relying upon the analyses in those documents for that conclusion?</div></div>
@@ -438,7 +437,7 @@ byline: false
 
 ## See Also
 
-* [CRBRP films]({% link _posts/2025-05-02-clinch-river-breeder-films.md %})
+- [CRBRP films]({% link _posts/2025-05-02-clinch-river-breeder-films.md %})
 - [The rest of our Digital Museum]({% link museum.md %})
 - [Old Videos page]({% link old-videos.md %})
 

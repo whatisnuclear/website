@@ -1,43 +1,45 @@
-{%- if page.byline -%} 
-<div class="d-flex align-items-center mb-3">
-  {% if site.data.authors[page.author].picture %}  
-  <img src="{{ site.data.authors[page.author].picture }}" 
-       alt="{{ page.author }}" 
-       class="rounded-circle me-2" 
-       style="width: 40px; height: 40px; object-fit: cover; border: 1px solid #dee2e6;">
-  {% endif %}
-  <p class="mb-0 text-muted">
-    <em>
-      {%- assign has_prev = false -%}
-      {% if page.author %}
-        By
-        {% if site.data.authors[page.author] %}
-          {{ site.data.authors[page.author].display -}}
-        {% else %}
-          {{ page.author -}}
+{%- if page.byline -%}
+  <div class="d-flex align-items-center mb-3">
+    {% if site.data.authors[page.author].picture %}
+      <img
+        src="{{ site.data.authors[page.author].picture }}"
+        alt="{{ page.author }}"
+        class="rounded-circle me-2"
+        style="width: 40px; height: 40px; object-fit: cover; border: 1px solid #dee2e6;"
+      >
+    {% endif %}
+    <p class="mb-0 text-muted">
+      <em>
+        {%- assign has_prev = false -%}
+        {% if page.author %}
+          By
+          {% if site.data.authors[page.author] %}
+            {{ site.data.authors[page.author].display -}}
+          {% else %}
+            {{ page.author -}}
+          {%- endif -%}
+          {%- assign has_prev = true -%}
         {%- endif -%}
-        {%- assign has_prev = true -%}
-      {%- endif -%}
-      {% if page.date -%}
-        {%- if has_prev -%}, {% endif -%}
-        {{- page.date | date: '%Y-%m-%d' -}}
-        {%- assign has_prev = true -%}
-      {%- endif -%}
-      {% if page.byline_extra -%}
-        {%- if has_prev -%}, {% endif -%}
-        {{- page.byline_extra -}}
-        {%- assign has_prev = true -%}
-      {%- endif -%}
-      {% if page.last_modified_at -%}
-        {%- if has_prev -%}, {% endif -%}
-        Updated {{ page.last_modified_at | date: '%Y-%m-%d' -}}
-        {%- assign has_prev = true -%}
-      {%- endif -%}
-      {% if page.reading_time -%}
-        {%- if has_prev -%}, {% endif -%}
-        Reading time: {{ page.content | reading_time_as_i }}
-      {% endif %}
-    </em>
-  </p>
-</div>
+        {% if page.date -%}
+          {%- if has_prev -%}, {% endif -%}
+          {{- page.date | date: '%Y-%m-%d' -}}
+          {%- assign has_prev = true -%}
+        {%- endif -%}
+        {% if page.byline_extra -%}
+          {%- if has_prev -%}, {% endif -%}
+          {{- page.byline_extra -}}
+          {%- assign has_prev = true -%}
+        {%- endif -%}
+        {% if page.last_modified_at -%}
+          {%- if has_prev -%}, {% endif -%}
+          Updated {{ page.last_modified_at | date: '%Y-%m-%d' -}}
+          {%- assign has_prev = true -%}
+        {%- endif -%}
+        {% if page.reading_time -%}
+          {%- if has_prev -%}, {% endif -%}
+          Reading time: {{ page.content | reading_time_as_i }}
+        {% endif %}
+      </em>
+    </p>
+  </div>
 {%- endif -%}

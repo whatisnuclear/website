@@ -44,7 +44,6 @@ reflectors and beryllium control drums, each with a 116° strip of boron
 absorber. They had LiH and stainless steel radiation shielding. The reactors
 consumed 0.5 g of Cesium per day.
 
-
 <figure class="float-end w-25">
 <a href="/img/posts/topaz/topaz04.jpg">
 <img src="/img/posts/topaz/topaz04_sm.jpg" alt="The TOPAZ-II Thermionic Fuel Element details" class="w-100">
@@ -60,7 +59,6 @@ followed. At one, a model of the reactor was brought along and displayed.
 In a true show of bureaucratic absurdity, when the Soviets tried to take their
 conference model back out of the USA, the NRC banned it, saying that it would be
 an export. This was back when the NRC was a true pain.
-
 
 <figure class="text-start">
 <blockquote class="blockquote">
@@ -115,15 +113,14 @@ I wonder if we can dust these off and fly them now!?
 <figcaption>From <a href="https://ntrs.nasa.gov/api/citations/20140016877/downloads/20140016877.pdf">Houts</a></figcaption>
 </figure>
 
-## References 
+## References
 
-* Voss, [TOPAZ 2 system description](https://www.researchgate.net/publication/234197135_TOPAZ_2_system_description)
-* Dabrowski, [US-Russian Cooperation in Science and Technology A Case Study of the TOPAZ Space-Based Nuclear Reactor International Program](https://www.researchgate.net/publication/266516447_US-Russian_Cooperation_in_Science_and_Technology_A_Case_Study_of_the_TOPAZ_Space-Based_Nuclear_Reactor_International_Program)
-* Houts, [Thermionic Programs of the Early 1990s – TFEVP and Topaz International Program](https://ntrs.nasa.gov/api/citations/20140016877/downloads/20140016877.pdf)
-* Schmidt, [THERMIONIC SYSTEM EVALUATION TEST: YA-21U.  SYSTEM TOPAZ INTERNATIONAL PROGRAM](https://apps.dtic.mil/sti/tr/pdf/ADB222940.pdf)
+- Voss, [TOPAZ 2 system description](https://www.researchgate.net/publication/234197135_TOPAZ_2_system_description)
+- Dabrowski, [US-Russian Cooperation in Science and Technology A Case Study of the TOPAZ Space-Based Nuclear Reactor International Program](https://www.researchgate.net/publication/266516447_US-Russian_Cooperation_in_Science_and_Technology_A_Case_Study_of_the_TOPAZ_Space-Based_Nuclear_Reactor_International_Program)
+- Houts, [Thermionic Programs of the Early 1990s – TFEVP and Topaz International Program](https://ntrs.nasa.gov/api/citations/20140016877/downloads/20140016877.pdf)
+- Schmidt, [THERMIONIC SYSTEM EVALUATION TEST: YA-21U. SYSTEM TOPAZ INTERNATIONAL PROGRAM](https://apps.dtic.mil/sti/tr/pdf/ADB222940.pdf)
 
 Big thanks to Jona Blocker who brought the TOPAZ-II story to my attention!
-
 
 ## See Also
 

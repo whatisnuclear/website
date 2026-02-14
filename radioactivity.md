@@ -82,37 +82,37 @@ showing radioactive doses"/>
 <figcaption class="figure-caption">Sources of radiation for average people in the USA (from <a href="https://www.epa.gov/radiation/radiation-sources-and-doses">the EPA</a>)</figcaption>
 </figure>
 
-### Natural radiation
+## Natural radiation
 
 About half of our daily dose comes from completely natural sources.
 
-#### Radon gas
+### Radon gas
 
 This natural occurring gas comes from soil and is found throughout the world. It emits alpha
 particles, and can therefore damage DNA and lead to cancer if inhaled. The EPA recommends
 you check your house for radon gas.
 
-#### Cosmic rays
+### Cosmic rays
 
 Cosmic rays are energetic particles that originate outside of earth, in the sun, distant stars,
 galaxies, and supernovae. Most of these are protons. The atmosphere shields us from most
 cosmic rays, but during air travel, one will accumulate much higher dose. Don't
 believe it? Check out our [Radiation on Flights]({% link radiation-on-flights.md %}) page.
 
-### "Man-made" radiation
+## "Man-made" radiation
 
 The rest comes from synthetic radiation, which mostly comes from medical procedures.
 Nuclear power dose to the public is included in the 'Industrial' sliver in the figure
 above, representing <0.2% of our total dose.
 
-#### Medical procedures
+### Medical procedures
 
 The vast majority of our man-made radiation is from medical procedures. Ionizing
 radiation is used to see into the body to help doctors figure out what to do.
 In some cases, strong focused beams of radiation are used to kill certain
 out-of-control cancer cells that cannot safely be excised by surgery.
 
-#### Coal-burning power plants
+### Coal-burning power plants
 
 Coal is an impure fuel, and it usually contains 1.3 ppm of uranium and 3.4 ppm
 of thorium (not to mention arsenic, mercury, and sulfur). When coal burns, these
@@ -120,14 +120,14 @@ isotopes are emitted into the atmosphere, where they enter our ecosystem. This
 leads to the astounding fact that the population effective dose equivalent from
 coal plants is 100 times that from nuclear plants.
 
-#### Nuclear weapon detonations
+### Nuclear weapon detonations
 
 The hundreds of atmospheric nuclear weapons tests that occurred before they were
 banned by the 1963 Limited Test Ban Treaty left long-lived radioisotopes in the
 atmosphere. Some of these are still in the atmosphere and account for a tiny
 fraction of our daily dose.
 
-#### Smoke detectors
+### Smoke detectors
 
 <div class="float-end"> 
 <img class="img-thumbnail" src="/img/smoke_detector.png" style="width:120px;" alt="A smoke detector." title="A smoke detector." />
@@ -144,7 +144,7 @@ There are several types of particles or waves that may shoot out of a
 radioactive nucleus. Alpha particles, beta particles, gamma rays, and neutrons
 are the most common forms of ionizing (i.e. dangerous) radiation.
 
-### Alpha Particles
+## Alpha Particles
 
 Named _alpha_ because they were the first to be discovered, these particles are made up of 2 protons
 and 2 neutrons: the helium nucleus. Often, large atoms decay by emitting an energetic alpha particle.
@@ -153,7 +153,7 @@ matter very well. A thin piece of paper can stop almost any alpha particle. Howe
 cause extreme damage of materials that they stop in by displacing atoms as they slow. Paper under
 sustained alpha-irradiation would degrade.
 
-### Beta Particles
+## Beta Particles
 
 Beta particles are energetic electrons that are emitted from the nucleus. They are born when a
 neutron decays to a proton. Since neutrons are neutral particles and protons are positive,
@@ -162,7 +162,7 @@ decay by converting a proton to a neutron, thus emitting a positron (an anti-ele
 particles can penetrate matter more than can alpha particles, and it takes a small aluminum plate
 to stop most beta particles.
 
-### Gamma rays
+## Gamma rays
 
 Gamma rays are photons that are emitted from the nucleus. Often an atom in an excited
 state will de-excite by emitting a gamma ray. Gamma rays are similar to light waves and

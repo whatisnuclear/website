@@ -1,12 +1,15 @@
 <div class="facts-box">
-<div class="facts-title">{{ include.data['name'] }} Facts
-  {% if include.data['abbrev'] %}({{ include.data['abbrev']}}){% endif %}
-</div>
+  <div class="facts-title">
+    {{ include.data.name }} Facts
+    {% if include.data.abbrev %}({{ include.data.abbrev }}){% endif %}
+  </div>
 
-  {% for section in include.data['sections'] %}
-  <div class="section-title">{{ section['title'] }}</div>
-  {% for fact in section['facts'] %}
-  <div class="fact-line"><span>{{ fact['name'] }}</span><span>{{ fact['val'] }}</span></div>
-  {% endfor %}
+  {% for section in include.data.sections %}
+    <div class="section-title">{{ section.title }}</div>
+    {% for fact in section.facts %}
+      <div class="fact-line">
+        <span>{{ fact.name }}</span><span>{{ fact.val }}</span>
+      </div>
+    {% endfor %}
   {% endfor %}
 </div>

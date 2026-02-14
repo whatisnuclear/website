@@ -6,8 +6,10 @@ description: Response to anti-nuclear activism
 
 <div class="row">
 <div class="col-md-8" markdown="1">
+
 # Point - Counterpoint
-### Our response to Co-op America&rsquo;s Ten Strikes Against Nuclear Power
+
+<p class="h4">Our response to Co-op America&rsquo;s Ten Strikes Against Nuclear Power</p>
 
 ## Co-op America&rsquo;s view
 

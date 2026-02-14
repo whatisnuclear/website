@@ -24,9 +24,12 @@ concepts.
 </div>
 <div class="row">
 <div class="col-md-4" markdown="1">
-### Liquid sodium metal
+
+## Liquid sodium metal
+
 Elemental sodium (Na) is a liquid metal like mercury and
 solder.
+
 <div class="thumbnail" markdown="1">
 ![Sodium metal](/img/sodium-pour.jpg){: .img-fluid }
 <div class="caption centered" markdown="1">
@@ -41,9 +44,12 @@ fast neutron reactors (i.e. SGRs and SFRs).
 </div>
 
 <div class="col-md-4" markdown="1">
-### Molten salt
+
+## Molten salt
+
 Molten salt is made of cations and anions held in ionic bonds heated up to
 flow as liquid.
+
 <div class="thumbnail" markdown="1">
 ![Molten Salt](/img/FLiBeSolidandMelted.jpg){: .img-fluid }
 <div class="caption centered" markdown="1">

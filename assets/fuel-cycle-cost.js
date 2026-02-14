@@ -43,9 +43,12 @@ function computeFuelCost(unitCosts, swu, feed_mass, uf6_mass, product_mass) {
   costs["feed"] = feed_mass * ((unitCosts["feed"] * 2.2046) / 0.847981);
   costs["conv"] = uf6_mass * unitCosts["conv"];
   costs["fab"] = product_mass * unitCosts["fab"];
-  costs["sum"] = Object.values(costs).reduce((total, value) => total + value, 0);
+  costs["sum"] = Object.values(costs).reduce(
+    (total, value) => total + value,
+    0,
+  );
 
-  return costs
+  return costs;
 }
 
 function computeReloadCost(
@@ -70,7 +73,10 @@ function computeReloadCost(
     ((feed_per_kwe * unitCosts["feed"] * 2.2046) / 0.847981) * 100;
   costs["fab"] = prod_kg_per_kwe * unitCosts["fab"] * 100;
   costs["conv"] = uf6_per_kwe * unitCosts["conv"] * 100;
-  costs["sum"] = Object.values(costs).reduce((total, value) => total + value, 0);
+  costs["sum"] = Object.values(costs).reduce(
+    (total, value) => total + value,
+    0,
+  );
 
   let reload_waste = prod_kg_per_kwe * 1000000;
   let reload_feed_mass = feed_per_kwe * 1000000;
@@ -95,21 +101,31 @@ function getSwuFactor(enrich, tails_assay, feed_assay, feed_factor) {
   return vx(enrich) - vxt - feed_factor * (vx(feed_assay) - vxt);
 }
 
-function computeFuelLCOE(initialCost, reloadCost, cycleLengthYears, generationMWhPerYear, discountRate, lifetimeInYears) {
+function computeFuelLCOE(
+  initialCost,
+  reloadCost,
+  cycleLengthYears,
+  generationMWhPerYear,
+  discountRate,
+  lifetimeInYears,
+) {
   //const happensThisYear = (freq, yr) => Math.floor((yr + 1) / freq) <= Math.floor(yr / freq);
   const numberCyclesThisYear = (cycleLength, yr) => {
     // this is just the cycle number at any given year
     if (yr == 0) {
       // start with initial costs
-      return 0
+      return 0;
     }
-    return Math.floor(yr / cycleLength) - Math.floor((yr - 1) / cycleLength)
-  }
+    return Math.floor(yr / cycleLength) - Math.floor((yr - 1) / cycleLength);
+  };
   let years = Array.from({ length: lifetimeInYears + 1 }, (x, i) => i);
   let npvFuel = years.reduce((sum, year) => {
-    let val = reloadCost / ((1 + discountRate) ** year)
-    return sum + val * numberCyclesThisYear(cycleLengthYears, year)
+    let val = reloadCost / (1 + discountRate) ** year;
+    return sum + val * numberCyclesThisYear(cycleLengthYears, year);
   }, initialCost);
-  let npvGeneration = years.reduce((sum, year) => sum + generationMWhPerYear / ((1 + discountRate) ** year), 0.0);
+  let npvGeneration = years.reduce(
+    (sum, year) => sum + generationMWhPerYear / (1 + discountRate) ** year,
+    0.0,
+  );
   return npvFuel / npvGeneration;
 }

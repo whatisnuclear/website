@@ -35,12 +35,12 @@ categories:
 <div class="row">
 <div class="col-6">
 <p class="mb-0 pb-0">According to the linear no-threshold hypothesis, you can get that dose rate for:</p>
-<h3 class="text-center my-0 py-0" id="result">?</h3> 
+<h2 class="text-center my-0 py-0" id="result">?</h2> 
 before increasing your lifetime risk of getting cancer by 1% (from 42% to 43%).
 </div>
 <div class="col-6">
 <p class="mb-0 pb-0">That is about:</p>
-<h3 class="text-center my-0 py-0" id="multiplier">?</h3> 
+<h2 class="text-center my-0 py-0" id="multiplier">?</h2> 
 the normal annual dose rate US citizens get from natural background radiation and medical treatments 
 averaged over 1 year.
 </div>

@@ -110,7 +110,7 @@ Here are the photos included in the packet.
 
 ## See Also
 
-* [CRBRP films]({% link _posts/2025-05-02-clinch-river-breeder-films.md %})
+- [CRBRP films]({% link _posts/2025-05-02-clinch-river-breeder-films.md %})
 
 </div> 
 </div>

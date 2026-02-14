@@ -121,7 +121,7 @@ temperature/high pressure water.</p>
 
 ## See Also
 
-* [Rickover memo Dunning-Kruger curve]({% link _posts/2025-06-26-nuclear-dunning-kruger.md %})
+- [Rickover memo Dunning-Kruger curve]({% link _posts/2025-06-26-nuclear-dunning-kruger.md %})
 
 </div>
 </div>

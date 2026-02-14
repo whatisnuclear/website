@@ -39,7 +39,7 @@ reactor*.
 <p>&nbsp;</p>
 
 <img alt="A fast neutron" title="A fast neutron... get it?" style="border:0;width:250px" src="img/fast_neutron.png"/>
-### On this page:
+<p class="h3">On this page:</p>
 <ul>
 <li><a href="#bigdeal">What&rsquo;s the big deal with fast reactors?</a></li>
 <li><a href="#history">Some history</a></li>

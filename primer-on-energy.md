@@ -17,21 +17,28 @@ image: /img/lifecycle-carbon-emissions-nolabel.png
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-Thanks entirely to the efforts of local climate-related organizations in Seattle, I've now spoken at
-a handful of book stores, breweries, universities, and even Town Hall on climate and energy. Last
-week, I was honored to be on one such panel at a brewery in Ballard alongside Univ. of Washington
-oceanographer LuAnne Thompson and Governor Inslee's senior climate policy advisor, Reed Schuler. My
-role was to provide background information on the human relationship with energy: what we've used in
-the past, what we're using today, and what our low-carbon options are moving forward. I touched on
-progress and challenges with intermittency, hydro, and nuclear. This post summarizes and expands
-upon these topics.
+One cool thing about nuclear is that people across the political spectrum like
+it. The more conservative/abundance people like it because it's dense, powerful
+energy that leads to national capability and might. The more
+liberal/environmentalist greens are starting to like it specifically because it
+is a very capable low-carbon source. This talk is mostly focused on getting more
+liberals to like nuclear. Thanks entirely to the efforts of local
+climate-related organizations in Seattle, I've now spoken at a handful of book
+stores, breweries, universities, and even Town Hall on climate and energy. Last
+week, I was honored to be on one such panel at a brewery in Ballard alongside
+Univ. of Washington oceanographer LuAnne Thompson and Governor Inslee's senior
+climate policy advisor, Reed Schuler. My role was to provide background
+information on the human relationship with energy: what we've used in the past,
+what we're using today, and what our low-carbon options are moving forward. I
+touched on progress and challenges with intermittency, hydro, and nuclear. This
+post summarizes and expands upon these topics.
 
 <span class="alert-success">**Update:** The event discussed has now been posted on [YouTube in full](https://www.youtube.com/watch?v=skGLqSS5ACE).</span>
 
 _NOTE: This post originally appeared [here](https://partofthething.com/thoughts/a-medium-length-primer-on-energy-greenhouse-gas-intermittency-and-nuclear/)
 and was reposted here with permission of the author._
 
-### Energy is a replacement for the labor of human beings
+## Energy is a replacement for the labor of human beings
 
 The first part of my talk was easy. I threw up my favorite slides demonstrating how energy improves
 quality of life by replacing human labor. Between construction, farming, heating, water, laundry,
@@ -59,7 +66,8 @@ is proportional to population. The key point is that as the dots with &lt;0.7 HD
 they're going to need more energy. Source HDI data from http://hdr.undp.org/en</figcaption>
 </figure>
 
-<h3>A fossil-fueled modernity</h3>
+## A fossil-fueled modernity
+
 So, what energy sources have we been using? In the olden days, it was all human power plus some
 hard-working horses, oxen, and donkeys (the concept of a "tread-mill" did not start as an exercise
 machine). Then hydro-power got big as some really powerful water-wheels were used for milling and
@@ -94,25 +102,30 @@ showing lots of fossil fuel being used in the USA" width="572" height="283" />
 Energy Information Administration, Monthly Energy Review</figcaption>
 </figure>
 
-I wanted to point out that fossil fuels really have increased the quality of lives and affluence of
-billions. To say this is incontrovertible, but it's such a distant and infrequently-made point in
-this area that it got a few gasps at my talk. Iron, copper, steel, railroads, global health, the
-moon landing, the internet, Katy Perry... all these depended on fossil fuels. Even Alex Epstein's
-<em>The Moral Case for Fossil Fuels </em>makes the interesting point (amidst the frustrating
-climate-change skepticism) that fossil fuels turn dangerous climates like northern Michigan in the
-winter into safe ones like a nice warm cottage with a propane furnace. It's worth at least admitting
-that we all benefit from fossil fuels.
+I wanted to point out that fossil fuels really have increased the quality of
+lives and affluence of billions. To say this is incontrovertible, but it's such
+a distant and infrequently-made point in this area that it got a few gasps at my
+talk. Iron, copper, steel, railroads, global health, the moon landing, the
+internet, Katy Perry... all these depended on fossil fuels. Even Alex Epstein's
+<em>The Moral Case for Fossil Fuels </em>makes the interesting point that fossil
+fuels turn dangerous climates like northern Michigan in the winter into safe
+ones like a nice warm cottage with a propane furnace. It's worth at least
+admitting that we all benefit from fossil fuels.
 
-Of course there's a problem: climate change. In 1988, Dr. James Hansen, then head of NASA Goddard
-Institute for Space Studies, raised the alarm to Congress that anthropogenic greenhouse gas
-emissions were causing a potentially dangerous warming of the globe. (This possibility had been
-anticipated as early as 1900). Today, the lion's share (72%) of greenhouse gases we produce come
-from energy generation. Cow farts, land use, industrial processes, and waste make up the rest. If we
-want to decarbonize, we should focus our top priorities on the energy sector. And this is in line
-with what we're doing. Dr. Thompson, the climate scientist on the panel, explained that the current
-models say we need to be at zero carbon in 2050 and then go strongly carbon negative until 2100 to
-meet the 2 °C max change by 2100 by sucking it out of the atmosphere. We didn't have time to talk
-about how much energy would be required to go that negative, but I know it's extraordinary.
+Of course there are problems: air pollution, eventual scarcity, and climate
+change. In 1988, Dr. James Hansen, then head of NASA Goddard Institute for Space
+Studies, raised the alarm to Congress that anthropogenic greenhouse gas
+emissions were causing a potentially dangerous warming of the globe. (This
+possibility had been anticipated as early as 1900). Today, the lion's share
+(72%) of greenhouse gases we produce come from energy generation. Cow farts,
+land use, industrial processes, and waste make up the rest. If we want to
+decarbonize, we should focus our top priorities on the energy sector. And this
+is in line with what we're doing. Dr. Thompson, the climate scientist on the
+panel, explained that the current models say we need to be at zero carbon in
+2050 and then go strongly carbon negative until 2100 to meet the 2 °C max change
+by 2100 by sucking it out of the atmosphere. We didn't have time to talk about
+how much energy would be required to go that negative, but I know it's
+extraordinary.
 
 <figure>
 <img class="img-fluid center-block"
@@ -123,7 +136,7 @@ Global Manmade Greenhouse Gas Emissions by Sector, 2013. You can see it's mostly
 (Source: Climate Analysis Indicators Tool, World Resources Institute).</figcaption>
 </figure>
 
-### We have low-carbon energy sources
+## We have low-carbon energy sources
 
 So, what are our options? We have a lot of low-carbon energy sources. For electricity, here they
 are, in order of median CO<sub>2</sub>-eq produced per kilowatt-hour of electricity generated:
@@ -160,7 +173,8 @@ our coal and natural gas electric plants, but we also have to ramp up the electr
 a factor of 2 to cover heat and transportation. And then we might have to nearly double it again to
 pull the excess carbon out of the atmosphere for the next 50 years... Man! this sounds hard.
 
-<h2>Wind and solar and intermittency, oh my!</h2>
+## Wind and solar and intermittency, oh my!
+
 Wind and solar power are astoundingly popular. Most people don't want more offshore drilling,
 nuclear power plants, fracking, or coal mining. Wind and solar enjoy strong policy support. It's
 clear that the resulting tax credits are doing what they're supposed to be doing as we see prices of
@@ -302,7 +316,7 @@ You'll note that in these system models, the cost reaches a nearly vertical line
 approaches 40%. Enabling technologies to avoid this kind of limit can be developed, but are
 undeniably challenging and uncertain.
 
-### Hydro and pumped storage
+## Hydro and pumped storage
 
 One large-scale non-battery way to store energy is to take water at the bottom of a dam and run
 pumps to lift it back up into the reservoir when you have excess energy (i.e. when it's really sunny
@@ -336,7 +350,7 @@ correctly pointed out that hydro has other benefits like flood control and balan
 intermittency. We ended up on good terms and agreed to partner in the quest for a low-carbon future.
 I'm hoping to secure a hydro tour.
 
-### Scientific infighting in the energy source debate
+## Scientific infighting in the energy source debate
 
 There's a raging scientific debate going on on this topic. Stanford's Mark Jacobsen <a
 href="https://www.pnas.org/doi/10.1073/pnas.1510028112">published a low-cost 100% renewables plan</a> in
@@ -434,7 +448,8 @@ energy even in times of dire need like <a
 href="https://www.bloomberg.com/news/articles/2017-08-30/as-harvey-raged-workers-slept-on-cots-to-keep-nuclear-power-on">during
 Hurricane Harvey</a>.
 
-<h3>Cost</h3>
+### Cost
+
 Cost is an issue, especially in the West. <a
 href="https://www.nytimes.com/2017/03/29/business/westinghouse-toshiba-nuclear-bankruptcy.html">Westinghouse
 just went bankrupt</a> due to botched construction schedules and overruns at the new builds in the
@@ -467,7 +482,7 @@ href="https://www.world-nuclear-news.org/Articles/Russia-achieves-serial-nuclear
 world leaders in building reactors on time and budget</a>.</figcaption>
 </figure>
 
-#### **What about the waste?**
+### **What about the waste?**
 
 While this is a very common and legitimate concern, I'm unaware of anyone who has been hurt by
 commercial nuclear waste in the 60+ year history of the industry.
@@ -492,7 +507,7 @@ for bombs and then tossed hastily into leaky tanks for future generations to dea
 unrelated to the solid ceramic commercial waste forms sitting in dry casks around nuclear power
 plants. The green ooze of Simpsons/Ninja Turtles just isn't relevant to clean nuclear electricity.
 
-#### So, how is the 100% renewable dream hurting nuclear?
+### So, how is the 100% renewable dream hurting nuclear?
 
 The production and renewable tax credits are skewing electricity markets in a way that makes
 utilities want to shut down their carbon-free nuclear power plants so they can make more money. This
@@ -531,7 +546,7 @@ would out-compete fossil easily.
 
 (Note that this section is very US-focused)
 
-#### More info on nuclear
+### More info on nuclear
 
 There are lots of exciting things going on in advanced nuclear (like natural safety, minimized
 waste, cheaper fuel cycles, higher temperatures, thorium resources) but conventional nukes are
@@ -545,11 +560,14 @@ Montgomery and Thomas Graham's new book: <a
 href="https://www.amazon.com/Seeing-Light-Nuclear-Power-Century/dp/110840667X/ref=sr_1_2">Seeing the
 Light.</a>
 
-<h1>What can you do to help?</h1>
+# What can you do to help?
+
 <span class=" UFICommentActorAndBody"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span
 class="UFICommentBody _1n4g">Whenever I give a talk, usually everyone asks "what can I do to help."
 </span></span></span>People want to figure out what to do and do the right thing.
-<h3>Focus on policy that names the things that matter</h3>
+
+## Focus on policy that names the things that matter
+
 <em>Renewability</em> doesn't actually matter, but <em>sustainability</em> does. Some resources that
 renew are not sustainable (trees, biomass) while some resources that are sustainable don't
 necessarily renew (nuclear fusion). I swear that the word renewable is specifically crafted to
@@ -560,7 +578,9 @@ seawater may <a
 href="https://en.wikipedia.org/wiki/Nuclear_power_proposed_as_renewable_energy">actually be
 renewable</a>). So <strong>stop asking for 100% renewable energy and start demanding and fighting
 for 100% sustainable, carbon-free energy.</strong>
-<h3>Put a price on the problem: greenhouse gases</h3>
+
+## Put a price on the problem: greenhouse gases
+
 Greenhouse gas taxes that are somehow equitable with low-income populations (via credits?) are
 pretty much essential. Make sure you include leakage from natural gas pipelines because uncombusted
 natural gas (mostly methane) is a strong greenhouse gas and we're building out natural gas capacity
@@ -570,7 +590,9 @@ standpoint but system-wide, including leaks, it's unclear whether it's better fr
 perspective or not. In any case any increase in natural gas is not compatible with our climate
 goals. Make sure things like emissions from reservoirs, if they end up being substantial, are
 included.
-<h3>Become comfortable with nuclear</h3>
+
+## Become comfortable with nuclear
+
 Nuclear accidents are the airplane crashes of the energy industry. They're big news events, partly
 because they're so rare. In the big picture, they have hardly caused any harm relative to the rest
 of the energy system. By any scientific measure, nukes are responsible and effective happy-climate
@@ -592,7 +614,8 @@ If you're really convinced and want to get involved in nuclear outreach, check o
 href="http://www.generationatomic.org/">Generation Atomic</a>! Also, watch David Schumacher's recent
 <a href="https://www.newfiremovie.com/">film The New Fire</a> (I'm in it!).
 
-<h3>Put solar panels on your roof and switch to an electric car</h3>
+## Put solar panels on your roof and switch to an electric car
+
 We need all the carbon-free energy we can get. If you have a roof, put panels on it and use your
 electric vehicle to level out some of your load. This is going to help pick away at that 40% of our
 energy that comes from oil. Alternatively ditch your car. If you don't have a car, don't get one.
@@ -601,12 +624,14 @@ Last option: get a 60 mpg motorcycle but be safe on the road.
 By the way, electric cars plugged into a smart-grid are a pretty good way to do a certain amount of
 load shifting and intermittent backup.
 
-<h3>Rename natural gas to something more sinister</h3>
+## Rename natural gas to something more sinister
+
 Seriously. Here we are debating between carbon-free energy options while the fossil fuel natural gas
 rolls in the dough and increases worldwide. It's even considered a luxury to have natural gas
 stoves! This has to stop. Sure it's better than coal (at least for upper respiratory disease), but
 it's not good enough. It occurs to me that whoever named it was pretty sly. Possible renames to
 consider include:
+
 <ul>
  	<li>Fossil gas</li>
  	<li>Flare gas</li>
@@ -623,7 +648,8 @@ quickly, so it adds up quick.
 Consider living near your hometown and/or workplace. Employers, encourage people to work remotely
 more. Innovators: make working remotely slightly more like being at work.
 
-<h3>Make it easier to load follow with nuclear reactors</h3>
+## Make it easier to load follow with nuclear reactors
+
 Fellow reactor designers and operators: make more nuclear reactors that can load follow. You can do
 this either by co-generation (desalinate water, make hydrogen, grow food, etc. with your spare heat
 when the grid doesn't need it) or by actually ramping up and down power. I know it is possible, we
@@ -631,7 +657,8 @@ just have to make it easy and cheap. NuScale's <a
 href="https://www.researchgate.net/publication/295114246_Integrating_nuclear_and_renewables">on
 the right track!</a>
 
-<h1>Final word</h1>
+# Final word
+
 At the climate talk in Ballard, a few strongly anti-nuclear guys got up and angerly asked some
 broad-scale questions, followed by: "WHO'S PAYING YOU TO BE UP HERE SAYING THIS!?" The moderator
 looked a bit worried about how aggressive the first guy was, but I sort of expected it, and I'm used
@@ -651,7 +678,8 @@ climate change.
 (UPDATE: My friends Phil and Mark ran into some people who saw my talk on the ski slopes the other
 day and the people confirmed that I was convincing on the whole. )
 
-<h1>Acknowledgement</h1>
+# Acknowledgement
+
 Infinite thanks to <a href="http://cascadiaclimateaction.org/">Cascadia Climate Action</a> and <a
 href="https://seattlefof.org/">Seattle Friends of Fission</a> for getting me involved in climate
 outreach and all the hard work it takes to organize these events. Also thanks to all my friends who

@@ -14,7 +14,7 @@ byline: true
 Our [random reactor generator](./random) gives you a random reactor idea. It uses a few
 acronyms. This page explains them.
 
-### Coolants
+# Coolants
 
 Most coolants are self-explanatory but there are a few things worth mentioning:
 
@@ -28,7 +28,7 @@ Coolants can additionally in any phase depending on their temperature and pressu
 include solid, liquid, gas, and plasma forms of all coolants. Technically we could do this
 to moderators and fuel as well but we chose not to.
 
-### Fuels
+# Fuels
 
 The fuel forms are fairly well-known, but we used some acronyms in the type of fuel:
 
@@ -42,12 +42,12 @@ The fuel forms are fairly well-known, but we used some acronyms in the type of f
 - NU -- natural uranium; right out of the dirt
 - UNF -- Used nuclear fuel; just another blanket term for spent nuclear fuel/nuclear waste
 
-### All combinations
+# All combinations
 
 There are currently 3,855,600 different reactor concepts in the database. If you want to
 see them all printed out, download [this giant zip file](./assets/all_reactors.zip).
 
-### But why?
+# But why?
 
 This is kind of a tongue-in-cheek hat-tip to a common misconception of nuclear amateurs
 who think that a reactor idea alone is a big part of improving nuclear energy's service to
@@ -57,7 +57,7 @@ and advances in reactor design process, reactor construction, and reactor operat
 needed vastly more than new reactor concepts. We hope people will focus most efforts there
 rather than on patenting replicas or minor twists to old concepts.
 
-### See Also
+# See Also
 
 - [Teeter, C. E., Lecky, J. A., and Martens, J. H. CATALOG OF NUCLEAR REACTOR CONCEPTS.
   PART I. HOMOGENEOUS AND QUASIHOMOGENEOUS REACTORS. SECTION I. PARTICULATE-FUELED

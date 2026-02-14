@@ -36,7 +36,6 @@ The [list of not-yet-digitized
 films](#videos-not-yet-digitized-in-order-of-want) is shown below the list of
 already-digitized ones.
 
-
 We have also learned how to get not-yet-digitized ones that exist in the
 National Archives digitized. See [our YouTube channel
 here](https://www.youtube.com/@whatisnuclear/videos) and [our Digital Reactor
@@ -81,7 +80,6 @@ On this page:
 </div>
 <div class="row">
 <div class="col-md-12" markdown="1">
-
 
 # Videos that have been digitized
 

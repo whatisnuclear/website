@@ -56,7 +56,7 @@ approved domains in advance.
 
 <div class="col-md-6" markdown="1">
 
-### Social media
+## Social media
 
 You can also find us on social media.
 

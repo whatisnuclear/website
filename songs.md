@@ -15,7 +15,7 @@ slipped in anyway...
 
 <hr/>
 
-<h3>Contents</h3>
+<p class="h3">Contents</p>
 <ul>
 {% for section in site.data.songs %}
 <li>

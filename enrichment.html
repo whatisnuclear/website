@@ -626,9 +626,13 @@ categories:
 
   <h2>See Also</h2>
   <ul>
-    <li><a href="{% link neutronics-scoping-tool.md %}">Neutronics Scoping Tool</a> &mdash; More detailed physics-informed scoping</li>
+    <li>
+      <a href="{% link neutronics-scoping-tool.md %}"
+        >Neutronics Scoping Tool</a
+      >
+      &mdash; More detailed physics-informed scoping
+    </li>
   </ul>
-
 </div>
 
 <script src="https://cdn.plot.ly/plotly-2.16.1.min.js"></script>
@@ -885,7 +889,11 @@ categories:
       product_mass.value = product_mass_.toFixed(3);
     }
 
-    let [swu_, tails_mass_] = computeSWU(swu_factor, feed_mass.value, product_mass.value);
+    let [swu_, tails_mass_] = computeSWU(
+      swu_factor,
+      feed_mass.value,
+      product_mass.value,
+    );
     swu.value = swu_.toFixed(3);
     tails_mass.value = tails_mass_.toFixed(3);
 
@@ -960,7 +968,6 @@ categories:
     reload_fab_cost.value = costs['fab'].toFixed(3);
     reload_conv_cost.value = costs['conv'].toFixed(3);
 
-
     let newData = buildCostData();
     Plotly.react('plot-cost', newData, layoutCost);
   }
@@ -1029,7 +1036,7 @@ powerselect.addEventListener("change",(e)=>{
 
     if (input.get('reload') == '1') {
       output_reload.checked = true;
-    } else if (input.get('reload') =='0') {
+    } else if (input.get('reload') == '0') {
       output_initial.checked = true;
     }
   }

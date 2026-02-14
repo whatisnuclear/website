@@ -58,14 +58,13 @@ evolved a bit and continue delivering good performance.
 Dozens of other reactor programs either never made it to first demo or had their
 program closed down after the initial demos failed to impress (e.g. HRE-2,
 UHTREX, LAMPRE, ARE, superheat BWRs, etc.) What does your curve look like and
-where are you on it? 
+where are you on it?
 
 ## See Also
 
 - [The Rickover Memo]({% link rickover.md %})
 - [Our reactor history page]({% link reactor-history.md %})
 - [This as a tweet](https://x.com/whatisnuclear/status/1937870903825539454)
-
 
 </div>
 </div>

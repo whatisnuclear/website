@@ -1,0 +1,19 @@
+FROM ruby:3.2-bookworm
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+      nodejs \
+      default-jre-headless \
+      unzip \
+      curl && \
+    rm -rf /var/lib/apt/lists/*
+
+# Install gems
+COPY Gemfile Gemfile.lock ./
+RUN bundle install
+
+# Install vnu.jar
+ENV VNU_VERSION=24.10.18
+RUN curl -sL "https://github.com/validator/validator/releases/download/latest/vnu.jar.zip" -o /tmp/vnu.zip && \
+    unzip -j /tmp/vnu.zip 'vnu.jar' -d /usr/local/lib && \
+    rm /tmp/vnu.zip
