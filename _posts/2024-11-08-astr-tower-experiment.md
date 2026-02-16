@@ -33,6 +33,8 @@ online here:
 </div>
 </figure>
 
+{% include transcript.html file="ASTR_4k_edit2" %}
+
 <blockquote class="blockquote">
 {% assign vid = site.data.videos | where: "title", 'ASTR TOWER EXPERIMENT' | first %}
 <b>Catalog description: </b> {{ vid.description }}
