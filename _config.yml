@@ -9,8 +9,7 @@ github_username: whatisnuclear
 github_repo_url: https://github.com/whatisnuclear/website/blob/master/
 title_image: https://whatisnuclear.com/img/reactor_200.png
 future: true
-markdown: kramdown
-highlighter: rouge
+strict_front_matter: true
 collections:
   # posts collection is hard-coded into jekyll
   posts:

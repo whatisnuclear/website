@@ -3,7 +3,6 @@ _site
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
-_sass
 font-awesome
 .bundle
 dist/css/bootstrap*

@@ -81,8 +81,6 @@ GEM
       citeproc-ruby (~> 2.0)
       csl-styles (~> 2.0)
       jekyll (~> 4.0)
-    jekyll-seo-tag (2.8.0)
-      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-time-to-read (0.1.2)
@@ -100,10 +98,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    minima (2.5.2)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     namae (1.2.0)
       racc (~> 1.7)
     observer (0.1.2)
@@ -139,14 +133,13 @@ PLATFORMS
   x86_64-linux-gnu
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 4.4)
   jekyll-exif-data
   jekyll-feed (~> 0.6)
   jekyll-image-size (~> 1.2)
   jekyll-scholar
   jekyll-sitemap
   jekyll-time-to-read
-  minima
   tzinfo-data
   webrick
 
