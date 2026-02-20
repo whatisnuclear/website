@@ -1,4 +1,4 @@
-{%- if page.author -%}
+{%- if page.author and site.data.authors[page.author] -%}
   <div class="card bg-light border-0 shadow-sm my-5">
     <div class="card-body p-4">
       <div class="d-flex flex-column flex-md-row align-items-center">
