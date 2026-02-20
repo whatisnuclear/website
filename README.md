@@ -42,3 +42,14 @@ For linting, do:
 Then lint in your editor or with:
 
     npx prettier -w .
+
+## CI
+
+CI runs on a self-hosted Forgejo instance using a Docker-in-Docker runner. The
+`build-and-validate` job uses a custom image built from `.forgejo/Dockerfile.ci`.
+
+After modifying the Dockerfile (e.g. bumping the Ruby version or adding
+dependencies), rebuild and push the image:
+
+    docker build -t url-to-forge/whatisnuclear-ci:latest -f .forgejo/Dockerfile.ci .
+    docker push url-to-forge/whatisnuclear-ci:latest
