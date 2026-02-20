@@ -18,5 +18,5 @@ dist/css/joplin.css
 assets/crbrp
 vendor*
 node_modules
-.vscode
+.vscode/ltex.dictionary.en-US.txt
 .claude

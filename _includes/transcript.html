@@ -1,13 +1,15 @@
 <details>
-<summary>Show transcript</summary>
-<table class="transcript" style="border-collapse: collapse;">
-{% assign transcript = site.data.transcripts[include.file] %}
-{% for entry in transcript %}
-{% assign parts = entry.start | split: ":" %}
-<tr>
-<td style="vertical-align: top; padding: 1px 8px 1px 0; white-space: nowrap; color: #888; font-size: 0.85em; user-select: none;">{{ parts[1] }}:{{ parts[2] }}</td>
-<td style="vertical-align: top; padding: 1px 0;">{{ entry.text }}</td>
-</tr>
-{% endfor %}
-</table>
+  <summary>Show transcript</summary>
+  <table class="transcript" style="border-collapse: collapse;">
+    {% assign transcript = site.data.transcripts[include.file] %}
+    {% for entry in transcript %}
+      {% assign parts = entry.start | split: ':' %}
+      <tr>
+        <td style="vertical-align: top; padding: 1px 8px 1px 0; white-space: nowrap; color: #888; font-size: 0.85em; user-select: none;">
+          {{ parts[1] }}:{{ parts[2] }}
+        </td>
+        <td style="vertical-align: top; padding: 1px 0;">{{ entry.text }}</td>
+      </tr>
+    {% endfor %}
+  </table>
 </details>
