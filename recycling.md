@@ -136,7 +136,7 @@ physics. The key facts are:
 
 The net result of these facts can be summarized with a plot of eta (η), which
 is the number of neutrons released in fission per neutron absorbed in fuel. When
-eta is sufficiently higher than 2.0, you can make a breeder reactor. Thus, the options are:
+eta is sufficiently higher than 2.0, you can make a breeder reactor. Thus, some of the best options are:
 
 - Make a thorium/U-233 breeder with slow neutrons (left-hand side), or
 - Make a uranium/plutonium breeder with fast neutrons (right-hand side)
