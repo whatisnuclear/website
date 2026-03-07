@@ -84,8 +84,7 @@
         event.innerText = input.get('event') || '';
         presenter.innerText = input.get('presenter') || '';
         date.innerText = input.get('date') || now.toLocaleDateString();
-        title.innerText =
-          input.get('title') || 'Introduction to Nuclear Energy';
+        title.innerText = input.get('title') || '{{ page.title }}';
 
         if (!presenter.innerText) {
           presenterC.style.visibility = 'hidden';
