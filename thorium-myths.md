@@ -141,7 +141,7 @@ It should be noted, however, that the key advantage of Th fuel is that it allows
 with slow neutrons. This means that you can start up a Th-based breeder with
 substantially (between 3 and 10 times) less fissile material than you need to start an
 equivalent-powered fast breeder reactor. Once started, the fast breeder will make far more
-fissile material (because they make have a better breeding neutron economy), but the
+fissile material (because they have a better breeding neutron economy), but the
 amount of fissile in fast spectrum reactors is always more than in slow-neutron reactors.
 
 TL;DR: They do to start up, and U-Pu breeders like the LMFBR can do the same so it's not Thorium specific.
@@ -364,7 +364,7 @@ more of this.
   page was posted as a comment and made it to the top comment. The TIL mods then
   flagged the post as misleading and it was taken off the front. While we're happy
   to have been a part in reducing the spread of a confusing and misleading
-  causation, it's also a little sad that the excitement around Thorium and nuclear
+  narrative, it's also a little sad that the excitement around Thorium and nuclear
   had to go with it. Thorium is definitely something to be excited about. If only
   people would write sensational articles about it that are less misleading! It's
   hard to balance marketing and truth.
@@ -405,7 +405,7 @@ urania for LWBR fuel fabrication (WAPD-TM-1422)</a></li>
 </ol>
 
 **Update:** The American Nuclear Society has issued <a
-href="http://epubs.ans.org/?p=nt%3A194#n2">Nuclear Technology entitled &quot;The Reemergence of the
+href="http://epubs.ans.org/?p=nt%3A194#n2">a special issue of Nuclear Technology entitled &quot;The Reemergence of the
 Thorium Fuel Cycle&quot;</a> that is meant to &quot;provide an even-handed description of its
 inherent attributes, and identify some of the data gaps that have yet to be resolved.&quot;
 

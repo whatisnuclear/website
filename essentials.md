@@ -45,7 +45,7 @@ of people support expanding nuclear power.
 
 <div class="accordion" id="accordion">
   <div class="accordion-item">
-    <h3 class="accordion-header card-header" id="headingThree">
+    <h2 class="accordion-header card-header" id="headingThree">
       <button class="accordion-button collapsed" type="button"
               data-bs-toggle="collapse" data-bs-target="#collapseThree"
               aria-expanded="false" aria-controls="collapseThree">
@@ -127,7 +127,7 @@ of people support expanding nuclear power.
             <figcaption>
               Source: <a
               href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf">Schlomer
-              S., et.al., 2014: Annex III: Technology-specific cost and
+              S., et al., 2014: Annex III: Technology-specific cost and
               performance parameters. In: Climate Change 2014: Mitigation of
               Climate Change. Contribution of Working Group III to the 5th
               Assessment Report of the IPCC</a>. (<a
@@ -396,20 +396,21 @@ reactors.md %}) page.
 
 ## References
 
-- [International climate objectives will not be met if nuclear power is excluded, according to UNECE
-  report](https://unece.org/climate-change/press/international-climate-objectives-will-not-be-met-if-nuclear-power-excluded)
-  (2021)
-- [Nuclear Energy Makes History as Final COP28 Agreement Calls for Faster
-  Deployment](https://www.iaea.org/newscenter/news/nuclear-energy-makes-history-as-final-cop28-agreement-calls-for-faster-deployment) (2023)
-- <a href="https://doi.org/10.1021/es3051197">Kharecha and Hansen,
+1. [International Energy Agency, "Key World Energy Statistics"](https://www.iea.org/reports/key-world-energy-statistics-2020) — world primary energy consumption grew ~29% between 2000 and 2010.
+2. <a href="https://doi.org/10.1021/es3051197">Kharecha and Hansen,
   &quot;Prevented Mortality and Greenhouse Gas Emissions from Historical and
   Projected Nuclear Power,&quot;</a> <em>Environ. Sci. Technol.</em>,
   <strong>2013</strong>, 47 (9), pp 4889&ndash;4895
-- <a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf">Schlomer
-  S., et.al., 2014: Annex III: Technology-specific cost and performance
+3. [International climate objectives will not be met if nuclear power is excluded, according to UNECE
+  report](https://unece.org/climate-change/press/international-climate-objectives-will-not-be-met-if-nuclear-power-excluded)
+  (2021)
+4. [Nuclear Energy Makes History as Final COP28 Agreement Calls for Faster
+  Deployment](https://www.iaea.org/newscenter/news/nuclear-energy-makes-history-as-final-cop28-agreement-calls-for-faster-deployment) (2023)
+5. <a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf">Schlomer
+  S., et al., 2014: Annex III: Technology-specific cost and performance
   parameters. In: Climate Change 2014: Mitigation of Climate Change. Contribution
   of Working Group III to the 5th Assessment Report of the IPCC</a>
-- <a href="https://www.oecd-nea.org/ndd/reports/2011/load-following-npp.pdf">Technical
+6. <a href="https://www.oecd-nea.org/ndd/reports/2011/load-following-npp.pdf">Technical
   and Economic Aspects of Load Following with Nuclear Power Plants (OECD-NEA 2011)</a>
 
 </div>

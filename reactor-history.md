@@ -180,7 +180,7 @@ the development of naval propulsion goes without saying, but his influence on th
 commercial industry simply cannot be overstated. He was born in 1900 in a Polish ghetto,
 moved to New York at the age of 6, and then to Chicago's West Side. He entered the Naval
 Academy in 1918 and requested submarine service in 1929. He translated _Das Unterseeboot_
-from the Imperial German Navy as a labor of personal interest. In 1937, he became a
+from the Imperial German Navy as a labor of personal interest. In 1937, he became an
 Engineering Duty Only (EDO) officer, focused on the design, construction, and maintenance
 of ships. After WWII ended, he was sent to Oak Ridge to learn about nuclear technology as
 part of a team to investigate nuclear ship propulsion. He established himself as the
@@ -244,7 +244,7 @@ appropriate bearings, thin stainless steel or Inconel liners, motor winding cool
 high-pressure electrical terminal seals. A complete line of hermetically sealed,
 hydraulically operated stainless steel primary system valves was developed.
 Welding of heavy wall stainless piping was developed. Weldability and weld
-cracking as functions of material composition was found and understood. Design criteria
+cracking as functions of material composition were found and understood. Design criteria
 for auxiliary systems supporting waste disposal, coolant purification, emergency cooling,
 fuel handling, ventilation, as well as feasible engineering techniques to satisfy the
 requirements were developed.
@@ -487,7 +487,7 @@ following reactor types:
   USSR station
 - A heterogeneous heavy water-moderated, gas-cooled reactor
 - A unit with water-moderated thermal reactor and a turbine operated by slightly
-  radioactive stream fed directly from the reactor
+  radioactive steam fed directly from the reactor
 - A homogeneous heavy-water moderated thermal breeder with thorium fuel
 - A thermal graphite-moderated sodium-cooled reactor
 - A fast sodium-cooled breeder on the U-Pu fuel cycle
@@ -804,8 +804,7 @@ murder-suicide by nuclear chain reaction. (This seems very unlikely). In any cas
 cleanup ensued and the site is now barely noticeable as you drive through the Idaho
 sagebrush.
 
-Big Rock Point in Charlevoix, MI (critical on September 27, 1962) first conducted a 4.5
-years AEC research program demonstrating [high power density
+Big Rock Point in Charlevoix, MI (critical on September 27, 1962) first conducted a 4.5-year AEC research program demonstrating [high power density
 cores](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086420539&view=1up&seq=31) that had
 been tested in VBWR. Obtaining more power out of a volume would possibly allow smaller
 pressure vessels and uprates at existing plants. After the tests, the plant switched over
@@ -866,9 +865,9 @@ also allowing the reactor to run on natural or very-slightly enriched fuel.
 On the downside, many liquid metals are chemically reactive with water, air, and concrete,
 and the complications related to inerting the environment and dealing with leaks and fires
 would have to be weighed against the aforementioned benefits. Additionally, sodium becomes
-highly radioactive as it passed through a nuclear core. The combination of radioactivity
+highly radioactive as it passes through a nuclear core. The combination of radioactivity
 with chemical reactivity necessitates an additional intermediate heat transfer loop,
-especially when a metal-water steam generator is used. The extra loop comes expensive
+especially when a metal-water steam generator is used. The extra loop comes with expensive
 additional equipment: pumps, valves, instrumentation, controls, heaters, and piping.
 
 North American Aviation contributed $2.5M to the $10M cost of research, development,
@@ -882,7 +881,7 @@ attempt to approach commercial viability of a sodium-graphite reactor. It was pr
 the first round of the PDRP.
 
 The component testing and R&D in advance of Hallam operation was astounding. In spite of
-experience acquired at from the smaller SRE, Atomics International still knew they
+experience acquired from the smaller SRE, Atomics International still knew they
 needed to build much of the equipment at the larger scale in order to shake down the
 scaled-up designs. For example, they built an entire [mockup fuel handling facility and a
 full-scale fuel handling
@@ -1091,7 +1090,7 @@ Pathfinder in Sioux Falls, SD, BONUS in Rincón, Puerto Rico, and the Empire Sta
 Development Agency Vallecitos Experimental Superheat Reactor (EVESR) near San Francisco
 (which was actually an add-on reactor that you bolt to the outlet of your normal BWR).
 
-The key technical challenges for nuclear superheat has been reliable fuel elements at high
+The key technical challenges for nuclear superheat have been reliable fuel elements at high
 temperature, considering burnup, corrosion, and erosion.
 
 <div class="row">
@@ -1135,13 +1134,13 @@ The decommissioned BONUS nuclear superheat reactor in Puerto Rico [has 4.5 stars
 TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g264369-d635150-Reviews-Domes_Beach-Rincon_Puerto_Rico.html).
 The entire reactor was inside the dome (including the control room). Most of it has been
 grouted in place and entombed. Read more [from Will Davis
-here]()https://www.ans.org/news/article-1818/nuclear-energy-for-puerto-rico/.
+here](https://www.ans.org/news/article-1818/nuclear-energy-for-puerto-rico/).
 </div>
 
 ### Gas-cooled reactors
 
 Gas coolant is generally transparent to neutrons and can reach very high temperatures, but
-has generally poor heat transfer characteristics must be held and pumped at high pressure.
+has generally poor heat transfer characteristics and must be held and pumped at high pressure.
 Converting heat to electricity with a gas-cooled reactor requires fuels that can handle
 very high temperatures. Gasses that have been used to cool reactors include air (bad idea
 when graphite is involved because of potential fires, as learned at Windscale), helium
@@ -1161,7 +1160,7 @@ to support the Army's ANPP, specifically for mobile, truck-mounted reactors (ML-
 <a href="/img/gcre.jpg"><img class="img img-fluid"
 src="/img/blank.png" data-echo="/img/gcre.jpg" alt="The Gas-cooled reactor experiment"/></a> 
 <figcaption>
-The Gas-Cooled Reactor Experiment at the NTRS in 1962 
+The Gas-Cooled Reactor Experiment at the NRTS in 1962 
 (<a href="https://www.flickr.com/photos/departmentofenergy/10731010624/in/album-72157637416489424/">AEC</a>)
 </figcaption> 
 </figure>
@@ -1659,7 +1658,7 @@ A generic trend in new reactor development is:
 <div class="col-md-6" markdown="1">
 Outcomes of these activities:
 * Fundamental data (material properties, stability, etc.)
-* Knowledgable design team
+* Knowledgeable design team
 * Qualified and reliable equipment
 * Qualified equipment supply chain
 * Experienced construction team
@@ -1739,7 +1738,7 @@ in serial production to proceed.
 - Pairing new nuclear tech development with small, low-budget utility operators may not be
   a good combination.
 
-- Although it may cause old Milton Shaw to roll in his grave, Some of the reactor ideas tried in
+- Although it may cause old Milton Shaw to roll in his grave, some of the reactor ideas tried in
   the past may be worth reconsidering due to material and fuel advances since then.
 
 - The quest for economical nuclear power in commoditized markets has been worked on
@@ -1904,7 +1903,7 @@ The UNT library was also really useful for this work.
 <div class="alert alert-success" markdown="1">
 **Historical tidbits** One fascinating reference contains [a
 part](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03584627s&view=1up&seq=273) (1949)
-describing that the National Reactor Testing Station (now the INL) site was chosen.
+describing why the National Reactor Testing Station (now the INL) site was chosen.
 There's [a section from Edward Teller
 (1947](https://babel.hathitrust.org/cgi/pt?id=umn.31951d03584627s&view=1up&seq=209&size=125))
 suggesting full cooperation and encouragement of Captain Rickover and his friends in the

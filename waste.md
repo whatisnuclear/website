@@ -103,7 +103,7 @@ the stuff known commonly as *nuclear waste*.
 When a nucleus splits, most of the energy is released immediately and carried off by
 coolant to do useful work. However, energy continues to be released for thousands of years
 after the atom splits. This _afterglow heat_ is what makes nuclear waste hazardous. Unlike
-most toxic waste, the fact that nuclear waste becomes less toxic with time is quite unique.
+most toxic waste, nuclear waste becomes less toxic with time.
 
 <figure> <a href="/img/fission-energy.svg"><img
 src="/img/blank.png"
@@ -153,12 +153,12 @@ charge of the world's first man-made nuclear chain reaction), who stated:
 >
 > &mdash; Enrico Fermi
 
-Since he made that statement, we have gained more than 60 years of experience with nuclear
+Since he made that statement, we have gained more than 70 years of experience with nuclear
 power stations. So how have we done?
 
 <h2 id="current">What do we currently do with our nuclear waste?</h2>
 In practice, the spent fuel is never unshielded. It is kept underwater (water is an
-excellent shield) for 5--8 years in *spent fuel pools* until the radiation levels decay to
+excellent shield) for 5–8 years in *spent fuel pools* until the radiation levels decay to
 levels that can be cooled without water.
 
 <div class="alert alert-success" role="alert" markdown="1">
@@ -278,7 +278,7 @@ href="https://www.flickr.com/photos/departmentofenergy/7604695116">Photo by the 
 </figure>
 
 Finland is currently the world leader in long-term commercial nuclear waste disposal
-progress. Their Onkalo deep geologic repository is [expected to the be the world's first
+progress. Their Onkalo deep geologic repository is [expected to be the world's first
 commercial one to
 operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste/). They produced
 an excellent video describing the plan.
@@ -291,7 +291,7 @@ an excellent video describing the plan.
 
 A different form of geologic repository, called a deep borehole, has been proposed by
 scientists since the 1950s, and has recently gotten much more attention due to advances in
-drilling techniques. Deep boreholes involve drilling a hole about 5000 meter deep and
+drilling techniques. Deep boreholes involve drilling a hole about 5000 meters deep and
 stacking the spent fuel assemblies there before capping it off. By going ~10x deeper than
 traditional repository designs, the material is likely to be extra isolated from the
 biosphere for extra time.
@@ -331,10 +331,10 @@ The US had a recycling program featuring the use of <a href="{% link fast-reacto
 %}">advanced fast reactors</a> (which have not been deployed on any major scale yet) that
 was shut down because it created Plutonium, which could be used to make a nuclear weapon.
 Were some plutonium diverted in the recycling process, a non-nuclear entity could be one
-step close to building a bomb. However, under programs such as the (now stalled) <a
+step closer to building a bomb. However, under programs such as the (now stalled) <a
 href="https://en.wikipedia.org/wiki/International_Framework_for_Nuclear_Energy_Cooperation">GNEP
 [wikipedia]</a>, where only countries who already have nuclear weapons recycle,
-proliferation-free waste recycling can exist. Since the many of the largest energy users
+proliferation-free waste recycling can exist. Since many of the largest energy users
 are already nuclear weapons states, a massive expansion of nuclear could be done there
 with no additional proliferation concerns whatsoever.
 
@@ -409,9 +409,9 @@ If you want raw numbers: in 2018, there were just over 80,000 metric tonnes of h
 waste in the USA. Between 1971 and 2018, nuclear reactors in the USA generated 3000
 GW-years of electricity to make this waste.
 
-For comparison, in 2007 alone the US burned 948,000,000 metric tonnes of coal. This means
+For comparison, in 2007 the US burned 948,000,000 metric tonnes of coal. This means
 that coal plants made 32 times more waste **every single day** than the US nuclear fleet
-has made **in the past 45 years!** Granted, coal made a higher fraction of the country's
+has made **in the past 50+ years!** Granted, coal made a higher fraction of the country's
 electricity, but the numbers are still crazy impressive for nuclear.
 
 The astoundingly low amount of nuclear waste is thanks to the near magical energy
@@ -494,7 +494,7 @@ summarizing much of the current state of nuclear waste management
  * [GAO Disposal of Nuclear Waste page](https://www.gao.gov/nuclear-waste-disposal)
  * [Yucca Mountain Science and Engineering Report](https://www.nrc.gov/docs/ML0306/ML030640495.html) -- 900 pages of details about Yucca Mountain nuclear waste disposal site
  * [NRC Spent Fuel Storage Q&A](https://www.nrc.gov/waste/spent-fuel-storage/faqs.html)
- * [IEAE TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
+ * [IAEA TECDOC 435 -- Partitioning and Transmutation](https://www.iaea.org/publications/7112/implications-of-partitioning-and-transmutation-in-radioactive-waste-management)
  * [SOLID WASTE FROM THE OPERATION AND DECOMMISSIONING OF POWER PLANTS (ORNL/SPR-2016/774)](https://www.energy.gov/sites/prod/files/2017/01/f34/Environment%20Baseline%20Vol.%203--Solid%20Waste%20from%20the%20Operation%20and%20Decommissioning%20of%20Power%20Plants.pdf) (PDF)
  * [INTEGRATED REVIEW SERVICE FOR RADIOACTIVE WASTE AND SPENT FUEL MANAGEMENT, DECOMMISSIONING AND REMEDIATION (ARTEMIS)](https://www.iaea.org/services/review-missions/integrated-review-service-for-radioactive-waste-and-spent-fuel-management-decommissioning-and-remediation-artemis)
  * [Sandia National Lab's Nuclear Waste Management Program](https://energy.sandia.gov/programs/nuclear-waste-management/)
