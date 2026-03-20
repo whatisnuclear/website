@@ -52,7 +52,7 @@ of people support expanding nuclear power.
         <span class="fas fa-star fa-lg text-primary px-2" aria-hidden="true"></span> 
         Extreme energy density leads to minuscule pollution and mineral needs
       </button>
-    </h3>
+    </h2>
     
     <div id="collapseThree" class="accordion-collapse collapse" 
          role="region" aria-labelledby="headingThree">
