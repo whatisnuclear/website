@@ -4,7 +4,8 @@ set -euo pipefail  # fail better
 WORKING_TREE=/var/www/whatisnuclear.com/whatisnuclear-build
 PUBLIC_WWW=/var/www/whatisnuclear.com/public_html
 
-git --work-tree=$WORKING_TREE --git-dir=$WORKING_TREE/.git pull origin master
+git --work-tree=$WORKING_TREE --git-dir=$WORKING_TREE/.git fetch origin master
+git --work-tree=$WORKING_TREE --git-dir=$WORKING_TREE/.git reset --hard origin/master
 
 # have to CD into working tree b/c exif-data plugin does not respect the -s variable I guess
 cd $WORKING_TREE
