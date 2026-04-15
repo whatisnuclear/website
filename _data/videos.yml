@@ -23,6 +23,7 @@
 
 - title: ATOMS ON THE FARM
   naid: 88122
+  iaea: AVN0128
   date: 1961
   length: 12
   color: true
@@ -41,6 +42,7 @@
 
 - title: FULL SPEED AHEAD
   naid: 61220
+  iaea: AVN 0088
   date: 1958
   length: 15
   color: true
@@ -1255,6 +1257,7 @@
 
 - title: Nuclear reactors for space
   naid: 88198
+  iaea: AVN0155
   date: 1961
   length: 17
   color: true
@@ -1278,6 +1281,7 @@
 
 - title: Our nearest star
   naid: 88214
+  iaea: AVN0151
   date: 1961
   length: 12
   color: true
@@ -1293,7 +1297,7 @@
     and, when the system is launched, the view is from the blockhouse and the
     launch pad.
   priority: 4
-  notes: Potentially mis-cataloged?
+  notes: Potentially mis-cataloged? IAEA has it listed as a short version of 88198
   links:
     - name: Entry in American Archive of Public Broadcasting
       url: https://americanarchive.org/catalog/cpb-aacip_512-xs5j961d26
@@ -1338,6 +1342,7 @@
 
 - title: "POWER FOR PROPULSION"
   naid: 88222
+  iaea: AVN0314
   date: 1965
   length: 25
   color: true
@@ -2730,10 +2735,10 @@
 
 - title: Advanced Test Reactor
   naid:
-  iaea:
+  iaea: AVN0279
   date:
-  length:
-  color:
+  length: 9 mins
+  color: true
   priority: 2
   description: >
     This film shows precisely how the AEC's 250-Mwt Advanced Test Reactor design
@@ -2824,7 +2829,7 @@
     This film reviews progress achieved in the Air Force aircraft nuclear
     propulsion program from 1956 to 1958.
   links:
-    - name: Digitization Annoucement and Summary
+    - name: Digitization Announcement and Summary
       url: /news/2025-02-03-declassified-nuclear-powered-aircraft-progress-update-manned-flight-film.html
     - name: On YouTube
       url: https://catalog.archives.gov/id/102045939
@@ -2877,7 +2882,7 @@
     50,000- watt solution type reactor built by Atomics International for the
     Armour Research Foundation, Chicago.
   links:
-    - name: Digitization Annoucement
+    - name: Digitization announcement
       url: /news/2025-03-06-armour-research-reactor-film-1958.html
     - name: On YouTube
       url: https://www.youtube.com/watch?v=2Y3JsQ3evcM
@@ -2897,7 +2902,7 @@
   links:
     - url: https://www.youtube.com/watch?v=P053W5LMAQ0
       name: On YouTube
-      notes: We assembed this from the IU scans
+      notes: We assembled this from the IU scans
     - url: https://media.dlib.indiana.edu/media_objects/m039kr56h/section/x920gh64t
       name: Available with split audio/video at IU
 
@@ -2970,12 +2975,12 @@
     The R&D activity, filmed at Harvard Air Cleaning Laboratory, Oak
     Ridge National Laboratory, and Edgewood Arsenal, covers iodine
     collection systems; fine aerosol reaction on filters; in-pile and out-of-
-    pile fuel meltdown studies; the production and dispersion of solid
-    aerosols in an exploding wire aerosol generator; foam tests to en-
-    capsulate radioactive materials; rare gas absorption studies; experi-
-    ments with diffusion boards as a gas and particulate removal surface;
-    cleaning of stainless steel wool filters with shock waves; and the
-    dispersal of radioactive wastes by incineration
+    pile fuel meltdown studies; the production and dispersion of solid aerosols
+    in an exploding wire aerosol generator; foam tests to encapsulate
+    radioactive materials; rare gas absorption studies; experiments with
+    diffusion boards as a gas and particulate removal surface; cleaning of
+    stainless steel wool filters with shock waves; and the dispersal of
+    radioactive wastes by incineration
 
 - title: Atom and Eve
   date: 1966
@@ -3061,6 +3066,7 @@
 
 - title: Industrial Applications of Nuclear Explosives
   naid: 88166
+  iaea: AVN0027
   length: 11
   date: 1958
   color: true
@@ -3090,10 +3096,10 @@
     reactor operations area at Convair Fort Worth Texas. 1) ALS's nuclear
     aircraft research facility. 2) LS nuclear reactor operations area. 3) MS
     reactor handling pool. 4) MCU boral box. 5) Series of charts of boral box
-    cutaway, showing: irradiation chamber, wiring outlets, fann, cooling coil,
+    cutaway, showing: irradiation chamber, wiring outlets, fan, cooling coil,
     heating elements, and insulation. 6) Chart of boral sheets. 7) MS boral box
     man walks in, picks up sample tray. 8) MCU man with sample tray. 9) CU
-    sample trays rirst, with "O" rings. 10) CU second sample tray with
+    sample trays first, with "O" rings. 10) CU second sample tray with
     honeycomb. 11) CU third sample tray with electronic tubes. 12) MS man puts
     samples in boral box. 13) LS handling pool. 14) MS work bridged showing lead
     shield. 15) MS work bridged showing lead cave and refrigeration unit. 16) MS
@@ -3125,7 +3131,7 @@
     test, chemist placing tube in viscometer and starting clock.  56) MS man at
     drafting table. Second man walks in, carrying data handbook on: Radiation
     Effects On Materials and Components. 57) MLS B-58 in flights airplane moves
-    away rrom camera. (Excellent coverage) 58) LS B-58 in flight, clouds in bg.
+    away from camera. (Excellent coverage) 58) LS B-58 in flight, clouds in bg.
     (Excellent coverage) PRODUCED BY THE MOTION PICTURE SECTION, CONVAIR-FORT
     WORTH, AND THE NUCLEAR AIRCRAFT RESEARCH FACILITY AT CONVAIR-FORT WORTH.
     Good (Basic: Mas Koda, Ng. trk.)
@@ -3239,7 +3245,7 @@
     with plutonium.
   notes: There's also a French soundtrack
 
-- title: Indistrual applications of nuclear explosives
+- title: Industrial applications of nuclear explosives
   naid: 88166
   iaea: AVN0027
   date: 1958
@@ -3743,7 +3749,7 @@
   color: true
   length: "11:24"
   catalog:
-  # slight hack b/c annoucement page has 3 vids
+  # slight hack b/c announcement page has 3 vids
   image: https://img.youtube.com/vi/6Cwkk2mMM64/mqdefault.jpg
   win: true
   resolution: 480p
@@ -3754,7 +3760,7 @@
     - url: https://www.youtube.com/watch?v=6Cwkk2mMM64
       name: On YouTube
       notes: Thanks to Ron Knief
-    - name: Digitization Annoucement and Summary
+    - name: Digitization Announcement and Summary
       url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
 
 - title: "Accident Testing"
@@ -3778,7 +3784,7 @@
     - url: https://www.youtube.com/watch?v=1LVqkhpp0wQ
       name: On YouTube
       notes: Thanks to Ron Knief
-    - name: Digitization Annoucement and Summary
+    - name: Digitization Announcement and Summary
       url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
 
 - title: "Sun of Man"
@@ -3788,7 +3794,7 @@
   color: true
   length: "57:13"
   catalog:
-  # slight hack b/c annoucement page has 3 vids
+  # slight hack b/c announcement page has 3 vids
   image: https://img.youtube.com/vi/WussAV3DKA4/mqdefault.jpg
   win: true
   resolution: 480p
@@ -3800,7 +3806,7 @@
     - url: https://www.youtube.com/watch?v=WussAV3DKA4
       name: On YouTube
       notes: Thanks to Ron Knief
-    - name: Digitization Annoucement and Summary
+    - name: Digitization Announcement and Summary
       url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
 
 - title: "Enrichment of Uranium"
