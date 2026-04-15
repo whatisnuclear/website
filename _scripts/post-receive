@@ -1,0 +1,16 @@
+#!/bin/bash
+# Script on server that deploys the repo live
+set -euo pipefail  # fail better
+WORKING_TREE=/var/www/whatisnuclear.com/whatisnuclear-build
+PUBLIC_WWW=/var/www/whatisnuclear.com/public_html
+
+git --work-tree=$WORKING_TREE --git-dir=$WORKING_TREE/.git pull origin master
+
+# have to CD into working tree b/c exif-data plugin does not respect the -s variable I guess
+cd $WORKING_TREE
+bundle config set --local path 'vendor/bundle'
+bundle config set --local frozen 'true'
+bundle install
+bundle exec jekyll build -d $PUBLIC_WWW
+echo "Deployed"
+exit
