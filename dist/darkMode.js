@@ -11,10 +11,8 @@ const getPreferredTheme = () => {
 const setTheme = (theme) => {
     document.documentElement.setAttribute('data-bs-theme', theme);
     localStorage.setItem('colorMode', theme);
-    if (theme === 'dark') {
-    colorModeSwitch.checked = true;
-    } else {
-    colorModeSwitch.checked = false;
+    if (colorModeSwitch) {
+    colorModeSwitch.checked = theme === 'dark';
     }
 };
 
@@ -22,13 +20,11 @@ const setTheme = (theme) => {
 const savedTheme = localStorage.getItem('colorMode');
 setTheme(savedTheme || getPreferredTheme());
 
-colorModeSwitch.addEventListener('change', (event) => {
-    if (event.target.checked) {
-    setTheme('dark');
-    } else {
-    setTheme('light');
-    }
-});
+if (colorModeSwitch) {
+    colorModeSwitch.addEventListener('change', (event) => {
+    setTheme(event.target.checked ? 'dark' : 'light');
+    });
+}
 
 // Listen for system changes for users who haven't set a preference
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {

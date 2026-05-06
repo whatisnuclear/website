@@ -80,35 +80,16 @@ areas on the front page. Please use responsibly.
 <button onclick="copySettingsToClipboard()">Generate your presentation!</button>
 
 <script>
-
-let event=document.getElementById("event");
-let presenter=document.getElementById('presenter')
-let date=document.getElementById('date')
-let title=document.getElementById('ptitle')
-let theme=document.getElementById('theme-select')
-
-
-function setInputVals() {
-  // These can all be passed in as query params
-  const input = new URLSearchParams(window.location.search);
-  event.value = input.get("event") || event;
-  presenter.value = input.get("presenter") || "";
-  date.value = input.get("date") || "";
-  title.value = input.get("title") || "";
-  theme.value = input.get("theme") || "";
-}
-
 function copySettingsToClipboard() {
-  let params = new URLSearchParams([
-    ["event", event.value], 
-    ["presenter", presenter.value],
-    ["date", date.value],
-    ["title", title.value],
-    ["theme", theme.value],
-  ]);
-
-  let text = new URL(`${location.protocol + '//' + location.host}` + '/slides/nuclear-overview.html' + `?${params}`);
-  window.location = text;
+  const get = (id) => document.getElementById(id).value;
+  const params = new URLSearchParams({
+    event: get('event'),
+    presenter: get('presenter'),
+    date: get('date'),
+    title: get('ptitle'),
+    theme: get('theme-select'),
+  });
+  window.location = `${location.origin}/slides/nuclear-overview.html?${params}`;
 }
 </script>
 

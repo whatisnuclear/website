@@ -2511,7 +2511,7 @@
 
 - title: Research into Controlled Fusion
   naid: 88245
-  iaea:
+  iaea: AVN0031
   date: 1958
   length: 55
   color: true
@@ -3018,6 +3018,7 @@
 
 - title: Fuel Element Burning Experiment
   naid: 88149
+  iaea: AVN0002
   date: 1959
   length: 24
   color: true
@@ -3191,7 +3192,7 @@
   format: 16mm
   description: "?"
   notes: >
-    Silent. Super early film about uranium mining in northern Canada
+    Silent.
 
 - title: Oak Ridge Research Reactor
   naid: 88203
