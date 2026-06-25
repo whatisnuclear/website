@@ -82,6 +82,17 @@ figure {
   margin-bottom: 0
 }
 
+@media (min-width: 992px) {
+  .rxtable-wrap {
+    overflow: visible;
+  }
+  .rxtable thead th {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+}
+
 .ifcontainer {
   position: relative;
   overflow: hidden;
