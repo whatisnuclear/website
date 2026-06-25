@@ -392,6 +392,7 @@ Helium
   *  [HTR-PM](https://en.wikipedia.org/wiki/HTR-PM)
   *  [AVR pebble bed](https://en.wikipedia.org/wiki/AVR_reactor)
   *  [THTR-300](https://en.wikipedia.org/wiki/THTR-300)
+  *  [HTR-PM600](https://x.com/realTZV/status/2047345116168233094)
   *  [Ward 250](https://x.com/valaratomics/status/2069097526985424974)
 * [Ultra-High Temperature Reactor Experiment (UHTREX)](https://en.wikipedia.org/wiki/UHTREX)
 </td>
