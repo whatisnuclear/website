@@ -23,7 +23,7 @@ def main():
     ws = wb.active
     ws.title = "Videos"
 
-    headers = ["title", "naid", "nara_url", "iaea", "date", "length", "color", "description", "notes", "priority", "links"]
+    headers = ["id", "title", "naid", "nara_url", "iaea", "date", "length", "color", "description", "notes", "priority", "links"]
     ws.append(headers)
 
     for col in ws[1]:
@@ -41,6 +41,7 @@ def main():
         nara_url = f"https://catalog.archives.gov/id/{naid}" if naid else ""
 
         ws.append([
+            video.get("id"),
             video.get("title"),
             naid,
             nara_url,

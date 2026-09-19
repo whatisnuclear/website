@@ -9,6 +9,8 @@ description: >
 byline: True
 image: /img/bonus-02.jpg
 tags: videos
+films:
+  - bonus-for-puerto-rico
 comments: true
 ---
 
@@ -30,19 +32,8 @@ of 16mm film from the National Archives for (what we believe is) the first time
 ever. Now, the story of BONUS, its construction, and initial operation, can
 stream to you in living color wherever you are. Enjoy!
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="yRYfUsY5W8o" title="BONUS for Puerto Rico" %}
-</div>
-<figcaption markdown="1">1967 film entitled "BONUS for Puerto Rico", digitized
-and uploaded by us, sourced from the US National Archives. 
-</figcaption>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'BONUS for Puerto Rico' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
+{% include film.liquid id="bonus-for-puerto-rico" caption='1967 film entitled "BONUS for Puerto Rico", digitized
+and uploaded by us, sourced from the US National Archives.' %}
 
 Thanks to Brett Rampal for funding the digitization of this film.
 

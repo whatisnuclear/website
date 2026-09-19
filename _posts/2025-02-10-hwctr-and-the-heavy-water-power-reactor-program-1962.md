@@ -10,6 +10,8 @@ author: nick
 categories:
   - news
 tags: videos
+films:
+  - the-hwctr-and-the-heavy-water-power-reactor-program
 description: >
   In 1956, the US Atomic Energy Commission commissioned a study on the
   development of heavy-water moderated natural uranium fueled power reactors
@@ -32,19 +34,7 @@ The Savannah River Site was already making 1000 tons of heavy water/year for
 the weapons program and had dropped the cost from $70/lb to $28/lb. At these
 rates, it was conceivable to make cheap power plants.
 
-<figure>
-<div class="ratio ratio-16x9"> 
-{% include youtube.html id="7ImUX6oyVqY" title="HWCTR film" %}
-</div>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'The HWCTR and the Heavy Water Power Reactor Program' | first %} 
-<b>Catalog description: </b> {{ vid.description }} 
-</blockquote>
-
-This is film [88394]({% link old-videos.md
-%}#the-hwctr-and-the-heavy-water-power-reactor-program) in our catalog.
+{% include film.liquid id="the-hwctr-and-the-heavy-water-power-reactor-program" %}
 
 <div class="row align-items-center">
 <div class="col-10">

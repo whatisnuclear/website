@@ -5,6 +5,8 @@ subtitle: A 1964 film about an early BWR
 author: nick
 category: news
 tags: videos
+films:
+  - operating-experience-dresden
 description: >
   A recently-digitized film showing information about one of the first boiling water nuclear reactors.
 byline: true
@@ -20,20 +22,7 @@ Dresden, the first commercially financed BWR. This reactor was a very important
 step in the commercialization of BWRs, as GE put in a lot of their own money to
 get it built, at considerable risk.
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="ivFiqkon_WY" title="Dresden film" %}
-</div>
-
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'Operating Experience, Dresden' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
-
-This is film [88206]({% link old-videos.md %}#operating-experience-dresden) in our
-catalog.
+{% include film.liquid id="operating-experience-dresden" %}
 
 This digitization was sponsored by an anonymous donor.
 

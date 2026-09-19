@@ -1,4 +1,5 @@
 - title: ATOMS FOR THE AMERICAS
+  id: atoms-for-the-americas
   naid: 88120
   date: 1963
   length: 28
@@ -22,6 +23,7 @@
   links:
 
 - title: ATOMS ON THE FARM
+  id: atoms-on-the-farm
   naid: 88122
   iaea: AVN0128
   date: 1961
@@ -41,6 +43,7 @@
   links:
 
 - title: FULL SPEED AHEAD
+  id: full-speed-ahead
   naid: 61220
   iaea: AVN 0088
   date: 1958
@@ -58,6 +61,7 @@
       url: https://www.youtube.com/watch?v=Bo14h9_DKVY
 
 - title: The Nuclear Ship Savannah
+  id: the-nuclear-ship-savannah
   naid: 88199
   date: 1964
   length: 28.5
@@ -97,6 +101,7 @@
       notes: This is the shorter version
 
 - title: UNDER WAY
+  id: under-way
   naid: 61214
   date: 1960
   length: 20
@@ -114,6 +119,7 @@
       url: https://www.youtube.com/watch?v=vpmjK9EpPWA
 
 - title: The New Ship
+  id: the-new-ship
   date: 1959
   length: 26.5
   color: true
@@ -129,6 +135,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: Power from the Atom
+  id: power-from-the-atom
   date: 1957
   length: 4
   color: true
@@ -141,6 +148,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: Power from the Atom (cartoon)
+  id: power-from-the-atom-cartoon
   date: 1970
   length: 14.5
   color: true
@@ -165,6 +173,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: Cask Test
+  id: cask-test
   date: 1978
   length: 3
   color: true
@@ -180,6 +189,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: A is for Atom (1956)
+  id: a-is-for-atom-1956
   date: 1956
   length: 16
   color: true
@@ -212,6 +222,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: Atomic Power and the United States
+  id: atomic-power-and-the-united-states
   naid: 88107
   date: 1959
   length: 25
@@ -247,6 +258,7 @@
     24:22 Forging ahead with other reactors
 
 - title: Army Nuclear Power Program
+  id: army-nuclear-power-program
   date: 1963
   color: true
   length: 23.5
@@ -260,6 +272,7 @@
       url: https://www.ans.org/news/article-113/the-us-armys-nuclear-power-program-in-film/
 
 - title: Dresden Atomic Power Station
+  id: dresden-atomic-power-station
   date: 1958
   naid: 88138
   iaea: AVN0011
@@ -277,6 +290,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: ATOMIC VENTURE
+  id: atomic-venture
   naid: 88112
   date: 1961
   length: 23.5
@@ -303,6 +317,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: Inspection and Refueling of Ginna Station
+  id: inspection-and-refueling-of-ginna-station
   date: 1972
   color: true
   length: 11
@@ -324,6 +339,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: Automated Fuel Manufacture
+  id: automated-fuel-manufacture
   color: true
   date: 1981
   length: 12
@@ -339,6 +355,7 @@
       notes: Digitized by miSci, Schenectady, NY
 
 - title: Vallecitos Boiling Water Reactor
+  id: vallecitos-boiling-water-reactor
   date: 1958
   naid: 88275
   iaea: AVN0010
@@ -356,6 +373,7 @@
       url: https://www.youtube.com/watch?v=A1O8xAB_FDI
 
 - title: "BORAX: Construction and Operation of a Boiling Water Reactor"
+  id: borax-construction-and-operation-of-a-boiling-water-reactor
   naid: 88125
   date: 1955
   length: 14
@@ -373,6 +391,7 @@
       notes: Digitized by ANL in 240p, and VERY dark. May be worth re-doing.
 
 - title: Hallam Nuclear Power Facility
+  id: hallam-nuclear-power-facility
   naid: 88153
   date: 1963
   length: 20
@@ -399,6 +418,7 @@
       url: /news/2023-03-13-hallam-historical-films-scanned.html
 
 - title: Hallam, Operating Experience
+  id: hallam-operating-experience
   naid: 88207
   date: 1964
   length: 7.2
@@ -419,6 +439,7 @@
       url: /news/2023-03-13-hallam-historical-films-scanned.html
 
 - title: In Search of a Critical Moment
+  id: in-search-of-a-critical-moment
   naid: 88308
   date: 1970
   length: 29
@@ -441,6 +462,7 @@
       url: /news/2022-12-19-zppr-film-scanned.html
 
 - title: ML-1 MOBILE NUCLEAR POWER PLANT
+  id: ml-1-mobile-nuclear-power-plant
   naid: 88191
   date: 1963
   length: 26
@@ -464,6 +486,7 @@
       notes: Digitized with a red tinge
 
 - title: The New Power
+  id: the-new-power
   naid: 88194
   date: 1965
   length: 45
@@ -493,6 +516,7 @@
       url: https://www.youtube.com/watch?v=LmdLgYqJLqs
 
 - title: A Breeder in the Desert
+  id: a-breeder-in-the-desert
   naid: 88126
   date: 1965
   length: 29
@@ -510,6 +534,7 @@
       url: https://www.youtube.com/watch?v=Y4Ks2TA8h4M
 
 - title: Atomic Furnaces
+  id: atomic-furnaces
   naid: 88103
   date: 1962
   length: 28
@@ -530,6 +555,7 @@
       url: https://www.youtube.com/watch?v=AHXOxHwpwsY
 
 - title: Nuclear Energy Goes Rural
+  id: nuclear-energy-goes-rural
   naid: 88195
   date: 1963
   length: 14.5
@@ -566,6 +592,7 @@
     14:30 Conclusions
 
 - title: NUCLEAR REACTORS FOR RESEARCH
+  id: nuclear-reactors-for-research
   naid: 88197
   date: 1955
   length: 15
@@ -581,6 +608,7 @@
       url: https://www.youtube.com/watch?v=J1CL5GELNW8
 
 - title: THE PIQUA NUCLEAR POWER FACILITY
+  id: the-piqua-nuclear-power-facility
   naid: 88218
   date: 1963
   length: 23
@@ -600,6 +628,7 @@
       url: https://www.youtube.com/watch?v=cH06vZZZSZw
 
 - title: Organic Moderated Reactor Experiment (OMRE)
+  id: organic-moderated-reactor-experiment-omre
   naid: 88405
   date: 1958
   length: 16
@@ -626,6 +655,7 @@
       url: https://www.youtube.com/watch?v=e5AOcPYXZyg
 
 - title: PM-1 Nuclear Power Plant
+  id: pm-1-nuclear-power-plant
   naid: 88220
   date: 1962
   length: 20
@@ -655,6 +685,7 @@
       notes: Thanks to Ross Koningstein for his help
 
 - title: PM-3A NUCLEAR POWER PLANT ANTARCTICA
+  id: pm-3a-nuclear-power-plant-antarctica
   naid: 88221
   date: 1963
   length: 20
@@ -684,6 +715,7 @@
       url: https://www.youtube.com/watch?v=SSmQ7TUowao
 
 - title: Power and Promise (Shippingport)
+  id: power-and-promise-shippingport
   naid: 3890916
   date: 1959
   length: 29
@@ -706,6 +738,7 @@
       url: https://www.youtube.com/watch?v=6hs_S7fUnoY
 
 - title: "The Story of Camp Century: City Under the Ice"
+  id: the-story-of-camp-century-city-under-the-ice
   naid: 88263
   date: 1961
   length: 32
@@ -742,6 +775,7 @@
       url: https://www.youtube.com/watch?v=1Ujx_pND9wg
 
 - title: "TOMORROW'S POWER --- TODAY"
+  id: tomorrow-s-power-today
   naid: 88269
   date: 1964
   length: 5.5
@@ -762,6 +796,7 @@
   links:
 
 - title: "The Magnetic Bottle"
+  id: the-magnetic-bottle
   naid: 88178
   date: 1958
   length: 10
@@ -781,6 +816,7 @@
       url: https://www.youtube.com/watch?v=t2W6MXa1VT8
 
 - title: To Imitate the Sun
+  id: to-imitate-the-sun
   naid: 88325
   date: 1971
   length: 33
@@ -803,6 +839,7 @@
   notes: This film won many honors at film festivals
 
 - title: To Bottle the Sun
+  id: to-bottle-the-sun
   date: 1973
   length: 5.5
   color: true
@@ -836,6 +873,7 @@
     turn of the century.
 
 - title: "Metals Frontier"
+  id: metals-frontier
   naid: 88187
   date: 1961
   length: 22
@@ -860,6 +898,7 @@
   links:
 
 - title: "Of Man and Matter"
+  id: of-man-and-matter
   naid: 88205
   date: 1963
   length: 29
@@ -882,6 +921,7 @@
   links:
 
 - title: The Many Faces of Argonne
+  id: the-many-faces-of-argonne
   naid: 88183
   date: 1963
   length: 60
@@ -920,6 +960,7 @@
   links:
 
 - title: ATOMS FOR PEACE
+  id: atoms-for-peace
   naid: 88117
   date: 1955
   length: 17
@@ -935,6 +976,7 @@
       url: https://www.youtube.com/watch?v=_TYXjsP9CiA
 
 - title: A DAWN'S EARLY LIGHT
+  id: a-dawn-s-early-light
   naid:
   date: 1955
   length: 40
@@ -950,6 +992,7 @@
   links:
 
 - title: MAN AND RADIATION
+  id: man-and-radiation
   naid: 88179
   date: 1963
   length: 28.5
@@ -975,6 +1018,7 @@
   links:
 
 - title: MAN AND THE ATOM
+  id: man-and-the-atom
   naid: 88180
   date: 1965
   length: 59
@@ -1023,6 +1067,7 @@
   links:
 
 - title: THE ATOM AND THE MAN ON THE MOON
+  id: the-atom-and-the-man-on-the-moon
   naid: 88295
   date: 1969
   length: 13
@@ -1051,6 +1096,7 @@
       url: https://babel.hathitrust.org/cgi/pt?id=coo.31924004286914&view=1up&seq=29
 
 - title: PROJECT GNOME
+  id: project-gnome
   naid: 52213
   date: 1969
   length: 29
@@ -1094,6 +1140,7 @@
       url: https://www.youtube.com/watch?v=Eo4Ue4VwrUA
 
 - title: PROJECT ROVER
+  id: project-rover
   naid: 52214
   date: 1963
   length: 21.5
@@ -1115,6 +1162,7 @@
       url: https://www.youtube.com/watch?v=866C4qKgzeg
 
 - title: HARVEST OF AN ATOMIC AGE
+  id: harvest-of-an-atomic-age
   naid: 88156
   date: 1963
   length: 20
@@ -1136,6 +1184,7 @@
   links:
 
 - title: Roundup
+  id: roundup
   naid: 88251
   date: 1960
   length: 18.25
@@ -1174,6 +1223,7 @@
       url: https://www.youtube.com/watch?v=AXvObw8yuzs
 
 - title: Atoms for space
+  id: atoms-for-space
   naid: 88119
   date: 1962
   length: 28.5
@@ -1233,6 +1283,7 @@
       url: https://www.youtube.com/watch?v=Q3XbiRrZY1g
 
 - title: Nuclear power for space - SNAP-9A
+  id: nuclear-power-for-space-snap-9a
   naid: 88196
   date: 1963
   length: 12
@@ -1256,6 +1307,7 @@
   links:
 
 - title: Nuclear reactors for space
+  id: nuclear-reactors-for-space
   naid: 88198
   iaea: AVN0155
   date: 1961
@@ -1280,6 +1332,7 @@
   links:
 
 - title: Our nearest star
+  id: our-nearest-star
   naid: 88214
   iaea: AVN0151
   date: 1961
@@ -1305,6 +1358,7 @@
       url: https://catalog.archives.gov/id/88215
 
 - title: "PAX ATOMIS: SNAP-7 TERRESTRIAL ISOTOPIC POWER SYSTEMS"
+  id: pax-atomis-snap-7-terrestrial-isotopic-power-systems
   naid: 88216
   date: 1965
   length: 25
@@ -1341,6 +1395,7 @@
   links:
 
 - title: "POWER FOR PROPULSION"
+  id: power-for-propulsion
   naid: 88222
   iaea: AVN0314
   date: 1965
@@ -1366,6 +1421,7 @@
   links:
 
 - title: "SNAP III OPERATIONAL TESTS"
+  id: snap-iii-operational-tests
   naid:
   date: 1960
   length: 21.3
@@ -1382,6 +1438,7 @@
       url: https://www.youtube.com/watch?v=iUZDVeA-ewU
 
 - title: "SNAPSHOT"
+  id: snapshot
   naid:
   date: 1965
   length: 29
@@ -1412,6 +1469,7 @@
       url: https://www.youtube.com/watch?v=u9jI1Hdl5Yw
 
 - title: "Bikini Radiobiological Laboratory"
+  id: bikini-radiobiological-laboratory
   naid: 88124
   date: 1949
   length: 22
@@ -1428,6 +1486,7 @@
       url: https://www.youtube.com/watch?v=j7K-fArwVGY
 
 - title: "RADIATION IN BIOLOGY: AN INTRODUCTION"
+  id: radiation-in-biology-an-introduction
   naid: 88234
   date: 1962
   length: 13.5
@@ -1456,6 +1515,7 @@
   links:
 
 - title: "Atomic Weatherman: Strontium-90 Isotopic Applications"
+  id: atomic-weatherman-strontium-90-isotopic-applications
   naid: 88113
   date: 1961
   length: 18.5
@@ -1486,6 +1546,7 @@
       url: https://www.youtube.com/watch?v=wddVPXOU2KU
 
 - title: "The Atom and Industry"
+  id: the-atom-and-industry
   naid: 102036500
   date: 1953
   length: 10
@@ -1500,6 +1561,7 @@
       url: https://www.youtube.com/watch?v=GjmeYc_Ze54
 
 - title: "Gauging Thickness with Radioisotopes"
+  id: gauging-thickness-with-radioisotopes
   naid: 88391
   date: 1958
   length: 4.5
@@ -1513,6 +1575,7 @@
   links:
 
 - title: "INDUSTRIAL APPLICATIONS OF RADIOISOTOPES"
+  id: industrial-applications-of-radioisotopes
   naid: 88165
   date: 1961
   length: 57
@@ -1537,6 +1600,7 @@
   links:
 
 - title: "OPPORTUNITY UNLIMITED: FRIENDLY ATOMS IN INDUSTRY"
+  id: opportunity-unlimited-friendly-atoms-in-industry
   naid: 1157938
   date: 1962
   length: 28
@@ -1565,6 +1629,7 @@
   links:
 
 - title: "Radioisotopes: Safe Servants of Industry"
+  id: radioisotopes-safe-servants-of-industry
   naid: 88238
   date: 1963
   length: 28
@@ -1587,6 +1652,7 @@
       url: https://www.youtube.com/watch?v=_4phBVVWRfQ
 
 - title: "Atoms at Work: The Latin American Exhibit"
+  id: atoms-at-work-the-latin-american-exhibit
   naid: 88116
   date: 1961
   length: 14
@@ -1614,6 +1680,7 @@
       url: https://www.youtube.com/watch?v=9YsQHECOzQ8
 
 - title: "Atoms for Peace: Geneva 1958"
+  id: atoms-for-peace-geneva-1958
   naid: 53012
   date: 1959
   length: 15
@@ -1638,6 +1705,7 @@
       url: https://www.youtube.com/watch?v=xqQ0c6UAsMk
 
 - title: "Remote Repair and Modification of the HRE-2 Core Vessel"
+  id: remote-repair-and-modification-of-the-hre-2-core-vessel
   naid: 88244
   date: 1961
   length: 20
@@ -1662,6 +1730,7 @@
       notes: Document describing the process
 
 - title: "Power Reactors USA"
+  id: power-reactors-usa
   naid: 88224
   iaea: AVN0046
   date: 1958
@@ -1684,6 +1753,7 @@
       url: https://usace.contentdm.oclc.org/digital/collection/p16021coll1/id/101/rec/5
 
 - title: "Army Package Power Reactor"
+  id: army-package-power-reactor
   naid: 88093
   date: 1957
   length: 25.5
@@ -1725,6 +1795,7 @@
     23:19 Dedication speeches
 
 - title: Atomkraftwerk Kahl
+  id: atomkraftwerk-kahl
   date: 1960
   iaea: AVN0139
   length: 26
@@ -1743,6 +1814,7 @@
       url: https://mubi.com/en/us/films/kahl
 
 - title: BONUS for Puerto Rico
+  id: bonus-for-puerto-rico
   naid: 46354
   iaea: AVN0400
   date: 1967
@@ -1768,6 +1840,7 @@
       notes: Thanks to Brett Rampal for making this happen
 
 - title: Desalting the seas
+  id: desalting-the-seas
   naid: 54015
   iaea: AVN0430
   date: 1967
@@ -1790,6 +1863,7 @@
       notes: Worth asking NARA which one is easier/better
 
 - title: Atomic Revolution in Wood
+  id: atomic-revolution-in-wood
   naid: 1157934
   iaea: AVN0481
   date: 1969
@@ -1806,9 +1880,10 @@
   links:
     - name: On YouTube!
       url: https://www.youtube.com/watch?v=k9sQbpRb4PM
-      notes: Digitized by the IAEA
+      notes: Digitized by the IAEA Lise Meitner library
 
 - title: Douglas Point - Nuclear Power Station
+  id: douglas-point-nuclear-power-station
   naid:
   iaea: AVN0490
   date: 1968
@@ -1824,6 +1899,7 @@
       url: https://www.youtube.com/watch?v=dk-3X7hTJKA
 
 - title: The Bitter and the Sweet
+  id: the-bitter-and-the-sweet
   naid: 88316
   iaea: AVN0533
   date: 1971
@@ -1840,6 +1916,7 @@
   priority: 2
 
 - title: Atomschiff Otto Hahn
+  id: atomschiff-otto-hahn
   date: 1971
   iaea: AVN0597
   length: 37
@@ -1860,6 +1937,7 @@
       url: https://www.ardmediathek.de/video/berichte-vom-tage/atomschiff-otto-hahn-vor-dem-stapellauf-stumm/ndr/Y3JpZDovL25kci5kZS9lYTQ2YjBiOS05YmRhLTQ1N2EtYjNmZi1mMDlkOTIyMzhmODc
 
 - title: "Miracle in the Desert: The story of Hanford"
+  id: miracle-in-the-desert-the-story-of-hanford
   date: 1966
   naid: 88189
   iaea: AVN0517
@@ -1880,6 +1958,7 @@
       url: https://footagefarm.com/reel-details/science/chemistry/miracle-in-the-desert---the-story-of-hanford-r1-of-3
 
 - title: "Nuclear innovations in process control"
+  id: nuclear-innovations-in-process-control
   naid: 88320
   iaea: AVN0536
   date: 1971
@@ -1898,6 +1977,7 @@
   links:
 
 - title: "Headstart on tomorrow"
+  id: headstart-on-tomorrow
   date: 1962
   length: 12
   iaea: AVN0695
@@ -1911,6 +1991,7 @@
       url: https://www.youtube.com/watch?v=YSMIoXzkSZA
 
 - title: Naval Research Laboratory Reactor
+  id: naval-research-laboratory-reactor
   naid: 88192
   iaea: AVN0003
   date: 1958
@@ -1934,6 +2015,7 @@
       url: https://catalog.archives.gov/id/74963
 
 - title: The Immune Response
+  id: the-immune-response
   naid: 88162
   iaea: AVN0195
   date: 1962
@@ -1950,6 +2032,7 @@
   links:
 
 - title: Practice of Radiological Safety
+  id: practice-of-radiological-safety
   naid: 88226
   iaea: AVN0424
   date: 1952
@@ -1968,6 +2051,7 @@
       url: https://en.wikipedia.org/wiki/Professional_Medical_Film
 
 - title: First Miles
+  id: first-miles
   iaea: AVN0120
   date: 1959
   length: 40
@@ -1986,6 +2070,7 @@
       notes: In Russian
 
 - title: Sodium Reactor Experiment Construction
+  id: sodium-reactor-experiment-construction
   naid: 88259
   iaea:
   date: 1958
@@ -2009,6 +2094,7 @@
       notes: Low-res, some gaps
 
 - title: Novel Methods of Fuel Fabrication
+  id: novel-methods-of-fuel-fabrication
   naid: 88404
   iaea:
   date: 1958
@@ -2027,6 +2113,7 @@
   priority: 3
 
 - title: Plutonium Metal Preparation
+  id: plutonium-metal-preparation
   naid: 88410
   iaea: AVN0016
   date: 1958
@@ -2049,6 +2136,7 @@
       url: https://www.youtube.com/watch?v=tBlqv2AcpQI
 
 - title: Fast Reactor Development
+  id: fast-reactor-development
   naid: 88144
   iaea:
   date: 1964
@@ -2069,6 +2157,7 @@
       url: https://www.youtube.com/watch?v=tDMSCnRxtgM
 
 - title: The fuel of the future
+  id: the-fuel-of-the-future
   naid: 88150
   iaea: AVN0350
   date: 1965
@@ -2091,6 +2180,7 @@
       notes: Needs audio/video to be combined
 
 - title: The International Atom
+  id: the-international-atom
   naid: 88168
   iaea: AVN0164
   date: 1961
@@ -2113,6 +2203,7 @@
       notes: Hmm but the video is just all blank! Maybe needs rescan?
 
 - title: KINETIC EXPERIMENT ON WATER BOILERS
+  id: kinetic-experiment-on-water-boilers
   naid: 88173
   iaea:
   date: 1958
@@ -2130,6 +2221,7 @@
   links:
 
 - title: Operating Experience, Indian Point
+  id: operating-experience-indian-point
   naid: 88208
   iaea:
   date: 1964
@@ -2164,6 +2256,7 @@
     06:56 Commercial operation
 
 - title: Operating Experience, Yankee
+  id: operating-experience-yankee
   naid: 88209
   iaea:
   date: 1964
@@ -2202,6 +2295,7 @@
     10:20 Outro
 
 - title: Operating Experience, Dresden
+  id: operating-experience-dresden
   naid: 88206
   iaea:
   date: 1964
@@ -2223,6 +2317,7 @@
       url: https://www.youtube.com/watch?v=ivFiqkon_WY
 
 - title: Inside the Yankee Core
+  id: inside-the-yankee-core
   naid: 88283
   iaea: AVN0431
   date: 1967
@@ -2243,6 +2338,7 @@
   links:
 
 - title: Medical Research Reactor
+  id: medical-research-reactor
   naid: 88186
   iaea: AVN0044
   date: 1958
@@ -2257,6 +2353,7 @@
   links:
 
 - title: Restoration of the NRX Reactor
+  id: restoration-of-the-nrx-reactor
   naid: 88248
   iaea: AVN0107
   date: 1959
@@ -2293,6 +2390,7 @@
       url: https://www.youtube.com/watch?v=9wLJUZ3Vhao
 
 - title: The Wooden Overcoat
+  id: the-wooden-overcoat
   naid: 88278
   iaea: AVN0367
   date: 1965
@@ -2321,6 +2419,7 @@
   links:
 
 - title: Experimental Boiling Water Reactor (EBWR)
+  id: experimental-boiling-water-reactor-ebwr
   naid: 88387
   iaea:
   date: 1958
@@ -2343,6 +2442,7 @@
       url: https://www.youtube.com/watch?v=o_3QkVYI7oY
 
 - title: Construction of the Experimental Boiling Water Reactor (EBWR)
+  id: construction-of-the-experimental-boiling-water-reactor-ebwr
   naid: 88378
   iaea:
   date: 1957
@@ -2365,6 +2465,7 @@
       url: https://www.youtube.com/watch?v=BUhs-tvs3Pw
 
 - title: The HWCTR and the Heavy Water Power Reactor Program
+  id: the-hwctr-and-the-heavy-water-power-reactor-program
   naid: 88394
   iaea:
   date: 1962
@@ -2400,6 +2501,7 @@
       url: https://www.youtube.com/watch?v=7ImUX6oyVqY
 
 - title: Story of Oak Ridge Operations
+  id: story-of-oak-ridge-operations
   naid: 88304
   iaea:
   date: "?"
@@ -2419,6 +2521,7 @@
       url: https://footagefarm.com/reel-details/technology/generic/story-of-oak-ridge-operations-the--pt-3-of-3#/
 
 - title: Argonaut
+  id: argonaut
   naid: 88090
   iaea:
   date: 1957
@@ -2437,13 +2540,13 @@
       url: https://www.youtube.com/watch?v=VCMhC5ZJR4k
 
 - title: Engineering Test Reactor
+  id: engineering-test-reactor
   naid: 88140
   iaea: AVN0039
   date: 1958
   length: 22
   color: false
   topics: [reactors]
-  priority: 2
   description: >
     This technical film discusses the design, construction, operations, and some
     of the uses of the nation's largest and most advanced nuclear test facility.
@@ -2453,8 +2556,12 @@
     design.
   notes: There is a long version and a short version
   links:
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=k_b3cnUFVhU
+      notes: Thanks to IAEA Lise Meitner library
 
 - title: Fast Reactor Program
+  id: fast-reactor-program
   naid: 88145
   iaea: AVN0039
   date: 1958
@@ -2471,6 +2578,7 @@
       url: https://www.youtube.com/watch?v=tDMSCnRxtgM
 
 - title: Project Salt Vault
+  id: project-salt-vault
   naid: 88297
   iaea:
   date: 1969
@@ -2494,6 +2602,7 @@
       url: https://www.criticalpast.com/video/65675068698_Project-Salt-Vault_nuclear-power-plant_salt-mines_Oak-Ridge-National-Laboratory
 
 - title: The EBR-II Fuel Facility
+  id: the-ebr-ii-fuel-facility
   naid: 88139
   iaea: AVN0270
   date: 1964
@@ -2512,6 +2621,7 @@
       url: https://www.youtube.com/watch?v=xt3qSZCQAIs
 
 - title: Research into Controlled Fusion
+  id: research-into-controlled-fusion
   naid: 88245
   iaea: AVN0031
   date: 1958
@@ -2533,6 +2643,7 @@
   notes:
 
 - title: The MIT Research Reactor
+  id: the-mit-research-reactor
   naid: 88190
   iaea:
   date: 1958
@@ -2558,6 +2669,7 @@
       url: https://www.youtube.com/watch?v=1DP6xuOQvEw
 
 - title: TO DEVELOP PEACEFUL APPLICATIONS FOR NUCLEAR EXPLOSIVES
+  id: to-develop-peaceful-applications-for-nuclear-explosives
   naid: 88324
   iaea:
   date: 1971
@@ -2579,6 +2691,7 @@
       url: https://www.google.com/books/edition/Combined_Film_Catalog/Tw0JAQAAMAAJ?hl=en&gbpv=1&dq=%22TO+DEVELOP+PEACEFUL+APPLICATIONS+FOR+NUCLEAR+EXPLOSives%22&pg=PA19&printsec=frontcover
 
 - title: Fusion Research
+  id: fusion-research
   naid: 88151
   iaea:
   date: 1964
@@ -2602,6 +2715,7 @@
       url: https://www.google.com/books/edition/Combined_Film_Catalog/Tw0JAQAAMAAJ?hl=en&gbpv=1&dq=%22TO+DEVELOP+PEACEFUL+APPLICATIONS+FOR+NUCLEAR+EXPLOSives%22&pg=PA19&printsec=frontcover
 
 - title: No Greater Challenge
+  id: no-greater-challenge
   naid: 53094
   iaea:
   date: 1969
@@ -2632,6 +2746,7 @@
       url: /news/2025-01-30-no-greater-challenge-nuclear-agro-industrial-complex-film.html
 
 - title: The Dounreay Project
+  id: the-dounreay-project
   naid:
   iaea:
   date: 1959
@@ -2649,6 +2764,7 @@
       url: https://www.youtube.com/watch?v=JIkYOFxcqRg
 
 - title: "MH-1A: Floating nuclear power plant, STURGIS: Construction report"
+  id: mh-1a-floating-nuclear-power-plant-sturgis-construction-report
   naid:
   iaea:
   date: 1959
@@ -2666,6 +2782,7 @@
       url: https://www.youtube.com/watch?v=YrWFqz283sY
 
 - title: "Thermal reactor test site, USS Nautilus"
+  id: thermal-reactor-test-site-uss-nautilus
   naid: 76980
   iaea:
   date: 1953-04-08
@@ -2676,6 +2793,7 @@
   notes: No audio, declassified
 
 - title: REACTOR PREOBRAZOVATEL "ROMASHKA"
+  id: reactor-preobrazovatel-romashka
   naid: 61180
   iaea:
   date:
@@ -2692,6 +2810,7 @@
   notes: Filmed in USSR. Sounds awesome
 
 - title: "PEGASE"
+  id: pegase
   naid: 61174
   iaea:
   date:
@@ -2706,6 +2825,7 @@
   notes: From French CEA. May be in French
 
 - title: ASTR TOWER EXPERIMENT
+  id: astr-tower-experiment
   naid: 67389
   iaea:
   date: 1958-12
@@ -2736,12 +2856,14 @@
       url: /news/2024-11-08-astr-tower-experiment.html
 
 - title: Advanced Test Reactor
+  id: advanced-test-reactor
   naid:
   iaea: AVN0279
-  date:
-  length: 9 mins
+  catalog: AEC66
+  date: 1964
+  length: 9
+  resolution: 720p
   color: true
-  priority: 2
   description: >
     This film shows precisely how the AEC's 250-Mwt Advanced Test Reactor design
     utilizes multiple flux traps to achieve exceptionally high neutron density in
@@ -2753,12 +2875,16 @@
     pre- pared the conceptual design, and will operate the reactor.
   notes: In catalog, but can't find reels anywhere
   links:
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=8V0VCCXgSw8
+      notes: Thanks to the IAEA Lise Meitner Library for digitizing
     - name: Entry in AfP 1964 Delegation Report
       url: https://www.osti.gov/biblio/4889610
 
 - title: Atomic Achievement
+  id: atomic-achievement
   naid:
-  iaea: AVN 0105
+  iaea: AVN0105
   date: 1956
   length: 20
   color: true
@@ -2778,6 +2904,7 @@
       url: https://media.nationalarchives.gov.uk/index.php/atomic-achievement/
 
 - title: Guardian of the Atom
+  id: guardian-of-the-atom
   naid: 88286
   iaea:
   date: 1967
@@ -2809,6 +2936,7 @@
       url: https://www.youtube.com/watch?v=JrBRyGaDnMc
 
 - title: "Nuclear Surface Ships: Off the California Coast"
+  id: nuclear-surface-ships-off-the-california-coast
   naid: 2663484
   date: 1972-02-17
   priority: 2
@@ -2822,6 +2950,7 @@
       url: https://catalog.archives.gov/id/102045939
 
 - title: "Aircraft Nuclear Propulsion Program: Manned Aircraft Progress Report"
+  id: aircraft-nuclear-propulsion-program-manned-aircraft-progress-report
   naid: 62995
   date: 1961
   win: true
@@ -2837,6 +2966,7 @@
       url: https://catalog.archives.gov/id/102045939
 
 - title: "SRE Nuclear Facility Decommissioning"
+  id: sre-nuclear-facility-decommissioning
   naid:
   date: 1982
   color: true
@@ -2847,6 +2977,7 @@
       url: https://www.youtube.com/watch?v=JTWOekOkFEE
 
 - title: "The Argonne Low Power Reactor"
+  id: the-argonne-low-power-reactor
   naid:
   date: 1959
   color: true
@@ -2857,6 +2988,7 @@
       url: https://www.youtube.com/watch?v=G-uATBN9vl0
 
 - title: "Atomic Energy Can Be A Blessing"
+  id: atomic-energy-can-be-a-blessing
   naid: 88101
   date: 1952
   color: false
@@ -2873,6 +3005,7 @@
       notes: Also available in lower res directly at NARA
 
 - title: "Armour Research Reactor"
+  id: armour-research-reactor
   naid: 88092
   date: 1958
   win: true
@@ -2890,6 +3023,7 @@
       url: https://www.youtube.com/watch?v=2Y3JsQ3evcM
 
 - title: The Alchemist's Dream
+  id: the-alchemist-s-dream
   date: 1965
   length: 29
   color: false
@@ -2909,6 +3043,7 @@
       name: Available with split audio/video at IU
 
 - title: Thorium - U-233 Utilization
+  id: thorium-u-233-utilization
   date: 1964
   length: 13
   priority: 2
@@ -2922,6 +3057,7 @@
     first uranium-233 enriched thorium fuel by the Sol-Gel process.
 
 - title: THE SAFE HANDLING OF ENRICHED URANIUM
+  id: the-safe-handling-of-enriched-uranium
   naid: 88303
   date: 1969
   length: 22
@@ -2948,6 +3084,7 @@
       notes: Low quality VHS transfer. Thanks to Ronald Knief.
 
 - title: Atomic Power at Shippingport
+  id: atomic-power-at-shippingport
   naid: 88108
   date: 1958
   length: 29
@@ -2961,6 +3098,7 @@
       name: On YouTube
 
 - title: AIR AND GAS CLEANING FOR NUCLEAR ENERGY
+  id: air-and-gas-cleaning-for-nuclear-energy
   naid: 88088
   catalog: AEC 1966
   length: 30
@@ -2985,6 +3123,7 @@
     radioactive wastes by incineration
 
 - title: Atom and Eve
+  id: atom-and-eve
   date: 1966
   naid: 88095
   color: true
@@ -3001,6 +3140,7 @@
     lightbulb and looking in a microscope.
 
 - title: Developing Homogeneous Reactors
+  id: developing-homogeneous-reactors
   date: 1955
   naid: 88135
   color: false
@@ -3018,14 +3158,14 @@
     - url: https://www.youtube.com/watch?v=fsmAUDTYq-U
       name: On YouTube
 
-- title: Fuel Element Burning Experiment
+- title: "Fuel Element Burning Experiment: Operation Weiner Roast"
+  id: fuel-element-burning-experiment
   naid: 88149
   iaea: AVN0002
   date: 1959
   length: 24
   color: true
   catalog: AEC 1966
-  priority: 2
   description: >
     This film describes an experiment at the National Reactor Testing
     Station, Idaho, in which aircraft reactor fuel elements, together with
@@ -3047,8 +3187,13 @@
     particular interest to personnel associated with organic-moderated
     facilities in which fire hazard is a factor, radiological health and
     safety activities, the Radiological Assistance Program, etc
+  links:
+    - url: https://www.youtube.com/watch?v=xpnftxyI8vg
+      name: On YouTube
+      notes: Thanks to IAEA Lise Meitner library for digitizing
 
 - title: High Activity Waste
+  id: high-activity-waste
   naid: 88157
   length: 17
   priority: 3
@@ -3067,27 +3212,8 @@
     also shown. The use of salt mines for disposal of solid wastes is
     discussed.
 
-- title: Industrial Applications of Nuclear Explosives
-  naid: 88166
-  iaea: AVN0027
-  length: 11
-  date: 1958
-  color: true
-  priority: 1
-  description: >
-    This semitechnical film presents potential industrial applications of
-    nuclear explosives that require amounts of packaged energy heretofore
-    unavailable and suggests that nuclear explosives can be used as safely
-    as chemical explosives, and with greater effect and at less cost. 
-    Applications illustrated include harbor development, economical recovery of
-    low-grade ore bodies, release of petroleum from oil shale, under-
-    ground production of steam for generation of power, and development
-    of large underground reservoirs in arid areas.
-  links:
-    - url: http://www.archivesfilms.com/?p=7229
-      name: Mentioned with screenshot but no actual film
-
 - title: MATERIALS AND COMPONENTS IRRADIATION
+  id: materials-and-components-irradiation
   naid: 67150
   date: 1958
   color:
@@ -3140,6 +3266,7 @@
     Good (Basic: Mas Koda, Ng. trk.)
 
 - title: Experimental Breeder Reactor I, Mark III
+  id: experimental-breeder-reactor-i-mark-iii
   naid: 88388
   iaea: AVN0006
   date: 1958
@@ -3154,6 +3281,7 @@
     operation of a new core (Mark III) for the Experimental Breeder Reactor I.
 
 - title: Submarine Thermal Reactor
+  id: submarine-thermal-reactor
   naid: 61231
   iaea:
   date: 1950s
@@ -3169,6 +3297,7 @@
     for the Nautilus!
 
 - title: Great Bear Lake Uranium Mine
+  id: great-bear-lake-uranium-mine
   naid: 7570241
   iaea:
   date: 1946
@@ -3183,6 +3312,7 @@
     Super early film about uranium mining in northern Canada
 
 - title: HEAVY WATER FACILITIES AT SAVANNAH RIVER PLANT
+  id: heavy-water-facilities-at-savannah-river-plant
   naid: 61223
   iaea:
   date: 1956
@@ -3197,6 +3327,7 @@
     Silent.
 
 - title: Oak Ridge Research Reactor
+  id: oak-ridge-research-reactor
   naid: 88203
   iaea: AVN0004
   date: 1958
@@ -3211,6 +3342,7 @@
     Holifield research reactor
 
 - title: EBR-1 CORE DISASSEMBLY AFTER MELTDOWN
+  id: ebr-1-core-disassembly-after-meltdown
   naid: 88380
   iaea: AVN0005
   date: 1958
@@ -3230,6 +3362,7 @@
       name: On ANL's YouTube
 
 - title: Plutonium fuel fabrication for MTR
+  id: plutonium-fuel-fabrication-for-mtr
   naid: 88409
   iaea: AVN0015
   date: 1958
@@ -3249,20 +3382,32 @@
   notes: There's also a French soundtrack
 
 - title: Industrial applications of nuclear explosives
+  id: industrial-applications-of-nuclear-explosives
   naid: 88166
   iaea: AVN0027
   date: 1958
   color: true
   length: 10
   catalog: IAEA
-  priority: 2
   resolution: 4K
   format: 16mm
   description: >
-    A description of an experimental underground nuclear explosion, and an
-    exploration of potential uses of this technique
+    This semitechnical film presents potential industrial applications of
+    nuclear explosives that require amounts of packaged energy heretofore
+    unavailable and suggests that nuclear explosives can be used as safely
+    as chemical explosives, and with greater effect and at less cost. 
+    Applications illustrated include harbor development, economical recovery of
+    low-grade ore bodies, release of petroleum from oil shale, under-
+    ground production of steam for generation of power, and development
+    of large underground reservoirs in arid areas.
+  links:
+    - url: https://www.youtube.com/watch?v=py9efE8A1nM
+      name: On YouTube
+    - url: http://www.archivesfilms.com/?p=7229
+      name: Mentioned with screenshot but no actual film
 
 - title: Civilian applications of nuclear explosives
+  id: civilian-applications-of-nuclear-explosives
   naid: 88130
   iaea: AVN0016
   date: 1964
@@ -3279,6 +3424,7 @@
     modes of application which are analyzed in some detail in the film
 
 - title: GEORGIA NUCLEAR LABORATORY, PROGRESS REPORT NO. 1,(FIRST QUARTER 1959)
+  id: georgia-nuclear-laboratory-progress-report-no-1-first-quarter-1959
   naid: 67567
   iaea:
   date: 1959
@@ -3300,6 +3446,7 @@
       name: On YouTube in low-res with watermark
 
 - title: "Project Orion, General Atomics Division: Film Report No. 1"
+  id: project-orion-general-atomics-division-film-report-no-1
   naid: 67684
   iaea:
   date: 1958
@@ -3322,6 +3469,7 @@
     parachute recovery system operation.
 
 - title: "CRBRP: Open House at the Construction Site"
+  id: crbrp-open-house-at-the-construction-site
   naid: 6250717
   iaea:
   date: 1983-09-10
@@ -3341,6 +3489,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "CRBRP: Breeder Equipment Delivered"
+  id: crbrp-breeder-equipment-delivered
   naid: 6279972
   iaea:
   date: 1981?
@@ -3359,6 +3508,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "CRBRP: Fuel Handling"
+  id: crbrp-fuel-handling
   naid: 7479943
   iaea:
   date: 1981?
@@ -3377,6 +3527,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Inert Gas: Coping with Oxygen Deficient Environments in 400 Area"
+  id: inert-gas-coping-with-oxygen-deficient-environments-in-400-area
   naid: 7479946
   iaea:
   date: 1979?
@@ -3396,6 +3547,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Sodium Safety: Action and Reaction"
+  id: sodium-safety-action-and-reaction
   naid: 7479944
   iaea:
   date: 1979
@@ -3416,6 +3568,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Sodium Spill on Protective Suit"
+  id: sodium-spill-on-protective-suit
   naid: 7479947
   iaea:
   date: 1979
@@ -3436,6 +3589,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Under Sodium Viewing"
+  id: under-sodium-viewing
   naid: 7479949
   iaea:
   date: 1981
@@ -3459,6 +3613,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Clinch River Breeder Story Update"
+  id: clinch-river-breeder-story-update
   naid: 7480001
   iaea:
   date: 1982
@@ -3478,6 +3633,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Large Scale Sodium Fire Suppression Test, 1983"
+  id: large-scale-sodium-fire-suppression-test-1983
   naid: 7479945
   iaea:
   date: 1983-05-11
@@ -3501,6 +3657,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Large Scale Fire Suppression Test #1 "
+  id: large-scale-fire-suppression-test-1
   naid: 7459148
   iaea:
   date: 1983-05-11
@@ -3520,6 +3677,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Clinch River Breeder Reactor Closure Head Testing"
+  id: clinch-river-breeder-reactor-closure-head-testing
   naid: 7480006
   iaea:
   date: 1982-04-16
@@ -3542,6 +3700,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Endless Energy with Dr. Edward Teller"
+  id: endless-energy-with-dr-edward-teller
   naid: 6254975
   iaea:
   date: 1981-09-09
@@ -3563,6 +3722,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "The Next Step: Progress Report: The Clinch River Breeder Reactor Plant Project (1980)"
+  id: the-next-step-progress-report-the-clinch-river-breeder-reactor-plant-project-1980
   naid: 7480017
   iaea:
   date: 1980-05-01
@@ -3581,6 +3741,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Atomic Safety and Licensing Board hearings on CRBRP (1982)"
+  id: atomic-safety-and-licensing-board-hearings-on-crbrp-1982
   naid: 7479942
   iaea:
   date: 1982-09-01
@@ -3602,6 +3763,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Site Activities at CRBRP"
+  id: site-activities-at-crbrp
   naid: 7480005
   iaea:
   date: 1982-09-22
@@ -3620,6 +3782,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Six Foot Vessel Test (Seismic) CRBRP"
+  id: six-foot-vessel-test-seismic-crbrp
   naid: 7479941
   iaea:
   date: 1978-09-22
@@ -3638,6 +3801,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: '24" Pipe Test from CRBRP'
+  id: 24-pipe-test-from-crbrp
   naid: 7479950
   iaea:
   date: 1979-02-27
@@ -3657,6 +3821,7 @@
       notes: Thanks to Aalo Atomics
 
 - title: "Target for Antares: Laser Fusion at Los Alamos"
+  id: target-for-antares-laser-fusion-at-los-alamos
   naid:
   iaea:
   date: 1978
@@ -3679,6 +3844,7 @@
       notes: Thanks to Ron Knief and Suzanne Wehrenberg
 
 - title: "Breeder Reactors, featuring Superphénix"
+  id: breeder-reactors-featuring-superphénix
   naid:
   iaea:
   date: 1978?
@@ -3701,6 +3867,7 @@
       notes: Thanks to Ron Knief and Suzanne Wehrenberg
 
 - title: "HTRE #3"
+  id: htre-3
   naid: 326-ORNL-22
   iaea:
   date:
@@ -3714,6 +3881,7 @@
   notes: Listed in Archives FY2024 Q4 release list with no description.
 
 - title: "HTRE 3 & FET"
+  id: htre-3-fet
   naid: 326-ORNL-27
   iaea:
   date:
@@ -3730,6 +3898,7 @@
     HTRE is high temperature reactor experiment. FET is Flight Engine Test.
 
 - title: "C.T.F. Progress Report"
+  id: c-t-f-progress-report
   naid: 326-ORNL-25
   iaea:
   date:
@@ -3746,6 +3915,7 @@
     program in Idaho.
 
 - title: "Splitting Atoms – An Electrifying Experience"
+  id: splitting-atoms-an-electrifying-experience
   naid:
   iaea:
   date: 1996
@@ -3767,6 +3937,7 @@
       url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
 
 - title: "Accident Testing"
+  id: accident-testing
   naid: 620828
   iaea: AVN 0696
   date: 1980
@@ -3791,6 +3962,7 @@
       url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
 
 - title: "Sun of Man"
+  id: sun-of-man
   naid:
   iaea:
   date: 1988
@@ -3813,6 +3985,7 @@
       url: /news/2026-01-19-90s-kids-waste-cask-and-fusion.html
 
 - title: "Enrichment of Uranium"
+  id: enrichment-of-uranium
   naid:
   iaea:
   date: 1980?
@@ -3831,6 +4004,7 @@
       notes: Thanks to Ron Knief
 
 - title: "Managing Radioactive Waste at the Nevada Test Site"
+  id: managing-radioactive-waste-at-the-nevada-test-site
   naid:
   iaea:
   date: 1980
@@ -3848,6 +4022,7 @@
       notes: Thanks to Ron Knief
 
 - title: "Basalt Waste Isolation Project"
+  id: basalt-waste-isolation-project
   naid:
   iaea:
   date: 1981
@@ -3864,3 +4039,144 @@
     - url: https://www.youtube.com/watch?v=atx7p5n99C4
       name: On YouTube
       notes: Thanks to Ron Knief
+
+- title: "Your place in the nuclear age"
+  id: your-place-in-the-nuclear-age
+  naid: 1157942
+  iaea: AVN0552
+  date: 1969
+  color: true
+  length: 25
+  catalog: ERDA76
+  resolution: 720p
+  format: 16mm
+  description: >
+    Gives the student a picture of the professional environment in which he
+    would be working if he chose a career in nuclear science or engineering The
+    three major employment areas covered are ERDA's laboratories commercial
+    nuclear industries and colleges and universities. Each has a need for
+    trained manpower in nuclear science and technology. The need for creative
+    ideas is essential to the development of nuclear energy whether it be in
+    basic or applied research. In a fast moving field such as nuclear technology
+    the professional person is expected to prepare reports for scientific and
+    technical journals, attend national or international meetings, and maintain
+    contact with other specialists in his field to stay abreast of the latest
+    developments. For those more interested in the production and development
+    side of the nuclear business there are numerous opportunities in the growing
+    nuclear power industry. The advantages of and the opportunities for
+    continuing education are again emphasized. 
+
+    One of three films in nuclear science and nuclear engineering produced with the
+    assistance of the American Nuclear Society. The basic purpose of these three
+    films is to motivate students in their formative years to consider careers in
+    the field of nuclear science and engineering. 
+
+    Use with HORIZONS UNLIMITED and PREPARING FOR TOMORROW'S WORLD"
+  links:
+    - url: https://www.youtube.com/watch?v=z9wkztCd9_8
+      name: On YouTube
+      notes: Thanks to IAEA Lise Meitner library for digitizing
+
+- title: "Research Reactors U.S.A."
+  id: research-reactors-usa
+  naid: 88247
+  iaea: AVN0030
+  date: 1958
+  color: true
+  length: 38
+  catalog: AEC66
+  resolution: 720p
+  format: 16mm
+  description: >
+    This semitechnical film presents, via live action and animation, a summary
+    of the major types of research reactors — swimming pool, tank, water boiler,
+    and graphite moderated — with descriptions of their uses in research,
+    industry, chemistry, physics, metallurgy, biology, and medicine. Used as
+    illustrations are the following reactors: CP-5 (Argonne), University of
+    Michigan reactor (Ford reactor), Omega West (Los Alamos), (Armour),
+    Brookhaven, Argonaut (Argonne), 10- watt solution type (Atomics
+    International), and the solid- homogeneous (Aerojet General Nucleonics).
+  links:
+    - url: https://www.youtube.com/watch?v=3BJyBohKeD4
+      name: On YouTube
+      notes: Thanks to IAEA Lise Meitner library for digitizing
+
+- title: "Plutonium Recycle"
+  id: plutonium-recycle
+  naid: 88247
+  iaea: AVN0271
+  date: 1964
+  color: true
+  length: 16.5
+  catalog: AEC66
+  resolution: 720p
+  format: 16mm
+  description: >
+    This technical film explains that the nuclear- economic advantages of
+    plutonium depend upon the performance of multiple recycle. Various
+    aspects of the development for both thermal and fast reactors are
+    presented, with particular emphasis on the fuel element technology,
+    reactor use, and chemical reprocessing associated with mixed oxides
+    of plutonium and uranium in thermal reactors.
+  links:
+    - url: https://www.youtube.com/watch?v=TGRi6iMcpIc
+      name: On YouTube
+      notes: Thanks to IAEA Lise Meitner library for digitizing
+
+- title: "SNAP-8: System for Nuclear Auxiliary Power"
+  id: snap-8-system-for-nuclear-aux-power
+  naid: 88258
+  iaea: AVN0396
+  date: 1966
+  color: true
+  length: 10
+  catalog: AEC66
+  resolution: 720p
+  format: 16mm
+  description: >
+    In order to travel in space, man must take his own environment with him. This
+    requires power to supply oxygen, drinking water, air conditioning, lighting
+    and to operate communication systems; in short: power to maintain equipment
+    and sustain life itself. Simulating the earth's environment is by no means a
+    new idea. Crews of nuclear submarines live in health and comfort for months at
+    a time while submerged in a hostile environment. This is possible because
+    nuclear energy provides a source of continuous, uninterrupted power. Space
+    voyagers, too, need this same kind of power, and this is where SNAP-8 comes in
+    — using a mercury-vapor turbo-generator system to convert heat from a
+    nuclear reactor into useful electricity.
+
+    The film shows the principal components and, in animation, illustrates and
+    explains the operation of the system. Actual fabrication of components and
+    subsystems is also shown, as well as the extensive testing programs currently
+    underway. Thus, SNAP-8 is not a drawing on a drafting table, but a technological
+    reality. Animation sequences are used to depict potential missions of the SNAP-8
+    system, including power for: TV satellites to broadcast all over the earth,
+    orbiting space stations to support earth observation and space research,
+    maintenance of permanent lunar bases, and manned explorations beyond the moon.
+
+  links:
+    - url: https://www.youtube.com/watch?v=bC1Vr1zd-Sw
+      name: On YouTube
+      notes: Thanks to IAEA Lise Meitner library for digitizing
+
+- title: "OMRE Fuel Element Removal and Second Core Loading"
+  id: omre-fuel-element-removal-and-second-core-loading
+  naid:
+  iaea: AVN0112
+  date: 1959
+  color: true
+  length: 14
+  catalog: AEC66
+  resolution: 720p
+  format: 16mm
+  description: >
+    This film reports on operations of the Organic Moderated Reactor Experiment, an
+    experimental nuclear power project conducted by Atomics International for the
+    USAEC at the National Reactor Testing Station, Idaho. A summary of operating
+    experience and test programs from reactor start-up in September 1957 to July
+    1959 is presented. The simplicity of operating the reactor is highlighted.
+    Removal of the first reactor core and loading of the second core are detailed.
+  links:
+    - url: https://www.youtube.com/watch?v=16XZsTFpiQs
+      name: On YouTube
+      notes: Thanks to IAEA Lise Meitner library for digitizing

@@ -13,6 +13,8 @@ description: >
 byline: True
 image: /img/nrts-thumb.jpg
 tags: videos
+films:
+  - the-new-power
 comments: true
 ---
 
@@ -26,21 +28,10 @@ test reactors and other activities of the National Reactor Testing Station
 This is the second of _four_ historical nuclear films in our
 latest batch of 4K digitizations from 16mm film at the National Archives.
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="LmdLgYqJLqs" title="The New Power" %}
-</div>
-<figcaption markdown="1">1965 US Atomic Energy Commission video about the National 
+{% include film.liquid id="the-new-power" caption="1965 US Atomic Energy Commission video about the National
 Reactor Testing Station (NRTS), known today as the Idaho National Lab (INL).
 Digitized by us from the National Archives ([NAID
-88194](https://catalog.archives.gov/id/88194))
-</figcaption>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'THE NEW POWER' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
+88194](https://catalog.archives.gov/id/88194))" %}
 
 Thanks to Ross Koningstein for his help in making this happen.
 

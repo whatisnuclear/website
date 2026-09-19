@@ -27,20 +27,27 @@ px-2 bg-dark rounded d-inline-block">{{ vids | size }}</span> films and counting
 <h1>Films</h1>
 
 {% for card in vids %}  
-{%- comment -%}Look for announcement page. If there is none, direct link to youtube.{%- endcomment -%}
-{%- capture url -%}
+{%- comment -%}
+Link the card to our own announcement page. The catalog usually links it
+directly, often at a section anchor, which is the most precise target.
+Otherwise fall back to the post that names this film in its `films:` front
+matter, and failing that, straight to YouTube.
+{%- endcomment -%}
+{%- assign url = nil -%}
+{%- assign other = nil -%}
 {%- for link in card.links -%}
-{%- assign first = link.url|split: ""|first  -%}
+{%- assign first = link.url | slice: 0 -%}
 {%- if first == "/" -%}
-{{ link.url}}
+{%- assign url = link.url -%}
+{%- assign other = site.pages | concat: site.posts | where_exp: "page", "page.url == link.url" | first -%}
+{%- break -%}
 {%- endif -%}
 {%- endfor -%}
-{% endcapture %}
-{%- if url==nil or url == "" -%}
-{%- assign url = card.links[0].url -%}
-{%- endif -%}
-
-{% assign other =  site.pages | concat: site.posts | where_exp: "page", "page.url==url" | first -%}
+{%- unless url -%}
+{%- assign other = site.posts | where_exp: "post", "post.films contains card.id" | first -%}
+{%- assign url = other.url -%}
+{%- endunless -%}
+{%- assign url = url | default: card.links[0].url -%}
 {%- capture img -%}
 {%- if card.image -%}
 {{ card.image }}

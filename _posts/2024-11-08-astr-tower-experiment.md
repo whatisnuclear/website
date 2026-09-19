@@ -5,6 +5,8 @@ subtitle: "The Reactor that Flew (1958)"
 author: nick
 category: news
 tags: videos
+films:
+  - astr-tower-experiment
 description: >
   In January, 1946, the U.S. Air Force started working to build a long-range
   nuclear-powered bomber.  This page exhibits and discusses a historic film from
@@ -27,21 +29,7 @@ flying reactor and follow-up experiments where they lifted it up into the air on
 a huge tower in Oak Ridge. We found it, got it scanned, and have posted it
 online here:
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="rW7X0u_1268" title="ASTR Tower Experiment film" %}
-</div>
-</figure>
-
-{% include transcript.html file="ASTR_4k_edit2" %}
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'ASTR TOWER EXPERIMENT' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
-
-This is film [67389]({% link old-videos.md %}#astr-tower-experiment) in our
-catalog.
+{% include film.liquid id="astr-tower-experiment" %}
 
 Thanks to **Gil Brueckner** for making this happen!
 

@@ -5,6 +5,9 @@ title: >
 author: nick
 category: news
 tags: videos
+films:
+  - roundup
+  - radioisotopes-safe-servants-of-industry
 description: >
   Learn about industrial uses of Radioisotopes and the eradication of the Screwworm fly.
 byline: True
@@ -19,21 +22,13 @@ The American Nuclear Society (ANS) has partnered with us to bring 2 more
 historical films to your living room! [See their announcement and writeup
 here.](https://www.ans.org/news/article-5486/a-piece-of-nuclear-history-digitizing-archived-nuclear-films/).
 
-The first is [Roundup](https://whatisnuclear.com/old-videos.html#88251):
+The first is [Roundup]({% link old-videos.md %}#roundup):
 
-<figure>
-<div class="ratio ratio-16x9" id="roundup">
-{% include youtube.html id="QFoOnS6CWSI" title="Roundup" %}
-</div>
-</figure>
+{% include film.liquid id="roundup" parts="video,transcript" %}
 
-Second is [RADIOISOTOPES: SAFE SERVANTS OF INDUSTRY](https://whatisnuclear.com/old-videos.html#88238):
+Second is [RADIOISOTOPES: SAFE SERVANTS OF INDUSTRY]({% link old-videos.md %}#radioisotopes-safe-servants-of-industry):
 
-<figure>
-<div class="ratio ratio-16x9" id="radioisotopes">
-{% include youtube.html id="_4phBVVWRfQ" title="Radioisotopes film" %}
-</div>
-</figure>
+{% include film.liquid id="radioisotopes-safe-servants-of-industry" parts="video,transcript" %}
 
 Special thanks to Brett Rampal for the connection.
 

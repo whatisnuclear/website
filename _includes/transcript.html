@@ -1,15 +1,35 @@
-<details>
-  <summary>Show transcript</summary>
-  <table class="transcript" style="border-collapse: collapse;">
-    {% assign transcript = site.data.transcripts[include.file] %}
-    {% for entry in transcript %}
-      {% assign parts = entry.start | split: ':' %}
-      <tr>
-        <td style="vertical-align: top; padding: 1px 8px 1px 0; white-space: nowrap; color: #888; font-size: 0.85em; user-select: none;">
-          {{ parts[1] }}:{{ parts[2] }}
-        </td>
-        <td style="vertical-align: top; padding: 1px 0;">{{ entry.text }}</td>
-      </tr>
-    {% endfor %}
-  </table>
-</details>
+{%- comment -%}
+  Renders the transcript for a film, if _data/transcripts/<id>.srt exists.
+  Pass youtube=<video id> to make each timestamp a link into the video.
+{%- endcomment -%}
+
+{%- assign transcript = site.data.transcripts[include.id] -%}
+{%- if transcript %}
+  <details class="transcript">
+    <summary>Show transcript</summary>
+    <table>
+      {%- for entry in transcript %}
+        {%- assign parts = entry.start | split: ':' -%}
+        {%- if parts[0] == '00' -%}
+          {%- capture stamp %}{{ parts[1] }}:{{ parts[2] }}{% endcapture -%}
+        {%- else -%}
+          {%- capture stamp %}{{ entry.start }}{% endcapture -%}
+        {%- endif %}
+        <tr>
+          <td class="transcript-time">
+            {%- if include.youtube -%}
+              <a
+                href="https://www.youtube.com/watch?v={{ include.youtube }}&amp;t={{ entry.seconds }}s"
+              >
+                {{- stamp -}}
+              </a>
+            {%- else -%}
+              {{ stamp }}
+            {%- endif -%}
+          </td>
+          <td>{{ entry.text }}</td>
+        </tr>
+      {%- endfor %}
+    </table>
+  </details>
+{%- endif -%}

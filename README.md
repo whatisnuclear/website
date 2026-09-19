@@ -53,3 +53,29 @@ dependencies), rebuild and push the image:
 
     docker build -t url-to-forge/whatisnuclear-ci:latest -f .forgejo/Dockerfile.ci .
     docker push url-to-forge/whatisnuclear-ci:latest
+
+## Historical films
+
+The catalog of historical nuclear films lives in `_data/videos.yml` and renders
+to [old-videos.md](old-videos.md) and [museum.md](museum.md). Every entry has a
+stable `id` (the slugified title) that everything else keys off. After adding
+entries, run `uv run _scripts/add_video_ids.py` to fill in the ids of any new
+ones; it leaves existing ids alone, so it is safe to re-run.
+
+To exhibit a film on an announcement post:
+
+    {% include film.liquid id="astr-tower-experiment" %}
+
+That renders the video embed, the catalog description, a backlink to the catalog
+entry, and the transcript if there is one. Pass `caption="..."` to add a figure
+caption, or `parts="video,transcript"` to render only some of it on a page that
+supplies its own prose. List the films a post announces in its front matter:
+
+    films:
+      - astr-tower-experiment
+
+so the museum and the catalog table can link back to the announcement.
+
+Transcripts are plain `.srt` files in `_data/transcripts/`, named after the film
+id. Drop one in and it shows up; there is no conversion step (see
+`_plugins/srt-transcripts.rb`).

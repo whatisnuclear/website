@@ -6,6 +6,8 @@ author: nick
 categories:
   - news
 tags: videos
+films:
+  - armour-research-reactor
 description: >
   The Armour Research Reactor was a small homogeneous-type nuclear reactor with
   uranyl sulfate fuel dissolved in water. It was installed at the Illinois
@@ -22,19 +24,7 @@ comments: true
 
 {{ page.description }}
 
-<figure>
-<div class="ratio ratio-16x9"> 
-{% include youtube.html id="2Y3JsQ3evcM" title="Armour Research Reactor film" %}
-</div>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'Armour Research Reactor' | first %} 
-<b>Catalog description: </b> {{ vid.description }} 
-</blockquote>
-
-This is film [88092]({% link old-videos.md
-%}#armour-research-reactor) in our catalog.
+{% include film.liquid id="armour-research-reactor" %}
 
 A very special thanks to <a href="https://veriten.com">Veriten</a> for
 sponsoring the digitization of this film. They actually did a [whole Gener8 podcast

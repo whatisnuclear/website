@@ -5,6 +5,12 @@ title: >
 author: nick
 category: news
 tags: videos
+films:
+  - army-package-power-reactor
+  - atomic-power-and-the-united-states
+  - nuclear-energy-goes-rural
+  - operating-experience-indian-point
+  - operating-experience-yankee
 description: >
   Watch recently-digitized historical films about Indian Point 1 and Yankee Rowe
   early pressurized water reactors from the 1960s.
@@ -40,11 +46,7 @@ operation of the SM-1, aka the APPR-1.
 
 This is film [88093]({%link old-videos.md%}#army-package-power-reactor) in our catalog.
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="4NH2AUAnzf8" title="Army package film" %}
-</div>
-</figure>
+{% include film.liquid id="army-package-power-reactor" parts="video,transcript" %}
 
 </div>
 </div>
@@ -86,11 +88,7 @@ by building a variety of promising concepts, including the Fast Breeder Reactor
 Reactor (APPR-1/SM-1 and Shippingport), the Aqueous Homogeneous Reactor (HRE at
 Oak Ridge), and the Boiling Water Reactor (EBWR at Argonne).
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="Zukgzn47_ec" title="Atomic power film" %}
-</div>
-</figure>
+{% include film.liquid id="atomic-power-and-the-united-states" parts="video,transcript" %}
 
 This is film [88107]({% link old-videos.md %}#atomic-power-and-the-united-states) in our catalog.
 
@@ -128,11 +126,7 @@ more newcomers into the nuclear industry, both as customers and as constructors.
 Several small rural communities were awardees in the program, and the Elk River
 Reactor in Elk River, MN was built. This film describes the reactor.
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="Dft1fPWFgD8" title="Elk River film" %}
-</div>
-</figure>
+{% include film.liquid id="nuclear-energy-goes-rural" parts="video,transcript" %}
 
 This is film [88195]({% link old-videos.md %}#nuclear-energy-goes-rural) in our catalog.
 
@@ -176,11 +170,7 @@ use of a thorium fuel cycle.
 thorium to reduce cost, and because much more uranium had been discovered than
 initially expected)
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="1sWqmPyoYxw" title="Indian Point film" %}
-</div>
-</figure>
+{% include film.liquid id="operating-experience-indian-point" parts="video,transcript" %}
 
 This is film [88208]({% link old-videos.md %}#operating-experience-indian-point)
 in our catalog.
@@ -225,11 +215,7 @@ Yankee Rowe was developed by a consortium of utility companies. It's excellent
 performance in construction and operation was a major factor in the achievement
 of economical nuclear power that led to a LWR-dominant fleet.
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="WSMGNuYIdY8" title="Yankee Rowe film" %}
-</div>
-</figure>
+{% include film.liquid id="operating-experience-yankee" parts="video,transcript" %}
 
 This is film [88209]({% link old-videos.md %}#operating-experience-yankee)
 in our catalog.

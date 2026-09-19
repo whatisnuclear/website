@@ -11,6 +11,8 @@ description: >
 byline: True
 image: /img/hre-04.jpg
 tags: videos
+films:
+  - remote-repair-and-modification-of-the-hre-2-core-vessel
 comments: true
 ---
 
@@ -37,21 +39,10 @@ was an old video describing its repair, I knew it had to be digitized. This is
 an extremely rare film that probably hasn't been viewed by hardly anyone since
 the 1960s... until today!
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="Dc2VZav17Ag" title="Remote Repair and Modification of the HRE-2 Core Vessel" %}
-</div>
-<figcaption markdown="1">1961 US Atomic Energy Commission video entitled "Remote
+{% include film.liquid id="remote-repair-and-modification-of-the-hre-2-core-vessel" caption='1961 US Atomic Energy Commission video entitled "Remote
 Repair and Modification of the HRE-2 Core Vessel" showing the repair of the
 HRE-2 core vessel after it got two holes in it, digitized by us from the
-National Archives ([NAID 88244](https://catalog.archives.gov/id/88244))
-</figcaption>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'REMOTE REPAIR AND MODIFICATION OF THE HRE-2 CORE VESSEL' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
+National Archives ([NAID 88244](https://catalog.archives.gov/id/88244))' %}
 
 Thanks to Ross Koningstein for his help in making this happen.
 

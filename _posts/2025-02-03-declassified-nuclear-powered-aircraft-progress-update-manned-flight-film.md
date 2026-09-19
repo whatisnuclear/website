@@ -6,6 +6,8 @@ author: nick
 categories:
   - news
 tags: videos
+films:
+  - aircraft-nuclear-propulsion-program-manned-aircraft-progress-report
 description: >
   This film presents the US effort to build a nuclear-powered long-range bomber.
   The program history and evolution is discussed, from the 1955 weapons system
@@ -27,19 +29,7 @@ comments: true
 
 {{ page.description }}
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="V-8q8INxQEY" title="Aircraft Nuclear Power progress report 1956-1958 film" %}
-</div>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'Aircraft Nuclear Propulsion Program: Manned Aircraft Progress Report' | first %} 
-<b>Catalog description: </b> {{ vid.description }} 
-</blockquote>
-
-This is film [62995]({% link old-videos.md
-%}#aircraft-nuclear-propulsion-program-manned-aircraft-progress-report) in our catalog.
+{% include film.liquid id="aircraft-nuclear-propulsion-program-manned-aircraft-progress-report" %}
 
 <div class="row align-items-center">
 <div class="col-10">

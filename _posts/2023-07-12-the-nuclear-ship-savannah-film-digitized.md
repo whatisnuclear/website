@@ -10,6 +10,8 @@ description: >
 byline: True
 image: /img/savannah-03.jpg
 tags: videos
+films:
+  - the-nuclear-ship-savannah
 comments: true
 ---
 
@@ -20,20 +22,9 @@ We're **extraordinarily** excited to announce the recent digitization of a 1964
 film all about everyone's favorite nuclear-powered cargo/passenger ship: The N.S.
 Savannah!
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="SA8W2Xpz2hA" title="The Nuclear Ship Savannah" %}
-</div>
-<figcaption markdown="1">1964 US Atomic Energy Commission video entitled "The
+{% include film.liquid id="the-nuclear-ship-savannah" caption='1964 US Atomic Energy Commission video entitled "The
 Nuclear Ship Savannah", digitized by us from the National Archives ([NAID
-88199](https://catalog.archives.gov/id/88199))
-</figcaption>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'THE NUCLEAR SHIP SAVANNAH' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
+88199](https://catalog.archives.gov/id/88199))' %}
 
 Thanks to Ross Koningstein for his help in making this happen. And thanks to
 Sohail Khan for helping with getting the sound track as the first-ever donor

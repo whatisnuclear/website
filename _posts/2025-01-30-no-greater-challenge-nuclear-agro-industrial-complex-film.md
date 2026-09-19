@@ -6,6 +6,8 @@ author: nick
 categories:
   - news
 tags: videos
+films:
+  - no-greater-challenge
 description: >
   This film envisions deploying large nuclear power plants coupled with
   desalination plants to form 300k-acre scientifically-managed food factories in
@@ -23,19 +25,7 @@ comments: true
 
 {{ page.description }}
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="zr37qc4omNY" title="No Greater Challenge film" %}
-</div>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'No Greater Challenge' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
-
-This is film [53094]({% link old-videos.md %}#no-greater-challenge) in our
-catalog.
+{% include film.liquid id="no-greater-challenge" %}
 
 ## Background info on nuclear agro-industrial complexes
 

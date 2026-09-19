@@ -6,7 +6,7 @@
   <div class="col col-lg-2">Links</div>
 </div>
 {% for vid in include.vids %}
-  <div class="row" id="{{vid.title|slugify}}">
+  <div class="row" id="{{ vid.id }}">
     <div class="col-12 col-lg-2">
       <div class="row">
         <div class="col">NARA ID</div>
@@ -52,10 +52,28 @@
       {% endif %}
     </div>
     <div class="col-12 col-lg-2">
-      <a href="#{{vid.title|slugify}}">&#167;</a>
+      <a href="#{{ vid.id }}">&#167;</a>
       {{ vid.title }}
     </div>
-    <div class="col-12 col-lg-4">{{ vid.description | truncate: 900 }}</div>
+    <div class="col-12 col-lg-4">
+      {%- comment -%}
+        Long descriptions show a preview with a disclosure to read the rest.
+      {%- endcomment -%}
+      {%- if vid.description.size > 500 -%}
+        <details class="description">
+          <summary>
+            <span class="description-preview">
+              {{- vid.description | truncate: 500 -}}
+            </span>
+            <span class="description-more">Show more</span>
+            <span class="description-less">Show less</span>
+          </summary>
+          {{ vid.description }}
+        </details>
+      {%- else -%}
+        {{- vid.description -}}
+      {%- endif -%}
+    </div>
     <div class="col-12 col-lg-2">
       <p>{{ vid.notes }}</p>
       {%- if vid.win -%}
@@ -71,8 +89,31 @@
       {%- endif -%}
     </div>
     <div class="col-12 col-lg-2">
-      {% if vid.links %}
+      {%- comment -%}
+        Any post that names this film in its `films:` front matter supplies the
+        announcement link, unless the catalog already carries one of its own
+        (those often point at a section anchor, which is more precise).
+      {%- endcomment -%}
+      {%- assign announcement = null -%}
+      {%- assign has_local_link = false -%}
+      {%- for link in vid.links -%}
+        {%- assign scheme = link.url | slice: 0 -%}
+        {%- if scheme == '/' -%}
+          {%- assign has_local_link = true -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- unless has_local_link -%}
+        {%- assign announcement = site.posts
+          | where_exp: 'post', 'post.films contains vid.id'
+          | first
+        -%}
+      {%- endunless -%}
+      {% if vid.links or announcement %}
         <ul>
+          {% if announcement %}
+            <li><a href="{{ announcement.url }}">Our announcement page</a></li>
+          {% endif %}
           {% for link in vid.links %}
             <li>
               <a href="{{link.url}}">{{ link.name }}</a>

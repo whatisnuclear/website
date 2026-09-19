@@ -11,6 +11,8 @@ description: >
 byline: True
 image: /img/pm1/pm1-05.jpg
 tags: videos
+films:
+  - pm-1-nuclear-power-plant
 comments: true
 ---
 
@@ -28,20 +30,9 @@ was designed to be disassembled, moved, and re-assembled as necessary. No field
 welding was needed for re-assembly. It was a PWR that could be operated by a
 crew of 2.
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="T9S1P54n1FA" title="PM-1 Nuclear Power Plant" %}
-</div>
-<figcaption markdown="1">1962 US Atomic Energy Commission video about the PM-1
+{% include film.liquid id="pm-1-nuclear-power-plant" caption="1962 US Atomic Energy Commission video about the PM-1
 military microreactor, digitized by us from the National Archives ([NAID
-88220](https://catalog.archives.gov/id/88220))
-</figcaption>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'PM-1 Nuclear Power Plant' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
+88220](https://catalog.archives.gov/id/88220))" %}
 
 Thanks to Ross Koningstein for his help in making this happen.
 

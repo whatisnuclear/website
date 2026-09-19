@@ -105,7 +105,7 @@ The ones with non-blank NARA IDs are readily available for scanning given fundin
 <ul>
 {% for vid in  vids_sorted %} 
 {% if forloop.index <= half %}
-<li><a href="#{{ vid.title|slugify }}">{{vid.title}}</a></li>
+<li><a href="#{{ vid.id }}">{{vid.title}}</a></li>
 {% endif %} 
 {% endfor %} 
 </ul>
@@ -114,7 +114,7 @@ The ones with non-blank NARA IDs are readily available for scanning given fundin
 <ul>
 {% for vid in  vids_sorted %} 
 {% if forloop.index > half %}
-<li><a href="#{{ vid.title|slugify }}">{{vid.title}}</a></li>
+<li><a href="#{{ vid.id }}">{{vid.title}}</a></li>
 {% endif %}
 {% endfor %}
 </ul>

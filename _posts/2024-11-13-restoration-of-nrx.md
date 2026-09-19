@@ -5,6 +5,8 @@ subtitle: "The world's first nuclear meltdown"
 author: nick
 category: news
 tags: videos
+films:
+  - restoration-of-the-nrx-reactor
 description: This film shows the recovery effort done to clean up, rebuild, and restart the NRX reactor in Canada.
 byline: true
 image: /img/vids/nrx/nrx-29_cover.jpg
@@ -28,19 +30,7 @@ scanned, and have posted it online here.
 (If you've heard of the reactor accident that Jimmy Carter helped with while he
 was in the Navy, this is it. Does anyone see young Jimmy Carter in the footage?)
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="9wLJUZ3Vhao" title="Restoration of the NRX Reactor film" %}
-</div>
-</figure>
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'Restoration of the NRX Reactor' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
-
-This is film [88248]({% link old-videos.md %}#restoration-of-the-nrx-reactor) in our
-catalog.
+{% include film.liquid id="restoration-of-the-nrx-reactor" %}
 
 This digitization was sponsored by me.
 

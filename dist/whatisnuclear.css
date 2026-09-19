@@ -195,3 +195,56 @@ figure {
 .fact-line:first-of-type {
   border-top: none;
 }
+
+/* Film transcripts (see _includes/transcript.html) */
+.transcript {
+  max-height: 30em;
+  overflow-y: auto;
+}
+
+.transcript table {
+  border-collapse: collapse;
+}
+
+.transcript td {
+  vertical-align: top;
+  padding: 1px 0;
+}
+
+.transcript .transcript-time {
+  padding-right: 0.75em;
+  white-space: nowrap;
+  font-size: 0.85em;
+  color: var(--bs-secondary-color);
+  user-select: none;
+}
+
+/* Long film descriptions (see _includes/table_of_vids.liquid) */
+.description summary {
+  display: block;
+  cursor: pointer;
+  list-style: none;
+}
+
+.description summary::-webkit-details-marker {
+  display: none;
+}
+
+.description[open] .description-preview,
+.description[open] .description-more,
+.description:not([open]) .description-less {
+  display: none;
+}
+
+.description-more,
+.description-less {
+  display: inline-block;
+  margin-top: 0.25em;
+  font-size: 0.9em;
+  color: var(--bs-link-color);
+}
+
+.description summary:hover .description-more,
+.description summary:hover .description-less {
+  text-decoration: underline;
+}

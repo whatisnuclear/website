@@ -1,0 +1,70 @@
+{%- comment -%}
+  Renders a digitized film from the _data/videos.yml catalog: the video embed,
+  the catalog description, a backlink to the catalog entry, and the transcript
+  if one exists at _data/transcripts/<id>.srt.
+
+    {% include film.liquid id="astr-tower-experiment" %}
+
+  Options:
+    caption  extra prose for the figure caption
+    parts    which pieces to render, in case the page supplies its own
+             (default "video,description,catalog,transcript")
+    youtube  video id, for a film whose catalog entry has no YouTube link yet
+{%- endcomment -%}
+
+{%- assign film = site.data.videos | where: 'id', include.id | first -%}
+{%- assign parts = include.parts
+  | default: 'video,description,catalog,transcript'
+  | split: ','
+-%}
+
+{%- assign youtube = include.youtube -%}
+{%- unless youtube -%}
+  {%- for link in film.links -%}
+    {%- if link.url contains 'youtube.com/watch?v=' -%}
+      {%- assign youtube = link.url
+        | split: 'v='
+        | last
+        | split: '&'
+        | first
+      -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endunless -%}
+
+{%- if parts contains 'video' %}
+  <figure id="{{ film.id }}">
+    {%- if youtube %}
+      <div class="ratio ratio-16x9">
+        {% include youtube.html id=youtube title=film.title %}
+      </div>
+    {%- endif %}
+    {%- if include.caption %}
+      <figcaption markdown="span">{{ include.caption }}</figcaption>
+    {%- endif %}
+  </figure>
+{%- endif %}
+
+{%- if parts contains 'description' and film.description %}
+  <blockquote class="blockquote">
+    <b>Catalog description: </b>{{ film.description }}
+  </blockquote>
+{%- endif %}
+
+{%- if parts contains 'catalog' %}
+  <p>
+    {%- if film.naid -%}
+      This is film
+      <a href="{% link old-videos.md %}#{{ film.id }}">{{ film.naid }}</a>
+      in our catalog.
+    {%- else -%}
+      This film is
+      <a href="{% link old-videos.md %}#{{ film.id }}">in our catalog</a>.
+    {%- endif -%}
+  </p>
+{%- endif %}
+
+{%- if parts contains 'transcript' %}
+  {% include transcript.html id=film.id youtube=youtube %}
+{%- endif -%}

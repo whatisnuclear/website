@@ -5,6 +5,8 @@ subtitle: A 1958 film about a weird reactor
 author: nick
 category: news
 tags: videos
+films:
+  - organic-moderated-reactor-experiment-omre
 description: >
   A digitized 1958 film showing the Organic-moderated nuclear reactor experiment (OMRE).
   Organic cooled reactors can run with low pressure, and have low corrosion and activation.
@@ -27,22 +29,10 @@ stability of suitable hydrocarbons under temperature and radiation environments
 encountered in power reactors. We found this 1958 film in the National Archives
 and got it digitized.
 
-<figure>
-<div class="ratio ratio-16x9">
-{% include youtube.html id="nOkkXlqh9HM" title="OMRE film" %}
-</div>
-</figure>
+{% include film.liquid id="organic-moderated-reactor-experiment-omre" %}
 
 You can also see the [same film with its original Spanish soundtrack
 here.](https://www.youtube.com/watch?v=e5AOcPYXZyg)
-
-<blockquote class="blockquote">
-{% assign vid = site.data.videos | where: "title", 'Organic Moderated Reactor Experiment (OMRE)' | first %}
-<b>Catalog description: </b> {{ vid.description }}
-</blockquote>
-
-This is film [88405]({% link old-videos.md %}#organic-moderated-reactor-experiment-omre) in our
-catalog.
 
 Thanks to Mikal Bøe for sponsoring the digitization of this film, and to Shirly Rodriguez Rojas
 for translating the original soundtrack from Spanish to English and providing the English
