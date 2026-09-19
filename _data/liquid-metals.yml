@@ -5,13 +5,13 @@
 - name: Sodium-Potassium eutectic (NaK)
   pros: Liquid at room temperature, common, not corrosive, non-toxic
   cons: >
-    Highly chemically reactive, high 14-hour induced radioactivity (it emits
+    Highly chemically reactive, high 15-hour induced radioactivity (it emits
     about 30,000x more radiation than water during operation and takes days
     rather than minutes to subside after shutdown)
   examples: EBR-1
 - name: Sodium metal (Na)
   pros: Commercially available, cheap, non-toxic, non-corrosive
-  cons: High 14-hour induced radioactivity, solid at room temperature, chemically reactive
+  cons: High 15-hour induced radioactivity, solid at room temperature, chemically reactive
   examples: Fermi-1, SRE, Hallam, EBR-2, SEFOR, FFTF, Phenix, SuperPhenix, BOR-60, BN-350, BN-600, BN800
 - name: Lithium (Li-7)
   pros: Extremely good heat transfer, 5x smaller/lighter pumps than for Na
