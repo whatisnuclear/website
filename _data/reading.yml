@@ -76,6 +76,16 @@
         A general overview of electricity generation and governance. Contains
         plenty of discussion of nuclear compared to other electricity generating
         technologies.
+    - author: Robert Zurbin
+      title: "The Case For Nukes"
+      url: https://www.goodreads.com/book/show/123248003-the-case-for-nukes
+      free: false
+      date: "2023"
+      description: >
+        Abundance-focused promotion of nuclear power with an emphasis on
+        Gen-IV technology. It understates the historical operational 
+        and maintenance challenges of such reactors but still has some
+        good info in it.
 
 - category: Academic reports and articles
   items:
