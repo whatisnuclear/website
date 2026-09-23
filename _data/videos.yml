@@ -1311,6 +1311,7 @@
   naid: 88198
   iaea: AVN0155
   date: 1961
+  resolution: 720p
   length: 17
   color: true
   description: >
@@ -1327,9 +1328,11 @@
     into the atmosphere are shown in a detailed animation sequence. Many
     beneficial uses of SNAP in the U. S. national space program are illustrated.
     notes:
-  priority: 3
   notes: National Archives incorrectly has "reactor" without the plural in the title
   links:
+    - url: https://www.youtube.com/watch?v=JYvuOxIrc8g
+      name: On YouTube
+      notes: Thanks to IAEA Lise Meitner library for digitizing
 
 - title: Our nearest star
   id: our-nearest-star
@@ -2627,7 +2630,6 @@
   date: 1958
   length: 55
   color: true
-  priority: 2
   topics: ["Fusion"]
   description: >
     This film is a technical progress report of the fusion research programs
@@ -2641,6 +2643,11 @@
     knowledge of physics to be understood, but it should be most useful at college
     colloquia as a summary of present research in hot plasma physics.)
   notes:
+  win: true
+  links:
+    - name: On YouTube
+      url: https://www.youtube.com/watch?v=1DP6xuOQvEw
+      notes: First third thanks to Adam Rizika, and the rest was digitized by the IAEA
 
 - title: The MIT Research Reactor
   id: the-mit-research-reactor
@@ -3273,12 +3280,15 @@
   color: true
   length: 13
   catalog: IAEA
-  priority: 2
-  resolution: 4K
+  resolution: 720p
   format: 16mm
   description: >
     This film presents some major aspects of the fabrication, installation and
     operation of a new core (Mark III) for the Experimental Breeder Reactor I.
+  links:
+    - url: https://www.youtube.com/watch?v=2mqPs-kNAgw
+      name: On YouTube
+      notes: Thanks to IAEA Lise Meitner library for digitizing
 
 - title: Submarine Thermal Reactor
   id: submarine-thermal-reactor
@@ -3389,7 +3399,7 @@
   color: true
   length: 10
   catalog: IAEA
-  resolution: 4K
+  resolution: 720p
   format: 16mm
   description: >
     This semitechnical film presents potential industrial applications of
