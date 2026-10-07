@@ -3,6 +3,13 @@
 - category: General interest
   description: High-level introductions
   items:
+   - author: Tim Gregory
+      title: Going Nuclear: How the Atom Will Save the Planet
+      url: https://www.tim-gregory.co.uk/goingnuclear
+      date: "2025"
+      free: false
+      description: >
+        This book provides a fact-based argument for the environemental and economic benefits of nuclear power in a fun and entertaining way.
     - author: Jacques Leclercq
       title: The Nuclear Age
       url: https://archive.org/details/nuclearage0000lecl
