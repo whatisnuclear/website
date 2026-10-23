@@ -330,3 +330,16 @@
       url: https://www.iplayboy.com/issue/19830501
       venue: Playboy interview
       date: 1983-05-01
+- name: Donald Trump
+  title: US President
+  fame: 1
+  expertise: 3
+  img: trump.jpg
+  img_src: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail?download
+  quotes:
+    - quote: >
+        It's a hot industry. It's a brilliant industry. You have to do it right. It's become
+        very safe and environmental, yes, a hundred percent.
+      url: https://www.govinfo.gov/content/pkg/DCPD-202500631/html/DCPD-202500631.htm
+      venue: Oval Office
+      date: 2025-05-23
