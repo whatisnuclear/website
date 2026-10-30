@@ -1,5 +1,5 @@
 {%- if page.author and site.data.authors[page.author] -%}
-  <div class="card bg-light border-0 shadow-sm my-5">
+  <div class="card bg-body-tertiary border-0 shadow-sm my-5">
     <div class="card-body p-4">
       <div class="d-flex flex-column flex-md-row align-items-center">
         {% if site.data.authors[page.author].picture %}
@@ -34,7 +34,7 @@
             {% endif %}
             {% if site.data.authors[page.author].linkedin %}
               <a
-                href="https://linkedin.com/in/{{ site.data[page.author].linkedin}}"
+                href="https://linkedin.com/in/{{ site.data.authors[page.author].linkedin }}"
                 class="text-secondary me-3 text-decoration-none"
                 title="Connect on LinkedIn"
                 rel="me"
