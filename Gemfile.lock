@@ -144,7 +144,6 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-time-to-read
   tzinfo-data
-  webrick
 
 BUNDLED WITH
    2.4.20
