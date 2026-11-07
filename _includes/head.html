@@ -50,10 +50,15 @@
   content="{{ fulltitle }}"
   property="og:title"
 >
-<meta
-  content="{{ site.url }}{{ page.image | default: '/img/reactor.png' }}"
-  property="og:image"
->
+{%- comment -%}
+  Site-relative images get the site url; full urls (e.g. the YouTube thumbnails
+  on generated film pages) are used as they are.
+{%- endcomment -%}
+{%- assign image_url = page.image | default: '/img/reactor.png' -%}
+{%- unless image_url contains '://' -%}
+  {%- assign image_url = site.url | append: image_url -%}
+{%- endunless %}
+<meta content="{{ image_url }}" property="og:image">
 {% if page.summary %}
   <meta content="{{ page.summary }}" property="og:description">
 {%- elsif page.description -%}
@@ -97,7 +102,7 @@
 {%- endif -%}
 {% if page.image %}
   <meta content="summary_large_image" name="twitter:card">
-  <meta content="{{ site.url }}{{ page.image }}" name="twitter:image">
+  <meta content="{{ image_url }}" name="twitter:image">
 {%- else -%}
   <meta content="summary" name="twitter:card">
   <meta content="{{ site.title_image }}" name="twitter:image">

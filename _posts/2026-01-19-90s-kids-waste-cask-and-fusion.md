@@ -10,6 +10,10 @@ author: nick
 about_author: false
 image: /img/waste-cask-collision.jpg
 byline: true
+films:
+  - splitting-atoms-an-electrifying-experience
+  - accident-testing
+  - sun-of-man
 ---
 
 <div class="row">

@@ -1,0 +1,1347 @@
+1
+00:00:00,000 --> 00:00:23,260
+This is a secret film containing restricted data.
+
+2
+00:00:30,000 --> 00:00:58,000
+Gentlemen, the purpose of this meeting
+
+3
+00:00:58,000 --> 00:01:01,299
+is to bring you up to date on the ANP program.
+
+4
+00:01:01,979 --> 00:01:05,099
+During the three years since the last filmed report was made,
+
+5
+00:01:05,519 --> 00:01:07,840
+a good many changes have taken place in the program.
+
+6
+00:01:08,560 --> 00:01:13,599
+This briefing will cover that three-year period, 1956 through 1958.
+
+7
+00:01:15,760 --> 00:01:19,460
+For briefing purposes, we have broken this program into two sections.
+
+8
+00:01:20,060 --> 00:01:30,019
+The manned program, which will be covered in this first film, and the unmanned, or Pluto, rover, and snap programs, which will be covered in a separate film.
+
+9
+00:01:30,939 --> 00:01:36,219
+This, then, will be the Aircraft Nuclear Propulsion Status Report for 1958.
+
+10
+00:01:37,079 --> 00:01:41,560
+The Aircraft Nuclear Propulsion Program was established in 1950
+
+11
+00:01:41,560 --> 00:01:46,219
+as a result of feasibility studies conducted under the NEPA and Lexington projects.
+
+12
+00:01:47,579 --> 00:01:51,039
+General Kern was given command of the project in the Atomic Energy Commission,
+
+13
+00:01:51,040 --> 00:01:57,140
+which was responsible for reactor development, and in the Air Force's Air Research and Development Command,
+
+14
+00:01:57,540 --> 00:02:00,620
+which was responsible for engine and airframe development.
+
+15
+00:02:02,440 --> 00:02:05,760
+During the next few years, the main objective of the program
+
+16
+00:02:05,760 --> 00:02:11,980
+was the development of design information which would permit evaluation on a firm basis of flight feasibility
+
+17
+00:02:11,980 --> 00:02:14,780
+and of the effort required to achieve such flight.
+
+18
+00:02:14,780 --> 00:02:26,039
+In 1955, the Air Force established a requirement for a strategic bomber of extremely long range
+
+19
+00:02:26,039 --> 00:02:31,300
+and capable of a supersonic dash to the target at high altitude.
+
+20
+00:02:31,300 --> 00:02:35,900
+As a result of this requirement, the Aircraft Nuclear Propulsion Program was oriented toward
+
+21
+00:02:35,900 --> 00:02:41,479
+the development of such an aircraft, Weapon System 125A.
+
+22
+00:02:41,479 --> 00:02:46,659
+was immediately started and continued steadily until major material problems resulted in
+
+23
+00:02:46,659 --> 00:02:51,919
+reduced thrust to weight ratios, indicating an adequate supersonic dash radius was not
+
+24
+00:02:51,919 --> 00:02:59,120
+feasible. This performance loss resulted in a reappraisal of the entire Weapon System
+
+25
+00:02:59,120 --> 00:03:06,819
+125A program in the fall of 1956. Subsequently, a new program was begun with major emphasis
+
+26
+00:03:06,819 --> 00:03:11,019
+placed solely on the development of a nuclear propulsion system.
+
+27
+00:03:11,019 --> 00:03:15,259
+This program was placed under a dual agency aircraft nuclear
+
+28
+00:03:15,259 --> 00:03:19,659
+propulsion office, with General Kern in charge.
+
+29
+00:03:19,659 --> 00:03:22,759
+In March of 1958, a presidential directive
+
+30
+00:03:22,759 --> 00:03:28,019
+approved a program development objective of a militarily useful aircraft.
+
+31
+00:03:28,019 --> 00:03:31,359
+A short time later, in order to maintain airborne alert
+
+32
+00:03:31,359 --> 00:03:35,000
+and high payload capabilities, penetration requirements
+
+33
+00:03:35,000 --> 00:03:38,060
+were reduced from high altitude to low altitude,
+
+34
+00:03:38,060 --> 00:03:41,879
+and from supersonic to high subsonic.
+
+35
+00:03:41,879 --> 00:03:45,479
+Low altitude also offers greater probability of survival
+
+36
+00:03:45,479 --> 00:03:47,539
+during penetration.
+
+37
+00:03:47,539 --> 00:03:52,039
+This new approach was known as the camel concept.
+
+38
+00:03:52,039 --> 00:03:55,439
+Under this new camel concept, the nuclear-powered aircraft
+
+39
+00:03:55,439 --> 00:04:00,740
+would patrol at high altitude for long periods of time.
+
+40
+00:04:00,740 --> 00:04:06,460
+If necessary, the patrolling nuclear aircraft could proceed directly to predesignated missile release
+
+41
+00:04:06,460 --> 00:04:09,960
+points, launch their long range missiles,
+
+42
+00:04:09,960 --> 00:04:13,500
+and then drop to a low level to perform low altitude
+
+43
+00:04:13,500 --> 00:04:17,240
+evasive pattern penetration at near sonic speeds
+
+44
+00:04:17,240 --> 00:04:21,259
+to either perform reconnaissance or deliver a lay down weapon
+
+45
+00:04:21,259 --> 00:04:24,459
+against hard or hidden targets.
+
+46
+00:04:24,459 --> 00:04:27,680
+Studies indicated that high subsonic penetration speeds
+
+47
+00:04:27,680 --> 00:04:32,240
+at low altitude would provide maximum mission protection.
+
+48
+00:04:32,240 --> 00:04:38,079
+The difficulties of low altitude radar detection, as well as recent high altitude nuclear bomb tests
+
+49
+00:04:38,079 --> 00:04:41,120
+in the Pacific, have indicated the advisability
+
+50
+00:04:41,120 --> 00:04:45,240
+of low altitude penetration.
+
+51
+00:04:45,240 --> 00:04:49,560
+These missions could be performed without benefit of foreign bases and at reduced
+
+52
+00:04:49,560 --> 00:04:52,040
+global operating costs.
+
+53
+00:04:52,040 --> 00:04:55,400
+Besides the major propulsion program for manned aircraft,
+
+54
+00:04:55,400 --> 00:05:02,180
+other associated areas under investigation include airframe, shielding, radiation effects,
+
+55
+00:05:02,180 --> 00:05:04,939
+life sciences, and safety.
+
+56
+00:05:04,939 --> 00:05:08,639
+In 1957, the ANP program was also
+
+57
+00:05:08,639 --> 00:05:12,319
+expanded to take in the three additional nuclear projects
+
+58
+00:05:12,319 --> 00:05:17,960
+designated Pluto, Rover, and Snap mentioned before.
+
+59
+00:05:17,960 --> 00:05:23,939
+First, let's look at the manned aircraft program and the two different propulsion methods.
+
+60
+00:05:23,939 --> 00:05:28,579
+They are General Electric's direct or air-cooled system
+
+61
+00:05:28,579 --> 00:05:32,379
+and Pratt & Whitney's indirect or liquid metal cooled system.
+
+62
+00:05:33,560 --> 00:05:37,519
+Of the two, the direct cycle system promised early flight capability
+
+63
+00:05:37,519 --> 00:05:40,599
+and was selected for the major propulsion effort.
+
+64
+00:05:41,560 --> 00:05:46,899
+In the GE system, a solid fuel element, air-cooled nuclear reactor,
+
+65
+00:05:47,199 --> 00:05:49,159
+was located between twin engines.
+
+66
+00:05:50,099 --> 00:05:53,299
+Air coming into the engine is compressed by the compressor blades,
+
+67
+00:05:54,039 --> 00:06:02,959
+flows through the hot reactor where it is heated, and conversely cools the reactor and then passes through the turbines and the engine exhaust nozzle
+
+68
+00:06:02,959 --> 00:06:10,159
+to produce thrust. This design makes it possible to modify the reactor core without disturbing the
+
+69
+00:06:10,159 --> 00:06:16,120
+remainder of the system. Heat transfer reactor experiment number one utilizing this principle
+
+70
+00:06:16,120 --> 00:06:21,100
+was conducted in January of 1956 at the National Reactor Test Station in Idaho.
+
+71
+00:06:21,100 --> 00:06:31,100
+Inside the initial engine test facility, the reactor was brought to criticality and the engine switched from chemical burning heat to run entirely on reactor heat.
+
+72
+00:06:31,100 --> 00:06:38,100
+The operation was successful, with temperatures of 1,400 degrees achieved at the turbine inlet.
+
+73
+00:06:38,100 --> 00:06:45,100
+In the fall of 1957, the same reactor engine setup was used for a series of Heater 2 tests.
+
+74
+00:06:45,100 --> 00:06:50,140
+the only major change was in the active reactor core which was modified by
+
+75
+00:06:50,140 --> 00:06:56,060
+removing the seven center fuel tubes to form an octagonal hole by this means
+
+76
+00:06:56,060 --> 00:07:00,760
+various solid moderators and fuel element materials could be inserted
+
+77
+00:07:00,760 --> 00:07:08,320
+within the core and tested altogether three inserts were tested the first used
+
+78
+00:07:08,320 --> 00:07:14,120
+a clad hydrated zirconium moderator the second an all ceramic insert made up of
+
+79
+00:07:14,120 --> 00:07:21,079
+layers of beryllium oxide tubes with a beryllium oxide moderator. Incidentally during this test a
+
+80
+00:07:21,079 --> 00:07:27,600
+record interior temperature of more than 2700 degrees Fahrenheit was reached, and the third
+
+81
+00:07:27,600 --> 00:07:34,579
+insert successfully tested an unclad hydrated zirconium moderator. A fourth test was then
+
+82
+00:07:34,579 --> 00:07:41,060
+conducted to obtain experimental data on fission product releases. The airflow to one element was
+
+83
+00:07:41,060 --> 00:07:46,459
+deliberately restricted to the point where the fuel element melted. Data from
+
+84
+00:07:46,459 --> 00:07:51,139
+this and similar experiments are used in determining operational criteria so that
+
+85
+00:07:51,139 --> 00:07:56,120
+nuclear operations will not result in a hazard to the public. A special
+
+86
+00:07:56,120 --> 00:08:00,079
+high-power reactor system was then constructed and designated HTRE number
+
+87
+00:08:00,079 --> 00:08:04,040
+three. It incorporated flight type reactor controls and a flight type
+
+88
+00:08:04,040 --> 00:08:09,620
+reactor shield. This model illustrates HTRE number three, the first flight type
+
+89
+00:08:09,620 --> 00:08:15,540
+horizontal 33 megawatt solid moderated reactor. This was a significant stride
+
+90
+00:08:15,540 --> 00:08:19,500
+forward in propulsion development. The power plant simulated flight type
+
+91
+00:08:19,500 --> 00:08:24,920
+geometry and structure. It was expected to provide valuable shielding data as
+
+92
+00:08:24,920 --> 00:08:31,180
+well as solid moderator performance data. The initial engine test facilities were
+
+93
+00:08:31,180 --> 00:08:37,899
+also modified for the HTRE number three tests. For example, a 400 foot tunnel was
+
+94
+00:08:37,899 --> 00:08:42,659
+constructed to provide a shielded roadway beyond any possible contaminated area.
+
+95
+00:08:43,679 --> 00:08:49,019
+This permitted changing shifts without shutting down the reactor, and in the event of reactor
+
+96
+00:08:49,019 --> 00:08:56,919
+failure, the entire structure could be evacuated in seconds. Late in 1958, HTRE number three was
+
+97
+00:08:56,919 --> 00:09:03,159
+moved to the initial engine test facility for its first test run. During a low-power test experiment
+
+98
+00:09:03,159 --> 00:09:06,199
+to determine heating rates in the various components of the system,
+
+99
+00:09:06,199 --> 00:09:11,659
+an error in electrical circuitry caused the reactor to exceed the design power level.
+
+100
+00:09:12,539 --> 00:09:16,699
+Consequently, damage to the fuel cartridges and some moderator blocks occurred.
+
+101
+00:09:18,899 --> 00:09:23,679
+Valuable data, however, were obtained during the operation and from the incident itself.
+
+102
+00:09:24,579 --> 00:09:28,159
+As an example, the inherent safety of the reactor was demonstrated
+
+103
+00:09:28,159 --> 00:09:32,439
+when the change in geometry resulted in an automatic shutdown of the reactor.
+
+104
+00:09:33,159 --> 00:09:39,159
+These HTR number three experiments were expected to proceed in 1959.
+
+105
+00:09:39,159 --> 00:09:45,159
+A short distance from the IET, a flight engine test facility was under construction.
+
+106
+00:09:45,159 --> 00:09:48,159
+Here, full scale propulsion tests will be conducted,
+
+107
+00:09:48,159 --> 00:09:53,159
+possibly with a nuclear propulsion system mounted on an air frame.
+
+108
+00:09:53,159 --> 00:09:57,159
+This facility was to be ready for use in 1959.
+
+109
+00:09:57,159 --> 00:10:03,159
+Other GE facilities at the Idaho test site include the shield test pool facilities,
+
+110
+00:10:03,159 --> 00:10:08,159
+where the swimming pool reactor was to be ready for operation in 1959,
+
+111
+00:10:08,159 --> 00:10:11,159
+and the newly completed low-power test facility,
+
+112
+00:10:11,159 --> 00:10:16,159
+which provides for critical experiments on simulated reactor core configurations
+
+113
+00:10:16,159 --> 00:10:19,159
+and fuel loading of actual cores.
+
+114
+00:10:19,159 --> 00:10:23,159
+While these operations were going on in Idaho,
+
+115
+00:10:23,159 --> 00:10:32,279
+GE's Evandale facilities, located near Cincinnati, Ohio, continued work on the Direct Cycle Propulsion System, which was designated XMA-1.
+
+116
+00:10:33,559 --> 00:10:42,500
+This model illustrates how the XMA-1 system consisted of two X-211 turbojet engines with a reactor fitted between them.
+
+117
+00:10:43,719 --> 00:10:47,100
+Reactor control rods were located in the forward section of the reactor.
+
+118
+00:10:47,100 --> 00:10:53,580
+This cross-section view shows how compressed air would enter and leave the reactor through a series
+
+119
+00:10:53,580 --> 00:11:00,540
+of wavy ducts. This design allowed the passage of air but trapped the straight line nuclear
+
+120
+00:11:00,540 --> 00:11:07,460
+radiation. A full-scale mock-up of the XMA1 propulsion system was also constructed with
+
+121
+00:11:07,460 --> 00:11:14,879
+the simulated reactor heat source in the center. A comparison with a conventional J79 chemical
+
+122
+00:11:14,879 --> 00:11:25,399
+engine give some idea of the X211 engine in size and power. For instance, the J79 weighs 3,400
+
+123
+00:11:25,399 --> 00:11:37,439
+pounds. The new X211, 15,700 pounds. J79 has 17 stages of compressor stators, six of these stages
+
+124
+00:11:37,440 --> 00:11:46,380
+being variable. The X-211 has 16 stages, all variable. J-79 sea-level thrust with afterburner,
+
+125
+00:11:46,780 --> 00:11:57,640
+15,600 pounds. The X-211, 34,400 pounds. It should also be noted that while it will operate on
+
+126
+00:11:57,640 --> 00:12:04,320
+chemical fuel, the X-211 was designed and built and is at its most efficient under nuclear power.
+
+127
+00:12:05,320 --> 00:12:09,460
+Four of these engines had been successfully tested with chemical fuel only
+
+128
+00:12:09,460 --> 00:12:14,660
+in a large test cell which had covered air intakes and tall exhaust stacks.
+
+129
+00:12:15,540 --> 00:12:20,360
+This test setup closely simulated the XMA-1 reactor engine combination
+
+130
+00:12:20,360 --> 00:12:24,280
+with an X-211 engine on the left and a dummy engine on the right.
+
+131
+00:12:25,860 --> 00:12:29,060
+The reactor was simulated by a center heat chamber
+
+132
+00:12:29,060 --> 00:12:33,900
+which produced temperatures, pressures, and fluctuations simulating those of the reactor.
+
+133
+00:12:34,320 --> 00:12:42,080
+This engine, the third, was operated for 30 hours under chemical fuel at low 1100 degrees
+
+134
+00:12:42,080 --> 00:12:43,600
+turbine temperatures.
+
+135
+00:12:43,600 --> 00:12:48,320
+Eventually, it will be run at 1700 degrees.
+
+136
+00:12:48,320 --> 00:12:52,580
+The first twin engine running was scheduled for the third quarter of 1959.
+
+137
+00:12:52,580 --> 00:12:58,980
+Concurrently, work on flight reactor development was also being conducted in General Electric's
+
+138
+00:12:58,980 --> 00:13:02,440
+Evendale Aircraft Nuclear Propulsion Department.
+
+139
+00:13:02,440 --> 00:13:09,100
+Here, nuclear power generation was being simulated in fuel element testing by the use of induction
+
+140
+00:13:09,100 --> 00:13:10,800
+heating.
+
+141
+00:13:10,800 --> 00:13:15,340
+An intensive research program was also being conducted to develop and evaluate high-temperature
+
+142
+00:13:15,340 --> 00:13:18,520
+metallic fuel element materials.
+
+143
+00:13:18,520 --> 00:13:24,280
+New chromium-based alloys of improved strength and workability were being developed.
+
+144
+00:13:24,280 --> 00:13:28,980
+In a similar way, moderator materials were being developed to improve hydrogen retention
+
+145
+00:13:28,980 --> 00:13:33,940
+and metallurgical stability at elevated temperatures.
+
+146
+00:13:33,940 --> 00:13:36,940
+Other materials were also being examined for possible use
+
+147
+00:13:36,940 --> 00:13:39,139
+in the reactor core.
+
+148
+00:13:39,139 --> 00:13:43,480
+For example, hydrolysis tests were being conducted on beryllium oxide fuel elements
+
+149
+00:13:43,480 --> 00:13:47,159
+under maximum temperature conditions.
+
+150
+00:13:47,159 --> 00:13:50,159
+In 1958, however, a chromium fuel element
+
+151
+00:13:50,159 --> 00:13:53,440
+with a clad hydrated zirconium yttrium alloy moderator
+
+152
+00:13:53,440 --> 00:13:56,740
+looked promising for the tactical reactor core.
+
+153
+00:13:56,740 --> 00:14:02,200
+Schedules called for the first direct cycle nuclear propulsion system ground test in the spring of 1961.
+
+154
+00:14:03,500 --> 00:14:07,340
+The entire General Electric program cannot, of course, be covered here,
+
+155
+00:14:07,659 --> 00:14:10,440
+but those were the major propulsion program highlights.
+
+156
+00:14:11,680 --> 00:14:18,500
+The other propulsion system under investigation is Pratt & Whitney's liquid metal cooled indirect cycle system.
+
+157
+00:14:19,539 --> 00:14:24,200
+As I mentioned earlier, at the termination of the Weapon System 125A program,
+
+158
+00:14:24,200 --> 00:14:30,120
+the decision was made to concentrate on General Electric's air-cooled direct cycle system for early flight.
+
+159
+00:14:31,180 --> 00:14:36,920
+As a result, the Pratt & Whitney indirect cycle system was reoriented toward long-range objectives,
+
+160
+00:14:37,280 --> 00:14:39,840
+causing severe cutbacks in early development effort.
+
+161
+00:14:41,300 --> 00:14:45,240
+For example, the work on the circulating fuel reactor propulsion system,
+
+162
+00:14:45,560 --> 00:14:50,720
+which was a joint Oak Ridge-Pratt & Whitney program, was first cut back, then canceled.
+
+163
+00:14:50,720 --> 00:14:56,940
+This included the aircraft reactor test at Oak Ridge and all conversion work on
+
+164
+00:14:56,940 --> 00:15:03,019
+the Pratt & Whitney J91 chemical engine. At the present time, Pratt & Whitney is
+
+165
+00:15:03,019 --> 00:15:07,340
+concentrating on a high-performance solid-fuel liquid metal cooled reactor
+
+166
+00:15:07,340 --> 00:15:13,500
+with all nuclear supersonic flight potential. This system also operates by
+
+167
+00:15:13,500 --> 00:15:19,279
+using a solid fuel reactor to supply heat to various type power plants, but in
+
+168
+00:15:19,279 --> 00:15:24,339
+In this case the reactor is liquid metal cooled with a coolant circulating through radiators
+
+169
+00:15:24,339 --> 00:15:31,019
+placed inside the engines where it transfers its heat to the air leaving the engine compressors.
+
+170
+00:15:31,019 --> 00:15:36,240
+The liquid metal coolant under consideration is lithium 7.
+
+171
+00:15:36,240 --> 00:15:41,439
+If as in early models this coolant is sodium, a secondary loop is needed with an intermediate
+
+172
+00:15:41,439 --> 00:15:43,360
+heat exchanger.
+
+173
+00:15:43,360 --> 00:15:48,100
+This is because sodium carries appreciable amounts of radiation from the reactor core
+
+174
+00:15:48,100 --> 00:15:50,680
+while lithium does not.
+
+175
+00:15:50,680 --> 00:15:53,779
+For this reason, using lithium, the secondary circuit
+
+176
+00:15:53,779 --> 00:15:57,100
+would not be necessary if an oxidation-resistant radiator
+
+177
+00:15:57,100 --> 00:16:00,700
+compatible with lithium can be developed.
+
+178
+00:16:00,700 --> 00:16:05,879
+The indirect cycle work is being accomplished at the Air Force's recently completed Connecticut Aircraft
+
+179
+00:16:05,879 --> 00:16:10,440
+Nuclear Engine Laboratory near Middletown, Connecticut.
+
+180
+00:16:10,440 --> 00:16:17,320
+The first phase of the reoriented program consists of reactor research and component development.
+
+181
+00:16:17,320 --> 00:16:22,420
+Primary emphasis at the present time centers around the development of a suitable liquid metal coolant
+
+182
+00:16:22,420 --> 00:16:24,800
+and the necessary containment materials.
+
+183
+00:16:25,920 --> 00:16:31,000
+As part of this study, molten lithium has been circulated through forced convection loops.
+
+184
+00:16:31,660 --> 00:16:37,200
+The loop tubing is made of various materials to test corrosion and mass transport effects.
+
+185
+00:16:38,540 --> 00:16:41,920
+In this instance, the containing material is a columbium alloy
+
+186
+00:16:41,920 --> 00:16:46,200
+clad on the airside with stainless steel to protect the alloy from oxidation.
+
+187
+00:16:48,040 --> 00:16:52,840
+Other forced convection loops are operated inside huge pressure tanks, in which the air has
+
+188
+00:16:52,840 --> 00:16:58,660
+been replaced with an inert gas to prevent oxidation by outside air during the tests.
+
+189
+00:16:58,660 --> 00:17:05,019
+Temperatures of 2,000 degrees Fahrenheit have been sustained for 250 hours.
+
+190
+00:17:05,019 --> 00:17:10,380
+More than 25,000 hours of these studies have shown that columbium alloys give the most promise
+
+191
+00:17:10,380 --> 00:17:18,319
+for reactor structures because of their high temperature strength and resistance to mass transport with lithium. Of prime
+
+192
+00:17:18,319 --> 00:17:21,859
+importance at Pratt & Whitney is the construction of a forced convection loop
+
+193
+00:17:21,859 --> 00:17:27,559
+for testing fuel element assemblies in nuclear test reactors. The reactor test
+
+194
+00:17:27,559 --> 00:17:31,819
+loop resembles a miniature liquid-cooled reactor except that it contains a
+
+195
+00:17:31,819 --> 00:17:37,279
+subcritical amount of fuel. In preparation for testing in Idaho's
+
+196
+00:17:37,279 --> 00:17:41,539
+engineering test reactor, a full-scale loop was operated under non-nuclear
+
+197
+00:17:41,539 --> 00:17:47,279
+conditions. A 1,000 kilowatt oil furnace was constructed to supply the heat which
+
+198
+00:17:47,279 --> 00:17:52,819
+in the test reactor will be provided by a 5-inch fuel element. It was necessary
+
+199
+00:17:52,819 --> 00:17:56,299
+to place the loop high up above the furnace to provide the proper heat and
+
+200
+00:17:56,299 --> 00:18:01,639
+circulation environment. The reactor test loop was scheduled for operation in the
+
+201
+00:18:01,639 --> 00:18:08,220
+engineering test reactor at Idaho during 1959. Other components of the indirect
+
+202
+00:18:08,220 --> 00:18:14,019
+cycle system were also undergoing intensive testing. In this instance, data are being
+
+203
+00:18:14,019 --> 00:18:21,420
+gathered on a small-scale model of the heat radiator. Bolton sodium potassium alloy, NAK,
+
+204
+00:18:21,880 --> 00:18:27,360
+is passed through the radiator, making it red hot, as it will be in the engine. And,
+
+205
+00:18:27,420 --> 00:18:32,160
+as will happen in flight, a blast of compressed air is loosed on the radiator, subjecting
+
+206
+00:18:32,160 --> 00:18:37,240
+it to extreme thermal shock. This same effect will occur in flight when the pilot buries
+
+207
+00:18:37,240 --> 00:18:40,460
+the air flow with the controls.
+
+208
+00:18:40,460 --> 00:18:45,299
+Quarter section radiators were scheduled to be tested under various simulated flight conditions
+
+209
+00:18:45,299 --> 00:18:50,620
+in the newly constructed four million dollar pilot radiator laboratory.
+
+210
+00:18:50,620 --> 00:18:56,099
+Other canal facilities include a pump turbine laboratory for testing full scale liquid metal
+
+211
+00:18:56,099 --> 00:19:02,680
+pumps and pump components, a heat exchange laboratory for testing liquid metal to liquid
+
+212
+00:19:02,680 --> 00:19:08,779
+metal heat exchangers, an air laboratory for testing radiator turning vanes and other air
+
+213
+00:19:08,779 --> 00:19:15,120
+components, a special hazards facility for determining liquid metal air and liquid metal
+
+214
+00:19:15,120 --> 00:19:22,600
+water reactions, a nuclear physics laboratory for conducting reactor critical experiments,
+
+215
+00:19:22,600 --> 00:19:27,700
+and a general laboratory for chemical and metallurgical research.
+
+216
+00:19:27,700 --> 00:19:33,420
+The present indirect cycle research and development phase will continue through mid-1959.
+
+217
+00:19:33,420 --> 00:19:37,539
+By that time it is estimated that the program will have progressed to the point where the
+
+218
+00:19:37,539 --> 00:19:44,819
+fabrication of an experimental aircraft reactor will be considered by the AEC.
+
+219
+00:19:44,819 --> 00:19:49,680
+As you can see, this is a vast propulsion system program, with both General Electric
+
+220
+00:19:49,680 --> 00:19:54,319
+and Pratt & Whitney conducting extensive investigations.
+
+221
+00:19:54,319 --> 00:19:59,939
+As of the last of 1958, we expected to have a direct cycle nuclear system in ground operation
+
+222
+00:19:59,939 --> 00:20:00,939
+by mid-1961.
+
+223
+00:20:00,939 --> 00:20:06,220
+Now this isn't the entire picture, of course.
+
+224
+00:20:06,220 --> 00:20:11,839
+Closely connected to the propulsion program is the question of shielding.
+
+225
+00:20:11,839 --> 00:20:17,279
+As you may recall, shielding for the nuclear aircraft has been divided with a shadow shield
+
+226
+00:20:17,279 --> 00:20:22,759
+around the reactor and additional shielding around the crew compartment.
+
+227
+00:20:22,759 --> 00:20:27,779
+This arrangement subjects all parts of the plane to radiation but allows a slimmer, more
+
+228
+00:20:27,779 --> 00:20:32,440
+aerodynamic configuration with an earlier flight potential.
+
+229
+00:20:32,440 --> 00:20:38,819
+Actually shielding investigation can be broken into two sections, experimental and theoretical.
+
+230
+00:20:38,819 --> 00:20:43,079
+One of the greatest contributors to experimental work has been Convair, a division of General
+
+231
+00:20:43,079 --> 00:20:46,579
+Dynamics at their Fort Worth plant.
+
+232
+00:20:46,579 --> 00:20:52,699
+As you recall, late in 1955, and working with Oak Ridge National Laboratory, they converted
+
+233
+00:20:52,699 --> 00:20:59,399
+a B-36 into a nuclear test airplane to investigate the split shield concept.
+
+234
+00:20:59,399 --> 00:21:02,039
+This was not a nuclear-powered airplane.
+
+235
+00:21:02,039 --> 00:21:08,819
+Its engines were the conventional chemically-fueled engines of the B-36, but it did carry an operating
+
+236
+00:21:08,819 --> 00:21:14,079
+water-cooled, 1-megawatt reactor in the Bombay area.
+
+237
+00:21:14,079 --> 00:21:18,319
+Following the split-shield concept, the reactor was shielded with shielding
+
+238
+00:21:18,319 --> 00:21:21,439
+around the crew compartment also.
+
+239
+00:21:21,439 --> 00:21:26,079
+A series of in-flight radiation tests demonstrated the feasibility of this concept
+
+240
+00:21:26,079 --> 00:21:30,519
+and produced information regarding the detrimental effect of decreasing air density
+
+241
+00:21:30,519 --> 00:21:32,460
+at higher altitudes.
+
+242
+00:21:32,460 --> 00:21:37,240
+The flights also provided the first substantial data regarding the effects of radiation
+
+243
+00:21:37,240 --> 00:21:40,299
+on aircraft structures.
+
+244
+00:21:40,299 --> 00:21:47,700
+Following the flight tests, the reactor shield and the crew shield were transported to Oak Ridge, where they were positioned in the tower facility.
+
+245
+00:21:49,140 --> 00:21:53,140
+The reactor was then operated, continuing the study of shielding effectiveness.
+
+246
+00:21:54,180 --> 00:21:58,740
+By 1958, many new shielding materials were being investigated,
+
+247
+00:21:58,740 --> 00:22:05,300
+including reactor shielding materials such as lithium hydride, beryllium oxide, tungsten alloys,
+
+248
+00:22:05,300 --> 00:22:11,620
+and depleted uranium. While Oak Ridge continued to be the leader in theoretical studies and
+
+249
+00:22:11,620 --> 00:22:16,880
+experimental testing, material testing was also going on at other facilities.
+
+250
+00:22:16,880 --> 00:22:21,400
+For example, the Battelle Memorial Institute swimming pool reactor was
+
+251
+00:22:21,400 --> 00:22:26,620
+being used to conduct shielding tests. General Electric's shielding activity
+
+252
+00:22:26,620 --> 00:22:29,680
+was soon to be stepped up with the completion of the previously mentioned
+
+253
+00:22:29,680 --> 00:22:34,820
+shield test pool facilities. Theoretically speaking, shielding
+
+254
+00:22:34,820 --> 00:22:39,500
+computations based on these experiments have produced encouraging results.
+
+255
+00:22:39,500 --> 00:22:46,519
+For example, given a weight, it was now possible to predict the resultant dosage to the crew within allowable limits.
+
+256
+00:22:46,519 --> 00:22:51,720
+This program may be summed up by saying that shielding materials were pretty well set,
+
+257
+00:22:51,720 --> 00:22:55,680
+although fabrication procedures were something of a problem.
+
+258
+00:22:55,680 --> 00:23:00,380
+We could, however, fly a first development aircraft with existing shielding designs,
+
+259
+00:23:00,380 --> 00:23:05,160
+but more in-flight data would be needed for an operational aircraft.
+
+260
+00:23:05,160 --> 00:23:10,120
+Much the same can be said for the radiation effects program.
+
+261
+00:23:10,120 --> 00:23:15,700
+Radiation concern has been confined to fast neutrons and gamma rays, and their deteriorating
+
+262
+00:23:15,700 --> 00:23:21,800
+effect on organic materials, as well as their effect on metals under stress.
+
+263
+00:23:21,800 --> 00:23:27,279
+The effect of induced radioactivity for prolonged periods after exposure and radiation effects
+
+264
+00:23:27,279 --> 00:23:33,519
+on electrical components and electrical fields were also being investigated.
+
+265
+00:23:33,519 --> 00:23:38,400
+To supply this critical information, a series of dynamic tests have been conducted at Convair's
+
+266
+00:23:38,400 --> 00:23:42,440
+ground test reactor facility near Fort Worth.
+
+267
+00:23:42,440 --> 00:23:46,900
+Complete subsystems were mounted on platforms and instrumented.
+
+268
+00:23:46,900 --> 00:23:51,039
+The systems were then remotely moved into place near the reactor, where they were operated
+
+269
+00:23:51,039 --> 00:23:54,240
+within the high flux field.
+
+270
+00:23:54,240 --> 00:23:59,440
+It is significant to note that during these tests, failure due to nuclear radiation occurred
+
+271
+00:23:59,440 --> 00:24:03,340
+in 46% of all systems.
+
+272
+00:24:03,340 --> 00:24:08,920
+Lockheed Aircraft's newly-constructed 10-megawatt radiation effects reactor provides the means
+
+273
+00:24:08,920 --> 00:24:13,720
+of dynamically testing complete systems in a high-flux field.
+
+274
+00:24:13,720 --> 00:24:19,480
+After the systems are mounted on a flat car, they are moved into position near the reactor.
+
+275
+00:24:19,480 --> 00:24:22,680
+The critical reactor is then raised to the proper height.
+
+276
+00:24:22,680 --> 00:24:27,940
+Thus, the complete system can be operated while under irradiation.
+
+277
+00:24:27,940 --> 00:24:32,840
+As many as six systems may be operated here simultaneously.
+
+278
+00:24:32,840 --> 00:24:37,759
+In addition, the newly constructed Air Force Nuclear Engineering test facility at Wright
+
+279
+00:24:37,759 --> 00:24:42,360
+Air Development Center may soon provide the information necessary to develop radiation
+
+280
+00:24:42,360 --> 00:24:45,080
+resistant materials.
+
+281
+00:24:45,080 --> 00:24:49,980
+The reduced radiation effects program was of necessity a limited effort.
+
+282
+00:24:49,980 --> 00:24:55,059
+However, it was the belief of personnel working in this area and in shielding that while the
+
+283
+00:24:55,059 --> 00:24:59,599
+If the present state of the art would not support a full scale strategic weapon system,
+
+284
+00:24:59,599 --> 00:25:04,960
+it would support a developmental prototype nuclear powered aircraft.
+
+285
+00:25:04,960 --> 00:25:09,419
+Research efforts in the life sciences were directly linked with progress in other fields
+
+286
+00:25:09,419 --> 00:25:15,079
+such as shielding, irradiation and the planned use of strategic aircraft.
+
+287
+00:25:15,079 --> 00:25:19,419
+As a result of the program to date, enough data had been obtained to ensure the safety
+
+288
+00:25:19,419 --> 00:25:22,339
+of the crew with present shielding.
+
+289
+00:25:22,339 --> 00:25:26,859
+At this time, it was considered possible for a crew to fly for relatively prolonged periods
+
+290
+00:25:26,859 --> 00:25:29,980
+without dangerous effects.
+
+291
+00:25:29,980 --> 00:25:35,659
+The safety analysis program was also being conducted on a somewhat limited scale.
+
+292
+00:25:35,659 --> 00:25:40,319
+Part of this study included radiation release tests conducted in Idaho.
+
+293
+00:25:40,319 --> 00:25:46,220
+Here, radioactive material was deliberately released, along with smoke for plotting purposes,
+
+294
+00:25:46,220 --> 00:25:51,799
+to investigate the effects of a nuclear aircraft crash and reactor burnup.
+
+295
+00:25:51,799 --> 00:25:56,000
+of these and weather effects studies indicated that nuclear considerations
+
+296
+00:25:56,000 --> 00:26:01,039
+create no undue hazard to civilian populations if adequate operational
+
+297
+00:26:01,039 --> 00:26:08,180
+controls are exercised. Of extreme significance to the program was the 1958
+
+298
+00:26:08,180 --> 00:26:14,079
+presidential decision to bypass a purely testbed or demonstration aircraft and to
+
+299
+00:26:14,079 --> 00:26:18,500
+concentrate on the development of a useful military weapon. At the close of
+
+300
+00:26:18,500 --> 00:26:24,819
+1958, two companies, Lockheed and Convair, were in competition for this development contract.
+
+301
+00:26:25,480 --> 00:26:28,920
+Both had long been associated with the ANP project.
+
+302
+00:26:30,880 --> 00:26:36,160
+Lockheed Aircrafts Program was begun in the spring of 1951 with a nuclear propulsion study.
+
+303
+00:26:36,859 --> 00:26:42,720
+In 1955, as part of the Weapon System 125A program, they were asked to design an airframe
+
+304
+00:26:42,720 --> 00:26:45,460
+for Pratt & Whitney's closed-cycle propulsion system.
+
+305
+00:26:45,460 --> 00:26:54,460
+During this design period, Lockheed also conducted studies of a combination tug-toe strategic system called Blackjack.
+
+306
+00:26:54,460 --> 00:27:01,460
+After the launching of Russia's Sputnik, several quick-fly or testbed designs were investigated,
+
+307
+00:27:01,460 --> 00:27:05,460
+but these were canceled by the development aircraft decision.
+
+308
+00:27:05,460 --> 00:27:14,460
+By the end of 1958, Lockheed had submitted their proposal for a developmental aircraft based on applicability to the current Camel concept.
+
+309
+00:27:14,460 --> 00:27:19,740
+In addition, Lockheed was conducting limited studies of a manned aircraft employing both
+
+310
+00:27:19,740 --> 00:27:24,519
+Pratt & Whitney turbojet and ramjet nuclear propulsion systems.
+
+311
+00:27:24,519 --> 00:27:29,680
+These studies presented designs of advanced aircraft having high altitude supersonic flight
+
+312
+00:27:29,680 --> 00:27:32,680
+capabilities.
+
+313
+00:27:32,680 --> 00:27:36,660
+Convair has experienced a somewhat similar development, since they also began a study
+
+314
+00:27:36,660 --> 00:27:39,220
+program early in 1951.
+
+315
+00:27:39,220 --> 00:27:46,400
+Similarly, in 1955, also on the Weapon System 125A Program, they were teamed with General
+
+316
+00:27:46,400 --> 00:27:49,819
+Electric and the Direct Cycle Propulsion System.
+
+317
+00:27:49,819 --> 00:27:56,000
+Following original program requirements, they first developed their Model 25 concept.
+
+318
+00:27:56,000 --> 00:28:02,100
+Then came a design called Tarpon, followed by the GE Propulsion System Testbed, which
+
+319
+00:28:02,100 --> 00:28:08,860
+was a version of Tarpon and the Model 54 design for the Camel Development Airplane Competition,
+
+320
+00:28:08,860 --> 00:28:11,100
+which was completed by the end of 1958.
+
+321
+00:28:12,600 --> 00:28:16,780
+Early in 1959, and in time to be included here,
+
+322
+00:28:16,780 --> 00:28:21,180
+the decision was made as a result of the previously mentioned competition
+
+323
+00:28:21,180 --> 00:28:25,240
+to award the Development Airplane Design Contract to Convair
+
+324
+00:28:25,240 --> 00:28:27,400
+when the decision was made to go ahead.
+
+325
+00:28:28,860 --> 00:28:33,620
+This aircraft would be powered by the GE Direct Cycle propulsion system.
+
+326
+00:28:33,620 --> 00:28:35,800
+Design work on this aircraft began.
+
+327
+00:28:38,860 --> 00:28:48,340
+As you can see, this is a huge program and it's impossible for us to cover every area of development.
+
+328
+00:28:49,880 --> 00:28:56,140
+However, the GE direct cycle propulsion system was currently undergoing dynamic component testing.
+
+329
+00:28:57,220 --> 00:29:01,640
+The Pratt & Whitney indirect cycle system was in an intensive developmental stage
+
+330
+00:29:01,640 --> 00:29:06,700
+and an experimental reactor was forecast to be ready for operation in 1963.
+
+331
+00:29:08,860 --> 00:29:14,780
+The various support programs, shielding radiation effects, radiobiology and safety,
+
+332
+00:29:14,780 --> 00:29:21,780
+were keeping pace with the planned major system delivery schedules with the objective of a nuclear flight in 1964.
+
+333
+00:29:23,900 --> 00:29:32,700
+ANP progress in the development of nuclear propulsion and power systems for unmanned weapon systems will be covered in a separate film.
+
+334
+00:29:32,700 --> 00:29:36,799
+at the successful conclusion of these programs
+
+335
+00:29:36,799 --> 00:29:40,980
+we will possess a means of delivering huge payloads over unlimited ranges
+
+336
+00:29:40,980 --> 00:29:48,340
+with a minimum of foreign commitments that and a knowledge of nuclear power application second to none
+
+337
+00:29:48,340 --> 00:29:50,140
+thank you gentlemen

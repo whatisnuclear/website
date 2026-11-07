@@ -1,0 +1,1251 @@
+1
+00:00:00,000 --> 00:00:28,000
+Beneath the surface of the water
+
+2
+00:00:28,000 --> 00:00:31,000
+lies the heart of an operating nuclear reactor.
+
+3
+00:00:31,000 --> 00:00:38,000
+The blue glow is made by gamma rays emitted from the source of radiation and is known as the Cherenkov effect.
+
+4
+00:00:38,000 --> 00:00:42,000
+This glow identifies the active core of a pool-type reactor.
+
+5
+00:00:44,000 --> 00:00:51,000
+One of four basic types of research reactors, versatile tools of nuclear exploration.
+
+6
+00:00:53,000 --> 00:00:59,000
+Another is the tank-type research reactor, with the core buried deep inside a thick concrete shielding.
+
+7
+00:00:59,000 --> 00:01:07,000
+A third type, the aqueous homogeneous reactor, has a small steel vessel containing liquid
+
+8
+00:01:07,000 --> 00:01:15,000
+fuel deep inside a reflector of graphite blocks and a shield of concrete.
+
+9
+00:01:15,000 --> 00:01:20,000
+The fourth is the graphite-moderated type, a research reactor in which the core itself
+
+10
+00:01:20,000 --> 00:01:26,000
+is a huge cube of graphite and fuel surrounded by concrete.
+
+11
+00:01:26,000 --> 00:01:31,000
+Storage reactors of all types have in common the means of providing access to the core
+
+12
+00:01:31,000 --> 00:01:37,000
+for irradiating samples and conducting various experiments.
+
+13
+00:01:37,000 --> 00:01:43,000
+Beam holes extending into areas of different neutron flux intensity, vertical irradiation
+
+14
+00:01:43,000 --> 00:01:51,000
+tubes, through tubes extending directly through the core itself, rabbit tubes operated pneumatically
+
+15
+00:01:51,000 --> 00:01:57,000
+or hydraulically, allowing rapid insertion and withdrawal of samples. Irradiation tunnels
+
+16
+00:01:57,000 --> 00:02:04,000
+for the exposure of large objects, including animals, to lower neutron fluxes beneath the
+
+17
+00:02:04,000 --> 00:02:10,000
+core. And thermal columns of graphite, where large volumes of thermal neutrons are easily
+
+18
+00:02:10,000 --> 00:02:19,000
+accessible. Throughout the world, research reactors of the types described, and modifications
+
+19
+00:02:19,000 --> 00:02:24,000
+and applications of these types are being used at various locations.
+
+20
+00:02:24,000 --> 00:02:31,000
+The operation of the first pool type reactor began at Oak Ridge National Laboratory in 1950.
+
+21
+00:02:31,000 --> 00:02:39,000
+Since then this type has gained popularity because of its simplicity, flexibility, and moderate cost.
+
+22
+00:02:39,000 --> 00:02:46,000
+On the campus of the University of Michigan is an example of the pool reactor.
+
+23
+00:02:46,000 --> 00:02:50,000
+The water in the pool is demineralized to remove impurities that would become
+
+24
+00:02:50,000 --> 00:02:52,000
+hazardously radioactive.
+
+25
+00:02:52,000 --> 00:02:56,000
+A depth of 22 feet above the core provides shielding.
+
+26
+00:02:56,000 --> 00:03:00,000
+Down at the core level, the beam holds and through tubes
+
+27
+00:03:00,000 --> 00:03:04,000
+converge on the core to make use of the high neutron intensity,
+
+28
+00:03:04,000 --> 00:03:07,000
+about 10 to the 13th neutrons per square centimeter
+
+29
+00:03:07,000 --> 00:03:12,000
+per second when the reactor is operating at a thousand kilowatts.
+
+30
+00:03:12,000 --> 00:03:15,000
+The core of a pool reactor consists of a number of fuel elements
+
+31
+00:03:15,000 --> 00:03:17,000
+mounted vertically on a grid plate.
+
+32
+00:03:19,000 --> 00:03:23,000
+Usually surrounded by reflector elements of beryllium or graphite
+
+33
+00:03:23,000 --> 00:03:25,000
+encased in aluminum.
+
+34
+00:03:26,000 --> 00:03:29,000
+Ion chambers and a fission chamber
+
+35
+00:03:29,000 --> 00:03:32,000
+are added to detect neutron activity within the core.
+
+36
+00:03:34,000 --> 00:03:38,000
+Each fuel element consists of a number of thin aluminum-clad fuel plates,
+
+37
+00:03:38,000 --> 00:03:42,000
+spaced to permit free circulation of cooling water between them,
+
+38
+00:03:42,000 --> 00:03:45,000
+to carry off the heat.
+
+39
+00:03:45,000 --> 00:03:49,000
+Plates are like a sandwich, having enriched uranium as the meat
+
+40
+00:03:49,000 --> 00:03:51,000
+and aluminum as the bread.
+
+41
+00:03:51,000 --> 00:03:55,000
+The aluminum cladding protects the uranium from corrosion
+
+42
+00:03:55,000 --> 00:04:00,000
+and prevents the radioactive fission products from contaminating the water.
+
+43
+00:04:00,000 --> 00:04:03,000
+A few fuel elements have several plates removed
+
+44
+00:04:03,000 --> 00:04:07,000
+to provide a channel for inserting control rods.
+
+45
+00:04:07,000 --> 00:04:12,000
+and movable control rods can be introduced among the fuel elements.
+
+46
+00:04:12,000 --> 00:04:17,000
+A fuel loading consists of only 3 or 4 kilograms of enriched uranium
+
+47
+00:04:17,000 --> 00:04:21,000
+in a small volume compared with the many tons of natural uranium
+
+48
+00:04:21,000 --> 00:04:23,000
+in a graphite reactor.
+
+49
+00:04:23,000 --> 00:04:26,000
+The water serves as moderator, coolant,
+
+50
+00:04:26,000 --> 00:04:28,000
+and the major part of the shield.
+
+51
+00:04:28,000 --> 00:04:31,000
+The core is mounted on a frame and suspended in the water
+
+52
+00:04:31,000 --> 00:04:34,000
+from a motor-driven bridge across the pool.
+
+53
+00:04:34,000 --> 00:04:37,000
+The bridge carries much of the operating equipment,
+
+54
+00:04:37,000 --> 00:04:41,000
+including the safety and control rod drive assemblies.
+
+55
+00:04:41,000 --> 00:04:45,000
+The design of research facilities varies for different pool type reactors.
+
+56
+00:04:45,000 --> 00:04:52,000
+At the University of Michigan, when access to the core through other beam holes or the thermal column itself
+
+57
+00:04:52,000 --> 00:04:55,000
+is desired, the core is moved
+
+58
+00:04:55,000 --> 00:05:02,000
+out across the pool and into another position.
+
+59
+00:05:02,000 --> 00:05:06,000
+The far end of the pool is utilized for core storage and reloading.
+
+60
+00:05:06,000 --> 00:05:13,000
+Here also gamma ray irradiation work may be done with highly radioactive used fuel elements.
+
+61
+00:05:14,000 --> 00:05:19,000
+The instrumentation and operational controls are located in the control room overlooking the reactor.
+
+62
+00:05:20,000 --> 00:05:24,000
+A wall diagram enables the operator to keep track of the fuel elements,
+
+63
+00:05:24,000 --> 00:05:29,000
+which are moved to suit various experiments and to compensate for burn up of uranium.
+
+64
+00:05:30,000 --> 00:05:34,000
+Access to the thermal column is afforded from outside the pool at its base.
+
+65
+00:05:36,000 --> 00:05:41,000
+Directly behind the sliding door is the graphite with several stringers that can
+
+66
+00:05:41,000 --> 00:05:46,000
+be readily removed for the insertion of samples to be irradiated by highly
+
+67
+00:05:46,000 --> 00:05:53,000
+thermalized neutrons. Pool-type reactors provide a substantial number of beam
+
+68
+00:05:53,000 --> 00:06:00,000
+holes, tubes, and other irradiation facilities for research purposes. This
+
+69
+00:06:00,000 --> 00:06:06,000
+reactor has 12 beam holes converging on the core and two large tubes that go
+
+70
+00:06:06,000 --> 00:06:11,000
+entirely through the reactor, through the high neutron flux close to the core.
+
+71
+00:06:12,000 --> 00:06:15,000
+There are also a number of pneumatic tubes
+
+72
+00:06:17,000 --> 00:06:20,000
+to provide convenient short-time exposure of samples.
+
+73
+00:06:22,000 --> 00:06:26,000
+During continuous operation at power levels above a few hundred kilowatts,
+
+74
+00:06:29,000 --> 00:06:32,000
+dissipation of the heat by natural convection becomes impractical.
+
+75
+00:06:33,000 --> 00:06:43,000
+The water in the pool has to be pumped from the plenum to A heat exchanger and the heat from the exchanger water dissipated from a cooling tower.
+
+76
+00:06:43,000 --> 00:06:49,000
+A portion of the returning pool water is continually circulated through a demineralizer to remove
+
+77
+00:06:49,000 --> 00:06:54,000
+dissolved minerals, which could become radioactive.
+
+78
+00:06:54,000 --> 00:06:58,000
+An open pool reactor can be designed to operate at a few megawatts.
+
+79
+00:06:58,000 --> 00:07:05,000
+However, the design is complicated by increased pool depth, thicker shielding, and by thermal
+
+80
+00:07:05,000 --> 00:07:12,000
+convections which bring enough radioactive nitrogen 16 to the surface to create a radiation hazard.
+
+81
+00:07:15,000 --> 00:07:18,000
+It becomes necessary to go to the tank-type reactor,
+
+82
+00:07:18,000 --> 00:07:22,000
+a compressed pool in effect, to facilitate handling the cooling water.
+
+83
+00:07:25,000 --> 00:07:30,000
+An example of this type is the Omega West reactor at Los Alamos scientific laboratory.
+
+84
+00:07:30,000 --> 00:07:40,000
+The pool is only a few feet in diameter. Ordinary water circulated by pumps acts as both coolant
+
+85
+00:07:40,000 --> 00:07:46,000
+and moderator. The top of the tank is sealed to allow slight pressurization to obtain sufficient
+
+86
+00:07:46,000 --> 00:07:53,000
+water flow through the core of the reactor. The operating mechanism for the control rods is on
+
+87
+00:07:53,000 --> 00:08:00,000
+the top, also the access hole through which the fuel elements are replaced. The elements contain
+
+88
+00:08:00,000 --> 00:08:08,000
+enriched uranium in sandwich type plates. Several ports are available for access
+
+89
+00:08:08,000 --> 00:08:16,000
+to the core and the thermal column. In operation since early 1954 at the Argonne
+
+90
+00:08:16,000 --> 00:08:22,000
+National Laboratory, near Chicago, is a tank type research reactor using heavy
+
+91
+00:08:22,000 --> 00:08:30,000
+water. It is called the CP5. The reactor portion of the building is sealed off
+
+92
+00:08:30,000 --> 00:08:35,000
+from the rest of the structure by a double door airlock and maintained at slightly less
+
+93
+00:08:35,000 --> 00:08:39,000
+than atmospheric pressure.
+
+94
+00:08:39,000 --> 00:08:45,000
+This safety measure is to guard against the escape of radioactive gases to the environment
+
+95
+00:08:45,000 --> 00:08:48,000
+in the unlikely event of an accident.
+
+96
+00:08:48,000 --> 00:08:54,000
+The reactor uses enriched uranium as fuel and heavy water for the reflector, coolant
+
+97
+00:08:54,000 --> 00:08:57,000
+and moderator.
+
+98
+00:08:57,000 --> 00:09:03,000
+heavy water permits a design that provides more space for irradiation of samples with less fuel.
+
+99
+00:09:05,000 --> 00:09:11,000
+Because of the long neutron diffusion length in heavy water, high neutron fluxes of over 10 to
+
+100
+00:09:11,000 --> 00:09:17,000
+the 13th at 2000 kilowatts are available in a relatively large volume for experimental use.
+
+101
+00:09:19,000 --> 00:09:25,000
+Graphite is used for a secondary reflector. The shielding consists of a thin boral liner
+
+102
+00:09:25,000 --> 00:09:30,000
+to absorb thermal neutrons and a lead liner to reduce gamma ray radiation.
+
+103
+00:09:32,000 --> 00:09:36,000
+It is backed by a high density concrete wall nearly five feet thick.
+
+104
+00:09:39,000 --> 00:09:44,000
+The tubular fuel elements contain enriched uranium clad with aluminum.
+
+105
+00:09:46,000 --> 00:09:50,000
+The cylindrical form provides access for fast neutron bombardment.
+
+106
+00:09:50,000 --> 00:09:59,000
+Under normal operation, only two kilograms of uranium-235 are required for a fuel charge,
+
+107
+00:09:59,000 --> 00:10:07,000
+which, because of fuel consumption, has to be replaced in about six months. Four cadmium safety
+
+108
+00:10:07,000 --> 00:10:13,000
+rods of the signal arm type move between the fuel elements to provide course control of the
+
+109
+00:10:13,000 --> 00:10:21,000
+chain reaction. Fine control is provided by one cadmium regulating rod operating
+
+110
+00:10:21,000 --> 00:10:27,000
+vertically near the core. A flow of heavy water circulates through a heat
+
+111
+00:10:27,000 --> 00:10:34,000
+exchanger and demineralizer and is returned. The radioactive nitrogen is
+
+112
+00:10:34,000 --> 00:10:41,000
+confined to this system. A gas handling system provides for recombining deuterium
+
+113
+00:10:41,000 --> 00:10:47,000
+and oxygen dissociated by radiation.
+
+114
+00:10:47,000 --> 00:10:55,000
+At the top of the reactor 45 vertical exposure holes are available for inserting and removing
+
+115
+00:10:55,000 --> 00:10:58,000
+samples and fuel elements.
+
+116
+00:10:58,000 --> 00:11:03,000
+The highly radioactive spent fuel elements are withdrawn into a lead coffin weighing
+
+117
+00:11:03,000 --> 00:11:07,000
+approximately eight tons and transferred to storage.
+
+118
+00:11:07,000 --> 00:11:14,000
+The CP5 reactor has two large thermal columns, providing variable space for irradiation and
+
+119
+00:11:14,000 --> 00:11:20,000
+other experimental work with slow neutrons.
+
+120
+00:11:20,000 --> 00:11:25,000
+For beam experiments, eight large beam holes are provided.
+
+121
+00:11:25,000 --> 00:11:30,000
+The neutron flux is high at the face of the reactor because high density concrete reduces
+
+122
+00:11:30,000 --> 00:11:33,000
+the shield thickness.
+
+123
+00:11:33,000 --> 00:11:37,000
+Two special isotope channels extend under the core.
+
+124
+00:11:37,000 --> 00:11:42,000
+Two large through tubes pass close to the core as do pneumatic tubes for quick exposure
+
+125
+00:11:42,000 --> 00:11:44,000
+of samples.
+
+126
+00:11:44,000 --> 00:11:50,000
+The argon CP5 reactor is designed primarily for neutron physics experiments.
+
+127
+00:11:50,000 --> 00:11:58,000
+But it has been found useful for producing isotopes and for some engineering test experiments.
+
+128
+00:11:58,000 --> 00:12:04,000
+A simple and relatively low-cost research reactor of low power but moderately high neutron flux
+
+129
+00:12:04,000 --> 00:12:07,000
+is the aqueous homogeneous or solution type.
+
+130
+00:12:09,000 --> 00:12:16,000
+The first reactor of this type was put into operation in 1943 at the Los Alamos Scientific Laboratory.
+
+131
+00:12:17,000 --> 00:12:21,000
+Enlarged twice, the present version has been in use since 1950.
+
+132
+00:12:21,000 --> 00:12:29,000
+In the city of Chicago, Illinois, another research reactor of the homogeneous type is
+
+133
+00:12:29,000 --> 00:12:37,000
+operated by the Armour Research Foundation and financed jointly by 24 industrial firms.
+
+134
+00:12:37,000 --> 00:12:43,000
+It is a simple and relatively low cost research reactor of low power, but fairly high neutron
+
+135
+00:12:43,000 --> 00:12:48,000
+flux, more than ten to the twelfth neutrons at 50 kilowatts.
+
+136
+00:12:48,000 --> 00:12:53,000
+The active core consists of enriched urinal sulfate dissolved in distilled water.
+
+137
+00:12:53,000 --> 00:12:57,000
+The water also serves as the moderator.
+
+138
+00:12:57,000 --> 00:13:01,000
+The solution is held in a stainless steel sphere.
+
+139
+00:13:01,000 --> 00:13:07,000
+Thus the enriched fuel and the water moderator are homogeneous, as contrasted with the lattice
+
+140
+00:13:07,000 --> 00:13:11,000
+arrangement of solid fuel in heterogeneous reactors.
+
+141
+00:13:11,000 --> 00:13:17,000
+A reflector of graphite completely surrounds the core.
+
+142
+00:13:17,000 --> 00:13:24,000
+rods enter thimbles built into the vessel. Water circulating in a coil of
+
+143
+00:13:24,000 --> 00:13:29,000
+stainless steel tubing removes the heat generated by fission and the fuel
+
+144
+00:13:29,000 --> 00:13:36,000
+solution. Leading from the core are other stainless steel pipes for handling the
+
+145
+00:13:36,000 --> 00:13:41,000
+fuel and the gases resulting from the fissioning process and from radiolysis
+
+146
+00:13:41,000 --> 00:13:46,000
+of the water. Above the core is an overflow assembly providing a space into
+
+147
+00:13:46,000 --> 00:13:52,000
+to which the liquid fuel is ejected, in case of a rapid power excursion resulting in a
+
+148
+00:13:52,000 --> 00:13:59,000
+reactor shutdown.
+
+149
+00:13:59,000 --> 00:14:05,000
+Neutron-absorbing control rods penetrate the sphere through the top.
+
+150
+00:14:05,000 --> 00:14:11,000
+They are actuated by electric motor drives and a housing on top of the shield.
+
+151
+00:14:11,000 --> 00:14:16,000
+To ensure against the accidental release of radioactivity to the surrounding area, this
+
+152
+00:14:16,000 --> 00:14:26,000
+reactor utilizes a steel core vessel, an aluminum envelope, and an airtight room as a triple
+
+153
+00:14:26,000 --> 00:14:30,000
+containment system.
+
+154
+00:14:30,000 --> 00:14:37,000
+A gas tight room containing the highly radioactive fission gas handling system provides an essentially
+
+155
+00:14:37,000 --> 00:14:46,000
+neutron-free gamma irradiation facility. A large graphite thermal column includes
+
+156
+00:14:46,000 --> 00:14:52,000
+several features which provide a variety of convenient exposure openings.
+
+157
+00:14:57,000 --> 00:15:04,000
+There are four vertical beam tubes penetrating the graphite reflector, two
+
+158
+00:15:04,000 --> 00:15:11,000
+two pneumatic tubes for rapid exposure of samples,
+
+159
+00:15:16,000 --> 00:15:20,000
+eight horizontal beam tubes that reach to the core,
+
+160
+00:15:20,000 --> 00:15:25,000
+as well as an exposure tube through the center of the core.
+
+161
+00:15:25,000 --> 00:15:29,000
+Instrumentation and controls are provided in a room above the reactor.
+
+162
+00:15:29,000 --> 00:15:36,000
+in all reactors, shutdown is easily accomplished by the use of the scram button. Because of its
+
+163
+00:15:36,000 --> 00:15:44,000
+low fuel inventory of only 1,300 grams, its high flux-to-power ratio, its neutron-free gamma
+
+164
+00:15:44,000 --> 00:15:50,000
+irradiation facility, and its compactness and relatively low cost, the solution-type reactor
+
+165
+00:15:50,000 --> 00:15:58,000
+is finding wide acceptance and utility. At the Brookhaven National Laboratory near New York City
+
+166
+00:15:58,000 --> 00:16:02,000
+is the United States' largest graphite research reactor.
+
+167
+00:16:02,000 --> 00:16:06,000
+The reactor built in 1942 by Enrico Fermi was of this type.
+
+168
+00:16:08,000 --> 00:16:14,000
+This multimillion-dollar reactor, at its full load power level of 30,000 kilowatts of heat,
+
+169
+00:16:15,000 --> 00:16:19,000
+produces a high neutron flux over 10 to the 12th
+
+170
+00:16:19,000 --> 00:16:20,000
+in a very large volume.
+
+171
+00:16:21,000 --> 00:16:25,000
+Behind the 5-foot wall of what we see simply as a concrete box
+
+172
+00:16:25,000 --> 00:16:30,000
+is the natural uranium fuel
+
+173
+00:16:30,000 --> 00:16:35,000
+in horizontal channels through a large mass of graphite moderator.
+
+174
+00:16:35,000 --> 00:16:40,000
+The core is a cube measuring about 25 feet on the side.
+
+175
+00:16:40,000 --> 00:16:44,000
+A neutron reflector of graphite surrounds the core.
+
+176
+00:16:44,000 --> 00:16:49,000
+Control rods operate in the fuel zone.
+
+177
+00:16:49,000 --> 00:16:53,000
+The heat produced in the core is removed by air
+
+178
+00:16:53,000 --> 00:16:56,000
+And finally, the reactor is enclosed in a thick concrete shield.
+
+179
+00:16:58,000 --> 00:17:02,000
+There are 700 tons of graphite in the 25-foot cube.
+
+180
+00:17:03,000 --> 00:17:06,000
+Through this run nearly 1,400 fuel channels.
+
+181
+00:17:06,000 --> 00:17:13,000
+In the original fuel element, 33 natural uranium slugs fit into an aluminum cartridge,
+
+182
+00:17:14,000 --> 00:17:19,000
+which was sealed to prevent corrosion and the escape of radioactive fission products.
+
+183
+00:17:19,000 --> 00:17:23,000
+The uranium slugs were encased in an aluminum cartridge with fins
+
+184
+00:17:23,000 --> 00:17:27,000
+to aid transfer of heat efficient to the cooling air.
+
+185
+00:17:27,000 --> 00:17:32,000
+Using these elements, the natural uranium loading was approximately 55 tons.
+
+186
+00:17:33,000 --> 00:17:37,000
+However, the natural uranium has been replaced with a new type fuel element
+
+187
+00:17:37,000 --> 00:17:41,000
+with enriched uranium and curved sandwich type plates of aluminum
+
+188
+00:17:41,000 --> 00:17:45,000
+requiring only about 60 kilograms of fuel for a loading.
+
+189
+00:17:45,000 --> 00:17:54,000
+The result, a four to five times increase in flux density without going to higher power.
+
+190
+00:17:54,000 --> 00:18:01,000
+At full power, the temperature of this air leaving the reactor is 350 degrees Fahrenheit.
+
+191
+00:18:01,000 --> 00:18:08,000
+Five 1500 horsepower exhaust fans pull 750 tons of filtered air through the fuel channels
+
+192
+00:18:08,000 --> 00:18:15,000
+every hour at velocities approaching the speed of sound.
+
+193
+00:18:15,000 --> 00:18:22,000
+discharge it harmlessly to the atmosphere. The reactor is operated from a control room
+
+194
+00:18:23,000 --> 00:18:30,000
+which is manned around the clock. Safety is a primary consideration. Many independent
+
+195
+00:18:30,000 --> 00:18:35,000
+checkpoints automatically shut down the reactor if the power level goes too high, if fuel
+
+196
+00:18:35,000 --> 00:18:42,000
+temperature becomes excessive, or other abnormal operating conditions occur. A chief advantage
+
+197
+00:18:42,000 --> 00:18:48,000
+of the natural uranium-graphite reactor is the numerous openings and very large spaces
+
+198
+00:18:48,000 --> 00:18:54,000
+it provides for experimental purposes, with thermal neutron fluxes as high as 10 to the
+
+199
+00:18:54,000 --> 00:18:58,000
+13th, quite adequate for most purposes.
+
+200
+00:18:58,000 --> 00:19:04,000
+Coming out from the core are 30 experimental holes, which provide neutrons for experiments
+
+201
+00:19:04,000 --> 00:19:07,000
+either outside or inside the reactor.
+
+202
+00:19:07,000 --> 00:19:12,000
+11 pneumatic rabbit tubes penetrate the reactor to the center of the core
+
+203
+00:19:12,000 --> 00:19:17,000
+to provide very short-lived radioisotopes for immediate laboratory use
+
+204
+00:19:17,000 --> 00:19:20,000
+before much of the activity is lost.
+
+205
+00:19:22,000 --> 00:19:26,000
+On top of the reactor also are many large openings.
+
+206
+00:19:26,000 --> 00:19:29,000
+Although the capital investment is high,
+
+207
+00:19:29,000 --> 00:19:35,000
+the large irradiation space and natural uranium fuel offer many unique features.
+
+208
+00:19:37,000 --> 00:19:41,000
+Most research reactors clearly belong to one of these four basic types.
+
+209
+00:19:41,000 --> 00:19:46,000
+However, numerous adaptations are being tried, and new types may be developed.
+
+210
+00:19:48,000 --> 00:19:53,000
+At the Argonne National Laboratory is an adaptation of the tank type.
+
+211
+00:19:54,000 --> 00:19:58,000
+It is called the Argonaut, and is useful for some research,
+
+212
+00:19:59,000 --> 00:20:02,000
+but designed primarily for nuclear technology training.
+
+213
+00:20:02,000 --> 00:20:10,000
+At full power of a few kilowatts, it produces up to 10 to the 11th thermal neutrons per square centimeter per second.
+
+214
+00:20:11,000 --> 00:20:17,000
+Built into this low-cost, low-power reactor are many features of convenience, safety, and flexibility.
+
+215
+00:20:18,000 --> 00:20:24,000
+At one end is a thermal column, and at the other a movable tank for conducting shielding experiments.
+
+216
+00:20:24,000 --> 00:20:29,000
+The reactor design is so simple that laboratory people are urged to build it themselves.
+
+217
+00:20:29,000 --> 00:20:36,000
+The annular shape of the reactor vessel makes possible arrangements of aluminum clad fuel plates
+
+218
+00:20:36,000 --> 00:20:45,000
+in a ring around an internal graphite reflector. Approximately four kilograms of U-235 in 20%
+
+219
+00:20:45,000 --> 00:20:50,000
+material are used and plates can be put in different positions to meet the needs of the
+
+220
+00:20:50,000 --> 00:20:56,000
+experiment. Within the graphite center are five access holes. The outside of the tank
+
+221
+00:20:56,000 --> 00:21:02,000
+is also surrounded by graphite, in which the control elements are located. Ordinary water
+
+222
+00:21:02,000 --> 00:21:09,000
+is pumped through the tank as both coolant and moderator. The instrumentation and controls
+
+223
+00:21:09,000 --> 00:21:15,000
+consist of easily procured standard devices. The uses of the argonaut in training include
+
+224
+00:21:15,000 --> 00:21:21,000
+start-up, criticality experiments and reactor operation, demonstrations in engineering and
+
+225
+00:21:21,000 --> 00:21:28,000
+nuclear physics and a variety of research experiments. Other very low
+
+226
+00:21:28,000 --> 00:21:33,000
+power reactors have been developed by industry. For example, solid homogeneous
+
+227
+00:21:33,000 --> 00:21:38,000
+reactors are being built to operate at a few watts to serve training and limited
+
+228
+00:21:38,000 --> 00:21:43,000
+research needs. They offer the unique feature of complete portability as well
+
+229
+00:21:43,000 --> 00:21:49,000
+as safety in operation. Its fuel consists of less than 700 grams of uranium-235
+
+230
+00:21:49,000 --> 00:21:55,000
+at 20 percent enrichment. Uranium oxide is mixed with solid polyethylene
+
+231
+00:21:55,000 --> 00:22:00,000
+moderator and molded into disks which are housed in a graphite reflector and
+
+232
+00:22:00,000 --> 00:22:07,000
+shielded by lead and water. The small size, portability, and low cost make the
+
+233
+00:22:07,000 --> 00:22:18,000
+solid homogeneous reactor a practical classroom trainer. A low power solution
+
+234
+00:22:18,000 --> 00:22:23,000
+type homogeneous reactor with a flux of ten to the eighth has also been developed.
+
+235
+00:22:28,000 --> 00:22:36,000
+The reactor is fueled with about 1500 grams of uranium-235 in 20 percent material. It is dissolved
+
+236
+00:22:36,000 --> 00:22:43,000
+in 20 liters of uranyl sulfate in a small stainless steel sphere. This core surrounded
+
+237
+00:22:43,000 --> 00:22:47,000
+by a lead reflector shield is housed in an eight foot diameter tank of water.
+
+238
+00:22:48,000 --> 00:22:53,000
+This reactor is suitable for low flux research and training.
+
+239
+00:22:53,000 --> 00:22:59,000
+It can be shipped as a unit and its small size makes it practical for use in schools.
+
+240
+00:23:00,000 --> 00:23:06,000
+Research reactors are contributing to a continual program of experimentation and research,
+
+241
+00:23:06,000 --> 00:23:13,000
+probing and serving the fields of chemistry, physics, metallurgy, biology, and medicine.
+
+242
+00:23:13,000 --> 00:23:16,000
+The most familiar use is the production of radioisotopes.
+
+243
+00:23:16,000 --> 00:23:26,000
+Several hundred radioactive isotopes, one or more for nearly every element in the periodic table, are being employed in research, medicine, and industry.
+
+244
+00:23:27,000 --> 00:23:31,000
+For example, they are used as tags in tracer study of every description.
+
+245
+00:23:33,000 --> 00:23:35,000
+The measurement of fertilizer uptake in plants.
+
+246
+00:23:36,000 --> 00:23:45,000
+The diagnosis of thyroid carcinoma and other diseases by obtaining with the center scanner a plot of the localization of radioisotope deposit in the glands.
+
+247
+00:23:46,000 --> 00:23:54,000
+In the field of chemistry, radioisotopes trace the behavior of elements and compounds in chemical reactions.
+
+248
+00:23:55,000 --> 00:24:02,000
+Special machines, using large gamma sources of cobalt-60 produced in high flux reactors,
+
+249
+00:24:02,000 --> 00:24:05,000
+are employed in the treatment of cancer and leukemia,
+
+250
+00:24:06,000 --> 00:24:10,000
+and in industry for making radioautographs of dense structure.
+
+251
+00:24:10,000 --> 00:24:19,000
+Radioisotopes are used in density gauges for various industrial purposes, such as continuously
+
+252
+00:24:19,000 --> 00:24:24,000
+measuring and controlling the thickness of a plastic sheet.
+
+253
+00:24:24,000 --> 00:24:29,000
+In addition to the production of radioisotopes, another major use of the research reactor
+
+254
+00:24:29,000 --> 00:24:32,000
+is in the study of basic physics.
+
+255
+00:24:32,000 --> 00:24:40,000
+Several experiments may be conducted simultaneously, such as the continuous cloud chamber experiment.
+
+256
+00:24:40,000 --> 00:24:48,000
+The neutron diffraction spectrometer experiment to study crystalline structure of elements and compound.
+
+257
+00:24:49,000 --> 00:24:59,000
+The time of flight spectrometer, it employs a mechanical rotor or neutron chopper, a long flight tube, and a thousand channel analyzer.
+
+258
+00:25:00,000 --> 00:25:05,000
+This experiment measures nuclear cross-sections of isotopes.
+
+259
+00:25:05,000 --> 00:25:12,000
+For capture gamma-ray studies, the bent crystal spectrometer is used to cover
+
+260
+00:25:12,000 --> 00:25:16,000
+the gamma range from a few thousand to several million electron volts.
+
+261
+00:25:16,000 --> 00:25:24,000
+Irradiation of materials by fast neutrons produces changes in such mechanical properties as
+
+262
+00:25:24,000 --> 00:25:30,000
+tensile strength, creep and shear, and significant changes in electrical and thermal conductivity.
+
+263
+00:25:30,000 --> 00:25:37,000
+For effective engineering studies of changes in metals, samples must be irradiated to a total
+
+264
+00:25:37,000 --> 00:25:44,000
+exposure of about 10 to the 18th neutrons per square centimeter. Only with very high flux test
+
+265
+00:25:44,000 --> 00:25:51,000
+reactors can such irradiations be made in a reasonable time. In biology, mice and rats are
+
+266
+00:25:51,000 --> 00:26:00,000
+utilized for radiation experiments. A study of the effect of radiation on bone marrow in immunity and
+
+267
+00:26:00,000 --> 00:26:11,000
+genealogy.
+
+268
+00:26:11,000 --> 00:26:15,000
+Reactors of low fluxes are used for activation analyses.
+
+269
+00:26:15,000 --> 00:26:20,000
+A quantitative analysis can be made faster, and in some cases more accurately than by
+
+270
+00:26:20,000 --> 00:26:27,000
+conventional chemical means.
+
+271
+00:26:27,000 --> 00:26:34,000
+fuel elements provide an intense source of pure gamma rays for food irradiation studies.
+
+272
+00:26:35,000 --> 00:26:40,000
+Pasteurization of foods and drugs allow for longer storage life. These are but a few of
+
+273
+00:26:40,000 --> 00:26:46,000
+the rapidly multiplying applications of research reactors. A practical program that utilizes
+
+274
+00:26:46,000 --> 00:26:52,000
+a research reactor involves a considerable financial investment. Detailed planning and
+
+275
+00:26:52,000 --> 00:26:57,000
+care must be exercised in the selection of the type of research reactor for a particular
+
+276
+00:26:57,000 --> 00:27:00,000
+only a realistic objective review
+
+277
+00:27:00,000 --> 00:27:04,000
+and appraisal of the broad aims of an organization, its research
+
+278
+00:27:04,000 --> 00:27:08,000
+needs or training requirements can determine this selection
+
+279
+00:27:08,000 --> 00:27:12,000
+where research requires a reactor capable of producing
+
+280
+00:27:12,000 --> 00:27:16,000
+neutron fluxes in the range of 10 to the 12th to 10 to the
+
+281
+00:27:16,000 --> 00:27:19,000
+13th, the pool type will do the job
+
+282
+00:27:19,000 --> 00:27:22,000
+another is the homogeneous reactor
+
+283
+00:27:22,000 --> 00:27:26,000
+which also produces fluxes in this range, but in a smaller volume
+
+284
+00:27:26,000 --> 00:27:28,000
+and at a lower operating cost.
+
+285
+00:27:30,000 --> 00:27:33,000
+The tank type using heavy water
+
+286
+00:27:33,000 --> 00:27:37,000
+provides a larger volume of irradiation space at these fluxes.
+
+287
+00:27:39,000 --> 00:27:43,000
+The greater volume makes possible a large research program,
+
+288
+00:27:43,000 --> 00:27:47,000
+but the cost of heavy water must be justified by the research needs.
+
+289
+00:27:49,000 --> 00:27:54,000
+The graphite-moderated type, with the same flux in a very large volume,
+
+290
+00:27:54,000 --> 00:27:57,000
+can support an extensive research program.
+
+291
+00:27:59,000 --> 00:28:07,000
+Where the neutron fluxes required are substantially above the 10 to the 12th to 10 to the 13th range,
+
+292
+00:28:08,000 --> 00:28:11,000
+a reactor for materials or engineering testing is essential.
+
+293
+00:28:13,000 --> 00:28:17,000
+In limited research programs and for teaching purposes,
+
+294
+00:28:18,000 --> 00:28:20,000
+a simple low-flux reactor may satisfy the need.
+
+295
+00:28:20,000 --> 00:28:28,000
+The procurement of the reactor itself is not the only financial obligation imposed on a
+
+296
+00:28:28,000 --> 00:28:30,000
+research program.
+
+297
+00:28:30,000 --> 00:28:36,000
+There is also the need for associated equipment and facilities, manpower and supplies.
+
+298
+00:28:36,000 --> 00:28:45,000
+An entire scientific community, including chemical, physical, biological, metallurgical
+
+299
+00:28:45,000 --> 00:28:50,000
+in other laboratories, are all essential facilities.
+
+300
+00:28:50,000 --> 00:28:55,000
+Intensely radioactive specimens must be handled in hot cells equipped with
+
+301
+00:28:55,000 --> 00:29:00,000
+intricate remote controlled devices. Heavy shields of dense concrete with
+
+302
+00:29:00,000 --> 00:29:05,000
+special shielding windows protect the operator while specimens are processed
+
+303
+00:29:05,000 --> 00:29:13,000
+and examined. A counting room is necessary, shielded to protect counting
+
+304
+00:29:13,000 --> 00:29:20,000
+devices from outside radiation.
+
+305
+00:29:24,000 --> 00:29:28,000
+An electronic shop for the maintenance of sensitive controlling, measuring and
+
+306
+00:29:28,000 --> 00:29:31,000
+recording devices.
+
+307
+00:29:31,000 --> 00:29:37,000
+Personnel must be trained for the operation and maintenance of the reactor.
+
+308
+00:29:37,000 --> 00:29:40,000
+All of these are important considerations
+
+309
+00:29:40,000 --> 00:29:45,000
+for the organization that undertakes a research program with a reactor.
+
+310
+00:29:45,000 --> 00:29:49,000
+Wisely the functional requirements of the reactor will be kept close to the
+
+311
+00:29:49,000 --> 00:29:52,000
+needs of the planned program.
+
+312
+00:29:52,000 --> 00:29:56,000
+The nuclear reactor is a powerful research tool
+
+313
+00:29:56,000 --> 00:30:05,000
+offering to every branch of science new horizons in the service and needs of mankind.

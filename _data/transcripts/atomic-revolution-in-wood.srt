@@ -1,0 +1,767 @@
+1
+00:00:01,000 --> 00:00:04,000
+For many months, more than 4 million people walked across this floor.
+
+2
+00:00:05,000 --> 00:00:09,000
+It's never polished, seldom buffed, never treated in any way.
+
+3
+00:00:09,000 --> 00:00:13,000
+And yet after this punishment, it looks the same as the day it was installed.
+
+4
+00:00:14,000 --> 00:00:17,000
+This floor marks the path to a new industrial adventure,
+
+5
+00:00:17,000 --> 00:00:20,000
+opened up by the peaceful applications of atomic energy.
+
+6
+00:00:21,000 --> 00:00:26,000
+It's a symbol of the growing trend to produce new, improved materials with nuclear energy.
+
+7
+00:00:26,000 --> 00:00:30,000
+In this case, creating an atomic revolution in wood.
+
+8
+00:00:56,000 --> 00:01:12,000
+applications of radioactive isotopes are already commonplace in many diverse industrial applications
+
+9
+00:01:12,000 --> 00:01:24,000
+ranging from controlling the thickness of rubber or gauging sheet plastic to
+
+10
+00:01:24,000 --> 00:01:34,000
+assure a proper thickness, to testing welds and metal, to assuring the proper
+
+11
+00:01:34,000 --> 00:01:39,000
+liquid levels and cans. Control of atomic energy is given technology a tool with
+
+12
+00:01:39,000 --> 00:01:44,000
+which to create new products and improve old ones, and in the doing is generating
+
+13
+00:01:44,000 --> 00:01:50,000
+a quiet revolution. Now the fusing of wood and plastic by irradiation into an
+
+14
+00:01:50,000 --> 00:01:54,000
+amazing combination substance promises to bring great benefits to the
+
+15
+00:01:54,000 --> 00:01:59,000
+manufacturers and the users of wood products it's an exciting story of
+
+16
+00:01:59,000 --> 00:02:09,000
+development from an AEC supported research to commercialization our story
+
+17
+00:02:09,000 --> 00:02:14,000
+of this new atoms and industry adventure began at the University of West Virginia
+
+18
+00:02:14,000 --> 00:02:22,000
+in 1961. The steps for making wood plastics turned out to be quite simple. Wood pieces
+
+19
+00:02:22,000 --> 00:02:27,000
+were placed in an airtight impregnation vessel and pressure was then reduced. A liquid chemical
+
+20
+00:02:27,000 --> 00:02:33,000
+called a monomer was introduced into the vessel and an overpressure was applied to force it
+
+21
+00:02:33,000 --> 00:02:43,000
+into the interior of the wood, filling the voids and cells. The irradiation step came
+
+22
+00:02:43,000 --> 00:02:49,000
+next, wherein the monomer-soaked wood was hardened or polymerized into a wood-plastic combination.
+
+23
+00:02:56,000 --> 00:03:00,000
+The actual equipment at West Virginia looked like this, loading the wood,
+
+24
+00:03:03,000 --> 00:03:09,000
+the impregnation step, and irradiation which was accomplished by lowering the containers
+
+25
+00:03:09,000 --> 00:03:13,000
+to the bottom of the pool next to the cobalt 60 radiation source.
+
+26
+00:03:20,000 --> 00:03:23,000
+The final product had all of the aesthetic appeal of wood,
+
+27
+00:03:23,000 --> 00:03:25,000
+but many of the properties were improved.
+
+28
+00:03:29,000 --> 00:03:31,000
+For instance, it could be sawed
+
+29
+00:03:35,000 --> 00:03:36,000
+or planed
+
+30
+00:03:39,000 --> 00:03:54,000
+or drilled or turned with conventional tools. Indeed, it was wood, but wood with its cellular
+
+31
+00:03:54,000 --> 00:04:03,000
+structure filled with plastic to give a unique new material. The Atomic Energy Commission undertook
+
+32
+00:04:03,000 --> 00:04:09,000
+a greatly expanded program to catalog the properties of wood plastic materials. Variables
+
+33
+00:04:09,000 --> 00:04:14,000
+were narrowed to several species of wood including pine, maple, oak, and fir. Among
+
+34
+00:04:14,000 --> 00:04:19,000
+the monomers used were methyl methacrylate and vinyl acetate.
+
+35
+00:04:30,000 --> 00:04:36,000
+Some of the properties tested included compression tests.
+
+36
+00:04:39,000 --> 00:04:47,000
+impact strength, abrasion tests to determine wearing characteristics,
+
+37
+00:04:47,000 --> 00:04:53,000
+bending strength, and other important wood characteristics.
+
+38
+00:05:01,000 --> 00:05:05,000
+General results showed the following improvements of irradiated wood plastic
+
+39
+00:05:05,000 --> 00:05:22,000
+compared to untreated wood. Hardness, up 300 to 500 percent. Abrasion resistance, up 200 to 300 percent.
+
+40
+00:05:22,000 --> 00:05:31,000
+Compression strength, up 100%.
+
+41
+00:05:31,000 --> 00:05:37,000
+Toughness, up 100%.
+
+42
+00:05:37,000 --> 00:05:45,000
+Dimensional resistance to humidity change, up 200 to 300%.
+
+43
+00:05:52,000 --> 00:05:58,000
+But not only were its functional characteristics enhanced, even its aesthetic qualities took on new glamour.
+
+44
+00:05:58,000 --> 00:06:05,000
+The product could retain its natural wood grain and color, or by adding a dye to the plastic with which the wood was impregnated,
+
+45
+00:06:06,000 --> 00:06:10,000
+it could be colored throughout, or dyed to match the stain of any wood.
+
+46
+00:06:14,000 --> 00:06:19,000
+It's difficult to nail wood plastic because of its high plastic content.
+
+47
+00:06:19,000 --> 00:06:28,000
+This, however, can be overcome by pre-drilling or gluing.
+
+48
+00:06:28,000 --> 00:06:34,000
+Conventional equipment gives irradiated wood plastic a hard, beautiful satin smooth finish,
+
+49
+00:06:34,000 --> 00:06:39,000
+which actually exists throughout the wood.
+
+50
+00:06:39,000 --> 00:06:41,000
+In practical terms, this is what it means.
+
+51
+00:06:41,000 --> 00:06:47,000
+A cigarette burn on wood produces an ugly scar, which normally would necessitate a new
+
+52
+00:06:47,000 --> 00:06:48,000
+finish.
+
+53
+00:06:48,000 --> 00:06:52,000
+But with this hybrid, whose finish extends throughout the entire structure,
+
+54
+00:06:52,000 --> 00:06:55,000
+a piece of sandpaper or steel wool is all that is required.
+
+55
+00:06:56,000 --> 00:07:01,000
+Enough buffing to remove the scar, and underneath it, the same satiny finish.
+
+56
+00:07:04,000 --> 00:07:08,000
+With many properties of irradiated wood fairly well pinpointed,
+
+57
+00:07:08,000 --> 00:07:15,000
+and while others were still being identified, the AEC undertook another phase of the program with the Lockheed Georgia Company,
+
+58
+00:07:15,000 --> 00:07:21,000
+which by this time had begun to undertake its own program of developing and marketing wood plastic products.
+
+59
+00:07:22,000 --> 00:07:28,000
+This effort was aimed towards converting standard wood products furnished by private companies into wood plastic
+
+60
+00:07:28,000 --> 00:07:32,000
+and returning the samples for evaluation by the participants.
+
+61
+00:07:37,000 --> 00:07:41,000
+Most of these samples came to Lockheed, Georgia as blanks,
+
+62
+00:07:41,000 --> 00:07:44,000
+that is, semi-formed units from which the finished products were shaped.
+
+63
+00:07:45,000 --> 00:07:48,000
+These, for instance, are baseball bat blanks.
+
+64
+00:07:50,000 --> 00:07:52,000
+And these are blanks for table legs.
+
+65
+00:07:53,000 --> 00:07:57,000
+Lockheed, Georgia gave the wood the impregnation plus radiation treatment
+
+66
+00:07:57,000 --> 00:08:02,000
+and then sent the polymerized blanks back to the companies that owned them.
+
+67
+00:08:02,000 --> 00:08:16,000
+They were then finished and tested to the manufacturing company's own standards and
+
+68
+00:08:16,000 --> 00:08:17,000
+specifications.
+
+69
+00:08:17,000 --> 00:08:22,000
+From a list of nearly 200 companies which asked to be included in the evaluation, about
+
+70
+00:08:22,000 --> 00:08:30,000
+80 were selected for participation.
+
+71
+00:08:30,000 --> 00:08:35,000
+The findings from these laboratory studies seemed clearly enough to open up yet other
+
+72
+00:08:35,000 --> 00:08:41,000
+industrial paths.
+
+73
+00:08:41,000 --> 00:08:45,000
+There were, of course, substantial questions to be answered before the laboratory experiments
+
+74
+00:08:45,000 --> 00:08:51,000
+could be converted into products to be manufactured and sold.
+
+75
+00:08:51,000 --> 00:09:02,000
+it was AEC's responsibility to generate programs which would provide the answers.
+
+76
+00:09:02,000 --> 00:09:06,000
+Further investigation showed that it might well become possible for a manufacturer to
+
+77
+00:09:06,000 --> 00:09:11,000
+produce the wood-plastic composite for about 80 cents a board foot.
+
+78
+00:09:11,000 --> 00:09:16,000
+One of the first questions was, was there a sizeable enough market in which the material
+
+79
+00:09:16,000 --> 00:09:18,000
+at that price could compete?
+
+80
+00:09:18,000 --> 00:09:25,000
+new product will be most competitive with pre-finished relatively high unit cost flooring.
+
+81
+00:09:33,000 --> 00:09:38,000
+A market research survey found that a market did indeed exist, one which represented many
+
+82
+00:09:38,000 --> 00:09:45,000
+millions of dollars of market value. For example, the manufacture of wood products that could
+
+83
+00:09:45,000 --> 00:09:55,000
+combine toughness with aesthetic qualities for commercial establishments such as schools
+
+84
+00:09:55,000 --> 00:10:02,000
+or institutions.
+
+85
+00:10:02,000 --> 00:10:06,000
+And even private homes where furniture cannot always be protected from a certain degree
+
+86
+00:10:06,000 --> 00:10:08,000
+of punishment.
+
+87
+00:10:08,000 --> 00:10:13,000
+It ranges from these to many other items where the requirements are for appearance, permanence
+
+88
+00:10:13,000 --> 00:10:21,000
+of finish, ease of fabrication, and stain resistance. And it very definitely included
+
+89
+00:10:21,000 --> 00:10:27,000
+flooring which must stand up under steady heavy wear. Here then is a new material with
+
+90
+00:10:27,000 --> 00:10:34,000
+a host of improved properties, with good working characteristics, with favorable market potential,
+
+91
+00:10:34,000 --> 00:10:39,000
+and one for which economics appear to be realistic. Let's take a look at some of the commercial
+
+92
+00:10:39,000 --> 00:10:49,000
+plans and activities currently going on.
+
+93
+00:10:49,000 --> 00:10:54,000
+The earliest entry into the wood-plastic field is the American Nova Wood Corporation of Lynchburg,
+
+94
+00:10:54,000 --> 00:10:57,000
+Virginia.
+
+95
+00:10:57,000 --> 00:11:02,000
+One of its most important applications is institutional or commercial flooring called
+
+96
+00:11:02,000 --> 00:11:07,000
+gamma-par, where high-wear, low-maintenance characteristics are important, such as in
+
+97
+00:11:07,000 --> 00:11:09,000
+this meeting hall.
+
+98
+00:11:09,000 --> 00:11:15,000
+In early 1969, American Novawood was awarded a contract to provide over 400,000 square
+
+99
+00:11:15,000 --> 00:11:19,000
+feet of flooring for the new Kansas City International Airport.
+
+100
+00:11:19,000 --> 00:11:25,000
+Over one and a half miles of guard rails, paneling, and other Novawood products are
+
+101
+00:11:25,000 --> 00:11:27,000
+also included.
+
+102
+00:11:27,000 --> 00:11:32,000
+Once installed, sanded, and buffed, an occasional damp mopping of Novawood is sufficient to
+
+103
+00:11:32,000 --> 00:11:36,000
+maintain its striking appearance, which often enhances the warmth and beauty of
+
+104
+00:11:36,000 --> 00:11:48,000
+natural wood. Other applications of high wear areas are ballroom floors,
+
+105
+00:11:55,000 --> 00:11:58,000
+basketball courts,
+
+106
+00:12:02,000 --> 00:12:07,000
+and bowling alleys.
+
+107
+00:12:13,000 --> 00:12:16,000
+Another large volume use will be in furniture and furniture parts.
+
+108
+00:12:17,000 --> 00:12:21,000
+This table, now several years old, was made by the Stanley Furniture Company
+
+109
+00:12:21,000 --> 00:12:24,000
+from a black-dyed birch and methylmethacrylate composite.
+
+110
+00:12:25,000 --> 00:12:29,000
+The top is quarter-inch thick wood plastic glued to a core stock,
+
+111
+00:12:29,000 --> 00:12:31,000
+and the edges are from solid stock.
+
+112
+00:12:32,000 --> 00:12:41,000
+Another table was made from a maple and methyl methaquilate composite by the
+
+113
+00:12:41,000 --> 00:12:47,000
+Craylor Manufacturing Company. It is solid wood plastic throughout. Certain
+
+114
+00:12:47,000 --> 00:12:51,000
+parts of furniture, such as arms, could provide a colorful and attractive appeal.
+
+115
+00:12:51,000 --> 00:13:06,000
+as good picture frames. Textile spindles are now made routinely. Industrial dyes and molds
+
+116
+00:13:06,000 --> 00:13:12,000
+have been fabricated. Here a wood plastic dye is being made for the air cleaner on a carburetor.
+
+117
+00:13:12,000 --> 00:13:23,000
+From it, the final metal mold will be made and finally the end product.
+
+118
+00:13:23,000 --> 00:13:46,000
+all in all the uses for this new material are limited only by the user's imagination and desire
+
+119
+00:13:46,000 --> 00:13:53,000
+to be creative the basic versatility of wood now enhanced with new properties permits an
+
+120
+00:13:53,000 --> 00:13:57,000
+endless array of both large-scale and small-scale uses of wood plastics.
+
+121
+00:13:58,000 --> 00:14:04,000
+Research work supported by the AEC has drawn to an orderly close, mainly because of the
+
+122
+00:14:04,000 --> 00:14:08,000
+strong commercialization effort now underway by several private companies.
+
+123
+00:14:10,000 --> 00:14:15,000
+One of the latest private companies in this new field is Numek, a subsidiary of Atlantic
+
+124
+00:14:15,000 --> 00:14:20,000
+Richfield Company, which located its radiation facility among the rolling mountains and forests
+
+125
+00:14:20,000 --> 00:14:23,000
+in the heart of Pennsylvania.
+
+126
+00:14:23,000 --> 00:14:28,000
+Pneumek is concentrating on the development and production of a parquet-type flooring called permagrain.
+
+127
+00:14:32,000 --> 00:14:36,000
+Made from a combination of red oak and methyl methaquelate,
+
+128
+00:14:36,000 --> 00:14:38,000
+permagrain is offered in several colors and patterns.
+
+129
+00:14:43,000 --> 00:14:48,000
+This floor in Pneumek's entrance foyer has been subjected to constant severe abuse
+
+130
+00:14:48,000 --> 00:14:51,000
+by both employees and visitors to the facility.
+
+131
+00:14:51,000 --> 00:14:54,000
+Yet, despite the everyday wear and tear,
+
+132
+00:14:54,000 --> 00:14:57,000
+the flooring still provides an attractive and impressive
+
+133
+00:14:57,000 --> 00:15:00,000
+example of the durability, lasting beauty,
+
+134
+00:15:00,000 --> 00:15:02,000
+and ease of maintenance of wood plastic.
+
+135
+00:15:11,000 --> 00:15:15,000
+Let's take a look at the early production of permagrain.
+
+136
+00:15:15,000 --> 00:15:22,000
+Untreated wood fillets are loaded into carriers then placed into a pressure vessel where they are impregnated with monomer.
+
+137
+00:15:29,000 --> 00:15:38,000
+Following impregnation and soaking, the boxes of fillets are then transferred to a larger watertight container for the irradiation step.
+
+138
+00:15:45,000 --> 00:15:55,000
+In this case, the Cobalt-60 radiation source is located at the bottom of a deep pool, where
+
+139
+00:15:55,000 --> 00:16:03,000
+the samples will remain until all of the liquid monomer has polymerized into solid plastic.
+
+140
+00:16:03,000 --> 00:16:08,000
+After several hours of radiation exposure, the wood is removed from the irradiator, ready
+
+141
+00:16:08,000 --> 00:16:23,000
+for transfer to the automated machinery that forms the flooring.
+
+142
+00:16:23,000 --> 00:16:28,000
+Only the radiation energy has been used to cause this chemical reaction and there is
+
+143
+00:16:28,000 --> 00:16:37,000
+no trace of radioactivity in the permagrain.
+
+144
+00:16:37,000 --> 00:16:41,000
+peaceful application of atomic energy has attracted still another company into
+
+145
+00:16:41,000 --> 00:16:45,000
+the wood plastic parquet flooring field.
+
+146
+00:16:47,000 --> 00:16:52,000
+Radiation Machine Recorporation, located in New Jersey, is constructing a very
+
+147
+00:16:52,000 --> 00:16:58,000
+large complex for flooring, which is scheduled for completion in early 1969.
+
+148
+00:16:59,000 --> 00:17:04,000
+More than three million curies of Cobalt 60 will make up the radiation source,
+
+149
+00:17:04,000 --> 00:17:09,000
+which when fully loaded will be the largest source of radiation ever amassed
+
+150
+00:17:09,000 --> 00:17:14,000
+for any commercial application. As with other irradiators, modern radiation
+
+151
+00:17:14,000 --> 00:17:18,000
+engineering technology will assure complete safety to the process, the
+
+152
+00:17:18,000 --> 00:17:24,000
+product, and to those associated with its production and use.
+
+153
+00:17:24,000 --> 00:17:39,000
+This is an artist's rendering of the completed facility.
+
+154
+00:17:39,000 --> 00:17:44,000
+Complete automation of a large plant is quite feasible as an engineering study by the Vitro
+
+155
+00:17:44,000 --> 00:17:47,000
+Engineering Company showed.
+
+156
+00:17:47,000 --> 00:17:51,000
+The operation would work like this.
+
+157
+00:17:51,000 --> 00:17:57,000
+The wood planks are stacked aboard a carrier, which is then transferred to the impregnator for the addition of monomer.
+
+158
+00:18:07,000 --> 00:18:14,000
+Air is evacuated from the wood pores by a vacuum pump down to approximately one millimeter of mercury.
+
+159
+00:18:21,000 --> 00:18:28,000
+Pressurization with nitrogen is started and the pressure is raised to a predetermined level.
+
+160
+00:18:32,000 --> 00:18:37,000
+The monomer is introduced into the carrier containing the wood.
+
+161
+00:18:43,000 --> 00:18:47,000
+Vitro's plan envisions the use of methyl methacrylate.
+
+162
+00:18:47,000 --> 00:18:52,000
+Excess monomer is then removed while still under nitrogen pressure.
+
+163
+00:18:53,000 --> 00:18:57,000
+The impregnator tank is now brought back to normal pressure.
+
+164
+00:18:58,000 --> 00:19:02,000
+The head on the product carrier is then sealed by water flooding,
+
+165
+00:19:02,000 --> 00:19:06,000
+thus maintaining a blanket of nitrogen over the material.
+
+166
+00:19:09,000 --> 00:19:13,000
+Drain water and excess nitrogen are removed.
+
+167
+00:19:13,000 --> 00:19:18,000
+The product carrier is uncoupled from the monomer and nitrogen feed lines
+
+168
+00:19:18,000 --> 00:19:21,000
+and removed from the impregnator tank.
+
+169
+00:19:28,000 --> 00:19:33,000
+It is then placed at the loading station adjacent to the irradiation cell
+
+170
+00:19:33,000 --> 00:19:36,000
+and carried by automatic conveyor through two sets of doors
+
+171
+00:19:36,000 --> 00:19:40,000
+which provide a gas lock between the impregnation area
+
+172
+00:19:40,000 --> 00:19:45,000
+and the irradiation zone.
+
+173
+00:19:47,000 --> 00:19:51,000
+The radiation source is radioactive cobalt-60.
+
+174
+00:19:54,000 --> 00:19:59,000
+The product carrier, passing through the first leg of the cruciform-shaped source,
+
+175
+00:20:01,000 --> 00:20:06,000
+is given a high dose rate to get the monomer through the initiation or gel stage.
+
+176
+00:20:06,000 --> 00:20:14,000
+the carrier is passed on each side of the source so that the radiation dose is as uniform as
+
+177
+00:20:14,000 --> 00:20:19,000
+possible in normal plant operation many product carriers would be moving through the various
+
+178
+00:20:19,000 --> 00:20:27,000
+radiation tunnels at the same time as though they were on an endless belt finished product
+
+179
+00:20:27,000 --> 00:20:36,000
+carriers move out of the airlock through the checkout room and then are unloaded in the
+
+180
+00:20:36,000 --> 00:20:44,000
+finished wood storage area prior to shipment. This plant would produce 24
+
+181
+00:20:44,000 --> 00:20:50,000
+million pounds of wood plastic composite a year, approximately 5 million board
+
+182
+00:20:50,000 --> 00:20:59,000
+feet. It is clear that wood plastics are even now competitively priced for a
+
+183
+00:20:59,000 --> 00:21:03,000
+number of products and applications, as evidenced by the growing industrial
+
+184
+00:21:03,000 --> 00:21:07,000
+interests in its production and use. Not only can woods be made extremely hard
+
+185
+00:21:07,000 --> 00:21:14,000
+and durable but also more resistant to insects, weather, and decay. This may
+
+186
+00:21:14,000 --> 00:21:18,000
+provide great advantages in construction in tropical countries where such
+
+187
+00:21:18,000 --> 00:21:25,000
+properties are important. The accomplishments so far have produced
+
+188
+00:21:25,000 --> 00:21:30,000
+many satisfactions but the full potential of wood plastic composites is
+
+189
+00:21:30,000 --> 00:21:39,000
+yet to be developed. Great challenges still lie ahead to perfect a technology
+
+190
+00:21:39,000 --> 00:21:45,000
+for veneers, other materials, as well as solid woods.
+
+191
+00:22:00,000 --> 00:22:12,000
+To find industrial shortcuts for production, to cut production costs, but these are exciting
+
+192
+00:22:12,000 --> 00:22:17,000
+challenges that are felt, truly felt, only when new industries are born.

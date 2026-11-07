@@ -1,0 +1,375 @@
+1
+00:00:30,000 --> 00:00:35,000
+Fortunately, on Earth, people can adapt to this situation and live without certain amenities
+
+2
+00:00:35,000 --> 00:00:38,000
+as generations did before them.
+
+3
+00:00:38,000 --> 00:00:43,000
+In space, however, lack of power is not just a temporary inconvenience, but a grim denial
+
+4
+00:00:43,000 --> 00:00:45,000
+of survival.
+
+5
+00:00:45,000 --> 00:00:51,000
+For our astronauts depend upon sensitive equipment, systems of high sophistication, bound and
+
+6
+00:00:51,000 --> 00:00:54,000
+ruled by one single matter of life and death.
+
+7
+00:00:54,000 --> 00:01:06,000
+need for energy, power, continuous and uninterrupted, for days, months, or better still, years.
+
+8
+00:01:06,000 --> 00:01:11,000
+True solar cells can operate some unmanned missions and fuel cells can take us briefly
+
+9
+00:01:11,000 --> 00:01:17,000
+to the moon, but the moon is near at hand compared to other planets in our solar system.
+
+10
+00:01:17,000 --> 00:01:23,000
+Close or far in space, man must take his earth environment along, and if you can't take it
+
+11
+00:01:23,000 --> 00:01:30,000
+with you. You just don't go. Of course simulating the Earth's environment is by no means a new
+
+12
+00:01:30,000 --> 00:01:36,000
+idea. Crews of nuclear submarines live in health and comfort for months at a time, submerged
+
+13
+00:01:36,000 --> 00:01:41,000
+in an alien and hostile environment. This is possible because their nuclear power system
+
+14
+00:01:41,000 --> 00:01:47,000
+operates continuously for long periods of time. Space voyagers, too, need this kind
+
+15
+00:01:47,000 --> 00:01:53,000
+of power. And that's where SNAP-8 comes in, a program to study the technology of converting
+
+16
+00:01:53,000 --> 00:02:00,000
+nuclear energy into useful electricity for space exploration. The present SNAP-8 system
+
+17
+00:02:00,000 --> 00:02:05,000
+is designed to operate for over a year, providing sufficient power to meet the needs of 125
+
+18
+00:02:05,000 --> 00:02:11,000
+earthbound Americans. In space, this means oxygen, drinking water, air conditioning,
+
+19
+00:02:11,000 --> 00:02:18,000
+lighting, and communication. In short, SNAP-8 is providing the technology for the maintenance
+
+20
+00:02:18,000 --> 00:02:24,000
+of equipment and sustenance of light. In the SNAP-8 system, an atomic reactor supplies
+
+21
+00:02:24,000 --> 00:02:30,000
+heat, which is transformed into electricity by the power conversion system. Some of the
+
+22
+00:02:30,000 --> 00:02:39,000
+principle SNAP-8 components are a boiler, condenser, turbine and associated alternator,
+
+23
+00:02:39,000 --> 00:02:46,000
+a container holding electrical controls, expansion reservoirs for the various system loops and
+
+24
+00:02:46,000 --> 00:02:52,000
+pumps. Heat from the nuclear reactor is absorbed by a liquid alloy called NaK, which is composed
+
+25
+00:02:52,000 --> 00:02:57,000
+of sodium and potassium. While passing through the reactor, the alloy is heated to about
+
+26
+00:02:57,000 --> 00:03:02,000
+1300 degrees Fahrenheit. This heat is transferred to a boiler before the NaK returns to the
+
+27
+00:03:02,000 --> 00:03:08,000
+reactor to be reheated. This is the first of several interrelated loops which make up
+
+28
+00:03:08,000 --> 00:03:14,000
+the SNAP-8 electrical power system. Of course, future developments could employ another nuclear
+
+29
+00:03:14,000 --> 00:03:19,000
+heat source, radioisotopes, in place of the reactor. The second loop is filled with liquid
+
+30
+00:03:19,000 --> 00:03:24,000
+mercury, which is vaporized in the boiler by the heat released by NaK loop number one.
+
+31
+00:03:25,000 --> 00:03:31,000
+These mercury vapors drive the turbine alternator, producing electrical power. After driving
+
+32
+00:03:31,000 --> 00:03:36,000
+the turbine, the vapors are recondensed into a liquid. The liquid then returns from the
+
+33
+00:03:36,000 --> 00:03:42,000
+condenser to the boiler, completing loop number two. Because NaK is an effective heat absorber
+
+34
+00:03:42,000 --> 00:03:48,000
+and coolant, it is used in a third loop to carry the excess heat given off by the mercury
+
+35
+00:03:48,000 --> 00:03:54,000
+to a radiator, where it is dissipated into space. A fourth loop, filled with oil, is
+
+36
+00:03:54,000 --> 00:04:00,000
+provided to cool the components and lubricate the bearings. This combination of closed loops
+
+37
+00:04:00,000 --> 00:04:05,000
+permits materials to be used over and over again, making such power-producing systems
+
+38
+00:04:05,000 --> 00:04:09,000
+capable of continuous operation for months and even years.
+
+39
+00:04:10,000 --> 00:04:15,000
+Development of the SNAP-8 electrical power conversion system is now in progress at Aerojet General's von Karman Center
+
+40
+00:04:15,000 --> 00:04:18,000
+under direction of the National Aeronautics and Space Administration.
+
+41
+00:04:19,000 --> 00:04:22,000
+Simultaneously, development of the nuclear reactor
+
+42
+00:04:22,000 --> 00:04:25,000
+is underway at Atomics International for the Atomic Energy Commission.
+
+43
+00:04:26,000 --> 00:04:31,000
+The Aerojet test complex is the center of all non-nuclear SNAP-8 testing activities.
+
+44
+00:04:31,000 --> 00:04:34,000
+Here, massive heaters supply the thermal energy,
+
+45
+00:04:34,000 --> 00:04:38,000
+which in space will be supplied by a compact nuclear reactor.
+
+46
+00:04:38,000 --> 00:04:41,000
+Each heater brings NaK liquid alloy to high temperatures,
+
+47
+00:04:42,000 --> 00:04:47,000
+while pumps and pipes transport it to the test bays where it is used to test SNAP-8 components.
+
+48
+00:04:48,000 --> 00:04:51,000
+The complex is a maze of closed loops and sealed parts.
+
+49
+00:04:51,000 --> 00:04:54,000
+Only instrument readings indicate that tests are going on,
+
+50
+00:04:55,000 --> 00:05:01,000
+all different kinds, such as the recently completed 3,000-hour hot test of the NaK pump shown here.
+
+51
+00:05:01,000 --> 00:05:08,000
+For not only must designs be evaluated and improved, but the materials themselves must
+
+52
+00:05:08,000 --> 00:05:13,000
+be studied, as they are subjected to high temperatures, low pressures, and radiation
+
+53
+00:05:13,000 --> 00:05:16,000
+for months on end.
+
+54
+00:05:16,000 --> 00:05:21,000
+The components for these and future tests are fabricated and assembled in special dust-free
+
+55
+00:05:21,000 --> 00:05:26,000
+clean rooms, for even a little dust can cause parts to fail.
+
+56
+00:05:26,000 --> 00:05:32,000
+Thus, SNAP8 is not a paper study but a very important advanced technology program based
+
+57
+00:05:32,000 --> 00:05:34,000
+on well-established principles.
+
+58
+00:05:34,000 --> 00:05:40,000
+Here, consoles monitor SNAP8 test hardware during development tests and endurance runs.
+
+59
+00:05:40,000 --> 00:05:45,000
+Of course, this is an experimental system, an earthbound, greatly enlarged version of
+
+60
+00:05:45,000 --> 00:05:50,000
+a possible future flight system on which arrangements and functions of components can be studied
+
+61
+00:05:50,000 --> 00:05:54,000
+as they work together producing SNAP8 power.
+
+62
+00:05:54,000 --> 00:06:00,000
+Today, successful proof testing of individual components has led to a progressive buildup
+
+63
+00:06:00,000 --> 00:06:07,000
+of a complete power conversion unit, a necessary step before integrated testing with the reactor.
+
+64
+00:06:07,000 --> 00:06:13,000
+This power conversion system buildup is proceeding in four major steps. Checkout of boiler, condenser
+
+65
+00:06:13,000 --> 00:06:22,000
+and mercury pump, addition of the turbine alternator, NaK pumps, and finally, after
+
+66
+00:06:22,000 --> 00:06:28,000
+startup equipment is checked out, a 10,000-hour endurance test of the entire system. Only by such
+
+67
+00:06:28,000 --> 00:06:34,000
+exhaustive testing can we thoroughly understand a new system and its capabilities. For instance,
+
+68
+00:06:35,000 --> 00:06:40,000
+development of the nuclear submarine, which later became the indispensable platform for the Polaris
+
+69
+00:06:40,000 --> 00:06:46,000
+missile, was started immediately after the war, but it wasn't developed overnight. In fact, it took
+
+70
+00:06:46,000 --> 00:06:53,000
+nine years, nine years, accepted today as time well spent.
+
+71
+00:07:00,000 --> 00:07:05,000
+Snap-8 technology needs this same kind of long lead time. For when a system must be
+
+72
+00:07:05,000 --> 00:07:10,000
+built to operate for years, its basic concept and the actual hardware must be proven by
+
+73
+00:07:10,000 --> 00:07:17,000
+years of testing. And when lives of men are at stake, one dares not and does not take
+
+74
+00:07:17,000 --> 00:07:24,000
+risks. SNAP-8 is the only major technology program of its kind conducted today. Obviously,
+
+75
+00:07:26,000 --> 00:07:32,000
+future space missions and their associated power supplies must be planned years in advance.
+
+76
+00:07:32,000 --> 00:07:39,000
+The knowledge gained from the SNAP-8 program will allow them to become realities. The desirable
+
+77
+00:07:39,000 --> 00:07:45,000
+The desirable features of nuclear systems make them candidates for many kinds of missions.
+
+78
+00:07:45,000 --> 00:07:56,000
+One of the earliest applications might be for TV satellites capable of broadcasting educational and informational programs directly to homes all over the world.
+
+79
+00:07:56,000 --> 00:08:03,000
+Large orbiting space stations could use nuclear electric power to support earth observation and space research
+
+80
+00:08:03,000 --> 00:08:08,000
+or make them useful springboards for deep space exploration.
+
+81
+00:08:08,000 --> 00:08:15,000
+Permanent bases on the Moon would also require large quantities of power to bore into and thoroughly explore the lunar surface.
+
+82
+00:08:15,000 --> 00:08:19,000
+And as we continue to reach farther and farther into space,
+
+83
+00:08:19,000 --> 00:08:25,000
+requirements for life-sustaining and equipment-maintaining power will become progressively heavier.
+
+84
+00:08:25,000 --> 00:08:28,000
+All this may be nearer than we think.
+
+85
+00:08:28,000 --> 00:08:31,000
+Ten years ago, the Moon looked very far away,
+
+86
+00:08:31,000 --> 00:08:36,000
+and yet today it is not only a realistic goal, but the focal point of our national space effort.
+
+87
+00:08:36,000 --> 00:08:43,000
+And just as our present objectives exceed those of a decade ago, so our goals for 1975
+
+88
+00:08:43,000 --> 00:08:46,000
+are likely to exceed any predictions we make now.
+
+89
+00:08:46,000 --> 00:08:53,000
+But whatever our goals, we will need the technology being built today in the SNAP-8 program.
+
+90
+00:08:53,000 --> 00:08:59,000
+For without it, our manned explorations could remain confined to very limited horizons.
+
+91
+00:08:59,000 --> 00:09:04,000
+If space is this century's frontier, we must recognize that compared to the great voyagers
+
+92
+00:09:04,000 --> 00:09:11,000
+of the past we are barely out of port but to travel beyond our earth and its companion
+
+93
+00:09:11,000 --> 00:09:16,000
+satellite to other planets in our solar family we must have a continuous source of substantial
+
+94
+00:09:16,000 --> 00:09:25,000
+electrical power for months or better still years snappy technology can supply this power

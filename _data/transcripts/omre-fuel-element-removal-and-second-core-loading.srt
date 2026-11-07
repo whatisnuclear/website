@@ -1,0 +1,543 @@
+1
+00:00:30,350 --> 00:00:35,350
+This is a report on operations, first core removal and second core loading,
+
+2
+00:00:35,350 --> 00:00:40,350
+of the Organic Moderated Reactor Experiment, called the OMRE.
+
+3
+00:00:41,350 --> 00:00:45,350
+This reactor experiment, located at the National Reactor Testing Station in Idaho,
+
+4
+00:00:46,350 --> 00:00:50,350
+is an Atomic Energy Commission project conducted by Atomics International.
+
+5
+00:00:51,350 --> 00:00:56,350
+The OMRE is designed for a maximum fuel element temperature of 800 degrees Fahrenheit
+
+6
+00:00:56,350 --> 00:01:01,350
+and organic coolant temperatures of from 500 to 700 degrees Fahrenheit with a
+
+7
+00:01:01,350 --> 00:01:06,350
+coolant velocity of 12 feet per second. The reactor produces 12,000 kilowatts of
+
+8
+00:01:06,350 --> 00:01:14,350
+heat. 31 fuel elements with a total uranium-235 content of 25.5 kilograms
+
+9
+00:01:14,350 --> 00:01:23,350
+are used to provide operating reactivity. An important function of the OMRE is to
+
+10
+00:01:23,350 --> 00:01:28,350
+test organic coolant behavior under conditions similar to those of large central station
+
+11
+00:01:28,350 --> 00:01:34,350
+power plants.
+
+12
+00:01:34,350 --> 00:01:38,350
+Another major function of this reactor is the testing of prototype fuel elements for
+
+13
+00:01:38,350 --> 00:01:45,350
+full-scale organic moderated and cooled reactors.
+
+14
+00:01:45,350 --> 00:01:49,350
+The OMRE began operating during September 1957.
+
+15
+00:01:49,350 --> 00:01:55,350
+By March 1958, thermal stability predictions on organic fluid were confirmed by a successful
+
+16
+00:01:55,350 --> 00:02:00,350
+three-week test conducted at reduced power with the bulk coolant temperature at 700 degrees
+
+17
+00:02:00,350 --> 00:02:06,350
+Fahrenheit.
+
+18
+00:02:06,350 --> 00:02:11,350
+A subsequent series of tests demonstrated the degree of radiation stability of the organic
+
+19
+00:02:11,350 --> 00:02:12,350
+coolant.
+
+20
+00:02:12,350 --> 00:02:22,350
+No significant decrease occurred in the overall heat transfer properties of the coolant.
+
+21
+00:02:22,350 --> 00:02:28,350
+Operation of the OMRE during this period proved to be simple.
+
+22
+00:02:28,350 --> 00:02:33,350
+Low activation of the coolant allowed access to the primary coolant system.
+
+23
+00:02:33,350 --> 00:02:37,350
+The use of standard components and piping eliminated long delays for parts in need of
+
+24
+00:02:37,350 --> 00:02:40,350
+repair or replacement.
+
+25
+00:02:40,350 --> 00:02:45,350
+Most of the OMRE shutdown time was scheduled for test program modifications.
+
+26
+00:02:45,350 --> 00:02:50,350
+For example, during one of the shutdowns, the OMRE fuel elements were relocated within
+
+27
+00:02:50,350 --> 00:02:55,350
+the core to allow higher power operation of the reactor.
+
+28
+00:02:55,350 --> 00:03:00,350
+Based on the records of the dimensions of each OMRE fuel element built, hot channel
+
+29
+00:03:00,350 --> 00:03:05,350
+factors have been determined for critical points in all fuel elements.
+
+30
+00:03:05,350 --> 00:03:12,350
+When suitable radio flux plots are obtained, the fuel elements in the core are redistributed.
+
+31
+00:03:12,350 --> 00:03:17,350
+All work of this type is done over the open reactor with the coolant level approximately
+
+32
+00:03:17,350 --> 00:03:20,350
+15 feet above the core.
+
+33
+00:03:20,350 --> 00:03:25,350
+There are no permanent fuel handling or reloading facilities for the OMRE.
+
+34
+00:03:25,350 --> 00:03:31,350
+A tractor-mounted crane is used to handle reactor components.
+
+35
+00:03:31,350 --> 00:03:37,350
+To remove irradiated fuel elements from the reactor, three casks were constructed.
+
+36
+00:03:37,350 --> 00:03:43,350
+Each cask will transport one OMRE fuel element or one OMR test element.
+
+37
+00:03:43,350 --> 00:03:50,350
+The casks are also used to transport in-pile corrosion specimen holders.
+
+38
+00:03:50,350 --> 00:03:54,350
+All radiation shielding is designed in conformance with government regulations and the casks
+
+39
+00:03:54,350 --> 00:04:01,350
+have been approved for interstate shipment of radioactive materials.
+
+40
+00:04:01,350 --> 00:04:04,350
+The casks have supplemental shields.
+
+41
+00:04:04,350 --> 00:04:10,350
+A fuel element with 1,200,000 curies of activity can be transported in a cask if all three
+
+42
+00:04:10,350 --> 00:04:16,350
+supplemental shields are attached.
+
+43
+00:04:16,350 --> 00:04:22,350
+This shows the casks being tested at an Atomics International facility in California.
+
+44
+00:04:22,350 --> 00:04:26,350
+Each cask is removed from its cradle trunnion and placed onto an auxiliary shield which
+
+45
+00:04:26,350 --> 00:04:30,350
+is mounted on a pipe stand.
+
+46
+00:04:30,350 --> 00:04:34,350
+When permissible fuel heat generation rates and heat transfer characteristics have been
+
+47
+00:04:34,350 --> 00:04:38,350
+determined, fuel element removal operations are checked.
+
+48
+00:04:38,350 --> 00:04:43,350
+An OMRE fuel element head casting is used in this test.
+
+49
+00:04:43,350 --> 00:04:49,350
+The tool assembly is lowered and contact made with the fuel element head.
+
+50
+00:04:49,350 --> 00:04:53,350
+When the assembly latch is secured to the lifting plug of the fuel element, the tool
+
+51
+00:04:53,350 --> 00:04:56,350
+assembly is withdrawn into the cask.
+
+52
+00:04:56,350 --> 00:05:02,350
+The cask bottom closure plug is then rotated and raised.
+
+53
+00:05:02,350 --> 00:05:07,350
+After satisfactory completion of tests, the fuel casks and auxiliary shielding are shipped
+
+54
+00:05:07,350 --> 00:05:13,350
+to the OMRE facility to remove a fuel element and an in-pile corrosion specimen during a
+
+55
+00:05:13,350 --> 00:05:19,350
+scheduled reactor shutdown in July 1958.
+
+56
+00:05:19,350 --> 00:05:23,350
+A work platform is used on the open reactor to permit placement of the fuel element in
+
+57
+00:05:23,350 --> 00:05:30,350
+proper position for removal. After removal of the work platform, a tractor mounted crane
+
+58
+00:05:30,350 --> 00:05:37,350
+lowers the frame and auxiliary shield onto four pipe columns around the reactor. Shock
+
+59
+00:05:38,350 --> 00:05:43,350
+absorbing pieces are attached to the pipe columns. The auxiliary shield is centered
+
+60
+00:05:43,350 --> 00:05:50,350
+by guide pins through holes in the frame and corresponding holes in the reactor flange.
+
+61
+00:05:50,350 --> 00:05:55,350
+The cask is lifted from the cradle assembly and lowered into the auxiliary shielding.
+
+62
+00:05:59,350 --> 00:06:03,350
+The bottom closure plug of the cask is lowered and rotated to open the cask.
+
+63
+00:06:04,350 --> 00:06:09,350
+Using safety lock pins to prevent accidental drop, the tool assembly is lowered into the
+
+64
+00:06:09,350 --> 00:06:16,350
+reactor vessel. When contact is made with the fuel element head, the tool assembly latch is
+
+65
+00:06:16,350 --> 00:06:23,350
+is secured to the lifting plug of the fuel element and the element lifted into the cask.
+
+66
+00:06:23,350 --> 00:06:28,350
+After the bottom closure plug is rotated and closed, the cask is lifted from the auxiliary
+
+67
+00:06:28,350 --> 00:06:40,350
+shielding and lowered into the cradle trunnion. Clamps secure the cask in the cradle.
+
+68
+00:06:40,350 --> 00:06:45,350
+The afterglow heat output from the hottest OMRE fuel element is reduced to about 3.6
+
+69
+00:06:45,350 --> 00:06:51,350
+kilowatts one day after reactor shutdown. If the heat generation rate of an element
+
+70
+00:06:51,350 --> 00:06:58,350
+exceeds 0.8 kilowatts, the cask is filled with organic liquid. Thermometers are installed
+
+71
+00:06:58,350 --> 00:07:04,350
+in the cooling water inlet and outlet to check proper cooling of the element. An expansion
+
+72
+00:07:04,350 --> 00:07:10,350
+tank for the organic is connected to the cask which is in a horizontal position on the trailer.
+
+73
+00:07:10,350 --> 00:07:15,350
+The two cooling water systems for the cask, one of them an auxiliary, maintain fuel element
+
+74
+00:07:15,350 --> 00:07:22,350
+temperatures as low as possible for experimental reasons. The cooling systems need not be used
+
+75
+00:07:22,350 --> 00:07:31,350
+with the less active fuel elements. The two casks shown here, one containing an OMRE fuel
+
+76
+00:07:31,350 --> 00:07:36,350
+element, the other containing an in-pile corrosion specimen, are transported to a hot cell on
+
+77
+00:07:36,350 --> 00:07:44,350
+a 25 ton low bed trailer. Hot cell examination of the OMRE fuel element confirmed the satisfactory
+
+78
+00:07:44,350 --> 00:07:56,350
+performance of this element in the reactor. By January 1959, the OMRE had completed 23,000
+
+79
+00:07:56,350 --> 00:08:01,350
+megawatt hours of successful operation, and the reactivity of the fuel elements in the original
+
+80
+00:08:01,350 --> 00:08:08,350
+core had diminished. A second core loading was initiated to provide higher reactor operating
+
+81
+00:08:08,350 --> 00:08:13,350
+reactivity for continuation of OMRE test programs.
+
+82
+00:08:13,350 --> 00:08:21,350
+The reactor was shut down and removal of irradiated elements in the original core was started.
+
+83
+00:08:21,350 --> 00:08:26,350
+For this operation, all used fuel elements from the first core loading are transferred
+
+84
+00:08:26,350 --> 00:08:32,350
+in casks to a fuel element washing facility adjacent to the reactor.
+
+85
+00:08:32,350 --> 00:08:39,350
+The washing facility consists of two independent wash cells embedded into the ground.
+
+86
+00:08:39,350 --> 00:08:44,350
+Lead filled adapter rings center the fuel casks in a vertical position and allow the
+
+87
+00:08:44,350 --> 00:08:49,350
+safe insertion and removal of the elements from the wash cells.
+
+88
+00:08:49,350 --> 00:08:55,350
+The washing cycle for each fuel element is a solvent wash, a detergent wash, and a water
+
+89
+00:08:55,350 --> 00:08:56,350
+rinse.
+
+90
+00:08:56,350 --> 00:09:04,350
+This washing cycle removes undrained organic material from the used fuel elements.
+
+91
+00:09:04,350 --> 00:09:09,350
+After the elements are washed, they are transported in casks to a water canal at the engineering
+
+92
+00:09:09,350 --> 00:09:13,350
+test reactor for storage.
+
+93
+00:09:13,350 --> 00:09:18,350
+When a cask is partially submerged to a safe shielding depth, the cask bottom closure plug
+
+94
+00:09:18,350 --> 00:09:24,350
+is opened and rotated.
+
+95
+00:09:24,350 --> 00:09:37,350
+The element is lowered by the tool assembly and nested in the canal.
+
+96
+00:09:37,350 --> 00:09:42,350
+The fuel cask is raised and given a water rinse before being returned to the OMRE for
+
+97
+00:09:42,350 --> 00:09:48,350
+continued fuel removal and washing operations.
+
+98
+00:09:48,350 --> 00:09:53,350
+After all used fuel elements are removed, the criticality control rod support structure
+
+99
+00:09:53,350 --> 00:09:57,350
+is placed over the core vessel and the control rods and other associated
+
+100
+00:09:57,350 --> 00:10:00,350
+components are checked for proper operation prior to proceeding with the
+
+101
+00:10:00,350 --> 00:10:11,350
+second core loading. In April 1959 new fuel elements of the same type used in
+
+102
+00:10:11,350 --> 00:10:19,350
+the initial loading were inserted into the core. Nuclear control is furnished by
+
+103
+00:10:19,350 --> 00:10:27,350
+modified reactor control rod system and neutron counters. The temperature of the
+
+104
+00:10:27,350 --> 00:10:31,350
+organic moderator coolant is maintained at 250 degrees Fahrenheit during the
+
+105
+00:10:31,350 --> 00:10:39,350
+core assembly. Nine fuel elements are inserted into the core for the first
+
+106
+00:10:39,350 --> 00:10:48,350
+fuel addition. Fuel elements are carried into the reactor housing one at a time.
+
+107
+00:10:48,350 --> 00:10:52,350
+The core position of each element is decided in advance.
+
+108
+00:10:55,350 --> 00:10:59,350
+No more fuel than one half the difference between the estimated critical mass
+
+109
+00:10:59,350 --> 00:11:04,350
+and the fuel already in the core is inserted during any fuel addition.
+
+110
+00:11:07,350 --> 00:11:10,350
+The second fuel addition consists of six elements.
+
+111
+00:11:13,350 --> 00:11:17,350
+The third fuel addition is comprised of three elements.
+
+112
+00:11:17,350 --> 00:11:24,350
+Each remaining fuel addition consists of one element.
+
+113
+00:11:25,350 --> 00:11:28,350
+Subcritical multiplication counts are obtained after each individual fuel
+
+114
+00:11:28,350 --> 00:11:33,350
+addition.
+
+115
+00:11:33,350 --> 00:11:41,350
+As in the initial core loading, critical conditions are achieved with the insertion of the twentieth element.
+
+116
+00:11:41,350 --> 00:11:45,350
+Additional elements are inserted for the loading of excess reactivity
+
+117
+00:11:45,350 --> 00:11:52,350
+to about eight percent Delta K over K.
+
+118
+00:11:52,350 --> 00:11:57,350
+To furnish data for the continuing research and development of the organic reactor concept,
+
+119
+00:11:57,350 --> 00:12:02,350
+thermocoupled fuel elements are installed in the OMRE.
+
+120
+00:12:02,350 --> 00:12:06,350
+Six of these elements are located in one quadrant of the core.
+
+121
+00:12:06,350 --> 00:12:09,350
+Assuming the core flux to be symmetrical,
+
+122
+00:12:09,350 --> 00:12:14,350
+the temperature profile of the core can thus be inferred.
+
+123
+00:12:14,350 --> 00:12:21,350
+Another advantage of locating the thermocoupled elements in proximity is the clearance of thermocoupled conduits from a large area of the core.
+
+124
+00:12:22,350 --> 00:12:27,350
+This arrangement lessens the possibility of conduits interfering with the handling of OMR test elements.
+
+125
+00:12:29,350 --> 00:12:36,350
+Three test elements of the type to be used in organic cooled reactor power plants are installed in the OMRE.
+
+126
+00:12:38,350 --> 00:12:43,350
+They are instrumented to measure temperatures and coolant flows during reactor operation.
+
+127
+00:12:44,350 --> 00:12:51,350
+and will provide results on the performance of fuel elements being considered for full-scale OMR power plants.
+
+128
+00:12:54,350 --> 00:13:00,350
+After completion of control rod calibrations, low power operating tests are performed
+
+129
+00:13:00,350 --> 00:13:03,350
+and the reactor is brought to power in June 1959
+
+130
+00:13:03,350 --> 00:13:07,350
+with an inlet coolant temperature of 600 degrees Fahrenheit,
+
+131
+00:13:08,350 --> 00:13:12,350
+a maximum fuel plate surface temperature of 800 degrees Fahrenheit,
+
+132
+00:13:12,350 --> 00:13:15,350
+at a nominal power level of 11 megawatts.
+
+133
+00:13:16,350 --> 00:13:21,350
+This proven and reliable organic moderated reactor experiment
+
+134
+00:13:21,350 --> 00:13:24,350
+is the basis for a continuing extensive effort
+
+135
+00:13:24,350 --> 00:13:29,350
+to develop the organic reactor concept for small and large power plants,
+
+136
+00:13:30,350 --> 00:13:33,350
+nuclear-powered ships, and processed heat plants.

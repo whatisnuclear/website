@@ -1,0 +1,991 @@
+1
+00:00:15,100 --> 00:00:22,760
+One of the critical issues of the present nuclear programs in the United States
+
+2
+00:00:22,860 --> 00:00:27,859
+is the long-term disposal of nuclear waste from commercial reactors.
+
+3
+00:00:27,959 --> 00:00:44,560
+To solve this problem, the U.S. Department of Energy is presently undertaking a number of programs throughout the country to address the possibility of geologic storage in various formations.
+
+4
+00:00:45,639 --> 00:00:56,739
+The United States Department of Energy is examining the feasibility of different sites for repositories in various rock formations such as granite, shale, and basalt.
+
+5
+00:00:58,920 --> 00:01:01,939
+Salt is one of the rock types being considered.
+
+6
+00:01:02,039 --> 00:01:05,359
+Bedded and domed salt deposits are found throughout the US,
+
+7
+00:01:05,459 --> 00:01:08,980
+especially in the Northeast and Gulf Coast states.
+
+8
+00:01:09,080 --> 00:01:14,420
+The Office of Nuclear Waste Isolation of Battelle Memorial Institute is managing these studies.
+
+9
+00:01:15,839 --> 00:01:19,260
+Research in granite, volcanic tufts, and shale
+
+10
+00:01:19,360 --> 00:01:25,239
+is being performed by the Department of Energy and Sandia Laboratories at the Nevada nuclear test site
+
+11
+00:01:25,339 --> 00:01:27,640
+where these rock types occur.
+
+12
+00:01:27,740 --> 00:01:32,260
+These rocks are also found in other parts of the United States.
+
+13
+00:01:32,360 --> 00:01:37,859
+The basalt effort is concentrated on the Columbia Plateau of southeastern Washington with emphasis
+
+14
+00:01:37,959 --> 00:01:43,219
+on the Pasco Basin where the Hanford site of the U.S. Department of Energy is located.
+
+15
+00:01:43,319 --> 00:01:47,519
+These studies are being conducted by Rockwell Hanford Operations.
+
+16
+00:01:47,619 --> 00:01:52,879
+A great deal is known about the Columbia Plateau basalts because state and federal agencies
+
+17
+00:01:52,979 --> 00:01:56,700
+and academic institutions have studied the basalts in detail.
+
+18
+00:01:56,800 --> 00:02:06,359
+Drilling and mapping efforts have taken place related to irrigation projects, hydroelectric dams, nuclear reactors, and nuclear reprocessing plants at the Hanford site.
+
+19
+00:02:07,179 --> 00:02:17,039
+Present basalt studies involved a large scientific staff here at Rockwell Hanford, as well as numerous other contractors throughout the United States.
+
+20
+00:02:17,139 --> 00:02:42,319
+As part of these studies, we are attempting to look at the geologic characteristics of this most important rock that we call basalt, the fracture patterns, various properties of this rock, the hydrologic properties of the terrain in which this rock exists, the waste-basalt interactions, the interactions between this rock and the waste in place.
+
+21
+00:02:42,419 --> 00:02:49,819
+in it, the engineering properties including the strength of this material, and eventually
+
+22
+00:02:49,919 --> 00:02:56,599
+demonstrating whether or not it is feasible to site a repository in this type of formation.
+
+23
+00:02:56,699 --> 00:03:01,400
+Geologic studies in the area require the availability of rock samples.
+
+24
+00:03:01,500 --> 00:03:05,719
+Thousands of feet of basalt core have been obtained through drilling activity.
+
+25
+00:03:05,819 --> 00:03:09,919
+These cores are then studied by scientists to determine the basic rock properties of
+
+26
+00:03:10,019 --> 00:03:11,479
+the basalt.
+
+27
+00:03:11,580 --> 00:03:17,020
+than 70,000 feet of vertical bore holes have been drilled within the Pasco Basin as part
+
+28
+00:03:17,120 --> 00:03:22,680
+of the basalt studies. Cores and samples from these holes are stored in a warehouse within
+
+29
+00:03:22,780 --> 00:03:27,620
+the Hanford site where the samples are preserved so they can be used for studies under strict
+
+30
+00:03:27,720 --> 00:03:34,040
+quality assurance guidelines. Geologic studies have required many field activities in addition
+
+31
+00:03:34,140 --> 00:03:40,820
+to drilling. Mapping of observable features, outcrops, water gaps, and roadcuts have been
+
+32
+00:03:40,919 --> 00:03:45,139
+conducted throughout the plateau. These studies supplement previous efforts by
+
+33
+00:03:45,239 --> 00:03:49,039
+many geologists who have conducted studies of the basalt as part of other
+
+34
+00:03:49,139 --> 00:03:54,680
+projects. Dr. Sue Price is studying the structure and characteristics of the
+
+35
+00:03:54,780 --> 00:03:59,840
+basalts. Dr. Price and her colleagues spent months mapping many features and
+
+36
+00:03:59,940 --> 00:04:04,280
+charting the stratigraphy of the area. The stratigraphy of the area is simply
+
+37
+00:04:04,380 --> 00:04:08,180
+the compilation and analysis of all the layers that make up the subsurface
+
+38
+00:04:08,280 --> 00:04:14,280
+geology. The basalts underlying the plateau include numerous individual flows ranging in thickness
+
+39
+00:04:14,380 --> 00:04:23,180
+from a few feet to several hundred feet. The latter are best for repository siting. The high cliff
+
+40
+00:04:23,280 --> 00:04:29,540
+behind me is comprised of several thick basalt layers called flows. Stratigraphic studies have
+
+41
+00:04:29,640 --> 00:04:35,579
+been conducted to determine properties which may be used to distinguish one flow from another. Using
+
+42
+00:04:35,679 --> 00:04:41,079
+stratigraphic techniques, geologists are not only able to identify certain flows exposed to the
+
+43
+00:04:41,179 --> 00:04:47,479
+surface, but to identify these same flows were penetrated adept by drill holes. The development
+
+44
+00:04:47,579 --> 00:04:53,539
+of stratigraphic techniques has enabled geologists to select thick and widespread flows such as the
+
+45
+00:04:53,639 --> 00:04:58,919
+umptanum, which may be suitable locations for a deep basalt cavern within the Pasco Basin.
+
+46
+00:04:59,020 --> 00:05:06,060
+Dr. Aaron Waters, a noted authority in basalt geology, is a member of a peer review group
+
+47
+00:05:06,160 --> 00:05:09,540
+overseeing the basalt geologic studies.
+
+48
+00:05:09,640 --> 00:05:15,160
+At Sentinel Gap, northeast of the Hanford site, he describes a typical basalt flow.
+
+49
+00:05:15,260 --> 00:05:22,639
+These big columns are made as the lava cools.
+
+50
+00:05:22,739 --> 00:05:29,899
+Here it is cooling from the base and rather slowly, and so the columns are large.
+
+51
+00:05:29,999 --> 00:05:36,879
+The entablature above with the finer joints has cooled from the top, where heat is carried
+
+52
+00:05:36,979 --> 00:05:43,199
+off more rapidly by convection into the air."
+
+53
+00:05:43,299 --> 00:05:48,300
+Infrared imagery and other specialized technologies are being used to complement and speed up
+
+54
+00:05:48,400 --> 00:05:54,660
+our geologic mapping of the 200,000 cubic kilometers covered by the Columbia Plateau.
+
+55
+00:05:54,760 --> 00:05:59,740
+This work is being done to develop sufficient information to identify target horizons for
+
+56
+00:05:59,840 --> 00:06:04,480
+potential repository sighting.
+
+57
+00:06:04,580 --> 00:06:10,160
+To characterize the Hanford site, subsurface definition and analysis of geologic structures
+
+58
+00:06:10,260 --> 00:06:15,060
+have been accomplished by three different geophysical seismic systems.
+
+59
+00:06:15,160 --> 00:06:21,100
+These seismic reflection surveys were conducted using Vibrasize, Primacord, and standard dynamite
+
+60
+00:06:21,200 --> 00:06:23,240
+shot holes.
+
+61
+00:06:23,340 --> 00:06:29,079
+The Vibrasize technique uses a short series of individual truck-mounted vibrators generating
+
+62
+00:06:29,179 --> 00:06:32,180
+a controllable acoustic signal.
+
+63
+00:06:32,280 --> 00:06:37,840
+Primacord and dynamite shot hole techniques generate a broadband acoustic signal.
+
+64
+00:06:37,940 --> 00:06:42,759
+The Primacord source was implanted with a Ditch Witch Vibratory Plow.
+
+65
+00:06:42,859 --> 00:06:47,159
+More than 100 miles of seismic reflection data have been gathered to date with more
+
+66
+00:06:47,259 --> 00:06:51,199
+extensive surface coverage scheduled for future years.
+
+67
+00:06:51,299 --> 00:06:55,719
+The dynamite sources were implanted in holes drilled with rotary drills.
+
+68
+00:06:55,819 --> 00:07:00,459
+The data from all three types of surveys allows us to look at subsurface geologic features
+
+69
+00:07:00,559 --> 00:07:04,079
+without penetrating any of the underlying horizons.
+
+70
+00:07:04,179 --> 00:07:08,779
+Each of these geologic factors being studied contributes to the evaluation of potential
+
+71
+00:07:08,879 --> 00:07:10,879
+repository sites.
+
+72
+00:07:10,979 --> 00:07:14,980
+these data we will establish whether or not a repository can be constructed
+
+73
+00:07:15,080 --> 00:07:19,500
+within these basalt layers that will isolate radioactive waste from mankind
+
+74
+00:07:19,600 --> 00:07:24,920
+for as long as the waste is toxic. Hydrologic studies are examining the
+
+75
+00:07:25,020 --> 00:07:29,300
+amount of water flow below the surface, the direction of the flow, the rate of
+
+76
+00:07:29,400 --> 00:07:34,399
+the flow, and the isolation of one unit from another. By evaluating the data from
+
+77
+00:07:34,499 --> 00:07:38,120
+these studies we can determine what areas have hydrologic properties
+
+78
+00:07:38,220 --> 00:07:43,939
+favorable to the siting of a repository. The presence of groundwater near the rock
+
+79
+00:07:44,039 --> 00:07:49,160
+mass comprising a repository is an important factor requiring study. Many
+
+80
+00:07:49,260 --> 00:07:52,879
+basalt layers beneath the Columbia Plateau are extremely tight and should
+
+81
+00:07:52,979 --> 00:07:58,319
+be reasonably devoid of groundwater. The basalts are composed of individual rock
+
+82
+00:07:58,419 --> 00:08:05,600
+units layered one on top of another. Shrinkage and cooling of the original
+
+83
+00:08:05,700 --> 00:08:14,080
+molten rock mass cause small fractures to form in the basalts. These fractures are easily seen
+
+84
+00:08:14,180 --> 00:08:17,600
+in basalt outcrops where they have been exposed to weathering for many years.
+
+85
+00:08:18,580 --> 00:08:23,200
+However, when these same fractures are buried deep beneath the land surface,
+
+86
+00:08:23,300 --> 00:08:28,080
+they become very tight because of the weight of the overlying rocks,
+
+87
+00:08:28,900 --> 00:08:33,920
+and also because minerals have formed in the fractures, effectively sealing them.
+
+88
+00:08:34,019 --> 00:08:39,219
+extensive field studies using drill holes available throughout the Columbia Plateau
+
+89
+00:08:39,319 --> 00:08:44,699
+are being used to determine a variety of hydrologic properties of individual basalt flows in the
+
+90
+00:08:44,799 --> 00:08:50,639
+subsurface for example if different horizons have different water temperatures and the waters
+
+91
+00:08:50,739 --> 00:08:55,399
+indicate that their age is different one can conclude that they have been isolated from one
+
+92
+00:08:55,499 --> 00:09:01,439
+another many samples obtained from water bearing strata beneath the Hanford site indicate that the
+
+93
+00:09:01,540 --> 00:09:05,380
+waters have been isolated from mankind for more than 20,000 years.
+
+94
+00:09:06,200 --> 00:09:11,200
+This would put their initial emplacement in the subsurface at prior to or during the glacial periods.
+
+95
+00:09:12,360 --> 00:09:16,120
+We have also measured the subsurface water levels at different horizons
+
+96
+00:09:16,220 --> 00:09:19,920
+and determined how fast the horizons can take or yield water.
+
+97
+00:09:20,920 --> 00:09:26,000
+All this gives us information on the direction and the rate of flow, as well as the extent of the flow.
+
+98
+00:09:26,880 --> 00:09:30,020
+An important parameter that is being measured by these field tests
+
+99
+00:09:30,119 --> 00:09:33,399
+is the hydraulic conductivity of the underlying strata.
+
+100
+00:09:34,179 --> 00:09:38,460
+The hydraulic conductivity of the central portion of many deep basalt flows
+
+101
+00:09:38,560 --> 00:09:43,659
+show values which are so small they are near the limit of present detection instrumentation.
+
+102
+00:09:45,279 --> 00:09:48,840
+Results of our hydrologic investigations are fed to computer models
+
+103
+00:09:48,940 --> 00:09:52,039
+of the groundwater flow regime of the areas being studied
+
+104
+00:09:52,139 --> 00:09:56,419
+and the results used to produce a wide range of hydrologic calculations.
+
+105
+00:09:56,519 --> 00:10:02,419
+This will ultimately allow us to determine sighting areas with suitable groundwater pathways.
+
+106
+00:10:02,519 --> 00:10:06,419
+Studies of the interaction between nuclear waste and basalt
+
+107
+00:10:06,519 --> 00:10:10,419
+are being conducted under simulated conditions in various laboratories.
+
+108
+00:10:10,519 --> 00:10:15,419
+Of special importance is work at the Materials Research Center at Pennsylvania State University
+
+109
+00:10:15,519 --> 00:10:17,419
+under Dr. Greg McCarthy.
+
+110
+00:10:17,519 --> 00:10:24,419
+If we place our spent fuel from nuclear power generation in a basalt repository,
+
+111
+00:10:24,519 --> 00:10:31,419
+there will be three barriers to the environment, three barriers protecting our nuclear wastes
+
+112
+00:10:31,519 --> 00:10:34,419
+from ever getting out into the biosphere.
+
+113
+00:10:34,519 --> 00:10:37,419
+The first barrier is the waste itself.
+
+114
+00:10:37,519 --> 00:10:45,419
+The waste is actually little pellets of uranium dioxide with small amounts of other radioactive elements in it.
+
+115
+00:10:45,519 --> 00:10:50,419
+It is encased in long, thin tubes called cladding,
+
+116
+00:10:50,519 --> 00:10:55,019
+and the cladding, spent fuel, is encased in a container.
+
+117
+00:10:56,220 --> 00:11:00,360
+So radionuclides, in order to get out and get to the environment,
+
+118
+00:11:00,600 --> 00:11:02,979
+would first have to bridge these three barriers.
+
+119
+00:11:03,799 --> 00:11:08,219
+The second barrier of protection from our radionuclides, from spent fuel,
+
+120
+00:11:08,859 --> 00:11:13,899
+is an engineered structure down deep in the basalt repository
+
+121
+00:11:13,999 --> 00:11:19,939
+which may consist of concrete shells or steel shells and so forth
+
+122
+00:11:20,040 --> 00:11:25,260
+It may consist of special absorptive material that we purposely place in the ground.
+
+123
+00:11:26,000 --> 00:11:28,100
+And the third barrier is the basalt itself.
+
+124
+00:11:29,140 --> 00:11:38,720
+In some cases, 10 or 20 miles of solid basalt in some directions, or at least 3,000 feet of basalt to the surface.
+
+125
+00:11:39,300 --> 00:11:45,860
+There are two reasons why basalts appear to be very favorable rocks from a geochemical standpoint.
+
+126
+00:11:45,960 --> 00:11:59,860
+The first reason is that basalts are reducing. This means that the major elements that are of concern in the spent fuel could be kept in their lower valence states.
+
+127
+00:11:59,960 --> 00:12:10,860
+The second reason is that the other elements that are in spent fuel, if they should be mobilized by the water,
+
+128
+00:12:10,960 --> 00:12:17,139
+Interactions between these leached radionuclides and the basalts can produce stable minerals.
+
+129
+00:12:18,100 --> 00:12:27,580
+Now, in this short time, we have not discussed and we have not examined all interactions between all of the many radionuclides,
+
+130
+00:12:27,680 --> 00:12:31,659
+but we have examined several, and the results look rather favorable.
+
+131
+00:12:32,239 --> 00:12:33,759
+Stable minerals have been formed.
+
+132
+00:12:33,859 --> 00:12:41,439
+For example, cesium-137, this is one of the radionuclides of concern in spent fuel.
+
+133
+00:12:42,139 --> 00:12:46,559
+If it were to be mobilized by groundwater solutions during the thermal period
+
+134
+00:12:46,659 --> 00:12:51,480
+in the presence of the basalt, what would happen if these groundwaters
+
+135
+00:12:51,580 --> 00:12:55,120
+with traces of cesium-137 hit basalt?
+
+136
+00:12:55,720 --> 00:13:00,019
+Well, one interaction we can confirm today from our experiments is
+
+137
+00:13:00,119 --> 00:13:08,360
+If the temperature is 200 degrees or so, which is not unlikely in the immediate vicinity of the spent fuel,
+
+138
+00:13:08,899 --> 00:13:13,199
+the mineral polyosite having this formula, cesium-aluminum-silicate, would form.
+
+139
+00:13:14,039 --> 00:13:18,079
+The cesium comes from the mobilized radionuclide.
+
+140
+00:13:18,739 --> 00:13:21,019
+The aluminum and silicon come from the basalt.
+
+141
+00:13:21,679 --> 00:13:23,319
+They form polyosite.
+
+142
+00:13:24,019 --> 00:13:27,399
+Polyosite is the mineral in which cesium occurs in nature.
+
+143
+00:13:28,440 --> 00:13:31,819
+We know from some tests that it appears to be a very stable marrow
+
+144
+00:13:31,919 --> 00:13:37,980
+and would provide excellent protection for the 3 to 600 years
+
+145
+00:13:38,080 --> 00:13:42,740
+that it takes for cesium-137 to decay to other stable isotopes,
+
+146
+00:13:42,899 --> 00:13:44,659
+in other words, to lose its radioactivity.
+
+147
+00:13:45,440 --> 00:13:48,980
+This photograph down here shows crystals of polyosite.
+
+148
+00:13:49,080 --> 00:13:52,399
+These were actually grown through a waste rock interaction
+
+149
+00:13:52,499 --> 00:13:56,899
+between cesium and basalt in our laboratory.
+
+150
+00:13:57,499 --> 00:14:04,279
+using equipment which allows us to simulate conditions deep within the Earth in a basalt repository.
+
+151
+00:14:05,100 --> 00:14:09,620
+The waste-basalt interaction experiments are being conducted using a gold foil bag
+
+152
+00:14:09,720 --> 00:14:14,399
+containing simulated spent fuel, zircaloy to represent the container of the nuclear waste,
+
+153
+00:14:15,080 --> 00:14:16,439
+basalt, and groundwater.
+
+154
+00:14:17,460 --> 00:14:21,799
+These gold foil bags are then emplaced in a high-temperature, high-pressure chamber
+
+155
+00:14:21,899 --> 00:14:25,759
+where the experiments are conducted under simulated repository conditions.
+
+156
+00:14:26,700 --> 00:14:30,639
+Rock mechanics is a study of the behavior of rock under various conditions.
+
+157
+00:14:31,580 --> 00:14:35,819
+In the waste isolation project, the rock mechanics effort has several objectives.
+
+158
+00:14:36,759 --> 00:14:43,939
+The first is to determine the thermal and mechanical properties pertinent to the design and construction of the repository in basalt.
+
+159
+00:14:44,999 --> 00:14:53,980
+Next, we modify and or develop computer programs needed during repository design to simulate the thermal and mechanical behavior of the rock mass.
+
+160
+00:14:54,080 --> 00:15:01,879
+We must formulate a structural design of the repository and provide needed input for the design and construction phases.
+
+161
+00:15:03,180 --> 00:15:10,500
+Engineering data is being obtained through laboratory studies of the thermal and mechanical properties of the rock core at the Colorado School of Mines.
+
+162
+00:15:11,359 --> 00:15:19,680
+In mechanical properties, we're testing the strength of the rock and the deformation property of the rock,
+
+163
+00:15:19,780 --> 00:15:37,160
+the sonic velocity, density, porosity, and in the thermal properties, we're testing the thermal expansion, conductivity, and also the specific heat.
+
+164
+00:15:38,700 --> 00:15:43,580
+The thermal property is used to determine the thermal effect of spent fuel on basalt.
+
+165
+00:15:44,500 --> 00:15:50,360
+As to date, the Colorado School of Mines findings indicate that basalt is a very strong rock
+
+166
+00:15:50,460 --> 00:15:57,060
+with a compressive strength of 30,000 to 40,000 psi and deforms very little under high load.
+
+167
+00:15:57,940 --> 00:16:00,580
+These are favorable properties for nuclear waste storage.
+
+168
+00:16:01,859 --> 00:16:09,300
+Data from these rock property studies will be used in models to analyze rock behavior under natural and induced stresses.
+
+169
+00:16:09,400 --> 00:16:16,760
+such modeling studies will permit an analysis and are necessary to develop alternative designs for a repository.
+
+170
+00:16:18,540 --> 00:16:23,720
+A computer model basically combines the rock properties, the site conditions,
+
+171
+00:16:24,340 --> 00:16:28,280
+the underground excavation design, and the heat properties of the nuclear fuel
+
+172
+00:16:28,380 --> 00:16:33,720
+and determines the distributions of temperatures and stress in the rock mass surrounding the repository.
+
+173
+00:16:33,820 --> 00:16:39,680
+To examine how the basalt reacts to heat stresses from the emplacement of nuclear waste,
+
+174
+00:16:40,280 --> 00:16:44,920
+a near-surface test facility has been developed as a full-scale laboratory demonstration.
+
+175
+00:16:45,879 --> 00:16:49,500
+This facility is located on the Hanford site near Richland, Washington.
+
+176
+00:16:50,460 --> 00:16:54,920
+This artist sketch illustrates the layout of the near-surface test facility.
+
+177
+00:16:55,619 --> 00:16:57,940
+This facility is being developed in two phases.
+
+178
+00:16:58,739 --> 00:17:02,600
+Phase one houses a series of electric heater tests.
+
+179
+00:17:02,700 --> 00:17:10,599
+These tests will simulate the thermal effects of radioactive material in an underground basalt environment.
+
+180
+00:17:10,699 --> 00:17:16,599
+Phase II will house a series of tests with actual radioactive material.
+
+181
+00:17:16,699 --> 00:17:21,599
+The near-surface test facility is located on the north side of Gable Mountain.
+
+182
+00:17:21,699 --> 00:17:29,599
+This excavation is for the east portal, providing access to the extensometer room and the phase I test room.
+
+183
+00:17:29,699 --> 00:17:35,139
+The center excavation, called the west portal, provides the main access to the electric heater
+
+184
+00:17:35,239 --> 00:17:37,159
+area.
+
+185
+00:17:37,259 --> 00:17:42,219
+The excavation on the right is the main access to the phase two testing.
+
+186
+00:17:42,319 --> 00:17:48,159
+The phase one electric heater test program began in July of 1980 with the phase two radioactive
+
+187
+00:17:48,259 --> 00:17:52,779
+material program scheduled to begin in 1982.
+
+188
+00:17:52,879 --> 00:17:57,679
+The testing takes place in a basalt layer called the Pomona flow.
+
+189
+00:17:57,780 --> 00:18:01,920
+about the Pomona flow was collected from outcrops and two geologic test holes
+
+190
+00:18:02,020 --> 00:18:07,460
+drilled on the north side of Gable Mountain. Laboratory tests indicate that
+
+191
+00:18:07,560 --> 00:18:11,360
+the Pomona flow is similar to the flows encountered at depths which are being
+
+192
+00:18:11,460 --> 00:18:16,560
+considered as potential sites for a repository. In addition to the near
+
+193
+00:18:16,660 --> 00:18:21,320
+surface test facility, much actual mining information was obtained from the Bacon
+
+194
+00:18:21,420 --> 00:18:26,779
+siphon and tunnel project number one, completed in 1948, and the Bacon siphon
+
+195
+00:18:26,879 --> 00:18:29,980
+in tunnel number two, recently completed near Coulee City,
+
+196
+00:18:30,080 --> 00:18:31,759
+Washington.
+
+197
+00:18:31,859 --> 00:18:37,899
+Project number two is of particular significance to us, not as an irrigation project, but rather as a major
+
+198
+00:18:37,999 --> 00:18:40,879
+underground excavation in basalt.
+
+199
+00:18:40,979 --> 00:18:49,220
+This tunnel has a finished inside diameter of 28 and 1 half feet, and is 9,950 feet long.
+
+200
+00:18:49,320 --> 00:18:52,819
+Much valuable information of a geologic and engineering nature
+
+201
+00:18:52,919 --> 00:18:56,180
+is available from projects such as this.
+
+202
+00:18:56,280 --> 00:19:03,740
+The cycle of operations, drilling, blasting, and mucking used so successfully at the Bacon Siphon and Tunnel Project No. 2
+
+203
+00:19:03,840 --> 00:19:10,360
+are similar to those which were used at the near-surface test facility and projected for the waste isolation repository.
+
+204
+00:19:11,240 --> 00:19:16,360
+Heater startup at the near-surface test facility began on schedule, July 1, 1980.
+
+205
+00:19:17,160 --> 00:19:24,820
+In one test, a single 5-kilowatt heater is used to measure the ability of the basalt to dissipate the heat from a single waste canister.
+
+206
+00:19:25,479 --> 00:19:32,980
+The second test uses a 5-kilowatt heater surrounded by a circular array of eight smaller 1-kilowatt
+
+207
+00:19:33,080 --> 00:19:37,819
+heaters to simulate the thermal effects of multiple canister disposal in basalt.
+
+208
+00:19:39,219 --> 00:19:46,939
+Here, in the extensometer room, which measures 21 feet high, 14 feet wide, and 164 feet long,
+
+209
+00:19:47,359 --> 00:19:52,439
+and runs parallel to the heater test room, workers install the extensometers and gauges
+
+210
+00:19:52,540 --> 00:19:58,059
+that will provide data on expansion, stress, and temperature changes within the basalt mass.
+
+211
+00:19:58,680 --> 00:20:03,559
+In addition to using extensometers, U.S. Bureau of Mines and IRAD gauges
+
+212
+00:20:03,659 --> 00:20:05,940
+are used in the measurement of stress and tension.
+
+213
+00:20:07,820 --> 00:20:13,180
+The data from the instrumentation surrounding the heaters is relayed to data loggers and recorders
+
+214
+00:20:13,280 --> 00:20:17,140
+in the instrument enclosure area adjacent to the heater test area.
+
+215
+00:20:18,000 --> 00:20:20,820
+The information is retained on magnetic tape cartridges.
+
+216
+00:20:20,919 --> 00:20:25,960
+in addition to being transferred to a central computer system located outside the west portal.
+
+217
+00:20:27,019 --> 00:20:31,899
+There, a team of computer specialists convert the data for use by the scientists and engineers
+
+218
+00:20:31,999 --> 00:20:35,319
+who are studying the thermal and mechanical properties of basalt.
+
+219
+00:20:36,999 --> 00:20:40,519
+Initial heater startup power was set at 250 watts,
+
+220
+00:20:41,060 --> 00:20:44,319
+culminating more than two and one half years of planning and construction.
+
+221
+00:20:45,340 --> 00:20:49,759
+The power levels will be increased by steps up to the maximum of one kilowatt
+
+222
+00:20:49,859 --> 00:20:52,960
+for both the main heaters and peripheral heaters.
+
+223
+00:20:53,320 --> 00:20:57,059
+A future series of tests commencing in early 1982
+
+224
+00:20:57,159 --> 00:21:00,259
+use two canisters of radioactive spent fuel
+
+225
+00:21:00,359 --> 00:21:03,660
+and one canister of vitrified commercial high-level waste.
+
+226
+00:21:04,679 --> 00:21:08,019
+These tests will be conducted to demonstrate and develop technology
+
+227
+00:21:08,119 --> 00:21:11,279
+as well as equipment for handling spent fuel in basalt.
+
+228
+00:21:12,659 --> 00:21:19,599
+It will also provide scientists and engineers the opportunity to demonstrate the placement, storage, and retrieval of spent fuel
+
+229
+00:21:19,700 --> 00:21:22,380
+while showing the effects of radiation on the basalt.
+
+230
+00:21:23,340 --> 00:21:31,060
+Results from the studies at the Near Surface Test Facility are of major importance in assessing the feasibility of siting a repository in basalt.
+
+231
+00:21:31,820 --> 00:21:34,960
+At the conclusion of NSTF testing in the mid-1980s,
+
+232
+00:21:35,060 --> 00:21:38,620
+the site will be decommissioned and returned to its natural state.
+
+233
+00:21:42,900 --> 00:21:48,340
+You have seen a glimpse of some of the work that is presently underway at Rockville Panther
+
+234
+00:21:48,439 --> 00:21:54,099
+and with some of our contractors to look at the feasibility of storing nuclear waste in Basalt.
+
+235
+00:21:54,919 --> 00:22:00,359
+The results of all these investigations are being reported to the scientific community and the public
+
+236
+00:22:00,459 --> 00:22:02,980
+and many results are already available.
+
+237
+00:22:04,179 --> 00:22:10,259
+During this year alone, over 100 reports have been issued to cover the results of all these investigations.
+
+238
+00:22:11,439 --> 00:22:17,159
+In addition, I'm standing here at the data library where all this information eventually comes together
+
+239
+00:22:17,260 --> 00:22:21,040
+and where the information is used by the scientists and engineers
+
+240
+00:22:21,140 --> 00:22:25,400
+that are going to be responsible for making that final decision.
+
+241
+00:22:26,300 --> 00:22:30,160
+Is it feasible to store nuclear waste in basalt or not?
+
+242
+00:22:30,700 --> 00:22:37,779
+At this point in time, we have moved very far toward the point where we can make that decision.
+
+243
+00:22:38,560 --> 00:22:44,380
+But there is still some technological achievements to be accomplished in the next few years.
+
+244
+00:22:44,480 --> 00:22:52,420
+Much data has been gathered. For example, as we showed you today, a large amount of
+
+245
+00:22:52,520 --> 00:22:58,940
+holes have been drilled at Hanford. And the data from these holes is recorded in logbooks
+
+246
+00:22:59,040 --> 00:23:05,600
+which we store here. Much data in the geologic investigations is already available. And much
+
+247
+00:23:05,700 --> 00:23:13,160
+more data will be available in the next few years. We expect that a decision on the feasibility
+
+248
+00:23:13,260 --> 00:23:18,120
+storing nuclear waste in basalt will be made in the forthcoming years.

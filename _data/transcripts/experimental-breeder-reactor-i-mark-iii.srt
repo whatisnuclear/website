@@ -1,0 +1,471 @@
+1
+00:00:30,000 --> 00:00:40,000
+Argonne National Laboratory's Idaho Division,
+
+2
+00:00:41,000 --> 00:00:44,000
+located at the National Reactor Testing Station,
+
+3
+00:00:44,000 --> 00:00:47,000
+operates the experimental breeder Reactor 1.
+
+4
+00:00:49,000 --> 00:00:54,000
+Experience gained since 1951 in the operation of this reactor
+
+5
+00:00:54,000 --> 00:00:57,000
+forms the foundation for fast power reactor development.
+
+6
+00:00:58,000 --> 00:01:02,000
+This is the first reactor to employ sodium-potassium alloy as a coolant
+
+7
+00:01:02,000 --> 00:01:05,000
+and to utilize the direct current electromagnetic pump.
+
+8
+00:01:06,000 --> 00:01:10,000
+During this time, the reactor performed satisfactorily as a steady power source,
+
+9
+00:01:11,000 --> 00:01:15,000
+demonstrated the breeding concept, generated the world's first electricity from nuclear power,
+
+10
+00:01:15,000 --> 00:01:19,000
+and served its primary function in providing fundamental fast reactor information.
+
+11
+00:01:21,000 --> 00:01:27,000
+When EBR-1 was operated at power-to-flow ratios one and one-half times,
+
+12
+00:01:27,000 --> 00:01:33,000
+the design ratio, some undesirable dynamic characteristics were observed. These were
+
+13
+00:01:33,000 --> 00:01:38,000
+a prompt positive temperature coefficient and a tendency toward spontaneous oscillation
+
+14
+00:01:38,000 --> 00:01:43,000
+of power. It was believed these characteristics were related and that the cause of the prompt
+
+15
+00:01:43,000 --> 00:01:48,000
+positive temperature coefficient was either the Doppler effect, which increases the effective
+
+16
+00:01:48,000 --> 00:01:53,000
+fissioning cross-section due to heating enriched uranium, or to mechanical motion of the fuel
+
+17
+00:01:53,000 --> 00:01:59,000
+elements. Enriched uranium in the form of the helix was prepared for measurement of the Doppler
+
+18
+00:01:59,000 --> 00:02:07,000
+effect in fast reactors. This experiment was performed in the laboratory's critical assembly
+
+19
+00:02:07,000 --> 00:02:15,000
+facility, ZPR-3. The helical form was adopted to minimize motion due to heating, which could
+
+20
+00:02:15,000 --> 00:02:22,000
+produce undesirable side reactivity effects. Positioned within an assembled EBR-1 core
+
+21
+00:02:22,000 --> 00:02:27,000
+mock-up the helix was periodically heated then cooled on a 20 second cycle time
+
+22
+00:02:30,000 --> 00:02:34,000
+careful measurement of the power oscillations resulting from the cycling
+
+23
+00:02:34,000 --> 00:02:37,000
+made it fairly certain the doppler effect was much too small
+
+24
+00:02:37,000 --> 00:02:41,000
+to have been the primary cause of the prompt temperature coefficient observed in the reactor
+
+25
+00:02:44,000 --> 00:02:49,000
+concluding that the primary problem was mechanical motion it was decided to investigate ebr1
+
+26
+00:02:49,000 --> 00:02:53,000
+performance as part of an overall program to study reactor dynamics.
+
+27
+00:02:56,000 --> 00:03:02,000
+A rigid core assembly to restrict mechanical motion was designed for EBR-1.
+
+28
+00:03:03,000 --> 00:03:09,000
+Designated Mark III, the core structure consisting of laminated steel disks was machined and
+
+29
+00:03:09,000 --> 00:03:11,000
+assembled by the laboratory's central shops.
+
+30
+00:03:14,000 --> 00:03:19,000
+The inside hexagonal surface fits the outer perimeter of the blanket sub-assemblies.
+
+31
+00:03:20,000 --> 00:03:23,000
+These discs are held and aligned with tie rods.
+
+32
+00:03:26,000 --> 00:03:32,000
+Paralleling the assembly of the core structure, fabrication of Mark III fuel was underway by the metallurgy division.
+
+33
+00:03:33,000 --> 00:03:38,000
+The fuel for the Mark III core is uranium enriched to 93%.
+
+34
+00:03:38,000 --> 00:03:40,000
+The blanket is normal uranium.
+
+35
+00:03:41,000 --> 00:03:46,000
+Both blanket and core uranium are alloyed with 2 weight percent zirconium.
+
+36
+00:03:46,000 --> 00:03:51,000
+Clad with zircaloy 2, they are co-extruded into the form of a rod.
+
+37
+00:03:52,000 --> 00:03:56,000
+The rough cores for the blanket extrusion billets are produced by casting in a multi-cavity
+
+38
+00:03:56,000 --> 00:03:57,000
+graphite mold.
+
+39
+00:04:00,000 --> 00:04:06,000
+The enriched uranium is melted in a 5-kilogram batch and cast in a single-cavity mold.
+
+40
+00:04:08,000 --> 00:04:13,000
+A graphite crucible, coated with ceramic wash, is charged with the uranium biscuit and zirconium
+
+41
+00:04:13,000 --> 00:04:15,000
+sponge for the blanket alloy.
+
+42
+00:04:16,000 --> 00:04:20,000
+Melting and alloying is done by induction heating in a vacuum of ten
+
+43
+00:04:20,000 --> 00:04:29,000
+microns or less. After alloying the metal is bottom poured into the mold by
+
+44
+00:04:29,000 --> 00:04:39,000
+lifting a stopper rod. These castings after machining are tested for
+
+45
+00:04:39,000 --> 00:04:44,000
+homogeneity by a non-destructive method. A sound transmission principle is
+
+46
+00:04:44,000 --> 00:04:49,000
+utilized. Five mega cycle ultrasonic waves are generated by means of a quartz
+
+47
+00:04:49,000 --> 00:04:55,000
+transducer and sent through the metal. The quality of the casting is
+
+48
+00:04:55,000 --> 00:05:04,000
+graphically recorded on a strip of electrosensitive paper. The casting, after
+
+49
+00:05:04,000 --> 00:05:09,000
+further machining, yields two extrusion billet cores. These cores, assembled with
+
+50
+00:05:09,000 --> 00:05:18,000
+copper nickel end plugs are encased in a sleeve of Zercaloy II. A copper jacket is added to
+
+51
+00:05:18,000 --> 00:05:23,000
+prevent contamination of the billet components during heating and to provide lubrication
+
+52
+00:05:23,000 --> 00:05:38,000
+during extrusion. Closed by Heliarc welding, the assembled billet is then evacuated, outgassed
+
+53
+00:05:38,000 --> 00:05:43,000
+and sealed.
+
+54
+00:05:43,000 --> 00:05:49,000
+The billets are co-extruded by nuclear metals incorporated to rods of one-half inch diameter.
+
+55
+00:05:49,000 --> 00:05:55,000
+Upon return, they are inspected, pickled to remove the copper, and swaged to a specified
+
+56
+00:05:55,000 --> 00:05:59,000
+diameter.
+
+57
+00:05:59,000 --> 00:06:04,000
+Heat treated for stabilization, the rods are cut to appropriate fuel and blanket lengths,
+
+58
+00:06:04,000 --> 00:06:07,000
+and the cladding thickness measured.
+
+59
+00:06:07,000 --> 00:06:12,000
+To join the sections of either type rod, a commercial glass lathe was specifically adapted
+
+60
+00:06:12,000 --> 00:06:16,000
+at Argonne for tungsten arc butt welding.
+
+61
+00:06:16,000 --> 00:06:20,000
+This welding operation is extremely precise because of the difficulty of fusing the high
+
+62
+00:06:20,000 --> 00:06:29,000
+melting zircaloy without excessive melting of the uranium.
+
+63
+00:06:29,000 --> 00:06:34,000
+A 10-mil zirconium spacer disc separates the enriched and blanket sections on each fuel rod.
+
+64
+00:06:43,000 --> 00:06:47,000
+Chill and gas retainers surround the electrode and weld area.
+
+65
+00:06:48,000 --> 00:06:54,000
+Welding is purposely limited to the 20-mil zircaloy cladding and is made in a double pass,
+
+66
+00:06:54,000 --> 00:06:57,000
+each pass requiring a different welding current.
+
+67
+00:06:59,000 --> 00:07:08,000
+A section bond is made at each weld by fusing the metal in a small zone to add mechanical
+
+68
+00:07:08,000 --> 00:07:18,000
+strength.
+
+69
+00:07:18,000 --> 00:07:22,000
+The cladding is protected against oxidation by passing a stream of helium through the
+
+70
+00:07:22,000 --> 00:07:29,000
+Vicor II.
+
+71
+00:07:29,000 --> 00:07:34,000
+After heat treatment, cladding thickness is measured by an eddy-current method.
+
+72
+00:07:34,000 --> 00:07:38,000
+Eddy currents are induced in the Zircaloy cladding by means of a point probe.
+
+73
+00:07:38,000 --> 00:07:46,000
+The apparent impedance of the probe is influenced by the cladding thickness.
+
+74
+00:07:46,000 --> 00:07:53,000
+The bond on the rods is then scanned by the ultrasonic transmission technique.
+
+75
+00:07:53,000 --> 00:07:57,000
+testing methods help to ensure the quality of the completed fuel and blanket rods.
+
+76
+00:08:03,000 --> 00:08:07,000
+Zirconium ribs are spot welded to rods ground to their finished diameter.
+
+77
+00:08:08,000 --> 00:08:12,000
+These will provide accurate spacing of the tightly clustered rods in their final geometry.
+
+78
+00:08:17,000 --> 00:08:20,000
+The welding operation is performed automatically on a specially designed
+
+79
+00:08:20,000 --> 00:08:26,000
+condenser discharge type spot welder. Welds are placed at one quarter inch intervals along each
+
+80
+00:08:26,000 --> 00:08:35,000
+of the three ribs, a total of 240 welds per rod. Machining operations complete the fuel and blanket
+
+81
+00:08:35,000 --> 00:08:45,000
+rod fabrication. The completed core structure ready for installation in the reactor tank
+
+82
+00:08:45,000 --> 00:08:47,000
+has a total height of nine feet and five inches.
+
+83
+00:08:50,000 --> 00:08:55,000
+The reduced diameter at the bottom will receive the core and inner blanket rods.
+
+84
+00:08:56,000 --> 00:09:01,000
+The structure rests on this shoulder with the inlet plenum chamber located just above the upper blanket.
+
+85
+00:09:02,000 --> 00:09:08,000
+This plenum chamber contains four two-way inlet valves for switching from series to parallel flow.
+
+86
+00:09:09,000 --> 00:09:13,000
+The up position of the valves permits series flow through the inner blanket and core,
+
+87
+00:09:14,000 --> 00:09:16,000
+while the down position allows parallel flow.
+
+88
+00:09:16,000 --> 00:09:25,000
+The plate above the inlet plenum chamber has seal rings to prevent bypass leakage between the inlet and outlet plenum chambers.
+
+89
+00:09:26,000 --> 00:09:34,000
+This seal plate also contains two flow control valves for throttling the exit flow from the inner blanket under parallel flow conditions.
+
+90
+00:09:35,000 --> 00:09:38,000
+Under series flow conditions, these valves are closed.
+
+91
+00:09:38,000 --> 00:09:48,000
+Additional rigidity is obtained by an arrangement of clamps around fuel and blanket sub-assemblies
+
+92
+00:09:48,000 --> 00:10:04,000
+at the core center line and at the seal plate.
+
+93
+00:10:04,000 --> 00:10:07,000
+The upper part of the structure is primarily shielding with an overflow plenum chamber
+
+94
+00:10:07,000 --> 00:10:10,000
+near the top.
+
+95
+00:10:10,000 --> 00:10:15,000
+The top plate holds the actuators and position indicators for the various valves and clamps
+
+96
+00:10:15,000 --> 00:10:23,000
+in the structure.
+
+97
+00:10:23,000 --> 00:10:28,000
+The core structure is installed in the same reactor tank that housed the EBR-1, Mark I
+
+98
+00:10:28,000 --> 00:10:41,000
+Mk. II cores. Fuel and blanket rods, with their attached extensions for handling, are
+
+99
+00:10:41,000 --> 00:10:55,000
+positioned within a hexagonal can. Complete sub-assemblies within the hex can contain
+
+100
+00:10:55,000 --> 00:10:59,000
+36 rods, and depending upon location within the structure,
+
+101
+00:10:59,000 --> 00:11:02,000
+will consist of fuel and or blanket material.
+
+102
+00:11:05,000 --> 00:11:09,000
+A tightening rod is located at the center of each sub-assembly
+
+103
+00:11:09,000 --> 00:11:12,000
+and, when expanded, provides additional rigidity.
+
+104
+00:11:16,000 --> 00:11:19,000
+The thorough temperature instrumentation of Mark III
+
+105
+00:11:19,000 --> 00:11:22,000
+includes thermocouples in the plenum chamber structure,
+
+106
+00:11:23,000 --> 00:11:27,000
+fuel rods, blanket rods, and coolant passages.
+
+107
+00:11:29,000 --> 00:11:32,000
+The complete Mark III loading contains 19 sub-assemblies.
+
+108
+00:11:33,000 --> 00:11:36,000
+Seven enriched sub-assemblies comprise the core.
+
+109
+00:11:37,000 --> 00:11:40,000
+These are surrounded by a ring of 12 inner blanket sub-assemblies.
+
+110
+00:11:45,000 --> 00:11:49,000
+Criticality was achieved on November 11, 1957.
+
+111
+00:11:49,000 --> 00:11:55,000
+It was determined to be 47 and 4 tenths kilograms of uranium-235,
+
+112
+00:11:56,000 --> 00:12:00,000
+within 2% of the critical mass determined from the mock-up of the core
+
+113
+00:12:00,000 --> 00:12:02,000
+on the zero-power reactor 3.
+
+114
+00:12:05,000 --> 00:12:08,000
+Operating test data indicates that Mark 3 would be stable
+
+115
+00:12:08,000 --> 00:12:15,000
+at several times design power, and the instability apparent in Mark 2 was due to mechanical design
+
+116
+00:12:15,000 --> 00:12:17,000
+and is not inherent in fast reactors.
+
+117
+00:12:20,000 --> 00:12:23,000
+This investigation of reactor dynamics is continuing
+
+118
+00:12:23,000 --> 00:12:28,000
+and will establish parameters affecting the stability of fast reactors.

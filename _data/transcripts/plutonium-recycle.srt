@@ -1,0 +1,515 @@
+1
+00:00:00,000 --> 00:00:29,000
+Plutonium-239.
+
+2
+00:00:29,000 --> 00:00:34,000
+the fissionable isotope produced by neutron absorption in fertile uranium-238.
+
+3
+00:00:34,000 --> 00:00:44,000
+The process builds inventories of plutonium in the thermal converter reactors of a growing nuclear power industry.
+
+4
+00:00:44,000 --> 00:00:54,000
+In fast reactor operation, more can be formed than fissionable isotopes consumed.
+
+5
+00:00:54,000 --> 00:01:03,000
+Its nuclear characteristics make it valuable to thermal reactors and a superior fuel for
+
+6
+00:01:03,000 --> 00:01:08,000
+fast reactors.
+
+7
+00:01:08,000 --> 00:01:14,000
+Advantages to be gained by recovery, refabrication, and the use of plutonium in reactor systems
+
+8
+00:01:14,000 --> 00:01:22,000
+include lower costs and a more efficient use of energy resources.
+
+9
+00:01:22,000 --> 00:01:28,000
+To realize these advantages is a diversified and complex task.
+
+10
+00:01:28,000 --> 00:01:33,000
+Due to high toxicity, fire, and criticality hazards, various regulations and methods for
+
+11
+00:01:33,000 --> 00:01:43,000
+remote handling in alpha-sealed facilities have always been employed.
+
+12
+00:01:43,000 --> 00:01:50,000
+In this facility, a variety of experimental plutonium fuels have been produced.
+
+13
+00:01:50,000 --> 00:01:56,000
+For the experimental breeder reactor one, a core loading of plutonium alloyed with one
+
+14
+00:01:56,000 --> 00:02:05,000
+and a quarter weight percent aluminum was injection cast.
+
+15
+00:02:05,000 --> 00:02:14,000
+Rough cut slugs were coined and densified, then assembled in zirconium tubes with uranium
+
+16
+00:02:14,000 --> 00:02:18,000
+blanket pieces.
+
+17
+00:02:18,000 --> 00:02:24,000
+potassium alloy served as the thermal bond between the fuel and the cladding.
+
+18
+00:02:24,000 --> 00:02:29,000
+Due to the small delayed neutron fraction for plutonium, the core's
+
+19
+00:02:29,000 --> 00:02:36,000
+kinetic behavior was particularly sensitive to mechanical movement. The
+
+20
+00:02:36,000 --> 00:02:43,000
+breeding gain was measured and for every 100 fissionable atoms destroyed, 127 were
+
+21
+00:02:43,000 --> 00:02:53,000
+formed. The close-coupled fuel facility for the experimental breeder reactor 2
+
+22
+00:02:53,000 --> 00:03:02,000
+is geared to handle highly radioactive recycled plutonium alloys. All facets of
+
+23
+00:03:02,000 --> 00:03:08,000
+the system demanded extensive attention to design detail for remote operation,
+
+24
+00:03:08,000 --> 00:03:12,000
+repair, and modification of equipment.
+
+25
+00:03:15,000 --> 00:03:23,000
+The cycle involves disassembly, reprocessing, fabrication, and reassembly.
+
+26
+00:03:27,000 --> 00:03:34,000
+Irradiated fuel is purified by melt refining. Volatile fission products
+
+27
+00:03:34,000 --> 00:03:40,000
+Extracts distilled from the melt are condensed in the fume trap.
+
+28
+00:03:40,000 --> 00:03:43,000
+Noble gases are vented.
+
+29
+00:03:43,000 --> 00:03:52,000
+The purified melt removed is an alloy of uranium, plutonium and controlled metal fission products.
+
+30
+00:03:52,000 --> 00:04:03,000
+Elements separated through selective oxidation remain in the crucible.
+
+31
+00:04:03,000 --> 00:04:10,000
+Work on advanced molten plutonium fuel concepts for fast reactors continues.
+
+32
+00:04:10,000 --> 00:04:15,000
+Various combinations and concentrations of plutonium iron, plutonium cerium, and plutonium
+
+33
+00:04:15,000 --> 00:04:24,000
+cobalt are readily prepared and held in high purity tantalum cans.
+
+34
+00:04:24,000 --> 00:04:29,000
+These fuels are used in the Los Alamos molten plutonium reactor with sodium coolant temperatures
+
+35
+00:04:29,000 --> 00:04:31,000
+in excess of 600 degrees centigrade.
+
+36
+00:04:35,000 --> 00:04:38,000
+Analysis of fuel container compatibility and methods
+
+37
+00:04:38,000 --> 00:04:41,000
+of fission gas removal while the reactor is running
+
+38
+00:04:41,000 --> 00:04:44,000
+are of primary importance for the extension
+
+39
+00:04:44,000 --> 00:04:48,000
+of the molten fuel concept to a large central station plant.
+
+40
+00:04:53,000 --> 00:04:56,000
+The plutonium recycled test reactor
+
+41
+00:04:56,000 --> 00:04:59,000
+has been operated since 1961.
+
+42
+00:04:59,000 --> 00:05:03,000
+in an extensive program of fuel cycle development at Hanford Laboratories.
+
+43
+00:05:07,000 --> 00:05:11,000
+Evaluation of many different types of plutonium-bearing fuel materials,
+
+44
+00:05:11,000 --> 00:05:17,000
+claddings and fuel geometries have been completed, and the core gradually changed
+
+45
+00:05:17,000 --> 00:05:22,000
+to a uniform loading of one weight percent plutonium-uranium ceramic fuel particles
+
+46
+00:05:22,000 --> 00:05:30,000
+in zircaloy tubes.
+
+47
+00:05:30,000 --> 00:05:35,000
+The reactor physics, chemical reprocessing, and fuel element technology associated with
+
+48
+00:05:35,000 --> 00:05:41,000
+the mixed oxides of plutonium and uranium indicate reasonable fabrication costs and
+
+49
+00:05:41,000 --> 00:05:51,000
+encouraging performance data for power reactor operations.
+
+50
+00:05:51,000 --> 00:05:57,000
+To obtain uniformly enriched high-density fuel particles, plutonium oxide is first carefully
+
+51
+00:05:57,000 --> 00:06:10,000
+mixed in with the uranium oxide.
+
+52
+00:06:10,000 --> 00:06:22,000
+After thorough blending, the mixture is prepared for high energy impaction.
+
+53
+00:06:22,000 --> 00:06:28,000
+Seven kilograms of the fuel material fill each container.
+
+54
+00:06:28,000 --> 00:06:33,000
+And for safe handling outside of the hood environment, each one is carefully cleaned
+
+55
+00:06:33,000 --> 00:06:49,000
+and sealed in a second can. The mixture is heated to 1200 degrees centigrade. At this
+
+56
+00:06:49,000 --> 00:06:55,000
+temperature, under the 400,000 pound per square inch impact loading developed, a solid body
+
+57
+00:06:55,000 --> 00:07:05,000
+is formed from the powders. Plutonia is fixed in intimate contact with the
+
+58
+00:07:05,000 --> 00:07:15,000
+Uranium thus maintaining a uniform distribution.
+
+59
+00:07:15,000 --> 00:07:22,000
+The impacted fuel material is 98% of theoretical density or greater, an important factor in
+
+60
+00:07:22,000 --> 00:07:29,000
+producing high bulk density particle-containing fuel rods. High
+
+61
+00:07:29,000 --> 00:07:34,000
+particle density is also needed for thermal conductivity and fission gas
+
+62
+00:07:34,000 --> 00:07:42,000
+retention. A variety of these ceramic fuels are prepared in large quantities
+
+63
+00:07:42,000 --> 00:07:49,000
+and the different steps in production are segregated to allow for flexibility.
+
+64
+00:07:49,000 --> 00:07:57,000
+Approximately 1500 fuel rods with a one-and-a-half weight percent plutonium-uranium oxide were
+
+65
+00:07:57,000 --> 00:08:03,000
+prepared for the experimental boiling water reactor.
+
+66
+00:08:03,000 --> 00:08:09,000
+They are centrally loaded in the reactor and with 36 rods to an element fill about one
+
+67
+00:08:09,000 --> 00:08:15,000
+quarter of its new core.
+
+68
+00:08:15,000 --> 00:08:20,000
+The reactor experiments are aimed at developing a calculation model for this fuel in a light
+
+69
+00:08:20,000 --> 00:08:25,000
+water thermal system.
+
+70
+00:08:25,000 --> 00:08:34,000
+Particle sizes for fuel tube loading range from about 5 millimeters in diameter to powder.
+
+71
+00:08:34,000 --> 00:08:41,000
+From these, a mixture of the coarse particles and a blend of fine powder is prepared.
+
+72
+00:08:41,000 --> 00:08:50,000
+The different size fractions help in packing the tube uniformly.
+
+73
+00:08:50,000 --> 00:08:56,000
+Vibratory compaction was developed to load fuel tubes to the desired 85 to 90 percent
+
+74
+00:08:56,000 --> 00:09:00,000
+of theoretical density.
+
+75
+00:09:00,000 --> 00:09:06,000
+High bulk density minimizes the relocation of fuel during irradiation, provides for better
+
+76
+00:09:06,000 --> 00:09:12,000
+heat transfer, ensures adequate reactivity, and furnishes support for the thin-walled
+
+77
+00:09:12,000 --> 00:09:19,000
+cladding under high coolant pressures.
+
+78
+00:09:19,000 --> 00:09:30,000
+A line of hoods is served by one electromagnetic vibratory unit.
+
+79
+00:09:30,000 --> 00:09:38,000
+each hood, a fuel tube is clamped to the bar extending from the drive unit. Then
+
+80
+00:09:38,000 --> 00:09:45,000
+set up with a pre-measured quantity of fuel funneled to the top of the tube.
+
+81
+00:09:48,000 --> 00:09:53,000
+The high-intensity vibrations subjects the particles to a gravitational force
+
+82
+00:09:53,000 --> 00:10:04,000
+of some 50 to 70 G's. An optimum range from 300 to 1200 cycles per second
+
+83
+00:10:04,000 --> 00:10:10,000
+avoids grinding and the frequencies are repeatedly scanned until the desired
+
+84
+00:10:10,000 --> 00:10:13,000
+bulk density is achieved.
+
+85
+00:10:13,000 --> 00:10:25,000
+Sealed and checked for compliance with specifications, the fuel rod is complete.
+
+86
+00:10:25,000 --> 00:10:32,000
+An assembly of 19 forms the fuel element.
+
+87
+00:10:32,000 --> 00:10:37,000
+The plutonium recycle test reactor utilized in the evaluation of these fuels for thermal
+
+88
+00:10:37,000 --> 00:10:42,000
+reactor application is a vertical pressure tube reactor moderated and
+
+89
+00:10:42,000 --> 00:10:50,000
+cooled by heavy water. The tubes passing through the moderator tank contain shim
+
+90
+00:10:50,000 --> 00:10:59,000
+rods and flux monitors in addition to 85 fuel elements. Two of the fuel locations
+
+91
+00:10:59,000 --> 00:11:06,000
+contain experimental loops. One an element rupture facility, the other to
+
+92
+00:11:06,000 --> 00:11:13,000
+study high temperature gas reactions, such as carbon dioxide with graphite.
+
+93
+00:11:13,000 --> 00:11:24,000
+Fine reactivity control is accomplished by regulating moderator level.
+
+94
+00:11:24,000 --> 00:11:29,000
+As the helium gas pressure between the dump tank and moderator surface is changed, the
+
+95
+00:11:29,000 --> 00:11:36,000
+The liquid head moves to balance the pressure.
+
+96
+00:11:36,000 --> 00:11:42,000
+Over a 10 to 12 day operating cycle at 70 megawatts thermal, the shimrods are periodically
+
+97
+00:11:42,000 --> 00:11:47,000
+withdrawn to overcome long term reactivity poison.
+
+98
+00:11:47,000 --> 00:11:58,000
+And moderator level control is maintained between 101 and 109 inches.
+
+99
+00:11:58,000 --> 00:12:07,000
+are effective in adjusting the neutron flux pattern and controlling individual tube power.
+
+100
+00:12:07,000 --> 00:12:15,000
+In the operation of plutonium-bearing fuels, several reactions take place. When a neutron
+
+101
+00:12:15,000 --> 00:12:25,000
+is captured in plutonium-239, it yields plutonium-240, a fertile material. Subsequent capture yields
+
+102
+00:12:25,000 --> 00:12:35,000
+an excellent fuel. If a neutron is captured in 241, it yields plutonium-242.
+
+103
+00:12:35,000 --> 00:12:45,000
+Experiments are underway to determine the rate of these reactions and their accumulative effect
+
+104
+00:12:45,000 --> 00:12:53,000
+on reactivity. Test elements have been operated to failure to determine ultimate limits.
+
+105
+00:12:53,000 --> 00:13:02,000
+And for the assurance of safety under undesirable conditions, deliberately defective elements are irradiated.
+
+106
+00:13:02,000 --> 00:13:14,000
+Ceramic fuels have performed very well at power generation rates more than four times those utilized in contemporary water-cooled power reactors.
+
+107
+00:13:14,000 --> 00:13:25,000
+Allied investigations ascertain void migration, fuel relocation, and the extent of the molten
+
+108
+00:13:25,000 --> 00:13:36,000
+zone in the fuel rod. Unique laboratory tools are used in growing high purity crystals with
+
+109
+00:13:36,000 --> 00:13:44,000
+ideal density and to measure electrical resistivity.
+
+110
+00:13:54,000 --> 00:13:59,000
+A determination of thermal conductivity is obtained by subjecting one face of a
+
+111
+00:13:59,000 --> 00:14:05,000
+sample to a laser pulse and recording the temperature rise on the opposite
+
+112
+00:14:05,000 --> 00:14:16,000
+face. In the successive recycle of the mixed oxides of plutonium and uranium,
+
+113
+00:14:16,000 --> 00:14:22,000
+the restoration of fuel reactivity is accomplished by reprocessing using a
+
+114
+00:14:22,000 --> 00:14:26,000
+molten chloride solvent.
+
+115
+00:14:35,000 --> 00:14:46,000
+Irradiated fuel is declatted by hammer action, then oxidized with air at 450 degrees centigrade
+
+116
+00:14:46,000 --> 00:14:54,000
+to form U308PUO2.
+
+117
+00:14:54,000 --> 00:14:59,000
+Charged to a molten salt solution composed of lithium and potassium chlorides, the mixture
+
+118
+00:14:59,000 --> 00:15:11,000
+is sparged with gaseous hydrogen chloride and chlorine at 600 degrees centigrade.
+
+119
+00:15:11,000 --> 00:15:17,000
+Plutonium enrichment can be varied between 1 and 25 percent by adjusting the sparge rate
+
+120
+00:15:17,000 --> 00:15:22,000
+and current density.
+
+121
+00:15:22,000 --> 00:15:29,000
+The fuel material is recovered from the melt by electrolysis.
+
+122
+00:15:29,000 --> 00:15:33,000
+The desired plutonium uranium oxide combination,
+
+123
+00:15:33,000 --> 00:15:42,000
+free of fission products, is plated out on the cathode.
+
+124
+00:15:43,000 --> 00:15:52,000
+Then, the high density fuel is crushed to yield particles for reloading by vibratory compaction.
+
+125
+00:15:53,000 --> 00:15:57,000
+Although detailed forecasts of plutonium utilization in a thermal neutron
+
+126
+00:15:57,000 --> 00:16:00,000
+spectrum are not defined as yet,
+
+127
+00:16:00,000 --> 00:16:06,000
+economic studies predict a sizable positive value for plutonium
+
+128
+00:16:06,000 --> 00:16:10,000
+and the wide spectrum of fueling possibilities attests to its versatility
+
+129
+00:16:10,000 --> 00:16:12,000
+nuclear power application.

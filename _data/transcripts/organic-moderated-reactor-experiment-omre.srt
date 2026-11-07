@@ -1,0 +1,455 @@
+1
+00:00:30,000 --> 00:00:43,000
+The Organic Moderator Reactor Experiment, an important part of the Atomic Energy Commission's research program aimed at achieving economical nuclear power, has been developed at the National Reactor Testing Station.
+
+2
+00:00:44,000 --> 00:00:56,000
+This experiment, commonly referred to as OMBRE, is being conducted by Atomics International to study the use of organic substances as a coolant, heat transfer, and neutral moderator.
+
+3
+00:01:00,000 --> 00:01:11,379
+The OMRE facility consists of three main sections.
+
+4
+00:01:11,379 --> 00:01:17,019
+The operation building, which houses the control room and product preparation zones, the heat
+
+5
+00:01:17,019 --> 00:01:27,500
+exchanger and air blowers, and the reactor core, installed underground beneath the building.
+
+6
+00:01:27,500 --> 00:01:32,239
+Systems related to the use of organic coolants have been studied in the Laboratories of Atomics
+
+7
+00:01:32,239 --> 00:01:35,680
+International in California.
+
+8
+00:01:35,680 --> 00:01:40,680
+The stability of various organic compounds was determined through studies conducted in
+
+9
+00:01:40,680 --> 00:01:44,280
+a thermal loop and under different thermal cycles.
+
+10
+00:01:44,280 --> 00:01:49,780
+The thermal loop was built to circulate hydrocarbon mixtures through the material testing reactor
+
+11
+00:01:49,780 --> 00:01:55,620
+at the National Reactor Testing Station under conditions similar to those expected during
+
+12
+00:01:55,620 --> 00:02:03,520
+the operations of OMBRE. A thermal circuit was used to determine heat transfer characteristics
+
+13
+00:02:03,520 --> 00:02:11,580
+and deposits produced by the organic fluids. For the design and operations of OMBRE, as
+
+14
+00:02:11,580 --> 00:02:17,920
+well as its purification system, the decomposition rates of various organic coolants were determined,
+
+15
+00:02:17,920 --> 00:02:20,600
+and methods of purifying them were studied.
+
+16
+00:02:24,660 --> 00:02:27,820
+As a result, a compound from the polyphenol group
+
+17
+00:02:27,820 --> 00:02:30,580
+was selected as the hydrocarbon for OMBRE.
+
+18
+00:02:34,560 --> 00:02:38,340
+The OMBRE cooling system contains over 19,000 liters
+
+19
+00:02:38,340 --> 00:02:42,780
+of a polyphenol mixture, whose characteristics, once melted,
+
+20
+00:02:42,780 --> 00:02:44,960
+are similar to those of water.
+
+21
+00:02:44,960 --> 00:03:07,400
+The coolant enters the fuel element zone from the bottom of the vessel that houses the core, rises between the fuel plates to remove heat, descends between the fuel elements and control rods, and finally rises between the thermal shield and the vessel wall to a tank located above the core.
+
+22
+00:03:07,400 --> 00:03:15,300
+The organic compound is pumped from the reactor to the heat exchanger, which operates in connection
+
+23
+00:03:15,300 --> 00:03:21,040
+with air blowers, where the heat is dissipated and the coolant returns to the reactor, forming
+
+24
+00:03:21,040 --> 00:03:25,300
+the primary circuit.
+
+25
+00:03:25,300 --> 00:03:30,400
+The primary cooling system is fed by transferring molten hydrocarbon to the drainage tank.
+
+26
+00:03:30,400 --> 00:03:38,780
+It is filled via the expansion tank using the feed pump.
+
+27
+00:03:38,780 --> 00:03:43,900
+The purification system removes decomposition products from the hydrocarbon.
+
+28
+00:03:43,900 --> 00:03:50,840
+The facility receives the coolant from the heat transfer circuit.
+
+29
+00:03:50,840 --> 00:03:56,319
+The purified substance is recovered and sent to the feed tank from which the coolant can
+
+30
+00:03:56,319 --> 00:04:09,419
+be pumped back into the system.
+
+31
+00:04:09,419 --> 00:04:13,979
+The control of the organic substance during its circulation through the reactor system
+
+32
+00:04:13,979 --> 00:04:16,980
+is carried out from the operations building.
+
+33
+00:04:16,980 --> 00:04:23,719
+This building is divided into two main parts by a protective wall.
+
+34
+00:04:23,720 --> 00:04:28,480
+In the control room, the control console, instrumentation equipment, and electrical
+
+35
+00:04:28,480 --> 00:04:35,020
+switchboard are located.
+
+36
+00:04:35,020 --> 00:04:40,100
+Adjacent to the control room is the organic compound melting station, nitrogen distributors,
+
+37
+00:04:40,100 --> 00:04:47,280
+and general storage area.
+
+38
+00:04:47,280 --> 00:04:52,640
+On the other side of the concrete protective wall is the recovery zone, which houses pumps
+
+39
+00:04:52,639 --> 00:04:58,639
+for the organic coolant, the purification system, and associated equipment.
+
+40
+00:05:03,639 --> 00:05:11,639
+The temperature of the organic compound in the low-pressure OMBR system ranges from 260 to 380 °C.
+
+41
+00:05:15,639 --> 00:05:21,639
+Behind the recovery zone is the heat exchanger, which operates in connection with an air blower.
+
+42
+00:05:22,639 --> 00:05:34,779
+In a full-scale power plant with an organic moderator reactor, this exchanger will be replaced by steam generators to harness the 16,000 thermal kilowatts produced by the reactor.
+
+43
+00:05:39,959 --> 00:05:50,039
+A significant advantage of using an organic substance as a coolant is that it does not produce appreciable corrosive effects on ordinary structural materials.
+
+44
+00:05:50,040 --> 00:05:59,660
+The Ombre Core Tank was constructed with low-alloy steel, and all thermal stresses were completely
+
+45
+00:05:59,660 --> 00:06:04,100
+relieved in a suitable furnace.
+
+46
+00:06:04,100 --> 00:06:13,800
+The specifications included a pressure of 28 kg per cm2, a temperature of 177 °C,
+
+47
+00:06:13,800 --> 00:06:19,759
+and a material working coefficient of 1,000 kg per cm2.
+
+48
+00:06:19,759 --> 00:06:24,860
+The tank underwent fuel inspections as soon as it was removed from the furnace.
+
+49
+00:06:24,860 --> 00:06:29,599
+The specifications for the top section of the tank were the same.
+
+50
+00:06:29,599 --> 00:06:37,279
+Once machined and received, the vessel was dispatched to the OMBRE site for installation.
+
+51
+00:06:37,279 --> 00:06:43,879
+A 60-cycle induction heating system was installed on all tanks and pipelines of OMBRE so that
+
+52
+00:06:43,879 --> 00:06:48,800
+the system's temperature would be above the hydrocarbon's melting point before the
+
+53
+00:06:48,800 --> 00:06:51,420
+reactor begin operating.
+
+54
+00:06:51,420 --> 00:06:57,600
+The tank housed in the core is approximately 8.5 meters tall with an internal diameter
+
+55
+00:06:57,600 --> 00:07:04,540
+of 1.35 meters and a wall thickness of 2.54 centimeters.
+
+56
+00:07:04,540 --> 00:07:10,680
+The cavity where the tank is located is lined with corrugated galvanized steel plates.
+
+57
+00:07:10,680 --> 00:07:16,780
+The tank was placed on a concrete slab supported by a rock base and galleries were arranged
+
+58
+00:07:16,780 --> 00:07:20,060
+for the main cooling ducts.
+
+59
+00:07:20,060 --> 00:07:25,700
+After installing the core, the pipes were connected to the galleries, and these were filled.
+
+60
+00:07:25,700 --> 00:07:30,500
+For OMRE, plate-type fuel elements were adopted.
+
+61
+00:07:30,500 --> 00:07:36,260
+To manufacture each fuel plate, a mixture of the stainless steel and uranium oxide powder
+
+62
+00:07:36,260 --> 00:07:40,580
+was prepared, with 25% of the mixture's weight
+
+63
+00:07:40,580 --> 00:07:41,780
+being uranium oxide.
+
+64
+00:07:46,780 --> 00:07:56,140
+The mixture was subjected to a pressure of 6,300 kilograms per centimeter squared.
+
+65
+00:07:56,139 --> 00:08:19,300
+The assembly was hardened by heat treatment and encased in a stainless steel cladding.
+
+66
+00:08:19,300 --> 00:08:24,579
+During this stage of manufacturing, the fuel element plates were referred to as sandwiches.
+
+67
+00:08:27,379 --> 00:08:33,700
+In a controlled atmosphere furnace, the sandwich preparations were located before being hot rolled.
+
+68
+00:08:39,379 --> 00:08:42,820
+The final thickness was achieved through cold rolling.
+
+69
+00:08:42,820 --> 00:08:52,460
+After cutting and machining the plates to the required dimensions, the assembly of the
+
+70
+00:08:52,460 --> 00:08:58,000
+fuel elements begin.
+
+71
+00:08:58,000 --> 00:09:05,780
+Each onward fuel element contains 16 active fuel plates.
+
+72
+00:09:05,779 --> 00:09:15,860
+The plates were adequately spaced to allow for coolant circulation.
+
+73
+00:09:15,860 --> 00:09:22,159
+With the side edges and seams welded to form a rectangular box, the fuel element approached
+
+74
+00:09:22,159 --> 00:09:25,779
+the final form.
+
+75
+00:09:25,779 --> 00:09:30,919
+Stainless steel boxes were attached to the ends to secure the fuel element to the upper
+
+76
+00:09:30,919 --> 00:09:33,980
+and lower grid plates.
+
+77
+00:09:33,980 --> 00:09:40,100
+An inert model was placed in the core assembly to check dimensions and fit.
+
+78
+00:09:40,100 --> 00:09:49,960
+A locking device keeps the element in position in the core.
+
+79
+00:09:49,960 --> 00:09:55,600
+The grid plate has 36 spaces for field elements.
+
+80
+00:09:55,600 --> 00:10:02,120
+The OMRI Neutron Source consists of an antimony oxide capsule connected to an extension and
+
+81
+00:10:02,120 --> 00:10:09,960
+inserted into a beryllium tube. A space was reserved in the grid plate mesh for
+
+82
+00:10:09,960 --> 00:10:19,500
+the neutron source. Control rods which also serve as safety rods were assembled
+
+83
+00:10:19,500 --> 00:10:25,179
+in pairs. 12 guide holes for the control rods were symmetrically arranged between
+
+84
+00:10:25,180 --> 00:10:36,180
+the spaces for the fuel elements. It was necessary to separate the upper grip
+
+85
+00:10:36,180 --> 00:10:41,020
+plate from the thermal shield before installing this structure into the core
+
+86
+00:10:41,020 --> 00:10:48,760
+tank. After placing the grip plate in control rod structures in the core tank,
+
+87
+00:10:48,760 --> 00:10:55,000
+their assembly begin. The rod damper cylinders were attached to a suitable
+
+88
+00:10:55,000 --> 00:11:04,279
+bridge then inserted into the core tank. The six control locking devices were then connected
+
+89
+00:11:04,279 --> 00:11:11,639
+and the rods were attached. The damper cylinder bridge was lowered into its proper position.
+
+90
+00:11:14,519 --> 00:11:19,159
+A rack and pinion system is used to move the rods during reactor operation
+
+91
+00:11:19,159 --> 00:11:24,860
+and the spring trigger system is used for rapid insurgent and emergencies.
+
+92
+00:11:26,039 --> 00:11:31,519
+Each locking device is connected to a piston that cushions the fall in the cylinders.
+
+93
+00:11:33,240 --> 00:11:39,039
+Once installed, the rods were tested for abrupt and complete shutdown scenarios.
+
+94
+00:11:40,959 --> 00:11:45,860
+During construction, preliminary tests were conducted on all reactor components,
+
+95
+00:11:45,860 --> 00:11:51,860
+components, circuits, and other systems to ensure OMBRE was built according to project
+
+96
+00:11:51,860 --> 00:11:55,720
+specifications.
+
+97
+00:11:55,720 --> 00:12:01,000
+The OMBRE facilities were then handed over to the operating personnel for the remaining
+
+98
+00:12:01,000 --> 00:12:08,560
+tests.
+
+99
+00:12:08,560 --> 00:12:13,399
+The tests and verifications that followed involved special and detailed processes of
+
+100
+00:12:13,399 --> 00:12:21,620
+reactor operation. All systems were checked including induction and
+
+101
+00:12:21,620 --> 00:12:28,500
+resistance heating circuits, inner gas cover and purge systems, radiation
+
+102
+00:12:28,500 --> 00:12:38,199
+detection equipment, heat exchangers and blowers, fire detectors, alarm systems,
+
+103
+00:12:38,200 --> 00:12:55,000
+auxiliary cooling systems, remote valve controls, ventilation systems, and all associated instruments.
+
+104
+00:12:55,000 --> 00:13:04,900
+Kerosene was used to test the piping network and samples taken from internal filters indicated the system's purity.
+
+105
+00:13:04,899 --> 00:13:16,899
+After verifying the auxiliary power and heating circuits, the melting tank was filled with the adopted organic fluid.
+
+106
+00:13:16,899 --> 00:13:32,899
+The final tests for loading and unloading fuel elements were conducted with the normal volume of organic fluid in the reactor assembly.
+
+107
+00:13:32,899 --> 00:13:42,399
+When critical mass loading began, the control rod drive mechanisms were placed on a special assembly platform.
+
+108
+00:13:42,399 --> 00:13:53,899
+Specialized detection devices were used and the reactor was prepared for the initial electron source.
+
+109
+00:13:53,899 --> 00:14:08,199
+After obtaining the necessary reports to guarantee the reactor's safe operation, the core loading was completed.
+
+110
+00:14:08,199 --> 00:14:15,740
+The next phase of testing involved calibrating the nuclear system and operating at low power.
+
+111
+00:14:15,740 --> 00:14:29,740
+The system was pressurized with nitrogen, the primary cooling pumps were started, and power levels were gradually increased until the cooling flow reached normal levels.
+
+112
+00:14:29,740 --> 00:14:35,740
+The operational characteristics of the reactor were determined at various power levels.
+
+113
+00:14:35,740 --> 00:14:49,580
+Once the low-power operation tests were successfully completed, OMBRE became a large-scale testing laboratory, being the first to use a hydrocarbon as a moderator, reflector, and coolant.
+
+114
+00:14:50,000 --> 00:14:54,720
+This reactor provides essential data for solving energy production challenges.

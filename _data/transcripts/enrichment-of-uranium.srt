@@ -1,0 +1,711 @@
+1
+00:00:04,080 --> 00:00:13,940
+This is the core of a nuclear reactor during refueling. The unloaded assemblies have
+
+2
+00:00:14,040 --> 00:00:19,260
+progressively consumed the enormous energy reserves they originally contained in the
+
+3
+00:00:19,360 --> 00:00:26,900
+form of uranium. Not natural uranium, but as in nearly all nuclear power stations in the world,
+
+4
+00:00:27,000 --> 00:00:39,140
+enriched uranium, the fruit of long preparation. It all begins in the mine, underground, or opencast.
+
+5
+00:00:39,240 --> 00:00:50,419
+A relatively poor ore, one to three kilograms of uranium per tonne, which has to be concentrated
+
+6
+00:00:50,519 --> 00:00:58,939
+and purified. It is sorted, ground and submitted to a whole sequence of
+
+7
+00:00:59,039 --> 00:01:05,260
+chemical treatments in which the uranium changes form and color many times.
+
+8
+00:01:05,360 --> 00:01:15,139
+It appears as yellow cake or uranium concentrate, then ammonium urinate, now as
+
+9
+00:01:15,239 --> 00:01:34,239
+trioxide, here as tetrafluoride, and finally as uranium hexafluoride, a gas which is crystallised
+
+10
+00:01:34,339 --> 00:01:40,499
+for shipment in these containers. It is ready to be submitted to a much deeper transformation
+
+11
+00:01:40,599 --> 00:01:42,999
+of quite another nature: enrichment.
+
+12
+00:02:10,600 --> 00:02:20,620
+Behind this cooling tower, a huge plant. It can supply a hundred or so nuclear power stations
+
+13
+00:02:20,720 --> 00:02:29,440
+of the 1,000 megawatt range. More than a quarter of world enrichment capacity. These buildings
+
+14
+00:02:29,540 --> 00:02:34,760
+are so wide and so long that they appear squat.
+
+15
+00:02:34,860 --> 00:02:37,020
+Yet they are around 40 meters high.
+
+16
+00:02:47,160 --> 00:02:50,840
+In these containers, uranium hexafluoride,
+
+17
+00:02:50,940 --> 00:02:56,120
+natural uranium, soon to be introduced into this plant for a kind of sorting process
+
+18
+00:02:56,220 --> 00:02:59,300
+on an infinitely small scale, the scale of the atom.
+
+19
+00:03:03,520 --> 00:03:09,660
+Natural uranium contains two isotopes, uranium-235
+
+20
+00:03:09,760 --> 00:03:13,620
+and uranium-238.
+
+21
+00:03:13,720 --> 00:03:24,040
+Uranium-235, which will undergo fission, is far the less abundant, only 0.7%.
+
+22
+00:03:24,140 --> 00:03:29,040
+Thus, in one tonne of uranium in the natural state, there are only seven kilograms of uranium-235.
+
+23
+00:03:33,140 --> 00:03:39,040
+Light-water reactors require uranium four to five times richer, with up to 3.2 percent of uranium-235.
+
+24
+00:03:40,140 --> 00:03:42,040
+Thirty-two kilograms per tonne.
+
+25
+00:03:44,140 --> 00:03:46,040
+That is twenty-five more than in natural uranium.
+
+26
+00:03:47,140 --> 00:03:51,040
+Such enrichment can only be obtained at the expense of further tonnes of uranium.
+
+27
+00:03:51,140 --> 00:03:58,880
+uranium. To enrich this tonne of uranium by adding 25 kilograms of uranium-235,
+
+28
+00:03:58,980 --> 00:04:07,040
+other tonnes must be depleted and as much as possible. If we were content to
+
+29
+00:04:07,140 --> 00:04:12,579
+extract one kilogram of uranium-235 from every tonne, we'd need 25 tonnes of
+
+30
+00:04:12,679 --> 00:04:18,600
+natural uranium. That's a lot because uranium is expensive. In practice, about
+
+31
+00:04:18,700 --> 00:04:23,100
+About 5 kilograms of uranium-235 can be extracted from every tonne,
+
+32
+00:04:23,200 --> 00:04:28,900
+thus it's enough to deplete only 5 tonnes of uranium in an exchange to modify the 2,3,5 content,
+
+33
+00:04:29,000 --> 00:04:31,499
+initially 7 kilograms per tonne.
+
+34
+00:04:35,399 --> 00:04:40,900
+On the one hand, we obtain 1 tonne containing 32 kilograms of uranium-235,
+
+35
+00:04:41,000 --> 00:04:43,600
+uranium at 3.2 percent.
+
+36
+00:04:43,700 --> 00:04:48,100
+And on the other hand, 5 tonnes containing not more than 2 kilograms
+
+37
+00:04:48,200 --> 00:04:53,540
+uranium at zero two percent. The enriched uranium on the one side
+
+38
+00:04:53,640 --> 00:04:57,220
+and the depleted uranium on the other.
+
+39
+00:04:58,680 --> 00:05:02,179
+The goal of the enrichment plant is to effect such an exchange with natural
+
+40
+00:05:02,279 --> 00:05:07,059
+uranium as point of departure. This exchange takes
+
+41
+00:05:07,159 --> 00:05:10,820
+place progressively due to a series of modules which enrich
+
+42
+00:05:10,920 --> 00:05:14,179
+and deplete at the same time.
+
+43
+00:05:14,279 --> 00:05:18,179
+The uranium fed in is separated into two equal parts.
+
+44
+00:05:18,279 --> 00:05:24,679
+It comes out on one side slightly more enriched, with 2 per 1,000 of uranium 235 more.
+
+45
+00:05:24,779 --> 00:05:31,179
+And on the other side, slightly less enriched, with 2 per 1,000 of uranium 235 less.
+
+46
+00:05:31,279 --> 00:05:36,179
+These slight variations mean that the operation must be repeated hundreds of times
+
+47
+00:05:36,279 --> 00:05:39,179
+in similar modules working in series.
+
+48
+00:05:39,279 --> 00:05:45,179
+The enriched uranium from each of these is conveyed to the inlet of the following module.
+
+49
+00:05:45,279 --> 00:05:51,179
+While the uranium that comes out depleted is fed back to the preceding module.
+
+50
+00:05:55,279 --> 00:06:00,179
+Thus each module is fed both by the uranium enriched in the preceding module
+
+51
+00:06:00,279 --> 00:06:05,179
+and by the uranium depleted in the next module up the line.
+
+52
+00:06:05,279 --> 00:06:10,699
+Both flows have the same uranium-235 content.
+
+53
+00:06:10,799 --> 00:06:14,840
+These modules, thus linked, make up what is known as a cascade.
+
+54
+00:06:14,940 --> 00:06:21,780
+Progressive continuous exchange gives us an increase in uranium-235 content in one direction,
+
+55
+00:06:21,880 --> 00:06:26,759
+compensated for by a reverse movement of uranium-238.
+
+56
+00:06:26,859 --> 00:06:33,340
+We enrich in one direction and deplete in the other.
+
+57
+00:06:33,440 --> 00:06:40,179
+Within the plant there are 1,400 modules, 1,400 stages and while each stage enriches
+
+58
+00:06:40,279 --> 00:06:46,940
+and depletes at the same time we may say that 800 are enriching uranium and 600 depleting
+
+59
+00:06:47,040 --> 00:06:49,720
+it.
+
+60
+00:06:49,820 --> 00:06:57,540
+For natural uranium is supplied at about the middle of the cascade.
+
+61
+00:06:57,640 --> 00:07:04,739
+from this uranium at 0.71%. On the one hand we have the 800 stages needed to obtain the
+
+62
+00:07:04,839 --> 00:07:14,040
+desired degree of enrichment 3.25%. But this uranium can only be enriched through the uranium
+
+63
+00:07:14,140 --> 00:07:19,540
+235 extracted from the other side of the cascade and if we need 600 stages on the depletion
+
+64
+00:07:19,640 --> 00:07:25,040
+side it is to get the most out of the uranium and finally reject uranium depleted down to
+
+65
+00:07:25,140 --> 00:07:32,660
+point two percent. Don't forget that the more we deplete the less natural uranium
+
+66
+00:07:32,760 --> 00:07:37,999
+we need at the entry to the process. If we only need to feed in six tons of
+
+67
+00:07:38,099 --> 00:07:43,499
+natural uranium to produce one ton of enriched uranium it is because we reject
+
+68
+00:07:43,599 --> 00:07:51,080
+the uranium depleted two point two percent five tons of it. This is the
+
+69
+00:07:51,180 --> 00:08:00,580
+principle of the cascade. But what exactly are these stages? There are large elements
+
+70
+00:08:00,680 --> 00:08:10,080
+about 20 metres high linked by condites, some going in the enrichment direction and others
+
+71
+00:08:10,180 --> 00:08:20,320
+in the depletion direction. Isotope separation takes place in the upper part, the diffuser.
+
+72
+00:08:20,420 --> 00:08:24,460
+In these tubes, where the uranium circulates in the gaseous state.
+
+73
+00:08:24,560 --> 00:08:29,540
+Thus the process is known as gaseous diffusion.
+
+74
+00:08:29,640 --> 00:08:34,420
+This is why uranium hexafluoride, UF6, is used.
+
+75
+00:08:34,520 --> 00:08:39,859
+It remains in the gaseous state at low temperatures, above 55 degrees centigrade.
+
+76
+00:08:39,959 --> 00:08:46,900
+In each gas molecule, the uranium atom is surrounded by six fluorine atoms.
+
+77
+00:08:47,000 --> 00:08:48,840
+All of mass 19.
+
+78
+00:08:48,940 --> 00:08:59,399
+But there are two possible masses for the uranium atom, 238 or 235.
+
+79
+00:08:59,499 --> 00:09:07,980
+Total molecular mass is thus 352 or 349, a difference of three and about 350.
+
+80
+00:09:08,080 --> 00:09:10,840
+This is very little to differentiate between the two isotopes.
+
+81
+00:09:10,940 --> 00:09:15,040
+Now let's see how we go about it.
+
+82
+00:09:15,140 --> 00:09:21,560
+In a gas, the constantly colliding molecules have the same kinetic energy.
+
+83
+00:09:21,660 --> 00:09:27,240
+This means that the heavier molecules, containing uranium-238, move slower than the lighter
+
+84
+00:09:27,340 --> 00:09:34,760
+molecules, containing uranium-235.
+
+85
+00:09:34,860 --> 00:09:41,500
+The faster molecules strike the wall of the containing vessel more frequently.
+
+86
+00:09:41,599 --> 00:09:46,100
+If micropores are put in the wall, the lighter molecules will have more chance
+
+87
+00:09:46,200 --> 00:09:47,980
+to go through than the heavier ones.
+
+88
+00:09:57,379 --> 00:10:03,399
+This leads to slight enrichment of the gas after passage through the wall.
+
+89
+00:10:03,499 --> 00:10:06,619
+These porous walls, known as diffusion barriers,
+
+90
+00:10:06,719 --> 00:10:16,259
+take the form of long tubes with billions holes per square centimetre. The secret of this technique lies in the manufacture of
+
+91
+00:10:16,820 --> 00:10:23,720
+these porous barriers. In each diffuser there are several thousand such barriers between
+
+92
+00:10:26,839 --> 00:10:33,739
+two circular plaques seven metres apart. The gas inlet is at the same level as the outlet.
+
+93
+00:10:33,839 --> 00:10:40,739
+The gas rises in the up-going tubes, reaching an upper ring shaped area where it is channelled
+
+94
+00:10:42,619 --> 00:10:49,519
+to the down-going tubes. There are fewer down-going than up-going tubes, since gas flow progressively
+
+95
+00:10:49,700 --> 00:10:55,639
+diminishes over the journey. Flow is half as much at the outlet. This is the depleted
+
+96
+00:10:55,739 --> 00:11:02,639
+fraction of the gas. The other half is diffused through the barriers becoming enriched. The
+
+97
+00:11:02,739 --> 00:11:12,759
+the enriched gas appears in the low pressure central it is sucked down by a compressor and
+
+98
+00:11:12,859 --> 00:11:17,519
+sent to the next diffuser at slightly under atmospheric pressure this has the effect of
+
+99
+00:11:17,619 --> 00:11:25,960
+heating it a few dozen degrees each stage is composed of three distinct parts the upper
+
+100
+00:11:26,060 --> 00:11:32,440
+part, the diffuser, with the hexafluoride inlet conduit, and the depleted gas evacuation
+
+101
+00:11:32,540 --> 00:11:41,780
+conduit. The enriched gas goes down inside the stage. At the bottom is the compressor
+
+102
+00:11:41,880 --> 00:11:49,700
+to send the gas to the next stage. Between these two units, a heat exchanger compensates
+
+103
+00:11:49,800 --> 00:11:54,940
+for gas heating at each compression.
+
+104
+00:11:55,040 --> 00:12:00,680
+The gas is cooled by contact with the pipe network of a special water cooling circuit.
+
+105
+00:12:00,780 --> 00:12:12,600
+But let's return to gas circulation in the cascade stages.
+
+106
+00:12:12,700 --> 00:12:17,940
+Each diffuser is associated with the compressor at the base of the preceding diffuser because
+
+107
+00:12:18,040 --> 00:12:23,320
+it is the one which supplies it with the uranium hexafluoride. The stage is completed with
+
+108
+00:12:23,420 --> 00:12:33,980
+the heat exchanger. Such is the complete stage. The diffuser is fed both by the enriched gas
+
+109
+00:12:34,080 --> 00:12:43,800
+from the preceding diffuser and by the depleted gas from the following diffuser. A conduit
+
+110
+00:12:43,900 --> 00:12:50,120
+It feeds it back to the same compressor.
+
+111
+00:12:50,220 --> 00:12:54,520
+This is how the cascade's various enrichment stages are hooked up.
+
+112
+00:12:54,620 --> 00:12:58,420
+The size of the elements is impressive.
+
+113
+00:12:58,520 --> 00:13:02,880
+This is just the upper part of a stage, the diffuser.
+
+114
+00:13:13,900 --> 00:13:28,280
+This is the base, housing the compressor, and the intermediate part, the heat exchanger,
+
+115
+00:13:28,380 --> 00:13:36,940
+containing the cooling tubes.
+
+116
+00:13:37,040 --> 00:13:43,580
+In the plant, the stages are set out in vast adjacent halls, each with a group of 20 stages.
+
+117
+00:13:43,680 --> 00:13:51,580
+The uranium hexafluoride from the preceding group is moved by an initial compressor, the
+
+118
+00:13:51,680 --> 00:13:53,879
+only one not topped by a diffuser.
+
+119
+00:13:53,979 --> 00:13:59,139
+The gas becomes more and more enriched through the two ranks of stages until reaching the
+
+120
+00:13:59,239 --> 00:14:03,440
+last diffuser which has no compressor.
+
+121
+00:14:03,540 --> 00:14:08,700
+The gas which comes out is fed to the compressor on the next group.
+
+122
+00:14:08,800 --> 00:14:12,239
+Feedback of depleted gas is in the opposite direction.
+
+123
+00:14:12,339 --> 00:14:17,960
+time conduit link is between the two ranks of stages and not on the outside.
+
+124
+00:14:18,060 --> 00:14:22,879
+Let's take a closer look at gas circulation.
+
+125
+00:14:24,979 --> 00:14:33,159
+There are two flows in opposite directions, one towards enrichment, the
+
+126
+00:14:33,259 --> 00:14:42,220
+other towards depletion, progressing from group to group. A group can be
+
+127
+00:14:42,320 --> 00:14:45,960
+isolated for maintenance from the rest of the plant. This makes for great
+
+128
+00:14:46,060 --> 00:14:49,200
+subtleness of operation.
+
+129
+00:14:55,459 --> 00:15:02,160
+It takes 70 of these 20 stage groups to make up the 1,400 stages of the cascade.
+
+130
+00:15:02,260 --> 00:15:07,180
+Groups are located on both sides of a central aisle in each of the plant
+
+131
+00:15:07,280 --> 00:15:23,180
+buildings. Buildings are designed on the scale of the huge units they house.
+
+132
+00:15:23,280 --> 00:15:29,320
+This diffuser when set up with its companions in a group of 20 will be streamed through
+
+133
+00:15:29,420 --> 00:15:36,380
+by uranium hexafluoride at around 100 degrees centigrade. Almost throughout, gas is at lower
+
+134
+00:15:36,479 --> 00:15:40,399
+than atmospheric pressure.
+
+135
+00:15:40,499 --> 00:15:48,820
+But not all stages are the same size.
+
+136
+00:15:48,920 --> 00:15:54,639
+The complex theory of enrichment requires that throughout the cascade, from the natural
+
+137
+00:15:54,739 --> 00:16:05,039
+uranium input to both ends, hexafluoride flow, instead of being even in all stages, must
+
+138
+00:16:05,140 --> 00:16:10,200
+be greater near input and diminish progressively towards the extremities
+
+139
+00:16:10,300 --> 00:16:16,120
+according to this ideal curve characteristic of enrichment plants.
+
+140
+00:16:17,300 --> 00:16:27,900
+In theory each of the 1400 stages should be different. In practice to facilitate
+
+141
+00:16:28,000 --> 00:16:33,980
+stage mass production only three stage sizes have been selected.
+
+142
+00:16:34,080 --> 00:16:43,980
+Stages differ in height, weight, and compressor power.
+
+143
+00:16:46,080 --> 00:16:48,980
+Each size is set up in groups of 20.
+
+144
+00:16:50,080 --> 00:16:57,980
+Given these three stage sizes, the number of groups of each size was selected for optimum approximation to the theoretical curve.
+
+145
+00:16:58,080 --> 00:17:07,920
+This accounts for the layout of the plant's 70 groups, 40 on the enrichment side and 30
+
+146
+00:17:08,020 --> 00:17:13,339
+on the depletion side.
+
+147
+00:17:13,439 --> 00:17:18,680
+All these groups are set up in the plant's four buildings.
+
+148
+00:17:18,780 --> 00:17:25,099
+The largest houses the large size depletion groups.
+
+149
+00:17:25,200 --> 00:17:31,320
+The next houses the large size enrichment groups.
+
+150
+00:17:31,420 --> 00:17:39,360
+Then the same building houses the medium size enrichment
+
+151
+00:17:39,460 --> 00:17:44,200
+and depletion groups.
+
+152
+00:17:44,300 --> 00:17:53,900
+And the smallest building houses the small groups at both ends of the cascade.
+
+153
+00:17:54,000 --> 00:17:58,480
+So throughout the plant, all these adjacent stages with natural uranium as the starting
+
+154
+00:17:58,580 --> 00:18:04,460
+point lead on the one side to uranium enriched to more than 3% and on the other to uranium
+
+155
+00:18:04,560 --> 00:18:09,180
+depleted to around 0.2%.
+
+156
+00:18:09,280 --> 00:18:23,140
+The total making up the 70 groups and the 1400 stages of the cascade.
+
+157
+00:18:23,240 --> 00:18:27,499
+While in these four buildings the uranium hexafluoride is being diffused and re-diffused
+
+158
+00:18:27,599 --> 00:18:32,640
+ceaselessly through thousands of kilometres of barriers, the heat transmitted to the gas
+
+159
+00:18:32,740 --> 00:18:35,960
+by compression must be removed.
+
+160
+00:18:36,060 --> 00:18:38,620
+This is the role of the cooling towers.
+
+161
+00:18:38,720 --> 00:18:44,020
+The water heated in the heat exchangers loses its calories here before being recycled to
+
+162
+00:18:44,120 --> 00:18:50,660
+the plant in closed circuit.
+
+163
+00:18:50,760 --> 00:18:56,580
+enrichment requires electricity. The power and number of the 1400 compressors
+
+164
+00:18:56,680 --> 00:19:01,420
+permanently absorbs the energy provided by three of the four reactors of the
+
+165
+00:19:01,520 --> 00:19:07,480
+nearby nuclear power station. Three reactors to run a plant which provides
+
+166
+00:19:07,580 --> 00:19:12,019
+enriched uranium for more than a hundred others. A plant which can assure
+
+167
+00:19:12,119 --> 00:19:17,480
+long-term nuclear fuel supply for Belgium, Italy and Spain, France's
+
+168
+00:19:17,580 --> 00:19:20,839
+associates in this enterprise and for many other customers.
+
+169
+00:19:26,419 --> 00:19:29,660
+Every year, these containers bring more than 25,000 tons
+
+170
+00:19:29,760 --> 00:19:32,019
+of uranium hexafluoride to the plant.
+
+171
+00:19:37,599 --> 00:19:42,660
+At the plant exit, in smaller containers, the same chemical product comes out,
+
+172
+00:19:42,760 --> 00:19:45,940
+but with a far greater wealth of energy.
+
+173
+00:19:46,040 --> 00:19:49,999
+Soon, this low-enriched uranium will be fuel for a reactor
+
+174
+00:19:50,099 --> 00:19:54,700
+after final, more traditional modifications and various industrial processes.
+
+175
+00:20:00,240 --> 00:20:04,900
+Now, it is in the form of tiny uranium oxide pellets,
+
+176
+00:20:05,000 --> 00:20:07,600
+soon to be placed into fuel rod assemblies.
+
+177
+00:20:16,040 --> 00:20:42,140
+Every year, thanks to the Trikasta enrichment plant, about 5,000 such assemblies can be
+
+178
+00:20:42,240 --> 00:20:48,380
+produced, the equivalent of 150 million tonnes of oil.

@@ -1,0 +1,923 @@
+1
+00:00:00,000 --> 00:00:12,300
+In the Dominion of Canada the Province of Ontario at Chalk River the Government
+
+2
+00:00:12,300 --> 00:00:17,280
+of Canada established the first nuclear reactor station outside the United
+
+3
+00:00:17,280 --> 00:00:27,359
+States. And it was here that the famous NRX reactor began operating in 1947. The
+
+4
+00:00:27,359 --> 00:00:34,799
+The NRX was designed for experimental purposes, to convert normal materials into radioisotopes
+
+5
+00:00:34,799 --> 00:00:40,920
+and to discover better fuels for more efficient reactors.
+
+6
+00:00:40,920 --> 00:00:47,359
+Mechanical failure, compounded by human error, resulted in a serious power excursion in the
+
+7
+00:00:47,359 --> 00:00:55,799
+reactor in December of 1952, the first major runaway of an atomic reactor.
+
+8
+00:00:55,800 --> 00:00:59,980
+This is a film record of how the NRX was restored to operation.
+
+9
+00:01:29,980 --> 00:01:31,939
+There was no prototype for this kind of reactor.
+
+10
+00:01:32,579 --> 00:01:37,760
+Its unusual vertical configuration allows the shutoff rods to drop by gravity.
+
+11
+00:01:38,920 --> 00:01:45,680
+In order to get a clear idea of what went wrong, where the damage occurred, and what had to be done about it,
+
+12
+00:01:46,300 --> 00:01:50,300
+let's review the main components before the accident.
+
+13
+00:01:51,620 --> 00:01:58,180
+The diameter of the reactor is 34 feet, and it rises 30 feet above the main floor.
+
+14
+00:01:59,160 --> 00:02:06,300
+This inner tank, or calandria in the reactor, is made of aluminum and holds 3,300 imperial gallons of heavy water.
+
+15
+00:02:06,940 --> 00:02:09,300
+That's about 18 tons.
+
+16
+00:02:10,360 --> 00:02:12,780
+Helium gas fills the space above the heavy water.
+
+17
+00:02:13,780 --> 00:02:16,920
+The tank can accommodate 176 fuel rod assemblies,
+
+18
+00:02:17,260 --> 00:02:21,719
+each 32 feet long and containing 120 pounds of natural uranium.
+
+19
+00:02:22,719 --> 00:02:25,920
+Twelve shut-off rods, filled with boron carbide,
+
+20
+00:02:25,920 --> 00:02:33,900
+operate in sequence in banks of 4, 3, 2, 1, 1, 1,
+
+21
+00:02:33,900 --> 00:02:38,940
+and a steel rod filled with slugs of cadmium provides fine control.
+
+22
+00:02:40,080 --> 00:02:43,440
+Below the top cooling water header and master plate
+
+23
+00:02:43,440 --> 00:02:48,800
+are four concrete shields to reduce the radiation to biologically safe levels
+
+24
+00:02:48,800 --> 00:02:52,960
+and three water-cooled shields to remove heat.
+
+25
+00:02:52,960 --> 00:03:02,520
+Below the Calandria, there are four water-cooled steel shields, and this lead masonite shield.
+
+26
+00:03:02,520 --> 00:03:10,580
+Surrounding the Calandria is graphite.
+
+27
+00:03:10,580 --> 00:03:13,920
+This will give you a better view.
+
+28
+00:03:13,920 --> 00:03:15,300
+Here is the Calandria.
+
+29
+00:03:15,300 --> 00:03:19,200
+Nine-inch layer of graphite reflector.
+
+30
+00:03:19,200 --> 00:03:22,080
+Space for thorium or J-rods.
+
+31
+00:03:22,080 --> 00:03:24,240
+Two more feet of graphite.
+
+32
+00:03:24,240 --> 00:03:27,520
+Two six-inch cast iron shields.
+
+33
+00:03:27,520 --> 00:03:29,960
+Separated by a cooling air channel.
+
+34
+00:03:29,960 --> 00:03:37,860
+And finally, seven or eight feet of concrete.
+
+35
+00:03:37,860 --> 00:03:42,700
+The cooling water from the Ottawa River comes in through the top water header, flows in
+
+36
+00:03:42,700 --> 00:03:48,060
+the aluminum sheath around each uranium rod, and as warm water, goes out through the bottom
+
+37
+00:03:48,060 --> 00:03:53,659
+header to delay tanks outside the building, where it is held before return to the Ottawa River.
+
+38
+00:03:54,780 --> 00:03:59,340
+Due to an operator's error, three shut-off rods had been raised from the reactor.
+
+39
+00:04:00,539 --> 00:04:06,379
+Although this condition was corrected, the rods failed to drop into place. However, they did fall
+
+40
+00:04:06,379 --> 00:04:11,580
+sufficiently to clear the indicator lights on the panel board in the reactor control room upstairs.
+
+41
+00:04:12,620 --> 00:04:17,819
+Unaware of this condition, an assistant was asked to raise a bank of four rods from the reactor.
+
+42
+00:04:18,060 --> 00:04:27,199
+in carrying out this order the assistant by mistake failed to maintain proper air pressure
+
+43
+00:04:27,199 --> 00:04:33,259
+at the heads of the shutoff rods with these seven rods out of the core the reactor rose quickly
+
+44
+00:04:33,259 --> 00:04:39,379
+above critical the assistant scrammed the reactor but since the accelerating air to the shutoff
+
+45
+00:04:39,379 --> 00:04:47,220
+rods had previously been released only one rod fell slowly into place the power continued to
+
+46
+00:04:47,220 --> 00:04:53,960
+rise but at a reduced rate. At about 20 megawatts, the rate increased, probably because cooling
+
+47
+00:04:53,960 --> 00:05:00,540
+water had then boiled out of some rod channels. The heavy water was then dumped from the calandria.
+
+48
+00:05:01,260 --> 00:05:09,160
+The power level fell after reaching 80 megawatts. In the excursion, cladding of a number of
+
+49
+00:05:09,160 --> 00:05:16,480
+fuel rods as well as some uranium melted. Outer sheaths burst and a number of calandria
+
+50
+00:05:16,480 --> 00:05:23,100
+tubes failed. At least one of the fuel rods blew apart and uranium fused together with
+
+51
+00:05:23,100 --> 00:05:36,560
+aluminum in some tubes of the Calandria. Cooling water, air, heavy water, helium gas, and intensely
+
+52
+00:05:36,560 --> 00:05:43,040
+radioactive fuel rod material mixed together and gushed into the basement. The NRX was
+
+53
+00:05:43,040 --> 00:05:48,300
+not designed to provide for repairs in the event of major damage. Moreover, restoration would have
+
+54
+00:05:48,300 --> 00:05:53,680
+been much simpler without the presence of so much radioactivity. There were many grams of fission
+
+55
+00:05:53,680 --> 00:05:59,040
+products in the metal and oxide in the reactor. Months later, this material still indicated an
+
+56
+00:05:59,040 --> 00:06:04,600
+activity of one curie per gram. Restoration of the NRX was started under these conditions.
+
+57
+00:06:05,560 --> 00:06:10,939
+Cooling water had to be kept on highly irradiated rods in the reactor. Immediate consideration had
+
+58
+00:06:10,939 --> 00:06:15,779
+to be given to the 100,000 gallons of water collecting in the basement. Since it was highly
+
+59
+00:06:15,779 --> 00:06:21,339
+contaminated with long-lived fish and products, it was pumped into holding tanks. During the period
+
+60
+00:06:21,339 --> 00:06:26,740
+when continued cooling was required, about 1 million gallons of contaminated water containing
+
+61
+00:06:26,740 --> 00:06:34,259
+10,000 curies of fish and products had to be dealt with. With storage tanks at capacity,
+
+62
+00:06:34,959 --> 00:06:40,240
+this pipeline had to be built in zero weather to carry water to a disposal area.
+
+63
+00:06:40,939 --> 00:06:49,939
+Here it seeped away through a mixture of sand and clay to a small creek where tests showed no radioactivity.
+
+64
+00:06:49,939 --> 00:06:57,939
+General contamination was present during removal of the steel cover plate, top water header, master plate,
+
+65
+00:06:57,939 --> 00:07:03,939
+four biological concrete shields, and the topmost steel shield.
+
+66
+00:07:03,939 --> 00:07:11,939
+The underside of the second steel thermal shield measured four Roentgens per hour in contact.
+
+67
+00:07:11,939 --> 00:07:18,939
+We had planned to use the third steel shield as protection for the workman during removal of damaged rod from the calandria.
+
+68
+00:07:18,939 --> 00:07:23,939
+It proved to be difficult to cut holes through this steel shield.
+
+69
+00:07:23,939 --> 00:07:31,939
+So it was removed, covered with a tarpaulin and buried at the disposal area.
+
+70
+00:07:31,939 --> 00:07:38,939
+Since the calandria had to be replaced, different methods of removing the damaged fuel rods were tried.
+
+71
+00:07:46,939 --> 00:07:54,939
+Using this temporary lead shield as a protection for the workmen, we trepanned the top tube sheet.
+
+72
+00:07:54,939 --> 00:08:06,620
+With this cutting tool and tube clamping device, the plan was to cut the calandria tube three
+
+73
+00:08:06,620 --> 00:08:09,139
+inches from the bottom tube sheet.
+
+74
+00:08:09,139 --> 00:08:13,079
+This was to prevent the highly irradiated material in the bottom of the calandria from
+
+75
+00:08:13,079 --> 00:08:16,939
+spilling into the basement.
+
+76
+00:08:16,939 --> 00:08:19,600
+It didn't work out as planned.
+
+77
+00:08:19,600 --> 00:08:24,759
+The uranium fuel rod and aluminum calandria tube had fused together.
+
+78
+00:08:24,759 --> 00:08:29,219
+cutting tool had not cut through the fuel rod, and this device pulled the fused rod
+
+79
+00:08:29,219 --> 00:08:34,819
+and calandria tube forcibly from the bottom tube sheet. Contamination spilled into the
+
+80
+00:08:34,819 --> 00:08:43,819
+basement. When that happened, this clamping tool was designed to pull the remainder of
+
+81
+00:08:43,819 --> 00:08:48,939
+the damaged rods and tubes bodily from the bottom tube sheet. Fish and products falling
+
+82
+00:08:48,940 --> 00:08:51,460
+into the basement were no longer a consideration.
+
+83
+00:08:55,260 --> 00:09:01,360
+And with this arrangement, we snared a number of active pieces of uranium lying on the bottom
+
+84
+00:09:01,360 --> 00:09:01,940
+tube sheet.
+
+85
+00:09:04,780 --> 00:09:09,960
+Damaged rods and active pieces were pulled from the calandria into this flask for shielding
+
+86
+00:09:09,960 --> 00:09:10,680
+before disposal.
+
+87
+00:09:11,600 --> 00:09:16,080
+The bottom water header had been removed, and after the damaged rods were taken out
+
+88
+00:09:16,080 --> 00:09:20,820
+of the calandria, the lead masonite shield was lowered and removed through the basement.
+
+89
+00:09:21,740 --> 00:09:25,820
+Supporting rods were attached to the shield up through the calandria where the overhead
+
+90
+00:09:25,820 --> 00:09:33,320
+crane lowered it. A high-pressure water hose was then used to flush the calandria of all
+
+91
+00:09:33,320 --> 00:09:37,800
+the bits and pieces which could not be snared. These went into a tray located in the space
+
+92
+00:09:37,800 --> 00:09:45,060
+below. To remove the calandria, 70 men were briefed with a scale model in
+
+93
+00:09:45,060 --> 00:09:49,260
+plywood. The procedure was rehearsed several times until each staff member
+
+94
+00:09:49,260 --> 00:10:00,180
+knew exactly what he had to do. Engineers were not satisfied that the training
+
+95
+00:10:00,180 --> 00:10:04,840
+with the plywood model was sufficient. A steel dummy of the same diameter was
+
+96
+00:10:04,840 --> 00:10:09,660
+made and filled with sand to the gross weight of the calandria. The dummy run
+
+97
+00:10:09,660 --> 00:10:14,860
+was made the night before removing the actual calandria. A practice run will
+
+98
+00:10:14,860 --> 00:10:19,080
+turn up errors such as these workmen standing near the dummy. This type of
+
+99
+00:10:19,080 --> 00:10:23,019
+training is recommended in a hazardous undertaking such as this where the real
+
+100
+00:10:23,019 --> 00:10:33,560
+calandria measured 100 renkins to 300 renkins per hour in contact. The actual
+
+101
+00:10:33,560 --> 00:10:37,560
+operation began the next day. An announcer in the reactor control room
+
+102
+00:10:37,560 --> 00:10:42,760
+called out each of the 28 steps involved in the removal. The lifting jig was
+
+103
+00:10:42,760 --> 00:10:47,400
+lowered. Dogs attached to the top tube sheet at the calandria and the stained
+
+104
+00:10:47,400 --> 00:10:52,100
+tank rose above the reactor structure. The lift was halted for four minutes to
+
+105
+00:10:52,100 --> 00:10:56,300
+take photographs and radiation measurements. We wanted particularly to
+
+106
+00:10:56,300 --> 00:11:00,200
+find out the condition of the expansion joint in the calandria. Photos showed it
+
+107
+00:11:00,200 --> 00:11:06,000
+be in good condition. The crane operator was about 75 feet away protected by a shielded cab.
+
+108
+00:11:06,440 --> 00:11:12,440
+He could not see the calandria and had to be guided by signals. He resumed the hoisting and
+
+109
+00:11:12,440 --> 00:11:18,040
+easily managed the radioactive calandria through the guide ring and onto the skid below just as
+
+110
+00:11:18,039 --> 00:11:29,799
+had handled the dummy the evening before.
+
+111
+00:11:29,799 --> 00:11:35,099
+Workmen shielded behind blocks of concrete, pulled draw ropes to enclose the calandria
+
+112
+00:11:35,099 --> 00:11:38,599
+and decrease the spread of radioactivity.
+
+113
+00:11:38,599 --> 00:11:42,360
+The yoke was lowered to back the crane hook off the attachment to the lifting jig, then
+
+114
+00:11:42,360 --> 00:11:45,899
+the calandria was lowered to the horizontal position.
+
+115
+00:11:45,899 --> 00:11:51,480
+The skid supporting the calandria was attached to a road grater, equipped with a lead shield to protect the operator.
+
+116
+00:11:52,879 --> 00:11:57,679
+A long blast of the plant whistle warned men on duty that the calandria was being towed out through the plant.
+
+117
+00:11:58,240 --> 00:12:03,340
+As this procession went by these buildings, continuous radiation measuring instruments went completely off scale.
+
+118
+00:12:03,759 --> 00:12:09,899
+The usually well-guarded main gate was strangely unattended and wide open as the calandria moved to the disposal area.
+
+119
+00:12:09,899 --> 00:12:17,279
+The calandria was placed in a slot in the sand and covered completely except for one end facing
+
+120
+00:12:17,279 --> 00:12:23,459
+the woods. This end was left exposed so we could later take samples of the aluminum tube sheet for
+
+121
+00:12:23,459 --> 00:12:31,620
+study and research. Some water remained in the calandria when it was removed. On the way to the
+
+122
+00:12:31,620 --> 00:12:38,159
+disposal area, some of this leaked out through the tarpaulin around the calandria. These workmen
+
+123
+00:12:38,159 --> 00:12:44,879
+scouring flushing and monitoring the road to make sure all the radioactive contamination is removed
+
+124
+00:12:48,799 --> 00:12:52,319
+laundering became a major problem during the dismantling of the reactor
+
+125
+00:12:53,120 --> 00:12:56,879
+every item of apparel had to be completely sorted cleaned and checked
+
+126
+00:12:57,439 --> 00:13:04,480
+for residual contamination before it was returned to service clothing costs in the first five days
+
+127
+00:13:04,480 --> 00:13:08,960
+after the accident went up by a factor of 20 times.
+
+128
+00:13:08,960 --> 00:13:12,879
+Later these costs were reduced to about twice the usual level
+
+129
+00:13:12,879 --> 00:13:16,800
+by adopting better methods of handling.
+
+130
+00:13:19,039 --> 00:13:23,039
+Throughout the dismantling of the reactor each piece was decontaminated
+
+131
+00:13:23,039 --> 00:13:27,519
+after it was removed. A large concrete pit adjacent to the reactor called the
+
+132
+00:13:27,519 --> 00:13:30,800
+swimming pool was used to decontaminate large pieces
+
+133
+00:13:30,800 --> 00:13:34,159
+of equipment. A temporary shelter with a removable top
+
+134
+00:13:34,159 --> 00:13:39,620
+over the pit allowed these large pieces to be handled by crane. This is the master plate
+
+135
+00:13:39,620 --> 00:13:47,299
+coming up from the swimming pool. Heavy water which had been dumped into the storage tank,
+
+136
+00:13:48,019 --> 00:13:52,799
+including some that had overflowed into the helium gas holder during the accident, was
+
+137
+00:13:52,799 --> 00:14:03,079
+removed and decontaminated by the use of ion exchange resins. The heavy water cooler, pump,
+
+138
+00:14:04,159 --> 00:14:12,219
+storage tanks were also removed and decontaminated. The concrete floor and
+
+139
+00:14:12,219 --> 00:14:16,480
+walls under the reactor were heavily contaminated. Whenever possible this
+
+140
+00:14:16,480 --> 00:14:21,659
+concrete was flame primed before chipping, grinding, and sandblasting. It
+
+141
+00:14:21,659 --> 00:14:26,079
+was found that contamination was much easier to remove when the concrete was
+
+142
+00:14:26,079 --> 00:14:32,100
+dry rather than wet. Each device has a vacuum attachment to carry off the dust
+
+143
+00:14:32,100 --> 00:14:38,700
+and grit, and workmen are still wearing respirators. Generally, removing a half inch of concrete
+
+144
+00:14:38,700 --> 00:14:43,659
+eliminated the radioactivity. However, in the basement where activity remained after
+
+145
+00:14:43,659 --> 00:14:50,420
+sandblasting, a six-inch layer of concrete was placed on the floor and walls. A vinyl-based
+
+146
+00:14:50,420 --> 00:14:55,100
+paint was sprayed to fix low levels of activity and to cover new concrete surfaces which were
+
+147
+00:14:55,100 --> 00:14:59,600
+left exposed. This paint forms a glossy surface which is easily decontaminated.
+
+148
+00:15:02,100 --> 00:15:13,100
+We found it easier to decontaminate the lead from the walls and floor in the lower header room by melting it down, skimming it, and remolding new sections.
+
+149
+00:15:13,100 --> 00:15:24,100
+In addition, the walls and floor of the new location for the heavy water storage tanks and coolers were re-lined with lead in case of any future spill of heavy water.
+
+150
+00:15:24,100 --> 00:15:33,100
+A number of undamaged fuel rods had been irradiated from 1,000 to 3,000 megawatt days per ton.
+
+151
+00:15:33,100 --> 00:15:38,220
+This is the method we used to preserve these rods during the 14-month period required to
+
+152
+00:15:38,220 --> 00:15:40,300
+restore the reactor.
+
+153
+00:15:40,300 --> 00:15:45,139
+If these rods had been exposed to stagnant water, they would have corroded and be of
+
+154
+00:15:45,139 --> 00:15:48,320
+no further use in the reactor.
+
+155
+00:15:48,320 --> 00:15:52,899
+Ruptured rods were stored in a trench system after removal from the pile.
+
+156
+00:15:52,899 --> 00:15:58,840
+Here they are being photographed for detailed study later.
+
+157
+00:15:58,840 --> 00:16:03,459
+This is a photograph made with the use of a pinhole camera.
+
+158
+00:16:03,459 --> 00:16:08,919
+The negative is also a pinhole photograph made with gamma rays streaming from radioactive
+
+159
+00:16:08,919 --> 00:16:10,419
+bits.
+
+160
+00:16:10,419 --> 00:16:17,179
+By superimposing the negative over the photograph, radioactive material is readily located at
+
+161
+00:16:17,179 --> 00:16:22,340
+these two points in the piping leading to the pumps.
+
+162
+00:16:22,340 --> 00:16:26,300
+The helium gas holder had been decontaminated and put back in place.
+
+163
+00:16:26,300 --> 00:16:32,080
+Now the heavy water coolers and the heavy water storage tank were similarly installed
+
+164
+00:16:32,080 --> 00:16:38,280
+in the location, which was equipped with lead walls and floor.
+
+165
+00:16:38,280 --> 00:16:42,840
+Radiation in contact with the first thermal shield below the calandria was 500 roentgens
+
+166
+00:16:42,840 --> 00:16:43,840
+per hour.
+
+167
+00:16:43,840 --> 00:16:49,740
+To permit NRX to operate at 40 megawatts compared to 30 megawatts before the accident, a new
+
+168
+00:16:49,740 --> 00:16:54,940
+stainless steel water-cooled sandwich was built to go over the first thermal shield below the
+
+169
+00:16:54,940 --> 00:17:00,860
+calandria it was designed to carry away excess heat when operating the reactor at the higher power
+
+170
+00:17:02,620 --> 00:17:06,220
+this shield is being checked for alignment with the new calandria before installation
+
+171
+00:17:11,019 --> 00:17:21,880
+the first job on the new calandria was to check it for leaks Helium at seven pounds pressure was applied to the vessel, and a helium leak detector
+
+172
+00:17:21,880 --> 00:17:30,620
+is used around the rolled joints in the tube sheets.
+
+173
+00:17:30,620 --> 00:17:33,960
+Three tubes had to be re-rolled several times.
+
+174
+00:17:33,960 --> 00:17:43,140
+As a result, these tubes became so thin that they had to be replaced.
+
+175
+00:17:43,140 --> 00:17:48,080
+In pulling the tubes, these black marks were the first indication that graphite had been
+
+176
+00:17:48,080 --> 00:17:51,680
+used in the fabrication of the calandria.
+
+177
+00:17:51,680 --> 00:17:56,840
+We had learned many years before that aluminum in contact with graphite will set up an electrolytic
+
+178
+00:17:56,840 --> 00:17:57,840
+reaction.
+
+179
+00:17:57,840 --> 00:18:06,700
+If this graphite were allowed to remain, the calandria would have a limited life.
+
+180
+00:18:06,700 --> 00:18:15,460
+This last-minute discovery caused a major delay in the program.
+
+181
+00:18:15,460 --> 00:18:19,759
+The calandria was moved from the reactor building to shops, where the men are pulling the tubes
+
+182
+00:18:19,759 --> 00:18:30,299
+without wearing respirators.
+
+183
+00:18:30,299 --> 00:18:35,460
+A hole was cut in the calandria shell, in order to clean out every particle of graphite
+
+184
+00:18:35,460 --> 00:18:36,579
+which might be inside.
+
+185
+00:18:38,079 --> 00:18:41,680
+We found that vigorous wiping with cloths was superior to vacuuming.
+
+186
+00:18:45,340 --> 00:18:48,299
+New tubes were received within two weeks of placing the order.
+
+187
+00:18:52,819 --> 00:18:56,059
+They were put into the calandria with the use of shim stock material
+
+188
+00:18:56,059 --> 00:18:59,100
+to prevent galling between the tubes and the tube sheets.
+
+189
+00:19:01,620 --> 00:19:05,200
+Plugs for gas and water passages were completely cleaned
+
+190
+00:19:05,200 --> 00:19:10,440
+and screwed into the tube sheets.
+
+191
+00:19:10,440 --> 00:19:14,100
+Then the vessel was completely checked to assure that there were no leaks
+
+192
+00:19:14,100 --> 00:19:19,480
+before it was transferred to the reactor building.
+
+193
+00:19:19,480 --> 00:19:26,480
+The calandria is now in place and this man is installing the alignment bracket on it.
+
+194
+00:19:27,400 --> 00:19:34,240
+The radiation coming up around this circle was 20 R per hour.
+
+195
+00:19:34,240 --> 00:19:38,960
+A new aluminum shield had been obtained to replace the third steel shield, which was previously buried.
+
+196
+00:19:39,500 --> 00:19:44,819
+Four holes in this shield were out of alignment with the calandria tubes as a result of welding stresses
+
+197
+00:19:44,819 --> 00:19:47,660
+and had to be re-drilled to center them properly.
+
+198
+00:19:48,640 --> 00:19:56,640
+The half-life of irradiated aluminum is very much shorter than that of iron-59 and cobalt-60 formed in steel when irradiated.
+
+199
+00:19:57,160 --> 00:20:00,180
+Hence, the aluminum shield can be removed much more quickly and safely.
+
+200
+00:20:04,240 --> 00:20:07,420
+The new aluminum shield was put into the reactor.
+
+201
+00:20:07,420 --> 00:20:09,420
+A steel shield followed.
+
+202
+00:20:09,420 --> 00:20:13,000
+Now the topmost thermal shield is being moved for installation.
+
+203
+00:20:23,680 --> 00:20:27,319
+Gas and water connections are being made above this shield.
+
+204
+00:20:27,319 --> 00:20:30,220
+Notice that the men are no longer wearing respirators.
+
+205
+00:20:34,240 --> 00:20:40,900
+Meanwhile, in the basement, these pressure switches, which had been individually decontaminated,
+
+206
+00:20:40,900 --> 00:20:44,480
+are being reinstalled.
+
+207
+00:20:44,480 --> 00:20:50,839
+During the accident, the contaminated water rose halfway up these panel boards.
+
+208
+00:20:50,839 --> 00:20:55,480
+The four concrete biological shields were returned to position, and followed by the
+
+209
+00:20:55,480 --> 00:20:57,420
+master plate.
+
+210
+00:20:57,420 --> 00:21:03,220
+Top and bottom water headers, control rod, shell off rods, and fuel rods were put back
+
+211
+00:21:03,220 --> 00:21:08,100
+into place and the reactor was started again.
+
+212
+00:21:15,720 --> 00:21:23,079
+During the restoration the safety system was carefully reviewed. Today NRX is
+
+213
+00:21:23,079 --> 00:21:27,460
+equipped with two independent means of shutting down the reactor. There are now
+
+214
+00:21:27,460 --> 00:21:32,860
+six individually operated shut-off rods of improved design. They cannot be raised
+
+215
+00:21:32,860 --> 00:21:35,860
+faster than one in thirty seconds.
+
+216
+00:21:35,860 --> 00:21:38,860
+Moreover, when the reactor is down to change fuel rods,
+
+217
+00:21:38,860 --> 00:21:41,860
+four of the shutoff rods are kept in an elevated position
+
+218
+00:21:41,860 --> 00:21:43,860
+as a safety bank.
+
+219
+00:21:44,860 --> 00:21:47,860
+These rods fall into the reactor if an unplanned increase
+
+220
+00:21:47,860 --> 00:21:50,860
+in reactivity occurs during shutdown.
+
+221
+00:21:50,860 --> 00:21:53,860
+A second change allows heavy water to be dumped
+
+222
+00:21:53,860 --> 00:21:58,860
+automatically on the scram and at a much increased dump rate.
+
+223
+00:21:58,860 --> 00:22:04,000
+Triplicated scram channels are used.
+
+224
+00:22:04,000 --> 00:22:08,920
+To reduce unnecessary shutdown, coincidence signals are required on a channel to scram
+
+225
+00:22:08,920 --> 00:22:10,780
+the reactor.
+
+226
+00:22:10,780 --> 00:22:15,420
+This permits servicing a single instrument while the reactor is operating with no loss
+
+227
+00:22:15,420 --> 00:22:17,420
+in safety.
+
+228
+00:22:17,420 --> 00:22:23,520
+The runaway caused a major disruption in the work of Chalk River.
+
+229
+00:22:23,519 --> 00:22:28,660
+Mechanically, a few uranium rods melted and damaged the calandria tubes.
+
+230
+00:22:29,700 --> 00:22:35,819
+Radioactive contamination prolonged the repair enormously, but at no time was out of control.
+
+231
+00:22:36,779 --> 00:22:40,059
+No case of harmful overexposure resulted.

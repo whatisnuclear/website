@@ -1,0 +1,839 @@
+1
+00:00:00,000 --> 00:00:29,000
+Let's assume that the transverse leakage
+
+2
+00:00:29,000 --> 00:00:31,000
+in one spatial direction can be approximated by a point-wise...
+
+3
+00:00:31,000 --> 00:00:33,000
+Liquid metal loops coupled to reactors.
+
+4
+00:00:33,000 --> 00:00:36,000
+We can get additional protection with an interlocking screen system.
+
+5
+00:00:36,000 --> 00:00:38,000
+The reactor coolant pump has a capacity of 90,000 gallons per minute.
+
+6
+00:00:38,000 --> 00:00:41,000
+Radiation polymerization of ethylene gas...
+
+7
+00:00:41,000 --> 00:00:44,000
+The multi-detector position scanner in conjunction with radioactive...
+
+8
+00:00:44,000 --> 00:00:48,000
+Our requirements are 10 to the 15th ions per cc temperature of 10 to the 9th degrees Kelvin.
+
+9
+00:00:48,000 --> 00:00:51,000
+A reduction of the delayed neutron precursors will make the control problem a little bit...
+
+10
+00:00:51,000 --> 00:00:55,000
+Even with the highest worth wrought out, the reactor should be shut down by at least two dollars.
+
+11
+00:00:55,000 --> 00:00:59,000
+can be used to create a chimney to stimulate the flow of gas.
+
+12
+00:01:00,000 --> 00:01:02,000
+This is the vocabulary of the nuclear age.
+
+13
+00:01:03,000 --> 00:01:05,000
+It's a new language or a new way of life.
+
+14
+00:01:05,000 --> 00:01:10,000
+A way of life that is rapidly changing under the impact of a growing nuclear industry.
+
+15
+00:01:11,000 --> 00:01:15,000
+Some of you working in that industry will have a part in the formation of its future.
+
+16
+00:01:17,000 --> 00:01:22,000
+It takes time and effort to prepare yourself to work in the fields of nuclear science and engineering.
+
+17
+00:01:22,000 --> 00:01:27,000
+Since it is your time that's involved, you'll have many questions, such as,
+
+18
+00:01:27,000 --> 00:01:29,000
+How well do these professions pay?
+
+19
+00:01:29,000 --> 00:01:33,000
+Will I be making contributions to man's knowledge, to his life?
+
+20
+00:01:39,000 --> 00:01:42,000
+Can a girl succeed in these fields?
+
+21
+00:01:42,000 --> 00:01:45,000
+Where do nuclear scientists and engineers live and work?
+
+22
+00:01:45,000 --> 00:01:55,000
+work? This film seeks to answer these questions for those of you who wish to take your place
+
+23
+00:01:55,000 --> 00:02:04,000
+in the nuclear age. Let's begin by surveying the three main areas in which nuclear scientists
+
+24
+00:02:04,000 --> 00:02:09,000
+and engineers work, primarily laboratories of the U.S. Atomic Energy Commission.
+
+25
+00:02:15,000 --> 00:02:26,000
+colleges and universities, and private nuclear industries.
+
+26
+00:02:26,000 --> 00:02:32,000
+The Atomic Energy Commission, or AEC, was established by Congress as an independent government agency
+
+27
+00:02:32,000 --> 00:02:44,000
+to develop atomic energy for the defense of our country and for peaceful purposes.
+
+28
+00:02:44,000 --> 00:02:53,000
+It is the job of the AEC to control and administer these programs, as well as approving construction and reactor safety standards.
+
+29
+00:02:57,000 --> 00:03:06,000
+In performing its mission, the AEC works through others, sponsoring many different programs and supporting various nuclear facilities.
+
+30
+00:03:08,000 --> 00:03:13,000
+Educational and research institutions and private industrial firms operate the laboratories.
+
+31
+00:03:14,000 --> 00:03:21,000
+They are always in need of the professional talent required to make the various facilities
+
+32
+00:03:21,000 --> 00:03:24,000
+and programs function.
+
+33
+00:03:24,000 --> 00:03:36,000
+Included in the program areas are the chemical processing of uranium ore, the fabrication
+
+34
+00:03:36,000 --> 00:03:44,000
+of special nuclear products and materials, the design, construction, and operation of
+
+35
+00:03:44,000 --> 00:03:56,000
+reactors, experiments designed to use nuclear energy for space exploration, for the generation
+
+36
+00:03:56,000 --> 00:04:13,000
+of electric power, the desalting of sea water, ship propulsion, preservation of food by irradiation,
+
+37
+00:04:13,000 --> 00:04:18,000
+the development of nuclear devices for the peaceful use of nuclear explosives for large
+
+38
+00:04:18,000 --> 00:04:41,000
+excavations, carbon dating various items of antiquity, the application of radioisotopes
+
+39
+00:04:41,000 --> 00:05:05,000
+to medicine, agriculture, industry, meteorology, crime detection, oceanography, and a host
+
+40
+00:05:05,000 --> 00:05:12,000
+of other activities.
+
+41
+00:05:12,000 --> 00:05:17,000
+This national laboratory is only one of the many operated by industrial or university
+
+42
+00:05:17,000 --> 00:05:24,000
+contractors in cooperation with the AEC.
+
+43
+00:05:24,000 --> 00:05:35,000
+Here nuclear scientists and engineers are involved in both basic and applied research.
+
+44
+00:05:35,000 --> 00:05:42,000
+from America and all parts of the world come here to learn and exchange information.
+
+45
+00:05:44,000 --> 00:05:47,000
+Our national laboratory facilities are among the finest in the world
+
+46
+00:05:47,000 --> 00:05:51,000
+and have an international reputation for accomplishing exciting things
+
+47
+00:05:51,000 --> 00:05:54,000
+at the frontiers of nuclear research.
+
+48
+00:05:54,000 --> 00:06:08,000
+Because creative ideas are so necessary to the development of nuclear energy, there is
+
+49
+00:06:08,000 --> 00:06:19,000
+endless opportunity to use all the know-how and ingenuity you possess.
+
+50
+00:06:19,000 --> 00:06:24,000
+For example, the atom can be used to produce electricity at sea or on land, and it can
+
+51
+00:06:24,000 --> 00:06:31,000
+be used to power space vehicles.
+
+52
+00:06:31,000 --> 00:06:36,000
+But nuclear scientists and engineers have not yet developed the best reactors for these
+
+53
+00:06:36,000 --> 00:06:41,000
+projects.
+
+54
+00:06:41,000 --> 00:06:50,000
+If you like mysteries and problem solving, then basic nuclear research is your thing.
+
+55
+00:06:50,000 --> 00:06:56,000
+Then again, if you like to see the end result, applied research might claim your enthusiasm.
+
+56
+00:06:56,000 --> 00:06:59,000
+You'll find there are always new ideas to challenge you.
+
+57
+00:06:59,000 --> 00:07:04,000
+For example, you might be involved with the diffusion process, which has become the keystone
+
+58
+00:07:04,000 --> 00:07:09,000
+of the nuclear business.
+
+59
+00:07:09,000 --> 00:07:15,000
+The gaseous diffusion plant is designed to separate fissionable U-235 atoms from the
+
+60
+00:07:15,000 --> 00:07:17,000
+more abundant U-238.
+
+61
+00:07:17,000 --> 00:07:23,000
+A steady supply of fissionable uranium is vital to nearly all nuclear activities.
+
+62
+00:07:23,000 --> 00:07:32,000
+It could then be your job to look for new ways to improve the diffusion process.
+
+63
+00:07:39,000 --> 00:07:48,000
+Or you could have the responsibility of improving plant operations
+
+64
+00:07:48,000 --> 00:07:53,000
+where uranium is cast, rolled, formed, and machined
+
+65
+00:07:53,000 --> 00:07:59,000
+into different shapes for reactive fuels, the most vital ingredient in our nation's nuclear energy program.
+
+66
+00:07:59,000 --> 00:08:12,000
+National laboratories generally have various types of reactors for basic research.
+
+67
+00:08:12,000 --> 00:08:23,000
+This high flux isotope reactor is used to create manmade elements heavier than plutonium.
+
+68
+00:08:23,000 --> 00:08:35,000
+These elements are isotopes which, so far, have not been found in nature.
+
+69
+00:08:35,000 --> 00:08:40,000
+Using knowledge gained from these isotopes, scientists hope to penetrate such still unexplained
+
+70
+00:08:40,000 --> 00:08:48,000
+phenomena as the formation of stars and the universe.
+
+71
+00:08:48,000 --> 00:08:52,000
+Basic to the operations of all reactors and the handling of radioactive materials is the
+
+72
+00:08:52,000 --> 00:08:58,000
+monitoring and control of radioactivity. This profession of health physics is a relatively
+
+73
+00:08:58,000 --> 00:09:04,000
+new field requiring a good understanding of the physical, chemical and biological principles
+
+74
+00:09:04,000 --> 00:09:05,000
+of radiation.
+
+75
+00:09:05,000 --> 00:09:20,000
+If your interests center on this field, you might be responsible for a plant's radiation
+
+76
+00:09:20,000 --> 00:09:25,000
+protection and training program or doing research on the nature and effects of various types
+
+77
+00:09:25,000 --> 00:09:39,000
+of nuclear radiation.
+
+78
+00:09:39,000 --> 00:09:44,000
+In addition, health physicists contribute to the development of guidelines on radiation
+
+79
+00:09:44,000 --> 00:09:47,000
+exposure levels for industry and the general public.
+
+80
+00:09:54,000 --> 00:09:58,000
+Suppose your interest in basic research was focused on gaining
+
+81
+00:09:58,000 --> 00:10:02,000
+a better understanding of the tremendous forces that bind the atom together.
+
+82
+00:10:08,000 --> 00:10:14,000
+You might use a complex accelerating device such as the cyclotron as a key tool in your research.
+
+83
+00:10:14,000 --> 00:10:24,000
+By shooting high-speed particles approaching the speed of light into selected targets,
+
+84
+00:10:24,000 --> 00:10:35,000
+these devices can change one element into another.
+
+85
+00:10:35,000 --> 00:10:43,000
+Cyclotrons can produce stable as well as radioactive isotopes.
+
+86
+00:10:43,000 --> 00:10:47,000
+As a staff member of a national laboratory, you might prefer designing and developing
+
+87
+00:10:47,000 --> 00:10:53,000
+experimental equipment for controlling the tremendous energy that is released when hydrogen
+
+88
+00:10:53,000 --> 00:10:58,000
+atoms are forced to combine with one another.
+
+89
+00:10:58,000 --> 00:11:04,000
+This energy, similar to that responsible for the sun's heat and light, is called thermonuclear
+
+90
+00:11:04,000 --> 00:11:09,000
+energy and the process is called nuclear fusion.
+
+91
+00:11:09,000 --> 00:11:13,000
+release of this energy has great implications for all mankind since the
+
+92
+00:11:13,000 --> 00:11:19,000
+supply of all other existing fuels including uranium is limited. Once
+
+93
+00:11:19,000 --> 00:11:24,000
+harnessed the energy available from the hydrogen and sea water is estimated as
+
+94
+00:11:24,000 --> 00:11:34,000
+being enough to supply the world's power needs for untold centuries. Among the
+
+95
+00:11:34,000 --> 00:11:38,000
+many significant contributions of nuclear science and engineering are the
+
+96
+00:11:38,000 --> 00:11:46,000
+fascinating substances called radioisotopes.
+
+97
+00:11:46,000 --> 00:11:50,000
+These are extremely valuable to researchers in many scientific disciplines when used as
+
+98
+00:11:50,000 --> 00:12:01,000
+sources of radiation or as tracers.
+
+99
+00:12:01,000 --> 00:12:07,000
+Most AEC laboratories have a biomedical research program directed, for one thing, toward understanding
+
+100
+00:12:07,000 --> 00:12:20,000
+the changes that occur when living tissues are exposed to radiation.
+
+101
+00:12:20,000 --> 00:12:29,000
+Such experiments have contributed valuable information to the field of radiation genetics.
+
+102
+00:12:29,000 --> 00:12:34,000
+Living cells, organs, and organisms are carefully analyzed in the hope of learning more about
+
+103
+00:12:34,000 --> 00:12:40,000
+of the fundamental life processes, including the diagnosis, prevention, and treatment
+
+104
+00:12:40,000 --> 00:12:44,000
+of the many malfunctions and diseases which continue to afflict mankind.
+
+105
+00:12:50,000 --> 00:12:53,000
+Many complex problems arise in nuclear research
+
+106
+00:12:53,000 --> 00:12:56,000
+and development, requiring numerous calculations
+
+107
+00:12:56,000 --> 00:13:00,000
+and the creation of mathematical models to test a new concept or idea.
+
+108
+00:13:00,000 --> 00:13:15,000
+High speed computers and data processors are handy tools in solving these problems.
+
+109
+00:13:15,000 --> 00:13:20,000
+Constant progress is being made in nuclear science and engineering, which makes it imperative
+
+110
+00:13:20,000 --> 00:13:24,000
+for those in the field to keep up with advancements.
+
+111
+00:13:24,000 --> 00:13:34,000
+For this reason, all scientific installations collect and catalog published materials related
+
+112
+00:13:34,000 --> 00:13:37,000
+to the many fields.
+
+113
+00:13:37,000 --> 00:13:42,000
+In this way, staff members can keep abreast of the progress made in any field which interests
+
+114
+00:13:42,000 --> 00:13:48,000
+them.
+
+115
+00:13:48,000 --> 00:13:53,000
+Wherever you work as a nuclear scientist or engineer, you'll be encouraged to write reports
+
+116
+00:13:53,000 --> 00:13:57,000
+about your research for scientific journals and other publications which are generally
+
+117
+00:13:57,000 --> 00:14:04,000
+distributed worldwide.
+
+118
+00:14:04,000 --> 00:14:15,000
+Informative seminars are held to help keep the staff up to date on the latest developments.
+
+119
+00:14:15,000 --> 00:14:18,000
+Staff members may attend national and international meetings.
+
+120
+00:14:18,000 --> 00:14:22,000
+These usually attract specialists from all over the world.
+
+121
+00:14:22,000 --> 00:14:26,000
+As a nuclear scientist or engineer, you'll find that except for information which affects
+
+122
+00:14:26,000 --> 00:14:38,000
+their nation's security, there's a free exchange of knowledge.
+
+123
+00:14:38,000 --> 00:14:43,000
+In private industry, there are unlimited opportunities for nuclear scientists and engineers.
+
+124
+00:14:43,000 --> 00:14:48,000
+Many such companies have extensive research and development programs, as well as production
+
+125
+00:14:48,000 --> 00:14:54,000
+activities.
+
+126
+00:14:54,000 --> 00:14:58,000
+This installation is an example of a firm whose staff is engaged in applying the energy
+
+127
+00:14:58,000 --> 00:15:11,000
+of the atom to a wide variety of peaceful uses.
+
+128
+00:15:11,000 --> 00:15:16,000
+In a company such as this, you could be involved in the design, development, and the improvement
+
+129
+00:15:16,000 --> 00:15:20,000
+power reactors manufactured by the company to generate electricity for
+
+130
+00:15:20,000 --> 00:15:24,000
+public consumption. The business of producing mass quantities of electricity
+
+131
+00:15:24,000 --> 00:15:29,000
+by means of the atom is relatively new.
+
+132
+00:15:35,000 --> 00:15:40,000
+Companies engaged in the manufacture of nuclear power plants and their customers
+
+133
+00:15:40,000 --> 00:15:45,000
+the electric utilities are constantly searching for ways to increase the
+
+134
+00:15:45,000 --> 00:15:52,000
+capacity and efficiency of their products.
+
+135
+00:15:52,000 --> 00:15:57,000
+The purpose is to provide the power required by our ever-expanding population and industry
+
+136
+00:15:57,000 --> 00:16:05,000
+at the lowest possible cost.
+
+137
+00:16:05,000 --> 00:16:10,000
+This means the development of new concepts in reactor design and construction, as well
+
+138
+00:16:10,000 --> 00:16:18,000
+as improved materials.
+
+139
+00:16:18,000 --> 00:16:23,000
+As a nuclear engineer employed by private industry, your responsibility could involve
+
+140
+00:16:23,000 --> 00:16:37,000
+the designing of nuclear instrumentation for research, production, and training purposes.
+
+141
+00:16:37,000 --> 00:16:42,000
+Some firms are engaged in controlled fusion research in the belief that the energy released
+
+142
+00:16:42,000 --> 00:16:48,000
+from this type of nuclear reaction will ultimately replace coal and oil and even nuclear fission
+
+143
+00:16:48,000 --> 00:16:57,000
+as man's main source of energy.
+
+144
+00:16:57,000 --> 00:17:02,000
+Experiments here are concerned with containing the plasma formed from deuterium, an isotope
+
+145
+00:17:02,000 --> 00:17:09,000
+of hydrogen at super high temperatures so that the deuterium nuclei will unite or fuse.
+
+146
+00:17:09,000 --> 00:17:14,000
+In fusion, enormous amounts of energy are released which could be used to produce electric
+
+147
+00:17:14,000 --> 00:17:19,000
+power.
+
+148
+00:17:19,000 --> 00:17:23,000
+Not all nuclear scientists or engineers are interested in research and development.
+
+149
+00:17:23,000 --> 00:17:28,000
+There are those who derive more personal satisfaction from working on the production or construction
+
+150
+00:17:28,000 --> 00:17:38,000
+side of a private nuclear industry's activities.
+
+151
+00:17:38,000 --> 00:17:42,000
+If you're this type of person, you could be employed in developing and improving a company's
+
+152
+00:17:42,000 --> 00:17:51,000
+fuel production program or involved in the fabrication of other reactor components.
+
+153
+00:17:51,000 --> 00:17:55,000
+On the other hand, you might be a part of a company team, which supervises the installation
+
+154
+00:17:55,000 --> 00:17:59,000
+and initial operation of the power and research reactors it manufactures.
+
+155
+00:18:00,000 --> 00:18:03,000
+This type of work will take you to many parts of the United States
+
+156
+00:18:03,000 --> 00:18:05,000
+and to many countries around the world.
+
+157
+00:18:12,000 --> 00:18:16,000
+AEC Laboratories and Private Industry will offer you ample opportunity
+
+158
+00:18:16,000 --> 00:18:18,000
+to advance your knowledge and proficiency.
+
+159
+00:18:19,000 --> 00:18:23,000
+Courses may be given by various universities at AEC installations
+
+160
+00:18:23,000 --> 00:18:26,000
+to help you earn credits toward an advanced degree.
+
+161
+00:18:28,000 --> 00:18:33,000
+Otherwise, you can continue your education in a nearby college or university.
+
+162
+00:18:33,000 --> 00:18:38,000
+In many instances, your employer will assume all or most of the tuition costs.
+
+163
+00:18:43,000 --> 00:18:47,000
+Wherever you work, it will be to your benefit to further your education
+
+164
+00:18:47,000 --> 00:18:52,000
+because as your proficiency increases, so will your opportunities for job and financial advancement.
+
+165
+00:18:53,000 --> 00:19:03,000
+With the growing demand for nuclear scientists and engineers has come an increasing need
+
+166
+00:19:03,000 --> 00:19:07,000
+for teachers in these fields.
+
+167
+00:19:07,000 --> 00:19:11,000
+Should you become attracted to campus life, your association with faculty members in your
+
+168
+00:19:11,000 --> 00:19:20,000
+own or other fields can be a daily rewarding stimulation.
+
+169
+00:19:20,000 --> 00:19:25,000
+Teaching offers many rewards, but perhaps the greatest is the satisfaction that comes
+
+170
+00:19:25,000 --> 00:19:34,000
+from your ability to communicate what you know to others.
+
+171
+00:19:34,000 --> 00:19:38,000
+Teaching is deeply involved in the shaping of the characters, the ambitions, and the
+
+172
+00:19:38,000 --> 00:19:45,000
+goals of those who come to learn.
+
+173
+00:19:45,000 --> 00:19:52,000
+At the college and university level, research is an integral part of teaching.
+
+174
+00:19:52,000 --> 00:20:04,000
+Many significant discoveries are made where faculty members combine instruction with research.
+
+175
+00:20:04,000 --> 00:20:08,000
+Teaching allows considerably more freedom than is found in most professions.
+
+176
+00:20:08,000 --> 00:20:13,000
+Opportunities often exist for professors to pursue their research at a national laboratory
+
+177
+00:20:13,000 --> 00:20:14,000
+or at another university.
+
+178
+00:20:19,000 --> 00:20:24,000
+Many universities also have agreements with foreign universities, whereby faculty members are
+
+179
+00:20:24,000 --> 00:20:27,000
+exchanged on an annual basis.
+
+180
+00:20:35,000 --> 00:20:40,000
+Most universities also provide professors with sabbatical leaves, which can be a year off
+
+181
+00:20:40,000 --> 00:20:43,000
+with partial or full salary.
+
+182
+00:20:43,000 --> 00:20:47,000
+during which time they may pursue new studies or conduct scientific investigations at other
+
+183
+00:20:47,000 --> 00:20:56,000
+research centers.
+
+184
+00:20:56,000 --> 00:21:01,000
+Many professors supplement their income by serving as consultants to industrial concerns
+
+185
+00:21:01,000 --> 00:21:05,000
+and research organizations.
+
+186
+00:21:05,000 --> 00:21:12,000
+write newspaper and magazine articles, textbooks, novels, science fiction stories and the like.
+
+187
+00:21:18,000 --> 00:21:22,000
+Some appear on radio and television as science commentators or instructors.
+
+188
+00:21:25,000 --> 00:21:29,000
+But by far the greatest reward for those who teach springs from the deep feeling of personal
+
+189
+00:21:29,000 --> 00:21:34,000
+satisfaction that the work they are doing is contributing to the overall well-being
+
+190
+00:21:34,000 --> 00:21:46,000
+and progress of their fellow man.
+
+191
+00:21:46,000 --> 00:21:51,000
+Working as a nuclear scientist or engineer, you'll find your living, as a rule, better
+
+192
+00:21:51,000 --> 00:21:55,000
+than average.
+
+193
+00:21:55,000 --> 00:22:03,000
+Most areas offer modern, spacious homes and excellent schools.
+
+194
+00:22:03,000 --> 00:22:08,000
+find in your community cultural and recreational activities to satisfy practically every taste and
+
+195
+00:22:08,000 --> 00:22:26,000
+interest and if you're someone who likes to devote your leisure time to the great outdoors
+
+196
+00:22:26,000 --> 00:22:30,000
+you'll have almost unlimited opportunities anywhere you happen to be employed
+
+197
+00:22:33,000 --> 00:22:41,000
+It's, of course, impossible to show you every area in which nuclear scientists and engineers
+
+198
+00:22:41,000 --> 00:22:47,000
+are presently playing and will go on playing a vital role in man's progress to a better
+
+199
+00:22:47,000 --> 00:22:52,000
+life.
+
+200
+00:22:52,000 --> 00:22:57,000
+Research institutions, national and international organizations, such federal government agencies
+
+201
+00:22:57,000 --> 00:23:02,000
+as the AEC, NASA, the Department of Defense, and many others
+
+202
+00:23:02,000 --> 00:23:08,000
+will need more and more nuclear specialists as the nuclear fields continue to grow and expand.
+
+203
+00:23:19,000 --> 00:23:24,000
+And there's no question, women can and do succeed in these professions.
+
+204
+00:23:27,000 --> 00:23:42,000
+Many companies, colleges, and universities, research institutions, and government agencies
+
+205
+00:23:42,000 --> 00:23:47,000
+already have women on their staffs, and more would be employed if more were available and
+
+206
+00:23:47,000 --> 00:23:50,000
+qualified.
+
+207
+00:23:50,000 --> 00:23:55,000
+scientists and engineers find their work professionally and personally stimulating.
+
+208
+00:24:05,000 --> 00:24:11,000
+If you have the interest, the capabilities, and the required training, you can join in the high
+
+209
+00:24:11,000 --> 00:24:17,000
+adventure, the sense of achievement, and the many rewards that accrue to those exploring the
+
+210
+00:24:17,000 --> 00:24:23,000
+fascinating world of the atom. All you need to do is decide to take your place in the nuclear age.

@@ -1,0 +1,527 @@
+1
+00:01:30,000 --> 00:01:34,000
+BONUS, FIRST NUCLEAR POWER PLANT IN THE TROPICS.
+
+2
+00:01:44,000 --> 00:01:48,000
+BONUS, FOR BOILING WATER NUCLEAR SUPERHEAT,
+
+3
+00:01:48,000 --> 00:01:51,000
+IS ONE OF THE ATOMIC ENERGY COMMISSION'S
+
+4
+00:01:51,000 --> 00:01:53,000
+POWER DEMONSTRATION PROJECTS.
+
+5
+00:02:00,000 --> 00:02:07,000
+With its superheat core, it represents one advanced step in AEC's program for the development
+
+6
+00:02:10,159 --> 00:02:17,159
+of power reactors. And AEC is meeting three-quarters of the total cost of about $24 million.
+
+7
+00:02:30,000 --> 00:02:33,860
+Surrounded by the complex plumbing of nuclear technology,
+
+8
+00:02:34,560 --> 00:02:38,159
+silent and clean as no conventional power plant has ever been,
+
+9
+00:02:38,900 --> 00:02:47,699
+the new reactor will supply superheated steam to a turbo generator designed to produce about 17 megawatts of electricity.
+
+10
+00:02:50,099 --> 00:02:53,920
+A continuous supply of baseload power.
+
+11
+00:02:53,920 --> 00:03:04,040
+Although BONUS is not a large plant, as nuclear power reactors go, it forms part of an ambitious
+
+12
+00:03:04,040 --> 00:03:14,860
+plan to supply this island with the power its blooming economy needs.
+
+13
+00:03:14,860 --> 00:03:19,440
+BONUS will join the conventional generating facilities of the Puerto Rico Water Resources
+
+14
+00:03:19,439 --> 00:03:28,199
+Authority, co-sponsor of the reactor project. A power grid built up largely during the past
+
+15
+00:03:28,199 --> 00:03:37,919
+25 years, a foundation for the industrial development of the island. And so in 1960,
+
+16
+00:03:37,919 --> 00:03:43,939
+the interests of the Commonwealth of Puerto Rico and the United States Atomic Energy Commission
+
+17
+00:03:43,939 --> 00:03:47,960
+converged on this lonely headland of Punta Iguera.
+
+18
+00:03:56,419 --> 00:03:58,960
+The work of clearing the site began.
+
+19
+00:04:43,939 --> 00:04:55,199
+To the formal groundbreaking ceremony came those concerned with the future of this commonwealth
+
+20
+00:04:55,199 --> 00:05:01,000
+and with progress in the peaceful uses of nuclear energy.
+
+21
+00:05:01,000 --> 00:05:16,120
+like Governor Munoz Mari and Rafael Urrutia of the Water Resources Authority, Congressman
+
+22
+00:05:16,120 --> 00:05:24,180
+Chet Holofield of the Joint Committee on Atomic Energy.
+
+23
+00:05:24,180 --> 00:05:29,560
+Together they moved the first symbolic shovelful of Earth,
+
+24
+00:05:29,560 --> 00:05:32,959
+a token of the joint effort that would unite Americans
+
+25
+00:05:32,959 --> 00:05:38,120
+of the island and the mainland in the months ahead.
+
+26
+00:05:38,120 --> 00:05:42,160
+Corbonus is being created through an interlocking pattern of cooperation.
+
+27
+00:05:45,220 --> 00:05:49,360
+AEC is responsible for and will own the nuclear portion
+
+28
+00:05:49,360 --> 00:05:52,460
+of the plant.
+
+29
+00:05:52,459 --> 00:05:58,579
+The Water Resources Authority will provide the turbo generator and other conventional facilities required,
+
+30
+00:05:58,579 --> 00:06:01,620
+and will operate the entire plant.
+
+31
+00:06:05,519 --> 00:06:09,899
+In turn, AEC has contracted with the Maxson Construction Company,
+
+32
+00:06:09,899 --> 00:06:16,199
+working from designs prepared by Combustion Engineering Incorporated and Jackson and Moreland.
+
+33
+00:06:22,460 --> 00:06:36,620
+At the same time, far from this site of Punta Iguera, other elements of BONUS are beginning
+
+34
+00:06:36,620 --> 00:06:39,560
+to materialize.
+
+35
+00:06:39,560 --> 00:06:44,360
+At the Pacific Coast Engineering Company's plant in California, the reactor's pressure
+
+36
+00:06:44,360 --> 00:06:46,680
+vessel takes form.
+
+37
+00:06:46,680 --> 00:06:52,040
+This is one of the most critical components of the reactor, and it's certainly the biggest.
+
+38
+00:07:22,040 --> 00:07:30,080
+welding and drilling, its 61 tons are shaped to the most exacting standards of integrity.
+
+39
+00:07:30,080 --> 00:07:36,500
+For this vessel must contain the reactor core, the nuclear furnace, a tempest of boiling
+
+40
+00:07:36,500 --> 00:07:45,560
+water and superheated steam. The fundamental achievement of the atomic age, a controlled
+
+41
+00:07:45,560 --> 00:07:52,120
+nuclear chain reaction is put to work in the power reactor.
+
+42
+00:07:52,120 --> 00:07:55,560
+The heat energy of the fission reaction is harnessed
+
+43
+00:07:55,560 --> 00:08:02,600
+to produce steam to turn turbines to generate electricity.
+
+44
+00:08:03,959 --> 00:08:07,800
+The Atomic Energy Commission has sponsored the design and development of
+
+45
+00:08:07,800 --> 00:08:14,680
+a number of different types of power reactors to gain broad experience for future large-scale development.
+
+46
+00:08:21,400 --> 00:08:27,080
+BONUS is an outgrowth of a power reactor concept that uses water as the moderator,
+
+47
+00:08:27,080 --> 00:08:28,680
+reflector, and coolant.
+
+48
+00:08:31,160 --> 00:08:37,320
+That is, the steam produced in this central boiler region at a temperature of 540 degrees
+
+49
+00:08:37,320 --> 00:08:42,540
+Fahrenheit is passed through special super heater fuel elements located on
+
+50
+00:08:42,540 --> 00:08:48,820
+the periphery of the core. No auxiliary heating is necessary.
+
+51
+00:08:53,379 --> 00:08:58,580
+The superheated steam flows out of the reactor core at 900 degrees Fahrenheit
+
+52
+00:08:58,580 --> 00:09:04,340
+and 850 pounds per square inch. Temperatures and pressures for most
+
+53
+00:09:04,340 --> 00:09:18,040
+efficient use in the latest types of turbo generating equipment.
+
+54
+00:09:18,039 --> 00:09:25,039
+It's February 1963, and the bonus pressure vessel has reached the harbor of San Juan.
+
+55
+00:09:48,039 --> 00:09:55,039
+Now another part of the job begins, to move this 61 ton object across the length of the
+
+56
+00:09:56,599 --> 00:10:03,599
+island without a scratch or dent to its precisely finished features.
+
+57
+00:10:48,039 --> 00:11:15,620
+At Punta Iguera, the containment shell has been completed, a gas-tight building constructed
+
+58
+00:11:15,620 --> 00:11:21,299
+to hold internal pressures of five pounds to the square inch.
+
+59
+00:11:21,299 --> 00:11:29,060
+It will house all of the reactor and generating facilities.
+
+60
+00:11:29,060 --> 00:11:33,039
+The turbo generator has been installed by the water resources authority.
+
+61
+00:11:33,039 --> 00:11:40,419
+The space beyond awaits the pressure vessel.
+
+62
+00:11:40,419 --> 00:11:45,419
+Now, like the key piece in a giant jigsaw puzzle, it moves into place.
+
+63
+00:12:10,419 --> 00:12:33,419
+Once the pressure vessel is in position, it will be wrapped and embedded in a 10-foot
+
+64
+00:12:33,419 --> 00:12:38,179
+shield of steel, water, and concrete.
+
+65
+00:12:38,179 --> 00:12:43,319
+Meanwhile, the innumerable connections are being completed.
+
+66
+00:12:43,319 --> 00:12:47,459
+Steam outlets from the superheaters,
+
+67
+00:12:47,459 --> 00:12:51,360
+water recirculation piping, and all
+
+68
+00:12:51,360 --> 00:12:54,459
+of the other facilities that will feed and cool,
+
+69
+00:12:54,459 --> 00:12:58,339
+control, and safeguard the reactor.
+
+70
+00:12:58,340 --> 00:13:01,620
+the instruments that will analyze its moods and responses.
+
+71
+00:13:06,060 --> 00:13:09,680
+Into the waiting pressure vessel will go the internals,
+
+72
+00:13:09,680 --> 00:13:13,160
+the core structure that holds the uranium fuel assemblies
+
+73
+00:13:13,160 --> 00:13:19,019
+amid a torrent of water, 9,000 gallons per minute.
+
+74
+00:13:19,019 --> 00:13:26,139
+Once installed inside the pressure vessel, the core structure will not be removed.
+
+75
+00:13:26,139 --> 00:13:29,819
+This is the last look, the final inspection.
+
+76
+00:13:32,699 --> 00:13:36,460
+Impurities cannot be tolerated in a reactor system.
+
+77
+00:13:36,460 --> 00:13:40,220
+At this stage of installation, the requirement for cleanliness,
+
+78
+00:13:40,220 --> 00:13:43,419
+always rigorous, becomes absolute.
+
+79
+00:13:43,420 --> 00:14:01,040
+Because the bonus reactor is intended to fill a specific need, illuminating one area in
+
+80
+00:14:01,040 --> 00:14:07,220
+research and development, it differs from every other reactor in its design, its engineering
+
+81
+00:14:07,220 --> 00:14:11,440
+and construction.
+
+82
+00:14:11,440 --> 00:14:18,280
+Of the $18 million being expended by AEC on bonus, a sizable amount must go into research
+
+83
+00:14:18,280 --> 00:14:30,260
+and development.
+
+84
+00:14:30,260 --> 00:14:36,600
+Each of AEC's reactor projects imposes demands upon the designer and engineer that are different
+
+85
+00:14:36,600 --> 00:14:38,820
+and difficult.
+
+86
+00:14:38,820 --> 00:14:50,460
+that must be solved each time from the origins of their complexity.
+
+87
+00:14:50,460 --> 00:14:57,020
+Beside technological know-how, what else is going into the building a bonus?
+
+88
+00:14:57,020 --> 00:15:03,340
+There are thousands of hours of plain, hard physical labor, work that differs from routine
+
+89
+00:15:03,340 --> 00:15:07,540
+by the need to meet exacting standards at every step.
+
+90
+00:15:25,540 --> 00:15:29,540
+There is the slow increase in knowledge that comes from one day to the next,
+
+91
+00:15:29,740 --> 00:15:31,840
+from one project to the next.
+
+92
+00:15:31,840 --> 00:15:38,360
+The growth of experience in the ways of harnessing and handling this new source of power safely.
+
+93
+00:15:52,200 --> 00:15:56,960
+And, there is the unexpected setback, breaking abruptly into the schedule.
+
+94
+00:15:56,960 --> 00:16:00,620
+This time, it's one of the recirculating water pumps.
+
+95
+00:16:01,840 --> 00:16:07,620
+This whole phase of installation comes to a halt as the mechanics work intently to fix it.
+
+96
+00:16:20,840 --> 00:16:23,460
+Estimated delay, three days.
+
+97
+00:16:24,160 --> 00:16:27,240
+Actual recorded delay, five hours.
+
+98
+00:16:31,840 --> 00:16:35,940
+Slowly, in all of its complexity, the reactor takes form.
+
+99
+00:16:40,399 --> 00:16:43,220
+These are control rod drive units.
+
+100
+00:16:45,300 --> 00:16:48,720
+They will power the two types of control rods
+
+101
+00:16:48,720 --> 00:16:51,980
+whose movements start and stop the chain reaction
+
+102
+00:16:51,980 --> 00:16:54,320
+and maintain safe operation.
+
+103
+00:17:01,840 --> 00:17:12,460
+They must transmit the finest adjustment or drop instantly into the core when the scram
+
+104
+00:17:12,460 --> 00:17:21,779
+button is pushed to shut down the reactor.
+
+105
+00:17:21,779 --> 00:17:27,100
+Now bonus is being subjected to continuous cycles of testing as components are checked
+
+106
+00:17:27,099 --> 00:17:44,619
+against components, systems against systems, and final adjustments completed.
+
+107
+00:17:44,619 --> 00:17:50,279
+Finally the reactor, complete and functional, is ready to receive its nuclear fuel, fabricated
+
+108
+00:17:50,279 --> 00:17:56,439
+by Combustion Engineering.
+
+109
+00:17:56,440 --> 00:18:10,799
+The finely wrought fuel assemblies, 96 of them, contain a total of 4 1⁄2 tons of uranium.
+
+110
+00:18:10,799 --> 00:18:19,380
+One by one they're lowered into place deep within the core structure.
+
+111
+00:18:19,380 --> 00:18:44,860
+Under the boiler section goes 64 enriched uranium oxide clad with zircaloy II.
+
+112
+00:18:44,860 --> 00:18:49,400
+For the super heater section, 32 fuel assemblies are provided.
+
+113
+00:18:49,400 --> 00:18:55,620
+They contain enriched uranium oxide clad within canal, inserted within stainless steel pressure
+
+114
+00:18:55,620 --> 00:19:19,760
+tubes for the passage of steam.
+
+115
+00:19:19,759 --> 00:19:25,660
+The evening of April 13th 1964 brings a culmination.
+
+116
+00:19:25,660 --> 00:19:28,500
+It's called the initial criticality test.
+
+117
+00:19:28,500 --> 00:19:37,279
+The moment when the reactor is to control nuclear energy for the first time.
+
+118
+00:19:37,279 --> 00:19:39,099
+Everyone is busy tonight.
+
+119
+00:19:39,099 --> 00:19:43,579
+The reactor operators at the controls, the other members of the staff double checking
+
+120
+00:19:43,579 --> 00:19:48,960
+the data that feeds off the instrument panels.
+
+121
+00:19:48,960 --> 00:20:04,159
+2033 hours, April 13th, 1964.
+
+122
+00:20:04,159 --> 00:20:09,539
+In the long succession of events that marks any major construction project, this is one
+
+123
+00:20:09,539 --> 00:20:14,579
+of the peaks when these men can look back over their work and look forward
+
+124
+00:20:14,579 --> 00:20:19,740
+into the future and find both of them good.
+
+125
+00:20:31,200 --> 00:20:36,420
+BONUS is producing power under the operation of these staff members of the
+
+126
+00:20:36,420 --> 00:20:43,420
+Water Resources Authority. They were trained at the AEC's Puerto Rico Nuclear Center and
+
+127
+00:20:43,460 --> 00:20:50,460
+other AEC sites. AEC is paying the costs of operation while the Water Resources Authority
+
+128
+00:20:54,380 --> 00:21:01,380
+is purchasing the steam produced by the reactor from AEC. Then, out of this cooperation, power
+
+129
+00:21:01,380 --> 00:21:08,560
+Then, out of this cooperation, power from BONUS is moving across the green hills to
+
+130
+00:21:08,560 --> 00:21:24,360
+the cities and farms and factories of Puerto Rico.
+
+131
+00:21:24,360 --> 00:21:31,140
+The knowledge and practical experience obtained through BONUS is helping bring power, cheap,
+
+132
+00:21:31,140 --> 00:21:34,140
+abundant power, to many parts of the world.

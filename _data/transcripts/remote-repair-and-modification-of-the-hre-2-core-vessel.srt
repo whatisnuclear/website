@@ -1,0 +1,831 @@
+1
+00:00:00,000 --> 00:00:25,160
+The highly radioactive core vessel of homogeneous reactor experiment number two,
+
+2
+00:00:25,160 --> 00:00:31,160
+known as HRE2, lies out of sight 20 feet below the thick concrete blocks
+
+3
+00:00:31,160 --> 00:00:32,679
+on which these men are standing.
+
+4
+00:00:34,560 --> 00:00:41,240
+They work under the most restricted conditions, at times with a periscope providing limited visibility,
+
+5
+00:00:41,879 --> 00:00:44,700
+at other times with no view of the work below.
+
+6
+00:00:48,060 --> 00:00:52,240
+The men are manipulating tools that reach down into the core vessel.
+
+7
+00:00:53,179 --> 00:00:58,539
+They are repairing and modifying the vessel to improve the reactor's operational behavior.
+
+8
+00:01:02,240 --> 00:01:06,640
+Homogeneous Reactor Experiment No. 2 began its nuclear operation in this building
+
+9
+00:01:06,640 --> 00:01:09,900
+at Oak Ridge National Laboratory in December 1957.
+
+10
+00:01:14,659 --> 00:01:20,359
+This cutaway model of the building shows the reactor in its cell below ground level.
+
+11
+00:01:20,359 --> 00:01:27,599
+operation of hre2 provides information regarding the feasibility of homogeneous power reactors
+
+12
+00:01:27,599 --> 00:01:37,599
+fueled with an aqueous solution hre2 was designed as a five megawatt two region reactor consisting
+
+13
+00:01:37,599 --> 00:01:45,560
+of core and blanket systems a pump continuously circulates a dilute heavy water solution of
+
+14
+00:01:45,560 --> 00:01:51,740
+urinal sulfate, copper sulfate, and sulfuric acid, through the core where
+
+15
+00:01:51,740 --> 00:01:57,120
+fissioning occurs, and heat is generated at temperatures up to 300 degrees
+
+16
+00:01:57,120 --> 00:02:04,060
+centigrade. Past a pressurizer, which provides system pressures up to 2,000
+
+17
+00:02:04,060 --> 00:02:09,939
+pounds per square inch, through a heat exchanger where heat is released and
+
+18
+00:02:09,939 --> 00:02:13,699
+and steam is produced to drive the turbine generator.
+
+19
+00:02:16,099 --> 00:02:20,979
+The fuel circulates back through the core vessel at a rate of 400 gallons per minute.
+
+20
+00:02:24,419 --> 00:02:29,219
+Uranium in the fuel solution is highly enriched in the 2,35 isotope.
+
+21
+00:02:29,860 --> 00:02:35,620
+The dissolved copper sulfate is a catalyst or recombination of radiolitic gas.
+
+22
+00:02:35,620 --> 00:02:49,099
+The blanket system contains a pump, a pressurizer, and a heat exchanger similar to those in the
+
+23
+00:02:49,099 --> 00:02:54,780
+fuel system.
+
+24
+00:02:54,780 --> 00:02:59,219
+Blanket fluid circulates in the space between the core vessel and the pressure vessel at
+
+25
+00:02:59,219 --> 00:03:02,560
+a rate of 230 gallons per minute.
+
+26
+00:03:02,560 --> 00:03:09,800
+This fluid is heavy water, which serves as a neutron reflector.
+
+27
+00:03:09,800 --> 00:03:16,000
+The welded core vessel, the first large Zircaloy vessel ever made, was an experiment in both
+
+28
+00:03:16,000 --> 00:03:19,120
+fabrication and application.
+
+29
+00:03:19,120 --> 00:03:27,140
+The conical inlet section contains nine perforated plates to diffuse the solution and provide
+
+30
+00:03:27,140 --> 00:03:33,520
+slug flow through the sphere.
+
+31
+00:03:33,520 --> 00:03:40,740
+The reactor was operating at design conditions of 5 megawatts when, in April 1958, a hole
+
+32
+00:03:40,740 --> 00:03:50,560
+formed in the core vessel and allowed fuel solution to transfer to the blanket system.
+
+33
+00:03:50,560 --> 00:03:55,380
+Reactor operating procedures were revised to permit operation with fuel in both the
+
+34
+00:03:55,379 --> 00:04:02,019
+the core and blanket systems. Without changes in equipment or piping, the operation continued
+
+35
+00:04:02,019 --> 00:04:11,120
+for two years. Six long runs, the last for 105 days of continuous operation, were made
+
+36
+00:04:11,120 --> 00:04:18,259
+in accomplishing most of the original objectives. At the end of this period, a second hole formed
+
+37
+00:04:18,259 --> 00:04:21,779
+in the core vessel.
+
+38
+00:04:21,779 --> 00:04:27,420
+After formation of the first hole, considerable remote viewing was done inside the vessel
+
+39
+00:04:27,420 --> 00:04:32,579
+while the reactor was shut down between runs.
+
+40
+00:04:32,579 --> 00:04:37,959
+It was found that several diffuser plates were loose, but the hole was below the top
+
+41
+00:04:37,959 --> 00:04:43,680
+five plates and could not be viewed from inside the core.
+
+42
+00:04:43,680 --> 00:04:47,340
+By use of this special viewing device,
+
+43
+00:04:47,340 --> 00:04:50,340
+lowered into the blanket region,
+
+44
+00:04:50,340 --> 00:04:54,720
+the outside wall of the core was inspected to determine whether the hole originated
+
+45
+00:04:54,720 --> 00:04:58,120
+from a weld failure, a metal defect,
+
+46
+00:04:58,120 --> 00:05:00,120
+or from some other cause.
+
+47
+00:05:02,920 --> 00:05:07,579
+This is the hole as seen in the mirror of the blanket viewing device.
+
+48
+00:05:07,579 --> 00:05:12,259
+It was concluded that the failure was probably due to a melt through.
+
+49
+00:05:13,680 --> 00:05:23,879
+Further full-scale hydrodynamic tests were made to verify the mechanism whereby such
+
+50
+00:05:23,879 --> 00:05:30,379
+a melt through might occur and to develop an improved core flow pattern.
+
+51
+00:05:30,379 --> 00:05:35,120
+When small metal chips and sand particles were introduced into this mock up of the core
+
+52
+00:05:35,120 --> 00:05:41,519
+vessel, it was determined that there were local regions of flow separation and low velocity
+
+53
+00:05:41,519 --> 00:05:47,859
+along the wall of the diffuser cone on the upper diffuser plates and along the wall of
+
+54
+00:05:47,859 --> 00:05:51,399
+the lower portion of the hemisphere.
+
+55
+00:05:51,399 --> 00:05:56,219
+Uranium absorbing scale might accumulate in these regions and increase the temperature
+
+56
+00:05:56,219 --> 00:06:01,759
+of the fluid to a point where boiling and chemical phase changes could cause further
+
+57
+00:06:01,759 --> 00:06:09,079
+uranium deposition and melting of the diffuser plates and the core wall.
+
+58
+00:06:09,079 --> 00:06:13,800
+When some of the plates were loosened, as in the reactor, they were floated by hydraulic
+
+59
+00:06:13,800 --> 00:06:21,000
+forces and created non-uniform flow distribution.
+
+60
+00:06:21,000 --> 00:06:28,360
+Particulate material still accumulated along the wall when the flow direction was reversed.
+
+61
+00:06:28,360 --> 00:06:33,479
+With plates removed from the 90-degree cone and with flow in the normal direction, there
+
+62
+00:06:33,479 --> 00:06:38,860
+were still areas where scale-like particles could accumulate.
+
+63
+00:06:38,860 --> 00:06:44,800
+with the flow reversed and the plates removed, the particulate material did not collect along
+
+64
+00:06:44,800 --> 00:06:51,900
+the wall. Although the flow distribution is not ideal, turbulence in the vessel should
+
+65
+00:06:51,900 --> 00:07:00,180
+provide acceptable cooling of the wall. Any corrosion scale on the wall should be removed
+
+66
+00:07:00,180 --> 00:07:06,800
+at low solution flow velocities. Combined results of hydrodynamic studies, operation
+
+67
+00:07:06,800 --> 00:07:13,800
+of the reactor and visual observations led to certain conclusions. It was decided to
+
+68
+00:07:15,900 --> 00:07:22,900
+modify and repair the core vessel. The top five diffuser plates would be removed. Corrosion
+
+69
+00:07:25,060 --> 00:07:32,060
+products and uranium bearing scale would be cleaned from the core wall. Wall thickness
+
+70
+00:07:32,060 --> 00:07:40,939
+thickness would be measured ultrasonically. A specimen from the wall in the region of the
+
+71
+00:07:40,939 --> 00:07:47,519
+second hole would be removed for metallographic examination to verify that the holes had resulted
+
+72
+00:07:47,519 --> 00:07:58,439
+from melting of the wall. The hole would then be taper reamed to prepare it for plugging. Both
+
+73
+00:07:58,439 --> 00:08:05,800
+Both holes would be patched.
+
+74
+00:08:05,800 --> 00:08:13,160
+And the direction of flow would be reversed so that fuel solution would enter at the top.
+
+75
+00:08:13,160 --> 00:08:17,899
+This work had to be done under extremely restricted conditions.
+
+76
+00:08:17,899 --> 00:08:26,279
+The only access to the vessel assembly is through small flanged openings.
+
+77
+00:08:26,280 --> 00:08:33,180
+The blanket access is three and a half inches in diameter, and the core access is only two
+
+78
+00:08:33,180 --> 00:08:35,680
+and an eighth inches.
+
+79
+00:08:35,680 --> 00:08:42,980
+The radiation level in the empty vessel is greater than 100,000 rontgens per hour, permitting
+
+80
+00:08:42,980 --> 00:08:48,580
+approach only through five foot thick concrete shielding plugs.
+
+81
+00:08:48,580 --> 00:08:54,759
+These plugs are 20 feet above the lower portion of the vessel.
+
+82
+00:08:54,759 --> 00:09:00,019
+In the working area, airflow must be carefully controlled because much of the contamination
+
+83
+00:09:00,019 --> 00:09:02,559
+is loose particulate matter.
+
+84
+00:09:02,559 --> 00:09:11,700
+Furthermore, the intensely radioactive particles contaminate any tools placed in the vessel.
+
+85
+00:09:11,700 --> 00:09:17,480
+To accomplish the objectives under these conditions, special devices and tools were designed and
+
+86
+00:09:17,480 --> 00:09:20,240
+built.
+
+87
+00:09:20,240 --> 00:09:26,039
+And in this dimensionally accurate mock-up, the devices were thoroughly tested and programmed
+
+88
+00:09:26,039 --> 00:09:30,960
+before use in the reactor.
+
+89
+00:09:30,960 --> 00:09:35,840
+Devices were developed for viewing and inspecting both the inside and the outside of the core
+
+90
+00:09:35,840 --> 00:09:37,399
+vessel.
+
+91
+00:09:37,399 --> 00:09:44,620
+For viewing within the core vessel, a periscope seven-eighths of an inch in outside diameter
+
+92
+00:09:44,620 --> 00:09:50,659
+and 21 feet long was developed by Lerma Engineering Corporation.
+
+93
+00:09:50,659 --> 00:09:55,060
+It contains cerium-stabilized radiation resistant lenses
+
+94
+00:09:55,060 --> 00:09:59,220
+and is equipped with interchangeable objective elements.
+
+95
+00:09:59,220 --> 00:10:04,019
+The lenses provide a 180 degree field of vision straight down
+
+96
+00:10:04,019 --> 00:10:09,519
+or a 30 degree field at a right angle.
+
+97
+00:10:09,519 --> 00:10:15,180
+Detailed examination of the vessel as well as assistance with some of the operations,
+
+98
+00:10:15,180 --> 00:10:19,240
+was provided by this instrument.
+
+99
+00:10:19,240 --> 00:10:23,740
+Lighting was supplied separately by 500 watt projector lamps
+
+100
+00:10:23,740 --> 00:10:28,580
+caged and mounted on 1⁄4 inch tubing.
+
+101
+00:10:28,580 --> 00:10:34,520
+In some instances, viewing was essential, but room in the 2 and 1⁄8 inch opening
+
+102
+00:10:34,520 --> 00:10:38,340
+could not be spared for lights and a periscope.
+
+103
+00:10:38,340 --> 00:10:43,740
+A device was therefore developed at Oak Ridge National Laboratory, which incorporated a
+
+104
+00:10:43,740 --> 00:10:49,580
+zirconium oxide arc lamp and lens system to project a beam of light through a hole in
+
+105
+00:10:49,580 --> 00:10:53,240
+a mirror to the area to be viewed.
+
+106
+00:10:53,240 --> 00:10:59,740
+The reflected image is viewed in the mirror with a monocular.
+
+107
+00:10:59,740 --> 00:11:04,940
+Several operations inside the core were guided by viewing devices which permitted looking
+
+108
+00:11:04,940 --> 00:11:07,960
+into the holes from the blanket side.
+
+109
+00:11:07,960 --> 00:11:13,440
+The blanket viewing device, shown being tested in the mock-up, had to enter the blanket vessel
+
+110
+00:11:13,440 --> 00:11:16,680
+through a 3 1⁄2-inch pipe.
+
+111
+00:11:16,680 --> 00:11:21,840
+Then it had to reach behind the core vessel with a horizontal 30-inch arm carrying 200
+
+112
+00:11:21,840 --> 00:11:25,120
+watts of lighting and a scanning mirror.
+
+113
+00:11:25,120 --> 00:11:31,160
+The device has a monocular and fixed mirror at the top with a fixed mirror and a rotating
+
+114
+00:11:31,160 --> 00:11:35,720
+mirror at the bottom.
+
+115
+00:11:35,720 --> 00:11:39,800
+articulated manipulator carrying a miniature television camera was
+
+116
+00:11:39,800 --> 00:11:45,000
+developed. The device has three hydraulically operated elbows and one
+
+117
+00:11:45,000 --> 00:11:52,279
+wrist and can be programmed to any spot on the core vessel. Manipulators were
+
+118
+00:11:52,279 --> 00:11:57,220
+made to accurately position ultrasonic transducers for measuring the thickness
+
+119
+00:11:57,220 --> 00:12:04,240
+of the spherical and conical sections of the core wall. Measurements made during
+
+120
+00:12:04,240 --> 00:12:09,600
+the life of the reactor along with original fabrication data permit
+
+121
+00:12:09,600 --> 00:12:17,500
+periodic determination of corrosion rates working tools for each operation
+
+122
+00:12:17,500 --> 00:12:24,519
+were designed built and thoroughly tested in a mock-up the first mechanical
+
+123
+00:12:24,519 --> 00:12:28,960
+operation was to have been the cutting of diffuser plates free from the vessel
+
+124
+00:12:28,960 --> 00:12:36,259
+wall by use of milling cutters and saw blade segments these tools were not used
+
+125
+00:12:36,259 --> 00:12:43,960
+in the reactor because the plates were found to be already loose the plates
+
+126
+00:12:43,960 --> 00:12:50,960
+range from 10 to 22 inches in diameter since the access is only two and an
+
+127
+00:12:50,960 --> 00:12:57,300
+eighth inches in diameter this miniature heliar cutting torch and manipulator
+
+128
+00:12:57,300 --> 00:13:03,780
+were devised to cut the plates into narrow strips.
+
+129
+00:13:03,780 --> 00:13:09,940
+A protective angle iron supports the fragile manipulator during handling.
+
+130
+00:13:09,940 --> 00:13:17,440
+The angle iron is removed and the torch is lowered into position in the mock-up.
+
+131
+00:13:17,440 --> 00:13:24,120
+The operator with no view of his work lowers the manipulator hook to pick up the top plate.
+
+132
+00:13:24,120 --> 00:13:36,159
+plate, 22 inches in diameter, is raised, is lowered over the ground electrode clamp, falls
+
+133
+00:13:36,159 --> 00:13:46,159
+into position, and is latched. Cuts are then made as simulated here. Gauges assure that
+
+134
+00:13:46,159 --> 00:13:53,539
+each strip will be one and a half inches wide. A check run is made after each cut to guarantee
+
+135
+00:13:53,539 --> 00:14:01,500
+that the cut was complete. The operator controls the torch by instruments, the width of the
+
+136
+00:14:01,500 --> 00:14:10,779
+cut by gauges and the length of the cut by a travel indicating scale. The actual cutting
+
+137
+00:14:10,779 --> 00:14:17,579
+is done underwater and the procedure was thoroughly demonstrated at the test station. At the reactor
+
+138
+00:14:17,580 --> 00:14:21,139
+In eight hours, three plates were lifted, latched, and cut.
+
+139
+00:14:30,379 --> 00:14:36,480
+The radioactive strips are fished from the vessel with the aid of the projected light viewer.
+
+140
+00:14:36,480 --> 00:14:41,640
+Five plates were cut, and the strips were fished from the core vessel in two weeks.
+
+141
+00:14:41,640 --> 00:14:44,960
+The strips were deposited in a carrier above the core access
+
+142
+00:14:44,960 --> 00:14:52,820
+flange and below the shielding plugs. A variety of articulated tools were built for removing
+
+143
+00:14:52,820 --> 00:15:01,019
+objects from the vessel. The core was cleaned and descaled with an ordinary wire brush driven
+
+144
+00:15:01,019 --> 00:15:07,740
+by a small air motor. The brush and motor are mounted on a manipulator, which presses
+
+145
+00:15:07,740 --> 00:15:13,600
+the brush against the core wall.
+
+146
+00:15:13,600 --> 00:15:18,399
+Consecutive overlapping passes are made over the spherical and 90 degree conical portion
+
+147
+00:15:18,399 --> 00:15:20,960
+of the vessel.
+
+148
+00:15:20,960 --> 00:15:26,379
+An impression device obtained exact dimensional definition of both holes.
+
+149
+00:15:26,379 --> 00:15:31,320
+Each impression was made by a thermoplastic block electrically heated and then driven
+
+150
+00:15:31,320 --> 00:15:35,120
+into the hole by an air cylinder.
+
+151
+00:15:35,120 --> 00:15:39,399
+device is lowered into the core vessel mock up to previously calibrated points.
+
+152
+00:15:39,399 --> 00:15:44,240
+The arm is raised and the operator searches for the lower hole with the tip
+
+153
+00:15:44,240 --> 00:15:50,740
+of the impression device. His only view is through the blanket viewing device.
+
+154
+00:15:51,700 --> 00:15:57,460
+When the operator finds the hole, he extends the air cylinder and drives the
+
+155
+00:15:57,460 --> 00:16:07,379
+block. Satisfied with the alignment, he withdraws it, heats the plastic, drives it into place,
+
+156
+00:16:07,840 --> 00:16:14,780
+permits it to cool, and removes it from the hole. This is a thermoplastic block before use,
+
+157
+00:16:15,540 --> 00:16:21,580
+one that has been driven into the lower hole, a clean replica of the contaminated master,
+
+158
+00:16:21,580 --> 00:16:25,460
+and a zircaloy patch for the lower hole,
+
+159
+00:16:26,200 --> 00:16:28,960
+contour milled using the plastic master.
+
+160
+00:16:30,220 --> 00:16:35,639
+A replica of the upper hole was made to provide the pilot for this specimen removal saw.
+
+161
+00:16:35,820 --> 00:16:42,720
+This tool had a two-fold purpose, to obtain a specimen for metallographic examination
+
+162
+00:16:42,720 --> 00:16:47,540
+and to perform one step in the preparation of the hole for plugging.
+
+163
+00:16:47,540 --> 00:16:57,780
+This is a photograph of the upper hole as formed and this picture shows the hole after brittle
+
+164
+00:16:57,780 --> 00:17:06,660
+scale had been chipped away. The circle indicates the area to be removed by the saw. The pilot for
+
+165
+00:17:06,660 --> 00:17:14,420
+the saw had to fit in the hole and provide the front radial bearing. The saw shown in the
+
+166
+00:17:14,420 --> 00:17:23,460
+developmental stage has an erecting mechanism a light a periscope a means for rotating the saw
+
+167
+00:17:25,460 --> 00:17:32,340
+a cylinder for advancing and withdrawing it and a device for retaining the specimen
+
+168
+00:17:33,220 --> 00:17:40,900
+the tool successfully retrieved a specimen for examination and created a round hole
+
+169
+00:17:40,900 --> 00:17:46,140
+as shown by this photograph.
+
+170
+00:17:46,140 --> 00:17:51,040
+This photograph shows the hole after it was reamed to a conical surface by a tool similar
+
+171
+00:17:51,040 --> 00:17:56,500
+to the specimen removal saw.
+
+172
+00:17:56,500 --> 00:18:00,460
+The patch placement tool performed the final operations.
+
+173
+00:18:00,460 --> 00:18:08,180
+The upper end has the erecting mechanism.
+
+174
+00:18:08,180 --> 00:18:30,640
+the toggle nut placement mechanism, the bolt torquing drive, and the bolt release.
+
+175
+00:18:30,640 --> 00:18:36,980
+At the lower end, mounted for insertion, is the patch with gold gasket and the toggle
+
+176
+00:18:36,980 --> 00:18:43,240
+bolt assembly in the closed position. The tool is erected, the toggle is inserted through
+
+177
+00:18:43,240 --> 00:18:51,019
+the hole, is opened and pulled back against the wall of the vessel for tightening. With
+
+178
+00:18:51,019 --> 00:18:56,180
+the patch insertion tool in position in the mockup, the operator looks into the blanket
+
+179
+00:18:56,180 --> 00:19:05,220
+viewer and aligns the end of the toggle bolt with the hole. The bolt is inserted, it springs
+
+180
+00:19:05,220 --> 00:19:08,680
+is pulled back and tightened.
+
+181
+00:19:11,240 --> 00:19:16,720
+This is the patch for the lower hole as it appears in place in the vessel mock-up
+
+182
+00:19:16,720 --> 00:19:18,980
+and in the reactor.
+
+183
+00:19:24,420 --> 00:19:27,539
+Since the upper hole is in a region of greater heating
+
+184
+00:19:27,539 --> 00:19:33,220
+and lower flow velocity, it is desirable that the patch be set in the tapered hole
+
+185
+00:19:33,220 --> 00:19:36,160
+so as to be flush with the vessel wall.
+
+186
+00:19:37,400 --> 00:19:41,299
+The zircaloy bolt has a flush countersunk head
+
+187
+00:19:41,299 --> 00:19:45,539
+with a hexagonal wrenching head of nickel brazed to it.
+
+188
+00:19:46,819 --> 00:19:50,220
+The head will dissolve during pre-critical operations,
+
+189
+00:19:50,880 --> 00:19:53,539
+leaving a flush patch and bolt assembly.
+
+190
+00:19:55,000 --> 00:19:58,039
+Here is the patch in place in the reactor vessel
+
+191
+00:19:58,039 --> 00:20:02,200
+before operation of the reactor has dissolved the bolt head.
+
+192
+00:20:03,220 --> 00:20:13,779
+Because the tools became highly contaminated in use, special procedures and precautions were
+
+193
+00:20:13,779 --> 00:20:20,920
+required to protect the personnel and prevent the spread of particulate contamination. Each
+
+194
+00:20:20,920 --> 00:20:28,539
+tool after having served its purpose had to be withdrawn and disposed of. Contaminated
+
+195
+00:20:28,539 --> 00:20:33,519
+components of HRE 2 had been replaced routinely throughout the reactor's
+
+196
+00:20:33,519 --> 00:20:40,119
+lifetime then beginning in March 1960 work began on repairing and modifying
+
+197
+00:20:40,119 --> 00:20:47,799
+the very heart of the reactor throughout the work there was not a single case of
+
+198
+00:20:47,799 --> 00:20:55,480
+overexposure of personnel to radiation and by August 1960 the last tool had
+
+199
+00:20:55,480 --> 00:21:03,360
+been removed from the core. Despite the radiation hazard, the necessity that only remote tools be
+
+200
+00:21:03,360 --> 00:21:11,099
+used, the limited visibility, and in some cases total lack of visibility, extremely complex
+
+201
+00:21:11,099 --> 00:21:18,740
+mechanical operations were performed in the irradiated core vessel. Thus, the practicality
+
+202
+00:21:18,740 --> 00:21:25,099
+of extremely difficult and totally unanticipated maintenance of circulating fuel reactors
+
+203
+00:21:25,100 --> 00:21:26,380
+was demonstrated.
+
+204
+00:21:27,320 --> 00:21:31,000
+The reactor resumed nuclear operation at low power
+
+205
+00:21:31,000 --> 00:21:35,900
+with flow reversed through the core on November 7, 1960.
+
+206
+00:21:36,820 --> 00:21:39,840
+The degree of improvement in the reactor's behavior
+
+207
+00:21:39,840 --> 00:21:42,980
+will be revealed in continued operation
+
+208
+00:21:42,980 --> 00:21:45,260
+with the remodeled core.

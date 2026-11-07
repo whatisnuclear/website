@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:26,000
+The Advanced Test Reactor.
+
+2
+00:00:30,000 --> 00:00:38,000
+Predictions of the lifetime characteristics of materials operating in a reactor environment
+
+3
+00:00:38,000 --> 00:00:50,000
+is made possible by accelerated irradiation in test reactors.
+
+4
+00:00:50,000 --> 00:00:59,000
+One of the first test reactors is the 40 megawatt materials testing reactor.
+
+5
+00:00:59,000 --> 00:01:05,000
+This design achieves neutron fluxes of 3 times 10 to the 14th fast neutrons per square centimeter
+
+6
+00:01:05,000 --> 00:01:14,000
+per second.
+
+7
+00:01:14,000 --> 00:01:21,000
+The 175 megawatt engineering test reactor attains fluxes of 9 times 10 to the 14th fast
+
+8
+00:01:21,000 --> 00:01:30,000
+neutrons per square centimeter per second.
+
+9
+00:01:30,000 --> 00:01:39,000
+The ATR will provide even more severe test environments.
+
+10
+00:01:39,000 --> 00:01:45,000
+The ATR uses the flux trap concept, which produces high flux in an experimental region
+
+11
+00:01:45,000 --> 00:01:52,000
+surrounded by fuel.
+
+12
+00:01:52,000 --> 00:01:56,000
+Placing several of these flux traps in a single pressure vessel is a logical extension of
+
+13
+00:01:56,000 --> 00:01:59,000
+this concept.
+
+14
+00:01:59,000 --> 00:02:04,000
+Economies are possible by combining five flux traps in a single core with one control system
+
+15
+00:02:04,000 --> 00:02:08,000
+and one set of auxiliary hardware.
+
+16
+00:02:08,000 --> 00:02:16,000
+Finally, a serpentine fuel configuration evolves, providing multiple flux traps in an efficient
+
+17
+00:02:16,000 --> 00:02:21,000
+circular geometry.
+
+18
+00:02:21,000 --> 00:02:28,000
+The ATR will operate at 250 thermal megawatts, achieving experimental peak fast fluxes of
+
+19
+00:02:28,000 --> 00:02:35,000
+1.5 times 10 to the 15th fast neutrons per square centimeter per second.
+
+20
+00:02:35,000 --> 00:02:44,000
+There are five 50 megawatt fuel regions, the four lobes, and the center region.
+
+21
+00:02:44,000 --> 00:02:48,000
+The core configuration provides nine six-inch flux traps.
+
+22
+00:02:48,000 --> 00:02:57,000
+Each trap surrounds an experiment pressure tube.
+
+23
+00:02:57,000 --> 00:03:01,000
+The flux spectrum in any trap can be modified by changing the composition of the moderating
+
+24
+00:03:01,000 --> 00:03:14,000
+material. Lobe power can be varied from 40 to 60 megawatts. This power tilt is
+
+25
+00:03:14,000 --> 00:03:18,000
+achieved principally by rotating beryllium shim cylinders which have a
+
+26
+00:03:18,000 --> 00:03:25,000
+hafnium plate covering one-third of their surfaces. As the cylinders are
+
+27
+00:03:25,000 --> 00:03:31,000
+rotated, the desirable constant vertical cosine flux distribution is maintained.
+
+28
+00:03:31,000 --> 00:03:38,000
+As fuel is consumed, power distribution is maintained by further movement of the cylinders
+
+29
+00:03:38,000 --> 00:03:42,000
+and of hapnium-necked shim rods.
+
+30
+00:03:42,000 --> 00:03:53,000
+Individual rods are either fully in or out, and do not alter vertical flux distribution.
+
+31
+00:03:53,000 --> 00:03:59,000
+To achieve its advanced performance, the ATR uses special fuel, control components and
+
+32
+00:03:59,000 --> 00:04:04,000
+support structures.
+
+33
+00:04:04,000 --> 00:04:09,000
+A major vertical support and alignment structure is the aluminum neck shim housing, which is
+
+34
+00:04:09,000 --> 00:04:15,000
+drilled to receive haptium shim rods.
+
+35
+00:04:15,000 --> 00:04:19,000
+It supports the flux trap baffle tubes.
+
+36
+00:04:19,000 --> 00:04:26,000
+The baffle tubes surround each of the nine experiment pressure tubes.
+
+37
+00:04:26,000 --> 00:04:30,000
+Cylindrical safety rods surround the pressure tubes.
+
+38
+00:04:30,000 --> 00:04:34,000
+The rods have an upper hafnium poison section.
+
+39
+00:04:34,000 --> 00:04:39,000
+Removable inserts in the follower are used to vary the neutron moderation.
+
+40
+00:04:39,000 --> 00:04:47,000
+The rods are driven from below the core by a rack and pinion.
+
+41
+00:04:47,000 --> 00:04:51,000
+operation the poison section is above the core, the aluminum follower is in the
+
+42
+00:04:51,000 --> 00:04:58,000
+flux trap region. When the reactor is scrammed, the rods drop under the
+
+43
+00:04:58,000 --> 00:05:05,000
+combined action of gravity, spring, and hydraulic forces. Safety rods can be
+
+44
+00:05:05,000 --> 00:05:10,000
+placed in any one of eight positions. On the basis of critical tests, only five
+
+45
+00:05:10,000 --> 00:05:13,000
+safety rods are installed.
+
+46
+00:05:17,000 --> 00:05:20,000
+The 24 hafnium neck shim rods are driven from below.
+
+47
+00:05:25,000 --> 00:05:28,000
+Two rods are used to provide fine regulating control.
+
+48
+00:05:29,000 --> 00:05:33,000
+The other neck rods are used as full-in or full-out shim rods.
+
+49
+00:05:37,000 --> 00:05:40,000
+The 16 outer shim cylinders operate in pairs.
+
+50
+00:05:40,000 --> 00:05:57,000
+They are driven from above the core.
+
+51
+00:05:57,000 --> 00:06:05,000
+The fuel annulus is made up of 40 elements, each 48 inches long.
+
+52
+00:06:05,000 --> 00:06:11,000
+Each 45 degree fuel element sector contains 19 equally spaced curved plates.
+
+53
+00:06:11,000 --> 00:06:18,000
+The aluminum clad fuel is uranium oxide dispersed in an aluminum matrix and contains boron carbide
+
+54
+00:06:18,000 --> 00:06:28,000
+as burnable poison.
+
+55
+00:06:28,000 --> 00:06:32,000
+The complete core is surrounded by a beryllium reflector.
+
+56
+00:06:32,000 --> 00:06:38,000
+The holes in the reflector are used for static irradiation experiments.
+
+57
+00:06:38,000 --> 00:06:42,000
+The core assembly is contained within a cylindrical aluminum tank,
+
+58
+00:06:42,000 --> 00:06:51,000
+supported through a series of tanks from the reactor pressure vessel bottom head.
+
+59
+00:06:51,000 --> 00:06:55,000
+Water coolant enters the lower part of the reactor vessel,
+
+60
+00:06:55,000 --> 00:07:01,000
+upward through the thermal shields and then flows downward through the core and
+
+61
+00:07:01,000 --> 00:07:10,000
+reflector. The coolant is then diverted to four 16-inch outlet pipes. Test
+
+62
+00:07:10,000 --> 00:07:16,000
+specimens may be irradiated in loops using water, gases, or liquid metal
+
+63
+00:07:16,000 --> 00:07:21,000
+coolants at temperatures and pressures expected in the most advanced power
+
+64
+00:07:21,000 --> 00:07:24,000
+reactors.

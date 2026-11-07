@@ -1,0 +1,1831 @@
+1
+00:00:15,919 --> 00:00:23,600
+In many nations, electric power requirements are increasing rapidly.
+
+2
+00:00:23,600 --> 00:00:34,600
+Generation of power from coal, oil, and water resources will continue for many years.
+
+3
+00:00:34,600 --> 00:00:39,780
+But nations faced by high energy costs and other problems are already taking steps to
+
+4
+00:00:39,780 --> 00:00:45,400
+use the new alternative nuclear power generation.
+
+5
+00:00:45,400 --> 00:00:51,840
+Nuclear power reactor technology developed in the United States by the spring of 1958
+
+6
+00:00:51,840 --> 00:00:58,840
+may be useful to many nations.
+
+7
+00:01:16,719 --> 00:01:23,540
+You're about to see the pressurized water and boiling water reactors, which are already available
+
+8
+00:01:23,540 --> 00:01:26,740
+for practical electric power generation.
+
+9
+00:01:26,740 --> 00:01:30,800
+And then the homogeneous, organic moderated,
+
+10
+00:01:32,060 --> 00:01:36,460
+sodium graphite, and fast breeder reactors.
+
+11
+00:01:38,780 --> 00:01:44,740
+A major development program is being carried forward to advance further the technology of these
+
+12
+00:01:44,740 --> 00:01:48,820
+and other systems, in order to obtain better fuel use,
+
+13
+00:01:48,820 --> 00:01:51,320
+higher performance and lower costs.
+
+14
+00:01:54,720 --> 00:01:58,060
+Before an experimental power reactor could ever be built
+
+15
+00:02:00,140 --> 00:02:03,760
+a sizable body of fundamental data had to be developed
+
+16
+00:02:03,760 --> 00:02:06,380
+for every aspect of reactor technology.
+
+17
+00:02:10,300 --> 00:02:13,340
+Theoretical work required years
+
+18
+00:02:13,340 --> 00:02:17,080
+and was based on studies by scientists of many nations.
+
+19
+00:02:17,080 --> 00:02:23,000
+High-speed computing machines have been used to calculate flux distribution patterns,
+
+20
+00:02:24,580 --> 00:02:31,640
+thermal utilization, and interactions under conditions of nuclear reactor operation.
+
+21
+00:02:33,280 --> 00:02:37,320
+Reactor metallurgy requires an investigation of the first magnitude
+
+22
+00:02:37,320 --> 00:02:41,560
+to develop fuels, alloys, and other materials
+
+23
+00:02:41,560 --> 00:02:45,920
+with properties satisfactory for the environment of reactor systems.
+
+24
+00:02:47,080 --> 00:02:58,080
+Special high-flux reactors were built to obtain physics and engineering data on the performance of design models, fuels, and other materials.
+
+25
+00:02:58,080 --> 00:03:04,080
+Tests in these machines reveal the effects of radiation on the properties of materials.
+
+26
+00:03:04,080 --> 00:03:13,080
+Two to three years of testing are required to develop a new material such as an alloy of zirconium,
+
+27
+00:03:13,080 --> 00:03:17,080
+which has the advantages of stainless steel,
+
+28
+00:03:17,080 --> 00:03:23,080
+with only a fraction of its neutron absorption cross-section.
+
+29
+00:03:24,080 --> 00:03:29,080
+The nuclear power and equipment industry
+
+30
+00:03:29,080 --> 00:03:37,080
+is developing facilities for fabricating and testing fuel elements,
+
+31
+00:03:37,080 --> 00:03:40,080
+manufacturing reactor cores,
+
+32
+00:03:40,080 --> 00:03:46,580
+developing and providing a wide variety of components and services.
+
+33
+00:03:48,580 --> 00:03:52,580
+The industry is continuously expanding its facilities.
+
+34
+00:03:59,580 --> 00:04:06,580
+In the United States, the first plant to demonstrate a power reactor concept on an industrial scale
+
+35
+00:04:06,580 --> 00:04:12,600
+was the Shipping Port Pressurized Water Reactor,
+
+36
+00:04:12,600 --> 00:04:17,100
+built by the Westinghouse Electric Corporation.
+
+37
+00:04:17,100 --> 00:04:21,900
+It has a heat output of 231,000 kilowatts,
+
+38
+00:04:21,900 --> 00:04:26,280
+a steam pressure of 600 pounds per square inch,
+
+39
+00:04:26,280 --> 00:04:32,560
+and the design capacity of 60,000 net electrical kilowatts.
+
+40
+00:04:32,560 --> 00:04:35,639
+Though industrial power will be produced,
+
+41
+00:04:35,639 --> 00:04:40,800
+The shipping port reactor is essentially an experimental tool to further the development
+
+42
+00:04:40,800 --> 00:04:45,639
+of large-scale power reactors.
+
+43
+00:04:45,639 --> 00:04:52,620
+The reactor core is a lattice of highly enriched plate-type assemblies surrounded by a blanket
+
+44
+00:04:52,620 --> 00:04:56,899
+of natural uranium rods.
+
+45
+00:04:56,899 --> 00:05:03,500
+The primary cycle consists of a single reactor heat source and four individually-shielded
+
+46
+00:05:03,500 --> 00:05:11,660
+coolant loops to circulate the light water moderator coolant. Each loop flows through
+
+47
+00:05:11,660 --> 00:05:21,740
+a separate heat exchanger with its own steam generator. A pump completes the cycle. One
+
+48
+00:05:21,740 --> 00:05:28,860
+loop can serve as a standby alternate for maintenance. The primary coolant system is
+
+49
+00:05:28,860 --> 00:05:33,620
+connected to a pressurizing vessel which maintains proper pressure limits in the
+
+50
+00:05:33,620 --> 00:05:41,160
+reactor. In the secondary plant cycle, low pressure saturated steam enters the
+
+51
+00:05:41,160 --> 00:05:48,680
+first stage of the turbine, passes to an external moisture separator, re-enters
+
+52
+00:05:48,680 --> 00:05:56,360
+the turbine, and finally exhausts to condensers. Then on to feed water heaters
+
+53
+00:05:56,360 --> 00:06:04,020
+where the temperature is raised by the exhaust from the separator. A boiler feed
+
+54
+00:06:04,020 --> 00:06:11,139
+pump completes the circuit. A full-scale working model of the shipping port
+
+55
+00:06:11,139 --> 00:06:18,879
+reactor was operated for nearly three years at a power level of a few watts to
+
+56
+00:06:18,879 --> 00:06:23,100
+check analytical calculations and develop some of the reactor physics data
+
+57
+00:06:23,100 --> 00:06:31,800
+required. Fabricating shipping port components like the 160 ton pressure
+
+58
+00:06:31,800 --> 00:06:40,080
+vessel required major industrial facilities and skills. Machining problems
+
+59
+00:06:40,080 --> 00:06:47,320
+included closer tolerances than had ever been required on parts this large. The
+
+60
+00:06:47,320 --> 00:06:52,800
+scale and precision of the reactors pressure system provided the opportunity
+
+61
+00:06:52,800 --> 00:06:59,040
+for many private industrial firms to gain knowledge and experience with reactor components.
+
+62
+00:07:00,879 --> 00:07:06,400
+Because of the experimental nature of this reactor, flexibility was a requirement of
+
+63
+00:07:06,400 --> 00:07:12,879
+many components. The closure head of the pressure vessel has 10 ports to permit
+
+64
+00:07:12,879 --> 00:07:20,480
+changing or rearranging fuel elements, and others for instrument leads or control rod drives.
+
+65
+00:07:20,480 --> 00:07:29,000
+Reactor components require material integrity and manufacturing precision of the highest order.
+
+66
+00:07:29,000 --> 00:07:38,860
+Reactor plant containers for the coolant loops and auxiliary equipment were assembled in position,
+
+67
+00:07:38,860 --> 00:07:45,980
+then sealed and tested. The containers are designed to prevent escape of any radioactive
+
+68
+00:07:45,980 --> 00:07:52,300
+gases or materials that might be accidentally released as a result of major plant casualty.
+
+69
+00:07:53,819 --> 00:08:00,540
+System components were installed through access openings provided in the pressure containers.
+
+70
+00:08:03,980 --> 00:08:08,780
+Two steam generators are installed in each of the containers adjacent to the reactor.
+
+71
+00:08:10,220 --> 00:08:15,180
+As a final safety measure, the entire nuclear portion is enclosed in concrete.
+
+72
+00:08:15,980 --> 00:08:22,920
+The low pressure 1800 rpm turbine and the generator were installed while the nuclear
+
+73
+00:08:22,920 --> 00:08:28,160
+portion of the plant was being completed.
+
+74
+00:08:28,160 --> 00:08:34,220
+The core was assembled in its cage enclosure at the reactor site.
+
+75
+00:08:34,220 --> 00:08:42,980
+The 113 blanket sub-assemblies use 14 tons of uranium oxide fuel.
+
+76
+00:08:42,980 --> 00:08:46,700
+This particular core geometry is expected to yield
+
+77
+00:08:46,700 --> 00:08:51,220
+about 50% of its power from the seed assemblies
+
+78
+00:08:51,220 --> 00:08:59,399
+and 50% from the blanket assemblies, including a small amount from the fissioning of plutonium.
+
+79
+00:08:59,399 --> 00:09:07,800
+Special equipment was developed for precise handling of the core and other components in the reactor vessel.
+
+80
+00:09:07,800 --> 00:09:17,379
+The system is designed to contain the light water primary coolant at 2,000 pounds in order to prevent boiling during steady state operation.
+
+81
+00:09:18,899 --> 00:09:25,620
+The first core is expected to provide significant data on the questions of long-term reactivity
+
+82
+00:09:25,620 --> 00:09:31,539
+and fuel life. The entire plant was designed to accommodate a higher powered core in the future.
+
+83
+00:09:34,579 --> 00:09:42,599
+High purity light water coolant flows upward between the fuel and rods. The heated water flows from the upper part of the
+
+84
+00:09:42,599 --> 00:09:48,779
+vessel to the intermediate heat exchangers and steam generators. On the
+
+85
+00:09:48,779 --> 00:09:55,579
+return cycle, a small percentage is bypassed for purification. The reactor is
+
+86
+00:09:55,579 --> 00:10:00,099
+largely self-regulating due to its negative temperature coefficient, an
+
+87
+00:10:00,099 --> 00:10:06,919
+inherent control parameter in a system of this design. For example, a drop in
+
+88
+00:10:06,919 --> 00:10:14,360
+demand for generator load lowers the turbine steam requirement. Hotter water
+
+89
+00:10:14,360 --> 00:10:19,919
+returns to the steam generator, which means hotter coolant water returning to
+
+90
+00:10:19,919 --> 00:10:26,799
+the reactor. As the reactor heats up, reactivity is reduced, which in turn
+
+91
+00:10:26,799 --> 00:10:33,419
+automatically reduces the reactor power level to match the lower load demand.
+
+92
+00:10:33,419 --> 00:10:41,099
+after extensive testing of components fluid and control systems shipping port
+
+93
+00:10:41,099 --> 00:10:49,319
+went critical early in December 1957 after additional testing to assure a
+
+94
+00:10:49,319 --> 00:10:54,719
+proper and safe operation of the reactor and steam plants shipping port went on
+
+95
+00:10:54,719 --> 00:11:00,719
+the line later that month with 60,000 kilowatts of electrical capacity to take
+
+96
+00:11:00,720 --> 00:11:06,120
+its place in the industrial power network of the Duquesne Light Company.
+
+97
+00:11:06,120 --> 00:11:12,340
+The reactor is stable and responds almost immediately to load demands.
+
+98
+00:11:12,340 --> 00:11:18,840
+In the immediate future, shipping ports' contribution to reactor technology will affect its operation
+
+99
+00:11:18,840 --> 00:11:23,000
+more than any requirement for its power.
+
+100
+00:11:23,000 --> 00:11:28,879
+Shipping port will provide valuable experience with heat utilization, system leakage and
+
+101
+00:11:28,879 --> 00:11:34,220
+maintenance, and other problems. Basic information on technical and economic
+
+102
+00:11:34,220 --> 00:11:41,779
+questions to benefit the design of future industrial reactors. A further
+
+103
+00:11:41,779 --> 00:11:46,460
+application of the pressurized water concept is the Army Package Power
+
+104
+00:11:46,460 --> 00:11:53,340
+Reactor at Fort Belvoir, Virginia. All its basic components can be transported by
+
+105
+00:11:53,340 --> 00:12:02,460
+air. In full-time service since July 1957, the plant has operated continuously with
+
+106
+00:12:02,460 --> 00:12:09,360
+no machinery failures. The reactor was shut down temporarily for a routine
+
+107
+00:12:09,360 --> 00:12:15,600
+inspection of the turbine and conventional plant equipment. When
+
+108
+00:12:15,600 --> 00:12:21,220
+activity in the containment shell has reached background level, the water
+
+109
+00:12:21,220 --> 00:12:31,300
+filling the excess tube is drained. Inside the containment shell, only a
+
+110
+00:12:31,300 --> 00:12:37,779
+routine inspection is performed. Penetration of the reactor shield tank
+
+111
+00:12:37,779 --> 00:12:40,779
+is unnecessary.
+
+112
+00:12:45,799 --> 00:12:55,959
+Only conventional equipment needs routine maintenance. The nuclear portion
+
+113
+00:12:55,959 --> 00:13:01,000
+has been so carefully designed that maintenance between fuel changes is not
+
+114
+00:13:01,000 --> 00:13:10,659
+required. After inspection, reactor startup begins. When the reactor is up to
+
+115
+00:13:10,659 --> 00:13:16,879
+power, the generator is brought online to feed into the Virginia Electric Power
+
+116
+00:13:16,879 --> 00:13:23,919
+Company network. The reactor automatically increases output to meet
+
+117
+00:13:23,920 --> 00:13:33,520
+demand. As an additional test of the reliability of the reactor, the load on
+
+118
+00:13:33,520 --> 00:13:39,380
+the generator is dropped instantly from a full 2,000 kilowatts to the station
+
+119
+00:13:39,380 --> 00:13:47,040
+load of 200 kilowatts. Reactor power level drops to meet the new load and
+
+120
+00:13:47,039 --> 00:13:55,039
+stabilizes itself. Control rod adjustment is not necessary. The reactor is
+
+121
+00:13:55,039 --> 00:14:00,179
+presently demonstrating the usefulness and reliability of small capacity
+
+122
+00:14:00,179 --> 00:14:08,019
+stations. At Indian Point near New York City, the Consolidated Edison Company is
+
+123
+00:14:08,019 --> 00:14:12,120
+financing the construction of a pressurized water reactor generating
+
+124
+00:14:12,120 --> 00:14:22,120
+Station. It will serve as a commercial base load plant to produce a part of the
+
+125
+00:14:22,120 --> 00:14:27,279
+electricity for the network serving the New York City area. The nuclear portion
+
+126
+00:14:27,279 --> 00:14:32,700
+of the plant is inside a large-span concrete shield and carbon steel
+
+127
+00:14:32,700 --> 00:14:39,419
+containment shell. The pressure vessel is enclosed in a water shield tank. The core
+
+128
+00:14:39,420 --> 00:14:45,200
+is an internal thorium thermal converter. The fertile thorium oxide is mixed with
+
+129
+00:14:45,200 --> 00:14:53,640
+U-235 oxide, formed into pellets, and loaded in rods. As fissionable U-233 is
+
+130
+00:14:53,640 --> 00:15:03,220
+formed from thorium, it will supplement the U-235 base fuel. Core development is
+
+131
+00:15:03,220 --> 00:15:09,440
+being performed by the Babcock and Wilcox company at Lynchburg, Virginia.
+
+132
+00:15:09,440 --> 00:15:14,600
+Major studies with a critical mock-up of the core deal with the behavior of
+
+133
+00:15:14,600 --> 00:15:24,840
+thorium oxide in combination with uranium oxide. The initial fuel loading
+
+134
+00:15:24,840 --> 00:15:31,220
+for the Indian Point reactor is expected to last 20 months. In-pile irradiation
+
+135
+00:15:31,220 --> 00:15:38,220
+test loops are being used to investigate fuel element properties, radiation damage and the
+
+136
+00:15:39,440 --> 00:15:46,440
+suitability of fabrication techniques. The schedule for fabrication and delivery of components
+
+137
+00:15:48,899 --> 00:15:55,899
+is closely coordinated with site construction. Inspection and quality control methods include
+
+138
+00:15:55,899 --> 00:16:02,899
+and quality control methods include the use of a two million volt X-ray unit.
+
+139
+00:16:05,860 --> 00:16:12,860
+The reactor will produce 163,000 electrical kilowatts.
+
+140
+00:16:13,639 --> 00:16:19,100
+Oil fired super heaters are included in the steam circuit to raise the steam temperature
+
+141
+00:16:19,100 --> 00:16:29,860
+from 450 to 1,000 degrees and increase the plant's net electrical output to 255,000 kilowatts.
+
+142
+00:16:29,860 --> 00:16:37,320
+The Indian Point Station is scheduled to be operating in 1960.
+
+143
+00:16:37,320 --> 00:16:42,659
+With research and development assistance from the Atomic Energy Commission, a group of 12
+
+144
+00:16:42,659 --> 00:16:49,000
+public utilities are financing the Yankee Pressurized Water Reactor Plant, which will
+
+145
+00:16:49,000 --> 00:16:58,759
+produce 134,000 electrical kilowatts at Rowe, Massachusetts.
+
+146
+00:16:58,759 --> 00:17:05,839
+Major investigations in progress for the Yankee station include hydraulic flow tests with
+
+147
+00:17:05,839 --> 00:17:13,279
+fuel assembly models, the problems of injecting boron into the reactor coolant stream as a
+
+148
+00:17:13,279 --> 00:17:21,319
+safety control and the methods for subsequent cleanup by chemical, ultrasonic, or other
+
+149
+00:17:21,319 --> 00:17:22,980
+means.
+
+150
+00:17:22,980 --> 00:17:34,180
+The Yankee plant is scheduled for 1960 operation.
+
+151
+00:17:34,180 --> 00:17:39,639
+The first complete boiling reactor plant in operation is the experimental boiling water
+
+152
+00:17:39,640 --> 00:17:48,520
+reactor at Argonne National Laboratory. It went critical in December 1956. Although it
+
+153
+00:17:48,520 --> 00:17:54,320
+was designed for a high degree of experimental flexibility, its initial operation produced
+
+154
+00:17:54,320 --> 00:18:01,560
+5,000 electrical kilowatts. It regularly supplies a substantial portion of Argonne's daytime
+
+155
+00:18:01,559 --> 00:18:10,059
+power needs in parallel with other generating plants in a local utility network.
+
+156
+00:18:10,059 --> 00:18:16,339
+Its reliability compares favorably with conventional stations.
+
+157
+00:18:16,339 --> 00:18:21,379
+The light water moderator coolant flows by natural convection.
+
+158
+00:18:21,379 --> 00:18:28,759
+Bulk boiling begins about halfway up the slightly enriched plates in the fuel channels.
+
+159
+00:18:28,759 --> 00:18:35,259
+An outstanding feature of a boiling water reactor is its inherent safety.
+
+160
+00:18:35,259 --> 00:18:42,259
+Any sudden increase in reactivity will result in more steam bubble formations, a less dense
+
+161
+00:18:42,259 --> 00:18:51,180
+moderator, and an immediate stabilization of reactor power at the new level.
+
+162
+00:18:51,180 --> 00:18:58,240
+Steam at 600 pounds pressure flows through a dryer, directly into the turbine, then back
+
+163
+00:18:58,240 --> 00:19:02,480
+through a condenser to the reactor.
+
+164
+00:19:02,480 --> 00:19:07,059
+To compensate for rapid fluctuations in load demand,
+
+165
+00:19:07,059 --> 00:19:12,140
+an automatic steam bypass valve maintains constant steam
+
+166
+00:19:12,140 --> 00:19:17,359
+pressure in the reactor system until the control rods
+
+167
+00:19:17,359 --> 00:19:21,160
+readjust the reactor's power level.
+
+168
+00:19:21,160 --> 00:19:25,000
+Auxiliary shutdown is provided by a high pressure boric acid
+
+169
+00:19:25,000 --> 00:19:25,839
+injection system.
+
+170
+00:19:28,240 --> 00:19:34,920
+The core structure can accommodate up to 148 fuel assemblies for experimental
+
+171
+00:19:34,920 --> 00:19:43,460
+variation of core loading. Eight of the fuel elements are of natural uranium. The
+
+172
+00:19:43,460 --> 00:19:52,000
+other 106 are enriched to 1.44 percent in uranium-235. To provide for
+
+173
+00:19:52,000 --> 00:19:57,460
+achieving at least a 1% burn up, the uranium fuel is alloyed with a small
+
+174
+00:19:57,460 --> 00:20:03,519
+quantity of zirconium and niobium. The alloy provides strength corrosion
+
+175
+00:20:03,519 --> 00:20:09,519
+resistance and irradiation stability. During the core loading operation,
+
+176
+00:20:09,519 --> 00:20:16,460
+neutron flux and density were continuously monitored. After each
+
+177
+00:20:16,460 --> 00:20:21,279
+loading, there was an attempted approach to criticality. As a safety precaution,
+
+178
+00:20:21,279 --> 00:20:26,920
+the core vessel was sealed with hold down beams attached to vertical steel
+
+179
+00:20:26,920 --> 00:20:33,460
+columns. In the unlikely event of an explosion, the beams would direct the
+
+180
+00:20:33,460 --> 00:20:39,940
+force downward and leave the upper containment shell intact. In its program
+
+181
+00:20:39,940 --> 00:20:44,440
+of experimental operation, the system has demonstrated its ability to meet
+
+182
+00:20:44,440 --> 00:20:51,640
+changing load demands with a high degree of stability. The meter on the right
+
+183
+00:20:51,640 --> 00:20:57,580
+presents total steam flow. The one on the left indicates the amount of steam going
+
+184
+00:20:57,580 --> 00:21:02,740
+through the bypass valve. The difference in readings is the amount going through
+
+185
+00:21:02,740 --> 00:21:09,400
+the turbine. No appreciable contamination of the turbine or other components has
+
+186
+00:21:09,400 --> 00:21:16,680
+been experienced to date. The level is only slightly higher than background.
+
+187
+00:21:16,680 --> 00:21:25,680
+During reactor operation, routine inspection and maintenance are performed throughout the plant on each shift.
+
+188
+00:21:25,680 --> 00:21:34,680
+The low pressure system made it possible to use many conventional pumps, valves, and other components.
+
+189
+00:21:34,680 --> 00:21:43,680
+Leakage problems have been largely eliminated.
+
+190
+00:21:43,680 --> 00:21:49,940
+For decontamination studies, sodium salts are dissolved and pumped through the system.
+
+191
+00:21:51,820 --> 00:21:56,320
+Special taps condense steam samples from various points in the system.
+
+192
+00:21:58,160 --> 00:22:05,820
+These samples give an accurate measurement of how much contamination would be carried into plant components if a fuel element ruptured.
+
+193
+00:22:06,840 --> 00:22:13,400
+Future tests will include the deliberate rupturing of a fuel element in order to gain more precise information.
+
+194
+00:22:13,680 --> 00:22:23,380
+One of the basic tests consists of varying reactivity at different frequencies and observing
+
+195
+00:22:23,380 --> 00:22:31,600
+resultant flux variations. Amplitude changes as frequency changes. The data is analyzed
+
+196
+00:22:31,600 --> 00:22:37,440
+for fundamental feedback effects.
+
+197
+00:22:37,440 --> 00:22:42,440
+Most of these studies make it possible to predict stable performance at higher power.
+
+198
+00:22:44,440 --> 00:22:50,440
+The plant originally produced 5,000 electrical kilowatts from 20,000 kilowatts of heat.
+
+199
+00:22:51,440 --> 00:22:57,440
+This plant, like the other reactors in the United States, is conservatively designed.
+
+200
+00:22:58,440 --> 00:23:04,440
+In December 1957, using the original core with no modifications to the system,
+
+201
+00:23:04,440 --> 00:23:12,940
+reactor power level was increased to 50,000 kilowatts of heat. And in March
+
+202
+00:23:12,940 --> 00:23:20,160
+1958 power was further increased to 62,000 kilowatts. This can result in a
+
+203
+00:23:20,160 --> 00:23:26,480
+significant reduction in cost for installed kilowatt. Steam produced in
+
+204
+00:23:26,480 --> 00:23:31,940
+excess of that needed to generate 5,000 kilowatts of electricity has been dumped
+
+205
+00:23:31,940 --> 00:23:42,080
+to condensers. Installation of a forced circulation system is planned. Following
+
+206
+00:23:42,080 --> 00:23:47,720
+this change reactor stability is expected to improve and the core power
+
+207
+00:23:47,720 --> 00:23:53,180
+density can be increased many fold. Stability of operation with forced
+
+208
+00:23:53,180 --> 00:23:59,120
+circulation will be compared to that with a natural convection system. The
+
+209
+00:23:59,120 --> 00:24:06,120
+The boiling water reactor concept is sufficiently advanced now for commercial application.
+
+210
+00:24:06,320 --> 00:24:11,640
+Future test programs are expected to operate with heavy water and extend the technology
+
+211
+00:24:11,640 --> 00:24:18,640
+even further in the direction of large, safe, and economical commercial plants.
+
+212
+00:24:20,780 --> 00:24:26,540
+At Pleasanton, near San Francisco, California, the General Electric Company has financed
+
+213
+00:24:26,539 --> 00:24:31,619
+and built advanced research and development facilities, including the
+
+214
+00:24:31,619 --> 00:24:37,579
+Vallecitas Developmental Boiling Water Reactor. Originally designed for an
+
+215
+00:24:37,579 --> 00:24:43,639
+output of 20,000 thermal kilowatts, the reactor power was increased to 30,000
+
+216
+00:24:43,639 --> 00:24:52,019
+thermal kilowatts in January 1958. This reactor is a prototype for testing fuel
+
+217
+00:24:52,019 --> 00:24:57,579
+and operating features of commercial-size reactors such as the
+
+218
+00:24:57,579 --> 00:25:06,879
+Dresden plant. Its flexibility includes both natural and forced circulation,
+
+219
+00:25:06,879 --> 00:25:16,259
+single and dual cycle operation. A private utility, the Pacific Gas and
+
+220
+00:25:16,259 --> 00:25:21,339
+Electric Company, has connected a 5,000 kilowatt generating plant to the
+
+221
+00:25:21,339 --> 00:25:30,139
+reactor, gaining further experience with direct coupling of a reactor and turbine.
+
+222
+00:25:30,139 --> 00:25:38,579
+The electricity is fed into the utility's power network.
+
+223
+00:25:38,579 --> 00:25:44,859
+At Dresden, Illinois, south of Chicago, the first large-sized commercial boiling water
+
+224
+00:25:44,859 --> 00:25:50,679
+reactor is being constructed by the General Electric Company for the Commonwealth Edison
+
+225
+00:25:50,680 --> 00:25:57,960
+utility system serving the Chicago area.
+
+226
+00:25:58,920 --> 00:26:02,600
+Research and development for the project were financed by seven
+
+227
+00:26:02,600 --> 00:26:07,480
+independent private utility companies and an architect engineer firm.
+
+228
+00:26:09,560 --> 00:26:13,480
+Dresden will produce 180,000 kilowatts of electricity.
+
+229
+00:26:13,480 --> 00:26:24,099
+At the Atomic Power Equipment Facility of the General Electric Company, a 60-foot high
+
+230
+00:26:24,099 --> 00:26:30,160
+test facility incorporating a mock-up of the Dresden Pressure Vessel is used to simulate
+
+231
+00:26:30,160 --> 00:26:36,839
+various conditions, including heat and water circulation, as well as the refinement of
+
+232
+00:26:36,839 --> 00:26:41,740
+refueling equipment and procedures.
+
+233
+00:26:41,740 --> 00:26:49,460
+Here also, fuel element materials and designs are tested for void distribution, steam slip,
+
+234
+00:26:49,460 --> 00:26:58,180
+steam blanketing, and heat transfer characteristics.
+
+235
+00:26:58,180 --> 00:27:07,380
+In the main building, fuel for the Dresden core is manufactured on an assembly line basis.
+
+236
+00:27:07,380 --> 00:27:14,220
+Mod type fuel element fabrication begins in the powder processing room where uranium powder
+
+237
+00:27:14,220 --> 00:27:24,280
+is mixed with binder and milled, formed into pellets, centered, machined to size, welded
+
+238
+00:27:24,280 --> 00:27:30,820
+into tubes, inspected, and tested.
+
+239
+00:27:30,819 --> 00:27:38,619
+After testing the tubes are ready for assembly into bundles and shipment to the reactor site.
+
+240
+00:27:44,819 --> 00:27:49,819
+Construction of the Dresden station is expected to be completed for pre-operational
+
+241
+00:27:49,819 --> 00:27:53,220
+testing and criticality in 1959.
+
+242
+00:27:55,119 --> 00:27:58,619
+Regular operation is scheduled for June of 1960.
+
+243
+00:28:00,819 --> 00:28:14,500
+In order to avoid the difficulties of fabricating, inserting, removing, and reprocessing solid
+
+244
+00:28:14,500 --> 00:28:22,059
+fuel elements, which are inherent in heterogeneous reactor systems, a long-range program has
+
+245
+00:28:22,059 --> 00:28:27,740
+been undertaken to develop reactors which could use a circulating homogeneous fluid
+
+246
+00:28:27,740 --> 00:28:35,599
+fuel and heat transfer medium to simplify refueling and reprocessing.
+
+247
+00:28:35,599 --> 00:28:44,839
+However, under reactor operating conditions of radiation, high temperature and pressure,
+
+248
+00:28:44,839 --> 00:28:52,640
+there have been many problems to overcome, including severe corrosion.
+
+249
+00:28:52,640 --> 00:28:58,980
+The homogeneous reactor experiment number one, constructed at Oak Ridge National Laboratory
+
+250
+00:28:58,980 --> 00:29:08,360
+in 1951, was the first experimental power reactor to combine fuel with a moderator coolant.
+
+251
+00:29:08,360 --> 00:29:13,500
+It was operated as a large-scale engineering and physics experiment.
+
+252
+00:29:13,500 --> 00:29:19,860
+Highly enriched urinal sulfate, in solution with ordinary water, circulated through a
+
+253
+00:29:19,860 --> 00:29:25,940
+single region core vessel where the fissile material reached criticality.
+
+254
+00:29:25,940 --> 00:29:32,200
+This full-scale plastic model of the core was instrumented to study the
+
+255
+00:29:32,200 --> 00:29:40,860
+hydrodynamics involved at various fluid densities and pressures. Bubbles
+
+256
+00:29:40,860 --> 00:29:46,360
+simulate the radiolytic gases produced by decomposition of the water and fission
+
+257
+00:29:46,360 --> 00:29:54,360
+product gases which form in such an aqueous system.
+
+258
+00:29:54,360 --> 00:29:59,800
+In the first experimental homogeneous reactor, the stainless steel core was surrounded by
+
+259
+00:29:59,800 --> 00:30:04,380
+a reflector shield of circulating heavy water.
+
+260
+00:30:04,380 --> 00:30:08,920
+A helium pressurizer absorbed surges from load changes.
+
+261
+00:30:08,920 --> 00:30:15,880
+In operation, the uranyl sulfate at a pressure of 1000 pounds per square inch left the core
+
+262
+00:30:15,880 --> 00:30:19,140
+at a temperature of 482 degrees Fahrenheit,
+
+263
+00:30:20,220 --> 00:30:26,760
+flowed to a heat exchanger, and returned to the core through a canned motor pump.
+
+264
+00:30:26,760 --> 00:30:31,200
+A steam drum and generator complete the heat utilization circuit.
+
+265
+00:30:31,200 --> 00:30:35,260
+Reactor power level was controlled by steam demand.
+
+266
+00:30:35,260 --> 00:30:39,640
+The fissile material was returned to the fuel storage tanks
+
+267
+00:30:39,640 --> 00:30:42,200
+where fuel concentration was controlled.
+
+268
+00:30:42,200 --> 00:30:50,200
+Potentially explosive quantities of hydrogen and oxygen gases passed through a flame recombiner,
+
+269
+00:30:50,200 --> 00:30:58,200
+catalytic recombiner, cold traps, and activated charcoal fission gas absorber.
+
+270
+00:30:58,200 --> 00:31:03,200
+Harmless waste gases were vented to the atmosphere.
+
+271
+00:31:03,200 --> 00:31:10,200
+The deuterium cooler, storage tanks and circuits completed the homogeneous reactor system.
+
+272
+00:31:10,200 --> 00:31:18,420
+Heavy shielding surrounded all components in contact with highly radioactive gases and urinal sulfate fuel solution.
+
+273
+00:31:23,200 --> 00:31:31,240
+During two years of successful experimental operation, many changes and modifications were made.
+
+274
+00:31:31,240 --> 00:31:43,180
+Due to the inherently high negative temperature coefficient, nuclear stability was maintained
+
+275
+00:31:43,180 --> 00:31:50,039
+and power could be increased from 30 watts to 11 megawatts in one second, and returned
+
+276
+00:31:50,039 --> 00:31:56,799
+to 1 megawatt in one tenth of a second, without damaging the equipment.
+
+277
+00:31:56,799 --> 00:32:02,500
+However under normal operation, power changes would be undertaken more
+
+278
+00:32:02,500 --> 00:32:10,960
+gradually. The first homogeneous reactor experiment with its loosely stacked
+
+279
+00:32:10,960 --> 00:32:21,339
+shielding blocks was dismantled early in 1954. It demonstrated the behavior and
+
+280
+00:32:21,340 --> 00:32:29,640
+stability of fuel solutions, the ability to attain and maintain leak tightness in a high
+
+281
+00:32:29,640 --> 00:32:38,060
+pressure system, and safe handling of hydrogen and oxygen produced by radiation decomposition
+
+282
+00:32:38,060 --> 00:32:40,860
+of the water.
+
+283
+00:32:40,860 --> 00:32:46,080
+It proved that mechanical control rods are unnecessary and establish direct dependence
+
+284
+00:32:46,079 --> 00:32:52,679
+of the reactors power on turbine demand.
+
+285
+00:32:52,679 --> 00:32:59,019
+A second homogeneous reactor experiment with a two-region reactor has been constructed
+
+286
+00:32:59,019 --> 00:33:05,619
+and operated to test engineering feasibility and advance the technology of the homogeneous
+
+287
+00:33:05,619 --> 00:33:08,299
+reactor concept.
+
+288
+00:33:08,299 --> 00:33:14,740
+The principle of operation is basically the same as that in the first homogeneous reactor
+
+289
+00:33:14,740 --> 00:33:22,059
+the addition of an integrated chemical processing plant.
+
+290
+00:33:22,059 --> 00:33:28,200
+A cooling coil surrounds the carbon steel blast shield, which contains the double region
+
+291
+00:33:28,200 --> 00:33:38,160
+reactor, a carbon steel pressure vessel lined with stainless steel, and the zirconium alloy
+
+292
+00:33:38,160 --> 00:33:40,980
+core vessel.
+
+293
+00:33:40,980 --> 00:33:48,759
+rods are not necessary for this system. In operation, fully enriched urinal sulfate in
+
+294
+00:33:48,759 --> 00:33:57,220
+heavy water solution passes through the core at 2,000 pounds pressure. Diffuser screens
+
+295
+00:33:57,220 --> 00:34:06,360
+provide a smooth expansion of flow. During initial operation, heavy water will circulate
+
+296
+00:34:06,360 --> 00:34:13,500
+through the blankets. With some modification fertile materials may be introduced to demonstrate
+
+297
+00:34:13,500 --> 00:34:19,800
+a breeding cycle.
+
+298
+00:34:19,800 --> 00:34:28,360
+The inlet or diffuser section was formed of plate. The first section has a 30 degree angle.
+
+299
+00:34:28,360 --> 00:34:36,039
+Perforated plates are arranged in the conical section to distribute the inlet fluid uniformly.
+
+300
+00:34:36,039 --> 00:34:44,699
+The top half of the tank is a hemisphere.
+
+301
+00:34:44,699 --> 00:34:51,679
+Oxygen free welding of the curved surfaces required a number of equipment modifications.
+
+302
+00:34:51,679 --> 00:34:58,980
+The completed core vessel and associated components for handling radioactive fluids are located
+
+303
+00:34:58,980 --> 00:35:05,940
+in the main reactor cell which will be covered with concrete shielding slabs.
+
+304
+00:35:05,940 --> 00:35:11,280
+The shielding assembly also provides a barrier against the escape of any gases which might
+
+305
+00:35:11,280 --> 00:35:18,740
+result from a system leak.
+
+306
+00:35:18,740 --> 00:35:24,760
+Chemical processing of reactor fluid takes place in an adjacent shielded cell.
+
+307
+00:35:24,760 --> 00:35:31,000
+It is controlled from a separate control room.
+
+308
+00:35:31,000 --> 00:35:44,000
+The system is brought to operating pressure and temperature with no uranium in the system.
+
+309
+00:35:44,000 --> 00:35:51,599
+Then the uranyl sulfate solution is injected to bring the reactor up to criticality concentration.
+
+310
+00:35:51,599 --> 00:35:58,039
+Average core temperature in the reactor is controlled by varying the amount of uranium.
+
+311
+00:35:58,039 --> 00:36:04,019
+The power level automatically adjusts itself to the load demand.
+
+312
+00:36:04,019 --> 00:36:08,659
+This reactor has encountered various difficulties which have caused delays.
+
+313
+00:36:08,659 --> 00:36:15,800
+However, the reactor achieved criticality in December 1957.
+
+314
+00:36:15,800 --> 00:36:22,420
+In April 1958, shortly after its operating power level had been raised to its full design
+
+315
+00:36:22,420 --> 00:36:30,579
+power of 5000 thermal kilowatts the reactor was shut down because instruments indicated
+
+316
+00:36:30,579 --> 00:36:35,740
+that fuel from the main core system was transferring to the blanket heavy water
+
+317
+00:36:35,740 --> 00:36:45,000
+system further work proceeds to overcome these difficulties concurrent studies are
+
+318
+00:36:45,000 --> 00:36:50,599
+underway to develop a thorium oxide slurry for breeding use in the blanket region
+
+319
+00:36:52,420 --> 00:37:00,420
+Manufacturing processes being developed include the production of thorium oxide particles having desired properties.
+
+320
+00:37:02,420 --> 00:37:11,420
+Using different concentrations, the viscosity and engineering performance of various slurries are measured.
+
+321
+00:37:11,420 --> 00:37:26,639
+A blanket system mock-up similar to this model is used to study the behavior of slurry particles
+
+322
+00:37:26,639 --> 00:37:33,320
+under different system temperatures, pressures, and velocities.
+
+323
+00:37:33,320 --> 00:37:38,740
+It is expected that present problems will be overcome and that homogeneous reactors
+
+324
+00:37:38,740 --> 00:37:48,620
+will be able to attain their potential.
+
+325
+00:37:48,620 --> 00:37:55,300
+At the National Reactor Testing Station, the Organic Moderated Reactor Experiment, conducted
+
+326
+00:37:55,300 --> 00:38:01,880
+for the Atomic Energy Commission by Atomics International, went critical for the first
+
+327
+00:38:01,880 --> 00:38:09,840
+time in September 1957.
+
+328
+00:38:09,840 --> 00:38:16,260
+Operating temperatures will range from 500 to 700 degrees Fahrenheit at a system pressure
+
+329
+00:38:16,260 --> 00:38:23,059
+of 200 pounds.
+
+330
+00:38:23,059 --> 00:38:30,500
+Standard hardware and construction materials are used throughout the system.
+
+331
+00:38:30,500 --> 00:38:34,440
+at high temperatures and low pressures.
+
+332
+00:38:34,440 --> 00:38:42,159
+This reactor is serving as a testing laboratory to study characteristics of the commercially
+
+333
+00:38:42,159 --> 00:38:52,320
+available terphenols being used as the moderator, reflector, and coolant.
+
+334
+00:38:52,320 --> 00:39:02,100
+The organic material is melted, then fed through an expansion tank into the reactor.
+
+335
+00:39:02,100 --> 00:39:09,760
+The coolant flows up from the bottom plenum between the plate-type fuel elements to the
+
+336
+00:39:09,760 --> 00:39:16,760
+pool, which forms a biological shielding above the core of the reactor, then on to an air
+
+337
+00:39:16,760 --> 00:39:20,200
+blast heat exchanger.
+
+338
+00:39:20,200 --> 00:39:24,160
+A continuous purge of nitrogen over the surface of the organic coolant
+
+339
+00:39:24,160 --> 00:39:28,340
+prevents buildup of hydrogen and light hydrocarbon gases.
+
+340
+00:39:29,540 --> 00:39:35,380
+These decomposition gases are diluted, then exhausted through a stack.
+
+341
+00:39:35,720 --> 00:39:38,640
+The organic is slowly damaged by irradiation.
+
+342
+00:39:40,060 --> 00:39:46,100
+Small quantities are bypassed to a still, which separates the high-boiling materials thus formed
+
+343
+00:39:46,100 --> 00:39:49,120
+and returns the organic to the main system.
+
+344
+00:39:49,119 --> 00:39:56,500
+waste is pumped to a storage tank. Test instrumentation provides information on
+
+345
+00:39:56,500 --> 00:40:01,420
+the operation of the reactor, heat transfer properties and heat rejection
+
+346
+00:40:01,420 --> 00:40:08,079
+rates, as well as behavior of the organic under the varying conditions expected of
+
+347
+00:40:08,079 --> 00:40:13,239
+a power reactor. Measurement of surface temperature of the fuel plates can
+
+348
+00:40:13,240 --> 00:40:19,340
+detect a build-up of a polymer film from decomposition of the organic.
+
+349
+00:40:19,340 --> 00:40:24,880
+Techniques for removing the film, if it should form, are being developed.
+
+350
+00:40:24,880 --> 00:40:30,380
+Sample taps are provided to obtain specimens of the coolant and gases from various points
+
+351
+00:40:30,380 --> 00:40:37,060
+in the system for laboratory evaluation of the effects of the reactor environment on
+
+352
+00:40:37,060 --> 00:40:41,840
+decomposition and damage.
+
+353
+00:40:41,840 --> 00:40:49,559
+The organic moderated reactor experiment is advancing the technology of hydrocarbon use
+
+354
+00:40:49,559 --> 00:40:55,680
+by establishing data which will be required in the design of power reactors using this
+
+355
+00:40:55,680 --> 00:41:06,300
+high temperature, low pressure concept.
+
+356
+00:41:06,300 --> 00:41:12,980
+An experimental reactor has been built and operated to evaluate the feasibility of molten
+
+357
+00:41:12,980 --> 00:41:18,840
+sodium as a reactor coolant and heat transfer medium.
+
+358
+00:41:18,840 --> 00:41:25,160
+The sodium-cooled reactor concept affords high steam temperature and pressure conditions
+
+359
+00:41:25,160 --> 00:41:31,300
+similar to those of modern fossil fuel burning plants.
+
+360
+00:41:31,300 --> 00:41:38,920
+Enrichment fuel is used in a graphite moderator. The experiments and sodium
+
+361
+00:41:38,920 --> 00:41:43,900
+reactor technology are conducted and partially financed by Atomics
+
+362
+00:41:43,900 --> 00:41:51,460
+International at Santa Susana near Los Angeles, California. Major studies deal
+
+363
+00:41:51,460 --> 00:41:57,640
+with the life of fuel control and safety elements in a system which can produce
+
+364
+00:41:57,639 --> 00:42:08,639
+produce 20,000 kilowatts of heat with a pressure of only three pounds at the free sodium surface.
+
+365
+00:42:08,639 --> 00:42:17,639
+The coolant is highly radioactive as it leaves the reactor at 960 degrees Fahrenheit.
+
+366
+00:42:17,639 --> 00:42:23,639
+Heat is transferred to a non-radioactive secondary sodium loop and steam generator,
+
+367
+00:42:23,639 --> 00:42:27,659
+which feeds a 7,500 kilowatt turbo generator.
+
+368
+00:42:27,659 --> 00:42:30,920
+A similar auxiliary circuit,
+
+369
+00:42:30,920 --> 00:42:35,099
+rated at one megawatt, is operated simultaneously
+
+370
+00:42:35,099 --> 00:42:39,440
+to provide emergency removal of fission product decay heat.
+
+371
+00:42:39,440 --> 00:42:44,819
+To remove contaminants in each loop, a small percentage of sodium
+
+372
+00:42:44,819 --> 00:42:51,819
+is circulated through hot and cold traps. In the sodium reactor core,
+
+373
+00:42:51,820 --> 00:42:59,120
+the graphite moderator is enclosed in hexagonal zirconium cans. Channels
+
+374
+00:42:59,120 --> 00:43:04,000
+through the center of each moderator assembly permit location of the fuel
+
+375
+00:43:04,000 --> 00:43:10,200
+elements in triangular patterns. Additional element channels are provided
+
+376
+00:43:10,200 --> 00:43:18,100
+at corner locations for controls, safety rods, the neutron source, and experimental
+
+377
+00:43:18,099 --> 00:43:26,619
+assemblies. Each fuel element consists of a cluster of seven stainless steel clad
+
+378
+00:43:26,619 --> 00:43:33,739
+tubes filled with the slightly enriched metallic uranium slugs. The column of
+
+379
+00:43:33,739 --> 00:43:38,799
+slugs is thermally bonded to the inside of the tube with a sodium potassium alloy
+
+380
+00:43:38,799 --> 00:43:45,400
+for uniform transfer of heat from the fuel. To demonstrate the feasibility of
+
+381
+00:43:45,400 --> 00:43:51,639
+coupling a power plant to a sodium system. A single pass sodium to water
+
+382
+00:43:51,639 --> 00:43:58,400
+steam generator was developed. It is enclosed in a stainless steel shell to
+
+383
+00:43:58,400 --> 00:44:06,220
+reduce the likelihood of a leak and a reaction between sodium and water. The
+
+384
+00:44:06,220 --> 00:44:12,619
+sodium flows past double wall tubes. Pressurized mercury acts as a heat
+
+385
+00:44:12,619 --> 00:44:19,019
+transfer medium and monitors for tube failure as water flashes to steam in the inner tube.
+
+386
+00:44:22,059 --> 00:44:26,940
+The generator plant was developed and is being operated entirely at the expense of
+
+387
+00:44:26,940 --> 00:44:34,779
+a private utility, the Southern California Edison Company. Overall operation and maintenance
+
+388
+00:44:34,779 --> 00:44:39,500
+of the sodium graphite reactor experiment have been encouragingly successful.
+
+389
+00:44:42,619 --> 00:44:55,579
+On December 20th and 21st, 1951, the experimental breeder reactor number one produced electricity
+
+390
+00:44:55,579 --> 00:45:00,339
+from nuclear energy for the first time in the world.
+
+391
+00:45:00,339 --> 00:45:07,019
+This reactor was designed for maximum experimental flexibility to demonstrate the feasibility
+
+392
+00:45:07,019 --> 00:45:11,920
+of breathing in a fast neutron power reactor plant.
+
+393
+00:45:11,920 --> 00:45:19,420
+During the first four years of operation, two experimental cores were used.
+
+394
+00:45:19,420 --> 00:45:26,240
+The reactor arrangement for these cores consisted of highly enriched fuel rods, a hexagonal
+
+395
+00:45:26,240 --> 00:45:31,840
+stainless steel separator, and an inner breeding blanket of natural uranium rods.
+
+396
+00:45:31,840 --> 00:45:36,700
+The inner blanket served as part of the reflector geometry.
+
+397
+00:45:36,700 --> 00:45:44,480
+Air-cooled uranium bricks clad with stainless steel formed the outer breeding blanket.
+
+398
+00:45:44,480 --> 00:45:50,080
+Sodium-potassium coolant flowed in series down through the inner breeding blanket, then
+
+399
+00:45:50,080 --> 00:45:53,460
+up through the core.
+
+400
+00:45:53,460 --> 00:45:57,260
+Coolant circulates through a heat exchanger at low pressure.
+
+401
+00:45:57,260 --> 00:46:04,160
+A non-radioactive sodium-potassium loop transfers the heat to boiling water in a second heat
+
+402
+00:46:04,159 --> 00:46:16,039
+exchanger. These heat exchanger tubes are nickel diffusion bonded to copper with
+
+403
+00:46:16,039 --> 00:46:21,079
+longitudinally machined holes for leak detection gas. Sodium-potassium
+
+404
+00:46:21,079 --> 00:46:30,839
+circulates outside the tube. Water flashes to steam inside. An inert
+
+405
+00:46:30,840 --> 00:46:35,940
+atmosphere is maintained above all free surfaces to prevent coolant contact with
+
+406
+00:46:35,940 --> 00:46:41,720
+air. A cold trap and convection cooling loop for shutdown of the main system
+
+407
+00:46:41,720 --> 00:46:50,100
+complete the circuit. Liquid metal cooling systems were studied at
+
+408
+00:46:50,100 --> 00:46:58,019
+temperatures ranging from room temperature to 650 degrees Fahrenheit. A
+
+409
+00:46:58,019 --> 00:47:02,599
+A conversion ratio of 1 was attained.
+
+410
+00:47:03,460 --> 00:47:08,820
+Other experiments exposed various materials in the reactor's high energy,
+
+411
+00:47:08,820 --> 00:47:16,119
+high flux region. In normal operation, the plant was quite stable, reliable, and
+
+412
+00:47:16,119 --> 00:47:23,780
+largely self-regulating. When severe operating conditions were imposed, such
+
+413
+00:47:23,780 --> 00:47:33,220
+as high power at reduced coolant flow, an oscillation in power occurred. On November
+
+414
+00:47:33,220 --> 00:47:40,800
+29, 1955, an overshoot in power occurred during an experiment in which the coolant flow was
+
+415
+00:47:40,800 --> 00:47:48,220
+deliberately stopped and some safety devices bypassed. This resulted in a partial meltdown
+
+416
+00:47:48,220 --> 00:47:56,200
+of the core. The core was removed and sent to Argonne National Laboratory for
+
+417
+00:47:56,200 --> 00:48:04,900
+disassembly in the inert atmosphere of a hot cell. The molten fuel and uranium
+
+418
+00:48:04,900 --> 00:48:13,720
+which had alloyed with iron from the jackets was removed. All enriched fuel
+
+419
+00:48:13,720 --> 00:48:21,340
+was recovered and reprocessed. The meltdown experience provided valuable
+
+420
+00:48:21,340 --> 00:48:29,840
+information on certain safety aspects of fast reactors. A third core was designed
+
+421
+00:48:29,840 --> 00:48:38,380
+to investigate the effect of fuel element bowing on reactor stability. With
+
+422
+00:48:38,380 --> 00:48:43,780
+this Mark III core, bowing can be eliminated or permitted to occur to a
+
+423
+00:48:43,780 --> 00:48:54,220
+certain degree. Stability under both conditions will be studied. Valves have
+
+424
+00:48:54,220 --> 00:48:58,059
+been installed to permit series or parallel flow conditions for the
+
+425
+00:48:58,059 --> 00:49:03,519
+coolant. In parallel, blanket flow can be adjusted to have a temperature rise
+
+426
+00:49:03,519 --> 00:49:11,699
+equal to that in the core. The third core is highly instrumented to detect thermal
+
+427
+00:49:11,699 --> 00:49:17,679
+expansion and reactivity changes. In April 1958 the reactor was brought to a
+
+428
+00:49:17,679 --> 00:49:24,940
+power level of 930 thermal kilowatts. It has already demonstrated the breathing
+
+429
+00:49:24,940 --> 00:49:30,880
+principle and excellent stability under induced oscillations and other extreme
+
+430
+00:49:30,880 --> 00:49:36,119
+testing conditions. The experience is being incorporated in the design of a
+
+431
+00:49:36,119 --> 00:49:40,900
+larger fast reactor now under construction to further advance
+
+432
+00:49:40,900 --> 00:49:46,800
+practical power generation with breeder reactors. The second experimental reactor
+
+433
+00:49:46,800 --> 00:49:52,720
+will produce 16,500 net electrical kilowatts and is expected to be
+
+434
+00:49:52,720 --> 00:49:58,060
+operating in 1960.
+
+435
+00:49:58,060 --> 00:50:04,380
+Near Detroit, Michigan, the Power Reactor Development Company, with associated electric
+
+436
+00:50:04,380 --> 00:50:13,660
+utilities and industrial firms, is constructing the Enrico Fermi atomic power plant to demonstrate
+
+437
+00:50:13,660 --> 00:50:21,620
+the fast reactor concept on a commercial scale.
+
+438
+00:50:21,619 --> 00:50:32,799
+is proceeding on major components such as the refueling device, pumps, piping, and the
+
+439
+00:50:32,799 --> 00:50:39,779
+reactor vessel. Initially, the Detroit Edison Company plans to utilize the Fermi plant's
+
+440
+00:50:39,779 --> 00:50:50,779
+heat output of 300,000 kilowatts to produce 100,000 kilowatts of electricity. After sufficient
+
+441
+00:50:51,619 --> 00:50:57,299
+experience at this level, production can be increased to the generators capacity
+
+442
+00:50:57,299 --> 00:51:10,960
+of 150,000 kilowatts. Completion is scheduled for 1960. In this film you have
+
+443
+00:51:10,960 --> 00:51:16,719
+seen illustrations of work undertaken in the United States by the spring of 1958
+
+444
+00:51:16,720 --> 00:51:21,740
+to make pressurized water and boiling water reactors available
+
+445
+00:51:21,740 --> 00:51:28,160
+and to develop improved technology for homogeneous, organic moderated,
+
+446
+00:51:29,200 --> 00:51:35,740
+sodium graphite, and fast breeder reactors, which may lead to lower costs.
+
+447
+00:51:36,500 --> 00:51:41,740
+The United States will continue major efforts to advance nuclear technology
+
+448
+00:51:41,740 --> 00:51:45,760
+to help meet the needs of the United States.
+
+449
+00:51:46,720 --> 00:51:49,840
+and the other nations of the world.
+
+450
+00:51:49,840 --> 00:51:54,060
+Many significant advances will be made by other nations
+
+451
+00:51:54,060 --> 00:51:56,800
+through their own independent efforts.
+
+452
+00:51:56,800 --> 00:52:02,220
+But to cooperate with other nations and with their professional people,
+
+453
+00:52:02,220 --> 00:52:05,780
+research groups, industries, and governments,
+
+454
+00:52:05,780 --> 00:52:11,980
+the United States will continue to make available technical information, technical assistance,
+
+455
+00:52:11,980 --> 00:52:15,120
+training, fuel, and other materials,
+
+456
+00:52:15,119 --> 00:52:20,199
+as well as processing services and facilities.
+
+457
+00:52:20,199 --> 00:52:26,079
+The United States will welcome further cooperation with other nations in the hope that cooperation
+
+458
+00:52:26,079 --> 00:52:32,559
+to advance nuclear generation will benefit all mankind.

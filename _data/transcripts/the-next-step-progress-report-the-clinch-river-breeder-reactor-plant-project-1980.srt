@@ -1,0 +1,679 @@
+1
+00:00:00,100 --> 00:00:11,439
+Today, some 4,000 Americans across the country are working on a project known as the Clinch River Breeder Reactor Plant.
+
+2
+00:00:14,060 --> 00:00:17,960
+The plant site is right here in Oak Ridge, Tennessee.
+
+3
+00:00:19,900 --> 00:00:22,280
+You can see the Clinch River there at that bluff.
+
+4
+00:00:25,220 --> 00:00:28,500
+The control room will be here where I'm standing.
+
+5
+00:00:28,600 --> 00:00:36,420
+With the resolution of licensing, construction could begin on the nation's first large-scale demonstration breeder in 1981.
+
+6
+00:00:37,020 --> 00:00:39,820
+The plant could start producing electricity in 1988.
+
+7
+00:00:40,920 --> 00:00:47,179
+The 350 megawatts of electricity from the Clinch River plant will be transmitted along these power lines,
+
+8
+00:00:47,819 --> 00:00:52,960
+bringing enough electricity to 200,000 homes in the Tennessee Valley Authority service area.
+
+9
+00:00:53,399 --> 00:00:58,480
+We're not turning earth here yet, but we've come a long way since the inception of the project.
+
+10
+00:00:58,600 --> 00:01:06,500
+This report focuses on that progress and why we call the breeder a step toward energy independence.
+
+11
+00:01:06,600 --> 00:01:26,019
+In fact, 753 utilities from across the country have pledged $257 million to build and operate this plant
+
+12
+00:01:26,119 --> 00:01:28,480
+because they believe the Clinch River project is the best way to do it.
+
+13
+00:01:28,580 --> 00:01:34,680
+This is the next logical step the United States must take in order to have a commercially feasible breeder ready when America needs it.
+
+14
+00:01:35,420 --> 00:01:40,219
+This venture remains the largest industry commitment ever made for a single research and development project.
+
+15
+00:01:41,100 --> 00:01:45,300
+More than likely, a utility in your area belongs to the partnership of utilities
+
+16
+00:01:45,400 --> 00:01:48,960
+known as the Breeder Reactor Corporation formed to support the project.
+
+17
+00:01:54,759 --> 00:01:58,200
+That brings us to the question, what is a breeder?
+
+18
+00:01:58,980 --> 00:02:04,719
+A breeder is a type of nuclear reactor that produces more fuel than it uses as it generates electricity.
+
+19
+00:02:05,340 --> 00:02:06,320
+How does it do this?
+
+20
+00:02:06,679 --> 00:02:07,640
+Well, it's not magic.
+
+21
+00:02:08,539 --> 00:02:12,259
+The breeder uses plutonium-239 and uranium-238.
+
+22
+00:02:12,979 --> 00:02:14,759
+Plutonium is the fissionable material.
+
+23
+00:02:15,340 --> 00:02:17,120
+Fissionable means that it can split apart.
+
+24
+00:02:17,859 --> 00:02:18,980
+Here, let me show you.
+
+25
+00:02:20,080 --> 00:02:25,480
+When a neutron hits an atom of plutonium-239,
+
+26
+00:02:25,880 --> 00:02:28,460
+it splits apart and creates a nuclear reactor.
+
+27
+00:02:28,579 --> 00:02:29,479
+This doesn't require a lot of heat.
+
+28
+00:02:29,899 --> 00:02:34,359
+The heat is used to boil water, to make steam, to produce electricity.
+
+29
+00:02:35,239 --> 00:02:38,879
+Also, we get three new neutrons.
+
+30
+00:02:39,619 --> 00:02:41,239
+Remember, we started with just one.
+
+31
+00:02:42,039 --> 00:02:42,939
+Now we have three.
+
+32
+00:02:43,799 --> 00:02:46,620
+One of these neutrons keeps our chain reaction going.
+
+33
+00:02:47,499 --> 00:02:52,879
+The remaining two can be used with uranium-238, a fertile material.
+
+34
+00:02:54,339 --> 00:02:58,439
+When an atom of uranium-238 absorbs one of these of these spare neutrons,
+
+35
+00:02:58,539 --> 00:03:02,240
+it becomes plutonium-239.
+
+36
+00:03:04,639 --> 00:03:10,079
+Now, if this is managed efficiently, we end up with more fissionable fuel than we started with.
+
+37
+00:03:12,299 --> 00:03:19,860
+Perhaps the real story of the breeder begins here, what we call a vast storehouse of energy waiting to be tapped.
+
+38
+00:03:20,639 --> 00:03:24,039
+What I'm leaning on is a canister of uranium hexafluoride.
+
+39
+00:03:24,720 --> 00:03:27,819
+This depleted uranium left over from the nation's weapons program
+
+40
+00:03:27,919 --> 00:03:32,739
+and the enrichment process used to make fuel for today's conventional light-water reactors
+
+41
+00:03:32,839 --> 00:03:36,340
+that now produce about 12% of the nation's electricity.
+
+42
+00:03:36,859 --> 00:03:40,799
+This U-238 is now being stored at three government reservations,
+
+43
+00:03:41,539 --> 00:03:45,740
+some 20,000 cylinders containing 280,000 tons of uranium.
+
+44
+00:03:46,319 --> 00:03:52,180
+It is already mined and waiting to be used, without strip mining or otherwise disturbing the land.
+
+45
+00:03:52,539 --> 00:03:56,659
+This existing stockpile of depleted uranium can't be used in today's reactors.
+
+46
+00:03:57,299 --> 00:03:59,459
+They use enriched uranium-235.
+
+47
+00:04:00,519 --> 00:04:03,919
+But in a breeder reactor, this leftover uranium-238
+
+48
+00:04:04,019 --> 00:04:07,799
+is equivalent to the estimated oil resources of the entire world.
+
+49
+00:04:08,539 --> 00:04:11,959
+This source alone could provide our total electrical energy needs
+
+50
+00:04:12,059 --> 00:04:13,039
+for several centuries.
+
+51
+00:04:13,759 --> 00:04:16,019
+But there's more than that to the breeder story.
+
+52
+00:04:16,679 --> 00:04:19,779
+If you take the uranium we know for sure is in the ground
+
+53
+00:04:19,879 --> 00:04:25,319
+and utilize this in the breeder, the energy content would be larger than all of the world's supply
+
+54
+00:04:25,419 --> 00:04:27,620
+of coal, oil, and gas.
+
+55
+00:04:27,919 --> 00:04:32,819
+It's no wonder, then, that virtually every major industrial nation in the world
+
+56
+00:04:32,919 --> 00:04:35,819
+is vigorously pushing ahead with their own breeders.
+
+57
+00:04:35,919 --> 00:04:40,819
+Great Britain, France, Japan, Soviet Russia, and West Germany
+
+58
+00:04:40,919 --> 00:04:42,819
+all have operating breeder reactors.
+
+59
+00:04:42,919 --> 00:04:46,819
+Belgium, the Netherlands, Italy, and Luxembourg
+
+60
+00:04:46,919 --> 00:04:48,819
+are taking part in breeder ventures.
+
+61
+00:04:48,919 --> 00:04:53,819
+The French plan to have a commercial-sized breeder in operation by 1983.
+
+62
+00:04:54,919 --> 00:05:01,459
+In all, there are nine breeder reactors now operating, four more under construction, and nine others planned.
+
+63
+00:05:01,559 --> 00:05:07,459
+Of these 22 breeders, Soviet Russia, which is the largest oil-producing nation in the world,
+
+64
+00:05:07,559 --> 00:05:09,459
+accounts for five.
+
+65
+00:05:09,559 --> 00:05:11,459
+They're planning for the future.
+
+66
+00:05:11,559 --> 00:05:15,459
+All these nations realize the vast potential of the breeder
+
+67
+00:05:15,559 --> 00:05:20,459
+and that time is running out on the age of cheap fossil fuels.
+
+68
+00:05:20,559 --> 00:05:26,459
+Meanwhile, the United States has only one small electricity-producing breeder.
+
+69
+00:05:26,559 --> 00:05:33,459
+Utilities with long experience in nuclear energy see breeder reactors as the next generation of nuclear power plants.
+
+70
+00:05:33,559 --> 00:05:42,459
+With light-water reactors and then breeders, the U.S. could be assured of safe, clean, reliable, and economical nuclear power
+
+71
+00:05:42,559 --> 00:05:46,459
+to meet the energy needs of this country well beyond the foreseeable future.
+
+72
+00:05:46,559 --> 00:05:52,459
+Many people are not aware that the breeder concept dates back to the very beginning of the nuclear era.
+
+73
+00:05:52,559 --> 00:05:58,459
+Nobel Prize-winning physicist Enrico Fermi, who pioneered the development of nuclear energy,
+
+74
+00:05:58,559 --> 00:06:02,459
+predicted in 1945 that the nation that develops the breeder reactor
+
+75
+00:06:02,559 --> 00:06:05,459
+will have a great competitive advantage.
+
+76
+00:06:05,559 --> 00:06:12,459
+That's because the breeder, in a core like this model, can extend the energy available from our present uranium resources
+
+77
+00:06:12,559 --> 00:06:15,459
+from 50 or so years to hundreds of years.
+
+78
+00:06:15,559 --> 00:06:19,459
+For a breeder can deliver 60 times as much electricity from uranium
+
+79
+00:06:19,559 --> 00:06:21,459
+as conventional nuclear reactors.
+
+80
+00:06:21,559 --> 00:06:24,459
+The U.S. has almost 35 years' experience in breeders.
+
+81
+00:06:25,560 --> 00:06:29,460
+Clementine, an experimental reactor, began operation in 1946.
+
+82
+00:06:29,560 --> 00:06:33,460
+The first nuclear power plant to produce electricity was a breeder.
+
+83
+00:06:33,560 --> 00:06:39,460
+The four light bulbs you see glowing here were illuminated by breeder power back in 1951.
+
+84
+00:06:39,560 --> 00:06:45,460
+The plant was called EBR-1 for experimental breeder reactor number one.
+
+85
+00:06:45,560 --> 00:06:50,460
+Its successor, EBR-2, began operating in 1963.
+
+86
+00:06:50,560 --> 00:06:56,460
+It's in its 17th year of successful operation and is still producing electricity.
+
+87
+00:06:56,560 --> 00:07:01,460
+This year in Richland, Washington, the Fast Flux Test Facility went into operation.
+
+88
+00:07:01,560 --> 00:07:04,460
+This is the largest breeder test reactor in the world.
+
+89
+00:07:04,560 --> 00:07:09,460
+This long experience underscores the fact that breeder technology is not new,
+
+90
+00:07:09,560 --> 00:07:13,460
+but it does have to be demonstrated in a utility environment.
+
+91
+00:07:13,560 --> 00:07:17,460
+This is why utilities from across the country, in partnership with the government,
+
+92
+00:07:17,560 --> 00:07:20,460
+want to build and operate the Clinch River Plant.
+
+93
+00:07:20,560 --> 00:07:22,460
+Project Management Corporation General Manager,
+
+94
+00:07:22,560 --> 00:07:24,460
+Mr. Bill Roth.
+
+95
+00:07:24,560 --> 00:07:25,460
+Hello, Calvin.
+
+96
+00:07:25,560 --> 00:07:26,460
+Hello, Bill.
+
+97
+00:07:26,560 --> 00:07:27,460
+Your progress, Bill.
+
+98
+00:07:27,560 --> 00:07:28,460
+How far along have you come?
+
+99
+00:07:28,560 --> 00:07:31,460
+Calvin, since 1972, the project has come a long way.
+
+100
+00:07:31,560 --> 00:07:36,460
+The research and development for the project is about 90% complete.
+
+101
+00:07:36,560 --> 00:07:40,460
+The design is 80% complete.
+
+102
+00:07:40,560 --> 00:07:44,460
+About $80 million worth of equipment has already been delivered.
+
+103
+00:07:44,560 --> 00:07:49,460
+The value of major components and test items on order is over half a billion dollars.
+
+104
+00:07:49,560 --> 00:07:55,460
+The total investment in the project by government and industry now stands at over $850 million.
+
+105
+00:07:55,560 --> 00:07:57,460
+And you're building more components every day.
+
+106
+00:07:57,560 --> 00:07:58,460
+That's right.
+
+107
+00:07:58,560 --> 00:08:05,460
+The project has now over $250 million worth of components completed
+
+108
+00:08:05,560 --> 00:08:08,460
+or in the fabrication pipeline.
+
+109
+00:08:08,560 --> 00:08:10,460
+Thank you, Mr. Roth.
+
+110
+00:08:10,560 --> 00:08:15,460
+Now let's look at some specific examples of our progress in component procurement and fabrication.
+
+111
+00:08:15,560 --> 00:08:19,460
+The $22.6 million reactor vessel for the Clinch River project
+
+112
+00:08:19,560 --> 00:08:21,460
+was completed six months ago.
+
+113
+00:08:21,560 --> 00:08:26,460
+That's a lot of costs ahead of schedule and $2.7 million underestimated cost.
+
+114
+00:08:26,560 --> 00:08:30,460
+Standing over five stories high and weighing 505 tons,
+
+115
+00:08:30,560 --> 00:08:36,460
+the stainless steel vessel will contain the nuclear core that is the heart of the power plant.
+
+116
+00:08:36,560 --> 00:08:41,460
+The three intermediate heat exchangers for the Clinch River project are nearing completion.
+
+117
+00:08:41,560 --> 00:08:44,460
+All three are scheduled for shipment later this year.
+
+118
+00:08:44,560 --> 00:08:48,460
+The three units will cost almost $40 million.
+
+119
+00:08:48,560 --> 00:08:52,460
+The drive systems for the main sodium pumps have also moved along over the past year.
+
+120
+00:08:52,560 --> 00:08:56,460
+The huge 45-ton drive motor is now in Oak Ridge.
+
+121
+00:09:10,560 --> 00:09:13,460
+Other major components have also been delivered.
+
+122
+00:09:13,560 --> 00:09:17,460
+These include components such as the protected water storage tank,
+
+123
+00:09:17,560 --> 00:09:21,460
+the pump drive system, the heat exchanger guard vessels,
+
+124
+00:09:21,560 --> 00:09:25,460
+the reactor guard vessel, the pump guard vessel,
+
+125
+00:09:25,560 --> 00:09:30,460
+the in-vessel transfer machine, the plug drive and control system,
+
+126
+00:09:30,560 --> 00:09:33,460
+and the primary sodium overflow vessel.
+
+127
+00:09:33,560 --> 00:09:37,460
+Now let's take a look at the Clinch River project's technical merit.
+
+128
+00:09:37,560 --> 00:09:41,460
+Over the past several years, numerous independent studies have taken a close look
+
+129
+00:09:41,560 --> 00:09:43,460
+at the Clinch River project.
+
+130
+00:09:43,560 --> 00:09:47,460
+The latest is this report by the General Accounting Office.
+
+131
+00:09:47,560 --> 00:09:51,460
+The studies have found that the Clinch River project's is sound and up-to-date.
+
+132
+00:09:51,560 --> 00:09:57,460
+Our engineers have incorporated the most advanced breeder technology available in the United States and abroad,
+
+133
+00:09:57,560 --> 00:10:04,460
+and the design has been constantly updated to keep it at the forefront of breeder reactor plant development.
+
+134
+00:10:11,560 --> 00:10:14,460
+A good example is its core design.
+
+135
+00:10:14,560 --> 00:10:17,460
+A heterogeneous core design was adopted just last year.
+
+136
+00:10:17,560 --> 00:10:20,460
+The design improves the breeding capability of the reactor.
+
+137
+00:10:20,560 --> 00:10:24,460
+The design is evidence of U.S. leadership in breeder technology.
+
+138
+00:10:24,560 --> 00:10:29,460
+Core designs based on alternate fuel cycles have also been developed.
+
+139
+00:10:29,560 --> 00:10:36,460
+This means that the Clinch River breeder project could be utilized in the nation's ongoing liquid metal fast breeder reactor program
+
+140
+00:10:36,560 --> 00:10:40,460
+as a testbed to examine proliferation, limiting concepts,
+
+141
+00:10:40,560 --> 00:10:44,460
+and advanced fuel designs for future power plants.
+
+142
+00:10:44,560 --> 00:10:46,460
+Multiplexing is another innovation.
+
+143
+00:10:46,560 --> 00:10:51,460
+This modern data communication system has proven its reliability
+
+144
+00:10:51,560 --> 00:10:56,460
+in the telephone, petrochemical, military, and aerospace industries.
+
+145
+00:10:56,560 --> 00:11:00,460
+Multiplexing makes it possible for one cable to carry as many signals
+
+146
+00:11:00,560 --> 00:11:03,460
+as are ordinarily carried by 8,000 cables.
+
+147
+00:11:03,560 --> 00:11:08,460
+The system will save 1.6 million feet of cable in the plant and reduce costs.
+
+148
+00:11:08,560 --> 00:11:13,460
+Safety has been a paramount consideration in the design of the Clinch River project.
+
+149
+00:11:13,560 --> 00:11:20,460
+As part of the continuing work on safety assurance, a comprehensive integrated review of key plant systems began last April
+
+150
+00:11:20,560 --> 00:11:25,460
+to examine the plant design in light of the lessons learned at Three Mile Island.
+
+151
+00:11:25,560 --> 00:11:29,460
+The full-scale mock-up of the main control room for the Clinch River plant
+
+152
+00:11:29,560 --> 00:11:33,460
+is now installed in a building near the project office headquarters in Oak Ridge.
+
+153
+00:11:33,560 --> 00:11:38,460
+Engineers are presently employing the model to check out the man-machine interfaces
+
+154
+00:11:38,560 --> 00:11:42,460
+to ensure that the operators can perform control plant procedures
+
+155
+00:11:42,560 --> 00:11:44,460
+with optimum efficiency and effectiveness.
+
+156
+00:11:45,560 --> 00:11:50,460
+Another model, some 1,000 miles away, is also playing an important role
+
+157
+00:11:50,560 --> 00:11:52,460
+in the development of the Clinch River plant.
+
+158
+00:11:52,560 --> 00:11:56,460
+Under direction of the project office, this scale model of the plant
+
+159
+00:11:56,560 --> 00:12:00,460
+is being built at the Burns and Rowe facility in Oroville, New Jersey.
+
+160
+00:12:00,560 --> 00:12:03,460
+This is one of over 300 modules under construction.
+
+161
+00:12:03,560 --> 00:12:07,460
+The model is currently being used to establish final arrangements
+
+162
+00:12:07,560 --> 00:12:10,460
+of piping and components to assure correct placements.
+
+163
+00:12:10,560 --> 00:12:14,460
+The model will later be used to train employees in the operation of the plant.
+
+164
+00:12:15,560 --> 00:12:19,460
+The fabrication of components, our advanced technology,
+
+165
+00:12:19,560 --> 00:12:23,460
+the state of our readiness to address licensing issues,
+
+166
+00:12:23,560 --> 00:12:27,460
+all indicate very clearly the accomplishments of the Clinch River project.
+
+167
+00:12:27,560 --> 00:12:34,460
+But the payoff for the American consumer in terms of energy availability for the future is here.
+
+168
+00:12:38,560 --> 00:12:41,460
+And here, where the plant to demonstrate the nation's breeder will be built.
+
+169
+00:12:41,560 --> 00:12:44,460
+The breeder is an insurance policy to preserve our energy options.
+
+170
+00:12:45,560 --> 00:12:49,460
+And it's an important step toward energy independence.

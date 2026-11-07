@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:06,259
+You're now looking from the northerly direction into the test cell.
+
+2
+00:00:30,000 --> 00:00:33,500
+T0 has just occurred, will be approximately in a minute or so.
+
+3
+00:00:33,500 --> 00:00:37,000
+There's a little bit of sodium that you can see plopping down on the floor.
+
+4
+00:00:37,000 --> 00:00:40,000
+We should get full flow within a minute.
+
+5
+00:01:00,000 --> 00:01:23,620
+Good sodium flow on the videotape.
+
+6
+00:01:23,620 --> 00:01:29,780
+Tank pressure at 6.6.
+
+7
+00:01:29,780 --> 00:01:31,540
+Sodium flow still looks good.
+
+8
+00:01:45,060 --> 00:01:46,700
+All systems still look good.
+
+9
+00:01:49,840 --> 00:01:54,840
+Oxygen hold net 21%, hydrogen at zero point.
+
+10
+00:01:59,780 --> 00:02:12,060
+All systems still look good.
+
+11
+00:02:12,060 --> 00:02:15,719
+Oxygen is still at 21%.
+
+12
+00:02:15,719 --> 00:02:28,920
+No hydrogen.
+
+13
+00:02:28,920 --> 00:02:31,080
+Starting to come into control room.

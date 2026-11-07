@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:24,430
+Now that man has learned to package and control a vastly greater force than chemical explosives,
+
+2
+00:00:24,430 --> 00:00:31,430
+his thinking has turned to methods which will make possible the effective use of this new power within industry.
+
+3
+00:00:32,430 --> 00:00:34,430
+The potential applications?
+
+4
+00:00:36,430 --> 00:00:37,430
+Consider just one.
+
+5
+00:00:38,430 --> 00:00:42,430
+The development of a harbor in the hard rock of a remote coastal area.
+
+6
+00:00:46,430 --> 00:00:49,430
+Assume a channel approximately 400 meters wide,
+
+7
+00:00:50,430 --> 00:00:53,430
+1500 meters long, and at least 20 meters deep.
+
+8
+00:00:54,430 --> 00:00:58,430
+with a turning basin of 1,000 meters diameter,
+
+9
+00:00:58,430 --> 00:01:02,430
+having a depth of at least 20 meters at its shallowest point.
+
+10
+00:01:02,430 --> 00:01:04,430
+The procedure?
+
+11
+00:01:05,430 --> 00:01:11,430
+Bury an inline series of four equally spaced 100 kiloton shots
+
+12
+00:01:11,430 --> 00:01:17,430
+at a depth of 30 meters and a terminal shot of one megaton 50 meters deep,
+
+13
+00:01:18,430 --> 00:01:20,430
+all shots of minimal fission yield.
+
+14
+00:01:21,430 --> 00:01:27,430
+Dependent on the nature of the surrounding medium, surround the devices with sufficient borated compounds
+
+15
+00:01:27,430 --> 00:01:31,430
+to reduce neutron activation by several orders of magnitude.
+
+16
+00:01:33,430 --> 00:01:34,430
+Detonate.
+
+17
+00:01:40,430 --> 00:01:44,430
+What is the effect upon radiological safety in the area?
+
+18
+00:01:46,430 --> 00:01:49,430
+Using energy releases of the order of a megaton
+
+19
+00:01:49,430 --> 00:01:52,430
+buried at a depth of 50 meters.
+
+20
+00:01:53,430 --> 00:02:03,430
+With the fireball contained, there would be minimal thermal effects above ground, and
+
+21
+00:02:03,430 --> 00:02:08,430
+burial of the energy source would confine the radioactivity to a smaller area than a
+
+22
+00:02:08,430 --> 00:02:12,430
+surface burst.
+
+23
+00:02:12,430 --> 00:02:20,430
+Over pressures and seismic effects would be acceptably small beyond a radius of 30 kilometers.
+
+24
+00:02:20,430 --> 00:02:25,430
+in the region of the crater would be washed out into the ocean rapidly and essentially
+
+25
+00:02:25,430 --> 00:02:28,430
+removed from the biosphere.
+
+26
+00:02:28,430 --> 00:02:33,430
+The activity on land near the crater would rapidly decay.
+
+27
+00:02:33,430 --> 00:02:39,430
+And in the matter of economics, the volume excavated would be about 100 million cubic
+
+28
+00:02:39,430 --> 00:02:41,430
+meters.
+
+29
+00:02:41,430 --> 00:02:46,430
+The estimated cost of excavation with nuclear energy releases would be significantly less
+
+30
+00:02:46,430 --> 00:02:52,430
+the estimated 60 million dollars that it would cost for excavation and removal by conventional means
+
+31
+00:02:54,430 --> 00:02:59,430
+it is interesting to note that the cost of the explosives in the nuclear energy release
+
+32
+00:02:59,430 --> 00:03:03,430
+would be but a small fraction of the total expenditure
+
+33
+00:03:05,430 --> 00:03:09,430
+in remote regions where large yields can be safely used
+
+34
+00:03:09,430 --> 00:03:15,430
+and where economic factors are favorable, such explosions are demonstrably feasible.
+
+35
+00:03:17,430 --> 00:03:23,430
+With more experience, and the extension of low-cost reduced fission design to smaller
+
+36
+00:03:23,430 --> 00:03:28,430
+energy releases, the method may one day be applied in more highly populated areas.
+
+37
+00:03:30,430 --> 00:03:35,430
+In the state of Nevada, one of the table-like mountains was the locale of the first
+
+38
+00:03:35,430 --> 00:03:38,430
+completely contained underground nuclear explosion.
+
+39
+00:03:39,430 --> 00:03:45,430
+The 1,700-ton shot was fired on September 19, 1957.
+
+40
+00:03:46,430 --> 00:03:49,430
+Watch for the shock waves above the arrows.
+
+41
+00:03:56,430 --> 00:04:02,430
+Rocks dislodged from the mesa's rim left dust trails that formed into a cloud above it.
+
+42
+00:04:02,430 --> 00:04:09,430
+The ground shock was so slight as to be almost imperceptible to observers four kilometers away.
+
+43
+00:04:10,430 --> 00:04:16,430
+The peak acceleration at this point amounted to .02 G's.
+
+44
+00:04:17,430 --> 00:04:23,430
+Actually, only one-half of one percent of total energy released was found to be in the seismic signal,
+
+45
+00:04:24,430 --> 00:04:26,430
+and no significant overpressures existed.
+
+46
+00:04:26,430 --> 00:04:34,430
+subsequent construction of an exploration tunnel to zero point permitted close study
+
+47
+00:04:34,430 --> 00:04:39,430
+of the explosions effects and provided data on the problems of mining in comparable regions
+
+48
+00:04:39,430 --> 00:04:47,430
+a graphic illustration of the site with a section removed permits visualization of the
+
+49
+00:04:47,430 --> 00:04:55,430
+physical setup at zero point the tunnel greatly enlarged for the purpose of illustration was
+
+50
+00:04:55,430 --> 00:05:01,430
+designed to be self-sealing to prevent the ejection of radioactive material.
+
+51
+00:05:01,430 --> 00:05:06,430
+The initial rectangular room which housed the nuclear device was approximately two
+
+52
+00:05:06,430 --> 00:05:12,430
+meters on a side. The shock from the explosion in the room collapsed the
+
+53
+00:05:12,430 --> 00:05:16,430
+tunnel a distance of 61 meters from the point of detonation, before the shock
+
+54
+00:05:16,430 --> 00:05:22,430
+could progress down the tunnel itself. A profile view of the site, a formation of
+
+55
+00:05:22,430 --> 00:05:27,430
+porous silicate rock known as Oak Springs tough which overlays a dense
+
+56
+00:05:27,430 --> 00:05:35,430
+crystalline limestone permits relation of the location of zero point 610 meters
+
+57
+00:05:35,430 --> 00:05:42,430
+from the tunnel entrance 244 meters from the nearest point on the slope of the
+
+58
+00:05:42,430 --> 00:05:49,430
+Mesa and 274 meters from the Mesa's top
+
+59
+00:05:52,430 --> 00:06:05,430
+When the shot was fired, the walls of the initial rectangular room were expanded by a pressure of about 6 megabars to a sphere with a 17-meter radius.
+
+60
+00:06:07,430 --> 00:06:17,430
+The sphere was lined by about 10 centimeters of melted rock weighing 700 tons, which reached a temperature between 1200 and 1500 degrees centigrade.
+
+61
+00:06:17,430 --> 00:06:27,430
+the shock continuing outward crushed the rock to sand for an additional 20 meters because the
+
+62
+00:06:27,430 --> 00:06:35,430
+formation contained about 15% water the melted rock cooled rapidly to form glass which contained
+
+63
+00:06:35,430 --> 00:06:43,430
+the radioactivity when the roof of the glass sphere gave way a collapse proceeded progressively
+
+64
+00:06:43,430 --> 00:06:50,430
+upward and stopped only after rising about 120 meters above zero point in the
+
+65
+00:06:50,430 --> 00:06:55,430
+matter of mining in comparable regions it is noted that the shot produced about
+
+66
+00:06:55,430 --> 00:07:02,430
+400,000 tons of sand the collapse of the initial cavity resulted in more than
+
+67
+00:07:02,430 --> 00:07:10,430
+200,000 tons of permeable rock and that of all this material only 700 tons
+
+68
+00:07:10,430 --> 00:07:13,430
+contained practically all the radioactivity.
+
+69
+00:07:13,430 --> 00:07:17,430
+And this in a well-defined, localized zone.
+
+70
+00:07:19,430 --> 00:07:22,430
+These facts immediately suggest a whole series
+
+71
+00:07:22,430 --> 00:07:24,430
+of possible applications in diverse areas.
+
+72
+00:07:25,430 --> 00:07:28,430
+For example, firing in a dry medium
+
+73
+00:07:28,430 --> 00:07:31,430
+could result in a high-temperature region
+
+74
+00:07:31,430 --> 00:07:33,430
+that would persist for an extended period.
+
+75
+00:07:34,430 --> 00:07:42,430
+And a controlled introduction of water would produce steam for use in generating power or for other industrial purposes.
+
+76
+00:07:43,430 --> 00:07:50,430
+The use of explosions deep underground beneath large low-grade ore bodies such as copper
+
+77
+00:07:50,430 --> 00:07:53,430
+immediately suggests more economic recovery
+
+78
+00:07:53,430 --> 00:07:57,430
+as the explosions would break and loosen large volumes of the ore
+
+79
+00:07:57,430 --> 00:07:59,430
+to permit leaching of the mineral.
+
+80
+00:08:01,430 --> 00:08:05,430
+The possibility of releasing petroleum from oil shale
+
+81
+00:08:05,430 --> 00:08:08,430
+by detonating a device beneath the shale layer
+
+82
+00:08:08,430 --> 00:08:11,430
+is suggested by the fact that in the shot at the Nevada
+
+83
+00:08:11,430 --> 00:08:14,430
+Mountain, most of the energy was released as
+
+84
+00:08:14,430 --> 00:08:17,430
+heat within a radius of about 30 meters of the
+
+85
+00:08:17,430 --> 00:08:20,430
+center of detonation, and the volume of broken
+
+86
+00:08:20,430 --> 00:08:21,430
+rock was considerable.
+
+87
+00:08:23,430 --> 00:08:26,430
+The crushing and heating would distill petroleum
+
+88
+00:08:26,430 --> 00:08:28,430
+through pipes to the surface.
+
+89
+00:08:30,430 --> 00:08:32,430
+In the area of public service,
+
+90
+00:08:32,430 --> 00:08:39,430
+It is suggested that explosions in dry river valleys in desert areas would provide large
+
+91
+00:08:39,430 --> 00:08:44,430
+underground reservoirs which would serve for flood control and for recharging underground
+
+92
+00:08:44,430 --> 00:08:50,430
+water supply systems.
+
+93
+00:08:50,430 --> 00:08:58,430
+Of course, there are problems to be solved and experiments are underway to solve them.
+
+94
+00:08:58,430 --> 00:09:05,430
+In sum, nuclear explosives will be used within industry for the good of man exactly as chemical
+
+95
+00:09:05,430 --> 00:09:07,430
+explosives are used.
+
+96
+00:09:07,430 --> 00:09:13,430
+But in addition, they will be used with an enormously greater effect at a substantially
+
+97
+00:09:13,430 --> 00:09:20,430
+lesser cost and for many industrial applications which require amounts of packaged energy heretofore
+
+98
+00:09:20,430 --> 00:09:27,430
+unavailable.

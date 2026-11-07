@@ -1,0 +1,759 @@
+1
+00:00:11,080 --> 00:00:16,300
+Enriched uranium, one of man's most valuable resources.
+
+2
+00:00:30,080 --> 00:00:47,199
+This enriched uranium button weighs 5 kilograms, 11 pounds.
+
+3
+00:00:47,299 --> 00:00:51,999
+Its value, $55,000.
+
+4
+00:00:52,099 --> 00:00:58,300
+These buttons will be alloyed, cast, rolled, or machined to make the various forms and
+
+5
+00:00:58,400 --> 00:01:05,120
+shapes useful to industry, science and defense. Because enriched uranium is
+
+6
+00:01:05,220 --> 00:01:11,260
+worth almost ten times its weight in gold, the many forms of salvage and waste
+
+7
+00:01:11,360 --> 00:01:16,660
+products will be recycled again and again to recover the last salvageable
+
+8
+00:01:16,760 --> 00:01:22,900
+quantity of enriched uranium. Throughout these operations certain basic
+
+9
+00:01:23,000 --> 00:01:28,059
+principles of nuclear safety will be followed to prevent accidents caused by
+
+10
+00:01:28,159 --> 00:01:45,079
+the phenomenon called criticality.
+
+11
+00:01:45,179 --> 00:01:51,540
+Today most people find no strangeness in our concept that all matter is made up
+
+12
+00:01:51,640 --> 00:01:59,919
+of atoms. Natural uranium is a mixture of two kinds of metallic atoms, uranium-238
+
+13
+00:02:00,019 --> 00:02:08,560
+and uranium-235. Most of these atoms are relatively stable uranium-238 or more
+
+14
+00:02:08,660 --> 00:02:16,600
+simply U-238. Only one of every 140 natural uranium atoms is of the more
+
+15
+00:02:16,700 --> 00:02:24,280
+excitable U-235. Both metals look the same. In fact, they can't be chemically separated.
+
+16
+00:02:25,339 --> 00:02:31,440
+Now, if one of the tiny wandering particles that we call neutrons happens to collide with an atom
+
+17
+00:02:31,540 --> 00:02:40,280
+of U-238, it may simply bounce off or it may be captured or absorbed into the atom. If, on the
+
+18
+00:02:40,380 --> 00:02:46,520
+other hand the neutron happens to hit a u-235 atom it may split or fission the
+
+19
+00:02:46,620 --> 00:02:52,780
+atom into several fragments part of the fissioning atom turns into pure energy
+
+20
+00:02:52,880 --> 00:02:59,720
+most of it appearing as heat or in the form of powerful x-rays in this release
+
+21
+00:02:59,820 --> 00:03:06,840
+of energy atomic power is born the leftover pieces of the broken atom are
+
+22
+00:03:06,940 --> 00:03:13,940
+called fission products. They are intensely radioactive and are now entirely different
+
+23
+00:03:14,040 --> 00:03:22,080
+elements of lighter weight, no longer uranium of any kind. A very important part of the fission
+
+24
+00:03:22,180 --> 00:03:28,660
+process is that the breaking atom throws out two or three of its own neutrons, each of which may
+
+25
+00:03:28,760 --> 00:03:35,480
+in turn hit and fission still another atom of U-235. Thus we may obtain a
+
+26
+00:03:35,580 --> 00:03:41,799
+constantly increasing number of fissions, a self-sustaining chain reaction,
+
+27
+00:03:41,899 --> 00:03:48,880
+criticality. We can put criticality to work in a nuclear reactor. Excess
+
+28
+00:03:48,980 --> 00:03:54,139
+neutrons not required to maintain criticality may be directed at special
+
+29
+00:03:54,239 --> 00:04:01,299
+targets and if captured transform them into radioisotopes used in medicine,
+
+30
+00:04:01,399 --> 00:04:09,419
+agriculture, industry and many types of research.
+
+31
+00:04:14,799 --> 00:04:20,499
+Heat emitted during a chain reaction can be used to generate electricity to power
+
+32
+00:04:20,599 --> 00:04:29,359
+large cities, desalt the seas or power submarines.
+
+33
+00:04:30,999 --> 00:04:34,959
+There is another side to criticality.
+
+34
+00:04:41,999 --> 00:04:47,579
+Nuclear explosives have constructive applications such as digging canals and
+
+35
+00:04:47,680 --> 00:04:51,919
+and inland waterways, recovering valuable mineral deposits,
+
+36
+00:04:52,019 --> 00:04:55,880
+and creating new exotic elements.
+
+37
+00:04:55,980 --> 00:04:59,760
+The ability of the U-235 atom to fission
+
+38
+00:04:59,860 --> 00:05:03,840
+has opened a limitless future to mankind.
+
+39
+00:05:03,940 --> 00:05:07,400
+Like fire and electricity, this new tool
+
+40
+00:05:07,500 --> 00:05:09,900
+must be properly controlled.
+
+41
+00:05:10,000 --> 00:05:16,640
+Through the mining and milling stages, uranium can be handled very much like any other valuable metal,
+
+42
+00:05:16,740 --> 00:05:20,480
+Although slightly radioactive, it can be touched without the use of gloves.
+
+43
+00:05:21,320 --> 00:05:25,260
+Some operations, which involve extensive handling of uranium, however,
+
+44
+00:05:25,880 --> 00:05:28,800
+may require the use of gloves or respirators.
+
+45
+00:05:30,100 --> 00:05:34,060
+Following the milling operation, uranium is put through a processing step
+
+46
+00:05:34,160 --> 00:05:36,440
+which no other metal undergoes.
+
+47
+00:05:36,700 --> 00:05:40,260
+This process, known as gaseous diffusion,
+
+48
+00:05:41,280 --> 00:05:46,460
+separates the U-238 atoms from the fissionable U-235 atoms.
+
+49
+00:05:46,740 --> 00:05:51,760
+The uranium in the form of gaseous uranium hexafluoride is pumped through
+
+50
+00:05:51,860 --> 00:05:57,620
+specially constructed porous barriers. The end product is uranium hexafluoride
+
+51
+00:05:57,720 --> 00:06:04,560
+highly enriched in U-235. Later this gas will be converted to powder or to metal.
+
+52
+00:06:04,660 --> 00:06:09,420
+Once uranium has been enriched in U-235 it must be handled in a strictly
+
+53
+00:06:09,520 --> 00:06:15,260
+prescribed manner to prevent accidental criticality that can cause injury or
+
+54
+00:06:15,360 --> 00:06:21,200
+or death personnel must avoid assembling a critical mass that is the amount of you
+
+55
+00:06:21,300 --> 00:06:29,140
+to 35 necessary to sustain a chain reaction this amount will differ according to the shape
+
+56
+00:06:29,240 --> 00:06:37,780
+or geometry of the u-2 35 in addition to certain other factors when criticality occurs gamma
+
+57
+00:06:37,880 --> 00:06:44,000
+radiation and neutrons are emitted which can cause injuries to personnel ranging from flesh
+
+58
+00:06:44,099 --> 00:06:50,419
+burns to the damage of internal organs. Although such accidents are extremely
+
+59
+00:06:50,519 --> 00:06:57,319
+rare, they can occur if safety rules are not followed. These rules are derived
+
+60
+00:06:57,419 --> 00:07:01,699
+from experiments with uranium assemblies conducted in special criticality
+
+61
+00:07:01,799 --> 00:07:04,699
+laboratories.
+
+62
+00:07:14,099 --> 00:07:21,819
+Data obtained in experiments assist in determining the safety limits for handling or storing
+
+63
+00:07:21,919 --> 00:07:25,980
+certain enrichments, quantities or shapes of uranium.
+
+64
+00:07:44,099 --> 00:07:54,980
+Such information is used by nuclear safety engineers to make the practical decisions regarding the moving or storing of enriched uranium within a nuclear plant.
+
+65
+00:07:56,140 --> 00:08:05,239
+Although rules and procedures may vary slightly at different installations, certain basic principles of nuclear safety are always valid.
+
+66
+00:08:05,339 --> 00:08:14,639
+The first principle, awareness of the degree of enrichment, the percentage of U-235 contained
+
+67
+00:08:14,739 --> 00:08:18,299
+in any unit of uranium.
+
+68
+00:08:18,399 --> 00:08:24,340
+The higher the percentage of U-235 within any batch of uranium, the lower the quantity
+
+69
+00:08:24,440 --> 00:08:29,100
+of uranium that may be safely placed within a given space.
+
+70
+00:08:29,200 --> 00:08:37,800
+For instance, uranium enriched to only 2% U-235 would not reach the danger stage until it filled a drum.
+
+71
+00:08:39,560 --> 00:08:50,080
+On the other hand, uranium with a 50% enrichment of U-235 under optimum conditions could reach the critical stage with only two cups of material.
+
+72
+00:08:50,180 --> 00:08:58,600
+At a 90 percent enrichment, under optimum conditions, only one cup of U-235 would be
+
+73
+00:08:58,700 --> 00:09:02,200
+required for criticality.
+
+74
+00:09:02,300 --> 00:09:07,999
+The second principle for nuclear safety is the control of the quantity or mass of enriched
+
+75
+00:09:08,099 --> 00:09:11,379
+uranium within a given space.
+
+76
+00:09:11,479 --> 00:09:17,759
+This control is subject to such factors as the volume and shape of containers, the concentration
+
+77
+00:09:17,859 --> 00:09:27,720
+of U-235 in mixed materials and interaction. Since handling large quantities of U-235 increases
+
+78
+00:09:27,820 --> 00:09:33,399
+the risk of accidental criticality. Quantity can be controlled in some operations by the
+
+79
+00:09:33,499 --> 00:09:41,159
+use of small volume containers. But if certain operations require the movement or storage
+
+80
+00:09:41,260 --> 00:09:50,080
+of large quantities of U-235, criticality can be avoided by the use of special shapes.
+
+81
+00:09:50,180 --> 00:09:56,160
+In the thin container, the uranium is spread out. Neutrons are more likely to escape the
+
+82
+00:09:56,260 --> 00:10:03,600
+boundaries of the containers without coming into contact with U-235 atoms.
+
+83
+00:10:03,700 --> 00:10:09,520
+In the fat container, the U-235 atoms are massed, thereby increasing the chance that
+
+84
+00:10:09,619 --> 00:10:16,980
+neutrons within the mass will be trapped and set off a chain reaction. These unusual looking
+
+85
+00:10:17,080 --> 00:10:24,299
+containers are used for storage of various solutions of U-235. Their small diameter makes
+
+86
+00:10:24,399 --> 00:10:32,359
+them nuclear safe. These pipes contain many gallons of solutions rich in U-235, but their
+
+87
+00:10:32,459 --> 00:10:41,960
+shape prevents the U-235 from assembling a critical mass. When U-235 is mixed with other
+
+88
+00:10:42,060 --> 00:10:49,039
+materials, the concentration of U-235 becomes important in maintaining criticality control.
+
+89
+00:10:49,139 --> 00:10:57,879
+Very often U-235 in a mixture with other materials is potentially more dangerous than U-235 in pure
+
+90
+00:10:57,979 --> 00:11:03,700
+concentration. The reason is that some materials such as water or the various
+
+91
+00:11:03,800 --> 00:11:11,220
+forms of carbon tend to slow or moderate the speed of neutrons. When neutrons are
+
+92
+00:11:11,320 --> 00:11:17,639
+moving at slower speeds, they are more readily trapped by U-235 atoms, a
+
+93
+00:11:17,739 --> 00:11:25,119
+situation which can lead to criticality. If U-235 is mixed with the material
+
+94
+00:11:25,219 --> 00:11:29,980
+tends to moderate neutrons, there is usually an optimum concentration point
+
+95
+00:11:30,080 --> 00:11:36,179
+at which criticality is most likely to occur. While below or above this point,
+
+96
+00:11:36,279 --> 00:11:42,960
+criticality would be less likely to occur. Personnel handling enriched
+
+97
+00:11:43,060 --> 00:11:49,499
+uranium must always be aware of the possibility of interaction. Interaction
+
+98
+00:11:49,599 --> 00:11:55,060
+can occur when neutrons escaping from one batch of uranium cause fissions in a
+
+99
+00:11:55,160 --> 00:12:00,739
+neighboring match this can be avoided by allowing sufficient distance between
+
+100
+00:12:00,839 --> 00:12:08,340
+individual containers of uranium to allow neutrons to escape the birdcage
+
+101
+00:12:08,440 --> 00:12:13,000
+container is designed and constructed to provide sufficient spacing between
+
+102
+00:12:13,100 --> 00:12:19,180
+uranium masses but even the birdcage spacing system has its limitations
+
+103
+00:12:19,280 --> 00:12:23,739
+containers should never be stacked above the height limit designated for each
+
+104
+00:12:23,839 --> 00:12:29,919
+storage area. Proper distances between authorized storage areas also will
+
+105
+00:12:30,019 --> 00:12:38,259
+prevent interaction. Proper spacing on vehicles, elevators, and transport dollies
+
+106
+00:12:38,359 --> 00:12:45,159
+must be observed to prevent criticality caused by interaction. Another important
+
+107
+00:12:45,259 --> 00:12:51,659
+principle is the control of neutron reflection. When neutrons escape from a
+
+108
+00:12:51,760 --> 00:12:57,900
+fission atom. They tend to bounce about until their energy is spent and they are captured
+
+109
+00:12:58,000 --> 00:13:06,180
+by other atoms. Certain materials placed near a mass of U-235 tend to act as neutron reflectors
+
+110
+00:13:06,280 --> 00:13:14,780
+which bounce the neutrons back into the U-235 mass and cause more fissions. A wall, a ceiling,
+
+111
+00:13:14,880 --> 00:13:20,380
+a drum of water, or even persons can reflect neutrons.
+
+112
+00:13:20,480 --> 00:13:29,100
+When a reflecting material is present, less U-235 is required to cause criticality.
+
+113
+00:13:29,200 --> 00:13:35,960
+A final principle for criticality control is the use of neutron absorbers.
+
+114
+00:13:36,060 --> 00:13:41,960
+Neutron absorbers are materials which remove neutrons from circulation and prevent them
+
+115
+00:13:42,060 --> 00:13:45,340
+from causing further fissions.
+
+116
+00:13:45,440 --> 00:13:50,700
+Elements such as boron and cadmium are effective neutron absorbers and may
+
+117
+00:13:50,800 --> 00:13:55,460
+be used to prevent or to stop criticality.
+
+118
+00:13:55,560 --> 00:13:59,239
+Again, the nuclear safety principles.
+
+119
+00:13:59,339 --> 00:14:02,519
+Awareness of degree of enrichment.
+
+120
+00:14:02,619 --> 00:14:06,999
+Control of mass or quantity through the control of volume,
+
+121
+00:14:07,099 --> 00:14:10,759
+shape, concentration, and interaction.
+
+122
+00:14:10,859 --> 00:14:18,679
+control of neutron reflection, and use of neutron absorbers.
+
+123
+00:14:18,779 --> 00:14:22,759
+These metal buttons, highly enriched in U-235,
+
+124
+00:14:22,859 --> 00:14:26,600
+are about to begin a typical production cycle.
+
+125
+00:14:26,700 --> 00:14:32,779
+They are stored in properly spaced trays to prevent the assembly of a critical mass.
+
+126
+00:14:32,879 --> 00:14:40,039
+When enriched uranium is being moved within a building, it is transported over an approved route.
+
+127
+00:14:40,140 --> 00:14:43,400
+When U-235 is moved by truck, load limits
+
+128
+00:14:43,500 --> 00:14:48,960
+are strictly observed to prevent assembly of a critical mass.
+
+129
+00:14:49,060 --> 00:14:52,340
+If the U-235 is being transported from one building
+
+130
+00:14:52,440 --> 00:14:59,420
+to another within a plant, the driver goes directly to his destination without stopping or parking
+
+131
+00:14:59,520 --> 00:15:01,480
+en route.
+
+132
+00:15:01,580 --> 00:15:04,840
+The U-235 should never be stored at a dock,
+
+133
+00:15:04,940 --> 00:15:09,780
+but should be taken directly to an authorized holding area.
+
+134
+00:15:09,880 --> 00:15:15,940
+When enriched uranium metal is machined, special care is taken to prevent the loss of valuable chips
+
+135
+00:15:16,040 --> 00:15:21,320
+and shavings, and to prevent the assembly of a critical mass.
+
+136
+00:15:21,420 --> 00:15:29,480
+The chips remain in containers on a special rack at the workstation until they are collected
+
+137
+00:15:29,580 --> 00:15:35,720
+and emptied into a nuclear safe container half filled with the neutron absorber perchloroethylene.
+
+138
+00:15:43,979 --> 00:15:49,340
+Eventually, these chips will be moved to another location for cleaning and return
+
+139
+00:15:49,440 --> 00:15:52,759
+to the production cycle.
+
+140
+00:15:52,859 --> 00:15:58,279
+During the dimensional inspection of enriched uranium components, only one component at a time
+
+141
+00:15:58,379 --> 00:16:01,119
+is permitted on an inspection table.
+
+142
+00:16:01,219 --> 00:16:07,419
+The next component to be inspected waits its turn in an authorized holding area.
+
+143
+00:16:07,519 --> 00:16:11,799
+In some inspection areas where other types of metals share the inspection equipment with
+
+144
+00:16:11,899 --> 00:16:19,560
+enriched uranium, special provisions are required to prevent possible misidentification.
+
+145
+00:16:19,660 --> 00:16:27,799
+In the radiography room, safe loading procedure is used to prevent a critical mass from forming.
+
+146
+00:16:27,900 --> 00:16:31,800
+The new 235 components are always well separated.
+
+147
+00:16:57,900 --> 00:17:11,220
+In a typical packaging operation, U-235 components are wrapped in plastic, placed in a can which
+
+148
+00:17:11,320 --> 00:17:20,039
+then is sealed, and loaded into a foam glass shipping container approved for interstate
+
+149
+00:17:20,139 --> 00:17:36,159
+transport.
+
+150
+00:17:36,259 --> 00:17:43,899
+Throughout a production cycle, many types of U-235 waste products are generated.
+
+151
+00:17:44,000 --> 00:17:54,239
+These chips and shavings are cleaned and bracheted for reentry into the production system.
+
+152
+00:17:54,339 --> 00:18:04,019
+Mop water, filters, and combustibles all contain tiny, but nonetheless valuable quantities
+
+153
+00:18:04,119 --> 00:18:07,700
+of U-235.
+
+154
+00:18:07,800 --> 00:18:15,400
+Solutions from this and other liquid salvage operations are stored in nuclear safe containers.
+
+155
+00:18:15,500 --> 00:18:21,239
+Eventually these solutions will be fed into a central uranium recovery system consisting
+
+156
+00:18:21,339 --> 00:18:24,680
+of extraction columns.
+
+157
+00:18:24,780 --> 00:18:31,860
+After passing through the columns, the uranium is evaporated and converted to uranium trioxide,
+
+158
+00:18:31,960 --> 00:18:36,860
+to uranium tetrafluoride and reentry into a production cycle.
+
+159
+00:18:37,880 --> 00:18:43,420
+In all production and recovery areas, gamma radiation detection systems are installed
+
+160
+00:18:43,520 --> 00:18:45,700
+for the protection of personnel.
+
+161
+00:18:45,800 --> 00:18:50,460
+If the radiation level should rise because of an accidental criticality,
+
+162
+00:18:50,560 --> 00:18:53,100
+an alarm system is activated.
+
+163
+00:18:53,200 --> 00:18:57,860
+In an emergency, personnel would evacuate a building by well-marked routes
+
+164
+00:18:57,960 --> 00:19:01,940
+and regroup at designated assembly points.
+
+165
+00:19:03,620 --> 00:19:06,620
+If radiation contamination is suspected,
+
+166
+00:19:07,200 --> 00:19:09,500
+persons are monitored by health physicists.
+
+167
+00:19:11,340 --> 00:19:14,980
+Other post-accident aids for determining extent of radiation levels
+
+168
+00:19:15,080 --> 00:19:19,220
+include special materials inside the personnel identification badges
+
+169
+00:19:19,320 --> 00:19:23,540
+and dosimeters located in work areas.
+
+170
+00:19:23,639 --> 00:19:31,399
+In some installations, criticality control is made more complex because of the presence of
+
+171
+00:19:31,499 --> 00:19:46,759
+uranium-233, a uranium isotope produced in a nuclear reactor. U-233 requires stricter handling
+
+172
+00:19:46,859 --> 00:19:54,999
+procedures than U-235 because less U-233 is required for criticality, and because it is
+
+173
+00:19:55,099 --> 00:20:00,440
+often associated with highly radioactive products.
+
+174
+00:20:00,540 --> 00:20:07,499
+Some installations handle plutonium, also a nuclear reactor product.
+
+175
+00:20:07,599 --> 00:20:14,720
+Plutonium is more highly fissionable than either U-235 or U-233, and has a high alpha
+
+176
+00:20:14,820 --> 00:20:18,120
+radiation activity that requires special facilities
+
+177
+00:20:18,220 --> 00:20:19,960
+for handling.
+
+178
+00:20:20,060 --> 00:20:23,739
+The handling of fissionable materials such as U-235,
+
+179
+00:20:23,839 --> 00:20:27,499
+U-233, and the isotopes of plutonium
+
+180
+00:20:27,599 --> 00:20:30,960
+requires a constant alertness on the part of personnel
+
+181
+00:20:31,060 --> 00:20:34,440
+to prevent criticality accidents.
+
+182
+00:20:34,540 --> 00:20:40,039
+Workmen in the enriched uranium processing industry have established an enviable safety record
+
+183
+00:20:40,139 --> 00:20:44,660
+by adhering to established rules for nuclear safety.
+
+184
+00:20:44,760 --> 00:20:48,700
+As the need for nuclear power continues to grow,
+
+185
+00:20:48,800 --> 00:20:52,100
+and as national defense commitments continue,
+
+186
+00:20:52,200 --> 00:20:55,560
+more and more enriched uranium will be processed
+
+187
+00:20:55,660 --> 00:20:58,220
+in production plants.
+
+188
+00:20:58,320 --> 00:21:03,380
+It is the responsibility of every person employed in the processing and fabrication
+
+189
+00:21:03,480 --> 00:21:11,460
+of enriched uranium to prevent the waste of this valuable resource and to maintain the excellent nuclear
+
+190
+00:21:11,560 --> 00:21:13,499
+safety record.

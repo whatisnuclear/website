@@ -78,4 +78,7 @@ so the museum and the catalog table can link back to the announcement.
 
 Transcripts are plain `.srt` files in `_data/transcripts/`, named after the film
 id. Drop one in and it shows up; there is no conversion step (see
-`_plugins/srt-transcripts.rb`).
+`_plugins/srt-transcripts.rb`). A film with a transcript but no announcement
+post gets a generated page at `/films/<id>.html` (see `_plugins/film-pages.rb`),
+and the catalog table links "Transcript" to whichever page shows it. Time the
+`.srt` to the YouTube upload, since each timestamp links into the video.

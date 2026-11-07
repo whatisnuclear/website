@@ -1,0 +1,723 @@
+1
+00:00:00,000 --> 00:00:24,240
+The Clinch River Breeder Reactor Project began in June 1970 when the United States Congress
+
+2
+00:00:24,240 --> 00:00:29,839
+authorized the Atomic Energy Commission to undertake the design, construction and operations
+
+3
+00:00:29,839 --> 00:00:34,460
+of the nation's first liquid metal fast breeder reactor demonstration plant.
+
+4
+00:00:35,600 --> 00:00:39,060
+The project was established with the principal objectives of,
+
+5
+00:00:39,460 --> 00:00:44,679
+first, demonstrating that the liquid metal fast breeder can operate reliably and safely,
+
+6
+00:00:45,439 --> 00:00:50,320
+and, second, demonstrating the economics of the fast breeder reactor cycle.
+
+7
+00:00:53,900 --> 00:00:56,900
+This is the Clinch River, Oak Ridge, Tennessee,
+
+8
+00:00:57,699 --> 00:01:00,500
+future site of the Clinch River Fast Breeder reactor.
+
+9
+00:01:01,780 --> 00:01:06,500
+This 1364 acre site is owned by the United States government
+
+10
+00:01:06,500 --> 00:01:08,900
+and is managed by the Tennessee Valley Authority.
+
+11
+00:01:11,459 --> 00:01:16,500
+The Clinch River Reactor is a sodium-cooled, fast breeder nuclear power plant
+
+12
+00:01:17,060 --> 00:01:20,819
+designed for a net electrical output of 350 megawatts.
+
+13
+00:01:22,340 --> 00:01:39,680
+The major systems of the plant are the reactor, heat transport, steam generator and feed water systems, turbine generator, fuel
+
+14
+00:01:39,680 --> 00:01:44,520
+handling system and various auxiliary systems required to support plant
+
+15
+00:01:44,520 --> 00:01:50,080
+operation and maintenance. In a joint effort by government, utilities and
+
+16
+00:01:50,080 --> 00:01:54,520
+industry, the design, development and fabrication of the plant and its
+
+17
+00:01:54,519 --> 00:02:00,099
+components are well underway. Project participants from industry include the
+
+18
+00:02:00,099 --> 00:02:03,780
+Atomics International Division of the Rockwell International Energy Systems
+
+19
+00:02:03,780 --> 00:02:11,639
+Group, Westinghouse, General Electric, Burns and Rowe, and Stone and Webster. One
+
+20
+00:02:11,639 --> 00:02:15,519
+of Atomics International's responsibilities is the design and
+
+21
+00:02:15,519 --> 00:02:21,400
+procurement of the reactor fuel handling system and associated components. The
+
+22
+00:02:21,400 --> 00:02:26,800
+The reactor system requires periodic refueling, nominally once a year to replenish the supply
+
+23
+00:02:26,800 --> 00:02:28,580
+of fuel.
+
+24
+00:02:28,580 --> 00:02:33,140
+The fuel handling system provides the facilities and equipment necessary to accomplish the
+
+25
+00:02:33,140 --> 00:02:39,000
+yearly refueling operations and all associated functions, such as fuel handling within the
+
+26
+00:02:39,000 --> 00:02:44,920
+reactor vessel, fuel handling and storage outside the vessel, and shipping and receiving
+
+27
+00:02:44,920 --> 00:02:48,460
+operations on site.
+
+28
+00:02:48,460 --> 00:02:54,060
+handling operations take place in two buildings the containment building which houses the reactor
+
+29
+00:02:54,780 --> 00:03:00,060
+and the service building which contains fuel handling facilities and ancillary equipment
+
+30
+00:03:01,819 --> 00:03:07,340
+equipment and facilities located in the reactor containment building are limited to those involved
+
+31
+00:03:07,340 --> 00:03:13,420
+with fuel handling inside the reactor during shutdown they include the in-vessel transfer
+
+32
+00:03:13,420 --> 00:03:19,900
+machine referred to as IVTM for moving fuel within the reactor vessel and the
+
+33
+00:03:19,900 --> 00:03:28,000
+auxiliary handling machine or AHM for installing and removing the IVTM. The
+
+34
+00:03:28,000 --> 00:03:33,220
+IVTM is mounted on the smallest of the triple rotatable plugs which form the
+
+35
+00:03:33,220 --> 00:03:41,420
+closure head of the reactor. By rotating the three plugs the IVTM can be located
+
+36
+00:03:41,420 --> 00:03:43,680
+over any core position in the reactor.
+
+37
+00:03:46,900 --> 00:03:51,080
+The IVTM can then withdraw a spent assembly from the core
+
+38
+00:03:51,080 --> 00:03:55,800
+or insert a new assembly by vertical motions and grappling action.
+
+39
+00:04:00,900 --> 00:04:04,180
+Lateral movement of the core assembly within the reactor vessel
+
+40
+00:04:04,180 --> 00:04:07,160
+is accomplished by translation of the rotatable flux.
+
+41
+00:04:11,420 --> 00:04:26,580
+The majority of the fuel handling equipment and facilities is in the reactor service building,
+
+42
+00:04:26,580 --> 00:04:31,360
+which is adjacent to the reactor containment building.
+
+43
+00:04:31,360 --> 00:04:36,720
+Fuel handling facilities and equipment located in the service building include a sodium-filled
+
+44
+00:04:36,720 --> 00:04:42,500
+storage tank for temporary storage of spent fuel, a fuel handling cell for inspection
+
+45
+00:04:42,500 --> 00:04:48,820
+and handling of spent fuel assemblies, and facilities for receiving new fuel and for
+
+46
+00:04:48,820 --> 00:04:52,300
+shipping spent fuel.
+
+47
+00:04:52,300 --> 00:05:01,340
+The X-Vessel Storage Tank, or EZST, is a 20 foot diameter by 45 foot deep sodium vessel.
+
+48
+00:05:01,340 --> 00:05:07,520
+contains a two-tier rotatable turntable capable of holding 650 fuel assemblies.
+
+49
+00:05:07,520 --> 00:05:12,340
+The assemblies are stored in sodium-filled pots with two pots stacked
+
+50
+00:05:12,340 --> 00:05:18,620
+one above the other in each storage tube. Access to the storage positions is
+
+51
+00:05:18,620 --> 00:05:23,840
+obtained through nine openings in the closure head. The turntable is rotated to
+
+52
+00:05:23,840 --> 00:05:30,260
+gain access to each storage position in each row. The storage tank also contains
+
+53
+00:05:30,259 --> 00:05:36,019
+a number of dry argon gas-filled preheat tubes located in the upper tiers where
+
+54
+00:05:36,019 --> 00:05:39,980
+cold assemblies are placed for preheating prior to immersion in the hot
+
+55
+00:05:39,980 --> 00:05:46,659
+sodium. The fuel handling cell is a small hot cell with three stations, a
+
+56
+00:05:46,659 --> 00:05:53,659
+maintenance station, a fuel examination station, and a spent fuel loading station.
+
+57
+00:05:53,659 --> 00:05:58,339
+Selected fuel assemblies can be visually inspected and dimensionally measured in
+
+58
+00:05:58,340 --> 00:06:06,100
+this facility. In addition, spent fuel assemblies are prepared for shipment off-site. Prior to loading
+
+59
+00:06:06,100 --> 00:06:11,380
+operations, a shipping cask is positioned and sealed below an opening in the floor of the cell.
+
+60
+00:06:12,580 --> 00:06:16,500
+The fuel assembly can now be transferred to the cask through the floor opening.
+
+61
+00:06:19,060 --> 00:06:23,860
+In addition to the equipment and facilities located in the containment and service buildings,
+
+62
+00:06:24,660 --> 00:06:30,740
+fuel movement between buildings and facilities is accomplished using the Ex-vessel Transfer Machine,
+
+63
+00:06:30,740 --> 00:06:36,340
+or EVTM, a heavily shielded and cooled transfer machine mounted on a gantry.
+
+64
+00:06:37,620 --> 00:06:44,740
+The EVTM has a central eight inch diameter cavity for carrying a fuel assembly. This cavity
+
+65
+00:06:44,740 --> 00:06:50,819
+contains an argon atmosphere. Due to their negligible heat production new fuel assemblies
+
+66
+00:06:50,819 --> 00:06:55,680
+are handled bare, but spent fuel must be carried in sodium filled pots to
+
+67
+00:06:55,680 --> 00:07:02,939
+adequately cool the fuel assembly. The sequence for handling fuel begins with
+
+68
+00:07:02,939 --> 00:07:08,459
+the arrival of new fuel on site in lightly shielded containers. Once the
+
+69
+00:07:08,459 --> 00:07:12,620
+containers and their contents have been checked, a shipping container is placed
+
+70
+00:07:12,620 --> 00:07:16,459
+in one of the two new fuel unloading stations by the service building crane.
+
+71
+00:07:21,819 --> 00:07:25,579
+Here the shipping container atmosphere is changed from air to argon.
+
+72
+00:07:26,939 --> 00:07:32,540
+After the container has been inerted, the EVTM picks up the assembly and transfers it to a
+
+73
+00:07:32,540 --> 00:07:39,259
+special preheat station in the EDST where it is preheated in argon to 400 degrees Fahrenheit.
+
+74
+00:07:39,259 --> 00:07:46,199
+After preheat is complete, the assembly is transferred by the EVPM from the preheat
+
+75
+00:07:46,199 --> 00:07:53,060
+station to a sodium-filled pot in one of the storage positions in the EVST. The fuel remains
+
+76
+00:07:53,060 --> 00:07:58,519
+in this position until the reactor is shut down and made ready for replacement of fuel assemblies.
+
+77
+00:07:58,519 --> 00:08:05,719
+After reactor shutdown, refueling preparations begin by removal of the large diameter equipment
+
+78
+00:08:05,720 --> 00:08:12,300
+hatch to allow movement between the containment and service building. Also, the IVTM is then
+
+79
+00:08:12,300 --> 00:08:16,780
+installed in the reactor head by means of the AHM and the building crane.
+
+80
+00:08:35,720 --> 00:08:43,460
+Floor valves are positioned over access openings to the reactor and the ex-vessel storage tank.
+
+81
+00:08:43,460 --> 00:08:47,480
+The reactor is now ready to be refueled.
+
+82
+00:08:47,480 --> 00:08:53,120
+The IVTM, in conjunction with the rotatable plug, removes the spent fuel assembly from
+
+83
+00:08:53,120 --> 00:09:00,080
+the core and deposits it in an empty pot located in a transfer position outside the core but
+
+84
+00:09:00,080 --> 00:09:02,800
+still within the reactor vessel.
+
+85
+00:09:02,799 --> 00:09:09,519
+At the same time, the EVTM removes the new fuel assembly from the EVST and transports
+
+86
+00:09:09,519 --> 00:09:12,079
+the assembly to the reactor.
+
+87
+00:09:12,079 --> 00:09:18,359
+By sealing the EVTM to a special port in the head of the reactor, the EVTM can lower the
+
+88
+00:09:18,359 --> 00:09:25,539
+new fuel assembly into a second transfer position in the reactor, within reach of the IVTM.
+
+89
+00:09:25,539 --> 00:09:31,120
+During the same attachment operation to the reactor head, the EVTM removes the spent fuel
+
+90
+00:09:31,120 --> 00:09:35,120
+assembly in the first transfer position.
+
+91
+00:09:36,600 --> 00:09:42,820
+While the EVTM transports the spent fuel to the storage vessel, the IVTM
+
+92
+00:09:42,820 --> 00:09:47,200
+completes the cycle by installing the new fuel assembly into the open core
+
+93
+00:09:47,200 --> 00:09:56,440
+lattice. These operations are repeated until the reactor core has been refueled.
+
+94
+00:09:56,440 --> 00:10:03,040
+When refueling is completed, the reactor is brought back online. After the spent
+
+95
+00:10:03,040 --> 00:10:08,280
+fuel in the storage tank has decayed for approximately 100 days, the assemblies
+
+96
+00:10:08,280 --> 00:10:14,260
+are ready to be shipped off-site. A fuel assembly is transferred by the EVTM in a
+
+97
+00:10:14,260 --> 00:10:20,780
+sodium-filled pot from the storage tank to the fuel handling cell.
+
+98
+00:10:26,440 --> 00:10:32,900
+The fuel assembly is removed from the pot by means of a gas-cooled grapple for loading into the shipping cask.
+
+99
+00:10:34,260 --> 00:10:39,060
+Capabilities exist in the cell to visually and dimensionally inspect the assembly.
+
+100
+00:10:40,100 --> 00:10:44,840
+A spent fuel shipping cask is brought into the service building by a special railroad car,
+
+101
+00:10:45,700 --> 00:10:50,700
+moved to a position beneath the fuel handling cell, and sealed to the loading port.
+
+102
+00:10:51,720 --> 00:10:55,040
+Fuel can now be transferred from the cell to the shipping cask.
+
+103
+00:10:57,320 --> 00:11:02,840
+When the cask is full, it is disconnected from the fuel handling cells, inspected for
+
+104
+00:11:02,840 --> 00:11:08,600
+conformance to shipping regulations, and then transported by a rail to a fuel reprocess.
+
+105
+00:11:11,240 --> 00:11:16,200
+The Quench River's fuel handling system is well on its way to becoming a reality.
+
+106
+00:11:17,320 --> 00:11:23,240
+The necessary development testing has been complete, as has most of the engineering design.
+
+107
+00:11:26,440 --> 00:11:34,000
+Many of the major fuel handling components are being fabricated and some are presently being proof tested.
+
+108
+00:11:38,960 --> 00:11:44,840
+The IVTM was designed and fabricated by Atomics International at Canoga Park, California.
+
+109
+00:11:46,540 --> 00:11:53,860
+Component tests were conducted between 1974 and 1977 to support the IVTM design phase.
+
+110
+00:11:53,860 --> 00:12:02,220
+These tests included environmental testing of the grapple drive rod seals, performance testing of
+
+111
+00:12:02,220 --> 00:12:08,800
+the drive motor, braking system and gear trains, and kinematic testing of the grapple under adverse
+
+112
+00:12:08,800 --> 00:12:17,240
+conditions. Manufacturing began in August of 1977 with machining and assembly of the 43-foot long
+
+113
+00:12:17,240 --> 00:12:25,039
+in-vessel sub-assembly on the grapple. A drive tower structure was fabricated to
+
+114
+00:12:25,039 --> 00:12:30,680
+house the grapple actuator mechanism. Assembly of pneumatic and electrical
+
+115
+00:12:30,680 --> 00:12:34,460
+components on the equipment bay structure completed the last major
+
+116
+00:12:34,460 --> 00:12:45,480
+sub assembly. In May of 1979, the major sub-assemblies were delivered to the
+
+117
+00:12:45,480 --> 00:12:50,960
+the Energy Technology and Engineering Center located at Rockwell International's Santa
+
+118
+00:12:50,960 --> 00:12:59,320
+Susana Field Laboratory. Here, the IVTM was assembled into a 65-foot high machine to undergo
+
+119
+00:12:59,320 --> 00:13:08,980
+a testing program which would be equivalent to five complete core refuelers. The testing
+
+120
+00:13:08,980 --> 00:13:16,320
+program was divided into two stages. The first stage, completed in July of 1979, was a dry
+
+121
+00:13:16,320 --> 00:13:22,680
+checkout to verify the IVTM's capability to withdraw and insert the core assemblies through
+
+122
+00:13:22,680 --> 00:13:28,360
+the full range of misalignments and loads expected during refueling operations. The
+
+123
+00:13:28,360 --> 00:13:34,240
+second stage, performance testing the IVTM in a hot sodium environment, will begin in
+
+124
+00:13:34,240 --> 00:13:40,480
+November of 1979. During this stage the IVTM computer controls will be checked
+
+125
+00:13:40,480 --> 00:13:46,320
+out concurrently with the testing of the machines. After the IVTM has completed
+
+126
+00:13:46,320 --> 00:13:51,460
+its performance test, it will undergo any necessary refurbishment and then will be
+
+127
+00:13:51,460 --> 00:13:58,960
+shipped to the Oak Ridge site. After extensive developmental testing of key
+
+128
+00:13:58,960 --> 00:14:05,120
+features of the EVTM, final design was completed and procurement was initiated.
+
+129
+00:14:05,120 --> 00:14:12,280
+In 1973 and 1974, several small-scale tests investigated important heat
+
+130
+00:14:12,280 --> 00:14:18,420
+transfer parameters. These tests supported preliminary design decisions.
+
+131
+00:14:18,420 --> 00:14:26,920
+And in 1975, a full-scale test with a cooling system, cast body internals, and
+
+132
+00:14:26,920 --> 00:14:31,560
+and an electrically simulated fuel assembly confirmed the final design.
+
+133
+00:14:32,800 --> 00:14:38,180
+Currently, all long-lead forgings and castings for the EVTM are on hand,
+
+134
+00:14:38,820 --> 00:14:44,320
+including the grapple drive housing and cover, upper support module, viewport housing,
+
+135
+00:14:44,820 --> 00:14:49,380
+drift pan housing, closure valve body, and other major modules.
+
+136
+00:14:50,660 --> 00:14:54,100
+Once the remaining EVTM components have been manufactured
+
+137
+00:14:54,100 --> 00:14:57,340
+and the grapple and grapple drive proof test completed,
+
+138
+00:14:58,000 --> 00:15:01,820
+these sub-assemblies are scheduled to be shipped to a test site in Oak Ridge
+
+139
+00:15:01,820 --> 00:15:05,480
+for final performance testing of the full assembled machines.
+
+140
+00:15:06,879 --> 00:15:12,019
+The EVST, which is used for the storage of fuel assemblies, is well into fabrication.
+
+141
+00:15:12,980 --> 00:15:17,000
+The storage vessel and components were designed by Atomics International
+
+142
+00:15:17,000 --> 00:15:21,700
+and subcontracted to a wide range of industrial concerns for fabrication.
+
+143
+00:15:22,640 --> 00:15:28,740
+Four forgings were procured and delivered to Babcock and Wilcox, who will fabricate the major components.
+
+144
+00:15:30,020 --> 00:15:37,259
+The storage vessel support plan required one of the largest forgings made by Lavish Company at their Wisconsin plant.
+
+145
+00:15:38,020 --> 00:15:47,980
+Starting with a 336,000 pound heated steel engine, the general shape was formed by ring forging machines and then quenched in a water pool.
+
+146
+00:15:47,980 --> 00:15:52,659
+followed by tempering the steel in a heat-treating furnace.
+
+147
+00:15:53,960 --> 00:15:57,600
+The forging was then rough-machined to its 24-foot diameter
+
+148
+00:15:57,600 --> 00:16:02,019
+and delivered to Babcock and Wilcox's Mount Vernon, Indiana plant
+
+149
+00:16:02,019 --> 00:16:03,899
+for final machining and assembly.
+
+150
+00:16:04,820 --> 00:16:10,300
+At the Babcock and Wilcox plant, other EVST parts have been fabricated and assembled.
+
+151
+00:16:12,039 --> 00:16:15,039
+Steel plates have been rolled and welded into shell cores.
+
+152
+00:16:15,039 --> 00:16:23,799
+The vessel bottom head has been formed from smaller shaped pieces and final machined to
+
+153
+00:16:23,799 --> 00:16:26,379
+a smooth dished head.
+
+154
+00:16:26,379 --> 00:16:33,539
+The turntable grid plates for support of the 330 storage tubes have been drilled and machined
+
+155
+00:16:33,539 --> 00:16:40,099
+and the vessel closure head is presently being final machined.
+
+156
+00:16:40,099 --> 00:16:44,699
+Other EVST components are being fabricated by industry.
+
+157
+00:16:44,700 --> 00:16:48,720
+completion of these components they will be assembled with the Babcock and
+
+158
+00:16:48,720 --> 00:16:53,379
+Wilcox vessels for a final functional proof test before delivery of the
+
+159
+00:16:53,379 --> 00:16:57,640
+completed vessel to the Clink River site.
+
+160
+00:17:00,280 --> 00:17:06,380
+The fuel handling cell components are in various stages of design and development.
+
+161
+00:17:06,380 --> 00:17:12,880
+The in-cell crane, Howard manipulator and the master slave manipulators have
+
+162
+00:17:12,880 --> 00:17:17,700
+completed fabrication and have been tested at the Santa Susana Laboratories.
+
+163
+00:17:17,700 --> 00:17:23,740
+The equipment performed satisfactorily under mock-up situations. In the future,
+
+164
+00:17:23,740 --> 00:17:27,720
+these components will be assembled in a mock-up structure of the handling cell
+
+165
+00:17:27,720 --> 00:17:32,360
+of Santa Susana. There they will be used to confirm the operation of the other
+
+166
+00:17:32,360 --> 00:17:37,480
+shell equipment. Several mock-up components will be built and tested to
+
+167
+00:17:37,480 --> 00:17:43,880
+provide design information before fabrication of plant hardware. After
+
+168
+00:17:43,880 --> 00:17:47,980
+equipment has been checked out, the mock-up will be disassembled and shipped
+
+169
+00:17:47,980 --> 00:17:55,200
+to the Oak Ridge site as an operator training device. The individual fuel
+
+170
+00:17:55,200 --> 00:18:00,819
+handling equipment must be controlled as an integrated system. To do this, an
+
+171
+00:18:00,819 --> 00:18:06,160
+overall refueling control system has been designed, which includes three
+
+172
+00:18:06,160 --> 00:18:12,800
+inter-communicating mini computer. These computers have been procured and the software program has
+
+173
+00:18:12,800 --> 00:18:19,279
+been designed to enable the computers to perform their individual and combined functions. Tests
+
+174
+00:18:19,279 --> 00:18:23,200
+are currently underway to demonstrate their overall performance capabilities.
+
+175
+00:18:25,440 --> 00:18:31,279
+Over 80 percent of the fuel handling equipment has been designed and most of the major components are
+
+176
+00:18:31,279 --> 00:18:38,799
+in the process of fabrication. Components fully designed and ready for fabrication include the AHM,
+
+177
+00:18:42,960 --> 00:18:51,680
+floor valves and adapters, the EZTM gantry, the fuel handling cell maintenance and examination
+
+178
+00:18:51,680 --> 00:18:58,559
+equipment, and miscellaneous storage facilities. Progress has been substantial.
+
+179
+00:18:59,259 --> 00:19:03,399
+Through extensive component testing to support the design phase,
+
+180
+00:19:03,759 --> 00:19:12,779
+followed by confirmatory proof testing of plant hardware, fuel handling system components are verified to be safe and reliable before delivery to the plant.
+
+181
+00:19:14,000 --> 00:19:17,740
+The Clinch River components are well on their way toward completing the project.

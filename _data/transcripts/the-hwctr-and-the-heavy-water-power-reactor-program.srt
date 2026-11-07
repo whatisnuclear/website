@@ -1,0 +1,927 @@
+1
+00:00:26,879 --> 00:00:52,620
+Since the turn of the century, the United States has undergone a phenomenal growth in population and industry.
+
+2
+00:00:53,140 --> 00:00:58,379
+The availability of economical electrical power has been a major influence on this growth.
+
+3
+00:00:58,880 --> 00:01:10,480
+Our requirements have more than doubled every decade for the past 40 years, and even greater
+
+4
+00:01:10,480 --> 00:01:12,240
+demand is predicted in the future.
+
+5
+00:01:17,640 --> 00:01:22,520
+The growth and development of practically every nation in the world is likewise being
+
+6
+00:01:22,520 --> 00:01:26,099
+influenced by the availability of economical electrical energy.
+
+7
+00:01:28,879 --> 00:01:35,799
+Simultaneously, fossil fuels are becoming an important source of raw materials for the
+
+8
+00:01:35,799 --> 00:01:46,199
+manufacture of new and valuable products.
+
+9
+00:01:46,199 --> 00:01:52,919
+The projected lifetime of normal fuel sources is therefore rapidly diminishing despite exploration
+
+10
+00:01:52,919 --> 00:01:58,280
+and improved techniques of recovery, and the cost of generating electrical energy is expected
+
+11
+00:01:58,280 --> 00:02:01,960
+to increase.
+
+12
+00:02:01,960 --> 00:02:06,980
+The United States Atomic Energy Commission is developing nuclear energy as a source of
+
+13
+00:02:06,980 --> 00:02:13,599
+economical power to meet increasing power demand throughout the world.
+
+14
+00:02:36,979 --> 00:02:57,979
+The AEC's Power Demonstration Program
+
+15
+00:02:57,979 --> 00:03:03,479
+is aimed at demonstrating the potential of various types of nuclear power reactor systems
+
+16
+00:03:03,479 --> 00:03:06,019
+for central station power applications.
+
+17
+00:03:06,979 --> 00:03:10,840
+Data from the design, construction, and operation of these plants
+
+18
+00:03:10,840 --> 00:03:18,139
+are used for the design of subsequent plants in keeping with the Commission's goals for developing economic nuclear power.
+
+19
+00:03:37,960 --> 00:03:46,400
+The commission's reactor development program also provides for the development of advanced concepts requiring a higher degree of technical refinement.
+
+20
+00:03:48,660 --> 00:03:55,280
+One of the various concepts being developed, the natural uranium-fueled heavy water moderated reactor,
+
+21
+00:03:55,780 --> 00:04:03,800
+has potential for achieving economical power because of the relatively low cost and greater availability of natural uranium as a fuel,
+
+22
+00:04:03,800 --> 00:04:07,040
+and the characteristics of deuterium as a moderator.
+
+23
+00:04:07,640 --> 00:04:12,040
+Such a plant would be independent of costly facilities for the enrichment of uranium.
+
+24
+00:04:14,439 --> 00:04:18,819
+The availability and cost of heavy water to moderate such a reactor
+
+25
+00:04:18,819 --> 00:04:21,680
+had always been a problem in development of this concept.
+
+26
+00:04:33,800 --> 00:04:44,460
+In 1952, a new AEC installation, the Savannah River plant, became operational.
+
+27
+00:04:45,540 --> 00:04:51,300
+Located near Aiken, South Carolina, the plant would be operated by the EI DuPont Dinamoors Company
+
+28
+00:04:51,300 --> 00:04:56,319
+under a prime contract administered by the Savannah River Operations Office of the AEC.
+
+29
+00:04:56,319 --> 00:05:07,740
+The AEC's Savannah River plant, built to produce plutonium and other vital nuclear materials, includes a heavy water extraction facility.
+
+30
+00:05:10,420 --> 00:05:18,139
+Production of deuterium in the form of heavy water, or D2O, from this plant, at one time more than 1,000 tons a year,
+
+31
+00:05:18,819 --> 00:05:23,939
+provided the moderator for Savannah River production reactors and other requirements of the AEC,
+
+32
+00:05:24,300 --> 00:05:26,899
+including both foreign and domestic sales.
+
+33
+00:05:27,819 --> 00:05:32,540
+Heavy water costs have been reduced from $70 a pound to $28 a pound.
+
+34
+00:05:36,920 --> 00:05:40,699
+A research and development facility, the Savannah River Laboratory,
+
+35
+00:05:41,040 --> 00:05:47,379
+was established to perform diversified investigations with emphasis on the technology of heavy water reactors.
+
+36
+00:05:53,939 --> 00:06:14,279
+In November 1956, DuPont was requested to extend its activities
+
+37
+00:06:14,279 --> 00:06:19,000
+to include the investigation of natural uranium heavy water power reactors.
+
+38
+00:06:19,000 --> 00:06:31,759
+A study of reactor design concepts in the 100 electrical megawatt range was initiated.
+
+39
+00:06:31,759 --> 00:06:35,980
+This was the minimum size that was believed to be economically attractive for development
+
+40
+00:06:35,980 --> 00:06:39,319
+in the United States.
+
+41
+00:06:39,319 --> 00:06:44,319
+Early investigations, however, indicated that none of the concepts studied in the 100 electrical
+
+42
+00:06:44,319 --> 00:06:49,719
+megawatt range, could compete with fossil fuels, even in high power cost areas of
+
+43
+00:06:49,719 --> 00:06:57,579
+the country. A continuation of the study with design investigations of 200, 300
+
+44
+00:06:57,579 --> 00:07:02,139
+and 400 electrical megawatts was performed.
+
+45
+00:07:02,680 --> 00:07:07,279
+Results indicated that a sizable reduction in power cost was possible in
+
+46
+00:07:07,279 --> 00:07:11,920
+larger size plants. Additional development of reactor components and
+
+47
+00:07:11,920 --> 00:07:16,640
+fuels was required to reduce capital and operating costs to competitive levels.
+
+48
+00:07:19,759 --> 00:07:24,560
+To carry out this program, it was determined that a facility would be necessary for
+
+49
+00:07:24,560 --> 00:07:31,200
+full-scale testing of fuels and reactor components. A conceptual design of a test reactor was developed.
+
+50
+00:07:31,199 --> 00:07:45,920
+In November 1958, authority was granted to proceed with the design and construction of
+
+51
+00:07:45,920 --> 00:07:53,259
+a test reactor to be known as the Heavy Water Components Test Reactor, or HWCTR, and located
+
+52
+00:07:53,259 --> 00:08:04,339
+at the Savannah River plant.
+
+53
+00:08:04,339 --> 00:08:22,420
+The site chosen for the HWCTR was easily accessible and could use existing supporting facilities.
+
+54
+00:08:22,420 --> 00:08:28,340
+was initiated ground was broken and plans advanced for construction of the hw ctr
+
+55
+00:08:38,580 --> 00:08:44,100
+in addition to the test reactor project the aec's savannah river operations office was
+
+56
+00:08:44,100 --> 00:08:49,539
+assigned responsibility for development of natural uranium heavy water power reactors concept
+
+57
+00:08:49,539 --> 00:08:55,799
+As a result of studies, it was determined that a pressure vessel liquid-cooled reactor
+
+58
+00:08:55,799 --> 00:08:58,659
+could probably be built with existing technology.
+
+59
+00:08:59,740 --> 00:09:04,659
+However, a more advanced design, a pressure tube boiling direct cycle reactor,
+
+60
+00:09:05,259 --> 00:09:09,879
+indicated lower power costs and the greatest promise of being economically competitive
+
+61
+00:09:09,879 --> 00:09:11,679
+with conventional power plants.
+
+62
+00:09:15,139 --> 00:09:19,019
+Five major areas required additional research and development.
+
+63
+00:09:19,539 --> 00:09:24,659
+to confirm feasibility prior to constructing a prototype heavy water power reactor.
+
+64
+00:09:27,219 --> 00:09:32,500
+Lattice studies to determine optimum fuel lifetime and studies of safety and stability.
+
+65
+00:09:35,539 --> 00:09:40,099
+Fuel element selection and development of inexpensive fabrication techniques.
+
+66
+00:09:40,100 --> 00:09:50,519
+studies of heavy water heat transfer chemistry hydraulics and leakage problems especially vapor
+
+67
+00:09:50,519 --> 00:09:58,220
+losses at high temperatures and pressures selection and evaluation of special components
+
+68
+00:09:58,220 --> 00:10:05,800
+for heavy water reactor service the possible use of conventional materials and components
+
+69
+00:10:05,800 --> 00:10:07,720
+for lowering capital costs.
+
+70
+00:10:14,840 --> 00:10:18,400
+A program to study the physics of heavy water lattices
+
+71
+00:10:18,400 --> 00:10:22,060
+was initiated to determine optimum design parameters.
+
+72
+00:10:24,320 --> 00:10:29,980
+The process development pile, a large critical facility of the Savannah River Laboratory,
+
+73
+00:10:29,980 --> 00:10:32,560
+was modified to permit these studies.
+
+74
+00:10:35,800 --> 00:10:40,260
+The large stainless steel tank holding over 100 tons of heavy water
+
+75
+00:10:40,960 --> 00:10:43,960
+permitted studies in a broad range of lattice arrangements.
+
+76
+00:10:44,320 --> 00:10:48,800
+Both uranium metal and uranium oxide fuel materials were investigated.
+
+77
+00:10:56,640 --> 00:11:03,780
+Special facilities permitted subcritical screening studies and extension of data to conditions of elevated temperatures and pressures.
+
+78
+00:11:05,800 --> 00:11:13,880
+Data from these experiments was analyzed on high-speed computers.
+
+79
+00:11:14,160 --> 00:11:20,460
+The performance and safety characteristics of various conceptual designs were also analyzed and predicted.
+
+80
+00:11:28,260 --> 00:11:33,940
+The fuel development program included a systematic search for low-cost methods of fabrication,
+
+81
+00:11:33,940 --> 00:11:43,900
+A process of co-extruding tubular fuel elements of uranium metal with a zirconium or zircaloy cladding was developed at Nuclear Metals Incorporated.
+
+82
+00:11:47,280 --> 00:11:52,940
+Proper design of the extrusion billet permitted variation of core and cladding dimensions.
+
+83
+00:11:53,960 --> 00:12:01,980
+Fuel tubes with core thicknesses of 130 to 250 mils and lengths of 10 feet were produced for irradiation tests.
+
+84
+00:12:04,540 --> 00:12:11,000
+Driver fuel and the metallic uranium test fuel for HWCTR was produced by this process.
+
+85
+00:12:16,120 --> 00:12:20,800
+Alloys of uranium, such as uranium zirconium and uranium molybdenum,
+
+86
+00:12:21,020 --> 00:12:26,540
+were studied to improve dimensional stability under irradiation and increase corrosion resistance.
+
+87
+00:12:28,280 --> 00:12:32,680
+Samples of these fuel elements were irradiated in the Savannah River production reactors,
+
+88
+00:12:32,680 --> 00:12:38,740
+the Vallecitos boiling water reactor, and the E-20 loop of the NRU at Chalk River, Canada.
+
+89
+00:12:47,920 --> 00:12:53,160
+Post-irradiation examination of fuels in high-level caves was performed at Savannah River
+
+90
+00:12:53,160 --> 00:12:55,900
+to guide development of the fabrication process.
+
+91
+00:13:02,680 --> 00:13:21,280
+Because of the inherent corrosion resistance and improved stability of uranium oxide, techniques
+
+92
+00:13:21,279 --> 00:13:25,639
+for the inexpensive manufacture of UO2 fuels were also investigated.
+
+93
+00:13:34,240 --> 00:13:39,779
+Methods of assembling individual compacted pellets were well established, but were relatively
+
+94
+00:13:39,779 --> 00:13:40,299
+costly.
+
+95
+00:13:42,879 --> 00:13:50,120
+Long rods of UO2 compacted by mechanical vibration and swaging of the zircaloy sheathing had
+
+96
+00:13:50,120 --> 00:13:55,039
+been produced in connection with other programs, such as fuel elements for the plutonium recycle
+
+97
+00:13:55,039 --> 00:14:05,259
+test reactor.
+
+98
+00:14:05,259 --> 00:14:10,440
+Work was begun at Savannah River Laboratory to produce a tubular fuel element of vibratory
+
+99
+00:14:10,440 --> 00:14:13,919
+and swage compacted UO2.
+
+100
+00:14:13,919 --> 00:14:19,539
+This process, combined with tubular configuration, showed promise of reducing the number of fuel
+
+101
+00:14:19,539 --> 00:14:24,699
+and operations required for an element thus reducing cost by simplifying
+
+102
+00:14:24,699 --> 00:14:33,159
+processing and assembly under this fuel development program candidate fuel
+
+103
+00:14:33,159 --> 00:14:37,419
+elements of both uranium metal and uranium oxide were manufactured for
+
+104
+00:14:37,419 --> 00:14:41,339
+testing in the HWC TR
+
+105
+00:14:49,539 --> 00:14:57,839
+In addition to the metallurgical and physics studies, investigations were conducted concurrently at the Savannah River Laboratory's hydraulic test facility
+
+106
+00:14:57,839 --> 00:15:02,639
+to determine the leakage from various components of the heavy water circulating system.
+
+107
+00:15:03,620 --> 00:15:07,919
+Specifications for components of the HWCTR were developed in this program.
+
+108
+00:15:19,539 --> 00:15:27,459
+Data were also obtained on the corrosion and vibration of fuel assemblies exposed to simulated power reactor coolant conditions.
+
+109
+00:15:35,620 --> 00:15:43,639
+The experimental heat transfer loop systems at Savannah River Laboratory and at Columbia University provided needed engineering data.
+
+110
+00:15:44,519 --> 00:15:49,740
+Included were studies of fuel burnout and hydraulic stability of a boiling water reactor.
+
+111
+00:15:50,799 --> 00:15:56,759
+Further development in all these areas would be extended by construction and operation of the HWCTR.
+
+112
+00:16:01,600 --> 00:16:08,460
+Subgrade structure for the HWCTR required removal of approximately 50,000 cubic yards of earth.
+
+113
+00:16:09,419 --> 00:16:13,519
+The excavation measured approximately 200 by 200 feet at the surface,
+
+114
+00:16:13,639 --> 00:16:15,259
+and was 60 feet deep.
+
+115
+00:16:17,980 --> 00:16:21,759
+A monolithic slab of concrete was placed as the foundation.
+
+116
+00:16:32,179 --> 00:16:37,059
+The internal concrete structure consisting of the reactor biological shield
+
+117
+00:16:37,059 --> 00:16:39,460
+and spent fuel basin was erected next.
+
+118
+00:16:39,460 --> 00:16:47,259
+The reactor building used a new concept for vapor containment design and construction.
+
+119
+00:16:47,259 --> 00:16:55,560
+Reinforced concrete was used below grade attached to a carbon steel shell above grade. Its overall
+
+120
+00:16:55,560 --> 00:17:02,860
+dimensions are 70 feet in diameter and 120 feet in height. Tensioned steel strands are used to
+
+121
+00:17:02,860 --> 00:17:09,220
+strengthen the concrete shell against internal pressure. The 18-inch thick concrete shell was
+
+122
+00:17:09,220 --> 00:17:25,220
+placed in one continuous pour. After sealing the outside of the concrete wall and backfilling,
+
+123
+00:17:25,220 --> 00:17:36,420
+the 65 foot high dome portion was bolted to the concrete at grade level.
+
+124
+00:17:39,640 --> 00:17:43,539
+The building was structurally tested at 29 PSIG
+
+125
+00:17:43,539 --> 00:17:47,839
+and leak tested at its design pressure of 24 PSIG.
+
+126
+00:17:49,000 --> 00:17:53,079
+A leak rate of only 1% of the volume per 24 hours was specified.
+
+127
+00:17:53,079 --> 00:18:00,179
+following satisfactory testing a large section was removed from the steel dome to permit
+
+128
+00:18:00,179 --> 00:18:09,779
+installation of major reactor components the design of the hwctr called for highly specialized
+
+129
+00:18:09,779 --> 00:18:16,119
+equipment and components for example pumps of special design were built and tested at the
+
+130
+00:18:16,119 --> 00:18:22,079
+bingham pump company in portland oregon the shaft seals of these pumps would test their
+
+131
+00:18:22,079 --> 00:18:40,460
+suitability for heavy water power reactor service.
+
+132
+00:18:40,460 --> 00:18:46,079
+The reactor vessel was manufactured by the Pacific Coast Engineering Company in San Francisco,
+
+133
+00:18:46,079 --> 00:18:47,079
+California.
+
+134
+00:18:47,079 --> 00:18:52,000
+The overall height is about 30 feet, with a diameter at the core section of approximately
+
+135
+00:18:52,000 --> 00:19:00,720
+seven feet. It was fabricated from carbon steel plates and forgings three and a half inches to
+
+136
+00:19:00,720 --> 00:19:07,759
+five inches thick and weighs about 98 tons. All inside surfaces are clad with a one-quarter inch
+
+137
+00:19:07,759 --> 00:19:15,839
+layer of type 304 stainless steel. The vessel, manufactured in accordance with the unfired
+
+138
+00:19:15,839 --> 00:19:21,119
+pressure vessel code of the American Society of Mechanical Engineers, is designed to withstand
+
+139
+00:19:21,120 --> 00:19:24,560
+and the pressures of 1500 pounds per square inch
+
+140
+00:19:24,560 --> 00:19:27,280
+at a temperature of 600 degrees fahrenheit.
+
+141
+00:19:30,020 --> 00:19:32,320
+The vessel was shipped to the site by rail.
+
+142
+00:19:40,640 --> 00:19:44,700
+It was installed in the reactor building through the large construction opening.
+
+143
+00:19:51,120 --> 00:20:08,780
+The reactor biological shield has a minimum of 11 feet of concrete between the reactor
+
+144
+00:20:08,780 --> 00:20:10,500
+and personnel areas of the building.
+
+145
+00:20:10,500 --> 00:20:24,779
+The HWCTR is designed to test fuel and other components under simulated power reactor conditions.
+
+146
+00:20:24,900 --> 00:20:29,779
+A neutron flux of up to 10 to the 14th is available in the test core.
+
+147
+00:20:29,779 --> 00:20:42,819
+The necessary reactivity is provided by 24 enriched uranium driver fuel assemblies
+
+148
+00:20:42,819 --> 00:20:51,960
+positioned around the outer ring of the core A driver fuel assembly consists of a single 2 inch diameter
+
+149
+00:20:51,960 --> 00:20:57,079
+10 foot long tube of 93% enriched uranium in a matrix of zirconium
+
+150
+00:20:57,079 --> 00:21:05,899
+Each tube contains about 1 kg of uranium, which constitutes 9.7 weight percent of the alloy.
+
+151
+00:21:07,059 --> 00:21:13,240
+Fabricated by the co-extrusion process, the fuel is clad with Zircaloy 2 or Zircaloy 4,
+
+152
+00:21:13,240 --> 00:21:15,919
+with integrally extruded end plugs.
+
+153
+00:21:20,319 --> 00:21:26,179
+Cruciform target leaves of stainless steel containing boron are positioned in the center of the fuel tube
+
+154
+00:21:26,180 --> 00:21:28,259
+by a Zirkeloy support tube.
+
+155
+00:21:29,019 --> 00:21:35,259
+This support and a ribbed outer housing tube define coolant flow on inner and outer surfaces of the fuel.
+
+156
+00:21:38,480 --> 00:21:42,620
+The inner region of the core contains 12 test fuel positions
+
+157
+00:21:42,620 --> 00:21:46,759
+in two staggered rings with six inner and six outer placings
+
+158
+00:21:46,759 --> 00:21:48,440
+next to the driver assemblies.
+
+159
+00:21:50,340 --> 00:21:54,440
+Inner positions will accept fuel elements of 3 1⁄2 inch diameter
+
+160
+00:21:54,440 --> 00:21:59,220
+and outer positions can accept up to 5 inch diameter test assemblies.
+
+161
+00:22:00,660 --> 00:22:05,539
+Test fuel elements will be in the form of natural uranium metal or oxide tubes
+
+162
+00:22:05,539 --> 00:22:09,340
+or clusters of uranium oxide rods clad with zircaloy.
+
+163
+00:22:10,200 --> 00:22:12,660
+Elements up to 10 feet in length can be accommodated.
+
+164
+00:22:15,539 --> 00:22:19,019
+Twelve control rods and six safety rods are located
+
+165
+00:22:19,019 --> 00:22:22,380
+between the driver and test fuel regions of the reactor core.
+
+166
+00:22:24,440 --> 00:22:28,519
+A cluster of six additional control rods is located in the center.
+
+167
+00:22:30,279 --> 00:22:37,220
+Six positions are provided within the test fuel core for in-pile instruments, such as axial flux monitors.
+
+168
+00:22:38,840 --> 00:22:44,640
+The control rod drives and a lifting mechanism for the top head are attached to a movable platform,
+
+169
+00:22:45,120 --> 00:22:47,220
+permitting clear entry to the reactor vessel.
+
+170
+00:22:54,440 --> 00:23:02,080
+Loading and removal of fuel is accomplished by a shield transfer coffin, with the head
+
+171
+00:23:02,080 --> 00:23:03,940
+and control rod mechanism removed.
+
+172
+00:23:03,940 --> 00:23:26,080
+A telescoping gripper mechanism designed to attach to special adapter fittings
+
+173
+00:23:26,080 --> 00:23:29,700
+permits handling of fuel assemblies and other reactor components.
+
+174
+00:23:33,940 --> 00:23:49,400
+The transfer coffin carries spent fuel assemblies from the reactor to an underwater storage
+
+175
+00:23:49,400 --> 00:24:06,080
+basin where they will remain until transfer to inspection facilities.
+
+176
+00:24:06,080 --> 00:24:11,080
+In order to test fuel elements under a variety of physical conditions, the reactor vessel
+
+177
+00:24:11,080 --> 00:24:16,300
+was designed with inlet and outlet ports to accommodate isolated coolant loops of the
+
+178
+00:24:16,299 --> 00:24:24,299
+entrant type in the six outer test positions. Two such loops, both fabricated of stainless steel,
+
+179
+00:24:24,299 --> 00:24:30,059
+were installed during construction of the reactor. One can be cooled with liquid D2O
+
+180
+00:24:30,059 --> 00:24:33,419
+at pressures up to 500 psi above the core pressure.
+
+181
+00:24:35,819 --> 00:24:39,339
+Coolant enters the lower connection of the isolated coolant loop tube
+
+182
+00:24:39,339 --> 00:24:45,619
+and flows downward through the annulus between the outer pressure tube and the
+
+183
+00:24:45,619 --> 00:24:50,559
+inner housing tube. It is then forced upward past the fuel assembly and
+
+184
+00:24:50,559 --> 00:25:00,279
+emerges at the upper connection. Coolant is then circulated through the shell
+
+185
+00:25:00,279 --> 00:25:07,699
+side of a D2O H2O heat exchanger. The cooled D2O is then circulated through a
+
+186
+00:25:07,700 --> 00:25:15,019
+surge tank and back through two centrifugal pumps to the loop tube. The
+
+187
+00:25:15,019 --> 00:25:21,920
+loop is pressurized with helium at the surge tank. Rupture discs between this
+
+188
+00:25:21,920 --> 00:25:26,299
+gas line and the reactor pressurizing gas system provide for pressure relief
+
+189
+00:25:26,299 --> 00:25:34,740
+of excessive loop pressure. The other installed loop will permit tests at
+
+190
+00:25:34,740 --> 00:25:40,460
+boiling reactor conditions. The loop tube for the boiling loop is almost identical to that of the
+
+191
+00:25:40,460 --> 00:25:46,140
+pressurized water loop. The cooling conditions of this loop can be adjusted to provide operating
+
+192
+00:25:46,140 --> 00:25:52,839
+conditions over a range of interest to boiling D2O reactors. Steam qualities from 10 to 30 percent
+
+193
+00:25:52,839 --> 00:26:00,420
+can be obtained at the outlet of the loop tube. The resulting liquid vapor mixture is condensed
+
+194
+00:26:00,420 --> 00:26:08,200
+by liquid D2O in a steam quencher and is then circulated to the pressurizing surge tank.
+
+195
+00:26:09,560 --> 00:26:13,720
+Pressure in this tank is provided by the reactor pressurizing gas system.
+
+196
+00:26:14,740 --> 00:26:21,240
+The heated D2O is circulated back to the loop tube by two centrifugal pumps in series.
+
+197
+00:26:21,240 --> 00:26:30,680
+cooling is provided by a bypass of the pump discharge which goes through a cooler similar
+
+198
+00:26:30,680 --> 00:26:38,000
+to the liquid loop cooler the cooled d2o is then used to quench the vapor from the outlet of the
+
+199
+00:26:38,000 --> 00:26:44,500
+loop tube control is guided by the temperature differential across the steam quencher the outlet
+
+200
+00:26:44,500 --> 00:26:50,460
+steam quality is adjusted by the bypass rate through the cooler purification of the heavy
+
+201
+00:26:50,460 --> 00:26:55,100
+water in the isolated coolant loops is accomplished in a common system. High
+
+202
+00:26:55,100 --> 00:26:59,819
+pressure makeup pumps feed separate head tanks for each loop and inject clean
+
+203
+00:26:59,819 --> 00:27:08,059
+heavy water into the systems. The two coolant loops of the main circulating
+
+204
+00:27:08,059 --> 00:27:17,220
+system including the steam generators are fabricated of carbon steel. D20 at
+
+205
+00:27:17,220 --> 00:27:22,420
+At about 420 degrees Fahrenheit, enters the reactor vessel through two inlet nozzles.
+
+206
+00:27:24,360 --> 00:27:29,880
+It then circulates downward in a forced flow through each fuel tube, cooling the fuel.
+
+207
+00:27:34,000 --> 00:27:37,380
+The reactor system is pressurized with helium gas.
+
+208
+00:27:39,100 --> 00:27:45,920
+Heavy water leaves the reactor at the core section and is circulated by two 4,800 GPM high pressure pumps.
+
+209
+00:27:47,220 --> 00:27:56,220
+A continuous purge of moderator from the reactor through filters and deionizers maintains the heavy water purity.
+
+210
+00:27:56,519 --> 00:28:06,240
+A pH of greater than 10 required to protect the carbon steel piping and components from corrosion is provided by addition of lithium hydroxide to the system.
+
+211
+00:28:07,299 --> 00:28:17,200
+Heat generated in the reactor core is dissipated through two large steam generators, each extracting approximately 30 megawatts of reactor heat at rated conditions.
+
+212
+00:28:17,220 --> 00:28:28,380
+light water is supplied to the steam generators from a system of wells in the area outlet steam
+
+213
+00:28:28,380 --> 00:28:35,579
+is used to drive the feed water pumps for these units the saturated light water steam equivalent
+
+214
+00:28:35,579 --> 00:28:46,539
+to about 60 megawatts is vented to the atmosphere through a steam muffler all
+
+215
+00:28:46,539 --> 00:28:51,039
+All reactor control operations are conducted from the adjoining control building, which
+
+216
+00:28:51,039 --> 00:29:01,680
+houses the operating console, controls, and instruments for the operation of the reactor.
+
+217
+00:29:01,680 --> 00:29:06,539
+In addition to control rods, control valves permit adjustment of the back pressure on
+
+218
+00:29:06,539 --> 00:29:11,639
+the steam generators and through the action of a strong negative temperature coefficient
+
+219
+00:29:11,640 --> 00:29:16,700
+of reactivity, adjusts the reactor power at almost constant moderator temperature.
+
+220
+00:29:17,759 --> 00:29:21,360
+Inherent stability and ease of control characterize the design.
+
+221
+00:29:27,340 --> 00:29:32,380
+The health physics building, also located near the containment building, is equipped
+
+222
+00:29:32,380 --> 00:29:37,040
+with the necessary protective articles which all operating personnel use before entering
+
+223
+00:29:37,040 --> 00:29:38,080
+the containment building.
+
+224
+00:29:41,640 --> 00:29:58,480
+A 10-foot diameter air lock on the ground level permits access during operation.
+
+225
+00:29:58,480 --> 00:30:05,540
+The major goal of the HWCTR is the development of inexpensive, natural uranium fuel elements
+
+226
+00:30:05,540 --> 00:30:10,400
+which will withstand the long irradiation at high temperatures required for full-scale
+
+227
+00:30:10,400 --> 00:30:11,360
+power reactors.
+
+228
+00:30:13,560 --> 00:30:19,180
+Operation of the HWCTR will provide answers to many of the technical problems which must
+
+229
+00:30:19,180 --> 00:30:23,560
+be resolved in development of the heavy water moderated natural uranium concept.
+
+230
+00:30:40,400 --> 00:30:53,860
+The knowledge and experience gained from operation of the HWCTR
+
+231
+00:30:53,860 --> 00:30:59,360
+can thus contribute immeasurably to the accomplishments of the power development efforts
+
+232
+00:30:59,360 --> 00:31:02,759
+of the United States Atomic Energy Commission.

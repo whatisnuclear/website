@@ -1,0 +1,579 @@
+1
+00:00:00,000 --> 00:00:27,000
+Washington, D.C. is the home of the United States Naval Research Laboratory.
+
+2
+00:00:27,940 --> 00:00:36,600
+The laboratory was founded in 1923 upon the recommendation of a special naval board of consultants headed by Thomas A. Edison.
+
+3
+00:00:37,399 --> 00:00:46,679
+Here, some 3,000 scientists, engineers, and supporting personnel are engaged in applied and basic research in the physical sciences.
+
+4
+00:00:46,679 --> 00:00:57,399
+In the field of radio astronomy, this 50-foot radio telescope has been used to measure the temperature of the planets Mars and Venus.
+
+5
+00:00:59,939 --> 00:01:06,480
+Intensive work has been carried out in upper atmosphere research, culminating in the launching of Earth's satellites.
+
+6
+00:01:06,480 --> 00:01:20,620
+In the field of nuclear physics, a variety of instruments is used, including a 6-million-volt
+
+7
+00:01:20,620 --> 00:01:30,320
+proton Van de Graaff, a 20-million-electron-volt Betatron, and two Cockcroft-Walton accelerators.
+
+8
+00:01:30,320 --> 00:01:41,180
+Right in 1952, laboratory scientists planned another tool, a nuclear research reactor.
+
+9
+00:01:41,180 --> 00:01:53,380
+They decided on a pool type reactor, modified to incorporate a thermal column and beam ports.
+
+10
+00:01:53,379 --> 00:02:01,399
+The design consists of a pool, a movable bridge from which the core is suspended at a depth
+
+11
+00:02:01,399 --> 00:02:10,819
+of 16 feet out in the pool or in a graphite-walled niche where the shielding is penetrated by
+
+12
+00:02:10,819 --> 00:02:14,340
+beam ports.
+
+13
+00:02:14,340 --> 00:02:23,180
+Through these ports, beams of radiation stream to the experimental area outside the shield.
+
+14
+00:02:23,180 --> 00:02:28,520
+A thermal column provides the source of thermal neutrons.
+
+15
+00:02:28,520 --> 00:02:34,819
+Pneumatic rabbit systems are used to irradiate samples for short times.
+
+16
+00:02:34,819 --> 00:02:38,060
+The reactor consists of a core,
+
+17
+00:02:38,060 --> 00:02:43,379
+detectors, and control rods.
+
+18
+00:02:43,379 --> 00:02:49,520
+In the pool, the 150,000 gallons of water surrounding the core serves as an
+
+19
+00:02:49,520 --> 00:02:52,300
+effective radiation shield.
+
+20
+00:02:52,300 --> 00:02:57,500
+additional concrete shielding eight feet thick is provided around the niche.
+
+21
+00:03:00,860 --> 00:03:06,140
+Construction began in 1955 in one end of an existing warehouse.
+
+22
+00:03:07,260 --> 00:03:11,580
+With the exception of the building modifications and the concrete construction,
+
+23
+00:03:12,620 --> 00:03:17,100
+all design and fabrication were performed by laboratory personnel.
+
+24
+00:03:17,099 --> 00:03:24,460
+Fuel elements were obtained from the Oak Ridge National Laboratory.
+
+25
+00:03:24,460 --> 00:03:32,299
+On September 17, 1956, the reactor was brought to criticality.
+
+26
+00:03:32,299 --> 00:03:37,500
+Operation is presently limited by license agreement with the Atomic Energy Commission
+
+27
+00:03:37,500 --> 00:03:41,900
+to 100 kilowatts.
+
+28
+00:03:41,900 --> 00:03:48,360
+Before entering the reactor area, all visitors are required to register and to receive radiation
+
+29
+00:03:48,360 --> 00:03:51,099
+badges.
+
+30
+00:03:51,099 --> 00:03:59,060
+All possible measures are taken to protect the health and safety of personnel.
+
+31
+00:03:59,060 --> 00:04:09,700
+The reactor pool is 40 feet long, 26 feet and 20 feet deep.
+
+32
+00:04:09,700 --> 00:04:13,140
+The instrument bridge is in the foreground.
+
+33
+00:04:13,140 --> 00:04:23,240
+And beyond it is the reactor bridge, from which the reactor core is suspended.
+
+34
+00:04:23,240 --> 00:04:27,500
+A fuel element is placed on the loading elevator.
+
+35
+00:04:27,500 --> 00:04:34,360
+Lead shields at the top of the element reduce the gamma radiation in the vertical direction.
+
+36
+00:04:34,360 --> 00:04:41,560
+Each element consists of two aluminum side pieces containing 18 thin uranium-aluminum
+
+37
+00:04:41,560 --> 00:04:44,259
+plates.
+
+38
+00:04:44,259 --> 00:04:52,460
+The fuel portion of each plate is a sheet of uranium-aluminum alloy, 20 mils thick.
+
+39
+00:04:52,460 --> 00:04:58,220
+The fuel is 90% enriched uranium-235.
+
+40
+00:04:58,220 --> 00:05:03,120
+Twenty mil aluminum cladding protects the fuel from corrosion and contains the fission
+
+41
+00:05:03,120 --> 00:05:09,780
+fragments. Water rising by natural convection between the fuel plates
+
+42
+00:05:09,780 --> 00:05:15,500
+removes the fission heat. Natural convection cooling is adequate to
+
+43
+00:05:15,500 --> 00:05:23,519
+several hundred kilowatts. At higher power, forceful coolant will be used. A
+
+44
+00:05:23,519 --> 00:05:32,840
+complete fuel element contains about 140 grams of uranium-235. Loading of the
+
+45
+00:05:32,840 --> 00:05:39,160
+core begins by lowering new elements into the pool. The core is assembled by
+
+46
+00:05:39,160 --> 00:05:44,420
+coupling on to the fuel elements with a long handling tool and transferring
+
+47
+00:05:44,420 --> 00:05:49,940
+these elements underwater to a grid positioning plate. In the pool where
+
+48
+00:05:49,940 --> 00:05:56,260
+water is the sole reflecting medium it takes about 3,400 grams of uranium to
+
+49
+00:05:56,260 --> 00:06:02,540
+form a critical mass. In the niche where three sides of the core are reflected by
+
+50
+00:06:02,540 --> 00:06:10,920
+graphite, only 2,700 grams are required. The individual elements are positioned
+
+51
+00:06:10,920 --> 00:06:14,379
+into a rectangular array.
+
+52
+00:06:22,100 --> 00:06:27,980
+The final element completes a core configuration in which the uranium mass
+
+53
+00:06:27,980 --> 00:06:32,980
+slightly exceeds that required for criticality.
+
+54
+00:06:39,980 --> 00:06:45,980
+The position and history of every element is recorded.
+
+55
+00:06:46,980 --> 00:06:51,980
+The geometry of the core can be changed to meet experimental requirements.
+
+56
+00:06:51,980 --> 00:06:59,379
+Six detectors are used to obtain all pertinent information about the power level and its rate of change.
+
+57
+00:07:00,280 --> 00:07:05,740
+The power level of the core is adjusted by neutron-absorbing control rods.
+
+58
+00:07:09,180 --> 00:07:12,780
+Here is a core with four rods in position.
+
+59
+00:07:13,480 --> 00:07:17,180
+Three of these are safety rods containing boron carbide.
+
+60
+00:07:17,180 --> 00:07:24,300
+The fission rate and accompanying radiation increase as the stainless steel control rod is withdrawn.
+
+61
+00:07:25,300 --> 00:07:28,720
+The three safety rods are suspended by electromagnets.
+
+62
+00:07:29,600 --> 00:07:36,860
+For reactor shutdown, or scram, the rods are released and dropped into the core.
+
+63
+00:07:38,560 --> 00:07:44,100
+An unshielded core would, of course, emit intense radiation over a wide area.
+
+64
+00:07:44,100 --> 00:07:53,080
+The water around the core serves as a radiation shield.
+
+65
+00:07:53,080 --> 00:08:01,620
+The reactor system now consists of a core in a large pool of water, control rods and
+
+66
+00:08:01,620 --> 00:08:13,240
+their drive mechanisms, a control room and detectors near the core to measure the level
+
+67
+00:08:13,240 --> 00:08:23,379
+neutron and gamma radiation. A view of the entire reactor area is available to
+
+68
+00:08:23,379 --> 00:08:29,400
+the operator at the control console. An array of indicators is in front of the
+
+69
+00:08:29,400 --> 00:08:38,139
+console. Alarms and indicators on the console provide warning of trouble. They
+
+70
+00:08:38,139 --> 00:08:43,879
+They indicate both the nature and location of the malfunction.
+
+71
+00:08:43,879 --> 00:08:48,019
+Each warning alarm must be acknowledged.
+
+72
+00:08:48,019 --> 00:09:03,000
+Here a chart drive was not turned on.
+
+73
+00:09:03,000 --> 00:09:08,299
+After the safety check is completed, the reactor is started up.
+
+74
+00:09:08,299 --> 00:09:13,860
+The operator actuates a switch to withdraw the safety rods.
+
+75
+00:09:13,860 --> 00:09:25,039
+Their positions are indicated on the console in centimeters.
+
+76
+00:09:25,039 --> 00:09:33,639
+After careful monitoring, the control rod is withdrawn.
+
+77
+00:09:33,639 --> 00:09:41,279
+As the reactor is started, the increasing count rate from a fission chamber is observed.
+
+78
+00:09:41,279 --> 00:09:45,860
+The period channel indication is a measure of the rate of increase.
+
+79
+00:09:45,860 --> 00:09:51,000
+Too fast a period results in an automatic reactor shutdown.
+
+80
+00:09:51,000 --> 00:09:55,779
+Too high a power level also results in a scram.
+
+81
+00:09:55,779 --> 00:10:03,080
+The power level is displayed on a linear scale.
+
+82
+00:10:03,080 --> 00:10:06,799
+And also on a logarithmic scale.
+
+83
+00:10:06,799 --> 00:10:12,480
+Twenty minutes are required to raise the power to 100 kilowatts.
+
+84
+00:10:12,480 --> 00:10:18,779
+At about 1 kilowatt, the characteristic blue glow of the Cherenkov radiation surrounding
+
+85
+00:10:18,779 --> 00:10:20,779
+the core becomes visible.
+
+86
+00:10:48,779 --> 00:10:59,819
+The operator can shut down the system manually at any time.
+
+87
+00:11:18,779 --> 00:11:25,159
+As a safety measure, all persons entering the experimental floor must signal the control operator,
+
+88
+00:11:25,620 --> 00:11:30,860
+who opens access doors by means of electrically operated locks.
+
+89
+00:11:35,399 --> 00:11:42,059
+The main experimental area of the reactor facility is used for neutron beam research.
+
+90
+00:11:43,179 --> 00:11:48,120
+Seven beam ports, which penetrate the thick shielding at the front face of the pool,
+
+91
+00:11:48,120 --> 00:11:52,600
+allow direct beams of neutrons to be used for research.
+
+92
+00:11:54,100 --> 00:11:59,580
+At this beam port, a neutron diffraction experiment is in progress.
+
+93
+00:12:00,860 --> 00:12:03,899
+A single crystal spectrometer is being used
+
+94
+00:12:03,899 --> 00:12:07,080
+to study the magnetic structure of nickel oxide.
+
+95
+00:12:09,320 --> 00:12:13,299
+At the adjoining port, a similar diffraction experiment
+
+96
+00:12:13,299 --> 00:12:17,600
+is in progress on powder samples such as iron oxide.
+
+97
+00:12:18,120 --> 00:12:23,899
+The investigator is using magnetic scattering of neutrons to locate the
+
+98
+00:12:23,899 --> 00:12:30,560
+lattice vacancies in the material. The neutron beam is directed by a collimator
+
+99
+00:12:30,560 --> 00:12:38,139
+onto the sample mounted on a goniometer. The sample can be rotated either
+
+100
+00:12:38,139 --> 00:12:44,919
+manually or by a servo motor. The large horizontal cylinder is a borated
+
+101
+00:12:44,920 --> 00:12:53,060
+paraffin shield surrounding a boron trifluoride counter. A third diffraction
+
+102
+00:12:53,060 --> 00:13:00,420
+apparatus is shown here. It is used to study the structure of single crystals.
+
+103
+00:13:00,420 --> 00:13:08,200
+The sample can be oriented with respect to the neutron beam. The detector arm can
+
+104
+00:13:08,200 --> 00:13:14,300
+be rotated through 175 degrees of arc.
+
+105
+00:13:14,300 --> 00:13:20,759
+Here a neutron crystal spectrometer uses Bragg reflections from a beryllium crystal to obtain
+
+106
+00:13:20,759 --> 00:13:23,660
+mono-energetic neutrons.
+
+107
+00:13:23,660 --> 00:13:28,300
+It is being calibrated with known resonances of indium.
+
+108
+00:13:28,300 --> 00:13:35,180
+The reactor beam port is out of sight behind stacks of paraffin shielding blocks.
+
+109
+00:13:35,180 --> 00:13:41,700
+Two indium foils are being rotated sequentially into the beam.
+
+110
+00:13:41,700 --> 00:13:47,080
+The desired neutron energy is selected by automatically positioning the spectrometer
+
+111
+00:13:47,080 --> 00:13:51,280
+arm at an accurately known angle.
+
+112
+00:13:51,280 --> 00:13:57,300
+The apparatus can be used for measurements of slow neutron resonances but is here being
+
+113
+00:13:57,300 --> 00:14:03,460
+employed as a source of monochromatic neutrons for the study of capture gamma ray spectra.
+
+114
+00:14:08,020 --> 00:14:12,500
+A different type of experiment is shown in this apparatus for investigating
+
+115
+00:14:12,500 --> 00:14:17,540
+the interaction of polarized neutrons with polarized nuclear samples.
+
+116
+00:14:19,060 --> 00:14:24,740
+The neutrons are polarized and given the orientation desired by transmission through
+
+117
+00:14:24,740 --> 00:14:31,620
+magnetize iron. The nuclear samples are polarized by reducing the temperature to
+
+118
+00:14:31,620 --> 00:14:36,799
+near one one hundredth of a degree absolute and then applying a strong
+
+119
+00:14:36,799 --> 00:14:47,659
+magnetic field. Here at the vertical axis to the thermal column, a physicist checks
+
+120
+00:14:47,659 --> 00:14:52,519
+the thermal neutron response of an experimental proportional counter filled
+
+121
+00:14:52,519 --> 00:15:01,220
+with boron trimethyl gas also on the balcony is the control center of the
+
+122
+00:15:01,220 --> 00:15:08,059
+pneumatic rabbit system here material to be irradiated is being inserted into the
+
+123
+00:15:08,059 --> 00:15:17,059
+rabbit system the system is used to transport samples to a point near the
+
+124
+00:15:17,060 --> 00:15:22,440
+reactor core where they are exposed for a predetermined time to radiation and
+
+125
+00:15:22,440 --> 00:15:30,140
+then sent to an outlet near a laboratory counting room. Here the rabbit is removed
+
+126
+00:15:30,140 --> 00:15:38,080
+from the pneumatic system, placed in a mechanical uncapping device,
+
+127
+00:15:47,060 --> 00:15:52,100
+and the sample taken out.
+
+128
+00:16:04,420 --> 00:16:10,260
+The activation of the sample is measured in a shielded, well-type scintillation counter.
+
+129
+00:16:17,060 --> 00:16:32,580
+The scientist observes the decay of the activity as displayed by an automatic printout scaler.
+
+130
+00:16:32,580 --> 00:16:38,060
+Samples can also be irradiated in the pool.
+
+131
+00:16:38,060 --> 00:16:44,060
+Set into the rear wall of the pool are the hand-operated doors of water lock type transfer
+
+132
+00:16:44,060 --> 00:16:47,060
+leading to the adjoining hot cell facility.
+
+133
+00:16:53,060 --> 00:16:58,060
+The irradiated samples can be moved underwater into the transfer ports.
+
+134
+00:17:07,059 --> 00:17:12,059
+The port door is then cranked closed and the water lock is drained.
+
+135
+00:17:15,059 --> 00:17:20,059
+The hot cell is designed for killer-curie level activities.
+
+136
+00:17:24,059 --> 00:17:29,059
+Adjacent to it is the radiation laboratory or manipulator room.
+
+137
+00:17:39,059 --> 00:17:43,059
+From this room operators can look into the hot cell.
+
+138
+00:17:44,059 --> 00:17:53,399
+Seen through the window, the inner gate of the water lock opens.
+
+139
+00:17:53,399 --> 00:17:59,740
+The window consists of one-inch thick glass plates set three feet apart with an aqueous
+
+140
+00:17:59,740 --> 00:18:13,179
+solution of zinc bromide in between.
+
+141
+00:18:13,180 --> 00:18:17,840
+The sample holder is withdrawn by a direct coupled manipulator.
+
+142
+00:18:17,840 --> 00:18:23,840
+A power-driven electromechanical manipulator is also available for handling heavy objects.
+
+143
+00:19:13,180 --> 00:19:34,900
+This, then, is the Naval Research Laboratory's latest addition to its family of investigative tools for nuclear experimentation.
+
+144
+00:19:34,900 --> 00:19:42,460
+It was designed and built primarily for the conduct of basic research, and findings are
+
+145
+00:19:42,460 --> 00:19:46,660
+made available to the public through the open literature of science.

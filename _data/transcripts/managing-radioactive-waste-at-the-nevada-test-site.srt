@@ -1,0 +1,1039 @@
+1
+00:00:00,080 --> 00:00:09,159
+Many types of hazardous materials are used for the production of energy in industrial processes, the treatment of illness, and for national defense.
+
+2
+00:00:10,019 --> 00:00:15,919
+The manufacture and use of these materials results in toxic waste which must be disposed of properly.
+
+3
+00:00:16,979 --> 00:00:21,920
+Some of the waste produced by the U.S. Department of Energy's research and development programs is radioactive.
+
+4
+00:00:23,060 --> 00:00:27,659
+One of the disposal areas for this radioactive waste is the Nevada test site.
+
+5
+00:00:30,080 --> 00:00:45,999
+Located 65 miles northwest of Las Vegas, the Nevada test site is the location where the
+
+6
+00:00:46,099 --> 00:00:51,720
+Department of Energy conducts underground nuclear weapons tests.
+
+7
+00:00:51,820 --> 00:00:56,260
+Radioactive wastes resulting from the nuclear weapons testing program have been disposed
+
+8
+00:00:56,360 --> 00:00:59,980
+of at the site for more than 20 years.
+
+9
+00:01:00,080 --> 00:01:06,980
+waste from other DOE defense program facilities are also taken to the site for disposal.
+
+10
+00:01:07,760 --> 00:01:14,660
+The Nevada Test Site is a remote secure area of 1,350 square miles where experiments involving
+
+11
+00:01:15,159 --> 00:01:20,600
+hazardous materials can be carried out safely.
+
+12
+00:01:20,700 --> 00:01:24,919
+Radioactive waste management programs at the Nevada Test Site are part of a nationwide
+
+13
+00:01:25,019 --> 00:01:31,279
+program conducted by the Department of Energy's Office of Nuclear Waste Management, headquartered
+
+14
+00:01:31,379 --> 00:01:38,339
+in Washington, D.C. The programs include both normal day-to-day waste disposal operations
+
+15
+00:01:38,439 --> 00:01:44,339
+and research and development projects on new and improved methods for safely handling and
+
+16
+00:01:44,439 --> 00:01:49,739
+disposing of radioactive materials produced by both government and commercial nuclear
+
+17
+00:01:49,840 --> 00:01:55,680
+operations. Every plant and animal that has ever lived on this Earth has been exposed
+
+18
+00:01:55,780 --> 00:02:01,280
+to nuclear radiation for every second of its life by radioactive materials, which occur
+
+19
+00:02:01,380 --> 00:02:09,460
+naturally in our environment. In addition to this natural background radiation, we are
+
+20
+00:02:09,560 --> 00:02:15,440
+also exposed to radiation from medical diagnosis, nuclear weapons test fallout, and energy production
+
+21
+00:02:15,540 --> 00:02:23,199
+and use. There are 106 chemical elements which cannot be divided into simpler substances
+
+22
+00:02:23,299 --> 00:02:28,900
+by chemical means. Each of these elements may have up to several radioactive isotopes
+
+23
+00:02:29,000 --> 00:02:34,900
+which have half-lives ranging from millions of a second to millions of years. A half-life
+
+24
+00:02:35,000 --> 00:02:40,120
+is the time in which half the atoms of a particular radioactive substance disintegrate to another
+
+25
+00:02:40,220 --> 00:02:46,500
+nuclear form. The main concern is that radioactive waste materials would longer have lives be
+
+26
+00:02:46,600 --> 00:02:52,860
+safely disposed of so that they will not be hazardous to people or the environment.
+
+27
+00:02:52,960 --> 00:02:58,320
+Two terms are important in this discussion. Transuranic elements are those elements having
+
+28
+00:02:58,420 --> 00:03:04,840
+an atomic number greater than 92, that of uranium. All transuranic elements are produced
+
+29
+00:03:04,940 --> 00:03:10,460
+artificially and are radioactive. A curie is the basic measurement of the amount of
+
+30
+00:03:10,560 --> 00:03:16,920
+activity of a specific quantity of radioactive material and is based on the rate of decay
+
+31
+00:03:17,020 --> 00:03:22,940
+of one gram of radium. The major classes of nuclear waste involved in programs at the
+
+32
+00:03:23,040 --> 00:03:30,620
+Nevada Test Site are low-level waste, transuranic waste, and high-level waste. Low-level wastes
+
+33
+00:03:30,720 --> 00:03:35,720
+contain less than 10 nanocuries, that is less than ten billionths of a curie of
+
+34
+00:03:35,820 --> 00:03:41,000
+transuranic contaminants per gram of material. Some low-level waste may be
+
+35
+00:03:41,100 --> 00:03:46,220
+free of transuranic contaminants. In general, low-level wastes have shorter
+
+36
+00:03:46,320 --> 00:03:51,500
+half-lives, require minimal shielding, and have small but potentially hazardous
+
+37
+00:03:51,600 --> 00:03:57,200
+quantities of radioactive isotopes. Some low-level waste may have much higher
+
+38
+00:03:57,299 --> 00:04:02,199
+levels of radioactivity and require heavily shielded, specially designed
+
+39
+00:04:02,299 --> 00:04:07,139
+transportation containers. Several types of containers are used to transport
+
+40
+00:04:07,239 --> 00:04:13,019
+radioactive materials. Waste with a small amount of radioactivity may be packaged
+
+41
+00:04:13,119 --> 00:04:18,559
+in heavy cardboard or plywood boxes. Other higher radioactive substances
+
+42
+00:04:18,659 --> 00:04:24,439
+require much sturdier containers. All containers must conform to Department of
+
+43
+00:04:24,539 --> 00:04:27,140
+Transportation regulations.
+
+44
+00:04:27,300 --> 00:04:33,760
+Low-level waste disposed of at the Nevada test site originates in a number of Department
+
+45
+00:04:33,860 --> 00:04:39,440
+of Energy facilities, such as the Rocky Flats plant near Denver, Colorado, where plutonium
+
+46
+00:04:39,540 --> 00:04:42,920
+parts for nuclear weapons are produced.
+
+47
+00:04:43,020 --> 00:04:47,940
+Depending on the type and amount of radioactive material involved, the waste is carefully
+
+48
+00:04:48,040 --> 00:04:51,080
+packed in an appropriate shipping container.
+
+49
+00:04:51,180 --> 00:04:56,600
+These containers must conform to U.S. Department of Transportation regulations and be properly
+
+50
+00:04:56,700 --> 00:05:03,600
+marked and labeled. The content of each container is documented and a detailed inventory is
+
+51
+00:05:03,700 --> 00:05:16,040
+kept on all radioactive material in stock and being shipped to the test site.
+
+52
+00:05:16,140 --> 00:05:21,619
+Each step in the operation, gathering the waste material, consolidating it and packaging
+
+53
+00:05:21,719 --> 00:05:27,340
+it is carefully planned and checked to ensure that exposure to the plant employees, truck
+
+54
+00:05:27,440 --> 00:05:33,619
+drivers, and the public is kept at the lowest level possible, well below the existing radiation
+
+55
+00:05:33,719 --> 00:05:41,040
+exposure guidelines.
+
+56
+00:05:41,140 --> 00:05:45,919
+The waste materials destined for the Nevada test site are carried by commercial trucking
+
+57
+00:05:46,019 --> 00:05:50,999
+firms under regulations established by the U.S. Department of Transportation and the
+
+58
+00:05:51,099 --> 00:06:05,600
+states through which the trucks travel.
+
+59
+00:06:05,700 --> 00:06:09,819
+Radioactive waste materials also result from a number of activities at the Nevada test
+
+60
+00:06:09,919 --> 00:06:10,819
+site.
+
+61
+00:06:10,919 --> 00:06:16,839
+Some of the wastes are vehicles, equipment, and debris contaminated by atmospheric nuclear
+
+62
+00:06:16,940 --> 00:06:25,020
+test conducted in the 1950s.
+
+63
+00:06:25,120 --> 00:06:30,460
+This material is being gathered and placed in two large subsidence craters in Yucca Flat
+
+64
+00:06:30,560 --> 00:06:33,780
+formed by underground of Lear tests.
+
+65
+00:06:33,880 --> 00:06:44,359
+This debris will be covered by several feet of earth and the location marked with monuments.
+
+66
+00:06:44,459 --> 00:06:49,499
+Other low level wastes are generated in test site laboratories and facilities such as the
+
+67
+00:06:49,599 --> 00:06:54,699
+decontamination pad where equipment used in the underground testing program is cleaned
+
+68
+00:06:54,799 --> 00:06:56,259
+for reuse.
+
+69
+00:06:56,359 --> 00:07:01,480
+Rags, protective clothing, and worn out or broken equipment are typical of the waste
+
+70
+00:07:01,580 --> 00:07:06,460
+items that are designated for disposal.
+
+71
+00:07:06,560 --> 00:07:11,299
+These waste materials are compacted and packaged for burial.
+
+72
+00:07:11,399 --> 00:07:16,739
+And inventory and continuous administrative control is kept of all radioactive materials
+
+73
+00:07:16,839 --> 00:07:20,739
+on the test site.
+
+74
+00:07:20,839 --> 00:07:26,520
+The major low-level disposal area at the Nevada test site is a large continuous trench located
+
+75
+00:07:26,620 --> 00:07:31,780
+in Frenchman Flat, a dry lake bed in the southeast section of the site.
+
+76
+00:07:31,880 --> 00:07:39,919
+The trench is 20 feet deep, 700 feet long, and has a capacity for the burial of 1,600,000
+
+77
+00:07:40,019 --> 00:07:48,140
+cubic feet of packaged radioactive waste. Additional trenches will be dug when needed.
+
+78
+00:07:48,240 --> 00:07:53,119
+As the waste containers are stacked on one side of the trench and covered over, the opposite
+
+79
+00:07:53,219 --> 00:07:58,020
+side of the trench is extended with the dirt taken to the fill side to be used for future
+
+80
+00:07:58,120 --> 00:08:06,139
+covering. The stacked waste is covered with at least seven feet of dirt.
+
+81
+00:08:06,240 --> 00:08:11,280
+When a truck arrives at the site, the load is checked by a radiation monitor and the
+
+82
+00:08:11,380 --> 00:08:16,240
+containers are unloaded and stacked neatly in place on the side of the trench.
+
+83
+00:08:16,340 --> 00:08:23,780
+The exact location of each box along with a record of its contents is carefully documented.
+
+84
+00:08:23,880 --> 00:08:33,680
+Although highly unlikely, if it is ever necessary to retrieve a container, the record can be
+
+85
+00:08:33,780 --> 00:08:39,620
+checked and the box located then dug out of the trench.
+
+86
+00:08:39,720 --> 00:08:44,320
+Strict controls are required on the material shipped to the test site for burial to ensure
+
+87
+00:08:44,420 --> 00:08:47,720
+that all Department of Transportation requirements are met.
+
+88
+00:08:47,820 --> 00:08:53,239
+The contents must not include liquids, pyrophoric or explosive materials, combustible material
+
+89
+00:08:53,339 --> 00:08:57,720
+must be separated from non-combustible and plainly marked.
+
+90
+00:08:57,820 --> 00:09:02,980
+Any heat produced by the contents of the container must not adversely affect the chemical or
+
+91
+00:09:03,080 --> 00:09:08,340
+physical integrity of the contents or the package. The exterior of the package must
+
+92
+00:09:08,440 --> 00:09:14,340
+be free of radioactive contamination upon arrival at the test site. Penetrating gamma
+
+93
+00:09:14,440 --> 00:09:19,600
+radiation must not exceed established guidelines during handling, shipment, and retrievable
+
+94
+00:09:19,700 --> 00:09:28,619
+storage. Packages with waste containing tritium, a radioactive isotope of hydrogen, are overpacked
+
+95
+00:09:28,719 --> 00:09:34,399
+in steel cylinders. The tritium package is surrounded with a special absorbent material
+
+96
+00:09:34,499 --> 00:09:40,159
+and the steel container is welded shut prior to burial. Sensitive monitoring equipment
+
+97
+00:09:40,259 --> 00:09:46,659
+is used to check for leaks of tritium both before and after the containers are buried.
+
+98
+00:09:46,759 --> 00:09:51,779
+Several research programs on low-level waste currently being conducted include studies
+
+99
+00:09:51,879 --> 00:09:57,159
+on revegetation to limit the penetration of moisture into the soil, a study on the transport
+
+100
+00:09:57,260 --> 00:10:02,860
+mechanism of radioactivity through the soil and a study to develop criteria for deeper
+
+101
+00:10:02,960 --> 00:10:06,440
+burial of waste.
+
+102
+00:10:06,540 --> 00:10:11,920
+The burial site in Frenchman Flat is continuously monitored by air samplers and other sensitive
+
+103
+00:10:12,020 --> 00:10:14,460
+radiation detection equipment.
+
+104
+00:10:14,560 --> 00:10:19,680
+All employees at the Nevada test site wear radiation film disseminators, which are checked
+
+105
+00:10:19,780 --> 00:10:24,280
+monthly to determine the amount of external radiation exposure that the individual may
+
+106
+00:10:24,380 --> 00:10:29,940
+have received. Exposure to individuals is kept at the lowest level possible, well below
+
+107
+00:10:30,040 --> 00:10:35,420
+guidelines. Transuranic waste results predominantly from
+
+108
+00:10:35,520 --> 00:10:41,480
+reprocessing of spent fuel from nuclear reactors and the fabrication of plutonium components
+
+109
+00:10:41,580 --> 00:10:47,460
+used to produce nuclear weapons. Transuranic waste is currently defined as containing more
+
+110
+00:10:47,560 --> 00:10:54,920
+than 10 nanocuries of transuranic elements per gram of material and may contain uranium.
+
+111
+00:10:55,020 --> 00:11:00,499
+All materials containing more than 10 nanocuries of transuranic isotopes are kept in special
+
+112
+00:11:00,599 --> 00:11:06,119
+steel surface containers for 20 years or longer so that the material may be retrieved for
+
+113
+00:11:06,219 --> 00:11:13,400
+reprocessing or permanent disposal.
+
+114
+00:11:13,499 --> 00:11:19,100
+The radiation burial site in Frenchman Flat is particularly suited to this operation.
+
+115
+00:11:19,200 --> 00:11:22,079
+It lies in a closed basin.
+
+116
+00:11:22,179 --> 00:11:28,579
+Surface runoff from the infrequent rains flows into the valley where it eventually evaporates.
+
+117
+00:11:28,679 --> 00:11:34,679
+The local aquifer is about 600 feet deep and there is no known transport of water from
+
+118
+00:11:34,779 --> 00:11:37,439
+the surface to the aquifer.
+
+119
+00:11:37,540 --> 00:11:43,440
+in the area are monitored regularly to assure that the water is safe to use.
+
+120
+00:11:47,540 --> 00:11:54,440
+Research utilizing high-level waste is conducted under the Nevada Nuclear Waste Storage Investigations Program,
+
+121
+00:11:54,540 --> 00:12:01,440
+which involves developing technology for handling, packaging, and storing highly radioactive spent fuel assemblies
+
+122
+00:12:01,540 --> 00:12:05,440
+in different geologic mediums.
+
+123
+00:12:05,540 --> 00:12:11,440
+The Nevada program is part of the national waste management program conducted by the Department of Energy
+
+124
+00:12:11,540 --> 00:12:18,440
+through the Office of Nuclear Waste Isolation, operated by Battelle Memorial Institute at Columbus, Ohio,
+
+125
+00:12:18,540 --> 00:12:24,440
+and at other DOE field offices in Savannah River, South Carolina, and Hanford, Washington.
+
+126
+00:12:24,540 --> 00:12:27,440
+High level waste may come from two sources.
+
+127
+00:12:27,540 --> 00:12:32,440
+They may be intact fuel assemblies that are being discarded after having served their useful life
+
+128
+00:12:32,540 --> 00:12:35,999
+in a nuclear reactor and are called spent fuel.
+
+129
+00:12:37,000 --> 00:12:40,980
+High-level waste also results from the reprocessing of the spent fuel
+
+130
+00:12:41,080 --> 00:12:46,359
+to extract the remaining uranium and plutonium for continued use as reactor fuel.
+
+131
+00:12:47,480 --> 00:12:51,999
+These high-level wastes are being considered for disposal in geologic repositories
+
+132
+00:12:52,099 --> 00:12:58,540
+or by other technical options designed to provide long-term isolation of the wastes from the biosphere.
+
+133
+00:12:59,380 --> 00:13:02,860
+The spent fuel assemblies being used at the Nevada test site
+
+134
+00:13:02,960 --> 00:13:06,420
+are from the Florida Power and Light Company's Turkey Point reactor.
+
+135
+00:13:07,440 --> 00:13:12,140
+Additional spent fuel assemblies may be obtained from other reactors for use in new programs.
+
+136
+00:13:13,280 --> 00:13:18,120
+A nuclear power reactor uses about 200 fuel assemblies in its reactor core,
+
+137
+00:13:18,760 --> 00:13:20,680
+producing steam to run electric turbines.
+
+138
+00:13:21,840 --> 00:13:25,080
+About one-third of a nuclear reactor's fuel assemblies in the core
+
+139
+00:13:25,180 --> 00:13:28,040
+must be removed and replaced every 18 months.
+
+140
+00:13:28,640 --> 00:13:34,080
+The spent fuel assemblies are highly radioactive and are stored in water pools near the reactor
+
+141
+00:13:34,180 --> 00:13:39,200
+for several years to allow short half-lived radioisotopes to decay.
+
+142
+00:13:39,300 --> 00:13:44,720
+A 25-ton truck-mounted transportation cask is used to move the spent fuel assemblies
+
+143
+00:13:44,820 --> 00:13:48,340
+from the reactor to the Nevada test site.
+
+144
+00:13:48,440 --> 00:13:54,960
+This cask is placed in the reactor water storage pool for the loading of the spent fuel assembly.
+
+145
+00:13:55,060 --> 00:13:59,999
+Each fuel assembly is about 13 feet in length and 8 1⁄2 inches square.
+
+146
+00:14:00,099 --> 00:14:04,379
+It contains 200 hollow rods filled with uranium pellets.
+
+147
+00:14:04,479 --> 00:14:09,499
+The spent fuel assembly is removed from the storage rack and placed in the shipping cask,
+
+148
+00:14:09,599 --> 00:14:11,420
+which is then sealed.
+
+149
+00:14:11,520 --> 00:14:17,300
+Each step of the operation is closely checked by radiation monitors to ensure that the operators
+
+150
+00:14:17,400 --> 00:14:21,900
+do not receive an exposure above established guidelines.
+
+151
+00:14:22,000 --> 00:14:28,020
+When the loaded cask is removed from the water storage tank, it is drained, washed and steamed
+
+152
+00:14:28,120 --> 00:14:29,020
+clean.
+
+153
+00:14:29,120 --> 00:14:34,460
+The cask is then monitored to assure compliance with the Department of Transportation regulations
+
+154
+00:14:34,560 --> 00:14:38,660
+for external radiation and surface contamination.
+
+155
+00:14:38,760 --> 00:14:43,420
+All of the bolts and seals are checked to assure that there are no leaks.
+
+156
+00:14:43,520 --> 00:14:48,620
+The casks used to transport the spent fuel assemblies are designed to withstand accidents
+
+157
+00:14:48,719 --> 00:14:54,440
+much more severe than would be expected in a normal transportation situation.
+
+158
+00:14:54,540 --> 00:14:59,600
+The certification tests of the transportation casks include having a trailer carrying a
+
+159
+00:14:59,700 --> 00:15:09,519
+cask rammed by a railroad locomotive going 80 miles per hour.
+
+160
+00:15:09,619 --> 00:15:15,739
+This test showed only superficial damage to the cask without compromising its integrity.
+
+161
+00:15:15,839 --> 00:15:21,060
+These casks are one of the safest containers for hazardous material used in interstate
+
+162
+00:15:21,160 --> 00:15:27,279
+commerce.
+
+163
+00:15:27,379 --> 00:15:32,259
+Several of the spent fuel assemblies were first taken to the Battelle Memorial Institute
+
+164
+00:15:32,359 --> 00:15:37,639
+laboratory in Columbus, Ohio, where they were closely examined in a hot cell, which protected
+
+165
+00:15:37,739 --> 00:15:41,019
+the operators from exposure to radiation.
+
+166
+00:15:41,119 --> 00:15:49,980
+The condition of each assembly was carefully documented.
+
+167
+00:15:50,080 --> 00:15:55,319
+Fuel handling operations at the Nevada test site are conducted at the Encapsulation, Maintenance
+
+168
+00:15:55,419 --> 00:16:01,799
+and Disassembly, or EMAD facility located on the southwest corner of the test site.
+
+169
+00:16:01,899 --> 00:16:07,239
+This building was originally designed and constructed to assemble and disassemble nuclear
+
+170
+00:16:07,339 --> 00:16:08,559
+rocket engines.
+
+171
+00:16:08,660 --> 00:16:15,140
+When a truck containing the spent fuel assemblies arrives at the Nevada test site, the cask
+
+172
+00:16:15,240 --> 00:16:20,200
+and trailer are carefully checked for surface contamination or leaks.
+
+173
+00:16:20,300 --> 00:16:27,859
+In the hot bay of the EMAD facility, the cask is unloaded and again closely checked.
+
+174
+00:16:27,959 --> 00:16:32,280
+This hot bay is one of the largest facilities of its kind in the world, with dense concrete
+
+175
+00:16:32,380 --> 00:16:36,100
+walls and lead glass windows up to 6 feet thick.
+
+176
+00:16:36,200 --> 00:16:41,080
+All of the operations involving highly radioactive materials in the hot bay are performed by
+
+177
+00:16:41,180 --> 00:16:45,980
+remote control using overhead cranes and sidewall manipulators.
+
+178
+00:16:46,080 --> 00:16:50,560
+Each step of the operation is observed and recorded by closed circuit television cameras
+
+179
+00:16:50,660 --> 00:16:53,980
+and video tape recorders.
+
+180
+00:16:54,080 --> 00:16:58,600
+Following removal from the transportation cask, the spent fuel assembly is placed in
+
+181
+00:16:58,700 --> 00:17:03,779
+a stainless steel canister.
+
+182
+00:17:03,880 --> 00:17:08,480
+A threaded lid is screwed into the top of the canister and welded closed using specially
+
+183
+00:17:08,580 --> 00:17:12,640
+remotely operated equipment designed for this operation.
+
+184
+00:17:12,740 --> 00:17:17,280
+The sealed canister is filled with helium to provide a chemically inert environment,
+
+185
+00:17:17,380 --> 00:17:22,739
+then is checked for any leaks and surface contamination.
+
+186
+00:17:22,839 --> 00:17:27,860
+Two methods of temporary surface and near-surface storage are being evaluated at the Nevada
+
+187
+00:17:27,960 --> 00:17:28,860
+test site.
+
+188
+00:17:28,960 --> 00:17:33,780
+If adopted, one or more of these methods could be used to store high-level radioactive waste
+
+189
+00:17:33,879 --> 00:17:39,779
+materials prior to final disposal or to provide overflow storage capacity for spent fuel.
+
+190
+00:17:41,320 --> 00:17:46,420
+For the surface storage, an above-ground sealed silo has been designed to virtually eliminate
+
+191
+00:17:46,520 --> 00:17:52,499
+external radiation and withstand a tip-over caused by an earthquake without significant damage.
+
+192
+00:17:53,320 --> 00:17:58,499
+The spent fuel assembly is loaded into the silo in the hot bay and then trucked to a pad located
+
+193
+00:17:58,599 --> 00:18:02,380
+beside the EMAD building, where it is bolted into place.
+
+194
+00:18:02,480 --> 00:18:05,999
+The surface storage cask is made of steel reinforced concrete.
+
+195
+00:18:06,099 --> 00:18:11,440
+It is 21 feet high, 9 feet in diameter, and weighs about 95 tons.
+
+196
+00:18:11,540 --> 00:18:17,279
+It sits on a reinforced concrete pad 14 feet square and 6 feet thick.
+
+197
+00:18:17,379 --> 00:18:23,940
+For the near surface storage, five dry wells, 25 feet deep and 18 inches in diameter, have
+
+198
+00:18:24,040 --> 00:18:27,700
+been drilled between railroad tracks near the EMAD.
+
+199
+00:18:27,800 --> 00:18:33,499
+The dry wells are 25 feet apart and are equipped with steel liners that have been cemented
+
+200
+00:18:33,599 --> 00:18:34,660
+into place.
+
+201
+00:18:34,760 --> 00:18:40,160
+A specially designed shielded vehicle mounted on a rail car transports the encapsulated
+
+202
+00:18:40,260 --> 00:18:44,900
+fuel assemblies and emplaces them in the dry wells.
+
+203
+00:18:45,000 --> 00:18:50,660
+Both the dry wells and surface storage casks are instrumented to collect and record canister
+
+204
+00:18:50,760 --> 00:18:57,680
+and liner temperatures, soil temperatures near the wells and radiation levels.
+
+205
+00:18:57,780 --> 00:19:09,460
+Once the fuel canisters are in place, workers can move around both the surface storage cask and the dry wells with virtually no exposure to the radiation from the emplaced spent fuel assembly.
+
+206
+00:19:10,599 --> 00:19:20,120
+A second experimental program involves the use of 11 canisters containing spent reactor fuel and six canisters containing electric heaters,
+
+207
+00:19:20,320 --> 00:19:27,320
+which will be emplaced in the 17 dry wells drilled in the floor of a granite tunnel 1,400 feet beneath the surface.
+
+208
+00:19:27,780 --> 00:19:39,680
+Each spent fuel canister is taken to the experimental facility by a specially designed surface transport vehicle which consists of a large steel cask mounted on a low boy trailer.
+
+209
+00:19:39,780 --> 00:19:47,680
+The cask is loaded in the E-MAD Hot Bay and then driven to the top of a vertical hole which connects the surface to the granite tunnel.
+
+210
+00:19:57,780 --> 00:20:06,480
+Men and equipment are transported to the 1,400-foot deep tunnel in a separate vertical shaft.
+
+211
+00:20:06,580 --> 00:20:11,039
+The canister containing the spent fuel assembly is carefully lowered underground through the
+
+212
+00:20:11,139 --> 00:20:16,180
+19-inch diameter access hole to a rail-mounted transfer vehicle.
+
+213
+00:20:16,280 --> 00:20:20,880
+All of this equipment is controlled from the surface with the operations being monitored
+
+214
+00:20:20,980 --> 00:20:22,620
+on closed circuit television.
+
+215
+00:20:23,720 --> 00:20:30,620
+When the underground transport vehicle has received the canister, it moves to one of the storage holes drilled on the floor of the tunnel.
+
+216
+00:20:31,720 --> 00:20:35,620
+A 5,200 pound concrete cover over the hole is removed
+
+217
+00:20:35,720 --> 00:20:39,620
+and the canister is lowered into place along with a shield plug.
+
+218
+00:20:41,720 --> 00:20:47,620
+A specially trained team then connects temperature and radiation monitoring instruments in the hole
+
+219
+00:20:47,720 --> 00:20:50,620
+and the concrete plug is replaced, covering the hole.
+
+220
+00:20:52,720 --> 00:20:59,980
+Two other tunnels in the granite formation on either side of the fuel emplacement tunnel
+
+221
+00:21:00,080 --> 00:21:04,180
+have been equipped with electric heaters and monitoring equipment.
+
+222
+00:21:04,280 --> 00:21:10,280
+The electrical simulators will be controlled to match the heat output of a spent fuel assembly.
+
+223
+00:21:10,380 --> 00:21:15,200
+The object of the experiment is to evaluate the response of granite to the temperatures
+
+224
+00:21:15,300 --> 00:21:21,239
+produced by the electric heaters and the combination of high radiation and thermal heat produced
+
+225
+00:21:21,339 --> 00:21:24,920
+by the radioactive spent fuel assemblies.
+
+226
+00:21:25,020 --> 00:21:29,480
+This data will aid in determining whether or not granite and other crystalline rock
+
+227
+00:21:29,580 --> 00:21:35,099
+types are suitable geologic formations for permanent disposal of high level radioactive
+
+228
+00:21:35,199 --> 00:21:37,019
+wastes.
+
+229
+00:21:37,119 --> 00:21:42,160
+All of the spent fuel canisters are retrievable and will be moved from the various experimental
+
+230
+00:21:42,260 --> 00:21:46,420
+locations back to the EMAD building after several years.
+
+231
+00:21:46,520 --> 00:21:51,180
+The spent fuel assemblies and the dry wells will then be examined to determine if there
+
+232
+00:21:51,280 --> 00:21:57,739
+has been any effect caused by dry storage in an inert atmosphere.
+
+233
+00:21:57,839 --> 00:22:02,820
+The information gained from these experimental programs will be used to develop geologic
+
+234
+00:22:02,920 --> 00:22:09,920
+repository technology for use in permanent geologic waste disposal programs.
+
+235
+00:22:10,020 --> 00:22:15,239
+A third study on high-level waste management involves determining if a geologic formation
+
+236
+00:22:15,339 --> 00:22:20,239
+suitable for permanent disposal of high-level waste exists within the boundaries of the
+
+237
+00:22:20,339 --> 00:22:23,640
+Nevada test site.
+
+238
+00:22:23,740 --> 00:22:28,599
+Any long-term waste management project must be compatible with the prime test site mission
+
+239
+00:22:28,699 --> 00:22:31,680
+of underground nuclear weapons testing.
+
+240
+00:22:31,780 --> 00:22:36,339
+A waste repository located in the southwest quadrant of the site would not interfere with
+
+241
+00:22:36,439 --> 00:22:41,739
+other Nevada test site programs and the search is centered on Yucca Mountain near the test
+
+242
+00:22:41,839 --> 00:22:44,480
+site border northwest of the EMAD facility.
+
+243
+00:22:45,339 --> 00:22:52,480
+The rock under evaluation at the site is welded tuff, a very hard volcanic formation located
+
+244
+00:22:52,580 --> 00:22:56,880
+about 2,000 feet beneath the surface.
+
+245
+00:22:56,980 --> 00:23:05,799
+Currently, the area is being drilled to obtain cores of the underground rock formation for
+
+246
+00:23:05,899 --> 00:23:17,039
+evaluation by geologists and other scientists.
+
+247
+00:23:17,139 --> 00:23:23,519
+Other studies being conducted include surface ecology, seismicity, volcanism, and hydrology
+
+248
+00:23:23,619 --> 00:23:27,220
+of the area.
+
+249
+00:23:27,320 --> 00:23:32,339
+The effects of ground motion caused by underground nuclear tests are also being studied.
+
+250
+00:23:32,440 --> 00:23:37,820
+If a geologic formation is found to be suitable for a permanent commercial high-level waste
+
+251
+00:23:37,920 --> 00:23:44,100
+repository, any facility constructed would be licensed by the Nuclear Regulatory Commission
+
+252
+00:23:44,200 --> 00:23:49,020
+with consultation and concurrence with the State of Nevada.
+
+253
+00:23:49,120 --> 00:23:55,120
+All aspects of these investigations are periodically reviewed by scientific panels whose membership
+
+254
+00:23:55,220 --> 00:24:00,320
+represents both the Department of Energy and independent scientific organizations.
+
+255
+00:24:00,419 --> 00:24:06,279
+Details and results of these studies are available in open scientific literature and are presented
+
+256
+00:24:06,379 --> 00:24:15,939
+to state officials and the public.
+
+257
+00:24:16,039 --> 00:24:20,179
+The radioactive waste management programs conducted at the Department of Energy's Nevada
+
+258
+00:24:20,279 --> 00:24:26,059
+test site are essential to many of the DOE's defense programs and are helping to solve
+
+259
+00:24:26,159 --> 00:24:31,220
+the problems of permanent geologic storage of high-level waste from the nation's commercial
+
+260
+00:24:31,320 --> 00:24:32,899
+nuclear power industry.

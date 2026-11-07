@@ -1,0 +1,543 @@
+1
+00:00:08,620 --> 00:00:28,699
+The Armour Research Reactor, located at the Illinois Institute of Technology in Chicago,
+
+2
+00:00:28,699 --> 00:00:36,100
+is the world's first private nuclear reactor designed specifically for industrial research.
+
+3
+00:00:36,100 --> 00:00:40,200
+Construction costs for the reactor were borne jointly by the Armour Research Foundation,
+
+4
+00:00:40,200 --> 00:00:48,240
+which serves as owner and operator, and by 24 private industrial organizations.
+
+5
+00:00:48,240 --> 00:00:52,700
+This nuclear reactor was designed and built by Atomix International.
+
+6
+00:00:52,700 --> 00:00:57,559
+It opens an entirely new field of research for industry by providing a continuous on-the-spot
+
+7
+00:00:57,559 --> 00:01:07,760
+source of neutrons, high-energy gamma rays, and radioisotopes. It is a
+
+8
+00:01:07,760 --> 00:01:13,779
+homogeneous solution type. The fuel is in the form of uranyl sulfate dissolved in
+
+9
+00:01:13,779 --> 00:01:23,240
+distilled water and contained in a stainless steel spherical core. Cooling
+
+10
+00:01:23,240 --> 00:01:27,020
+for the core is provided by ten sections of stainless steel cooling coils
+
+11
+00:01:27,020 --> 00:01:36,440
+located within the core. The sections are connected in parallel and have a total length of 90 feet.
+
+12
+00:01:36,440 --> 00:01:47,059
+Distilled water serves as coolant and is continuously circulated through these coils.
+
+13
+00:01:47,059 --> 00:01:54,820
+During core assembly, a series of tack wells was made to hold the two core sections rigidly in
+
+14
+00:01:54,819 --> 00:02:03,319
+place. A shielded arc welder was then used to fuse the seam together without the use
+
+15
+00:02:03,319 --> 00:02:12,319
+of filler rod. A stainless steel backup was drawn up into the weld, ensuring 100% penetration.
+
+16
+00:02:12,319 --> 00:02:22,919
+Two additional weld passes made with filler rod completed the seam welding process. The
+
+17
+00:02:22,920 --> 00:02:27,240
+The core and fuel solution overflow assembly was inverted to facilitate installation of
+
+18
+00:02:27,240 --> 00:02:29,860
+the graphite reflector.
+
+19
+00:02:29,860 --> 00:02:35,800
+The graphite sections were hand-cut to ensure a close fit.
+
+20
+00:02:35,800 --> 00:02:40,860
+After each block was individually marked and cut to size, assembly of the reflector was
+
+21
+00:02:40,860 --> 00:02:47,520
+fast and precise.
+
+22
+00:02:47,520 --> 00:02:52,200
+The tight fit around the core ensures a maximum of reflecting material in the most important
+
+23
+00:02:52,200 --> 00:02:59,880
+region for high reactor efficiency. A tube which extends through the center of the core
+
+24
+00:02:59,880 --> 00:03:06,300
+permits specimen exposure in the region of maximum flux density. Special safety features
+
+25
+00:03:06,300 --> 00:03:20,360
+are included to ensure completely safe operation in densely populated areas.
+
+26
+00:03:20,360 --> 00:03:24,800
+One example is this aluminum outer envelope, which encloses the core and its associated
+
+27
+00:03:24,800 --> 00:03:25,800
+piping.
+
+28
+00:03:25,800 --> 00:03:37,280
+If maintenance should be required, the entire core unit can be removed and reinstalled.
+
+29
+00:03:37,280 --> 00:03:41,800
+The neutron reflector consists of a stack of four-inch square graphite blocks which
+
+30
+00:03:41,800 --> 00:03:46,480
+have a high density and a very low percentage of boron.
+
+31
+00:03:46,480 --> 00:03:52,940
+The blocks were stacked in layers and surround the core assembly to form a reflector five
+
+32
+00:03:52,940 --> 00:04:03,759
+feet high, five feet wide, and six and a half feet long.
+
+33
+00:04:03,759 --> 00:04:08,120
+The exposure ports were plugged with wooden packing dowels prior to shipment to the reactor
+
+34
+00:04:08,120 --> 00:04:09,800
+site.
+
+35
+00:04:09,800 --> 00:04:24,800
+This assured proper alignment of the moderator blocks during transit.
+
+36
+00:04:24,800 --> 00:04:31,800
+Biological shielding is provided by a five foot thick wall of high density iron ore concrete.
+
+37
+00:04:31,800 --> 00:04:43,120
+A single bucket contains one cubic yard of dense concrete, which weighs over 6,000 pounds.
+
+38
+00:04:43,120 --> 00:04:55,999
+The dense concrete surrounds the reflector assembly and sub-pile room.
+
+39
+00:04:55,999 --> 00:04:59,999
+The total weight of the reflector assembly is 10 tons.
+
+40
+00:05:05,999 --> 00:05:08,999
+The instrumentation system which terminates in the control console
+
+41
+00:05:08,999 --> 00:05:12,999
+consists principally of circuits to monitor and control reactor power
+
+42
+00:05:12,999 --> 00:05:16,999
+and to display information on the performance of the gas handling and cooling systems.
+
+43
+00:05:16,999 --> 00:05:30,319
+Four vertical control rods are provided for power level regulation and shutdown of the
+
+44
+00:05:30,319 --> 00:05:31,319
+reactor.
+
+45
+00:05:31,319 --> 00:05:37,220
+The rods are made of boron carbide encased in stainless steel.
+
+46
+00:05:37,220 --> 00:05:43,100
+They travel in sleeves extending through the spherical core.
+
+47
+00:05:43,100 --> 00:05:47,499
+As the rods are lowered into the core, the boron absorbs neutrons and the chain reaction
+
+48
+00:05:47,499 --> 00:05:49,020
+cannot be maintained.
+
+49
+00:05:49,020 --> 00:05:55,280
+Thus, the reactor is stopped.
+
+50
+00:05:55,280 --> 00:06:03,120
+By removing the rods, fission is increased and sustained at the desired level.
+
+51
+00:06:03,120 --> 00:06:07,559
+Reactor power level can be controlled either by automatic or manual operation of the control
+
+52
+00:06:07,559 --> 00:06:09,559
+rods.
+
+53
+00:06:09,559 --> 00:06:16,100
+To stop or scram the reactor, power to electromagnetic rod couplings is cut and the rods fall by
+
+54
+00:06:16,100 --> 00:06:19,720
+gravity to the core.
+
+55
+00:06:19,720 --> 00:06:24,459
+The rods are also dropped automatically by the action of any of the reactor scram circuits
+
+56
+00:06:24,459 --> 00:06:32,079
+or by power failure.
+
+57
+00:06:32,079 --> 00:06:36,160
+Reactor fuel is urinal sulfate dissolved in light water.
+
+58
+00:06:36,160 --> 00:06:46,860
+The uranium is 88% enriched in the 235 isotope.
+
+59
+00:06:46,860 --> 00:06:57,300
+The solution water forms the moderator for slowing down the fission neutrons.
+
+60
+00:06:57,300 --> 00:07:01,720
+An inherent safety feature acts to shut down the reactor in the event of an abnormal power
+
+61
+00:07:01,720 --> 00:07:08,380
+rise even if its mechanical devices should not function. This feature results from the
+
+62
+00:07:08,380 --> 00:07:15,040
+negative temperature coefficient and negative gas coefficient. Fuel solution temperature
+
+63
+00:07:15,040 --> 00:07:21,020
+increase is indicated by a shift from yellow to red. The negative temperature coefficient
+
+64
+00:07:21,020 --> 00:07:26,620
+results from the expansion of the fuel solution as its temperature rises. When the solution
+
+65
+00:07:26,620 --> 00:07:32,059
+expands, the reactor becomes less reactive due to its change in geometry and reactor
+
+66
+00:07:32,059 --> 00:07:39,059
+power is decreased. The negative gas coefficient results from the radiolytic decomposition
+
+67
+00:07:39,579 --> 00:07:45,600
+of the water, producing hydrogen and oxygen. These gases expand the solution to a subcritical
+
+68
+00:07:45,600 --> 00:07:52,600
+state which also shuts the reactor down. If a power surge should ever be great enough,
+
+69
+00:07:56,620 --> 00:08:01,620
+It would force a portion of the solution into the overflow chamber above the core.
+
+70
+00:08:01,620 --> 00:08:04,620
+It would leave the reactor in a sub-critical state
+
+71
+00:08:04,620 --> 00:08:11,620
+and the appropriate corrective action could be taken.
+
+72
+00:08:11,620 --> 00:08:14,620
+The solution would then drain slowly back to the core
+
+73
+00:08:14,620 --> 00:08:24,620
+and the reactor could be started once again.
+
+74
+00:08:24,620 --> 00:08:32,580
+The shutdown mechanism just demonstrated will operate only in the event that all mechanical control and safety systems should not function.
+
+75
+00:08:40,820 --> 00:08:46,779
+The horizontal thermal column is five feet square and is shielded by a motor driven dense concrete door.
+
+76
+00:08:46,779 --> 00:08:59,299
+The door weighs 40,000 pounds and has limit switches to stop the in or out travel.
+
+77
+00:08:59,299 --> 00:09:06,159
+Large specimens as well as special test equipment can be placed in this exposure facility.
+
+78
+00:09:06,159 --> 00:09:11,259
+In this experiment, the reactor is being used to study the effects of slow neutron bombardment
+
+79
+00:09:11,259 --> 00:09:18,259
+on a laboratory test moderator.
+
+80
+00:09:22,980 --> 00:09:27,700
+A fast neutron beam is also available when graphite stringers are removed from the center
+
+81
+00:09:27,700 --> 00:09:34,700
+of the thermal face.
+
+82
+00:09:34,700 --> 00:09:41,700
+With the test equipment in place, the reactor is ready for start-up.
+
+83
+00:09:45,700 --> 00:09:50,700
+Since radioactive materials are present in the reactor and are handled in the experiments,
+
+84
+00:09:50,700 --> 00:09:55,700
+a positive means for controlling the atmosphere in the reactor room is provided.
+
+85
+00:09:55,700 --> 00:10:02,700
+The concrete room walls are coated with the plastic paint to prevent the passage of gases.
+
+86
+00:10:02,700 --> 00:10:07,700
+Specially designed gas-tight doors seal the reactor room.
+
+87
+00:10:17,700 --> 00:10:23,700
+From the control console, the operator monitors and controls the complete operation of the reactor.
+
+88
+00:10:24,700 --> 00:10:28,700
+A check is made of the various instruments which display control rod position,
+
+89
+00:10:28,700 --> 00:10:33,320
+position, cooling system temperatures, gas handling system pressures and other
+
+90
+00:10:33,320 --> 00:10:40,320
+information required for efficient and safe reactor operation. As control rods
+
+91
+00:10:40,320 --> 00:10:46,700
+are withdrawn from the core, the fission chain reaction begins.
+
+92
+00:10:47,640 --> 00:10:51,800
+Technicians in the control room and on the reactor floor talk with each other
+
+93
+00:10:51,800 --> 00:10:56,540
+over an intercommunication system. In this way information presented on
+
+94
+00:10:56,539 --> 00:11:00,799
+monitoring equipment set up adjacent to the reactor may be instantly and
+
+95
+00:11:00,799 --> 00:11:08,719
+continuously compared with control console data the heavy concrete
+
+96
+00:11:08,719 --> 00:11:13,219
+biological shielding which surrounds the reactor permits personnel to remain in
+
+97
+00:11:13,219 --> 00:11:19,099
+the reactor room during operation there are 18 tube type exposure facilities in
+
+98
+00:11:19,099 --> 00:11:23,059
+the reactor consisting of metal tubes which extend through the concrete shield
+
+99
+00:11:23,060 --> 00:11:29,360
+to the immediate vicinity of the core. Each tube facility is equipped with a
+
+100
+00:11:29,360 --> 00:11:39,940
+graphite reflector plug and a dense concrete and steel shielding plug. Access
+
+101
+00:11:39,940 --> 00:11:44,560
+is gained to the region of maximum flux density through a central tube facility
+
+102
+00:11:44,560 --> 00:11:52,740
+which extends through the center of the core. Nuclear reactors have a variety of
+
+103
+00:11:52,740 --> 00:12:03,820
+of practical applications.
+
+104
+00:12:03,820 --> 00:12:13,980
+A complete listing of the many uses of radioactivity in radiation would run into the thousands.
+
+105
+00:12:13,980 --> 00:12:18,659
+Among the current applications is the development of new chemical processes and products.
+
+106
+00:12:18,659 --> 00:12:25,620
+Here, a radioactive carbon isotope is being transformed from radioactive carbon dioxide
+
+107
+00:12:25,620 --> 00:12:29,980
+gas to a radioactive organic liquid.
+
+108
+00:12:29,980 --> 00:12:38,839
+This is a useful tool for research on plastics, synthetic fabrics, and pharmaceutical products.
+
+109
+00:12:38,839 --> 00:12:44,579
+A laboratory technique known as activation analysis is coming into widespread usage.
+
+110
+00:12:44,580 --> 00:12:50,040
+Impurities too small to be detected by chemical or spectroscopic analysis can be detected
+
+111
+00:12:50,040 --> 00:12:57,520
+by irradiating a small sample of material, and then measuring the activity thus produced.
+
+112
+00:12:57,520 --> 00:13:06,340
+By studying the gamma energies emitted, impurities present are identified and analyzed.
+
+113
+00:13:06,340 --> 00:13:11,020
+The effects of radiation on transistors and semiconductors is being studied.
+
+114
+00:13:11,019 --> 00:13:16,759
+A transistor which has been irradiated in a reactor undergoes a series of stability tests.
+
+115
+00:13:18,019 --> 00:13:24,579
+Research of this type plays an important part in the development of new materials and techniques for electronic applications.
+
+116
+00:13:29,759 --> 00:13:36,279
+In the field of botany and agriculture, extensive research is being conducted with the aid of radioisotopes.
+
+117
+00:13:36,279 --> 00:13:42,079
+Here, an analysis is made on the absorption of radioactive phosphorus into the structural
+
+118
+00:13:42,079 --> 00:13:45,100
+components of tomato plants.
+
+119
+00:13:45,100 --> 00:13:51,240
+This is a study of drought resistance, protein formation, and growth itself, as affected
+
+120
+00:13:51,240 --> 00:13:54,079
+by water shortage.
+
+121
+00:13:54,079 --> 00:14:05,819
+Without the aid of radioisotopes, many phases of this work would be impossible.
+
+122
+00:14:05,820 --> 00:14:09,740
+Radioisotopes are also playing an increasingly important part in modern medicine.
+
+123
+00:14:11,080 --> 00:14:14,040
+This patient is being given a diagnostic test of the thyroid.
+
+124
+00:14:15,840 --> 00:14:20,860
+Before this test, she drank a solution containing a tracer amount of radioactive iodine.
+
+125
+00:14:22,400 --> 00:14:27,760
+A scintillation counter above the area of the thyroid will pick up the extremely low-level gamma rays
+
+126
+00:14:27,760 --> 00:14:30,960
+emitted by the iodine, now localized in the thyroid.
+
+127
+00:14:35,820 --> 00:14:40,780
+The impulses from the scintillation counter are sent to a recording chart to
+
+128
+00:14:40,780 --> 00:14:46,040
+indicate exactly how the thyroid is functioning. Prior to the use of
+
+129
+00:14:46,040 --> 00:14:50,980
+radioisotopes, such a diagnosis was difficult and frequently required
+
+130
+00:14:50,980 --> 00:14:53,480
+surgery.
+
+131
+00:14:56,180 --> 00:15:01,120
+In addition to present-day applications, many future benefits from research
+
+132
+00:15:01,120 --> 00:15:06,919
+reactors can be anticipated. By providing an immediate source of neutrons, gamma
+
+133
+00:15:06,919 --> 00:15:12,279
+rays and radioisotopes, this nuclear reactor brings to industry a new and
+
+134
+00:15:12,279 --> 00:15:18,499
+valuable research tool. As the focal point of an intensive research program
+
+135
+00:15:18,499 --> 00:15:23,399
+stimulated by the enthusiastic support of private enterprise, this reactor
+
+136
+00:15:23,399 --> 00:15:53,340
+establishes a new concept in the rapidly expanding field of industrial research.

@@ -1,0 +1,899 @@
+1
+00:00:30,000 --> 00:00:46,100
+Electricity is known almost everywhere in the world.
+
+2
+00:00:48,620 --> 00:00:54,659
+It lights lights and turns motors in every country on the face of the earth.
+
+3
+00:00:54,660 --> 00:01:22,980
+Motors that drive pumps, to supply water, to grow food.
+
+4
+00:01:22,980 --> 00:01:28,140
+But electricity is not universally available in the quantities needed to do the work that
+
+5
+00:01:28,140 --> 00:01:30,320
+needs to be done.
+
+6
+00:01:30,320 --> 00:01:39,100
+Work that in many places still must be done by other means.
+
+7
+00:01:39,100 --> 00:01:51,120
+To produce electricity requires energy.
+
+8
+00:01:51,120 --> 00:01:57,780
+This energy may be extracted from falling water striking the blades of a turbine.
+
+9
+00:01:57,780 --> 00:02:02,840
+This turbine is the modern version of the ancient water wheel.
+
+10
+00:02:02,840 --> 00:02:07,840
+Water rushing downward spins the turbines that are coupled to the electric generators
+
+11
+00:02:07,840 --> 00:02:10,020
+located above them.
+
+12
+00:02:10,020 --> 00:02:31,219
+These generators actually make the electricity.
+
+13
+00:02:31,219 --> 00:02:38,879
+Because water power isn't available in most places where electricity is needed, steam
+
+14
+00:02:38,879 --> 00:02:43,919
+more often used to drive the turbine.
+
+15
+00:02:43,919 --> 00:02:48,120
+This steam is produced by heating water.
+
+16
+00:02:48,120 --> 00:03:01,319
+The heat energy necessary to produce steam is supplied by burning fuel such as oil, gas,
+
+17
+00:03:01,319 --> 00:03:05,740
+or coal.
+
+18
+00:03:05,740 --> 00:03:17,480
+Some countries have an abundance of this heat energy, vast resources of coal, oil, and natural
+
+19
+00:03:17,480 --> 00:03:28,740
+gas.
+
+20
+00:03:28,740 --> 00:03:35,379
+And therefore with the associated scientific skills, electricity can be made in such quantities
+
+21
+00:03:35,379 --> 00:03:40,460
+that it directly affects almost everything that people do.
+
+22
+00:03:40,460 --> 00:03:45,579
+It lights homes.
+
+23
+00:03:45,579 --> 00:03:55,500
+It preserves food and helps in the preparation and the cooking of meals.
+
+24
+00:03:58,060 --> 00:04:05,060
+Electricity powers whole industries.
+
+25
+00:04:05,379 --> 00:04:11,180
+industries that make furniture,
+
+26
+00:04:14,019 --> 00:04:18,199
+spin fabrics, and build houses.
+
+27
+00:04:23,500 --> 00:04:25,939
+Electricity even provides transportation.
+
+28
+00:04:31,980 --> 00:04:39,600
+But in many areas of the world, fuel is scarce, and so electric power is unavailable or very expensive.
+
+29
+00:04:40,720 --> 00:04:44,520
+Furthermore, the entire world will face a serious power problem
+
+30
+00:04:44,520 --> 00:04:48,960
+within the next 50 years, unless a new source is made available.
+
+31
+00:04:55,520 --> 00:04:58,759
+The apparently tremendous fuel resources of today
+
+32
+00:04:58,759 --> 00:05:01,540
+will last only a limited number of years.
+
+33
+00:05:03,980 --> 00:05:10,020
+When the gas, the oil, and the coal are gone, they must be replaced.
+
+34
+00:05:10,780 --> 00:05:12,200
+But replaced with what?
+
+35
+00:05:14,140 --> 00:05:18,060
+Atomic power is today's answer for tomorrow's problem.
+
+36
+00:05:19,040 --> 00:05:24,540
+Here are some atomic energy fuels, plutonium and uranium.
+
+37
+00:05:24,540 --> 00:05:46,720
+But before they can be burned, the fuel is squeezed between two pieces of metal into a thin sandwich, sealed at the edges and assembled into fuel elements, when exactly the right amount of fuel is assembled in exactly the correct arrangement.
+
+38
+00:05:54,540 --> 00:06:01,700
+A reaction starts within the nucleus of the uranium atom.
+
+39
+00:06:01,700 --> 00:06:07,220
+This chain reaction takes place in the core of a nuclear reactor.
+
+40
+00:06:07,220 --> 00:06:13,600
+One of the products of this chain reaction is heat energy, and so the atomic furnace
+
+41
+00:06:13,600 --> 00:06:15,660
+gets hot.
+
+42
+00:06:15,660 --> 00:06:21,780
+This heat energy can be used to generate steam, just as the heat from burning conventional
+
+43
+00:06:21,780 --> 00:06:24,200
+fuels is used.
+
+44
+00:06:24,199 --> 00:06:31,180
+The energy from the nucleus of the atom is the energy we need for tomorrow's power.
+
+45
+00:06:31,180 --> 00:06:36,459
+In most reactors, the core can't be seen because it's housed in a very complex installation
+
+46
+00:06:36,459 --> 00:06:38,560
+like this.
+
+47
+00:06:38,560 --> 00:06:44,659
+Here the nuclear reaction is contained, controlled, and the heat energy extracted so that it can
+
+48
+00:06:44,659 --> 00:06:51,379
+be used.
+
+49
+00:06:51,379 --> 00:06:57,879
+This then is a report on how the United States makes electricity from atomic energy.
+
+50
+00:06:57,879 --> 00:07:01,879
+It is an account of the work performed by government laboratories and the industries
+
+51
+00:07:01,879 --> 00:07:08,639
+of America in producing atomic power.
+
+52
+00:07:08,639 --> 00:07:15,339
+In 1942 at the University of Chicago, the first atomic reactor was built.
+
+53
+00:07:15,340 --> 00:07:27,840
+The guiding genius behind the project was Italian-born Enrico Fermi.
+
+54
+00:07:27,840 --> 00:07:35,600
+The initial operation of this reactor on December 2nd, 1942, was one of the most important milestones
+
+55
+00:07:35,600 --> 00:07:39,580
+in the history of human progress.
+
+56
+00:07:39,579 --> 00:07:48,719
+This event demonstrated that it was possible to achieve and control a nuclear chain reaction.
+
+57
+00:07:48,719 --> 00:07:57,339
+This experiment began the long but rapid march toward the production of usable atomic power.
+
+58
+00:07:57,339 --> 00:08:04,439
+At the Argonne National Laboratory near Chicago in 1946, the United States government established
+
+59
+00:08:04,439 --> 00:08:12,040
+this major research center, for the design and development of nuclear reactors.
+
+60
+00:08:12,040 --> 00:08:16,939
+It was here at Argonne that plans for the first reactor that produced electric power
+
+61
+00:08:16,939 --> 00:08:18,819
+were conceived.
+
+62
+00:08:18,819 --> 00:08:26,439
+Although the design was necessarily elaborate and complicated, the basic idea was simple.
+
+63
+00:08:26,439 --> 00:08:34,039
+Instead of an assembly of flat bars, the fuel elements were in the form of rods.
+
+64
+00:08:34,039 --> 00:08:40,099
+Since all nuclear reactors generate heat, the problem was to devise a method of transferring
+
+65
+00:08:40,099 --> 00:08:47,000
+this heat, generated within the radioactive core, to the boiler, where water is converted
+
+66
+00:08:47,000 --> 00:08:49,000
+into steam.
+
+67
+00:08:49,000 --> 00:08:55,019
+What was needed is known as a heat transfer system.
+
+68
+00:08:55,019 --> 00:09:01,480
+One of the first systems devised employed a mixture of liquid metals, sodium and potassium,
+
+69
+00:09:01,480 --> 00:09:04,100
+circulating through and around the core.
+
+70
+00:09:06,279 --> 00:09:11,440
+This makes the liquid very hot, about 662 degrees Fahrenheit.
+
+71
+00:09:12,639 --> 00:09:17,580
+And so as the liquid emerges from the core, it carries a lot of heat with it.
+
+72
+00:09:18,220 --> 00:09:20,259
+But it also becomes radioactive.
+
+73
+00:09:21,279 --> 00:09:24,300
+The liquid sodium and potassium become radioactive
+
+74
+00:09:24,300 --> 00:09:28,519
+by contact with the nuclear radiation within the core.
+
+75
+00:09:28,519 --> 00:09:32,340
+The problem now is to get the heat to the water
+
+76
+00:09:32,340 --> 00:09:38,379
+but not the radioactivity So a heat exchanger is used
+
+77
+00:09:38,379 --> 00:09:43,960
+The hot radioactive liquid metal circulates through a closed loop
+
+78
+00:09:43,960 --> 00:09:48,759
+Surrounding this loop is a container housing another closed loop
+
+79
+00:09:48,980 --> 00:09:53,559
+Through the second loop also circulates a mixture of liquid metals
+
+80
+00:09:53,559 --> 00:09:57,500
+The heat is transferred from one liquid to another
+
+81
+00:09:57,500 --> 00:09:59,960
+but not the radioactivity.
+
+82
+00:10:00,840 --> 00:10:06,659
+From here, the second liquid circulates through the boiler where it gives up its heat energy to the water
+
+83
+00:10:06,659 --> 00:10:08,320
+changing it to steam.
+
+84
+00:10:09,259 --> 00:10:15,139
+As each of these liquids gives up its heat it circulates back to absorb more
+
+85
+00:10:15,139 --> 00:10:17,779
+and so the cycle continues.
+
+86
+00:10:18,639 --> 00:10:22,720
+To maintain the circulation pumps are added to the system
+
+87
+00:10:24,580 --> 00:10:35,820
+and so we have steam The same sort of steam made with conventional fuels, and it can be used to generate electricity
+
+88
+00:10:35,820 --> 00:10:38,039
+in the same way.
+
+89
+00:10:38,039 --> 00:10:44,080
+However, this steam is generated by atomic energy.
+
+90
+00:10:44,080 --> 00:10:49,899
+This reactor represented years of research, plus the planning of many scientists and engineers.
+
+91
+00:10:56,740 --> 00:11:11,019
+It was the first in the world to generate electricity from atomic energy.
+
+92
+00:11:11,019 --> 00:11:17,000
+While the design was conceived at Argonne, it was actually built in the state of Idaho
+
+93
+00:11:17,000 --> 00:11:21,539
+on the root of the old Oregon Trail.
+
+94
+00:11:21,539 --> 00:11:26,980
+This is the Snake River desert where American pioneers made their way to the Pacific coast
+
+95
+00:11:26,980 --> 00:11:30,299
+over 150 years ago.
+
+96
+00:11:30,299 --> 00:11:36,099
+Today it is the site of the United States government's reactor testing station.
+
+97
+00:11:36,099 --> 00:11:46,819
+Here on December 20, 1951, the first operational test began.
+
+98
+00:11:46,820 --> 00:11:55,020
+With all preliminary checks completed, the orders were given to start the reactor.
+
+99
+00:11:55,020 --> 00:12:01,540
+As the controls were set, the nuclear reaction within the core increased and the temperature
+
+100
+00:12:01,540 --> 00:12:07,879
+rose.
+
+101
+00:12:07,879 --> 00:12:19,399
+So in the steam boiler room, the circulating liquid metal began to create steam.
+
+102
+00:12:19,399 --> 00:12:27,139
+The pressure increased.
+
+103
+00:12:27,139 --> 00:12:29,519
+The throttle valve was opened.
+
+104
+00:12:29,519 --> 00:12:34,840
+And slowly, the turbine started to drive the electric generator.
+
+105
+00:12:34,840 --> 00:12:45,460
+When the proper voltage was reached, the nuclear power was sent into the distribution lines.
+
+106
+00:12:45,460 --> 00:12:52,800
+Electricity from atomic power was a reality.
+
+107
+00:12:52,800 --> 00:13:00,639
+But bigger and more efficient reactors and heat transfer systems still had to be designed.
+
+108
+00:13:00,639 --> 00:13:07,120
+cities and factories were to be supplied with atomic power. To accomplish this, the United
+
+109
+00:13:07,120 --> 00:13:16,319
+States planned far into the future. At the United Nations on December 8, 1953, President
+
+110
+00:13:16,319 --> 00:13:22,779
+Eisenhower, speaking before the United Nations General Assembly, called for a worldwide Atoms
+
+111
+00:13:22,779 --> 00:13:28,959
+for Peace program.
+
+112
+00:13:28,959 --> 00:13:35,139
+In 1954, the United States Congress and the Atomic Energy Commission enlarged atomic power
+
+113
+00:13:35,139 --> 00:13:39,399
+development into a formal program.
+
+114
+00:13:39,399 --> 00:13:42,439
+And so the designers went to work.
+
+115
+00:13:42,439 --> 00:13:48,559
+Their ultimate goal was to make electricity as cheaply as it can be made with coal, oil,
+
+116
+00:13:48,559 --> 00:13:50,439
+or gas.
+
+117
+00:13:50,440 --> 00:13:55,660
+But this was difficult, because in the United States, these conventional fuels are still
+
+118
+00:13:55,660 --> 00:13:57,900
+comparatively cheap.
+
+119
+00:13:57,900 --> 00:14:02,280
+Here's the situation faced by the nuclear reactor designers.
+
+120
+00:14:02,280 --> 00:14:09,140
+There are a number of different atomic fuels, the various forms of uranium and plutonium,
+
+121
+00:14:09,140 --> 00:14:14,980
+many different kinds of heat transfer systems, liquid metals, water, heavy water, gases,
+
+122
+00:14:14,980 --> 00:14:20,200
+and organic liquids, and many different types of construction materials.
+
+123
+00:14:20,200 --> 00:14:24,040
+The problem is to get the right combinations.
+
+124
+00:14:24,040 --> 00:14:30,140
+There are many possibilities, but certain combinations will produce power more efficiently.
+
+125
+00:14:30,140 --> 00:14:35,540
+You can't try them all because it takes about three years and a lot of resources to build
+
+126
+00:14:35,540 --> 00:14:38,060
+a power reactor.
+
+127
+00:14:38,060 --> 00:14:45,300
+And so the most likely types were selected for a program that extended across the country.
+
+128
+00:14:45,300 --> 00:14:50,960
+Southwest of Los Angeles, California, in the Santa Susana Mountains, a reactor was designed
+
+129
+00:14:50,960 --> 00:15:00,180
+and constructed using enriched uranium fuel and liquid sodium for heat transfer, a system
+
+130
+00:15:00,180 --> 00:15:04,060
+known as the sodium reactor experiment.
+
+131
+00:15:04,060 --> 00:15:09,040
+This reactor supplies some of the electricity used by the homes and factories in Southern
+
+132
+00:15:09,040 --> 00:15:10,260
+California.
+
+133
+00:15:10,259 --> 00:15:17,159
+Basically, this heat transfer system is similar to the one put into operation in Idaho six years earlier.
+
+134
+00:15:18,000 --> 00:15:21,399
+It uses the same liquid metal heat transfer idea.
+
+135
+00:15:22,279 --> 00:15:24,559
+However, the liquid metals are different.
+
+136
+00:15:25,679 --> 00:15:27,939
+So is the arrangement of fuel in the core.
+
+137
+00:15:29,039 --> 00:15:32,779
+In the summer of 1954, from Denver, Colorado,
+
+138
+00:15:33,519 --> 00:15:44,500
+President Eisenhower actuated an electronic signal that was transmitted 1,000 miles to a small community on the Ohio River in the state of Pennsylvania.
+
+139
+00:15:45,920 --> 00:15:54,639
+Once an almost forgotten spot on the river, the village of Shippingport became a center of interest for visitors from the four corners of the earth,
+
+140
+00:15:55,340 --> 00:15:59,680
+for this was to be the site of the Shippingport Atomic Power Station.
+
+141
+00:16:00,540 --> 00:16:06,820
+This project required years of intensive effort by the most advanced scientific and engineering skills.
+
+142
+00:16:07,740 --> 00:16:12,020
+The resources of hundreds of American industries were necessary to create the components.
+
+143
+00:16:29,680 --> 00:16:39,000
+This reactor was designed to generate more than 60,000 kilowatts of electric power, enough
+
+144
+00:16:39,000 --> 00:16:47,640
+to supply 165,000 American homes.
+
+145
+00:16:47,640 --> 00:16:52,480
+Scientists from all over the world seeking new sources of electrical power found its
+
+146
+00:16:52,480 --> 00:16:58,700
+fundamentally simple design of great interest.
+
+147
+00:16:58,700 --> 00:17:05,299
+This type is known as a pressurized water reactor, because pure water under great pressure
+
+148
+00:17:05,299 --> 00:17:09,559
+is used to transfer the heat from the core to the boiler.
+
+149
+00:17:09,559 --> 00:17:15,080
+Notice this system does not use an intermediate heat exchanger.
+
+150
+00:17:15,080 --> 00:17:20,400
+The shipping port reactor core is encased in a stainless and forged steel container
+
+151
+00:17:20,400 --> 00:17:24,940
+called a pressure vessel.
+
+152
+00:17:24,940 --> 00:17:35,180
+33 feet high, with walls eight and one half inches thick, the whole pressure vessel is
+
+153
+00:17:35,180 --> 00:17:37,440
+surrounded by steel and concrete.
+
+154
+00:17:54,940 --> 00:18:04,039
+An overhead crane can lift the pressure vessel dome and pull out the core for replenishing
+
+155
+00:18:04,039 --> 00:18:08,240
+the 15 tons of fuel.
+
+156
+00:18:08,240 --> 00:18:11,940
+This must be done about once every three years.
+
+157
+00:18:11,940 --> 00:18:16,920
+This is the master control room.
+
+158
+00:18:16,920 --> 00:18:27,019
+The core temperatures are indicated and recorded automatically.
+
+159
+00:18:27,019 --> 00:18:30,740
+Here are the controls for the steam turbine.
+
+160
+00:18:30,740 --> 00:18:36,320
+And these operate the electric generator, delivering electric power to the distribution
+
+161
+00:18:36,320 --> 00:18:40,539
+lines at the required voltage and flow.
+
+162
+00:18:40,539 --> 00:18:45,400
+The electricity made here will probably never be as cheap as other electricity in the United
+
+163
+00:18:45,400 --> 00:18:51,660
+States. But Shippingport is providing valuable experience useful in building future nuclear
+
+164
+00:18:51,660 --> 00:18:57,560
+power plants. Because more is known about this system, it can be built today with the
+
+165
+00:18:57,560 --> 00:19:03,759
+assurance of successful operation. Operation that can be economical in countries where
+
+166
+00:19:03,759 --> 00:19:10,660
+conventional fuels are scarce. In the state of Virginia, the pressurized water idea is
+
+167
+00:19:10,660 --> 00:19:16,420
+also used in an extremely compact nuclear power plant, every component of
+
+168
+00:19:16,420 --> 00:19:22,180
+which can be transported and put into operation at remote locations. In the
+
+169
+00:19:22,180 --> 00:19:26,840
+state of Tennessee, at the United States government's Oak Ridge National
+
+170
+00:19:26,840 --> 00:19:33,160
+Laboratory, another type of nuclear reactor was developed. It is known as the
+
+171
+00:19:33,160 --> 00:19:37,980
+homogeneous reactor experiment. This system is quite different from other
+
+172
+00:19:37,980 --> 00:19:42,900
+reactors, although it still performs the basic function of getting useful heat
+
+173
+00:19:42,900 --> 00:19:49,799
+energy out of the nuclear reaction. This carefully designed sphere sustains the
+
+174
+00:19:49,799 --> 00:19:57,420
+nuclear reaction. Notice there are no fuel elements fixed in a core as in the
+
+175
+00:19:57,420 --> 00:20:03,000
+more conventional reactors. In this system the fuel is dissolved in the heat
+
+176
+00:20:03,000 --> 00:20:11,440
+transfer liquid. That's why it's called a homogeneous system. The fuel is enriched
+
+177
+00:20:11,440 --> 00:20:17,500
+uranium in liquid form, dissolved in ordinary water. This mixture both
+
+178
+00:20:17,500 --> 00:20:23,460
+generates the heat and carries it. The nuclear reaction can take place only in
+
+179
+00:20:23,460 --> 00:20:28,500
+this sphere. From here it enters a pipe which is too small to permit the
+
+180
+00:20:28,500 --> 00:20:35,339
+reaction to continue. The heated fluid then gives up its heat to the boiler, generating steam.
+
+181
+00:20:36,500 --> 00:20:44,059
+This pump circulates the mixture. Besides the basic simplicity of the homogeneous reactor,
+
+182
+00:20:44,619 --> 00:20:49,940
+there is another advantage. It doesn't need to be shut down for refueling.
+
+183
+00:20:50,859 --> 00:20:57,880
+More fuel can be pumped in whenever it's needed. This system must operate at a tremendous pressure,
+
+184
+00:20:58,500 --> 00:21:03,680
+and the mixture is extremely corrosive.
+
+185
+00:21:03,680 --> 00:21:10,460
+To design this reactor, engineers had to overcome many new obstacles.
+
+186
+00:21:10,460 --> 00:21:17,220
+New materials had to be found and pumps of an entirely new design had to be created.
+
+187
+00:21:17,220 --> 00:21:21,900
+While the basic circuit is simple, in actual practice it's complicated.
+
+188
+00:21:21,900 --> 00:21:27,500
+For example, this homogeneous reactor requires 26 miles of pipe.
+
+189
+00:21:28,759 --> 00:21:34,600
+In December 1956, the Argonne National Laboratory put another reactor in operation.
+
+190
+00:21:35,180 --> 00:21:41,780
+The electricity it produced supplies electric power for the laboratory and buildings at Argonne.
+
+191
+00:21:43,160 --> 00:21:47,720
+This is the control room of the experimental boiling water reactor.
+
+192
+00:21:51,900 --> 00:21:57,080
+Here the control rods are operated to maintain the nuclear reaction in the
+
+193
+00:21:57,080 --> 00:22:02,880
+core. Basically this reactor is the simplest of all power reactors. Here's
+
+194
+00:22:02,880 --> 00:22:10,400
+why. The reactor and the steam boiler are combined in one unit. There are no heat
+
+195
+00:22:10,400 --> 00:22:17,840
+exchangers, the reactor core is located inside the steam boiler, or in other
+
+196
+00:22:17,839 --> 00:22:24,500
+words, the water boils into steam right in the reactor housing. From here the
+
+197
+00:22:24,500 --> 00:22:31,099
+steam goes directly to the turbine coupled to the generator. As nuclear
+
+198
+00:22:31,099 --> 00:22:39,799
+power design advances, the systems get to look more and more simple. But of course
+
+199
+00:22:39,799 --> 00:22:45,199
+this simplicity embraces very many complex technical problems that require
+
+200
+00:22:45,200 --> 00:22:52,440
+years of research, development, and more years of testing an actual operation.
+
+201
+00:22:52,440 --> 00:22:59,160
+Valves adjust themselves. By means of closed-circuit television, gauges and
+
+202
+00:22:59,160 --> 00:23:04,220
+meters report exactly what is happening in the reactor itself located in another
+
+203
+00:23:04,220 --> 00:23:09,700
+part of the building. Remote television cameras like this one transmit the
+
+204
+00:23:09,700 --> 00:23:13,759
+information visually to the control room.
+
+205
+00:23:15,200 --> 00:23:29,059
+Control rods move to maintain the desired level of operation.
+
+206
+00:23:29,059 --> 00:23:54,319
+This is where the steam drives the turbine
+
+207
+00:23:54,319 --> 00:23:55,960
+that's coupled to the generator
+
+208
+00:23:59,059 --> 00:24:07,619
+Thus, there are five basic power reactor types developed in the United States, which will
+
+209
+00:24:07,619 --> 00:24:16,740
+eventually be the most successful.
+
+210
+00:24:16,740 --> 00:24:22,159
+Much more operating experience is required before this can be determined.
+
+211
+00:24:22,159 --> 00:24:27,460
+But rather than waiting years for all the answers, American Free Enterprise decided
+
+212
+00:24:27,460 --> 00:24:28,460
+to forge ahead.
+
+213
+00:24:38,740 --> 00:24:42,400
+By 1958, there were 11 power reactors
+
+214
+00:24:42,400 --> 00:24:46,740
+in operation or under construction in the United States.
+
+215
+00:24:57,460 --> 00:25:04,460
+Information on the design and construction of these nuclear reactors is available to people everywhere,
+
+216
+00:25:04,460 --> 00:25:11,460
+for the United States realizes that new sources of power are vital to the welfare of all.
+
+217
+00:25:12,460 --> 00:25:18,460
+By 1958, 14 nations had completed agreements with the United States
+
+218
+00:25:18,460 --> 00:25:24,460
+to help them acquire the skills required to build and operate nuclear reactors.
+
+219
+00:25:25,460 --> 00:25:29,460
+Under these agreements, countries can also request atomic fuel.
+
+220
+00:25:32,460 --> 00:25:39,460
+50,000 kilograms of uranium-235 have been made available by the United States for just this purpose.
+
+221
+00:25:54,460 --> 00:26:02,180
+One pound of this 20% enriched fuel is equivalent to 500,000 pounds of coal.
+
+222
+00:26:03,680 --> 00:26:09,779
+Fabricated into fuel elements, this uranium is available now to those who can use it.
+
+223
+00:26:11,000 --> 00:26:17,380
+These resources, combined with the human resources of ingenuity and scientific skill,
+
+224
+00:26:18,259 --> 00:26:21,720
+constitute the components of the new age of power.
+
+225
+00:26:21,720 --> 00:26:25,240
+Power from the nucleus of the atom.

@@ -109,10 +109,33 @@
           | first
         -%}
       {%- endunless -%}
-      {% if vid.links or announcement %}
+      {%- comment -%}
+        A transcript lives on the film's announcement post when it has one, or
+        else on the page _plugins/film-pages.rb generates for it.
+      {%- endcomment -%}
+      {%- assign transcript_url = null -%}
+      {%- if site.data.transcripts[vid.id] -%}
+        {%- assign film_post = site.posts
+          | where_exp: 'post', 'post.films contains vid.id'
+          | first
+        -%}
+        {%- if film_post -%}
+          {%- capture transcript_url -%}
+            {{- film_post.url | relative_url }}#{{ vid.id -}}
+          {%- endcapture -%}
+        {%- else -%}
+          {%- capture transcript_url -%}
+            {{- '/films/' | append: vid.id | append: '.html' | relative_url -}}
+          {%- endcapture -%}
+        {%- endif -%}
+      {%- endif -%}
+      {% if vid.links or announcement or transcript_url %}
         <ul>
           {% if announcement %}
             <li><a href="{{ announcement.url }}">Our announcement page</a></li>
+          {% endif %}
+          {% if transcript_url %}
+            <li><a href="{{ transcript_url }}">Transcript</a></li>
           {% endif %}
           {% for link in vid.links %}
             <li>

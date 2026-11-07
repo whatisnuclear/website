@@ -1,0 +1,271 @@
+1
+00:00:00,000 --> 00:00:22,539
+This is an account of the experience of the Consolidated Edison Company of New York,
+
+2
+00:00:22,539 --> 00:00:28,140
+with the design, construction, and operation of one of the first nuclear power stations
+
+3
+00:00:28,140 --> 00:00:30,240
+serving a large metropolitan area.
+
+4
+00:00:34,399 --> 00:00:41,240
+The project was begun in 1955 when there were doubts concerning uranium availability and supply.
+
+5
+00:00:44,420 --> 00:00:47,640
+And because thorium, a plentiful material,
+
+6
+00:00:48,120 --> 00:00:51,140
+offered possibilities for obtaining a higher rate of conversion
+
+7
+00:00:51,140 --> 00:00:56,579
+of fertile to fissionable material, it was decided to use thorium-232
+
+8
+00:00:56,579 --> 00:01:02,719
+as the reactor's fertile material combined with uranium-235 as the fissionable.
+
+9
+00:01:06,659 --> 00:01:12,799
+The projected system demand on Indian Point Station was 275 megawatts.
+
+10
+00:01:13,500 --> 00:01:18,340
+In 1955, this capacity could not be achieved in one reactor.
+
+11
+00:01:19,939 --> 00:01:26,500
+So the final design called for reactor production of approximately 165 megawatts.
+
+12
+00:01:26,579 --> 00:01:36,159
+with the remainder to be supplied by conventional super heaters.
+
+13
+00:01:36,159 --> 00:01:42,659
+These super heaters provided additional capacity at low capital cost, plus a significant reduction
+
+14
+00:01:42,659 --> 00:01:48,939
+in the turbine cycle heat rate.
+
+15
+00:01:48,939 --> 00:01:56,379
+To achieve 165 megawatts, the average power density was set at 76 kilowatts per liter.
+
+16
+00:01:56,379 --> 00:02:01,299
+highest of any central station power reactor operating today with a projected
+
+17
+00:02:01,299 --> 00:02:12,979
+core life of 470 effective full-power days the high power density and use of
+
+18
+00:02:12,979 --> 00:02:18,560
+thorium as fertile material about which there was then scant actual operational
+
+19
+00:02:18,560 --> 00:02:23,439
+data made necessary a series of critical experiments to confirm design
+
+20
+00:02:23,439 --> 00:02:31,520
+calculations. These experiments were conducted at the Babcock and Wilcox
+
+21
+00:02:31,520 --> 00:02:35,319
+Nuclear Facility in Virginia.
+
+22
+00:02:36,560 --> 00:02:42,520
+Two particular problem areas were uncovered. One, the ratio of peak to
+
+23
+00:02:42,520 --> 00:02:49,900
+average power in the core exceeded design value of 4.2 by about 25%. This
+
+24
+00:02:49,900 --> 00:02:55,620
+This was solved by incorporating variable U-235 concentrations within the fuel rods
+
+25
+00:02:55,620 --> 00:03:02,759
+in each element and by zone loading.
+
+26
+00:03:02,759 --> 00:03:09,060
+The uranium loading varies in each of three zones.
+
+27
+00:03:09,060 --> 00:03:14,540
+Lowest in the center zone of the core.
+
+28
+00:03:14,540 --> 00:03:19,759
+Increased in the next outer zone.
+
+29
+00:03:19,759 --> 00:03:21,699
+greatest in the outside zone.
+
+30
+00:03:22,399 --> 00:03:27,459
+This combination of zone loading and variable uranium concentration within each fuel element
+
+31
+00:03:27,459 --> 00:03:33,120
+resulted in a ratio of peak to average power that satisfied design requirements.
+
+32
+00:03:37,759 --> 00:03:44,819
+The second problem area had to do with the reactivity control capability of the 21 movable control rods,
+
+33
+00:03:45,319 --> 00:03:47,979
+inadequate for the desired long core lifetime.
+
+34
+00:03:49,759 --> 00:03:57,959
+This problem was solved by supplementing the movable control rods with boric acid in the
+
+35
+00:03:57,959 --> 00:04:07,939
+moderator to hold down reactivity due to moderator temperature change by adding approximately
+
+36
+00:04:07,939 --> 00:04:15,099
+225 parts per million of natural boron to the fuel element cladding to serve as burnable
+
+37
+00:04:15,099 --> 00:04:25,319
+poison and by installing 12 boron stainless steel fixed shim rods between the fuel elements.
+
+38
+00:04:25,319 --> 00:04:33,319
+These fixed shim rods are removed at about half core lifetime.
+
+39
+00:04:33,319 --> 00:04:38,360
+The Indian Point reactor is required to meet the same load changes as are imposed on conventional
+
+40
+00:04:38,360 --> 00:04:41,600
+units.
+
+41
+00:04:41,600 --> 00:04:46,700
+The coupling of super heaters with the reactor dictates that the steam pressure remains nearly
+
+42
+00:04:46,700 --> 00:04:49,060
+constant at all times.
+
+43
+00:04:49,060 --> 00:04:54,900
+This presented design problems in reactor and plant control.
+
+44
+00:04:54,900 --> 00:05:02,360
+A special automatic control system was developed to meet these problems.
+
+45
+00:05:02,360 --> 00:05:07,800
+This automatic system, unlike other nuclear power plant controls, utilizes signals from
+
+46
+00:05:07,800 --> 00:05:13,079
+steam pressure and flow to adjust reactor power output to match generator load.
+
+47
+00:05:15,480 --> 00:05:19,160
+The ability of the control system to follow rapid load changes
+
+48
+00:05:19,160 --> 00:05:22,280
+eliminates need for manual adjustment by the operator.
+
+49
+00:05:26,439 --> 00:05:31,160
+Knowledge of reactor and combined reactor conventional superheated transients was limited.
+
+50
+00:05:31,160 --> 00:05:42,460
+Therefore, the system was designed for at least 9% per minute ramp changes and at least
+
+51
+00:05:42,460 --> 00:05:47,940
+18% step changes.
+
+52
+00:05:47,940 --> 00:05:56,140
+Actual control and response of the system indicates that ramp changes of 15% per minute
+
+53
+00:05:56,140 --> 00:06:00,100
+and step changes of almost 30% are possible.
+
+54
+00:06:00,100 --> 00:06:10,879
+approximately 50% above design specifications and exceeding most conventional plant capabilities.
+
+55
+00:06:10,879 --> 00:06:16,800
+To summarize, the Indian Point Reactor, the first power reactor in the world utilizing
+
+56
+00:06:16,800 --> 00:06:26,540
+thorium and enriched uranium, had through January 1964 generated 1,173,420 megawatt
+
+57
+00:06:26,540 --> 00:06:35,700
+of electricity. And every indication is that the reactor has excess thermal
+
+58
+00:06:35,700 --> 00:06:43,700
+capacity. Thus the Indian Point experience has confirmed the use of
+
+59
+00:06:43,700 --> 00:06:51,080
+thorium as a fertile material. And equally important, is opening the door to
+
+60
+00:06:51,079 --> 00:06:58,419
+refabrication of U-233 as a reactor fuel.
+
+61
+00:06:58,419 --> 00:07:03,939
+Important too is that Indian Point after early problems principally on the
+
+62
+00:07:03,939 --> 00:07:09,360
+conventional side of the plant is in commercial operation achieving load
+
+63
+00:07:09,360 --> 00:07:18,579
+factors comparable to Con Edison's conventional plants. Further, Indian
+
+64
+00:07:18,579 --> 00:07:24,199
+Indian Point's operating costs, like its load factor, are already almost equal to the average
+
+65
+00:07:24,199 --> 00:07:29,699
+of the system's conventional plants, and it is expected that future operating costs will
+
+66
+00:07:29,699 --> 00:07:34,319
+be among the lowest in the Con Edison system.
+
+67
+00:07:34,319 --> 00:07:44,819
+In short, Indian Point is a long step forward in the practical application of peaceful use
+
+68
+00:07:44,819 --> 00:07:54,699
+of nuclear power. Less than 35 miles from the heart of New York City.

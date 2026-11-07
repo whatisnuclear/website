@@ -1,0 +1,959 @@
+1
+00:00:30,000 --> 00:00:47,000
+It was a typical evening in southeastern Nebraska.
+
+2
+00:00:47,000 --> 00:00:51,460
+Folks went about their work and their pleasure as usual.
+
+3
+00:00:51,460 --> 00:00:54,740
+Just another evening, the same as the night before.
+
+4
+00:00:54,740 --> 00:00:58,359
+So far as they could tell, for example, there was nothing different about the source of
+
+5
+00:00:58,359 --> 00:01:03,740
+the electricity that lighted their living rooms, that cooked their dinners, that powered
+
+6
+00:01:03,740 --> 00:01:10,680
+their television sets, that pumped their gasoline, that performed 101 other duties to make their
+
+7
+00:01:10,680 --> 00:01:22,840
+work more efficient, their lives more enjoyable.
+
+8
+00:01:22,840 --> 00:01:27,599
+But there was a difference in the source of that electricity, a significant difference.
+
+9
+00:01:27,600 --> 00:01:32,820
+For the first time in Nebraska, that electricity was being produced by nuclear energy.
+
+10
+00:01:32,820 --> 00:01:38,480
+The nuclear power facility at Hallam, Nebraska, a 240,000 thermal kilowatt sodium graphite
+
+11
+00:01:38,480 --> 00:01:44,680
+reactor, capable of producing 75,000 kilowatts of electricity, was on the line.
+
+12
+00:01:57,600 --> 00:02:17,900
+Located on a 600-acre site 20 miles from Nebraska's capital city of Lincoln, the Hallam Nuclear
+
+13
+00:02:17,900 --> 00:02:22,860
+Power Facility looms up in startling contrast to the surrounding farmlands.
+
+14
+00:02:22,860 --> 00:02:28,660
+The complex of buildings includes a reactor wing, turbine generator wing with conventional
+
+15
+00:02:28,660 --> 00:02:39,000
+electric generating facilities, an administration wing, cooling tower, waste storage building,
+
+16
+00:02:39,000 --> 00:02:41,920
+and substation.
+
+17
+00:02:41,920 --> 00:02:48,400
+Overall size of the reactor wing is roughly 116 feet by 275 feet.
+
+18
+00:02:48,400 --> 00:02:53,300
+The plant was designed with prime consideration for safety, in the handling of radioactive
+
+19
+00:02:53,300 --> 00:03:00,800
+waste materials, in the unlikely event of an accident.
+
+20
+00:03:00,800 --> 00:03:05,780
+The Hallam Nuclear Facility was built jointly by the Atomic Energy Commission and Consumers
+
+21
+00:03:05,780 --> 00:03:11,460
+Public Power District of Nebraska, and will be operated by consumers under the AEC's Power
+
+22
+00:03:11,460 --> 00:03:14,900
+Demonstration Reactor Program.
+
+23
+00:03:14,900 --> 00:03:19,319
+One objective of this program is to advance the time when the cost of nuclear power will
+
+24
+00:03:19,319 --> 00:03:23,700
+be reduced to levels competitive with power from conventional fuels.
+
+25
+00:03:23,700 --> 00:03:28,099
+Another important objective is to advance the state of nuclear reactor technology in
+
+26
+00:03:28,099 --> 00:03:29,460
+general.
+
+27
+00:03:29,460 --> 00:03:33,980
+The specific objective of the Hellam project is to demonstrate the economic and technical
+
+28
+00:03:33,980 --> 00:03:39,840
+practicality of a central station power plant using a sodium graphite reactor.
+
+29
+00:03:39,840 --> 00:03:44,040
+This will require operation of the plant for the primary purpose of producing the maximum
+
+30
+00:03:44,039 --> 00:03:49,459
+amount of electric energy. It is anticipated that operation of the Hallam facility will
+
+31
+00:03:49,459 --> 00:03:53,519
+provide knowledge and experience that will lead to the realization of competitive nuclear
+
+32
+00:03:53,519 --> 00:04:02,159
+power in subsequent reactor plants. The Hallam facility is one of a family of reactors which
+
+33
+00:04:02,159 --> 00:04:06,819
+have demonstrated the technical advantages of liquid metal coolant. The others include
+
+34
+00:04:06,819 --> 00:04:12,799
+the experimental breeder reactor one, which in 1951 produced the first electricity generated
+
+35
+00:04:12,800 --> 00:04:16,259
+with nuclear energy.
+
+36
+00:04:16,259 --> 00:04:20,540
+The Experimental Breeder Reactor II.
+
+37
+00:04:20,540 --> 00:04:25,139
+The privately financed Enrico Fermi Fast Breeder Reactor.
+
+38
+00:04:25,139 --> 00:04:28,139
+And the Sodium Reactor Experiment.
+
+39
+00:04:28,139 --> 00:04:33,840
+The SRE, in which the technical feasibility of the sodium graphite concept was demonstrated,
+
+40
+00:04:33,840 --> 00:04:39,480
+was built and operated for the AEC near Los Angeles, California by Atomics International,
+
+41
+00:04:39,480 --> 00:04:43,160
+a division of North American Aviation Incorporated.
+
+42
+00:04:43,160 --> 00:04:46,360
+As a result of his experience with the sodium reactor experiment,
+
+43
+00:04:46,360 --> 00:04:50,340
+Atomics International was assigned the overall technical responsibility
+
+44
+00:04:50,340 --> 00:04:54,580
+for the design of the Hallam facility.
+
+45
+00:04:54,580 --> 00:04:58,860
+Construction of the Hallam facility was authorized in 1957.
+
+46
+00:04:58,860 --> 00:05:03,540
+The plant site was chosen on the basis of Nebraska's population and power load center
+
+47
+00:05:03,540 --> 00:05:09,400
+and the availability of land, water and transportation facilities.
+
+48
+00:05:09,400 --> 00:05:16,640
+Groundbreaking ceremonies on a gently rolling hill typical of the surrounding terrain were held on June 28, 1958.
+
+49
+00:05:18,940 --> 00:05:26,580
+In a conventional steam power plant, heat released by the combustion of fossil fuels, oil, natural gas, or coal,
+
+50
+00:05:27,180 --> 00:05:32,140
+is applied to high-pressure boilers to produce the steam that turns the turbine generator.
+
+51
+00:05:32,139 --> 00:05:39,139
+In the Hellum nuclear power facility, atomic fuel is substituted for the fossil fuel in the production of steam.
+
+52
+00:05:39,139 --> 00:05:49,139
+At Hellum, conventional fossil fuel facilities constructed by Consumers Public Power District have been integrated with the nuclear facility.
+
+53
+00:05:49,139 --> 00:05:55,139
+The conventional boiler and auxiliaries with the turbine generator now operated as part of the nuclear facility
+
+54
+00:05:55,139 --> 00:06:01,139
+were installed by consumers to supply generating capacity needed in advance of the nuclear facility's completion date
+
+55
+00:06:01,139 --> 00:06:05,599
+date and during the period of reactor test operation.
+
+56
+00:06:05,599 --> 00:06:10,099
+The conventional facility was designed to match the reactor steam conditions of 800
+
+57
+00:06:10,099 --> 00:06:15,899
+pounds per square inch of pressure and 825 degrees Fahrenheit temperature.
+
+58
+00:06:15,899 --> 00:06:21,560
+The two facilities, conventional and nuclear, have centralized control so integrated that
+
+59
+00:06:21,560 --> 00:06:27,180
+the turbine generator can be operated automatically using either source of steam.
+
+60
+00:06:27,180 --> 00:06:31,500
+completion of the reactor test operation it is planned to release the fossil fuel
+
+61
+00:06:31,500 --> 00:06:35,280
+boiler from the system for use with a second generating unit which may be
+
+62
+00:06:35,280 --> 00:06:41,639
+built later on the site the heart of the helm nuclear facility is the reactor
+
+63
+00:06:41,639 --> 00:06:46,899
+core the fuel is a metallic uranium element contained in stainless steel
+
+64
+00:06:46,899 --> 00:06:52,120
+tubes which are suspended in clusters within the core moderator elements made
+
+65
+00:06:52,120 --> 00:06:58,840
+graphite blocks surround the fuel elements. Liquid sodium serves as the coolant and heat transfer
+
+66
+00:06:58,840 --> 00:07:04,680
+medium because of its high boiling point and excellent heat transfer properties. Starting at
+
+67
+00:07:04,680 --> 00:07:10,120
+the bottom of the reactor vessel, the sodium flows up past the hot fuel elements to an upper pool
+
+68
+00:07:10,840 --> 00:07:16,040
+and then out of the vessel at the top at a temperature of approximately 950 degrees
+
+69
+00:07:16,040 --> 00:07:22,040
+Fahrenheit. The primary sodium coolant becomes radioactive during its passage through the
+
+70
+00:07:22,040 --> 00:07:28,400
+core. This radioactive sodium is pumped through three identical primary loops to intermediate
+
+71
+00:07:28,400 --> 00:07:33,939
+heat exchangers and returned to the reactor vessel at approximately 600 degrees Fahrenheit
+
+72
+00:07:33,939 --> 00:07:39,879
+to repeat the cycle. The heat carried by the sodium in the primary loops is transferred
+
+73
+00:07:39,879 --> 00:07:46,140
+by the intermediate heat exchangers to the three secondary sodium loops which are non-radioactive.
+
+74
+00:07:46,139 --> 00:07:51,699
+The heat from the secondary non-radioactive loops is utilized in three steam generators,
+
+75
+00:07:51,699 --> 00:07:56,459
+producing the steam that turns the conventional turbine generator.
+
+76
+00:07:56,459 --> 00:08:01,560
+With installation of the reactor core cavity liner scheduled as the first major objective,
+
+77
+00:08:01,560 --> 00:08:06,919
+full-scale construction activities at the plant site began early in 1959.
+
+78
+00:08:06,919 --> 00:08:11,680
+The reactor building excavation was 80 feet deep at its deepest point, the point where
+
+79
+00:08:11,680 --> 00:08:14,199
+the maintenance cell is installed.
+
+80
+00:08:14,199 --> 00:08:18,519
+Reinforced concrete floors were built up to a thickness of four feet.
+
+81
+00:08:18,519 --> 00:08:25,899
+Poured, reinforced concrete walls are even thicker, up to six feet in some places.
+
+82
+00:08:25,899 --> 00:08:32,080
+The stainless steel reactor core tank, 19 feet in diameter by 33 feet in depth, is surrounded
+
+83
+00:08:32,080 --> 00:08:45,980
+by a thermal shield, an outer tank, a layer of thermal insulation, and the reactor cavity
+
+84
+00:08:45,980 --> 00:08:49,920
+liner, which is made of half-inch carbon steel.
+
+85
+00:08:49,920 --> 00:08:54,879
+Steel pipe welded to the outer surface of the reactor cavity liner provides a means
+
+86
+00:08:54,879 --> 00:08:59,759
+of circulating demineralized water to remove heat from the surrounding concrete.
+
+87
+00:08:59,759 --> 00:09:03,860
+A pipe gallery accommodates sodium inlets and outlets to the core tank.
+
+88
+00:09:04,840 --> 00:09:08,480
+The reactor cavity liner is surrounded by reinforced concrete,
+
+89
+00:09:08,899 --> 00:09:12,939
+which provides a structural support as well as a radiation and thermal shield.
+
+90
+00:09:13,919 --> 00:09:19,120
+The upper six and one-third feet of the adjacent wall is made of high-density concrete.
+
+91
+00:09:20,639 --> 00:09:24,840
+In the bottom of the cavity liner, individual columns two and a half feet high
+
+92
+00:09:24,840 --> 00:09:29,720
+and one and one-half feet in diameter were installed to provide support for the outer vessel.
+
+93
+00:09:29,759 --> 00:09:38,759
+Fabricated in Philadelphia, the reactor core vessel and its outer tank were transported by waterway to Plattsmouth, Nebraska.
+
+94
+00:09:38,759 --> 00:09:46,759
+To accommodate the overland movement of the huge vessels, it was necessary to widen and strengthen bridges and move utility lines.
+
+95
+00:09:46,759 --> 00:09:54,759
+The outer vessel shown in this model is twenty and two-thirds feet in diameter and thirty-six feet high,
+
+96
+00:09:54,759 --> 00:09:58,759
+and was fabricated from half inch thick low alloy steel.
+
+97
+00:09:58,759 --> 00:10:06,759
+The outer wall of the outer vessel is covered by a 12-inch layer of thermal insulation, made up of individual blocks of asbestos fiber.
+
+98
+00:10:07,759 --> 00:10:12,759
+The insulation serves to hold the heat within the reactor, thus adding to overall efficiency.
+
+99
+00:10:16,759 --> 00:10:19,759
+The insulation also protects the surrounding concrete from high temperatures.
+
+100
+00:10:19,759 --> 00:10:29,600
+high temperatures. The bottom of the outer tank supports the core tank as well as the
+
+101
+00:10:29,600 --> 00:10:35,539
+thermal shield. The thermal shield, which surrounds the core tank, was made of two concentric
+
+102
+00:10:35,539 --> 00:10:41,139
+rings cast from low carbon steel. Their function is to absorb most of the heat due to gamma
+
+103
+00:10:41,139 --> 00:10:49,639
+rays and neutrons. Each cylinder is formed by a series of ten adjacent vertical curved
+
+104
+00:10:49,639 --> 00:10:54,439
+which rest on the bottom of the reactor outer tank and are 33 and 1 3rd
+
+105
+00:10:54,439 --> 00:11:01,580
+feet high the reactor vessel is made of stainless steel 3 quarters of an inch
+
+106
+00:11:01,580 --> 00:11:05,840
+thick except for the base and the areas of the inlet and outlet sodium nozzles
+
+107
+00:11:05,840 --> 00:11:11,360
+which are 2 inches thick the bottom was formed cold and the sides were built in
+
+108
+00:11:11,360 --> 00:11:19,340
+successive ring sections each welded in place a dome like containment shell
+
+109
+00:11:19,340 --> 00:11:23,120
+used with some nuclear power plants is not required for the Hallam reactor
+
+110
+00:11:23,120 --> 00:11:31,820
+because the sodium coolant is not under pressure. The reactor vessel and the
+
+111
+00:11:31,820 --> 00:11:36,820
+primary sodium system are surrounded by a series of steel-lined concrete cells.
+
+112
+00:11:36,820 --> 00:11:41,600
+These nitrogen-filled cells would prevent the escape of radioactive sodium
+
+113
+00:11:41,600 --> 00:11:47,220
+vapor or fission product gases into the atmosphere and radioactive liquids into
+
+114
+00:11:47,220 --> 00:11:54,180
+surrounding subsoil. Three main sodium inlet nozzles are located 28 inches above the base
+
+115
+00:11:54,740 --> 00:12:01,779
+and three sodium outlet nozzles leave the vessel 23 feet above the base. At the top a stainless
+
+116
+00:12:01,779 --> 00:12:07,540
+steel bellows assembly seals the reactor vessel to the upper cavity liner to prevent sodium vapors
+
+117
+00:12:07,540 --> 00:12:15,139
+and the helium cover gas from escaping. Within this vessel liquid sodium flows through the core
+
+118
+00:12:15,139 --> 00:12:18,840
+at the rate of 21,600 gallons per minute.
+
+119
+00:12:18,939 --> 00:12:24,840
+A stainless steel grid plate is supported 42 inches above the bottom of the core tank by individual columns
+
+120
+00:12:24,939 --> 00:12:26,639
+and a support ring.
+
+121
+00:12:26,740 --> 00:12:33,639
+The grid precisely locates the moderator elements with relation to the fuel elements.
+
+122
+00:12:33,740 --> 00:12:39,539
+The moderator elements consist of logs of graphite sealed in stainless steel cans.
+
+123
+00:12:39,639 --> 00:12:42,840
+The function of the moderator is to slow down neutrons released
+
+124
+00:12:42,840 --> 00:12:47,899
+during atomic fission to increase the probability that the neutrons will initiate further fission
+
+125
+00:12:47,899 --> 00:12:50,780
+and thus sustain the controlled chain reaction.
+
+126
+00:12:52,680 --> 00:12:57,840
+The graphite logs, six to a can, were machined into a hexagonal shape.
+
+127
+00:12:59,820 --> 00:13:04,860
+The stainless steel sheath material forming the sides of the can is 16 one-thousandths
+
+128
+00:13:04,860 --> 00:13:05,519
+of an inch thick.
+
+129
+00:13:06,320 --> 00:13:09,519
+The sheath is made up of two form panels welded lengthwise.
+
+130
+00:13:09,519 --> 00:13:15,419
+The base of the element is half inch thick stainless steel casting, which includes the
+
+131
+00:13:15,419 --> 00:13:21,939
+six inch high pedestal supporting the moderator element on the bottom grid plate.
+
+132
+00:13:21,939 --> 00:13:26,019
+Spacers maintain a 16-100 inch clearance between moderator elements.
+
+133
+00:13:26,019 --> 00:13:30,639
+In addition, core clamps are provided on the internal vessel wall to hold the moderator
+
+134
+00:13:30,639 --> 00:13:32,620
+elements in place.
+
+135
+00:13:32,620 --> 00:13:36,419
+The clearance between the elements permits the circulation of small amounts of sodium
+
+136
+00:13:36,420 --> 00:13:39,640
+to cool the graphite.
+
+137
+00:13:39,640 --> 00:13:45,240
+To avoid contamination, components were continually cleaned during installation to remove lint
+
+138
+00:13:45,240 --> 00:13:48,880
+or other foreign matter.
+
+139
+00:13:48,880 --> 00:13:55,020
+With the moderator assembly in place, the huge top shield, weighing about 300 tons,
+
+140
+00:13:55,020 --> 00:13:57,500
+was placed over the tank.
+
+141
+00:13:57,500 --> 00:14:03,060
+Six feet thick, the shield is filled with lead and dense concrete and provides radiation
+
+142
+00:14:03,060 --> 00:14:06,860
+and thermal shielding directly above the reactor core.
+
+143
+00:14:06,860 --> 00:14:11,700
+The shield can be rotated and has removable plugs which extend completely through the
+
+144
+00:14:11,700 --> 00:14:12,700
+shield.
+
+145
+00:14:12,700 --> 00:14:20,960
+These plugs permit access for the installation or removal of fuel and moderator elements.
+
+146
+00:14:20,960 --> 00:14:27,020
+Each fuel element is made up of individual rods of 3.6% enriched uranium molybdenum alloy.
+
+147
+00:14:27,020 --> 00:14:31,760
+The rods are approximately six-tenths of an inch in diameter and 13 and one-half feet
+
+148
+00:14:31,760 --> 00:14:32,760
+long.
+
+149
+00:14:32,759 --> 00:14:38,139
+They were assembled by inserting 3-inch to 12-inch length uranium slugs into the stainless steel jacket.
+
+150
+00:14:39,039 --> 00:14:45,360
+These uranium slugs were cast to size, and after cleaning, the materials were subjected to tests to assure quality.
+
+151
+00:14:46,200 --> 00:14:54,360
+The slugs were then cut to usable lengths, and after again cleaning the material, it was ready for insertion into the stainless steel container.
+
+152
+00:14:55,120 --> 00:15:01,039
+The space between the inner wall of the jacket and the fuel slugs was then filled with sodium
+
+153
+00:15:01,039 --> 00:15:05,080
+to improve the transfer of heat from the uranium fuel to the jacket.
+
+154
+00:15:05,980 --> 00:15:10,360
+After quality control tests were completed to ensure the integrity of the assembly,
+
+155
+00:15:11,039 --> 00:15:13,820
+the stainless steel jacket was capped, sealed, and welded.
+
+156
+00:15:14,879 --> 00:15:19,940
+Eighteen of these rods were then assembled in a bundle, supported at the top and bottom by a bracket,
+
+157
+00:15:19,940 --> 00:15:23,899
+and the assembly then inserted into a zirconium process tube.
+
+158
+00:15:24,360 --> 00:15:32,360
+At the upper end of the process tube there is a variable orifice which is used to control the amount of sodium flowing over the fuel element.
+
+159
+00:15:32,360 --> 00:15:37,360
+And in this way regulates the operating temperature of the fuel element.
+
+160
+00:15:37,360 --> 00:15:45,360
+A continuing program of testing assured that the work was being conducted to meet the rigorous specifications.
+
+161
+00:15:45,360 --> 00:15:55,360
+Reactor control is maintained by 19 combination regulating and safety rods inserted down into the reactor core.
+
+162
+00:15:55,360 --> 00:16:01,360
+Each rod is made up of rare earth oxides which absorb neutrons.
+
+163
+00:16:01,360 --> 00:16:09,360
+Each rod is positioned within the core by a motor-driven gear reduction unit mounted on a carriage over the reactor core
+
+164
+00:16:09,360 --> 00:16:13,279
+is held to the drive motor unit by an electromagnet.
+
+165
+00:16:13,279 --> 00:16:17,519
+Any malfunction would interrupt the power to these electromagnets,
+
+166
+00:16:17,519 --> 00:16:21,899
+and the rods would then drop into the core to shut down the reactor.
+
+167
+00:16:21,899 --> 00:16:26,279
+During the shutdown periods, the neutron absorbers stay in the core,
+
+168
+00:16:26,279 --> 00:16:30,360
+and the disconnected overhead carriage is removed to provide easy access
+
+169
+00:16:30,360 --> 00:16:32,039
+to the face of the upper shield.
+
+170
+00:16:33,800 --> 00:16:38,440
+The use of an intermediate heat exchanger is required because the sodium becomes radioactive
+
+171
+00:16:38,440 --> 00:16:42,800
+passing through the reactor core. Each intermediate heat exchanger is made up
+
+172
+00:16:42,800 --> 00:16:47,740
+of two units operating in parallel. Each unit is of the shell and tube counter
+
+173
+00:16:47,740 --> 00:16:52,960
+flow design with the primary sodium contained in the tube side. The stainless
+
+174
+00:16:52,960 --> 00:16:57,380
+steel exchangers are mounted vertically in the heat exchanger cell. Thermal
+
+175
+00:16:57,380 --> 00:17:01,600
+expansion is provided by a bellows mounted in the straight shell section
+
+176
+00:17:01,600 --> 00:17:06,080
+and permits solid construction of the tubes containing the radioactive sodium.
+
+177
+00:17:06,079 --> 00:17:10,919
+In the intermediate heat exchanger, the secondary loop of non-radioactive sodium
+
+178
+00:17:10,919 --> 00:17:18,179
+is heated by the primary sodium to 895 degrees Fahrenheit. The hot sodium is
+
+179
+00:17:18,179 --> 00:17:23,399
+pumped by centrifugal pumps to the three steam generators. These pumps are similar
+
+180
+00:17:23,399 --> 00:17:29,500
+to those used in oil refineries. Each steam generator consists of an
+
+181
+00:17:29,500 --> 00:17:34,359
+evaporator, moisture eliminator, and super heater. Construction is of the shell and
+
+182
+00:17:34,360 --> 00:17:39,960
+and tube type using double wall bayonet tubes to prevent leakage between sodium and water systems.
+
+183
+00:17:40,600 --> 00:17:47,080
+The bayonet tubes utilize helium between the two walls as a monitor for leaks. The evaporator
+
+184
+00:17:47,080 --> 00:17:52,760
+is a kettle type design with the water carried in the shell. The moisture eliminator delivers
+
+185
+00:17:52,760 --> 00:17:59,880
+dry steam to the super heater. Steam piping connects each of the three steam generators
+
+186
+00:17:59,880 --> 00:18:05,800
+to the main steam line and the 825 degree fahrenheit 800 pounds per square inch steam
+
+187
+00:18:05,800 --> 00:18:11,160
+is fed to the turbine generator after the steam passes through the turbine it is condensed to
+
+188
+00:18:11,160 --> 00:18:16,920
+water and returned to the individual steam generators at 325 degrees fahrenheit high
+
+189
+00:18:16,920 --> 00:18:20,920
+grade superheated steam is produced by the liquid sodium heated generators
+
+190
+00:18:22,920 --> 00:18:26,440
+the turbine generator is basically of conventional hydrogen cool design
+
+191
+00:18:26,440 --> 00:18:32,539
+line. While rated at 100,000 kilowatts, it will have an output of 75,000 kilowatts in
+
+192
+00:18:32,539 --> 00:18:39,220
+the initial reactor operation. It was actually put on the line the spring of 1961, operating
+
+193
+00:18:39,220 --> 00:18:46,420
+with the conventional steam facilities. The substation uses a single transformer to convert
+
+194
+00:18:46,420 --> 00:18:53,240
+the 13,800 volts of the generator to the 115,000 volt transmission lines, which distribute
+
+195
+00:18:53,240 --> 00:18:59,480
+power to the eastern two-thirds of Nebraska. Auxiliary transformers supply power to the plant
+
+196
+00:18:59,480 --> 00:19:08,039
+for internal use. In January 1962, the plant was ready for preliminary testing of nuclear
+
+197
+00:19:08,039 --> 00:19:14,279
+equipment. It began with a dry critical test. The installation and removal of the fuel elements is
+
+198
+00:19:14,279 --> 00:19:18,960
+is handled by a fuel handling cask heavily shielded by lead against radiation.
+
+199
+00:19:22,259 --> 00:19:25,519
+The 55 foot high chamber is supported by a gantry crane.
+
+200
+00:19:26,440 --> 00:19:31,460
+When a fuel element is to be changed, a fresh element is picked up from the storage area.
+
+201
+00:19:31,460 --> 00:19:35,119
+The cask is then moved to a position above the reactor.
+
+202
+00:19:35,119 --> 00:19:38,759
+An indexing mechanism moves the cask to a preset position
+
+203
+00:19:38,759 --> 00:19:41,220
+precisely in line with the given fuel element.
+
+204
+00:19:41,220 --> 00:19:48,420
+A pneumatic mechanism forces the lead radiation shield down onto the surface of the loading space.
+
+205
+00:19:48,420 --> 00:19:53,180
+A gas-tight seal is made.
+
+206
+00:19:53,180 --> 00:19:59,579
+A pickup device within the cask is lowered to engage the shielding plug of the used fuel element.
+
+207
+00:19:59,579 --> 00:20:05,519
+The plug and spent fuel element are lifted out of the core as one unit.
+
+208
+00:20:05,519 --> 00:20:10,460
+The revolving fuel support plate at the top of the cask is then rotated 180 degrees to
+
+209
+00:20:10,460 --> 00:20:21,900
+position the new fuel element over the empty fuel channel in the core.
+
+210
+00:20:21,900 --> 00:20:27,740
+The new fuel element and plug are lowered into place.
+
+211
+00:20:27,740 --> 00:20:32,319
+The cask then carries the used fuel element to a storage cell where the radioactivity
+
+212
+00:20:32,319 --> 00:20:35,000
+is allowed to decay for a period of 60 to 90 days.
+
+213
+00:20:36,299 --> 00:20:39,639
+Then it is moved to a cleaning cell where it is steam cleaned and rinsed
+
+214
+00:20:39,639 --> 00:20:41,960
+to remove any sodium adhering to the outer surface.
+
+215
+00:20:43,139 --> 00:20:46,319
+From the cleaning cell, the fuel element is moved to the maintenance cell
+
+216
+00:20:46,319 --> 00:20:51,159
+where the fuel rod bundle is removed and prepared for shipping to a chemical processing center.
+
+217
+00:20:53,059 --> 00:20:57,480
+The water that has been used in the cleaning cell is transferred from the cleaning cell
+
+218
+00:20:57,480 --> 00:21:01,259
+to a radioactive liquid waste system where it is held in large tanks.
+
+219
+00:21:01,900 --> 00:21:07,500
+The contents of these tanks are analyzed for radioactivity, and if there is any significant radioactivity,
+
+220
+00:21:07,500 --> 00:21:14,420
+the contents are treated to remove the radioactivity, and the residue is then packaged for shipment to waste disposal sites.
+
+221
+00:21:15,160 --> 00:21:18,799
+If, however, the contents are free of significant radioactivity,
+
+222
+00:21:19,180 --> 00:21:22,599
+the water is allowed to seep into the ground at the plant leaching field.
+
+223
+00:21:23,299 --> 00:21:27,379
+This same method is used to analyze any liquid that might be radioactive,
+
+224
+00:21:28,019 --> 00:21:29,940
+even the water used in the plant laundry.
+
+225
+00:21:29,940 --> 00:21:36,940
+This conservative program is further supplemented by a continuing program of radiation monitoring in the plant,
+
+226
+00:21:36,940 --> 00:21:43,940
+as well as the monitoring of the air, soil, plants, and water, which make up the environment of the plant area.
+
+227
+00:21:45,940 --> 00:21:50,940
+As each system was completed, operating personnel started a program of test operation,
+
+228
+00:21:50,940 --> 00:21:56,940
+which assured that the equipment would perform satisfactorily under both normal and abnormal conditions.
+
+229
+00:21:56,940 --> 00:22:04,940
+As an increasing portion of the plant was completed, this testing program was expanded until the entire plant was ready for insertion of fuel.
+
+230
+00:22:04,940 --> 00:22:12,940
+In January 1962, the reactor was placed in operation for the first time in dry critical tests.
+
+231
+00:22:12,940 --> 00:22:16,940
+Wet critical low-power tests were started in August 1962.
+
+232
+00:22:16,940 --> 00:22:22,940
+These low-power tests provided further assurance that the plant was operating satisfactorily.
+
+233
+00:22:22,940 --> 00:22:28,120
+and a period of about nine months was used to carry the testing program through to its full
+
+234
+00:22:28,120 --> 00:22:34,860
+power operation. The inherent safety of the plant was proved as the reliability of the control and
+
+235
+00:22:34,860 --> 00:22:41,539
+safety equipment was determined and verified with each increase in power. This safety program,
+
+236
+00:22:41,539 --> 00:22:46,759
+which was started with the conception of the plant, included inspection of individual components as
+
+237
+00:22:46,759 --> 00:22:51,960
+they were being fabricated and was carried through to a detailed safety analysis of the completed
+
+238
+00:22:51,960 --> 00:22:58,100
+plant. Emphasis on the safety program will continue throughout the period of plant operation.
+
+239
+00:23:02,579 --> 00:23:09,799
+In 1963, electricity produced by nuclear power began flowing through the substation.
+
+240
+00:23:10,860 --> 00:23:14,779
+The Hallam Nuclear Power Facility was on the line.

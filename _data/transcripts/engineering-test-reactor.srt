@@ -1,0 +1,827 @@
+1
+00:00:28,000 --> 00:00:55,000
+On September 19, 1957, executives and scientists of the National Reactor Testing Station in
+
+2
+00:00:55,000 --> 00:01:01,000
+in Idaho assembled in a control room to witness the birth of a powerful new nuclear test reactor,
+
+3
+00:01:01,000 --> 00:01:09,000
+the largest known facility of its type. Its name, the Engineering Test Reactor, or ETR.
+
+4
+00:01:09,000 --> 00:01:14,000
+It is a major development in the United States Atomic Energy Commission's program to advance
+
+5
+00:01:14,000 --> 00:01:19,000
+construction of economic nuclear reactors for civilian and industrial use and to convert
+
+6
+00:01:19,000 --> 00:01:24,000
+aircraft and ships to nuclear propulsion. The reactor is being used principally to determine
+
+7
+00:01:24,000 --> 00:01:29,000
+the effects of intense neutron and gamma ray bombardment in large-scale testing of fuel
+
+8
+00:01:29,000 --> 00:01:36,000
+elements and reactor components under conditions to be met in nuclear power plants of the future.
+
+9
+00:01:36,000 --> 00:01:42,000
+Two outstanding features of the ETR design are bottom positioning of the control rods,
+
+10
+00:01:42,000 --> 00:01:48,000
+leaving the top of the reactor free for experimental access and providing large experimental spaces
+
+11
+00:01:48,000 --> 00:01:52,000
+within the heart of the core.
+
+12
+00:01:52,000 --> 00:01:58,000
+The ETR is water-cooled and moderated with U-235 enriched fuel, both beryllium and aluminum
+
+13
+00:01:58,000 --> 00:02:03,000
+as reflectors, and has a power rating of 175 megawatts.
+
+14
+00:02:03,000 --> 00:02:09,000
+It will produce heat fluxes ranging from 440,000 BTU per hour per square foot to a maximum
+
+15
+00:02:09,000 --> 00:02:13,000
+of 1,150,000 BTU.
+
+16
+00:02:13,000 --> 00:02:18,000
+It will provide an average thermal flux of 4 times 10 to the 14th power, and an average
+
+17
+00:02:18,000 --> 00:02:25,000
+fast neutron flux of 1.5 times 10 to the 15th. These conditions will be equal to, or in many
+
+18
+00:02:25,000 --> 00:02:30,000
+cases exceed, those likely to be found in any reactor for which components are to be tested.
+
+19
+00:02:32,000 --> 00:02:38,000
+The test reactor idea is not new. The engineering test reactor was pioneered by the materials
+
+20
+00:02:38,000 --> 00:02:42,000
+testing reactor located right next door at the National Reactor Testing Station in the
+
+21
+00:02:42,000 --> 00:02:49,000
+the state of Idaho. The Materials Testing Reactor, known as MTR, has been in operation
+
+22
+00:02:49,000 --> 00:02:56,000
+since 1952. The MTR was the first high flux test reactor built in the United States. It
+
+23
+00:02:57,000 --> 00:03:03,000
+is a thermal or slow neutron reactor with U-235 enriched fuel, water as both coolant
+
+24
+00:03:03,000 --> 00:03:10,000
+and moderator, and beryllium as the reflector. Its basic purpose is to provide data on materials
+
+25
+00:03:10,000 --> 00:03:15,000
+materials performance and characteristics within an environment of intense nuclear radiation.
+
+26
+00:03:16,000 --> 00:03:20,000
+The experimental facilities consist of spaces within the beryllium reflector
+
+27
+00:03:21,000 --> 00:03:27,000
+and several beamhole penetrations in the shielding and tank extending right up to the core.
+
+28
+00:03:28,000 --> 00:03:33,000
+The materials testing reactor has over 100 experimental positions,
+
+29
+00:03:34,000 --> 00:03:38,000
+but was not designed for in-core testing nor for irradiating large samples
+
+30
+00:03:38,000 --> 00:03:44,000
+size prototype fuel elements intended for power and propulsion reactors. Rapid
+
+31
+00:03:44,000 --> 00:03:48,000
+advances in reactor technology dictated the need for testing on an engineering
+
+32
+00:03:48,000 --> 00:03:55,000
+scale. While the MTR will still continue with work on smaller materials samples
+
+33
+00:03:55,000 --> 00:04:00,000
+and experiments of a research nature, the ETR just a few yards to the south is the
+
+34
+00:04:00,000 --> 00:04:06,000
+next step forward in the crucial testing program. The design of the engineering
+
+35
+00:04:06,000 --> 00:04:12,000
+test reactor was derived in part from a conceptual design study prepared by Phillips Petroleum
+
+36
+00:04:12,000 --> 00:04:19,000
+Company, operators of both the MTR and the ETR. Construction was begun late in 1955.
+
+37
+00:04:20,000 --> 00:04:25,000
+Design and construction had to be accomplished almost simultaneously. The work was done for
+
+38
+00:04:25,000 --> 00:04:33,000
+the Atomic Energy Commission by a single architect-engineer-constructor, Kaiser Engineers. They, in turn, assigned
+
+39
+00:04:33,000 --> 00:04:35,000
+the nuclear design project to the General Electric Company.
+
+40
+00:04:36,000 --> 00:04:40,000
+Construction proceeded on schedule, even through sub-zero winter temperatures.
+
+41
+00:04:41,000 --> 00:04:44,000
+Kaiser engineers used their nationwide system of offices
+
+42
+00:04:44,000 --> 00:04:48,000
+to expedite the manufacture of components at the various subcontractors' locations.
+
+43
+00:04:49,000 --> 00:04:52,000
+Vigorous liaison between the Atomic Energy Commission,
+
+44
+00:04:52,000 --> 00:04:57,000
+the many contractors, and the Phillips Petroleum Company dovetailed all facets of the big project.
+
+45
+00:04:57,000 --> 00:05:01,000
+And late in December of 1956, the reactor building was ready
+
+46
+00:05:01,000 --> 00:05:05,000
+to receive the huge reactor pressure vessel.
+
+47
+00:05:05,000 --> 00:05:10,000
+The 150,000 pound pressure vessel was fabricated in Boston, Massachusetts, some 3,000 miles
+
+48
+00:05:10,000 --> 00:05:15,000
+from Idaho and was delivered on special railroad equipment.
+
+49
+00:05:15,000 --> 00:05:19,000
+Shipping difficulties made it necessary to remove some of the exterior equipment, such
+
+50
+00:05:19,000 --> 00:05:23,000
+as nozzles and flanges which were replaced upon arrival.
+
+51
+00:05:23,000 --> 00:05:28,000
+The vessel is made of carbon steel with interior cladding of stainless steel.
+
+52
+00:05:28,000 --> 00:05:35,000
+It is about 35 feet long and 12 feet in diameter at the top, with a lower section diameter of 8 feet.
+
+53
+00:05:36,000 --> 00:05:42,000
+The pressure vessel is supported on a bed plate at the transition level, from the larger to the smaller diameter.
+
+54
+00:05:42,000 --> 00:05:48,000
+This support method provides for thermal expansion of the vessel diametrically without excessive stress or movement.
+
+55
+00:05:48,000 --> 00:05:59,000
+The pressure vessel is designed for 250 psig at 200 degrees Fahrenheit and will operate at 185 psig
+
+56
+00:06:00,000 --> 00:06:04,000
+All design criteria were established with similar safety factors included
+
+57
+00:06:04,000 --> 00:06:10,000
+The point of highest pressure will occur on the bottom head of the vessel due to the weight of the water column
+
+58
+00:06:10,000 --> 00:06:16,000
+It has a cluster of perforations to accommodate the control rod drives and experimental loops
+
+59
+00:06:17,000 --> 00:06:24,000
+The bottom head will be subject to periodic loads as high as 20,900 PSI under full scram conditions.
+
+60
+00:06:25,000 --> 00:06:30,000
+This assumes an optimum combined weight of more than 180 tons for the grid plate,
+
+61
+00:06:31,000 --> 00:06:37,000
+internal thermal shields, water, core components, experimental facilities, and control rod shock load.
+
+62
+00:06:38,000 --> 00:06:44,000
+In its final position, the vessel protrudes a few feet above the top floor level of the reactor building
+
+63
+00:06:44,000 --> 00:06:47,000
+and extends downward three stories to the sub-pile room.
+
+64
+00:06:49,000 --> 00:06:52,000
+Particular panes had to be taken in the fabrication of the grid plate.
+
+65
+00:06:53,000 --> 00:06:56,000
+Since this is the positioning device for the core components,
+
+66
+00:06:57,000 --> 00:07:02,000
+extremely high tolerances were imperative through every phase of manufacture and machining.
+
+67
+00:07:02,000 --> 00:07:06,000
+Before the basic forging was complete, two blanks had to be rejected.
+
+68
+00:07:07,000 --> 00:07:12,000
+The grid plate is 9 1⁄2 inches thick and 62 1⁄2 inches in diameter.
+
+69
+00:07:13,000 --> 00:07:19,000
+The various perforations will guide the control rods, position the fuel elements, and accommodate the experimental facilities.
+
+70
+00:07:22,000 --> 00:07:30,000
+The close tolerances exercised in the machining of the grid plate provide precise control over the positioning of the core components,
+
+71
+00:07:30,000 --> 00:07:34,000
+plus such structural support that an upper grid plate will not be required.
+
+72
+00:07:34,000 --> 00:07:43,000
+In operation, there will be a combined thermal and mechanical load on the plate of 16,300 PSI.
+
+73
+00:07:43,000 --> 00:07:50,000
+The grid plate is positioned at the bottom of the inner reactor tank midway in the narrow
+
+74
+00:07:50,000 --> 00:07:57,000
+section of the pressure vessel and is supported by stainless steel I-beams 8 feet long. Directly
+
+75
+00:07:57,000 --> 00:08:03,000
+below the grid plate, positioning pads prevent excessive lateral motion. Through the supports,
+
+76
+00:08:03,000 --> 00:08:07,000
+the grid plate load is transmitted to the bottom head of the pressure vessel.
+
+77
+00:08:09,000 --> 00:08:12,000
+The core structure is built upon the grid plate in the following arrangement.
+
+78
+00:08:13,000 --> 00:08:21,000
+There are 49 fuel elements surrounded by a beryllium reflector 4.5 inches thick,
+
+79
+00:08:22,000 --> 00:08:25,000
+an outer reflector of aluminum sections,
+
+80
+00:08:26,000 --> 00:08:29,000
+plus a permanent aluminum blanket.
+
+81
+00:08:29,000 --> 00:08:40,000
+There are 16 control rods within the fuel section and two regulating rods located in the beryllium reflector.
+
+82
+00:08:42,000 --> 00:08:46,000
+The neutron source is also located in the beryllium reflector.
+
+83
+00:08:47,000 --> 00:08:53,000
+Finally, there are 17 openings in the core and reflector for experimental facilities.
+
+84
+00:08:53,000 --> 00:09:01,000
+The control rods for the engineering test reactor are unique, not only in positioning, but also in design
+
+85
+00:09:01,000 --> 00:09:07,000
+Four of the 16 control rods are called black poison rods
+
+86
+00:09:07,000 --> 00:09:12,000
+The poison section consisting of boron enriched type 304 stainless steel
+
+87
+00:09:12,000 --> 00:09:16,000
+The 12 remaining rods are called gray poison rods
+
+88
+00:09:16,000 --> 00:09:20,000
+The poison being type A nickel, low in cobalt content
+
+89
+00:09:20,000 --> 00:09:33,000
+Each rod consists of a poison section at the top, a fuel section in the middle, and a shock section at the bottom, assembled end-to-end
+
+90
+00:09:34,000 --> 00:09:41,000
+This assembly is latched to a drive mechanism which moves the fuel and poison sections in and out of the reactor core through a guide tube
+
+91
+00:09:41,000 --> 00:09:44,000
+The shock section does not enter the core
+
+92
+00:09:44,000 --> 00:09:50,000
+In operation, the black poison rods are used in start-up and shut-down
+
+93
+00:09:50,000 --> 00:09:53,000
+while the gray rods are used for operational control
+
+94
+00:09:53,000 --> 00:09:59,000
+In low position, the gray rods will overcome 12% excess reactivity
+
+95
+00:09:59,000 --> 00:10:04,000
+In shut-down, the black rods will handle 14.4% excess
+
+96
+00:10:08,000 --> 00:10:12,000
+The two regulating rods in the reflector are of the black poison type
+
+97
+00:10:12,000 --> 00:10:18,000
+Each capable of overcoming 0.5% excess and are used as the reactor fine control.
+
+98
+00:10:22,000 --> 00:10:28,000
+The fuel elements for the ETR are flat, plate-type, aluminum-boron-uranium assemblies.
+
+99
+00:10:29,000 --> 00:10:33,000
+Each element contains 19 fuel plates, 37 inches long,
+
+100
+00:10:34,000 --> 00:10:38,000
+positioned in the side plates so that there is a coolant passage between the plates.
+
+101
+00:10:38,000 --> 00:10:46,000
+The incorporation of a burnable poison, boron, in the fuel element extends the useful life of the fuel
+
+102
+00:10:46,000 --> 00:10:49,000
+and provides more uniform flux distribution in the core
+
+103
+00:10:55,000 --> 00:11:01,000
+Since performance characteristics of the core depend largely upon the contents of the experimental spaces
+
+104
+00:11:01,000 --> 00:11:06,000
+a low power mock-up of the ETR core was set up in an adjacent building
+
+105
+00:11:07,000 --> 00:11:10,000
+We're concerned here only with nuclear parameters,
+
+106
+00:11:10,000 --> 00:11:13,000
+so this low-power core assembly provides us with valuable data
+
+107
+00:11:13,000 --> 00:11:17,000
+which are applied in setting up an experiment in the ETR.
+
+108
+00:11:18,000 --> 00:11:24,000
+Thus, prior to any proposed test, proper core loading, control, and behavior are determined here,
+
+109
+00:11:24,000 --> 00:11:27,000
+saving much actual reactor operating time.
+
+110
+00:11:29,000 --> 00:11:33,000
+Since the control rod drives are located at the bottom of the reactor,
+
+111
+00:11:33,000 --> 00:11:37,000
+all of the space at the top level is free for experimental facilities.
+
+112
+00:11:37,000 --> 00:11:43,000
+In addition, access to the core is simplified. The penetrations of the
+
+113
+00:11:43,000 --> 00:11:48,000
+active part of the core range from 9 by 9 inches to 3 by 3 inches and extend for
+
+114
+00:11:48,000 --> 00:11:53,000
+the length of the core or 36 inches. Facility tubes may be inserted in the
+
+115
+00:11:53,000 --> 00:12:00,000
+spaces providing for external control of experiments during operations. In a
+
+116
+00:12:00,000 --> 00:12:04,000
+In a typical experiment, for example, of the single-pass air loop type,
+
+117
+00:12:04,000 --> 00:12:07,000
+the test material will be placed in a facility tube,
+
+118
+00:12:07,000 --> 00:12:10,000
+which also permits circulation of air.
+
+119
+00:12:10,000 --> 00:12:13,000
+Radial penetrations of the shielding and vessel
+
+120
+00:12:13,000 --> 00:12:16,000
+could accommodate several such experiments.
+
+121
+00:12:16,000 --> 00:12:19,000
+Instrument leads will be attached, and in some cases,
+
+122
+00:12:19,000 --> 00:12:23,000
+mechanical linkages for specimen manipulation can be provided.
+
+123
+00:12:23,000 --> 00:12:26,000
+The tube leaves the reactor through the bottom head,
+
+124
+00:12:26,000 --> 00:12:29,000
+where a ninety-degree turn leads it through a port into the basement
+
+125
+00:12:29,000 --> 00:12:32,000
+where it is routed to the stack discharge system.
+
+126
+00:12:33,000 --> 00:12:37,000
+Other experimental loops utilize access sleeves within the outer shielding.
+
+127
+00:12:38,000 --> 00:12:41,000
+These are high-pressure, closed, recirculating water loops.
+
+128
+00:12:42,000 --> 00:12:47,000
+The lines run from bottom floor cubicles through the reactor shield to the sub-pile room,
+
+129
+00:12:47,000 --> 00:12:52,000
+then to the reactor top via access sleeves in the concrete biological shield.
+
+130
+00:12:53,000 --> 00:12:56,000
+The lines enter the reactor vessel through the access nozzles,
+
+131
+00:12:56,000 --> 00:13:03,000
+pass down through the core and out through access holes in the reactor bottom plug into the subpile room.
+
+132
+00:13:04,000 --> 00:13:11,000
+The lines leave the subpile room and re-enter the cubicle through the access sleeves in the subpile room wall.
+
+133
+00:13:13,000 --> 00:13:19,000
+All of the experimental services such as fluid circulation and heat exchange, power supply, and instrumentation
+
+134
+00:13:19,000 --> 00:13:23,000
+are connected externally and don't interfere with reactor operation.
+
+135
+00:13:23,000 --> 00:13:34,000
+Still another category is the package loop in which the circulating pumps and heat exchanger are integral parts of the loop entirely contained within the reactor tank.
+
+136
+00:13:35,000 --> 00:13:40,000
+Access to the loop is through a nozzle in the upper part of the reactor vessel.
+
+137
+00:13:40,000 --> 00:13:45,000
+The reactor also can accommodate a large number of capsule type experiments.
+
+138
+00:13:45,000 --> 00:13:52,000
+In operation, the top of the reactor is shielded by removable concrete sections, assembled
+
+139
+00:13:52,000 --> 00:13:57,000
+in an igloo-like arrangement, completely closing off the top of the reactor.
+
+140
+00:13:57,000 --> 00:14:02,000
+Early in construction, prior to the arrival of the reactor vessel, an external thermal
+
+141
+00:14:02,000 --> 00:14:04,000
+shield was installed.
+
+142
+00:14:04,000 --> 00:14:09,000
+It is made of lead, three and a half inches thick, in which stainless tubing is embedded.
+
+143
+00:14:09,000 --> 00:14:13,000
+Primary system water is circulated through these tubes for cooling.
+
+144
+00:14:13,000 --> 00:14:18,000
+In addition, an internal thermal shield is placed around the core between the inner reactor
+
+145
+00:14:18,000 --> 00:14:21,000
+tank and the pressure vessel walls.
+
+146
+00:14:21,000 --> 00:14:27,000
+The inner shield consists of four concentric steel cylinders, each 57 inches high, separated
+
+147
+00:14:27,000 --> 00:14:29,000
+to allow the flow of water.
+
+148
+00:14:29,000 --> 00:14:35,000
+This design feature was dictated by the 175 megawatt power output of the core.
+
+149
+00:14:35,000 --> 00:14:42,000
+The combined stress on the inner shield is 2,200 psi, which is less than 10% of its yield strength.
+
+150
+00:14:44,000 --> 00:14:49,000
+The external and internal thermal shielding surrounds the core area in general
+
+151
+00:14:49,000 --> 00:14:55,000
+and will serve to limit the temperature at the inner face of the concrete biological shield to 120 degrees Fahrenheit.
+
+152
+00:14:57,000 --> 00:15:02,000
+The reactor is cooled by demineralized water flowing at about 44,000 gallons per minute
+
+153
+00:15:02,000 --> 00:15:05,000
+or at 35 feet per second through the core area.
+
+154
+00:15:05,000 --> 00:15:11,000
+It enters the reactor through a 36 inch pipe in the upper vessel.
+
+155
+00:15:11,000 --> 00:15:15,000
+The water is then deflected upward by a flow distributor.
+
+156
+00:15:15,000 --> 00:15:19,000
+The distributor, by changing flow direction, minimizes turbulence and hydraulic loads on
+
+157
+00:15:19,000 --> 00:15:27,000
+internal installations, and acts to dissipate input vortices and vibrations from the pumps.
+
+158
+00:15:27,000 --> 00:15:32,000
+The water reverses and flows down through the core and back up along the internal thermal
+
+159
+00:15:32,000 --> 00:15:39,000
+shield to a 36-inch discharge pipe. These pipes are located in a shielded tunnel that leads to
+
+160
+00:15:39,000 --> 00:15:44,000
+a separate heat exchanger building where the reactor fission heat is transferred to a secondary
+
+161
+00:15:44,000 --> 00:15:52,000
+cooling system, both systems being separate loops. From the secondary loop, the reactor heat is
+
+162
+00:15:52,000 --> 00:16:00,000
+dissipated through conventional cooling towers. The engineering test reactor operates on a 20-day
+
+163
+00:16:00,000 --> 00:16:08,000
+cycle. In that period, average fuel burnup will be 33%. The absence of top controls greatly
+
+164
+00:16:08,000 --> 00:16:14,000
+simplifies the change-out procedure. Long grapples are used with special grasping hooks
+
+165
+00:16:14,000 --> 00:16:19,000
+to engage the fuel element handle. Once the fuel element is engaged by the grapple, it
+
+166
+00:16:19,000 --> 00:16:27,000
+is passed through a nozzle in the reactor tank and deposited in a transfer chute. This
+
+167
+00:16:27,000 --> 00:16:34,000
+opening is closed during reactor operation. The transfer chute at the reactor end of the
+
+168
+00:16:34,000 --> 00:16:40,000
+canal is hydraulically operated, tilting away from the reactor vessel at an angle that permits
+
+169
+00:16:40,000 --> 00:16:46,000
+easy removal of the spent element. It is grappled from the chute and placed in one of the storage
+
+170
+00:16:46,000 --> 00:16:53,000
+racks in the canal. During startup operations, a high water level in the canal was not necessary.
+
+171
+00:16:53,000 --> 00:17:01,000
+In normal operations, the canal is filled for maximum shielding since the activity rate of each element exceeds one million roentgens per hour.
+
+172
+00:17:02,000 --> 00:17:12,000
+In the working area of the canal, there is a remote operated saw which allows the operator to cut irradiated material into convenient lengths for storage or handling.
+
+173
+00:17:13,000 --> 00:17:21,000
+The canal is a T-shape with a 60-foot storage canal and a 35-foot working area in the stem of the T.
+
+174
+00:17:24,000 --> 00:17:30,000
+The canal is a uniform 20 feet in depth, except for this well, directly under the transfer chute.
+
+175
+00:17:31,000 --> 00:17:35,000
+The junction of the two canals may be sealed with a removable bulkhead,
+
+176
+00:17:35,000 --> 00:17:38,000
+permitting separate drainage of each section.
+
+177
+00:17:39,000 --> 00:17:42,000
+The storage section is 60 feet long and 12 feet wide,
+
+178
+00:17:43,000 --> 00:17:45,000
+allowing ample room for manipulation of equipment.
+
+179
+00:17:47,000 --> 00:17:50,000
+The compressor building adjoins the reactor building
+
+180
+00:17:50,000 --> 00:17:54,000
+and houses air compressors and heaters for experimental facilities.
+
+181
+00:17:55,000 --> 00:18:00,000
+30 pounds of air per second at 320 PSIG pressure is supplied from here.
+
+182
+00:18:02,000 --> 00:18:08,000
+Also, 24 pounds of this air can be heated and manifolded into a single header for experimenters' use.
+
+183
+00:18:10,000 --> 00:18:16,000
+The ETR-MTR electrical facilities for general power and experimental power have been greatly expanded.
+
+184
+00:18:17,000 --> 00:18:20,000
+The power requirements for the ETR area alone
+
+185
+00:18:20,000 --> 00:18:24,000
+consist of a connected load of 17,800 kilovolt amperes,
+
+186
+00:18:25,000 --> 00:18:28,000
+of which 8,000 kVA is of test facilities.
+
+187
+00:18:30,000 --> 00:18:33,000
+Formal ceremonies laid in 1957
+
+188
+00:18:33,000 --> 00:18:37,000
+officially dedicated the engineering test reactor to private industry
+
+189
+00:18:37,000 --> 00:18:40,000
+and the vital research necessary to the rapid development
+
+190
+00:18:40,000 --> 00:18:43,000
+of economical and plentiful nuclear energy.
+
+191
+00:18:43,000 --> 00:18:51,000
+The full design core loading was reached September 26th, one week after criticality had been achieved.
+
+192
+00:18:51,000 --> 00:18:59,000
+And the post-neutron test continued for many weeks, during which the reactor's operational behavior was observed at increasing power.
+
+193
+00:19:01,000 --> 00:19:08,000
+Certain difficulties related to the mechanical stability of the first batch of fuel elements became evident during pre-neutron testing.
+
+194
+00:19:08,000 --> 00:19:14,000
+It was found also that the fuel had a higher than design content of the poison boron
+
+195
+00:19:14,000 --> 00:19:17,000
+because of metallurgical and analytical uncertainties,
+
+196
+00:19:17,000 --> 00:19:20,000
+with resultant lower than design excess reactivity.
+
+197
+00:19:21,000 --> 00:19:28,000
+However, solutions to these problems were found, and by early 1958, the reactor was running at approximately 90 megawatts,
+
+198
+00:19:29,000 --> 00:19:32,000
+the full power required for the first major experiment.
+
+199
+00:19:33,000 --> 00:19:37,000
+With this first experiment completed, other experimental loops were installed,
+
+200
+00:19:37,000 --> 00:19:41,000
+and the power was increased as needed up to the design value.
+
+201
+00:19:43,000 --> 00:19:46,000
+This, in essence, is the engineering test reactor.
+
+202
+00:19:47,000 --> 00:19:49,000
+Its design, purpose, and scope.
+
+203
+00:19:52,000 --> 00:19:56,000
+The engineering test reactor marks a distinct advance in test reactor capabilities.
+
+204
+00:19:57,000 --> 00:20:00,000
+This film on the design and construction of the ETR
+
+205
+00:20:00,000 --> 00:20:03,000
+was prepared by the United States Atomic Energy Commission
+
+206
+00:20:03,000 --> 00:20:08,000
+to promote understanding of our activities in the development of such facilities
+
+207
+00:20:08,000 --> 00:20:11,000
+and their relation to the nuclear power program.

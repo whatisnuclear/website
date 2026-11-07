@@ -1,0 +1,355 @@
+1
+00:00:00,000 --> 00:00:26,699
+While working at the FFTF you find yourself about to enter a confined space marked by this sign.
+
+2
+00:00:26,699 --> 00:00:32,579
+The sign is there to inform you that there is a possibility of that space becoming oxygen
+
+3
+00:00:32,579 --> 00:00:48,539
+deficient. Would you know what to do in this situation? In two breaths to you learn some
+
+4
+00:00:48,539 --> 00:00:54,820
+general information about oxygen deficient spaces. If you walk into an oxygen deficient atmosphere
+
+5
+00:00:54,820 --> 00:01:00,259
+you won't have a single warning and it's too late to hold your breath. You'll take two breaths and
+
+6
+00:01:00,259 --> 00:01:07,780
+you'll collapse. In this presentation, we will look at two types of inert gas found in the FFTF
+
+7
+00:01:07,780 --> 00:01:13,039
+which can displace oxygen, the precautions which are taken in the plant to cope with oxygen
+
+8
+00:01:13,039 --> 00:01:18,299
+deficient environments, and some procedures which you should know when working in a space which
+
+9
+00:01:18,299 --> 00:01:25,899
+could become oxygen deficient. Argon and nitrogen are inert gases. This means they have little
+
+10
+00:01:25,899 --> 00:01:31,379
+or no ability to interact chemically with other substances. Because of this, they are
+
+11
+00:01:31,379 --> 00:01:38,859
+used to separate or inert potentially volatile materials. Argon is used as a cover gas and
+
+12
+00:01:38,859 --> 00:01:47,900
+as a buffer between seals in various places throughout the FFTF.
+
+13
+00:01:47,900 --> 00:01:53,840
+Since it is heavier than air, any argon that might leak may sink and concentrate in low-lying
+
+14
+00:01:53,840 --> 00:01:56,039
+areas.
+
+15
+00:01:56,039 --> 00:02:07,640
+Nitrogen is used for valve actuation, to inert primary sodium cells, and to flood secondary
+
+16
+00:02:07,640 --> 00:02:13,219
+sodium cells in an emergency situation nitrogen is a light gas which mixes
+
+17
+00:02:13,219 --> 00:02:18,979
+freely with air it may be found at all levels these gases are not in themselves
+
+18
+00:02:18,979 --> 00:02:23,719
+toxic they are hazardous because they displace the oxygen which is necessary
+
+19
+00:02:23,719 --> 00:02:30,920
+for life the normal amount of oxygen found in air is 21% the minimum amount
+
+20
+00:02:30,920 --> 00:02:34,819
+of oxygen necessary for a work atmosphere at Hedl has been established
+
+21
+00:02:34,819 --> 00:02:41,120
+at 19.5 percent. This is very conservative since physical effects are not perceivable
+
+22
+00:02:41,120 --> 00:02:48,840
+above 16 percent oxygen. However, all monitors in use at the FFTF have their alarm set at
+
+23
+00:02:48,840 --> 00:02:56,459
+the 19.5 percent level. Entry into a space with less than 19.5 percent oxygen requires
+
+24
+00:02:56,459 --> 00:03:03,780
+use of approved respiratory protection and compliance with administrative procedure.
+
+25
+00:03:03,780 --> 00:03:07,319
+oxygen monitors are situated at the FFTF in the following
+
+26
+00:03:07,319 --> 00:03:12,060
+locations. Areas where there is a high potential of an inert gas
+
+27
+00:03:12,060 --> 00:03:16,240
+leak, such as a secondary sodium cell, and in areas where there
+
+28
+00:03:16,240 --> 00:03:19,580
+is little ventilation or air circulation. That is where the
+
+29
+00:03:19,580 --> 00:03:24,219
+air is changed less than one and a half times per hour. As
+
+30
+00:03:24,219 --> 00:03:28,580
+previously stated, these monitors react to the 19.5%
+
+31
+00:03:28,620 --> 00:03:32,879
+oxygen level. When this level is reached, an alarm will go off.
+
+32
+00:03:33,780 --> 00:03:46,060
+And if the monitor is located in a high noise area, a rotating beacon will also be activated.
+
+33
+00:03:46,060 --> 00:03:51,759
+In addition to having permanent oxygen monitors, all cells in the FFTF will be marked by this
+
+34
+00:03:51,759 --> 00:03:54,340
+sign.
+
+35
+00:03:54,340 --> 00:03:57,979
+Requirements for access to the space will be indicated on the sign.
+
+36
+00:03:57,979 --> 00:04:02,400
+The degree of oxygen deficiency potential in the space will determine what actions are
+
+37
+00:04:02,400 --> 00:04:04,500
+required.
+
+38
+00:04:04,500 --> 00:04:11,759
+Common requirements include use of personal oxygen monitors, use of the buddy system,
+
+39
+00:04:11,759 --> 00:04:18,139
+use of additional ventilation equipment, notification of the control room, and a five-minute escape
+
+40
+00:04:18,139 --> 00:04:21,180
+pack available for immediate use.
+
+41
+00:04:21,180 --> 00:04:24,240
+Let's take a closer look at these requirements.
+
+42
+00:04:24,240 --> 00:04:29,639
+There are two types of personal oxygen monitors in common use at the FFTF.
+
+43
+00:04:29,639 --> 00:04:33,639
+The Gastek OX80 is the most commonly used.
+
+44
+00:04:33,639 --> 00:04:42,339
+It is worn at waist level, and its alarm is a loud buzzing sound.
+
+45
+00:04:42,339 --> 00:04:50,019
+When the Gastek is switched on, this alarm will sound briefly, to let you know it is
+
+46
+00:04:50,019 --> 00:04:52,019
+operating properly.
+
+47
+00:04:52,019 --> 00:04:59,879
+If the alarm continues, sounding intermittently, it is a signal that the battery is low and
+
+48
+00:04:59,879 --> 00:05:02,740
+needs recharging.
+
+49
+00:05:02,740 --> 00:05:08,439
+To check oxygen levels in the space surrounding you, press the button near the readout window.
+
+50
+00:05:08,439 --> 00:05:12,180
+The level will be shown in digital figures.
+
+51
+00:05:12,180 --> 00:05:16,279
+The Edmont-Wilson monitor is also worn at waist level.
+
+52
+00:05:16,280 --> 00:05:23,100
+This alarm is a high-pitched whistle.
+
+53
+00:05:23,100 --> 00:05:28,520
+If the alarm sounds when the Edmont Wilson is first turned on,
+
+54
+00:05:28,520 --> 00:05:31,820
+it is an indication the battery is low.
+
+55
+00:05:31,820 --> 00:05:35,880
+The sensor for the Edmont Wilson is attached to an extension cord.
+
+56
+00:05:35,880 --> 00:05:41,600
+It may be lowered into a cell prior to entry in order to check oxygen levels.
+
+57
+00:05:41,600 --> 00:05:47,439
+Once again, these personal monitors have their alarms set at the 19.5 percent level.
+
+58
+00:05:47,439 --> 00:05:53,200
+When an alarm goes off, take immediate action.
+
+59
+00:05:53,200 --> 00:05:55,800
+Oxygen monitors are your first line of protection.
+
+60
+00:05:55,800 --> 00:06:00,700
+Believe what they tell you and make certain you know how to operate them.
+
+61
+00:06:00,700 --> 00:06:06,140
+The buddy system is a well-known preventative measure, which has saved thousands of lives.
+
+62
+00:06:06,139 --> 00:06:11,800
+In this instance, one person must remain outside the space and maintain either visual or verbal
+
+63
+00:06:11,800 --> 00:06:15,219
+contact with their partner.
+
+64
+00:06:15,219 --> 00:06:19,279
+Additional ventilation for confined spaces may be provided by such equipment as portable
+
+65
+00:06:19,279 --> 00:06:22,800
+blowers and flexible hose.
+
+66
+00:06:22,800 --> 00:06:26,879
+Another means of letting others know your whereabouts is to call the control room prior
+
+67
+00:06:26,879 --> 00:06:29,240
+to entry.
+
+68
+00:06:29,240 --> 00:06:34,439
+If this procedure is posted, you must also notify the control room and confirm your departure
+
+69
+00:06:34,439 --> 00:06:40,379
+you leave. Know when and how to use a five-minute escape pack. Before using,
+
+70
+00:06:40,379 --> 00:06:46,219
+check the gauge on the unit to ensure it is charged properly. If an oxygen monitor
+
+71
+00:06:46,219 --> 00:06:52,899
+alarm goes off, don the escape pack immediately. Open the case, pull out the
+
+72
+00:06:52,899 --> 00:07:03,740
+unit, unfold the mask, pull the ring. If you hear a hiss, the unit is working
+
+73
+00:07:03,740 --> 00:07:13,920
+properly. Pull the mask over your head, adjust the next seal, and then the drawstring. The yellow tab
+
+74
+00:07:13,920 --> 00:07:20,240
+tightens and the red tab loosens. An important point to remember is that the escape pack is to
+
+75
+00:07:20,240 --> 00:07:28,139
+be used for escape only. It is not to be used for rescue purposes. In an emergency situation,
+
+76
+00:07:28,139 --> 00:07:30,959
+your job is to get out and warn others.
+
+77
+00:07:31,560 --> 00:07:36,560
+Don't become a victim yourself by trying to rescue someone without the proper equipment.
+
+78
+00:07:37,439 --> 00:07:42,019
+Call the control room, and the emergency response team will initiate a rescue action.
+
+79
+00:07:42,019 --> 00:08:02,199
+The most important aspect of safe entry into a confined space is your knowledge of safety
+
+80
+00:08:02,199 --> 00:08:09,519
+procedures. When you are to work in a confined space, remember argon and nitrogen may cause a
+
+81
+00:08:09,519 --> 00:08:16,319
+hazard by displacing oxygen in the air. Permanent oxygen monitors are situated in all normally
+
+82
+00:08:16,319 --> 00:08:22,500
+accessible spaces, which might become oxygen deficient. Signs are posted at the entrances
+
+83
+00:08:22,500 --> 00:08:28,680
+to all confined spaces, listing requirements for entry. Heed the requirements and, if you
+
+84
+00:08:28,680 --> 00:08:34,340
+are wearing a personal oxygen monitor or five-minute escape pack, know how and when to use them.
+
+85
+00:08:34,340 --> 00:08:41,300
+When an oxygen monitor alarm sounds, immediately don the five-minute escape pack, leave the
+
+86
+00:08:41,300 --> 00:08:49,120
+area and notify the control room.
+
+87
+00:08:49,120 --> 00:08:52,660
+You are the most important part of any safety program.
+
+88
+00:08:52,660 --> 00:08:57,259
+Your knowledge and use of safety procedures will go a long way in helping to keep the
+
+89
+00:08:57,259 --> 00:08:59,139
+FFTF a good place to work.

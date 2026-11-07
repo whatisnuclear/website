@@ -1,0 +1,295 @@
+1
+00:00:00,000 --> 00:00:24,640
+On October 15, 1959, the Dresden Nuclear Power Station of the Commonwealth Edison Company
+
+2
+00:00:24,640 --> 00:00:29,640
+sustained for the first time the atomic fission which would be Dresden's source of energy
+
+3
+00:00:29,640 --> 00:00:31,320
+for the generation of electric power.
+
+4
+00:00:37,120 --> 00:00:42,600
+This marked the beginning of proving the first full-scale boiling water reactor power station.
+
+5
+00:00:44,380 --> 00:00:50,140
+Now, accurate information could be compiled which would predict the path nuclear power must take
+
+6
+00:00:50,140 --> 00:00:56,160
+to provide electricity economically and to determine the procedures of nuclear power station operation.
+
+7
+00:01:00,320 --> 00:01:05,659
+In April of 1960, 64 tons of slightly enriched uranium oxide
+
+8
+00:01:05,659 --> 00:01:09,760
+started to do the work of 1 1⁄2 to 2 million tons of coal.
+
+9
+00:01:10,700 --> 00:01:12,900
+Dresden produced its first electric power.
+
+10
+00:01:12,900 --> 00:01:27,280
+In December of 1963, after four years of regular operation as a major plant of the
+
+11
+00:01:27,280 --> 00:01:31,800
+Commonwealth Edison System, responding to the varying load demands day after day,
+
+12
+00:01:32,000 --> 00:01:36,180
+the net electric output passed the 3 billion kilowatt hour mark.
+
+13
+00:01:36,180 --> 00:01:47,340
+typical load pick up is 1.75 megawatts per minute at low power levels and up to 10 megawatts per
+
+14
+00:01:47,340 --> 00:01:57,440
+minute at levels above 50% of rated power the station's capacity has been upgraded to 210,000
+
+15
+00:01:57,440 --> 00:02:04,680
+kilowatts today Dresden's overall performance record is conclusive evidence of its success
+
+16
+00:02:04,680 --> 00:02:12,680
+Under standard electric utility operating conditions, this nuclear power station is performing with uniform excellence.
+
+17
+00:02:16,680 --> 00:02:22,680
+The simplicity of the boiling water reactor contributes to the station's high degree of availability to the utility system.
+
+18
+00:02:24,680 --> 00:02:28,680
+Dresden was designed for thirteen percent average steam void volume.
+
+19
+00:02:29,680 --> 00:02:33,680
+Experimental tests demonstrated voids as high as thirty percent.
+
+20
+00:02:34,680 --> 00:02:40,520
+This experience has led to designs for subsequent BWR cores at 28% voids.
+
+21
+00:02:46,040 --> 00:02:53,819
+In 1962, Dresden was available for the production of electric power 79.4% of the time
+
+22
+00:02:53,819 --> 00:03:01,620
+and 93.1% of the time over the 11-month period prior to plant shutdown on November 7, 1962.
+
+23
+00:03:04,680 --> 00:03:10,120
+Based on refueling and modification work during that shutdown,
+
+24
+00:03:10,800 --> 00:03:15,000
+availabilities of over 90% can be expected for boiling water reactor plants.
+
+25
+00:03:17,640 --> 00:03:23,140
+During 1962, the plant operated at an average of 73% of its capacity.
+
+26
+00:03:24,920 --> 00:03:29,580
+During the 11 months prior to plant shutdown, on November 7, 1962,
+
+27
+00:03:30,260 --> 00:03:34,000
+the capacity factor averaged 85.6%.
+
+28
+00:03:34,000 --> 00:03:43,759
+In comparison, the average availability of six large coal-fired plants on the same line
+
+29
+00:03:43,759 --> 00:03:54,800
+was 82.4%, with a capacity factor of 67% for the same period.
+
+30
+00:03:54,800 --> 00:04:04,480
+The capacity factor from start of commercial service to January 1, 1964 was about 50%.
+
+31
+00:04:04,480 --> 00:04:10,719
+Three major plant shutdowns have been experienced, one for blade and drive modification, one
+
+32
+00:04:10,719 --> 00:04:21,240
+for a required drive inspection, and the third for turbine and plant modification and refueling.
+
+33
+00:04:21,240 --> 00:04:28,139
+The refueling of 40% of Dresden's core required 33 days.
+
+34
+00:04:28,139 --> 00:04:33,519
+More routine refueling calls for replacement of 20% of the core.
+
+35
+00:04:33,519 --> 00:04:38,139
+As a direct result of this experience, boiling water reactor plants are being designed with
+
+36
+00:04:38,139 --> 00:04:42,199
+15-day refueling periods.
+
+37
+00:04:42,199 --> 00:04:47,879
+Zirconium clad fuel exhibited high dependability at Dresden.
+
+38
+00:04:47,879 --> 00:04:50,879
+Not a single shutdown was due to fuel failure.
+
+39
+00:04:50,879 --> 00:04:58,759
+Out of 84,000 fuel segments, only five failed, with resulting off-gas activity one one-thousandth
+
+40
+00:04:58,759 --> 00:05:05,680
+of the license for continuous operation.
+
+41
+00:05:05,680 --> 00:05:13,879
+Average fuel exposure in Dresden Fuel Cycle 1 was 5,000 megawatt days per ton.
+
+42
+00:05:13,879 --> 00:05:23,019
+exposure of the bundles removed was 6,400 megawatt days per ton. The disposal of radioactive
+
+43
+00:05:23,019 --> 00:05:29,480
+waste presents no problem. Stack emission of radio gases averages 0.5 milirems per year
+
+44
+00:05:29,480 --> 00:05:39,600
+at the point of maximum exposure, about one 300th of the inescapable radiation from nature.
+
+45
+00:05:39,600 --> 00:05:43,699
+Measurements of water samples taken up and downstream of the plant indicate no measurable
+
+46
+00:05:43,699 --> 00:05:50,740
+increase in radioactivity due to plant operation. The reactor's bottom-mounted control rods and
+
+47
+00:05:50,740 --> 00:05:55,779
+drives, which shape the neutron flux for efficient fuel burn-up, operate extremely well.
+
+48
+00:05:58,500 --> 00:06:02,899
+These drives quickly shut down the reactor under potential emergency conditions.
+
+49
+00:06:04,819 --> 00:06:08,819
+Not one control rod drive has ever failed to operate when called on to scram.
+
+50
+00:06:08,819 --> 00:06:17,519
+Boarding water reactor plant operation is safe and easily controllable. The response to controls
+
+51
+00:06:17,519 --> 00:06:24,839
+is immediate and precise. Here startup and shutdown have been performed with less difficulty
+
+52
+00:06:24,839 --> 00:06:31,920
+and with greater safety than the starting and stopping of a coal-fired boiler. Plant operators
+
+53
+00:06:31,920 --> 00:06:37,620
+praise the plants cleanliness and ease of winter operation with freedom from problems of handling
+
+54
+00:06:37,620 --> 00:06:44,699
+frozen coal. Dresden has also exhibited excellent load-following characteristics
+
+55
+00:06:44,699 --> 00:06:53,199
+under abnormal conditions. In April of 1962 a severe lightning storm knocked
+
+56
+00:06:53,199 --> 00:06:59,240
+out a transformer that fed two of the four reactor recirculating pumps.
+
+57
+00:07:07,620 --> 00:07:14,620
+Reactor power decreased automatically, almost to half of rated power.
+
+58
+00:07:14,620 --> 00:07:18,620
+The turbine generator followed.
+
+59
+00:07:18,620 --> 00:07:26,620
+Within nine minutes, the operator supplied auxiliary power to the pumps and returned them to service.
+
+60
+00:07:26,620 --> 00:07:30,620
+This was the only operator action needed or taken.
+
+61
+00:07:30,620 --> 00:07:35,620
+Quickly, the reactor and turbine generator recovered to full power.
+
+62
+00:07:37,620 --> 00:07:49,860
+conditions for contact maintenance at Dresden have been more than satisfactory even during
+
+63
+00:07:49,860 --> 00:07:56,899
+refueling and modification plant equipment could be inspected in a routine manner inspection of
+
+64
+00:07:56,899 --> 00:08:01,860
+the turbine revealed the entire unit to be an excellent condition with only light erosion
+
+65
+00:08:01,860 --> 00:08:03,860
+and corrosion on the internal parts.
+
+66
+00:08:08,860 --> 00:08:11,860
+The small amount of radiation that exists during operation
+
+67
+00:08:11,860 --> 00:08:15,860
+due to isotopes of oxygen and nitrogen is short-lived.
+
+68
+00:08:20,860 --> 00:08:25,860
+Working under practically normal conditions, maintenance crews experienced only 2 to 3 millirems
+
+69
+00:08:25,860 --> 00:08:28,860
+exposure during a 10-hour shift.
+
+70
+00:08:28,860 --> 00:08:34,899
+The experience and know-how gained from the operation of this first full-scale boiling
+
+71
+00:08:34,899 --> 00:08:42,620
+water reactor is helping utilities design and build more efficient power plants.
+
+72
+00:08:42,620 --> 00:08:48,919
+In its day-to-day operation, Dresden continues to demonstrate the dependability, safety,
+
+73
+00:08:48,919 --> 00:08:53,060
+and ease of operation and maintenance of the nuclear power station.
+
+74
+00:08:53,060 --> 00:08:57,759
+Dresden, one giant step forward in the use of nuclear energy.

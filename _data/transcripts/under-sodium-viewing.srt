@@ -1,0 +1,171 @@
+1
+00:00:00,000 --> 00:00:07,640
+Several of the Hanford Engineering Development Laboratory's measurement technology programs are
+
+2
+00:00:07,640 --> 00:00:14,040
+aimed at improving safety and reliability of the liquid metal fast breeder reactor. Many sodium
+
+3
+00:00:14,040 --> 00:00:20,100
+properties are important to the success of the LMFBR program. However, since sodium is opaque
+
+4
+00:00:20,100 --> 00:00:27,000
+and reactive, it is necessary to develop several safety and inspection systems. One program is
+
+5
+00:00:27,000 --> 00:00:31,679
+developing a unique under-sodium viewing inspection system, which can minimize
+
+6
+00:00:31,679 --> 00:00:37,859
+expensive reactor downtime and improve reliability. Recent tests of this system
+
+7
+00:00:37,859 --> 00:00:42,600
+being developed for use in the FFTF demonstrated the ability to produce
+
+8
+00:00:42,600 --> 00:00:48,359
+high-resolution pictures of objects under 16 feet of liquid sodium. Using
+
+9
+00:00:48,359 --> 00:00:53,460
+special ultrasonic transducers, pulse echo methods similar to sonar and a
+
+10
+00:00:53,460 --> 00:00:57,719
+display technique invented by Hedl, three-dimensional pictures of objects
+
+11
+00:00:57,719 --> 00:01:03,359
+can be constructed as shown. A set of stacked metal discs shown at the top is
+
+12
+00:01:03,359 --> 00:01:08,939
+imaged at the same viewing angle by this under-sodium viewing system. Changing the
+
+13
+00:01:08,939 --> 00:01:13,799
+electronic controls results in a new three-dimensional view. This process can
+
+14
+00:01:13,799 --> 00:01:19,799
+be continued until the desired viewing angle is achieved. The system being
+
+15
+00:01:19,799 --> 00:01:25,280
+developed for use in FFTF is installed through small penetrations in the vessel head.
+
+16
+00:01:28,920 --> 00:01:34,840
+Pictures taken under 16 feet of sodium are built up on an oscilloscope screen as the
+
+17
+00:01:34,840 --> 00:01:37,280
+scanner sweeps over the reactor core model.
+
+18
+00:01:39,920 --> 00:01:45,599
+A comparison of the resulting image and a photograph of the core prior to sodium fill
+
+19
+00:01:45,599 --> 00:01:48,459
+demonstrates the excellent clarity of the image.
+
+20
+00:01:49,799 --> 00:01:59,599
+closer examination of one sub assembly reveals identification features the small holes and side
+
+21
+00:01:59,599 --> 00:02:05,640
+notches are visible in the first high resolution images shown here without image enhancement
+
+22
+00:02:05,640 --> 00:02:16,019
+application of this system will permit core sub assembly location and identification precise
+
+23
+00:02:16,020 --> 00:02:22,260
+location of in vessel components periodic inspection of critical
+
+24
+00:02:22,260 --> 00:02:27,580
+components such as thermal baffles and welds search and retrieval guidance
+
+25
+00:02:27,580 --> 00:02:34,920
+information for misplaced or foreign objects use of an ultrasonic ranging
+
+26
+00:02:34,920 --> 00:02:39,480
+system is a requirement in the French Phoenix reactor during refueling however
+
+27
+00:02:39,480 --> 00:02:43,740
+high resolution pictures which are important in many inspection operations
+
+28
+00:02:43,740 --> 00:02:46,120
+are not possible with the French system.
+
+29
+00:02:48,080 --> 00:02:51,820
+Besides high-resolution features, the HEDL developed system
+
+30
+00:02:51,820 --> 00:02:55,520
+has the capability to identify and accurately locate objects
+
+31
+00:02:55,520 --> 00:02:57,659
+at distances up to 16 feet.
+
+32
+00:02:58,159 --> 00:03:01,420
+This drawing identifies the location of installed equipment
+
+33
+00:03:01,420 --> 00:03:03,640
+in the sodium-filled test vessel.
+
+34
+00:03:04,400 --> 00:03:06,700
+Equipment such as the fuel handling machine,
+
+35
+00:03:09,400 --> 00:03:10,680
+the instrument tree,
+
+36
+00:03:13,740 --> 00:03:18,020
+the in-reactor test assembly, and the immersion heater
+
+37
+00:03:18,020 --> 00:03:22,500
+are shown relative to the installed position of the undersodium viewing system.
+
+38
+00:03:27,900 --> 00:03:32,400
+As a demonstration of this feature, the radar-like display shown here
+
+39
+00:03:32,400 --> 00:03:35,540
+clearly locates the items described in the drawing.
+
+40
+00:03:35,540 --> 00:03:40,640
+This display is a result of recording reflections from in-vessel components.
+
+41
+00:03:40,640 --> 00:03:47,560
+Accurate location of any reflection can be determined from range and azimuth indicators on the instrument panel.
+
+42
+00:03:48,560 --> 00:03:56,680
+An ultrasonic sweep arm based on this technology has been proposed for use in the Clinch River breeder reactor during each refueling operation.
+
+43
+00:03:56,820 --> 00:04:02,680
+Such a system would locate out of position core components to prevent damage during refueling.
