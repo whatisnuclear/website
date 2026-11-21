@@ -343,3 +343,18 @@
       url: https://www.govinfo.gov/content/pkg/DCPD-202500631/html/DCPD-202500631.htm
       venue: Oval Office
       date: 2025-05-23
+
+- name: William Ruto
+  title: President of Kenya
+  fame: 3
+  expertise: 2
+  img: ruto.jpg
+  img_src: https://commons.wikimedia.org/wiki/File:President_Ruto_Potrait_2022_(cropped).jpg
+  quotes:
+    - quote: >
+        There is a perception that nuclear energy poses a significant danger to human
+        well-being. This perception, while understandable, is not supported by evidence.
+      url: https://citizen.digital/news/nuclear-energy-to-lower-electricity-costs-and-boost-industrial-growth-president-ruto-n379679
+      venue: International Conference on Nuclear Energy, Nairobi
+      date: 2026-03-25
+
