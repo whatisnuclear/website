@@ -12,8 +12,7 @@ RUN apt-get update && \
 COPY Gemfile Gemfile.lock ./
 RUN bundle install
 
-# Install vnu.jar
-ENV VNU_VERSION=24.10.18
-RUN curl -sL "https://github.com/validator/validator/releases/download/latest/vnu.jar.zip" -o /tmp/vnu.zip && \
-    unzip -j /tmp/vnu.zip 'vnu.jar' -d /usr/local/lib && \
-    rm /tmp/vnu.zip
+# Install vnu.jar. The release only publishes a moving "latest" tag (no
+# version-numbered releases), so the validator version is refreshed whenever
+# this image is rebuilt — the win-ci runner builds from this file.
+RUN curl -fsSL "https://github.com/validator/validator/releases/download/latest/vnu.jar" -o /usr/local/lib/vnu.jar
