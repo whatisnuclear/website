@@ -56,7 +56,7 @@
     clearly demonstrate that sodium is less desirable for naval reactors than
     pressurized water.</blockquote>
 
-  <figcaption class="blockquote-footer">Rickover, 1956</figcaption>
+  <p class="blockquote-footer">Rickover, 1956</p>
     </div>
     </div>
     <aside class="notes"></aside>
