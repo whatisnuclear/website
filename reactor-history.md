@@ -833,7 +833,7 @@ nuclear developers. At a State of the Lab speech, Alvin Weinberg shouted:
 
 <blockquote class="blockquote fst-italic">Economic nuclear power is here!</blockquote>
 
-Between 1963 and 1966, 10 utilities purchase 12 PWRs and BWRs from GE and Westinghouse
+Between 1963 and 1966, 10 utilities purchased 12 PWRs and BWRs from GE and Westinghouse
 under these turnkey contracts.
 
 Alas, the turnkey era was short lived. The reactor vendors struggled to make money on
@@ -992,7 +992,7 @@ years, the city would have an option to purchase the plant from the AEC. Given t
 experience from the OMRE, Atomics International was again contracted to design and build
 the Piqua plant.
 
-Piqua was brought to criticality on June, 1963, and reached full power in January 1964.
+Piqua was brought to criticality on June 1963, and reached full power in January 1964.
 The plant produced 20% of Piqua's power in 1965, and the city proudly referred to itself
 as _The Atomic City_.
 
@@ -1187,7 +1187,7 @@ never completed. Its cancellation was announced in the 1966 AEC Annual report to
 resources on reactors considered likely to deliver economic power. It has also been said
 that graphite development was progressing sufficiently that the development of beryllium
 moderator was not considered necessary. The experiment was designed by General Atomic
-Division of General Atomics.
+Division of General Dynamics.
 
 The High Temperature Marine Propulsion Reactor was a low-power critical experiment that
 operated at the NRTS with intent to develop a marine propulsion gas-cooled reactor, but

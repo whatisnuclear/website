@@ -47,7 +47,7 @@ there are two types of rays that come out that are different from x-rays. He
 calls them alpha- and beta- radiation. He later discovers the shocking fact that
 the vast majority of the mass of atoms is concentrated in their centers, and
 thus discovers the atomic nucleus. He is widely regarded today as the father of
-nuclear physics. He later discovers gamma radiation. In 1920, he theorizes the
+nuclear physics. In 1920, he theorizes the
 existence of a neutral particle in the nucleus called a neutron, though there is
 no evidence that neutrons exist yet.
 
@@ -117,10 +117,10 @@ The 1979 Three Mile Island accident and the 1986 Chernobyl accident further
 slowed the deployment of nuclear reactors. Tighter regulations brought costs
 higher. The 1986 passive safety tests at EBR-II prove that advanced reactor
 designs (besides the ones originally used to make submarines) can be
-substantially safer. These tests have major failure occur with no control rods
+substantially safer. These tests have major failures occur with no control rods
 inserted and the reactors shut themselves down automatically.
 
-In 1994, the Megatons to Megawatts treaty with Russia is signed to downblend
+In 1993, the Megatons to Megawatts treaty with Russia is signed to downblend
 nuclear warheads into reactor fuel. Eventually, 10% of US electricity comes from
 dismantled nuclear weapons.
 
@@ -129,13 +129,13 @@ combined with ongoing worries of global climate change due to carbon emissions b
 where new builds might start up substantially again. Meanwhile, strong interest in Asia strengthens and ambitious plans to build large fleets
 are made to satisfy growing energy needs without adding more fossil fuel.
 
-On March, 2011, a large earthquake and tsunami inundate the reactors at Fukushima Daiichi. Backup diesel generators fail and the decay heat
+In March, 2011, a large earthquake and tsunami inundate the reactors at Fukushima Daiichi. Backup diesel generators fail and the decay heat
 cannot be cooled. Fuel melts, hydrogen builds up and explodes (outside of containment). Radiation is released, but much of it goes out to sea
 instead of into populated area. No people expected to die from radiation dose.
 
 ## Going forward
 
-March, 2013, famous climate scientist James Hansen co-publishes a paper from NASA computing that, even with worst case estimates of nuclear accidents,
+In March, 2013, famous climate scientist James Hansen co-publishes a paper from NASA computing that, even with worst case estimates of nuclear accidents,
 nuclear energy as a whole has saved 1.8 million lives and counting by offsetting the air-pollution related deaths that come from fossil fuel plants.
 
 September 2013, Voyager I enters interstellar space, 36 years after its launch. It is powered by a Plutonium-238 radioisotopic thermal generator.
@@ -163,7 +163,7 @@ beta radiation and discovers half-life
 1909 Rutherford discovers that most
 mass is concentrated in a small nucleus
 1920 Rutherford theorizes a "neutron"
-1935 Chadwick identifies neutrons
+1932 Chadwick identifies neutrons
 1938 Hann and Strassman split uranium
 atoms with neutrons, Meitner and Frisch
 explain what's happening and name it "fission"
@@ -214,7 +214,7 @@ amounts of radiation. 50+ firefighters die, up to
 1986 EBR-II reactor demonstrates that
 advanced, sodium cooled reactors can passively
 shut down without backup systems
-2011 4 reactors at Fukushima Daiichi lose
+2011 3 reactors at Fukushima Daiichi lose
 backup generators due to tsunami and suffer
 core meltdowns, hydrogen explosions.
 Radiation release estimated 10-30% of

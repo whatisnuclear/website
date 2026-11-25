@@ -40,8 +40,8 @@ beta radiation and discovers half-life
 1909 Rutherford discovers that most
 mass is concentrated in a small nucleus
 1920 Rutherford theorizes a "neutron"
-1935 Chadwick identifies neutrons
-1938 Hann and Strassman split uranium
+1932 Chadwick identifies neutrons
+1938 Hahn and Strassman split uranium
 atoms with neutrons, Meitner and Frisch
 explain what's happening and name it "fission"
 1939 Fermi and Szilard measure neutron
@@ -91,7 +91,7 @@ amounts of radiation. 50+ firefighters die, up to
 1986 EBR-II reactor demonstrates that
 advanced, sodium cooled reactors can passively
 shut down without backup systems
-2011 4 reactors at Fukushima Daiichi lose
+2011 3 reactors at Fukushima Daiichi lose
 backup generators due to tsunami and suffer
 core meltdowns, hydrogen explosions.
 Radiation release estimated 10-30% of
@@ -109,12 +109,12 @@ paper claiming nuclear has saved 1.8 million
 lives total (including worst-case estimates for
 all accidents) by offsetting air-pollution related
 deaths
-1994 Megatons to Megawatts program
+1993 Megatons to Megawatts program
 started, turns 20,000 nuclear weapons into
 electricity. By 2000, ~10% of US electricity
 comes from dismantled Russian warheads
-2013 Voyager I enters interstellar space after
-traveling the solar system for 36 years. It is
+2012 Voyager I enters interstellar space after
+traveling the solar system for 34 years. It is
 powered by a Plutonium-238 radioisotopic
 thermal generator
 </div>
