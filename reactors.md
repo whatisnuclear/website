@@ -140,7 +140,7 @@ your imagination; over a million other reactor designs are possible. Dream up
 your own! Or, for fun you can try our [Random Reactor Concept
 Generator](./random) or see a list of over a million options.
 
-A incomplete subset of reactor types broken down by coolant and moderator is shown
+An incomplete subset of reactor types broken down by coolant and moderator is shown
 below. For simplicity, we limit it to reactors that have either been built, are
 under construction, or have been the subject of significant experimentation
 and/or study. Reactors concepts in all boxes have been proposed.

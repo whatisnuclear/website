@@ -92,7 +92,7 @@ make a little charcoal). Coal and associated metallurgical coke came along and s
 
 The <a href="https://www.eia.gov/totalenergy/data/monthly/index.php#summary">EIA has detailed info
 </a>about what kinds of fuels we've used. Here's what the USA story looks like (and much of the
-world isn't much different). In 2017, the world was 86% powered by fossil fuel.
+world isn't much different). In 2017, the world was roughly 85% powered by fossil fuel.
 
 <figure>
 <img class="img-fluid center-block"
@@ -310,7 +310,7 @@ lithium from somewhere.
 
 Another interesting curve to watch out for is Figure 12 in <a
 href="https://doi.org/10.1016/j.enpol.2006.10.014">this
-research paper</a> (Energy Policy 35 (2007) 4424–4433) out of NREL. It shows the cost of solar
+research paper</a> (Energy Policy 35 (2007) 2852–2861) out of NREL. It shows the cost of solar
 systems with different size energy storage facilities as a function of system energy percentage.
 You'll note that in these system models, the cost reaches a nearly vertical line as penetration
 approaches 40%. Enabling technologies to avoid this kind of limit can be developed, but are
@@ -354,8 +354,8 @@ I'm hoping to secure a hydro tour.
 
 There's a raging scientific debate going on on this topic. Stanford's Mark Jacobsen <a
 href="https://www.pnas.org/doi/10.1073/pnas.1510028112">published a low-cost 100% renewables plan</a> in
-May 2015. It didn't even call for batteries (he thinks they're dumb too) or biomass at all, relying
-completely on pumped hydro and hydrogen for energy storage. In June 2016, a 21-strong
+November 2015. It didn't even call for batteries (he thinks they're dumb too) or biomass at all, relying
+completely on pumped hydro and hydrogen for energy storage. In June 2017, a 21-strong
 wide-ranging team of scientists led by Clack (formerly of NOAA) <a
 href="https://www.pnas.org/doi/full/10.1073/pnas.1610381114">published an analysis of the plan</a> in the
 same journal, finding that Jacobsen's work "involves errors, inappropriate methods, and implausible
@@ -363,7 +363,7 @@ assumptions." Clack states: "A policy prescription that overpromises on the bene
 narrower portfolio of technologies options could be counterproductive, seriously impeding the move
 to a cost effective decarbonized energy system."
 
-Then in November, 2017, Jacobsen took the scientific debate to the courts and <a
+Then in September 2017, Jacobsen took the scientific debate to the courts and <a
 href="https://www.technologyreview.com/the-download/609308/a-renewable-energy-champion-is-suing-his-scientific-critics/">sued
 Clack and the National Academy of Science for libel</a>, claiming that the publication harmed
 Jacobsen's reputation.
@@ -406,7 +406,7 @@ material, land, health, and waste footprints. The power plants run 24/7, day or 
 and they are the second most carbon-free energy source we know of (see chart above). By any credible
 scientific study, they're among the <em>safest sources of energy</em> we know, and James Hansen
 himself (the same climate champion who told Congress about greenhouse gas) has calculated that on
-the balance, the nuclear fleet has saved 1.8 million lives and offset 65 billion tonnes
+the balance, the nuclear fleet has saved 1.8 million lives and offset 64 billion tonnes
 CO<sub>2</sub>-eq by offsetting air pollution deaths and emissions from average plants that would
 have otherwise been built (<a
 href="https://blogs.scientificamerican.com/the-curious-wavefunction/nuclear-power-may-have-saved-1-8-million-lives-otherwise-lost-to-fossil-fuels-may-save-up-to-7-million-more/">see
@@ -422,7 +422,7 @@ Cook Nuclear Power Plant in Michigan" width="281" height="224" />
 Plant in Michigan</figcaption>
 </figure>
 
-The Chernobyl accident was horrible. 49 heroic first responders who tried to put the fire out died
+The Chernobyl accident was horrible. 28 heroic first responders who tried to put the fire out died
 from acute radiation poisoning, and an additional 4000 people who received significant dose are
 expected to die early from cancer (on top of the 130,000 expected natural cancers in the
 population). At Fukushima, zero people died from radiation and zero got enough dose to cause a

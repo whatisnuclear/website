@@ -126,7 +126,7 @@ href="{% link isotopes.md %}">isotopes</a> of Uranium found in nature, and that
 the rare Uranium-235 readily fissions and releases energy when it encounters a
 neutron of any energy, while the more common Uranium-238 does not. This is why
 most nuclear reactors require enrichment; to increase the concentration of
-U-235. Nuclear cross section are the details of the interaction probabilities
+U-235. Nuclear cross sections are the details of the interaction probabilities
 between neutrons and nuclei of various atoms.
 
 When a neutron strikes a nucleus, a variety of interactions may occur:

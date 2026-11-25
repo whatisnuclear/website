@@ -20,7 +20,7 @@ Most coolants are self-explanatory but there are a few things worth mentioning:
 
 - CO2 is carbon dioxide
 - H2O is water or steam or ice or plasma-water
-- D2O is deuterium-dioxide, aka heavy water. It uses hydrogen isotopes that have one extra
+- D2O is deuterium oxide, aka heavy water. It uses hydrogen isotopes that have one extra
   neutron.
 - exotic covers all gasses not listed just to be exhaustive
 
@@ -35,7 +35,7 @@ The fuel forms are fairly well-known, but we used some acronyms in the type of f
 - HEU -- High-enriched uranium (anything enriched >20%)
 - WGPu -- Weapons-grade plutonium, often leftover from weapons programs
 - RGPu -- Reactor-grade plutonium, often from reprocessed nuclear waste
-- HALEU -- High-assay low-enriched uranium; a easy word to say any uranium enriched
+- HALEU -- High-assay low-enriched uranium; an easy word to say any uranium enriched
   between 5 and 20%.
 - LEU -- low-enriched uranium; enriched but not over 5%
 - DU -- depleted uranium; mostly U-238, often tails of an enrichment plant

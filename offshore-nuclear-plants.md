@@ -74,7 +74,7 @@ PSE&G was gambling enough on siting, they wanted to use a tried-and-true reactor
 They promised to be a customer for Westinghouse PWRs if they could be built on floating
 platforms. Westinghouse knew plants, but needed help on the floating side. Thus, Offshore
 Power Systems (OPS) was formed on July 6, 1972 as a 50/50 joint venture between Tenneco
-Power Systems (who owned the Newport News shipyard) and Westinghouse Electric Corporation.
+Power Systems (which owned the Newport News shipyard) and Westinghouse Electric Corporation.
 It proposed to design, manufacture, and market complete nuclear power plants of a
 standardized design and integrated with specially designed floating platforms <sup>5</sup>.
 
@@ -443,12 +443,12 @@ a serious radiological event. With the core ladle and infinite heat sink, such a
 unlikely. Of course, the nuclear industry lost a lot of its credibility with statements
 like this after TMI.
 
-Net, offshore nuclear plants produced in a shipyard offer rare combination of
+Net, offshore nuclear plants produced in a shipyard offer a rare combination of
 improved safety and improved cost.
 
 ## Modern Echos
 
-In 2010, the U.S.S. _Carl Vinson_ aircraft carrier used it's [nuclear-powered oceanwater
+In 2010, the U.S.S. _Carl Vinson_ aircraft carrier used its [nuclear-powered oceanwater
 desalination capabilities (400,000 gallons/day capacity) to provide relief to the
 incapacitated water
 network](https://www.wsj.com/articles/BL-DISPATCHB-929) (paywall)
@@ -457,7 +457,7 @@ at Port-au-Prince, Haiti after a devastating earthquake.
 Many teams are talking about and actually building shipyard constructed FNPPs today. Most
 of the modern concepts do not have the massive concrete breakwater.
 In 2016, MIT published a study of a new [Offshore Floating Nuclear Plant
-Concept](https://dspace.mit.edu/handle/1721.1/106334). in 2019, China [announced that they would
+Concept](https://dspace.mit.edu/handle/1721.1/106334). In 2019, China [announced that they would
 start building FNPPs to power islets and offshore drilling platforms in the South China
 Sea.](https://asiatimes.com/2019/03/ocean-going-nuclear-plants-for-south-china-sea/)
 In December 2019, the Russian [Akademik
@@ -482,7 +482,7 @@ very low-carbon nuclear plants in record-breaking time with unsurpassed quality 
 economics. Tens of millions of dollars have already been spent on a massive amount of
 environmental impact. The Coast Guard, EPA, NRC, and ACRS had reason to sign-off on the
 concept in the environmentalist era. The NRC even accepted modifications made after the
-TMI accident. professional environmentalists who worked on it came to like the concept.
+TMI accident. Professional environmentalists who worked on it came to like the concept.
 
 I knew I liked the concept of floating nuclear power plants to fight climate change
 before, but I was worried about all the studies of environmental impacts that would need

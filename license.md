@@ -16,9 +16,9 @@ whatisnuclear.com
 rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative
 Commons Attribution-NonCommercial 4.0 International License</a>.
 
-This means you are free to copy and share the content as long as you link back
-to whatisnuclear.com. You may use them in commercial settings (on blogs,
-presentations, etc.) but you may not resell our content.
+This means you are free to copy and share the content, as long as you link back
+to whatisnuclear.com. Non-commercial use is permitted. Commercial use requires
+permission from the copyright holder. You may not resell our content.
 
 </div>
 </div>

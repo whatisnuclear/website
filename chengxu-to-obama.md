@@ -48,7 +48,7 @@ The replacement fuel for transportation consumption
 is already well underway. Electric cars are already slowly becoming practical
 and hydrogen fuel cells are under intense development. However, switching from
 fossil fuel to electric only serves to put more power demand burden on the
-power plants. The electricity and hydrogen has to be generated from somewhere,
+power plants. The electricity and hydrogen have to be generated from somewhere,
 and that somewhere falls right back to the power industry. If we continue to
 generate electricity using coal plants with the additional demand from electric
 cars, then we will simply increase the release of greenhouse gas and further
@@ -72,7 +72,7 @@ are limitations to their application. They all have energy efficiency limits
 and more importantly, their power density is not comparable to those of fossil
 fuel. That means to get the same amount of power output, they will need much
 more land to achieve what fossil fuel did. For example, they are planning to
-build a solar power plant in Arizona in 2011, it will generate 280MW of power
+build a solar power plant in Arizona in 2011; it will generate 280MW of power
 for 70000 homes, but it will take 1900 acres, or equivalently 7.6 million
 square meters.  This kind of power generation might work in the fields of
 Arizona, but it will not work in densely populated areas, nor will it work in
@@ -108,7 +108,7 @@ solar and wind power.  Of course, there are downsides to everything and I am
 sure you are well aware of the shortcomings of nuclear power.
 
 You have said you are willing to consider nuclear power, if it is
-safe. Although I may be biased because I am studying the field, but I do
+safe. Although I may be biased because I am studying the field, I do
 believe that over the past 50 years that nuclear power plants have been
 operating, there are only two major nuclear power plant mishaps; and the one
 that happened in Three Mile Island caused no direct deaths. Nuclear power also
@@ -125,7 +125,7 @@ imposed upon Yucca Mountain proposal. The proposal wants a nuclear fuel storage
 facility to have no more than 15 mRem of radiation per year.  To put this in
 perspective, the normal background radiation we are exposed to as everyday
 people is 360 mRem per year. Every time we take an international flight, we are
-exposed to an extra 5 mRem. To expect a facility, that is suppose to house all
+exposed to an extra 5 mRem. To expect a facility, that is supposed to house all
 the used radioactive fuel in the country to emit radiation that is less than 3
 international flights per year, puts unreasonable expectations on those
 designing and building the facility. However, the congress expects it, and the
@@ -138,7 +138,7 @@ with the accurate information about the nuclear power industry.
 The other aspect of the fear is the same kind that keeps people from
 flying. Even though more people are killed in car accidents every year than
 airplane crashes, the magnitude of a potential disaster is enough for people to
-say no to a safer option and chose a more dangerous one. This phenomenon is
+say no to a safer option and choose a more dangerous one. This phenomenon is
 happening to the nuclear power industry and we simply need to overlook this
 irrational fear and get into the cabin. Just as we can’t simply drive across
 the Pacific Ocean, we also can’t fix global warming without nuclear power.
@@ -146,7 +146,7 @@ the Pacific Ocean, we also can’t fix global warming without nuclear power.
 The only real aspect of concern against nuclear
 power is nuclear proliferation. In that regard, the government is especially
 important in providing the safety aspect with its political and diplomatic
-powers. The industrial design of every nuclear power plants takes into account
+powers. The industrial design of every nuclear power plant takes into account
 the number of guards needed and provides a difficult route to access
 potentially dangerous material. However, there is only so much the industry can
 do to deter potential terrorists and the responsibility falls upon the
@@ -163,7 +163,7 @@ level.  However, nuclear fission plants are by no means a sustainable fuel
 alternative. If demand keeps on rising as the rate it is now, the world supply
 of uranium will run out in 100 years if we replace all coal plants with nuclear
 plants. A truly sustainable energy will be nuclear fusion, that takes water as
-fuel and generate nothing but helium. Although international effort is underway
+fuel and generates nothing but helium. Although international effort is underway
 to build ITER and DEMO fusion generators, this is still a technology we still
 need to research for 50 to 60 more years. In an idealized world, we would
 completely stop development of nuclear fission plants and pour all our money
@@ -171,7 +171,7 @@ into fusion research. However, we do not have 50 to 60 years to waste and need
 a solution to replace fossil fuel now. Nuclear fission power plants are the
 only bridge that we have in order to achieve a sustainable world, and I hope
 your policies will reflect the urgency for an energy solution you have so
-eloquently spoke of.
+eloquently spoken of.
 
 Have a wonderful presidency, the whole world is watching.
 

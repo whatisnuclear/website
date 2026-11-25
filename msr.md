@@ -21,7 +21,7 @@ Molten Salt Reactors (MSRs) are nuclear reactors that use a fluid fuel in the fo
 hot fluoride or chloride salt rather than the solid fuel used in most reactors. Since the
 fuel salt is liquid, it can be both the fuel (producing the heat) and the coolant
 (transporting the heat to the power plant). There are many different types of MSRs,
-including the Molten Salt Breeder Reactor (also know commercially as the Liquid Fluoride
+including the Molten Salt Breeder Reactor (also known commercially as the Liquid Fluoride
 Thorium Reactor, or LFTR). This MSR has [Thorium]({% link thorium.md %}) and Uranium
 dissolved in a fluoride salt and can get planet-scale amounts of energy out of our natural
 resources of Thorium minerals, much like a fast breeder can get large amounts of energy
@@ -123,7 +123,7 @@ MSRs:</p>
 	have sodium fires, MSRs do well. Of course, MSR leaks are still serious because it&rsquo;s
 	not just coolant... it&rsquo;s extremely radioactive fuel.</li>
 
-<li><strong>Drain tank failure mechanism</strong> &mdash; If something goes wrong in a MSR and the
+<li><strong>Drain tank failure mechanism</strong> &mdash; If something goes wrong in an MSR and the
 	temperature starts going up, a freeze plug can melt, pouring the entire core into
 	subcritical drain tanks that are intimately linked to an ultimate heat sink, keeping them
 	cool. This is an interesting accident mitigation feature that is possible only in fluid fuel
@@ -185,7 +185,7 @@ a bomb already, they think. Here&rsquo;s what they are worried about.</p>
 	usually comes with Zr, but separating Pa from Zr is simple. Not many common reactors require
 	such a proliferative step in their fuel cycle. Many MSR concepts do not do this, but
 MSBRs (like the LFTR)
-	require it. Therefore, the owner of a MSBRs could be producing bombs on the side. Many of the
+	require it. Therefore, the owner of a MSBR could be producing bombs on the side. Many of the
 	ideas for mitigating this problem (such as U-232 contamination and denaturing) only help
 	against diversion by a nefarious third party. The owners of the plant could side-step these
 	kinds of fixes easily, and that&rsquo;s really what matters.  </li>
@@ -206,7 +206,7 @@ There are a few other concerns, but these probably have practical solutions.
   repository so someone will have to come up with a stable waste form.
 - **Electrical heaters are required to stay liquid** &mdash; in a prolonged power
   outage, the colder parts of the heat transfer loop might solidify. This could cause
-  temperatures to rise over in the core (which will of course still be self-heated liquid).
+  temperatures to rise in the core (which will of course still be self-heated liquid).
 - **Flowing delayed neutron precursors** --- since the fuel flows, the fission products
   that generate delayed neutrons are swept out of and then back into the core. The
   dynamics of this are unconventional and can lead to reactivity increases when the pump

@@ -235,7 +235,7 @@ href="https://www.iaea.org/resources/databases/power-reactor-information-system-
 
 Outside the US, many countries took a focused single-design focused approach. France
 chose the PWR and produced them in serial. South Korea did similar. Japan largely
-chose BWRs. Construction trends in these countries is described in detail in
+chose BWRs. Construction trends in these countries are described in detail in
 Lovering, 2016<sup>9</sup>. The Korean approach of choosing one design,
 optimizing the heck out of it, and building lots of them is described lucidly
 by KunMo Chung in [this enlightening Titans of Nuclear podcast
@@ -384,8 +384,7 @@ The experts concluded that the following will help nuclear economics:
 In 2018, MIT issued a report entitled [The Future of
 Nuclear Energy in a Carbon-Constrained
 World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/).
-The study highlighted the fact that nuclear still only provided 5% of the global
-world energy. It studied modern trends and concluded that US and European new builds demonstrate
+The study highlighted the fact that nuclear still only provided 5% of the global energy. It studied modern trends and concluded that US and European new builds demonstrate
 repeated failure of construction management. They recommended:
 
 - **Complete detailed design** prior to construction

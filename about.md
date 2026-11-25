@@ -132,7 +132,7 @@ If you want to reference just a single page, it may look like:
 <p class="bg-warning">Touran, Nick. &quot;What is Nuclear Waste?&quot; <em>WhatIsNuclear</em>, whatisnuclear.com/waste.html. Accessed 23 Jun. 2024.</p>
 
 If no Author is listed on a given article, just assume it is Nick Touran. Publication dates vary and
-things are continuously updated so the Accessed date is more better than nothing if no publication
+things are continuously updated so the Accessed date is better than nothing if no publication
 date is given.
 
 ## Contributing

@@ -120,7 +120,7 @@ Half-life (years)
 A thing's half-life is how long until only half of it is left. It's used
 in radioactive decay, medicine, and many other things. Remember:
 
-- Hazards in radiation are proportional the rate at which energy comes out.
+- Hazards in radiation are proportional to the rate at which energy comes out.
 - Short half-lives imply energy is coming out quickly, and are the primary hazard.
 - Long half-lives imply energy is coming out very slowly, and are less
   of a hazard. For example, you can hold long half-life isotopes of natural

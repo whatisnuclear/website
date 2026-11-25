@@ -60,7 +60,7 @@ Find more details offsite at: <a href="https://www.euronuclear.org/glossary/radi
 
 When it comes to judging safety of radiation, we run into a lot of uncertainty. The only real data we have on the health effects of radiation
 come from the victims of the nuclear bombings in Japan and from victims of other very high-radiation accidents. So we know quite well that receiving
-a very large dose in a very short time (hours or days) is very dangerous. In fact, 50% of people receiving over 300 REM in a short time will die within 30 days
+a very large dose in a very short time (hours or days) is very dangerous. In fact, 50% of people receiving over 400 REM in a short time will die within 30 days
 of severe radiation poisoning. To get such a dose, you would have to stand very close (with no shielding) to a nuclear chain reaction or some
 other highly intense radiation source, such as a freshly spent fuel rod. So, obviously, a lot of radiation is very bad.
 

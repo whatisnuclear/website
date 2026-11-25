@@ -992,7 +992,7 @@ years, the city would have an option to purchase the plant from the AEC. Given t
 experience from the OMRE, Atomics International was again contracted to design and build
 the Piqua plant.
 
-Piqua was brought to criticality on June 1963, and reached full power in January 1964.
+Piqua was brought to criticality in June 1963, and reached full power in January 1964.
 The plant produced 20% of Piqua's power in 1965, and the city proudly referred to itself
 as _The Atomic City_.
 

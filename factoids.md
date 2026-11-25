@@ -124,8 +124,8 @@ bring us into the same problem we have with oil? The answer is yes, unless we
 recycle our fuel. Or if we find a way to extract Uranium cheaply from the sea
 water (not economically feasible yet). If we <a
 href="{% link recycling.md %}">recycle and breed</a>, the known uranium
-reserves effectively go up by a factor of at least 8, taking us into the 16,000
-year range. If we find a way to get Uranium out of the ocean, we're talking
+reserves effectively go up by a factor of at least 8, taking us from
+~220 years to over 1,700 years of supply. If we find a way to get Uranium out of the ocean, we're talking
 hundreds of thousands of years. Also, nuclear reactors can operate on the
 element Thorium instead of Uranium, which gives us even more time. So, this is
 certainly something to worry about if we decide to build a lot of nuclear

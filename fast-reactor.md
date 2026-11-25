@@ -238,7 +238,7 @@ materials inside fast reactors thus undergo higher radiation damage rates than t
 slow-neutron reactors.
 
 <h2 id="howtomake">How do we make a reactor fast or slow?</h2>
-Nuclear reactors need to cool fuel as they undergoes the fission chain reaction.
+Nuclear reactors need to cool fuel as they undergo the fission chain reaction.
 Water is the standard coolant of other power plants for various reasons (it plays well
 with steam turbines, is clean, is plentiful, has decent thermal properties, etc.), so
 it was an obvious candidate for nuclear reactors. Luckily, it doesn&rsquo;t eat up too

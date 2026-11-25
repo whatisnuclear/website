@@ -117,7 +117,7 @@ The 1979 Three Mile Island accident and the 1986 Chernobyl accident further
 slowed the deployment of nuclear reactors. Tighter regulations brought costs
 higher. The 1986 passive safety tests at EBR-II prove that advanced reactor
 designs (besides the ones originally used to make submarines) can be
-substantially safer. These tests have major failures occur with no control rods
+substantially safer. These tests experienced major failures with no control rods
 inserted and the reactors shut themselves down automatically.
 
 In 1993, the Megatons to Megawatts treaty with Russia is signed to downblend
@@ -129,16 +129,16 @@ combined with ongoing worries of global climate change due to carbon emissions b
 where new builds might start up substantially again. Meanwhile, strong interest in Asia strengthens and ambitious plans to build large fleets
 are made to satisfy growing energy needs without adding more fossil fuel.
 
-In March, 2011, a large earthquake and tsunami inundate the reactors at Fukushima Daiichi. Backup diesel generators fail and the decay heat
+In March 2011, a large earthquake and tsunami inundate the reactors at Fukushima Daiichi. Backup diesel generators fail and the decay heat
 cannot be cooled. Fuel melts, hydrogen builds up and explodes (outside of containment). Radiation is released, but much of it goes out to sea
 instead of into populated area. No people expected to die from radiation dose.
 
 ## Going forward
 
-In March, 2013, famous climate scientist James Hansen co-publishes a paper from NASA computing that, even with worst case estimates of nuclear accidents,
+In March 2013, famous climate scientist James Hansen co-publishes a paper from NASA computing that, even with worst case estimates of nuclear accidents,
 nuclear energy as a whole has saved 1.8 million lives and counting by offsetting the air-pollution related deaths that come from fossil fuel plants.
 
-September 2013, Voyager I enters interstellar space, 36 years after its launch. It is powered by a Plutonium-238 radioisotopic thermal generator.
+2012, Voyager I enters interstellar space, 34 years after its launch. It is powered by a Plutonium-238 radioisotopic thermal generator.
 
 <p>Visit <a href="">our main page</a> to learn more about nuclear energy.</p>
 
@@ -232,12 +232,12 @@ paper claiming nuclear has saved 1.8 million
 lives total (including worst-case estimates for
 all accidents) by offsetting air-pollution related
 deaths
-1994 Megatons to Megawatts program
+1993 Megatons to Megawatts program
 started, turns 20,000 nuclear weapons into
 electricity. By 2000, ~10% of US electricity
 comes from dismantled Russian warheads
-2013 Voyager I enters interstellar space after
-traveling the solar system for 36 years. It is
+2012 Voyager I enters interstellar space after
+traveling the solar system for 34 years. It is
 powered by a Plutonium-238 radioisotopic
 thermal generator
 </div>

@@ -37,13 +37,13 @@ To get practical fusion, you need five things:
 - high (enough) plasma density (so there are lots of fusions but not too many electrons to slow you down), and
 - self-sustaining processes (energy from fusion must outweigh energy radiated as loss)
 - high plasma purity (so high-Z materials don't cause losses)
-- adequate confinement of the plasma (so there are lots of collision)
+- adequate confinement of the plasma (so there are lots of collisions)
 
 There are three fundamental ways people have tried to do this:
 
 - **Inertial confinement** --- Using lasers and/or x-rays and/or mechanical compression to squeeze
   atoms together really well. Examples include the US National Ignition Facility
-- **Magnetic confinement** --- Using superconducting magnets in to squeeze atoms together really
+- **Magnetic confinement** --- Using superconducting magnets to squeeze atoms together really
   well. Examples include tokamaks, stellarators, spheromaks, etc.
 - **Gravitational confinement** --- Using a ridiculously huge mass to make enough gravity to cause
   fusion. The sun and stars do this but humans won't be doing it anytime soon.
@@ -81,7 +81,7 @@ If you use a super-rare isotope of Helium (Helium-3), which is typically propose
 the surface of the moon, you can fuse it with deuterium or itself and cause aneutronic fusion, which
 is much easier to contain because the resulting proton can be contained magnetically.
 
-There are other fusion fuels out there too to keep an eye one.
+There are other fusion fuels out there too to keep an eye on.
 
 ## See Also
 

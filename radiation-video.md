@@ -14,7 +14,7 @@ Here's a video of some radiation detection that we made. Basically, we use a
 high-purity germanium gamma detector to see the spectrum of gamma-radiation
 from various sources. Then, we take the sources over to a Geiger-Mueller survey
 meter to get counts/minute readings. Alpha and beta radiation can be detected
-by the GM meter. We detect radiation from A Cobalt-60 check source, salt
+by the GM meter. We detect radiation from a Cobalt-60 check source, salt
 substitute, a Thorium lantern mantle, Uranium mineral, a smoke detector, and an
 old fiesta-ware plate.
 

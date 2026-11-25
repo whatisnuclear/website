@@ -75,7 +75,7 @@ As was typical in the [history of reactor development]({% link reactor-history.m
   of Lincoln, Nebraska.
 
 As was common in the pioneering days of nuclear, these reactors were not without
-issues. SRE had a coolant issue that led to melted fuel, and Hallam had issues
+issues. SRE had a coolant issue that led to fuel damage, and Hallam had issues
 with the moderator cans leaking, allowing sodium to contact the graphite and
 cause swelling. The vendor, Atomics International, figured out solutions to
 these issues but did not make enough progress to convince Consumers Public Power

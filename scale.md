@@ -27,7 +27,7 @@ So how much stuff would we have to lift up to replace a single <a
 href="{% link reactors.md %}">nuclear reactor</a>? Well, a standard reactor provides 1000 MW of
 electricity. Let&rsquo;s say we can lift our heavy objects to the top of the spire of the tallest
 building in the world, <a href="https://en.wikipedia.org/wiki/Burj_dubai">the Burj Khalifa
-[Wikipedia]</a>, which is at 818 meters. We&rsquo;ll also say that a night last 9 hours. Watts are
+[Wikipedia]</a>, which is at 818 meters. We&rsquo;ll also say that a night lasts 9 hours. Watts are
 Joules per second, so we just multiply 1000 MW by the number of seconds in 9 hours: 32400, to get
 32400000 MJ of energy. Gravitational potential energy is mass _ height _ acceleration due to
 gravity, or 818 m _ 9.8 m/s<sup>2</sup> _ mass. Solving for mass by division, we get mass =

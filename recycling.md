@@ -71,7 +71,7 @@ nucleus) flies off into nature.
 When U-238 absorbs a neutron in a reactor, it becomes U-239, the isotope with
 one extra neutron than U-238. This unstable nuclide beta-decays quickly into
 Np-239. Then, the Np-239 beta-decays again to become Pu-239, a fissile isotope
-that can power nuclear reactors. A analogous process happens when Thorium-232
+that can power nuclear reactors. An analogous process happens when Thorium-232
 absorbs a neutron to become fissile Uranium-233.
 
 <img class="img-fluid mx-auto d-block w-100" src="/img/breeding.svg" title="An
@@ -153,7 +153,7 @@ material you pack in, the more neutrons get invested in it, generating fissile m
 <div class="alert alert-success" role="alert" markdown="1">
 <strong>Note:</strong> 
 You can read more about [fast reactors]({% link fast-reactor.md %}) and [thorium
-reactors]({% link thorium.md %}).  Note that all thorium are necessarily breeder
+reactors]({% link thorium.md %}).  Note that all thorium reactors are necessarily breeder
 reactors, since natural thorium has no fissile component.
 </div>
 

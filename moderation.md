@@ -111,8 +111,8 @@ The word _thermal_ in _thermal reactors_ indicates that the neutrons causing the
 most fissions are in thermal equilibrium with their surrounding atoms. All atoms
 vibrate based on their temperature, and so when neutrons slow _all the way_
 down, they don't stop, but rather get jostled around by the atoms they are
-around. So thermal reactors is just a technical way of saying that the nuclear
-reactors has slow neutrons in it, slowed down by a moderator.
+around. So thermal reactors are just a technical way of saying that the nuclear
+reactors have slow neutrons in them, slowed down by a moderator.
 
 The alternate to thermal (aka slow-neutron) reactors are [fast reactors]({% link
 fast-reactor.md %}), which intentionally do not have moderators placed in them.

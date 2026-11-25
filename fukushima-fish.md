@@ -38,11 +38,11 @@ the normal annual dose in the Pacific Northwest (6 mSv, 3 mSv from
 natural sources, 3 mSv from mainly medical exposures).  About 1/3rd of
 the dose from said highest Cs level albacore is from pre-Fukushima
 weapons fallout.  The average american eats about 7 kg of albacore in a
-year, which puts an reasonable upper limit of about 126 uSv over the
+year, which puts a reasonable upper limit of about 126 nSv over the
 course of a year, and you'd need to live for over 47,000 years before
 you ate enough albacore to result in a CEDE equal to the normal annual
 dose.  Even if your entire diet (2,000 calories per day) was nothing
-from albacore, and all of it was at the highest levels we've ever seen,
+but albacore, and all of it was at the highest levels we've ever seen,
 and ignoring the fact this radioactivity is decaying and won't be around
 forever, we're talking 578 years before you'd eat enough albacore to
 reach that benchmark of 330,000 kg (and end up with a lifetime dose

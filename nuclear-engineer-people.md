@@ -88,7 +88,7 @@ My work is to study an accident called the "one drop uncontrolled extraction". T
 description of the accident is useless in order to understand my job so I will try to explain what
 means "performing a methodology of study". A nuclear reactor, like any high technology and high
 safety product such as a plane, firstly is designed by engineers. Before building the first one, a
-safety commission studies very precisely the plant and perform very rigorous tests. Afterwards you
+safety commission studies very precisely the plant and performs very rigorous tests. Afterwards you
 get a license which gives you the authorization to build several plants. The problem is that your
 plant is not exactly the same as the model used during the safety instruction, consequently it has
 to be demonstrated that the plant still satisfies the safety requirements. Fortunately, the whole
@@ -98,7 +98,7 @@ few key points we need to check in order to be sure our plant would stay safe in
 Furthermore, the method is used every time the reactor is refueled.
 
 In order to establish those points I need to perfectly know what happens during the accident. It
-means I need to run simulations of the transient in all conditions, on several type of reactors. To
+means I need to run simulations of the transient in all conditions, on several types of reactors. To
 give numbers, I guess I have run more than a thousand simulations during my 10 months of work in
 order to be able to extract the criteria that are going to be studied each time some new fuel is
 loaded in the plant.
@@ -113,18 +113,18 @@ organization we would be able to check very quickly.
 Something else very specific to my job is that the study has to be as accurate as possible. We are
 told to take the time we need in order to be really sure that our analysis is the right one.
 Consequently we are the lucky ones who are not so stressed by the time and who can go really deep in
-the analyses. We eventually have a very good understanding or the accident which is really pleasant.
+the analyses. We eventually have a very good understanding of the accident which is really pleasant.
 On the other hand, we don't have many interactions with other fields of study that can be very
 interesting.
 
 ### FEELINGS
 
-Even though my first time were really hard especially because of data losses and because of the high
+Even though my first time was really hard especially because of data losses and because of the high
 number of parameters you have to adjust for each transient simulation. A mistake is quickly done and
 several of them were found in my work. Meanwhile, with time going on, I really improve and start to
 forget those practical problems and to focus on more theoretical and interesting subjects.
 
-As a conclusion I would like to express on my joy of being part of the nuclear renaissance and for a
+As a conclusion I would like to express my joy of being part of the nuclear renaissance and for a
 pollution-free energy source. I can see it in my everyday life with the numerous new employees we
 welcome in our department, it is very pleasant to work in a young and motivated atmosphere.
 

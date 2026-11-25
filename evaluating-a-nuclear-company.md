@@ -321,14 +321,14 @@ Hands-on experience with core environment
 * Detailed specifications in progress
 </td>
 <td markdown="1">
-* Prototypes of key components/equipment has been supplied and are under testing
+* Prototypes of key components/equipment have been supplied and are under testing
 * Detailed specifications fully defined for major equipment
 * Suppliers have provided feedback on specifications for key equipment considering manufacturing
 </td>
 <td markdown="1">
 * Suppliers have provided feedback on specifications for all equipment considering manufacturing
 * Detailed specifications fully defined for all equipment
-* Full-scale versions of key components/equipment has been supplied and is under testing/acceptance
+* Full-scale versions of key components/equipment have been supplied and are under testing/acceptance
 </td>
 </tr>
 
@@ -480,7 +480,7 @@ As a reactor product is built and operated, various issues and challenges will i
 encountered. The design will be adjusted slightly by the owner as equipment is swapped out
 or adjusted during maintenance and operation. This evolving design during operation may
 be called production design. Depending on the severity of the challenges, an updated
-design may be called for for future units. This may required updating licensing documents
+design may be called for for future units. This may require updating licensing documents
 and undergoing another round of design certification.
 
 ## Design Deliverables

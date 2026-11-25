@@ -36,8 +36,8 @@ considered "born" and atoms can no longer come in or out of the system. At this
 point, its radiometric clock starts ticking.
 
 <div class="thumbnail">        
-    <img class="img-fluid" src="/img/Rb-Sr-clock1.png" alt="cartoon of a rock it differing concentrations of Rb and Sb in different sections of the rock"/>
-    <p><strong>Figure 1.</strong> Schematic diagram of a rock with different concentrations of Rb and Sb throughout.</p>
+    <img class="img-fluid" src="/img/Rb-Sr-clock1.png" alt="cartoon of a rock it differing concentrations of Rb and Sr in different sections of the rock"/>
+    <p><strong>Figure 1.</strong> Schematic diagram of a rock with different concentrations of Rb and Sr throughout.</p>
 </div>
 
 Though the Rb and Sr concentrations differ, it's safe to assume that the

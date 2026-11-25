@@ -177,7 +177,7 @@ Skipping forward, we reach the point where I started taking better notes!
 
 124 As policy questions regarding reactor development and weapons testing grew, the
 nature of the AEC inevitably shifted from a clear and focused military mission of
-producing weapons material and weapons questions of a political nature. The AEC
+producing weapons material and weapons to questions of a political nature. The AEC
 engaged in international affairs and domestic economic matters.
 
 135 The term _special nuclear materials_ replaced _fissionable materials_ in a bill
@@ -188,7 +188,7 @@ in order to cover things like tritium or deuterium.
 154-155 In some of the high-yield weapons tests in Nevada during
 [Upshot-Knothole](https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole), dose rates from fallout reached 0.46
 roentgens/hour and Graves ordered road-blocks to be set up and washed some contaminated cars at government expense. The
-_Harry_ shot cause the most serious fallout. Local schools kept children indoors and the community at St. George came
+_Harry_ shot caused the most serious fallout. Local schools kept children indoors and the community at St. George came
 to a standstill for several hours. The community was tense.
 
 157 After the _Simon_ shot was unexpectedly 43 kilotons of yield, sheepmen reported

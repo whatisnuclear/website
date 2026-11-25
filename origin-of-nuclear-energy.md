@@ -22,7 +22,7 @@ Now, nuclear reactions are just like chemical reactions in that they are either 
 they release energy, or endothermic, meaning that they require energy to go in the first place. The
 energy required or released in any nuclear reaction can be determined by measuring the Q value of a
 reaction, which is just the mass difference between final and initial nuclides multiplied by the
-speed of light squared (E=mc<sup>2</sup>. This difference is equivalent to a difference in an intrinsic property of all nuclei,
+speed of light squared (E=mc<sup>2</sup>). This difference is equivalent to a difference in an intrinsic property of all nuclei,
 the _nuclear binding energy_. As seen in the figure below, it just so happens that the maximum binding
 energy per nucleon occurs somewhere near iron, making iron the most stable element in the universe.
 

@@ -8,8 +8,7 @@ reading_time: false
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-We welcome messages from our readers and will try to respond to any questions
-for feedback you have. Your personal information will not be used for anything
+We welcome messages from our readers and will try to respond to any questions or feedback you have. Your personal information will not be used for anything
 except replying to you.
 
 <div class="alert alert-success" role="alert">
