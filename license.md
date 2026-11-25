@@ -7,7 +7,7 @@ title: License
 <div class="col-md-8" markdown="1">
 # License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img
+<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
 src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" /></a><br />
 <span>

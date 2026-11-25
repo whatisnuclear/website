@@ -166,7 +166,7 @@ effects that can eat away at the containment. The implications of this are many.
 	the liquid Bismuth reductive process, volatilization, or electoplating. These have been
 	studied in detail, but are complex enough to be a disadvantage. Don&rsquo;t make us post a
 	process flow diagram. (You can find one from the MSBR on page 8 of <a
-    href="http://www.osti.gov/scitech/biblio/6650305">ORNL-TM-6413</a>.)</li>
+    href="https://www.osti.gov/scitech/biblio/6650305">ORNL-TM-6413</a>.)</li>
 
 </ul>
 
@@ -329,9 +329,9 @@ from the US NRC to allow them to build a small molten salt research reactor
 <p>Several start-up companies have emerged to commercialize molten salt reactors. In Canada, <a
 href="https://terrestrialenergy.com/">Terrestrial Energy</a> is working on small modular MSRs,
 featuring small reactor vessels that can be swapped out of a plant every 7 years or so. <a
-href="http://thorconpower.com/">ThorCon</a> is using its extensive experience in the ship-building
+href="https://thorconpower.com/">ThorCon</a> is using its extensive experience in the ship-building
 industry to develop MSRs that need no new technology and can be built in the very near term. In
-Alabama, Kirk Sorensen himself runs a company called <a href="http://flibe-energy.com/">Flibe
+Alabama, Kirk Sorensen himself runs a company called <a href="https://flibe-energy.com/">Flibe
 Energy</a> targeting the development of small modular Thorium-MSRs. These companies represent the
 modern revival of interest in MSRs and we wish them all the best!</p>
 
@@ -352,7 +352,7 @@ modern revival of interest in MSRs and we wish them all the best!</p>
   long it will probably take, and how much it will cost. It's a true wonder.
 - [Molten-Salt Reactors—History, Status, and Potential](https://www.tandfonline.com/doi/abs/10.13182/NT70-A28619) — An
   excellent discussion of the history of MSRs. Alternate download
-  [here](http://moltensalt.org/references/static/downloads/pdf/NAT_MSRintro.pdf)
+  [here](https://moltensalt.org/references/static/downloads/pdf/NAT_MSRintro.pdf)
 - [MSRE Design and Operations Report, Part I, Description of Reactor Design
   (ORNL-TM-728)](https://www.osti.gov/biblio/4654707) — A description of the Molten Salt Reactor Experiment design. This
   is part of a 10-part series describing the experience with the MSRE. All documents are widely available.

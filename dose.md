@@ -68,7 +68,7 @@ Less extreme doses can still have serious health effects. Radioactive particles 
 DNA and killing them, or causing them to become cancerous. Our skin provides good defense against much of the radiation
 we encounter on a daily basis. But when ingested, or uptaken into the body (like in the thyroid), very small amounts
 of radioactive material can cause serious illness and death. An example of this would be the terrible
-<a href="http://en.wikipedia.org/wiki/Alexander_Litvinenko_poisoning">poisoning of Alexander Litvinenko [wikipedia]</a>.
+<a href="https://en.wikipedia.org/wiki/Alexander_Litvinenko_poisoning">poisoning of Alexander Litvinenko [wikipedia]</a>.
 As a result of the <a href="{% link chernobyl-main.html %}">Chernobyl disaster</a>, many cases of thyroid cancer were reported (thankfully,
 these were mostly treatable). Worse, you cannot smell or see radiation. It's nearly undetectable without special
 instruments. These are the reasons many people are terrified of radiation.

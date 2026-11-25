@@ -37,7 +37,7 @@ There are two main types of nuclear-powered submarines:
 
 <a href="/img/sub-boomer-cutaway.jpg"><img class="img img-fluid" src="/img/sub-boomer-cutaway.jpg" alt="A ballistic missile submarine cutaway from the Smithsonian"/></a>
 
-<p class="caption"><strong>Figure 1.</strong> An <em>Ohio</em>-class ballistic missile submarine. (From <a href="http://americanhistory.si.edu/subs/const/anatomy/boomers/index.html#">The Smithsonian)</a></p>
+<p class="caption"><strong>Figure 1.</strong> An <em>Ohio</em>-class ballistic missile submarine. (From <a href="https://americanhistory.si.edu/subs/const/anatomy/boomers/index.html#">The Smithsonian)</a></p>
 Ballistic missile subs (AKA "boomers") are not only
 powered by a nuclear reactor, but they also carry a large amount 
 of missiles with thermonuclear weapons for warheads. These submarines
@@ -50,7 +50,7 @@ be anywhere. In essence, these prevent people from nuking other people.
 
 <a href="/img/sub-fast-attack-cutaway.jpg"><img class="img img-fluid" src="/img/sub-fast-attack-cutaway.jpg" alt="A fast attack submarine cutaway from the Smithsonian."/></a>
 
-<p class="caption"><strong>Figure 2.</strong> A <em>Los Angeles</em>-class fast-attack submarine. (From <a href="http://americanhistory.si.edu/subs/const/anatomy/attacks/index.html">The Smithsonian</a>)</p>
+<p class="caption"><strong>Figure 2.</strong> A <em>Los Angeles</em>-class fast-attack submarine. (From <a href="https://americanhistory.si.edu/subs/const/anatomy/attacks/index.html">The Smithsonian</a>)</p>
 Fast attack subs are the hunter-killers of the sea. 
 Their job is to hunt down and destroy other submarines or vessels. 
 They're fast and typically armed with things like Tomahawk missiles,
@@ -117,8 +117,8 @@ charged by nearby nuclear power plants.
 
 - [Nuclear-powered Ships from the World Nuclear
   Association](https://www.world-nuclear.org/information-library/non-power-nuclear-applications/transport/nuclear-powered-ships.aspx)
-- [Fast attacks & Boomers](http://americanhistory.si.edu/subs/operating/propulsion/reactor/index.html#) (Smithsonian)
-- [Submarine Power & Propulsion](http://americanhistory.si.edu/subs/operating/propulsion/index.html) (Smithsonian)
+- [Fast attacks & Boomers](https://americanhistory.si.edu/subs/operating/propulsion/reactor/index.html#) (Smithsonian)
+- [Submarine Power & Propulsion](https://americanhistory.si.edu/subs/operating/propulsion/index.html) (Smithsonian)
 - [Nuclear Marine Propulsion](https://en.wikipedia.org/wiki/Nuclear_marine_propulsion) (Wikipedia)
 - [Offshore nuclear power plants]({% link offshore-nuclear-plants.md %}) ---
   the idea of building central power plants at sea rather than using them for marine

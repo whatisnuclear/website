@@ -242,7 +242,7 @@ can agree that there are reasons to try to get it even further away from the bio
 There is scientific consensus that putting the nuclear waste in geologic formations that
 are expected to be stable for many millions of years is appropriate (e.g. see the [Blue
 Ribbon Commission report (pdf)](https://www.energy.gov/sites/prod/files/2013/04/f0/brc_finalreport_jan2012.pdf) and
-the [2020 OECD report](http://www.oecd-nea.org/rwm/pubs/2020/7532-dgr-geological-disposal-radioactive-waste.pdf)
+the [2020 OECD report](https://www.oecd-nea.org/rwm/pubs/2020/7532-dgr-geological-disposal-radioactive-waste.pdf)
 (pdf) on waste disposal). This way, if the material is released in the far future, it
 will have already released all of its afterglow heat and will be radiologically inert.
 
@@ -485,7 +485,7 @@ include oxygen in UO<sub>2</sub> or structural material such as zirconium.</capt
 See Also
 </h2>
  * [Management and Disposal of High-Level Radioactive Waste: Global Progress and Solutions
-   (OECD/NEA 2020)](http://www.oecd-nea.org/rwm/pubs/2020/7532-dgr-geological-disposal-radioactive-waste.pdf)
+   (OECD/NEA 2020)](https://www.oecd-nea.org/rwm/pubs/2020/7532-dgr-geological-disposal-radioactive-waste.pdf)
    -- OECD/NEA pdf report on the situation with waste from 2020
  * [Management of Spent Fuel from Nuclear Power
    Reactors](https://www.iaea.org/publications/magazines/bulletin/60-2) -- IAEA Bulletin
@@ -502,7 +502,7 @@ summarizing much of the current state of nuclear waste management
  * [The IAEA Online Information Resource for Radioactive Waste Management](https://www.iaea.org/topics/radioactive-waste-and-spent-fuel-management)
  * [Deep Borehole Disposal (DBD) of Radioactive Waste](https://www.osti.gov/servlets/purl/1420819)
  * [NEI nuclear waste storage stats](https://www.nei.org/resources/statistics/used-fuel-storage-and-nuclear-waste-fund-payments)
- * [Fission product yields from The National Nuclear Data Center](http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.1&nsub=11)
+ * [Fission product yields from The National Nuclear Data Center](https://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.1&nsub=11)
  * [The Onkalo nuclear waste repository (wiki)](https://en.wikipedia.org/wiki/Onkalo_spent_nuclear_fuel_repository)
  * [The Hiding Place: Inside the World's First Long-Term Storage Facility for Highly Radioactive Nuclear Waste](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-term-storage-facility-for-highly-radioactive-nuclear-waste)
  * [Energy Northwest Video of dry casks](https://www.youtube.com/watch?v=EUvvIzH2W6g)

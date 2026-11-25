@@ -81,7 +81,7 @@ m deep water.
    (2009)
 3. [Kiryukhina, Eyewitness: Tragedy of Soviet nuclear submarine K-27, January
    24, 2013](https://www.bbc.com/news/world-europe-21148434)
-4. [K-27 on deepstorm.ru](http://www.deepstorm.ru/DeepStorm.files/45-92/nts/645/k27/k27.htm)
+4. [K-27 on deepstorm.ru](https://www.deepstorm.ru/DeepStorm.files/45-92/nts/645/k27/k27.htm)
 
 </div>
 </div>

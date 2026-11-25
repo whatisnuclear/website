@@ -87,7 +87,7 @@ inputs and run them for you. The unit cell calcs provide:
 - Migration area
 
 I used the open-source reactor physics codes
-[DRAGON](http://merlin.polymtl.ca/version5.htm) and
+[DRAGON](https://merlin.polymtl.ca/version5.htm) and
 [OpenMC](https://docs.openmc.org/en/latest/#) using ENDF/B-VII.1 cross section
 input.
 

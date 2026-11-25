@@ -83,7 +83,7 @@ work.](https://www.youtube.com/watch?v=OeTjXxWvPTc)
   climate change!). Here's a [paper they
   wrote](https://doi.org/10.1063/1.1750068).
 - 7 - worked with Rashevsky on early Mathematical Biophysics (here's his Ph.D.
-  [dissertation record](http://pi.lib.uchicago.edu/1001/cat/bib/4284820)).
+  [dissertation record](https://pi.lib.uchicago.edu/1001/cat/bib/4284820)).
 - 8- Ph.D. work was on cell metabolism related to concentration gradients and
   diffusion. He learned the classical mathematical theory of diffusion here.
   This was why he got involved in pioneering the field of neutron diffusion
@@ -178,10 +178,10 @@ build reactors that could produce plutonium for the bomb.
   exploration of the different types of reactors that could be built. Lee Ohlinger minutes from the
   New Piles Committee are apparently awesome. Good reads on the earliest reactor concepts. Try to
   find!!! Breeder idea April 26, 1944. In 2004, ANS published [some
-  info](http://www2.ans.org/pubs/magazines/nn/docs/2004-11-3.pdf) on the New Piles meetings including
+  info](https://www2.ans.org/pubs/magazines/nn/docs/2004-11-3.pdf) on the New Piles meetings including
   some references. I have found many of the documents at [the ORNL library](https://libcat.ORNL.gov)
   by searching for MUC-LAO in the report number. For example, [this
-  one](https://technicalreports.ORNL.gov/1944/3445605702870.pdf) discusses some pretty wild reactors.
+  one](http://technicalreports.ORNL.gov/1944/3445605702870.pdf) discusses some pretty wild reactors.
   These are the first documented reactor brainstorming sessions.
   <figure>
   <a href="/img/new-piles-committee-reactors.png"><img src="/img/new-piles-committee-reactors.png" alt="Some early reactor ideas from a New Piles Committee meeting" class="img img-fluid center-block" width="400"></a>
@@ -426,7 +426,7 @@ eliminated the need for this.
 - Three separate attempt of fluid breeders were under way when HRE-2 burned a
   hole in the ZR tank. AEC dropped AHRs.
 - 125 - [MSR
-  adventure](http://moltensalt.org/references/static/downloads/pdf/MSadventure.pdf)
+  adventure](https://moltensalt.org/references/static/downloads/pdf/MSadventure.pdf)
   by MacPherson is what W uses to recollect MSR info
 - AEC agreed that fluid breeders were important and told ORNL to proceed.
 - Mac was a convert from ORSORT school

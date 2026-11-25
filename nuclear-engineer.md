@@ -130,7 +130,7 @@ powerful detectors), and various other companies with some interest in the nucle
 # Distribution of nuclear engineers
 
 <table class="table table-striped">
-<caption>How many nuclear engineers work in different parts of the nuclear engineering world. [Source: <a href="http://www.bls.gov/home.htm">US Bureau of Labor Statistics (2006)</a>]</caption>
+<caption>How many nuclear engineers work in different parts of the nuclear engineering world. [Source: <a href="https://www.bls.gov/home.htm">US Bureau of Labor Statistics (2006)</a>]</caption>
 <tr><th>Industry</th><th ># of employees</th><th>Annual mean wage (USD)</th></tr>
 <tr><th>Scientific Research and Development Services</th><td>4,490</td><td>$97,530</td></tr>
 <tr><th>Electric Power Generation, Transmission, and Distribution</th><td>4,170</td><td>$90,530</td></tr>
@@ -142,6 +142,6 @@ powerful detectors), and various other companies with some interest in the nucle
 
 ## References
 
-1. <a href="http://www.bls.gov/oes/current/oes172161.htm">US Dept. of Labor, Bureau of Labor Statistics - Nuclear engineers, May 2006</a>
+1. <a href="https://www.bls.gov/oes/current/oes172161.htm">US Dept. of Labor, Bureau of Labor Statistics - Nuclear engineers, May 2006</a>
 </div>
 </div>

@@ -89,8 +89,8 @@ Well-designed buildings can use the greenhouse effect for passive heating on col
 
 <h2 id="references">References</h2>
 
-- http://www.sailgb.com/c/solar_panels/
-- http://www.nrel.gov/gis/images/us_pv_annual_may2004.jpg
+- https://www.sailgb.com/c/solar_panels/
+- https://www.nrel.gov/gis/images/us_pv_annual_may2004.jpg
 
 </div>
 </div>

@@ -181,10 +181,10 @@ distributions for the most part strongly suggests that this is true.
 
 <ol>
 <li><a href="{% link math-behind-radioactive-decay.html %}">The mathematics of radioactive decay</a></li>
-<li><a href="http://channel.nationalgeographic.com/cosmos-a-spacetime-odyssey/episodes/the-clean-room/">COSMOS - The Clean Room</a> The COSMOS episode that inspired my friend Peter to ask questions about this stuff. These questions inspired this page.</li>
-<li>Details of some common <a href="http://metadata.berkeley.edu/nuclear-forensics/Decay%20Chains.html">decay chains</a></li>
-<li><a href="http://atom.kaeri.re.kr/">KAERI Chart of the Nuclides</a></li>
-<li><a href="http://www.asa3.org/ASA/PSCF/2007/PSCF3-07Young.pdf">Young - How Old Is It? How Do We Know? A Review of Dating Methods Part Two: Radiometric Dating: Mineral, Isochron and Concordia Methods</a></li>
+<li><a href="https://channel.nationalgeographic.com/cosmos-a-spacetime-odyssey/episodes/the-clean-room/">COSMOS - The Clean Room</a> The COSMOS episode that inspired my friend Peter to ask questions about this stuff. These questions inspired this page.</li>
+<li>Details of some common <a href="https://metadata.berkeley.edu/nuclear-forensics/Decay%20Chains.html">decay chains</a></li>
+<li><a href="https://atom.kaeri.re.kr/">KAERI Chart of the Nuclides</a></li>
+<li><a href="https://www.asa3.org/ASA/PSCF/2007/PSCF3-07Young.pdf">Young - How Old Is It? How Do We Know? A Review of Dating Methods Part Two: Radiometric Dating: Mineral, Isochron and Concordia Methods</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Radiocarbon_dating">Radiocarbon dating [Wikipedia]</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Age_of_universe">Age of universe [Wikipedia]</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Stellar_nucleosynthesis">Stellar nucleosynthesis [Wikipedia]</a></li>
@@ -193,8 +193,8 @@ distributions for the most part strongly suggests that this is true.
 
 <h1 id="references">References</h1>
 <ol>
-<li><a href="http://www.onafarawayday.com/Radiogenic/home.htm">Dickin, A.P, &quot;Radiogenic Isotope Geology.&quot; United Kingdom: University Press, Cambridge, (2005).</a> -- An excellent resource for all your geologic dating needs</li>
-<li><a href="http://onlinelibrary.wiley.com/doi/10.1029/JZ067i003p01161/abstract">Murthy, Patterson, &quot;Primary Isochron of Zero Age for Meteorites and the Earth,&quot; J. Geophysical Research, 67, 1, (1962).</a></li>
+<li><a href="https://www.onafarawayday.com/Radiogenic/home.htm">Dickin, A.P, &quot;Radiogenic Isotope Geology.&quot; United Kingdom: University Press, Cambridge, (2005).</a> -- An excellent resource for all your geologic dating needs</li>
+<li><a href="https://onlinelibrary.wiley.com/doi/10.1029/JZ067i003p01161/abstract">Murthy, Patterson, &quot;Primary Isochron of Zero Age for Meteorites and the Earth,&quot; J. Geophysical Research, 67, 1, (1962).</a></li>
     
     </ol>
 </div>

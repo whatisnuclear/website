@@ -109,10 +109,10 @@ on the moon), so that&rsquo;s something to keep in mind.
 
 - [Basics of radioactivity]({% link radioactivity.md %}) &mdash; review of what radiation is
 - [Radioactive dose]({% link dose.md %}) &mdash; more info about the units of radioactive dose
-- [Air shower (Wikipedia)](http://en.wikipedia.org/wiki/Air_shower_%28physics%29)
+- [Air shower (Wikipedia)](https://en.wikipedia.org/wiki/Air_shower_%28physics%29)
   &mdash; more info about the cascade of particles that comes raining down after a
   high energy cosmic ray interacts with the atmosphere
-- [Background radiation (Wikipedia)](http://en.wikipedia.org/wiki/Background_radiation)
+- [Background radiation (Wikipedia)](https://en.wikipedia.org/wiki/Background_radiation)
   &mdash; tables detailing the various components of background radiation
 - [NASA live simulation of dose rates in air](https://iswa.ccmc.gsfc.nasa.gov/IswaSystemWebApp/index.jsp?i_1=664&l_1=40&t_1=270&w_1=600&h_1=620&s_1=0_0_0&i_2=665&l_2=652&t_2=268&w_2=700&h_2=370&s_2=0_0_10_3&i_3=666&l_3=655&t_3=647&w_3=640&h_3=500&s_3=0_0_10_3) &mdash; an incredible simulation
   showing realistic current dose rates
@@ -129,7 +129,7 @@ on the moon), so that&rsquo;s something to keep in mind.
    <li>DA Schauer, <a href="https://doi.org/10.1097/01.hp.0000356672.44380.b7">Ionizing
            Radiation Exposure of the Population of the United States (2009).</a></li>
    <li>E. Pukkala, et. al., <a
-           href="http://www.bmj.com/content/325/7364/567">Incidence of cancer among
+           href="https://www.bmj.com/content/325/7364/567">Incidence of cancer among
            Nordic airline pilots over five decades: occupational cohort study,&quot;
    (2002).</a></li>
 </ol>

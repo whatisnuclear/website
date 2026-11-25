@@ -39,14 +39,14 @@ where:
 - $$\kappa_{fis}$$ is the energy release per fission for the nuclide of
   interest. These values are measured by scientists and collected in nuclear
   data files such as the ones available at the National Nuclear Data Center.
-  Look for the _(n,fis.ene.release) Interpreted_ field for each nuclide <a href="http://www.nndc.bnl.gov/sigma/index.jsp">here</a>.
+  Look for the _(n,fis.ene.release) Interpreted_ field for each nuclide <a href="https://www.nndc.bnl.gov/sigma/index.jsp">here</a>.
 
 - $$N_A$$ is Avogadro's number, or 6.022e23. This is the number of atoms
   per mole. Since we're assuming 100% of atoms fission, this is equal to
   the number of fissions per mole.
 
 - $$A$$ is the atomic mass of the nuclide of interest. This can be found on any
-  Chart of the Nuclides, like <a href="http://atom.kaeri.re.kr/">this one</a>.
+  Chart of the Nuclides, like <a href="https://atom.kaeri.re.kr/">this one</a>.
 
 ## Some nuclear energy density calculations
 
@@ -106,8 +106,8 @@ reactor by these reactions can be on the order of 10% of the total power of the 
 
 <h1>References</h1>
 <ol>
- <li><a href="http://www.nndc.bnl.gov/sigma/">National Nuclear Data Center</a></li>
-<li><a href="http://atom.kaeri.re.kr/">KAERI Chart of the Nuclides</a></li>
+ <li><a href="https://www.nndc.bnl.gov/sigma/">National Nuclear Data Center</a></li>
+<li><a href="https://atom.kaeri.re.kr/">KAERI Chart of the Nuclides</a></li>
 </ol>
 
 </div>

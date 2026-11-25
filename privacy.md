@@ -37,7 +37,7 @@ information. Such tracking is done directly by the third parties through their
 own servers and is subject to their own privacy policies. This website has no
 access or control over these cookies, scripts and/or web beacons that may be
 used by third parties. Learn how to [opt out of Google’s cookie
-usage](http://www.google.com/privacy_ads.html).
+usage](https://www.google.com/privacy_ads.html).
 
 We strive to minimize usage of such third party embeds and avoid embedding
 trackable widgets in our pages in general. However, some pages do have

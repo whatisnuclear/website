@@ -63,7 +63,7 @@ saturated.
 development index correlated strongly with per-capita electricity usage" width="660" height="463"/> 
 <figcaption>Human Development Index as a function of electricity use per person worldwide. The dot size
 is proportional to population. The key point is that as the dots with &lt;0.7 HDI get better lives,
-they're going to need more energy. Source HDI data from http://hdr.undp.org/en</figcaption>
+they're going to need more energy. Source HDI data from https://hdr.undp.org/en</figcaption>
 </figure>
 
 ## A fossil-fueled modernity
@@ -333,9 +333,9 @@ reservoirs has been <strong>underestimated by factors on the order of 50-100</st
 the huge error bar on the carbon-intensity figure above), and that in a handful of really bad cases,
 hydro can have more emissions than coal (per kWh generated). Some studies say it's a worse effect in
 the tropics (like in Brazil), but other more recent studies indicate that emissions are most <a
-href="http://pubs.acs.org/doi/abs/10.1021/es401820p">strongly correlated with reservoir size per kWh
+href="https://pubs.acs.org/doi/abs/10.1021/es401820p">strongly correlated with reservoir size per kWh
 generated</a>. The most complete open access publication on the topic is <a
-href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161947">this one</a> for
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161947">this one</a> for
 those of you who want to do a deep dive. I think the main take-away is that hydro is good but we
 have to keep an eye on biogenic emissions on a case-by-case basis, and that massive
 <strong>increases in reservoirs for energy storage is likely not a good idea</strong> if we are
@@ -461,7 +461,7 @@ India, and Japan have been able to build nukes for reasonable prices while the U
 Conclusion: the USA got bad at it, but it doesn't have to be that way. Most of the successes have
 been met with the help of a mature supply chain and fairly standardized designs (vs. the
 first-of-a-kinds we build in the USA). I think CA governor candidate, <a
-href="http://environmentalprogress.org/big-news/2017/2/16/nuclear-must-change-or-die">Michael
+href="https://environmentalprogress.org/big-news/2017/2/16/nuclear-must-change-or-die">Michael
 Shellenberger, was onto some good points</a> along these lines after the Westinghouse news.
 
 <figure>
@@ -474,8 +474,8 @@ href="https://www.sciencedirect.com/science/article/pii/S0301421516300106#f0060"
 Lovering</a>, Overnight Construction Costs of Global Nuclear Reactors in USD2010. Costs are adjusted
 by local GDP deflator and to USD at 2010 market exchange rates. (<span
 class="cc-license-identifier">CC BY-NC-ND 4.0</span>). There's also a critical <a
-href="http://www.sciencedirect.com/science/article/pii/S0301421516301690">response paper </a>and a
-<a href="http://www.sciencedirect.com/science/article/pii/S0301421516306000">response to the
+href="https://www.sciencedirect.com/science/article/pii/S0301421516301690">response paper </a>and a
+<a href="https://www.sciencedirect.com/science/article/pii/S0301421516306000">response to the
 response</a> if you want to go into the debate. Russian build data is not included but they may
 actually be the <a
 href="https://www.world-nuclear-news.org/Articles/Russia-achieves-serial-nuclear-power-plant-constru">current
@@ -611,7 +611,7 @@ I hope I demonstrated the magnitude of the problem we're facing here so you shou
 OK with supporting nukes as part of the all-of-the-above approach.
 
 If you're really convinced and want to get involved in nuclear outreach, check out <a
-href="http://www.generationatomic.org/">Generation Atomic</a>! Also, watch David Schumacher's recent
+href="https://www.generationatomic.org/">Generation Atomic</a>! Also, watch David Schumacher's recent
 <a href="https://www.newfiremovie.com/">film The New Fire</a> (I'm in it!).
 
 ## Put solar panels on your roof and switch to an electric car
@@ -680,7 +680,7 @@ day and the people confirmed that I was convincing on the whole. )
 
 # Acknowledgement
 
-Infinite thanks to <a href="http://cascadiaclimateaction.org/">Cascadia Climate Action</a> and <a
+Infinite thanks to <a href="https://cascadiaclimateaction.org/">Cascadia Climate Action</a> and <a
 href="https://seattlefof.org/">Seattle Friends of Fission</a> for getting me involved in climate
 outreach and all the hard work it takes to organize these events. Also thanks to all my friends who
 helped edit this post.

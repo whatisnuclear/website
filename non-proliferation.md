@@ -112,7 +112,7 @@ Weapon states are listed here with the date of their first test in parenthesis.
 - Pakistan (1998)
 - North Korea (2006)
 
-\* Israel has never actually admitted having nuclear weapons, but is widely <a href="http://news.bbc.co.uk/2/hi/middle_east/892941.stm">accused of having many [bbc]</a>.
+\* Israel has never actually admitted having nuclear weapons, but is widely <a href="https://news.bbc.co.uk/2/hi/middle_east/892941.stm">accused of having many [bbc]</a>.
 
 Several other NATO countries control nuclear weapons produced by weapon-states under the
 non-proliferation treaty (NPT). Detailed discussion is found on Wikipedia's <a

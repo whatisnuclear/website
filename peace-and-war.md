@@ -752,7 +752,7 @@ ended up in front of the White House.
 
   <figure>
   <img src="/img/Nuclear%20War%20Survival%20Skills.jpg" alt="Nuclear War Survival Skills" class="img img-fluid center-block" width="360">
-<figcaption>Free book I discovered while reading about On the Beach. Get yours <a href="http://www.oism.org/nwss/">here</a>, but
+<figcaption>Free book I discovered while reading about On the Beach. Get yours <a href="https://www.oism.org/nwss/">here</a>, but
 you might want to print it out.</figcaption>
   </figure>
 

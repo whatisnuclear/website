@@ -37,7 +37,7 @@ many of them made the switch and started supporting nuclear because it's extreme
 - [Pandora's Promise](https://en.wikipedia.org/wiki/Pandora%27s_Promise) is a movie about people making the switch.
 - James Hansen, famous climate scientist, [became strongly pro-nuclear](https://www.theguardian.com/environment/2015/dec/03/nuclear-power-paves-the-only-viable-path-forward-on-climate-change).
 - James Lovelock, who originated Gaia Theory, has become [strongly pro-nuclear](https://www.jameslovelock.org/nuclear-energy-for-the-21st-century/).
-- Patrick Moore, co-founder of Greenpeace, [has become pro-nuclear](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/14/AR2006041401209.html) (before he started denying climate change outright, but that's another story).
+- Patrick Moore, co-founder of Greenpeace, [has become pro-nuclear](https://www.washingtonpost.com/wp-dyn/content/article/2006/04/14/AR2006041401209.html) (before he started denying climate change outright, but that's another story).
 - Author Gwyneth Cravens documented her switch to being pronuclear in the book [Power to Save the World](https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World)
 - Recent movie [The New Fire](https://www.newfiremovie.com/) is all about millenials starting nuclear companies to combat climate change.
 
@@ -144,7 +144,7 @@ figure out how to build and operate plants significantly cheaper to be players i
 in things like Small Modular Reactors that can be factory-produced a 'la Henry Ford are in advanced
 development and may be able to help here a lot. Meanwhile in Korea and Russia, true [serial
 production of
-nukes](http://www.world-nuclear-news.org/C-Russia-achieves-serial-nuclear-power-plant-construction-03061502.html)
+nukes](https://www.world-nuclear-news.org/C-Russia-achieves-serial-nuclear-power-plant-construction-03061502.html)
 has been achieved and they can build them on time and on budget consistently. It can be done.
 
 ### Nuclear waste is an unsolvable problem

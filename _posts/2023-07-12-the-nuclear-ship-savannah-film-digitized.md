@@ -62,7 +62,7 @@ to our film-scanning GoFundMe (linked below).
 ## Read more about N.S. Savannah
 
 - [Wikipedia entry](https://en.wikipedia.org/wiki/NS_Savannah)
-- [N.S. Savannah Association](http://www.ns-savannah.org/)
+- [N.S. Savannah Association](https://www.ns-savannah.org/)
 - [US MARAD N.S. Savannah Site](https://www.maritime.dot.gov/nssavannah)
 - [Tour of NS Savannah](https://maritime.org/tour/savannah/)
 - [Literature review of N.S. Savannah](https://babel.hathitrust.org/cgi/pt?id=mdp.39015095050384&view=1up&seq=1)

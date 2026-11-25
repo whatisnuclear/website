@@ -205,8 +205,8 @@ is just an average. That is called the <em>unresolved resonance</em> region.
 <h2>References</h2>
 <ol>
 <li> M.G.Holloway, C.P. Baker &quot;How the Barn was Born&quot;, Physics Today, p. 9 July 1972.</li>
-<li><a href="http://www.nndc.bnl.gov/csewg/">Cross Section Evaluation Working Group (CSEWG)</a></li>
-<li><a href="http://www.nndc.bnl.gov/sigma/">Evaluated Nuclear Data File (ENDF) Retrieval &amp; Plotting</a></li>
+<li><a href="https://www.nndc.bnl.gov/csewg/">Cross Section Evaluation Working Group (CSEWG)</a></li>
+<li><a href="https://www.nndc.bnl.gov/sigma/">Evaluated Nuclear Data File (ENDF) Retrieval &amp; Plotting</a></li>
 </ol>
 
 </div>
@@ -225,7 +225,7 @@ is just an average. That is called the <em>unresolved resonance</em> region.
 		  cat = new Image();
 		  
 		  cat.onload = (function(img, ctx) {
-			  //http://stackoverflow.com/questions/7641588/if-i-load-multiple-images-with-the-for-loop-do-i-only-need-one-img-onload-funct
+			  //https://stackoverflow.com/questions/7641588/if-i-load-multiple-images-with-the-for-loop-do-i-only-need-one-img-onload-funct
 			return function(){
 				ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
 			}

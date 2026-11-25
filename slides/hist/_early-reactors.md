@@ -438,7 +438,7 @@ See [Final Operating Report for PM-3A](http://www.vbdr.org/meetings/2012/Present
 <div class="col-6" markdown="1">
 
 <img class="img img-fluid" data-src="/img-slide/pm3a.jpg" alt="PM-3A assembled"/>
-<p class="small">PM-3A in operation at McMurdo Station (<a href="http://www.southpolestation.com/env/env1.html">Source</a>)</p>
+<p class="small">PM-3A in operation at McMurdo Station (<a href="https://www.southpolestation.com/env/env1.html">Source</a>)</p>
 </div>
 </div>
 

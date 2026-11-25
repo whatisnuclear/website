@@ -45,7 +45,7 @@ night. This is just energy=power\*time
 
 Now, to figure out how many batteries that would be, we need to know how much energy is stored in a
 battery. Different types of batteries can store different amounts of energy. Using information from
-<a href="http://www.allaboutbatteries.com/Battery-Energy.html">here</a>, we load up some basic
+<a href="https://www.allaboutbatteries.com/Battery-Energy.html">here</a>, we load up some basic
 information (including some that will be used later). This table mixes energy units of Joules and
 watt-hours, but they are easily related by 3600 Joules = 1 watt-hour and we'll use this conversion
 throughout.

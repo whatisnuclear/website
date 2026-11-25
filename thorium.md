@@ -147,7 +147,7 @@ through a heat exchanger to bring the heat out to a turbine and make electricity
 processing removes fission product neutron poisons and allows online refueling (eliminating the need
 to shut down for fuel management, etc.). None of these reactors operate today, but Oak Ridge had a
 test reactor of this type in the 1960s called the <a
-href="http://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment">Molten Salt Reactor Experiment
+href="https://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment">Molten Salt Reactor Experiment
 [wikipedia]</a> (MSRE). The MSRE successfully proved that the concept has merit and can be operated
 for extended amounts of time. It competed with the liquid metal cooled fast breeder reactors
 (LMFBRs) for federal funding and lost out. Alvin Weinberg discusses the history of this project in
@@ -164,18 +164,18 @@ already like 4 startups working on them, and China is developing them as well).
 - Our <a href="{% link thorium-myths.md %}">Thorium Myths page</a>
 - Our <a href="{% link recycling.md %}">breeding and recycling page</a>
 - Our <a href="{% link msr.md %}">molten salt reactor page</a>
-- <a href="http://www-pub.iaea.org/mtcd/publications/pdf/te_1450_web.pdf">IAEA TECDOC-1450</a> Thorium fuel cycle - potential benefits and challenges. 113 pages of professional information.
-- <a href="http://energyfromthorium.com/">Energy From Thorium</a> - a site dedicated to potentially excellent uses of Thorium in LFTRs
+- <a href="https://www-pub.iaea.org/mtcd/publications/pdf/te_1450_web.pdf">IAEA TECDOC-1450</a> Thorium fuel cycle - potential benefits and challenges. 113 pages of professional information.
+- <a href="https://energyfromthorium.com/">Energy From Thorium</a> - a site dedicated to potentially excellent uses of Thorium in LFTRs
 - <a href="https://en.wikipedia.org/wiki/Thorium_fuel_cycle">Thorium fuel cycle [wikipedia]</a>
-- <a href="http://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment">Molten Salt Reactor Experiment [wikipedia]</a>
-- <a href="http://www.amazon.com/First-Nuclear-Era-Times-Technological/dp/1563963582">The First Nuclear Era [amazon.com]</a>
+- <a href="https://en.wikipedia.org/wiki/Molten-Salt_Reactor_Experiment">Molten Salt Reactor Experiment [wikipedia]</a>
+- <a href="https://www.amazon.com/First-Nuclear-Era-Times-Technological/dp/1563963582">The First Nuclear Era [amazon.com]</a>
 - <a href="https://www.thehindu.com/opinion/op-ed/nuclear-power-is-our-gateway-to-a-prosperous-future/article2601471.ece">Nuclear Power is our gateway to a prosperous future</a> - An Op-Ed by A.P.J. Abdul Kalam, a former president of India
 - <a href="https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor">Liquid Fluoride Thorium Reactor [wikipedia]</a>
 - <a href="https://ans.tandfonline.com/toc/unct20/194/2">Special May 2016 Edition of Nuclear Technology on Thorium</a>
 
 <h2 id="refs2">References</h2>
-* <a href="http://www.world-nuclear.org/information-library/current-and-future-generation/thorium">World Nuclear - Known Thorium Reserves</a>
-* <a href="http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium">World Nuclear - Known Uranium Reserves</a>
+* <a href="https://www.world-nuclear.org/information-library/current-and-future-generation/thorium">World Nuclear - Known Thorium Reserves</a>
+* <a href="https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium">World Nuclear - Known Uranium Reserves</a>
 
 Questions? Comments? Send us <a href="/contact.html">a note</a>.
 

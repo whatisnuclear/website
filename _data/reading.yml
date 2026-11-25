@@ -15,7 +15,7 @@
       title: >
         A Bright Future: How some countries have solved climate change and the rest can
         follow
-      url: http://www.brightfuturebook.com/
+      url: https://www.brightfuturebook.com/
       date: "2019-08-09"
       free: false
       description: >
@@ -347,7 +347,7 @@
       free: true
       description: >
         A book describing the development of a fast-neutron breeder reactor.
-      url: http://www.thesciencecouncil.com/pdfs/PlentifulEnergy.pdf
+      url: https://www.thesciencecouncil.com/pdfs/PlentifulEnergy.pdf
     - author: IAEA
       title: Advances in Small Modular Reactor Technology Developments (PDF)
       date: 2020
@@ -375,7 +375,7 @@
       title: Fluid Fuel Reactors
       free: true
       date: 1958
-      url: http://moltensalt.org/references/static/downloads/pdf/
+      url: https://moltensalt.org/references/static/downloads/pdf/
       description: >
         A highlight from the 1958 Atoms for Peace conference, this book details
         fluid fueled reactors like aqueous homogeneous reactors and molten salt reactors.

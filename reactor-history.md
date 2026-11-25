@@ -209,7 +209,7 @@ Atomic Age</a>)</p></figcaption>
 src="/img/blank.png" data-echo="/img/s1g_sphere.jpg" alt="The S1G dome in New York"/></a>
 <figcaption><p>The sphere for the SIR/S1G Seawolf sodium-beryllium prototype in New York
 (from <em>Atomic Shield</em>, <a
-href="http://images.google.com/hosted/life/c4707d71d407ce7d.html">higher-res from
+href="https://images.google.com/hosted/life/c4707d71d407ce7d.html">higher-res from
 LIFE</a>)</p></figcaption> 
 </figure> 
 </div>
@@ -1995,7 +1995,7 @@ RAND study!
 - [My Research at the Knolls Atomic Power Laboratory (1946 - 1963)](https://www.etheric.com/Fred/KAPL.pdf) — Fred LaViolette's history, including some
   very unique photos inside the S1G/D1G sphere
 - [High-res photos of S1G sphere from
-  LIFE](http://images.google.com/hosted/life/c4707d71d407ce7d.html)
+  LIFE](https://images.google.com/hosted/life/c4707d71d407ce7d.html)
 - [Santa Susana cleanup site at DOE](https://www.etec.energy.gov/)
 - [Seawolf tries sodium](https://www.ans.org/news/article-1999/seawolf-tries-sodium/) — ANS
   nuclear cafe article about Seawolf

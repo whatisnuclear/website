@@ -73,7 +73,7 @@ report states quite clearly in §4.2.4.1:
 
 ## Historical releases of $$^{14}$$C
 
-[The Sellafield report](http://www.wise-paris.org/english/reports/STOAFinalStudyEN.pdf)
+[The Sellafield report](https://www.wise-paris.org/english/reports/STOAFinalStudyEN.pdf)
 referred to by Greenpeace shows that the Sellafield reprocessing plant released between 30
 and 60 grams of $$^{14}$$C per year for at least 20 years. At this rate (again vastly higher
 than the total inventory at Fukushima released every year), it was assessed that the

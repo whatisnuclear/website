@@ -394,18 +394,18 @@ more of this.
 
 <ol > 
 <li><a href="https://www.osti.gov/biblio/4372873">&quot;An Evaluation of the Molten Salt Breeder Reactor,&quot; U.S. Atomic Energy Commission, WASH-1222, (1972).</a></li>
-<li>J. Kang and F. von Hippel, &quot;U-232 and the Proliferation-Resistance of U-233 in Spent Fuel,&quot; Science &amp; Global Security, 9., p 1-32, (2001). <a href="http://scienceandglobalsecurity.org/archive/sgs09kang.pdf">[pdf]</a></li>
-<li><a href="http://ptable.com/#Property/Abundance/Ocean">Dayah, Michael. Dynamic Periodic Table. 1 Oct. 1997. Web. 22 Mar 2014</a></li>
-<li><a href="http://www.world-nuclear.org/information-library/current-and-future-generation/thorium">World Nuclear - Known Thorium Reserves</a></li>
-<li><a href="http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium">World Nuclear - Known Uranium Reserves</a></li>
-<li><a href="http://nuclear.inl.gov/deliverables/docs/a6-msr_fy07_external.pdf">Generation IV Nuclear Energy Systems Ten-Year Program Plan - Fiscal Year 2007, Appendix 6, Molten Salt Reactor</a></li>
+<li>J. Kang and F. von Hippel, &quot;U-232 and the Proliferation-Resistance of U-233 in Spent Fuel,&quot; Science &amp; Global Security, 9., p 1-32, (2001). <a href="https://scienceandglobalsecurity.org/archive/sgs09kang.pdf">[pdf]</a></li>
+<li><a href="https://ptable.com/#Property/Abundance/Ocean">Dayah, Michael. Dynamic Periodic Table. 1 Oct. 1997. Web. 22 Mar 2014</a></li>
+<li><a href="https://www.world-nuclear.org/information-library/current-and-future-generation/thorium">World Nuclear - Known Thorium Reserves</a></li>
+<li><a href="https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium">World Nuclear - Known Uranium Reserves</a></li>
+<li><a href="https://nuclear.inl.gov/deliverables/docs/a6-msr_fy07_external.pdf">Generation IV Nuclear Energy Systems Ten-Year Program Plan - Fiscal Year 2007, Appendix 6, Molten Salt Reactor</a></li>
 <li><a href="https://www.osti.gov/biblio/6710867">Uranium-233 purification and conversion to stabilized ceramic grade
 urania for LWBR fuel fabrication (WAPD-TM-1422)</a></li>
 
 </ol>
 
 **Update:** The American Nuclear Society has issued <a
-href="http://epubs.ans.org/?p=nt%3A194#n2">a special issue of Nuclear Technology entitled &quot;The Reemergence of the
+href="https://epubs.ans.org/?p=nt%3A194#n2">a special issue of Nuclear Technology entitled &quot;The Reemergence of the
 Thorium Fuel Cycle&quot;</a> that is meant to &quot;provide an even-handed description of its
 inherent attributes, and identify some of the data gaps that have yet to be resolved.&quot;
 

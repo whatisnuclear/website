@@ -273,7 +273,7 @@ nuclear power can <a href="{% link nuclear-sustainability.md %}">truly be consid
 
 ## Additional Reading
 
-- <a href="http://www-pub.iaea.org/books/IAEABooks/7112/Implications-of-Partitioning-and-Transmutation-in-Radioactive-Waste-Management">Implications of Partitioning and Transmutation in Radioactive Waste Management, IAEA Technical Reports Series 435</a>
+- <a href="https://www-pub.iaea.org/books/IAEABooks/7112/Implications-of-Partitioning-and-Transmutation-in-Radioactive-Waste-Management">Implications of Partitioning and Transmutation in Radioactive Waste Management, IAEA Technical Reports Series 435</a>
 - [Principles of Fast, Thermal, and Breeder
   reactors](https://www.youtube.com/watch?v=YsZE_YhUXh4) -- And old but useful video about this information
 - Our <a href="{% link fuel-cycle.md %}">fuel cycle page</a>

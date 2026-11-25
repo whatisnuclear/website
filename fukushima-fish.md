@@ -20,7 +20,7 @@ into the environment. Many of these made it into the ocean and have been
 found in fish such as Albacore Tuna. Lots of people are concerned about
 the health effects of eating such tuna. As such, nuclear people get
 asked questions about it a lot.  </p> <p>The <a
-href="http://ne.oregonstate.edu/">Oregon State University Nuclear
+href="https://ne.oregonstate.edu/">Oregon State University Nuclear
 Engineering and Radiation Health Physics Department</a> has some world
 experts in radioisotope biological uptake and is involved in several
 radiation monitoring programs. Delvan Neville, a graduate student
@@ -72,9 +72,9 @@ Appendix B figures), and the numbers would be slightly different for the
 young, old, and unhealthy. </div>
 
 <h1 >References</h1> <ol> <li><a
-href="http://oregonstate.edu/ua/ncs/archives/2014/apr/study-finds-only-trace-levels-radiation-fukushima-albacore">OSU
+href="https://oregonstate.edu/ua/ncs/archives/2014/apr/study-finds-only-trace-levels-radiation-fukushima-albacore">OSU
 press release on this research</a></li> <li><a
-href="http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/49020/NevilleDelvanNuclearEngRadiationHealthPhysicsTraceLevelsFukushima.pdf?sequence=1">Neville,
+href="https://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/49020/NevilleDelvanNuclearEngRadiationHealthPhysicsTraceLevelsFukushima.pdf?sequence=1">Neville,
 Delvan R., et al. &quot;Trace Levels of Fukushima Disaster Radionuclides
 in East Pacific Albacore.&quot; Environmental science &amp; technology
 48.9 (2014): 4739-4743.</a> </li> </ol>

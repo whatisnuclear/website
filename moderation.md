@@ -125,7 +125,7 @@ price you pay for not having a moderator.
 # See Also
 
 - <a href="{% link fast-reactor.md %}">Fast Reactors</a>
-- <a href="http://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.0&nsub=10">Evaluated Nuclear Data File 7</a>
+- <a href="https://www.nndc.bnl.gov/sigma/index.jsp?as=235&lib=endfb7.0&nsub=10">Evaluated Nuclear Data File 7</a>
 
 </div>
 </div>
