@@ -68,7 +68,7 @@ in our catalog.
         <img
           src="/img/vids/naval-research-reactor/434_215-naval-research-{{index | prepend: '00' | slice: -2, 2 }}_sm.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the Naval Research Laboratory reactor film (1985)" />
       </a>
     </figure>
   </div>

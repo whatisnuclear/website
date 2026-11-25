@@ -25,7 +25,7 @@ report from operating a 1 MWe military microreactor in WY for 4 years.
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-01.jpg" >
 <img src="/img/pm1/pm1fsr-01.jpg" class="img-fluid" 
-alt="{{ 'img/pm1/pm1fsr-01.jpg'| exif: 'image_description' }}"
+  alt="{{ 'img/pm1/pm1fsr-01.jpg'| exif: 'image_description' }}"
 />
 </a>
 </figure>
@@ -41,7 +41,7 @@ portable nor easily maintainable or operable." 👀
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-02.jpg" >
-<img src="/img/pm1/pm1fsr-02.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-02.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: first AFWL conclusion — the congested plant design sacrificed ease of operation and maintenance for air transportability" />
 </a>
 </figure>
 
@@ -51,7 +51,7 @@ MWe reactor, it hardly ever ran over 0.6 MWe.
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-03.jpg" >
-<img src="/img/pm1/pm1fsr-03.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-03.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: PM-1 never ran over about 600 kW net output (designed for 1,000 kW)" />
 </a>
 </figure>
 
@@ -61,7 +61,7 @@ powering a McMurdo station in Antarctica.
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-04.jpg" >
-<img src="/img/pm1/pm1fsr-04.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-04.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: running a nuclear plant requires well-trained and experienced personnel" />
 </a>
 </figure>
 
@@ -72,7 +72,7 @@ run 1.5-2 years straight.
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-05.jpg" >
-<img src="/img/pm1/pm1fsr-05.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-05.jpg" class="img-fluid" alt="Table I of the PM-1 Final Summary Report: summary of PM-1 performance, energy output and costs" />
 </a>
 </figure>
 
@@ -84,14 +84,14 @@ unplanned scrams.
 <div class="col-6">
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-06.jpg" >
-<img src="/img/pm1/pm1fsr-06.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-06.jpg" class="img-fluid" alt="Table IV of the PM-1 Final Summary Report: summary of PM-1 unavailability, including 40 radar-site outages" />
 </a>
 </figure>
 </div >
 <div class="col-6">
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-07.jpg" >
-<img src="/img/pm1/pm1fsr-07.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-07.jpg" class="img-fluid" alt="Table V (cont'd) of the PM-1 Final Summary Report: monthly unintentional scrams and manual scrams" />
 </a>
 </figure>
 </div>
@@ -105,14 +105,14 @@ the future. Current microreactor developers: this is super interesting!
 <div class="col-6">
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-08.jpg" >
-<img src="/img/pm1/pm1fsr-08.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-08.jpg" class="img-fluid" alt="Table VII of the PM-1 Final Summary Report: evaluation of corrective maintenance by system, part 1" />
 </a>
 </figure>
 </div >
 <div class="col-6">
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-09.jpg" >
-<img src="/img/pm1/pm1fsr-09.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-09.jpg" class="img-fluid" alt="Table VII of the PM-1 Final Summary Report: evaluation of corrective maintenance by system, part 2 — total 1,286 corrective actions" />
 </a>
 </figure>
 </div>
@@ -125,14 +125,14 @@ rod drives were also highly problematic.
 <div class="col-6">
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-10.jpg" >
-<img src="/img/pm1/pm1fsr-10.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-10.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: nuclear instrumentation system — performance substandard" />
 </a>
 </figure>
 </div >
 <div class="col-6">
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-11.jpg" >
-<img src="/img/pm1/pm1fsr-11.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-11.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: rod drive system — 66 corrective actions and 2,619 man-hours" />
 </a>
 </figure>
 </div>
@@ -145,7 +145,7 @@ this. All plant modifications are also listed out. There were a lot of them!
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-12.jpg" >
-<img src="/img/pm1/pm1fsr-12.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-12.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: plant HVAC discussion — poor housing, overcrowded condition" />
 </a>
 </figure>
 
@@ -155,7 +155,7 @@ crew of 25 is actually needed.
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-13.jpg" >
-<img src="/img/pm1/pm1fsr-13.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-13.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: required manning of 25 personnel versus 23 in the ADQM 400-3s standard" />
 </a>
 </figure>
 
@@ -166,14 +166,14 @@ has a dim economic outlook based on this experience.
 <div class="col-6">
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-14.jpg" >
-<img src="/img/pm1/pm1fsr-14.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-14.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: factors behind the dim economic picture of nuclear power production" />
 </a>
 </figure>
 </div >
 <div class="col-6">
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-15.jpg" >
-<img src="/img/pm1/pm1fsr-15.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-15.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: stationary field nuclear-steam plants could evolve from the portable PM-1 concept" />
 </a>
 </figure>
 </div>
@@ -185,7 +185,7 @@ approach is necessary". Direct energy conversion, anyone?
 
 <figure class="figure">
 <a href="/img/pm1/pm1fsr-16.jpg" >
-<img src="/img/pm1/pm1fsr-16.jpg" class="img-fluid" />
+<img src="/img/pm1/pm1fsr-16.jpg" class="img-fluid" alt="Page from the PM-1 Final Summary Report: conventional nonprimary systems had comparable problems" />
 </a>
 </figure>
 

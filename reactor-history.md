@@ -15,7 +15,7 @@ byline: true
 <div class="col-md-8" markdown="1">
 
 <img src="/img/blank.png" data-echo="img/applications.jpg" class="img-fluid"
-alt="A few pictures of applications of nuclear energy"/>
+  alt="A few pictures of applications of nuclear energy"/>
 _"You have to know the past to understand the present"_ — Carl Sagan
 
 The dream for economical nuclear power was born well before the discovery of nuclear
@@ -371,7 +371,7 @@ job.
   <div class="col-md-6">
   <figure>
   <a href="/img/appr1-core-in-crit-facility.jpg">
-  <img src="/img/blank.png" data-echo="/img/appr1-core-in-crit-facility.jpg" class="img img-fluid"/></a>
+  <img src="/img/blank.png" data-echo="/img/appr1-core-in-crit-facility.jpg" class="img img-fluid" alt="APPR-1 core in the critical testing facility" /></a>
   <figcaption markdown="1">
 The APPR-1 core in the critical testing facility (from [APPR-1
 construction](https://babel.hathitrust.org/cgi/pt?id=umn.31951d038026231&view=1up&seq=52))
@@ -516,7 +516,7 @@ BWRs, a sodium-cooled fast reactor, and a sodium/graphite intermediate reactor.
 <figure>
   <a href="/img/power-demonstration-reactor-program_opt.svg"><img
 src="/img/blank.png" data-echo="/img/power-demonstration-reactor-program_opt.svg" 
-alt="Timeline of reactors built by the Atomic Energy Commission during the Power
+  alt="Timeline of reactors built by the Atomic Energy Commission during the Power
 Demonstration Reactor Program"
  class="img img-fluid center-block" ></a>
    <figcaption>The reactors of the 3+ phases of the AEC's Power Demonstration Reactor
@@ -609,7 +609,7 @@ a deluge of orders became the majority of today's nuclear fleet.
 
 <figure>
 <a href="/img/palo_verde.jpg"><img class="img img-fluid"
-src="/img/blank.png" data-echo="/img/palo_verde.jpg"  alt="The Palo Verde Nuclear Station, 3 giant PWRs in Arizona"/></a>
+src="/img/blank.png" data-echo="/img/palo_verde.jpg" alt="The Palo Verde Nuclear Station, 3 giant PWRs in Arizona"/></a>
 
 <figcaption>The Palo Verde Nuclear Station, made of 3 giant PWRs in
 Arizona that went into service in the late 1980s (<a
@@ -775,7 +775,7 @@ to Combustion Engineering after the plant was operational.
 
 <figure>
 <a href="/img/sl-1.jpg"><img class="img img-fluid"
-src="/img/blank.png" data-echo="/img/sl-1.jpg"  alt="The SL-1/ALPR reactor"/></a>
+src="/img/blank.png" data-echo="/img/sl-1.jpg" alt="The SL-1/ALPR reactor"/></a>
 
 <figcaption><p>The SL-1 reactor in Idaho in 1960, before the accident (from <a href="https://www.flickr.com/photos/departmentofenergy/10731009074/in/album-72157637416489424/">DOE</a>)</p>
 </figcaption>
@@ -813,7 +813,7 @@ childhood. I grew up about 10 miles from Big Rock, which operated well until my 
 
 <figure>
 <a href="/img/big_rock.jpg"><img class="img img-fluid"
-src="/img/blank.png" data-echo="/img/big_rock.jpg"  alt="Big Rock Point reactor"/></a>
+src="/img/blank.png" data-echo="/img/big_rock.jpg" alt="Big Rock Point reactor"/></a>
 
 <figcaption>The Big Rock Point nuclear plant near Charlevoix, MI was an
 experimental BWR (from <a
@@ -1097,7 +1097,7 @@ temperature, considering burnup, corrosion, and erosion.
 <div class="col-md-6">
 <figure>
 <a href="/img/superheat-critical.jpg"><img class="img img-fluid"
-src="/img/blank.png" data-echo="/img/superheat-critical.jpg"  alt="Lots of little rods arranged in a hexagon"/></a>
+src="/img/blank.png" data-echo="/img/superheat-critical.jpg" alt="Lots of little rods arranged in a hexagon"/></a>
 
 <figcaption>
 A critical assembly testing crazy nuclear superheat assemblies 

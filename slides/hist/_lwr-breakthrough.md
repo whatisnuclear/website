@@ -20,7 +20,7 @@
     <img
       title="BWR history timeline"
       data-src="/img/BWR_development_history.jpg"
-    />
+     alt="BWR development pathways (from ORSORT)" />
     <p class="small">
       BWR dev pathways (<a href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d038020861&view=1up&seq=33"
         >from ORSORT</a
@@ -31,7 +31,7 @@
     <img
       title="Key to Dresden"
       data-src="/img/vids/dresden/dresden-12.jpg"
-    />
+     alt="The key to Dresden" />
     <p class="small"> The key to Dresden </p>   
       </div>
     </div>
@@ -44,7 +44,7 @@
       <div class="col-6">
     <img
       data-src="/img-slide/seawolf.jpg"
-    />
+     alt="The Seawolf conversion from sodium to PWR" />
       </div> 
    
       <div class="col-6">
@@ -68,7 +68,7 @@
       <div class="col-6">
     <img
       data-src="/img-slide/UNGG.jpg"
-    />
+     alt="Saint-Laurent Nuclear Power Plant (CC-BY-SA Clicgauche)" />
     <p class="small">
       Saint-Laurent Nuclear Power Plant (<a href="https://en.wikipedia.org/wiki/UNGG_reactor#/media/File:A1_A2_saint_laurent.JPG"
         >CC-BY-SA Clicgauche</a
@@ -78,7 +78,7 @@
       <div class="col-6">
     <img
       data-src="/img-slide/gravelines.jpg"
-    />
+     alt="Gravelines PWRs in France" />
 
     <p class="small">Gravelines PWRs in France (AREVA image)</p>
       </div>
@@ -93,7 +93,7 @@
       <div class="col-6">
     <img
       data-src="/img-slide/rbmk.jpg"
-    />
+     alt="Smolensk NPP (CC-BY-SA Originaldatei)" />
     <p class="small">
       Smolensk NPP (<a href="https://commons.wikimedia.org/wiki/File:Smolensk_Nuclear_Power_Plant.jpg"
         >CC-BY-SA Originaldatei</a
@@ -103,7 +103,7 @@
       <div class="col-6">
     <img
       data-src="/img-slide/vver.jpg"
-    />
+     alt="Balakovo (CC-BY-SA Seetenky)" />
 
     <p class="small">Balakovo (<a href="https://commons.wikimedia.org/wiki/File:BalakovoNPP1.jpg">CC-BY-SA Seetenky</a>)</p>
       </div>

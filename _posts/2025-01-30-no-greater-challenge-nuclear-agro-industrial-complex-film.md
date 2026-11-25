@@ -81,7 +81,7 @@ plan depended on cheap energy, so it was never implemented. At least not yet!
         <img
           src="/img/vids/gchal/gchal-{{index | prepend: '00' | slice: -2, 2 }}_sm.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the No Greater Challenge film about nuclear agro-industrial complexes" />
       </a>
     </figure>
   </div>

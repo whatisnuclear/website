@@ -47,7 +47,7 @@ to our film-scanning GoFundMe (linked below).
         <img
           src="/img/savannah-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the Nuclear Ship Savannah film" />
       </a>
     </figure>
   </div>

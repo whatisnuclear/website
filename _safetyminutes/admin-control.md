@@ -10,7 +10,7 @@ image: /img/doe-hdbk-1028-2009.png
 
 <section>
   <h2 id="pres-title">{{page.title}}</h2>
-  <img src="{% link {{page.image}} %}" class="img-fluid w-25" />
+  <img src="{% link {{page.image}} %}" class="img-fluid w-25" alt="Cover of DOE Standard DOE-HDBK-1028-2009, Human Performance Improvement Handbook, Volume 2" />
    <p class="frontmatter small">taken from DOE-HDBK-1028-2009</p>
   <p class="attribution">
     A safety minute from 

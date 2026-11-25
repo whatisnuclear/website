@@ -50,7 +50,7 @@ This digitization was sponsored by me.
         <img
           src="/img/vids/nrx/nrx-{{index | prepend: '00' | slice: -2, 2 }}_sm.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the NRX restoration film" />
       </a>
     </figure>
   </div>

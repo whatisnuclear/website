@@ -53,7 +53,7 @@ Thanks to Ross Koningstein for his help in making this happen.
         <img
           src="/img/pm1/pm1-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the PM-1 microreactor film" />
       </a>
     </figure>
   </div>
@@ -144,9 +144,9 @@ a FOIA request 😎.
     <img
       src="/img/anpp-map.jpg"
       class="img-fluid"
-    />
+      alt="Globe map marking the six Army Nuclear Power Program plant locations: PM-1 (Wyoming), SM-1A (Alaska), PM-2A (Greenland), SM-1 (Virginia), MH-1A (Panama Canal) and PM-3A (Antarctica)" />
   </a>
-  <figcaption>There were 5 reactors total built in the Army Nuclear Power Program in remote locations.</figcaption>
+  <figcaption>There were 6 reactors total built in the Army Nuclear Power Program in remote locations.</figcaption>
 </figure>
 
 Contents of the film by timestamp include:

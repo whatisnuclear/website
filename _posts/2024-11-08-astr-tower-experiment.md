@@ -49,7 +49,7 @@ Thanks to **Gil Brueckner** for making this happen!
         <img
           src="/img/vids/astr/astr-tower-{{index | prepend: '00' | slice: -2, 2 }}_sm.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the Astr Tower experiment film" />
       </a>
     </figure>
   </div>

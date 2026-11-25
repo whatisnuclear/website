@@ -64,7 +64,7 @@ This is film [88093]({%link old-videos.md%}#army-package-power-reactor) in our c
         <img
           src="/img/vids/army/434_18_army-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the film about the US Army package power reactor" />
       </a>
     </figure>
   </div>
@@ -107,7 +107,7 @@ This is film [88107]({% link old-videos.md %}#atomic-power-and-the-united-states
         <img
           src="/img/vids/atom_usa/434_48_usa-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the film Atomic Power and the United States" />
       </a>
     </figure>
   </div>
@@ -145,7 +145,7 @@ This is film [88195]({% link old-videos.md %}#nuclear-energy-goes-rural) in our 
         <img
           src="/img/vids/rural/434_225_rural-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the film Nuclear Energy Goes Rural" />
       </a>
     </figure>
   </div>
@@ -190,7 +190,7 @@ in our catalog.
         <img
           src="/img/vids/indianpoint/434_242_indianpoint-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the film about Indian Point's operating experience" />
       </a>
     </figure>
   </div>
@@ -236,7 +236,7 @@ in our catalog.
         <img
           src="/img/vids/yankee/434_243_yankee-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid p-0"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the film about Yankee Rowe's operating experience" />
       </a>
     </figure>
   </div>

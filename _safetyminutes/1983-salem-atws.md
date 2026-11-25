@@ -10,7 +10,7 @@ image: /img/db-50-circuit-breaker-salem.jpg
 
 <section>
   <h2 id="pres-title">{{page.title}}</h2>
-  <img src="{% link {{page.image}} %}" class="img-fluid w-25" />
+  <img src="{% link {{page.image}} %}" class="img-fluid w-25" alt="Cross-section diagram of the DB-50 circuit breaker (1600 amperes, 600 volts A-C)" />
   <p id="event-c" class="frontmatter small">Delaware Bay, New Jersey<span id="event"></span></p>
   <p class="frontmatter small"><span id="date">February 22-25, 1983</span></p>
   <p class="attribution">

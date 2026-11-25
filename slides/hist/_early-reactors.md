@@ -17,7 +17,7 @@
       title="Reactors PDRP"
       class="r-stretch"
       data-src="/img/cp1-lithograph-nsrc.jpg"
-    />
+     alt="Chicago Pile-1 (lithograph)" />
     <p class="small">
       Chicago Pile-1 (<a href="https://doi.org/10.2172/1832360"
         >https://doi.org/10.2172/1832360</a
@@ -35,7 +35,7 @@
           title="The ORNL X-10 Reactor"
           class="img img-fluid"
           data-src="/img/x-10.jpg"
-        />
+         alt="The ORNL X-10 reactor" />
         <p class="small">
           The ORNL X-10 reactor (<a
             href="https://en.wikipedia.org/wiki/X-10_Graphite_Reactor#/media/File:X-10_Reactor_05.jpg"
@@ -48,7 +48,7 @@
           title="The Hanford B Reactor"
           class="img img-fluid"
           data-src="/img/building_b_reactor.jpg"
-        />
+         alt="Hanford B plutonium-production reactor (LOC)" />
         <p class="small">
           Hanford B plutonium-production reactor (<a
             href="https://www.loc.gov/resource/hhh.wa0703.photos/?sp=7&st=image"
@@ -62,19 +62,19 @@
   
   <section>
   <h3>ZEEP and NRX HWRs in Canada</h3>
-  <img class="r-stretch" data-src="/img/zeep.jpg"/>
+  <img class="r-stretch" data-src="/img/zeep.jpg" alt="ZEEP with NRX under construction in the background" />
   <p>ZEEP with <a href="{% link _posts/2024-11-13-restoration-of-nrx.md %}">NRX</a> under construction in background, from <a href="https://cns-snc.ca/wp-content/uploads/2022/01/Vol_16_No3_1995.pdf">ZEEP: The Little Reactor that Could</a></p>
   </section>
 
   <section>
   <h3>The first-ever nuclear electricity came from X-10 in 1948</h3>
-  <img class="r-stretch" data-src="/img-slide/x-10-steam.jpg"/>
+  <img class="r-stretch" data-src="/img-slide/x-10-steam.jpg" alt="Logan Emlet and his steam-powered generator from the ORNL writeup" />
   <p>Logan Emlet and his steam-powered generator from <a href="https://www.ornl.gov/blog/first-nuclear-power">ORNL writeup</a></p>
   </section>
 
   <section>
     <h3>The New Piles Committee</h3>
-    <img class="r-stretch" data-src="/img/new-piles-committee-reactors.png" />
+    <img class="r-stretch" data-src="/img/new-piles-committee-reactors.png" alt="Some early reactor ideas from MUC-LAO-42" />
     <p class="small">
       Some early reactor ideas from
       <a href="https://technicalreports.ornl.gov/1944/3445605702870.pdf"
@@ -127,7 +127,7 @@ Proposed in 1947 to be completed in the early 1950s.
           title="MTR reactor"
           class="img img-fluid"
           data-src="/img-slide/ebr1-side-view.jpg"
-        />
+         alt="The EBR-1 experimental breeder reactor" />
         <p class="small">
           The EBR-I (<a
             href="https://doi.org/10.2172/1819689"
@@ -156,7 +156,7 @@ ORNL</a>)</p>
           title="MTR reactor"
           class="img img-fluid p-0 m-0"
           data-src="/img-slide/mtr-floor.jpg"
-        />
+         alt="The 40 MWt MTR (AEC)" />
         <p class="small">
           The 40 MWt MTR (<a
             href="https://upload.wikimedia.org/wikipedia/commons/2/20/Materials_Testing_Reactor_MAIN_FLOOR.jpg"
@@ -180,7 +180,7 @@ ORNL</a>)</p>
           class="img img-fluid"
           title="MTR fuel 2"
           data-src="/img-slide/mtr-fuel-2.jpg"
-        />
+         alt="Fuel for the MTR mockup (AEC)" />
       </div>
     </div>
     <p class="small">Fuel for the MTR mockup (<a
@@ -211,7 +211,7 @@ ORNL</a>)</p>
           title="Rickover"
           style="max-width: 70%"
           data-src="/img/rickover-1955_lg.jpg"
-        />
+         alt="Admiral Rickover, 1955" />
     <p class="small">Admiral Rickover, 1955</p> 
       </div>
     </div>
@@ -230,7 +230,7 @@ ORNL</a>)</p>
           class="img img-fluid"
           title="MTR fuel 2"
           data-src="/img/launch_of_nautilus.jpg"
-        />
+         alt="Launch of USS Nautilus (1955)" />
     <p class="small">Launch of USS Nautilus (1955)</p> 
       </div>
     </div>

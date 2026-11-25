@@ -52,7 +52,7 @@ Thanks to Ross Koningstein for his help in making this happen.
         <img
           src="/img/nrts-{{index | prepend: '00' | slice: -2, 2 }}.jpg"
           class="img-fluid"
-        />
+          alt="Frame {{ index | prepend: '00' | slice: -2, 2 }} from the New Power film about the Reactor Testing Station (NRTS)" />
       </a>
     </figure>
   </div>

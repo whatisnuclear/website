@@ -40,7 +40,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/shippingport_construction1.jpg" />
+        <img class="img img-fluid" data-src="/img/shippingport_construction1.jpg" alt="Construction of a boiler chamber in the Shippingport PWR (Library of Congress)" />
         <p>Construction of a boiler chamber in the Shippingport PWR (from <a href="https://www.loc.gov/resource/hhh.pa1658.photos/?sp=74">Library of Congress) </a></p>
       </div>
     </div>
@@ -69,7 +69,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/power-demonstration-reactor-program_opt.svg" />
+        <img class="img img-fluid" data-src="/img/power-demonstration-reactor-program_opt.svg" alt="The Power Demonstration Reactor Program (PDRP)" />
       </div>
     </div>
     <aside class="notes"></aside>
@@ -88,7 +88,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/Yankee_Rowe.jpg" />
+        <img class="img img-fluid" data-src="/img-slide/Yankee_Rowe.jpg" alt="Yankee Rowe PWR" />
         <p>Film: <a href="https://www.youtube.com/watch?v=WSMGNuYIdY8">Operating Experience Yankee Rowe (1964)</a></p>
       </div>
     </div>
@@ -110,7 +110,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/fermi-1.jpg" />
+        <img class="img img-fluid" data-src="/img-slide/fermi-1.jpg" alt="Fermi-1 sodium-cooled fast reactor" />
       </div>
     </div>
     <aside class="notes"></aside>
@@ -134,7 +134,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/Hallam_nuclear_power_facility_core.jpg" />
+        <img class="img img-fluid" data-src="/img-slide/Hallam_nuclear_power_facility_core.jpg" alt="The Hallam Sodium-cooled Graphite-moderated Reactor (SGR)" />
         <p>Film: <a href="https://www.youtube.com/watch?v=ey1MO_1DkL4">The Hallam Reactor (1964)</a></p>
       </div>
     </div>
@@ -159,7 +159,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/vids/rural/boy-and-elk-river.jpg" />
+        <img class="img img-fluid" data-src="/img/vids/rural/boy-and-elk-river.jpg" alt="The Elk River reactor with its small crew" />
         <p>Film: <a href="https://www.youtube.com/watch?v=Dft1fPWFgD8">Nuclear Energy Goes Rural (1963)</a></p>
       </div>
     </div>
@@ -182,7 +182,7 @@
           </ul>
       </div>
       <div class="col-4">
-        <img class="img img-fluid" data-src="/img-slide/piqua-city-overview_sm.jpg" />
+        <img class="img img-fluid" data-src="/img-slide/piqua-city-overview_sm.jpg" alt="The Piqua organic-cooled/moderated reactor in Ohio" />
       </div>
     </div>
     <aside class="notes"></aside>
@@ -202,7 +202,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/pathfinder.jpg" />
+        <img class="img img-fluid" data-src="/img-slide/pathfinder.jpg" alt="Pathfinder superheat BWR in Sioux Falls, SD" />
       </div>
     </div>
     <aside class="notes"></aside>
@@ -224,7 +224,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/bonus-01.jpg" />
+        <img class="img img-fluid" data-src="/img/bonus-01.jpg" alt="BONUS superheat BWR near Rincón, Puerto Rico" />
       </div>
     </div>
     <aside class="notes"></aside>
@@ -249,7 +249,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/cvtr_site.jpg" />
+        <img class="img img-fluid" data-src="/img/cvtr_site.jpg" alt="Carolinas-Virginia Tube Reactor (CVTR) in Parr, SC" />
         <p>Co-located coal, hydro, and nuclear, thought to be unique worldwide.</p>
       </div>
     </div>
@@ -272,14 +272,14 @@
           </ul>
       </div>
       <div class="col-4">
-        <img class="img img-fluid" data-src="/img-slide/peach-bottom.jpg" />
+        <img class="img img-fluid" data-src="/img-slide/peach-bottom.jpg" alt="Peach Bottom High-Temperature Gas-Cooled Reactor (HTGR) in PA" />
       </div>
     </div>
     <aside class="notes"></aside>
   </section>
 
   <section>
-    <img class="img img-fluid r-stretch" data-src="/img-slide/peach-bottom-ultimate.png" />
+    <img class="img img-fluid r-stretch" data-src="/img-slide/peach-bottom-ultimate.png" alt="Peach Bottom HTGR (diagram)" />
     <aside class="notes"></aside>
   </section>
 
@@ -298,7 +298,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/big_rock.jpg" />
+        <img class="img img-fluid" data-src="/img/big_rock.jpg" alt="Big Rock Point high-power-density BWR in MI" />
       </div>
     </div>
     <aside class="notes"></aside>
@@ -319,7 +319,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/La_Crosse_Boiling_Water_Reactor_nrc.jpg" />
+        <img class="img img-fluid" data-src="/img-slide/La_Crosse_Boiling_Water_Reactor_nrc.jpg" alt="La Crosse 50 MWe BWR in Wisconsin (NRC photo)" />
         <p><a href="https://www.flickr.com/photos/nrcgov/17236369034/" >NRC photo</a></p>
       </div>
     </div>
@@ -339,7 +339,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/san-onofre-1.jpg" />
+        <img class="img img-fluid" data-src="/img-slide/san-onofre-1.jpg" alt="San Onofre 375 MWe PWR in California (DOE photo)" />
         <p><a href="https://www.flickr.com/photos/departmentofenergy/11876884376/in/photolist-j6w8Wy" >San Onofre 1 (DOE photo)</a></p>
       </div>
     </div>

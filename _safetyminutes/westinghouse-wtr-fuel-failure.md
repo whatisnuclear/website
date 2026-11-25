@@ -10,7 +10,7 @@ image: /img/wtr-carwash_sm.jpg
 
 <section>
   <h2 id="pres-title">{{page.title}}</h2>
-  <img src="{% link {{page.image}} %}" class="img-fluid w-25" />
+  <img src="{% link {{page.image}} %}" class="img-fluid w-25" alt="Workers inspecting the interior of an operating reactor vessel" />
   <p id="event-c" class="frontmatter small">Waltz Mill site, 20 miles southeast of Pittsburgh<span id="event"></span></p>
   <p class="frontmatter small"><span id="date">April 3, 1960</span></p>
   <p class="attribution">

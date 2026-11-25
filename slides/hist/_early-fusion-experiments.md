@@ -22,7 +22,7 @@
           title="The Columbus II experiment"
           class="img img-fluid"
           data-src="/img-slide/columbus-ii.jpg"
-        />
+         alt="The Columbus II pinch experiment at LASL: 100,000 Joules in July 1957" />
         <p class="small">
           The Columbus II pinch experiment at LASL: 100,000 Joules in July 1957 (<a
             href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015012892249"
@@ -60,28 +60,28 @@ Required conditions:
         <img
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-31.jpg"
-        />
+         alt="Fusion exhibit — Fig 8 Stellarator" />
         <p class="small">Fig 8 Stellarator</p>
       </div>
       <div class="col-3">
         <img
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-32.jpg"
-        />
+         alt="Fusion exhibit — B-2 Stellarator (working!)" />
         <p class="small">B-2 Stellarator (working!)</p>
       </div>
       <div class="col-3">
         <img
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-33.jpg"
-        />
+         alt="Fusion exhibit — Model C Stellarator" />
         <p class="small">Model C Stellarator</p>
       </div>
       <div class="col-3">
         <img
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-34.jpg"
-        />
+         alt="Fusion exhibit — Pinch capacitor bank" />
         <p class="small">Pinch capacitor bank</p>
       </div>
     </div>
@@ -90,28 +90,28 @@ Required conditions:
         <img
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-39.jpg"
-        />
+         alt="Fusion exhibit — Direct Current Experiment" />
         <p class="small">Direct Current Experiment</p>
       </div>
       <div class="col-3">
         <img
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-36.jpg"
-        />
+         alt="Fusion exhibit — Rotating plasma experiment" />
         <p class="small">Rotating plasma experiment</p>
       </div>
       <div class="col-3">
         <img
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-40.jpg"
-        />
+         alt="Fusion exhibit — Scylla" />
         <p class="small">Scylla</p>
       </div>
       <div class="col-3">
         <img
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-41.jpg"
-        />
+         alt="Fusion exhibit — Perhapsatron" />
         <p class="small">Perhapsatron</p>
       </div>
     </div>
@@ -126,7 +126,7 @@ Required conditions:
           title="Fusion figure of merit"
           class="img img-fluid"
           data-src="/img-slide/fusion-progress.png"
-        />
+         alt="Fusion progress (Wurzel)" />
         <p class="small">
           Fusion progress (<a
             href="https://suli.pppl.gov/2022/course/2022-06-21%20SULI%20Fusion%20Lawson%20talk%20-%20Wurzel.pdf"
