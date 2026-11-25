@@ -20,7 +20,10 @@
   type="application/rss+xml"
 >
 
-<meta content="{{ site.data.authors[page.author].name }}" name="author">
+{%- assign page_author = site.data.authors[page.author] -%}
+{%- if page_author -%}
+  <meta content="{{ page_author.name }}" name="author">
+{%- endif -%}
 
 <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -35,7 +38,7 @@
   content="{{ page.url | replace:'index.html','' | absolute_url }}"
   property="og:url"
 >
-<meta content="What is nuclear?" property="og:site_name">
+<meta content="{{ site.title | escape }}" property="og:site_name">
 {% if page.date -%}
   <meta name="date" content="{{ page.date  | date: '%Y-%m-%d'}}">
   <meta name="citation_date" content="{{ page.date  | date: '%Y-%m-%d'}}">
@@ -79,7 +82,7 @@
 {% endif %}
 
 <meta content="website" property="og:type">
-<meta content="/img/reactor_web.svg" property="og:logo">
+<meta content="{{ site.url }}/img/reactor_web.svg" property="og:logo">
 
 <meta content="@{{ site.twitter_username }}" name="twitter:site">
 <meta content="@{{ site.twitter_username }}" name="twitter:creator">
