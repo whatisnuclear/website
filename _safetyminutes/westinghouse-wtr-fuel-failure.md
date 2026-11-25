@@ -77,11 +77,13 @@ image: /img/wtr-carwash_sm.jpg
 <section data-background-image="/img/wtr-fuel.jpg"
   data-background-size="contain"
   data-background-repeat="no-repeat" >
+  <h2 class="visually-hidden">Westinghouse Test Reactor fuel</h2>
 </section>
 
 <section data-background-image="/img/wtr-melted-fuel.jpg"
   data-background-size="contain"
   data-background-repeat="no-repeat" >
+  <h2 class="visually-hidden">Melted Westinghouse Test Reactor fuel</h2>
 </section>
 
 <section markdown="1">

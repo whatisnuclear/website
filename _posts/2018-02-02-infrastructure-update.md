@@ -10,13 +10,13 @@ byline: true
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-### Old content revival
+## Old content revival
 
 We revived some of the older content
 that never made the transition to our mobile-friendly site and a reorganization
 of the top menu. You'll find a lot more to explore in there.
 
-### Github source
+## Github source
 
 We're announcing the [whatisnuclear github site](https://github.com/whatisnuclear) where
 we will be storing the source of this entire webpage as well as a collection
@@ -25,12 +25,12 @@ for other nuclear experts to collaborate with us and add/modify/update content a
 to have a common place to store and retrieve outreach material to help teach
 people about nuclear energy.
 
-### New license
+## New license
 
 We've [licensed](/license.html) the site CC-BY-NC, which means you can share and copy
 the content as long as you credit us and link to us, but you can't directly sell it.
 
-### New site generator
+## New site generator
 
 We've started using the [Jekyll](https://jekyllrb.com/) static site generator
 behind the scenes here. This will help us change and maintain the site better, and

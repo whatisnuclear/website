@@ -41,5 +41,5 @@ jobs:
           --no-stream
           --format text
           --filterpattern
-          ".*Trailing.*|.*:key.*|.*@click.*|.*:label.*|.*v-if.*|.*v-else.*|.*v-for.*|.*:color.*"
+          ".*Trailing.*|.*:key.*|.*@click.*|.*:label.*|.*v-if.*|.*v-else.*|.*v-for.*|.*:color.*|.*Section lacks heading.*"
           $(find _site -name '*.html' ! -path '*/dist/*' | tr '\n' ' ')
