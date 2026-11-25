@@ -51,7 +51,7 @@ fossil fuel to electric only serves to put more power demand burden on the
 power plants. The electricity and hydrogen has to be generated from somewhere,
 and that somewhere falls right back to the power industry. If we continue to
 generate electricity using coal plants with the additional demand from electric
-cars, then we will simply increase the release of green house gas and further
+cars, then we will simply increase the release of greenhouse gas and further
 global warming. The potential replacements for coal are many, but each has
 their shortcomings, therefore we must pursue every solution accordingly.
 
@@ -111,7 +111,7 @@ You have said you are willing to consider nuclear power, if it is
 safe. Although I may be biased because I am studying the field, but I do
 believe that over the past 50 years that nuclear power plants have been
 operating, there are only two major nuclear power plant mishaps; and the one
-that happened in Three Miles Island caused no direct deaths. Nuclear power also
+that happened in Three Mile Island caused no direct deaths. Nuclear power also
 has a much higher safety factor in every one of its components than similar
 components for conventional power plants, and rightly so. However, despite its
 record and strict regulations, people are still not convinced that nuclear

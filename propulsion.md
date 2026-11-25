@@ -104,7 +104,7 @@ reduce the emissions from the huge amount of international shipping that's ongoi
 <a href="/img/HTRE-2.jpg"><img src="/img/HTRE-2-sm.jpg" alt="The HTRE-2 test reactor hooked to jets for airplanes" class="img img-responive float-end" style="width:350px;padding:15px;"/></a>
 Nuclear propulsion is well-suited for [space travel]({% link space.md %}) and rockets, so that's
 under development. The Russians did have some nuclear-powered tanks.
-Before intercontinnental ballistic missiles were developed, the US Air
+Before intercontinental ballistic missiles were developed, the US Air
 Force worked a lot on the Aircraft Nuclear Propulsion project to make
 a nuclear-powered long-range airplane. Various test reactors like the HTRE-2
 pictured here were operated

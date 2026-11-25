@@ -433,7 +433,7 @@ any nuclear build.
 ### Idea phase
 
 - Do hand-calcs
-- Run simple MCNP calcs and have a retired nobel prize winner review them (for clout)
+- Run simple MCNP calcs and have a retired Nobel prize winner review them (for clout)
 - Make PowerPoints
 - Talk big online
 

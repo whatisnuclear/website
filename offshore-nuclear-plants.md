@@ -238,7 +238,7 @@ Maine to the coast of Texas, with a wide variety of topics in some depth, includ
 - Environmental impacts due to construction (including the effects of the transport of the
   FNPP to a typical site)
 - Environmental impacts of station operations on aquatic biota, effects of chemical and
-  biocide discharges , and effects of temperature chages on phytoplankton, benthos, and
+  biocide discharges , and effects of temperature changes on phytoplankton, benthos, and
   fishes.
 - Effluent and environmental measurement and monitoring programs (meteorological,
   hydraulic, thermal, radiological, and ecological)
@@ -500,7 +500,7 @@ climate.
 
 [4] [Offshore Jersey A Plant Backed in Federal Study](https://www.nytimes.com/1976/04/10/archives/article-1-no-title-offshore-jersey-aplant-backed-in-federal-study.html) — Discussion of opposition, fear that beaches would be shunned
 
-[5] [NUREG-75/113 Draft Environmental Statement by NRC realted to the Manufacture of floating
+[5] [NUREG-75/113 Draft Environmental Statement by NRC related to the Manufacture of floating
 nuclear power plants by offshore power systems, pt.2 : environmental impact statement.
 (1975)](https://babel.hathitrust.org/cgi/pt?id=ien.35556030595474&view=thumb&seq=141)
 

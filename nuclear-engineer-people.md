@@ -100,7 +100,7 @@ Furthermore, the method is used every time the reactor is refueled.
 In order to establish those points I need to perfectly know what happens during the accident. It
 means I need to run simulations of the transient in all conditions, on several type of reactors. To
 give numbers, I guess I have run more than a thousand simulations during my 10 months of work in
-order to be able to extract the criterias that are going to be studied each time some new fuel is
+order to be able to extract the criteria that are going to be studied each time some new fuel is
 loaded in the plant.
 
 This leads me to talk about a difficulty I encountered during my first months: each time you present

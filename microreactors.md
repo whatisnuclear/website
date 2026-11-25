@@ -270,7 +270,7 @@ that timeline. This will lead to more people getting more hands-on experience
 with new types of reactors than we've had in decades, which is an absolute
 and excellent win.
 
-The microreactors will probably not run economically or reliablly at first, but
+The microreactors will probably not run economically or reliably at first, but
 since they are small and relatively cheap, design iterations can be executed
 quickly and economically. This is another major advantage of the microreactor
 scale: it allows for (relatively) rapid iteration and learning. Microreactors

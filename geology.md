@@ -168,7 +168,7 @@ it'd be an unbelievable coincidence that these independent methods agree so well
 Another fun fact is that 2 billion years ago, conditions in Africa were such that a
 natural nuclear reactor went critical at Oklo. The abundances of fission products from
 this reactor are measurable today, and they are consistent with constant half-lives. So
-this at leasts tells us that the half-lives were constant for the past 2 billion years.
+this at least tells us that the half-lives were constant for the past 2 billion years.
 
 ## The isotopic abundances were uniform throughout the solar system in the beginning
 

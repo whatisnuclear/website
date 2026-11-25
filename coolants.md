@@ -479,7 +479,7 @@ There are some economic challenges with FLiBe. The lithium generally has to be
 isotopically enriched in Li-7 to minimize parasitic neutron absorption and tritium
 production from the Li-6 isotope.
 
-Futhermore, Beryllium is an industrial inhalation hazard. This is more of a
+Furthermore, Beryllium is an industrial inhalation hazard. This is more of a
 concern when machining solid beryllium, and certainly can and is handled with
 appropriate precautions, but it's certainly another cost adder.
 

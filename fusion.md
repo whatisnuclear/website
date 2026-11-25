@@ -44,7 +44,7 @@ There are three fundamental ways people have tried to do this:
 - **Inertial confinement** --- Using lasers and/or x-rays and/or mechanical compression to squeeze
   atoms together really well. Examples include the US National Ignition Facility
 - **Magnetic confinement** --- Using superconducting magnets in to squeeze atoms together really
-  well. Examples include tokamaks, stellerators, spheromaks, etc.
+  well. Examples include tokamaks, stellarators, spheromaks, etc.
 - **Gravitational confinement** --- Using a ridiculously huge mass to make enough gravity to cause
   fusion. The sun and stars do this but humans won't be doing it anytime soon.
 

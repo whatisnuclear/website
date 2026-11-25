@@ -301,7 +301,7 @@ Enrico Fermi
   hundreds of universities. The basis of the [Swimming Pool
   Reactor](https://en.wikipedia.org/wiki/Swimming_pool_reactor)
 - Tower Shielding Facility (TSF) was like that but operated hoisted in the air
-  by 3 towers to see what radiation out of a plane would be like. Air forced
+  by 3 towers to see what radiation out of a plane would be like. Air Force
   loved this kind of thing. Here's a 46 MB report about it called: [The Tower
   Shielding Facility: Its glorious past](https://www.osti.gov/biblio/303930).
   Amazingly, the TSF doesn't seem to have a Wikipedia page!? Here's a [more

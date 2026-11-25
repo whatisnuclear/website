@@ -213,7 +213,7 @@ in dry casks at the Columbia Generating Station in Washington state.
 
 To our knowledge, no one has been injured or killed by commercial nuclear waste in dry
 cask storage. While future incidents are possible, it is fairly clear that the rate of
-injury from this material pales almost in insignificance compared to the 8 million people
+injury from this material pales almost in significance compared to the 8 million people
 per year who actually do die from [air pollution complications caused by fossil fuel and
 biofuel particulate emissions (WHO numbers)](https://www.who.int/health-topics/air-pollution).
 Not to mention potential future mortality due to climate change.

@@ -203,7 +203,7 @@ In my mind, this kind of fraud likely lead to the overall decline in the public'
 trust of experts in general, and especially with respect to radiation!
 </div>
 
-172 On March 1, 1954, the first [test of of a dry thermonuclear weapon
+172 On March 1, 1954, the first [test of a dry thermonuclear weapon
 occurred](https://en.wikipedia.org/wiki/Castle_bravo). Unlike the Mike shot, this
 _Castle Bravo_ test used Lithium-Deuteride fuel, which had significantly reduced
 tritium requirements, and did not require the vast cryogenic equipment that _Mike_
@@ -499,7 +499,7 @@ the press.
 
 351 The 1956 election campaign vs. Stevenson was the first election where nuclear
 issues were prominently featured. Eisenhower easily won, but the AEC, its leadership,
-and its programs payed a political price and lost more public confidence.
+and its programs paid a political price and lost more public confidence.
 
 353 The EBR-1 core meltdown raise safety concerns regarding the Fermi 1 fast reactor
 project near Detroit. The ACRS warned the general manager that more study of the
@@ -782,7 +782,7 @@ continued the Hallam Nebraska one even though it wouldn't produce good engineeri
 data.
 
 505 McCone was not excited about the Joint Committee's request for gas-cooled
-reactors because they were too different from what we new. He was also not excited
+reactors because they were too different from what we knew. He was also not excited
 about fluid fuel reactors for similar reasons.
 
 506 The [Merchant Nuclear ship NS

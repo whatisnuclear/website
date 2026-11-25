@@ -47,7 +47,7 @@ src="/img/half-life.svg" alt="Graph of atoms vs. time for different half-lives"/
 
 Materials with shorter half-lives are the most dangerous, since they are
 'shooting out bullets' rapidly and can cause faster cell damage. Fortunately,
-they naturally decay to stability faster. Materials with longer half-live cause
+they naturally decay to stability faster. Materials with longer half-life cause
 less rapid cell damage but are around longer.
 
 Many materials created during the operation of a <a href="{% link reactors.md
@@ -56,7 +56,7 @@ both the [waste]({% link waste.md %}) and safety concerns related to nuclear
 energy.
 
 The amount of cell damage radiation can do is proportional to the energy
-transfered to the cells. This is quantified by _radioactive dose_. Measurable
+transferred to the cells. This is quantified by _radioactive dose_. Measurable
 dose rates span many orders of magnitude, from detectable but harmless to
 deadly. The ranges are summarized by the following DOE figure:
 

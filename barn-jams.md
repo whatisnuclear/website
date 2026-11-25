@@ -164,7 +164,7 @@ nuclear models, allowing the creation of smooth curves of interaction
 probability vs. the energy of the incoming neutron. There is a huge amount of
 work that goes into choosing the best averages of measured data and fitting the
 nuclear models to the results. Such <em>nuclear data evaluations</em> are
-performed by various organizations such as CSWEG [2]. The results of an
+performed by various organizations such as CSEWG [2]. The results of an
 evaluation are distributed broadly to nuclear physicists, reactor designers,
 and all sorts of other people who use the information in their computer models.
 Thus, nuclear data is the connection between fundamental nuclear physics and

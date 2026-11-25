@@ -164,7 +164,7 @@ beta radiation and discovers half-life
 mass is concentrated in a small nucleus
 1920 Rutherford theorizes a "neutron"
 1932 Chadwick identifies neutrons
-1938 Hann and Strassman split uranium
+1938 Hahn and Strassman split uranium
 atoms with neutrons, Meitner and Frisch
 explain what's happening and name it "fission"
 1939 Fermi and Szilard measure neutron

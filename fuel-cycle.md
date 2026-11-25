@@ -19,7 +19,7 @@ configurations may make more sense than others in certain areas based on natural
 availability, energy growth projections, and politics. All commercial power-producing reactors in
 the USA are operating on a once-through cycle (which is more of a line than a cycle), while some in
 Europe and Asia go through a once- or twice-recycled cycle (which sounds funny). The economics,
-politics, and long-term sustainablity of nuclear energy depend critically on fuel cycles.
+politics, and long-term sustainability of nuclear energy depend critically on fuel cycles.
 
 ## The front end of the fuel cycle (from the mine to the reactor)
 

@@ -70,7 +70,7 @@ href="{% link fast-reactor.md %}">fast reactors</a>. Only they have the neutron 
 operation.
 
 <h2 id="whynew">Why haven&rsquo;t we built TWRs before?</h2>
-TWRs are are unique among reactors in that they require a minimum fuel burnup in order to work.
+TWRs are unique among reactors in that they require a minimum fuel burnup in order to work.
 It&rsquo;s a matter of conservation of neutrons -- enough of them must be absorbed in the depleted
 uranium (DU) before it becomes a useful fuel. The amount of time required for the fuel to stay in
 the reactor is longer than fuel has stayed in a reactor in the industry&rsquo;s experience. Special

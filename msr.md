@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Molten salt reactors
-category: reactor-types yeah
+category: reactor-types
 description: Molten salt reactors are completely different types of nuclear reactors than those currently operating. They have interesting benefits, and a different set of problems. This page discusses what they are, what they can do, what issues they face, and their history.
 author: nick
 byline: true
@@ -143,7 +143,7 @@ double-layer containment around it, sure, but it is still challenging to keep th
 for. Where some of these fission products and actinides are radioactive, others have chemical
 effects that can eat away at the containment. The implications of this are many.</p>
 <ul>
-<li><strong>Material Degredation</strong> &mdash; with half the periodic table of the elements
+<li><strong>Material Degradation</strong> &mdash; with half the periodic table of the elements
 	dissolved in salt and in contact with the containment vessel, there are lots of corrosion
 	and related concerns. Noble metals will naturally plate out on cold metal surfaces. In a
 	power reactor, a heat exchanger will be the coldest metal around, and so the heat transfer
@@ -163,7 +163,7 @@ effects that can eat away at the containment. The implications of this are many.
 <li><strong>Complex chemical plant</strong> &mdash; Some of the fission product removal is simple,
 	such as the gas sparging to remove Xe and Kr, and noble metal plateout. But to do the more
 	serious fission product (or actinide) separation, complex processes are required, such as
-	the liquid Bismuth reductive process, volatilization, or electoplating. These have been
+	the liquid Bismuth reductive process, volatilization, or electroplating. These have been
 	studied in detail, but are complex enough to be a disadvantage. Don&rsquo;t make us post a
 	process flow diagram. (You can find one from the MSBR on page 8 of <a
     href="https://www.osti.gov/scitech/biblio/6650305">ORNL-TM-6413</a>.)</li>
@@ -180,7 +180,7 @@ a bomb already, they think. Here&rsquo;s what they are worried about.</p>
 <li><strong>Protactinium-233 decays to pure, weapons-grade U-233</strong> &mdash; Many Thorium-cycle
 	MSRs have to capture Pa as it is produced, removing it from the system while it decays to
 	U-233 and then reinserting it into the reactor. They have to do this because otherwise the
-	Pa-233 absorbs too many neutrons to maintain a breeding cycle. The problem here is that that
+	Pa-233 absorbs too many neutrons to maintain a breeding cycle. The problem here is that
 	ex-core U-233 is basically pure weapons-grade U-233 which could be used to make a bomb. It
 	usually comes with Zr, but separating Pa from Zr is simple. Not many common reactors require
 	such a proliferative step in their fuel cycle. Many MSR concepts do not do this, but

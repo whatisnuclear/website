@@ -97,7 +97,7 @@ Also, you agree that you will not do any of the following in connection with the
 - Use the Service in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Service or that could damage, disable, overburden or impair the functioning of the Service;
 - Impersonate or post on behalf of any person or entity or otherwise misrepresent your affiliation with a person or entity;
 - Collect any personal information about other users, or intimidate, threaten, stalk or otherwise harass other users of the Service;
-- Create an account or post any content if you are not over 13 years of age years of age; and
+- Create an account or post any content if you are not over 13 years of age; and
 - Circumvent or attempt to circumvent any filtering, security measures, rate limits or other features designed to protect the Service, users of the Service, or third parties.
 
 ## **WHATISNUCLEAR** Materials

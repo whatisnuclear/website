@@ -80,7 +80,7 @@ and used sodium metal to cool the reflector. Some modern reactor concepts also
 utilize both sodium metal and molten salt.
 
 Note that while sodium metal is not in any way a salt, some salts, like Sodium-Chloride
-(table salt) contain sodium. This is the sodium people refer to in nutrition. Others salts
+(table salt) contain sodium. This is the sodium people refer to in nutrition. Other salts
 (like Potassium-Chloride and FLiBe) do not contain any sodium.
 
 # See Also

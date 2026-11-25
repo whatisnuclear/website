@@ -39,7 +39,7 @@ many of them made the switch and started supporting nuclear because it's extreme
 - James Lovelock, who originated Gaia Theory, has become [strongly pro-nuclear](https://www.jameslovelock.org/nuclear-energy-for-the-21st-century/).
 - Patrick Moore, co-founder of Greenpeace, [has become pro-nuclear](https://www.washingtonpost.com/wp-dyn/content/article/2006/04/14/AR2006041401209.html) (before he started denying climate change outright, but that's another story).
 - Author Gwyneth Cravens documented her switch to being pronuclear in the book [Power to Save the World](https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World)
-- Recent movie [The New Fire](https://www.newfiremovie.com/) is all about millenials starting nuclear companies to combat climate change.
+- Recent movie [The New Fire](https://www.newfiremovie.com/) is all about millennials starting nuclear companies to combat climate change.
 
 A lot of momentum and support for nukes grew because of climate change. That's certainly how I got
 into nuclear!

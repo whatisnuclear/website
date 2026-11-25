@@ -81,7 +81,7 @@ prove equally detrimental to its future. Here are a few of the more toxic attitu
     and its overall lower externalities (see attached table from the EXTERNE study).
     Similarly, fail to remind one and all that nuclear power has already internalized most of
     its costs; e.g., the first layer (non-governmental) of Price-Anderson insurance, fees paid
-    the NRC to cover the costs of regulation, the 1 mill/kWhre waste disposal fee, etc.
+    the NRC to cover the costs of regulation, the 1 mill/kWh waste disposal fee, etc.
 
 7.  **Toleration of wasteful government boondoggles**, the latest being the initiative by USEC to
     resurrect a domestic enrichment centrifuge program (on which some $3.6 billion were

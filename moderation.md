@@ -102,7 +102,7 @@ parameters" />
 
 As you can see in the last column, deuterium (heavy hydrogen) is by far the best
 moderator. But regular hydrogen (aka light hydrogen) in water is OK. This is why
-deutrerium reactors (like [CANDU]({% link candu.md %})) can run without
+deuterium reactors (like [CANDU]({% link candu.md %})) can run without
 [enrichment]({% link isotopes.md %}#enrichment) but light-water reactors cannot.
 
 ## Why are moderated reactors called thermal reactors?
