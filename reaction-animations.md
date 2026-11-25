@@ -3,6 +3,7 @@ layout: default
 title: Nuclear Reaction Animations
 description: Simple nuclear reaction animations
 author: nick
+sitemap: false
 ---
 
 <div class="row">

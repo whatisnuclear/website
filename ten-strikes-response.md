@@ -2,6 +2,7 @@
 layout: default
 title: Response to Ten Strikes
 description: Response to anti-nuclear activism
+sitemap: false
 ---
 
 <div class="row">
@@ -13,7 +14,7 @@ description: Response to anti-nuclear activism
 
 ## Co-op America&rsquo;s view
 
-<p>Summarized from <a href="http://www.coopamerica.org/programs/climate/dirtyenergy/nuclear.cfm">Co-op America</a></p>
+<p>Summarized from <a href="https://www.coopamerica.org/programs/climate/dirtyenergy/nuclear.cfm">Co-op America</a></p>
 <p>Co-op America has posted 10 reasons why nuclear power can&rsquo;t help with our energy problems. We briefly summarize their views here for comparison with ours, but you would be best off reading directly from their site. </p>
 
 ## Our view
@@ -84,8 +85,8 @@ description: Response to anti-nuclear activism
 
 <h2>References</h2>
 <ul>
-<li><a href="http://www.epa.gov/rpdweb00/understand/calculate.html">EPA dose calculations</a></li>
-<li><a href="http://discovermagazine.com/2007/jun/life-is-rad">Discover Magazine - &rsquo;Everything Emits Radiation&rsquo;</a></li>
+<li><a href="https://www.epa.gov/rpdweb00/understand/calculate.html">EPA dose calculations</a></li>
+<li><a href="https://discovermagazine.com/2007/jun/life-is-rad">Discover Magazine - &rsquo;Everything Emits Radiation&rsquo;</a></li>
 </ul>
 </div>
 </div>

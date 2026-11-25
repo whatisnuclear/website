@@ -6,6 +6,7 @@ author: nick
 layout: default
 date: 2022-11-17
 image: /img/kid_in_atom.jpg
+sitemap: false
 ---
 
 <div class="row">
