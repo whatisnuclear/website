@@ -29,6 +29,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install gems
+        run: bundle install
+
       - name: Build site
         run: bundle exec jekyll build
 
