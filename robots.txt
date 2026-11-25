@@ -1,5 +1,3 @@
 User-Agent: *
 Disallow: /cgi-bin/
 Disallow: /cgi-data/
-Disallow: /css/
-Disallow: /sitemap/
