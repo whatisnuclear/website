@@ -13,12 +13,6 @@ image: /img/posts/topaz/topaz10.jpg
 comments: true
 ---
 
-<style>
-  figure.float-end {
-    clear: right;
-  }
-</style>
-
 <div class="row">
 <div class="col-md-12" markdown="1">
 

@@ -23,8 +23,10 @@ Here are a number of interesting factlets about nuclear energy, including detail
 
 {% capture imgs  %}
 {%- for calc in site.calcs -%}
+{%- if calc.image -%}
 {{ calc.image }},
-{%-endfor-%}
+{%- endif -%}
+{%- endfor -%}
 {% endcapture%}
 
 {% assign imgs = imgs|split:","|uniq |compact %}
@@ -55,7 +57,7 @@ unit conversions automatically, which simplifies things greatly.
 <div class="col-lg-4" markdown="1">
 {% for img in imgs %}
 <p>
-<img class="img-fluid rounded p-1" src="{{ img }}"/>
+<img class="img-fluid rounded p-1" src="{{ img }}" alt="" />
 </p>
 {% endfor %}
 </div>

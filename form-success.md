@@ -10,7 +10,7 @@ permalink: /cgi-data/success.html
 
 # Your message was submitted
 
-### Thanks for your input!
+## Thanks for your input!
 
 _Don't forget to check your spam box for a reply if you don't see one, especially if you use gmail._
 

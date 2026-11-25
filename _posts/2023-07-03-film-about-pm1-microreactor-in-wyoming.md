@@ -83,8 +83,7 @@ Thanks to Ross Koningstein for his help in making this happen.
 - [Power Reactors in Small Packages](https://babel.hathitrust.org/cgi/pt?id=uc1.a0003433729&view=1up&seq=1)
 - [Record of Decision FORMER SUNDANCE AIR FORCE STATION, PM-1 REACTOR SITE OFF-SITE RELEASE (2011)](https://semspub.epa.gov/work/08/1216052.pdf)
 
-As for what happened in the end, the [PM-1 Final Summary Report](/assets/PM-1%20
-Final%20Summary%20Report.pdf) explains the situation clearly. This report contains
+As for what happened in the end, the [PM-1 Final Summary Report](/assets/PM-1%20Final%20Summary%20Report.pdf) explains the situation clearly. This report contains
 the lessons learned after operating the military microreactor for 4 years.
 It highlights all the unplanned outages, maintenance costs, and lists the
 performance of each individual system. It's highly readable, but to summarize

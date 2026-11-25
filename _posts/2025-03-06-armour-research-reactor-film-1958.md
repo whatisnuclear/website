@@ -41,7 +41,7 @@ uprating. It was shut down in 1967 and the license was terminated on April 28, 1
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-### Stills from the film
+## Stills from the film
 
 <div class="row">
  {% for index in (1..32) %} 
@@ -59,7 +59,7 @@ uprating. It was shut down in 1967 and the license was terminated on April 28, 1
           alt="{{caption}}"
         />
       </a>
-      <caption>{{caption}}</caption>
+      <figcaption>{{caption}}</figcaption>
     </figure>
   </div>
  {% endfor %}

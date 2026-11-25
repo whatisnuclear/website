@@ -10,7 +10,7 @@ permalink: /cgi-data/failure.html
 
 # Your message failed to submit
 
-### Something is probably wrong with our server. Sorry!
+## Something is probably wrong with our server. Sorry!
 
 Or else you said you were a spam bot. Spam bots not allowed.
 

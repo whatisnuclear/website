@@ -108,6 +108,7 @@ figure {
   right: 0;
   width: 100%;
   height: 100%;
+  border: 0;
 }
 
 #newsCarousel .carousel-control-prev,
@@ -247,4 +248,9 @@ figure {
 .description summary:hover .description-more,
 .description summary:hover .description-less {
   text-decoration: underline;
+}
+
+/* Floating figures that should push following content down */
+figure.float-end {
+  clear: right;
 }

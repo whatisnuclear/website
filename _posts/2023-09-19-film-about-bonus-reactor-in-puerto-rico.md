@@ -59,7 +59,7 @@ Thanks to Brett Rampal for funding the digitization of this film.
           alt="{{caption}}"
         />
       </a>
-      <caption>{{caption}}</caption>
+      <figcaption>{{caption}}</figcaption>
     </figure>
   </div>
  {% endfor %}

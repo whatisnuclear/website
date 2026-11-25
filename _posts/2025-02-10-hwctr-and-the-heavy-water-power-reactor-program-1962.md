@@ -53,7 +53,7 @@ class="img-fluid" alt="NTS logo"></a>
 <div class="row">
 <div class="col-md-12" markdown="1">
 
-### Stills from the film
+## Stills from the film
 
 <div class="row">
  {% for index in (1..73) %} 
@@ -71,7 +71,7 @@ class="img-fluid" alt="NTS logo"></a>
           alt="{{caption}}"
         />
       </a>
-      <caption>{{caption}}</caption>
+      <figcaption>{{caption}}</figcaption>
     </figure>
   </div>
  {% endfor %}
