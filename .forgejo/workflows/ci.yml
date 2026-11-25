@@ -39,4 +39,4 @@ jobs:
           --format text
           --filterpattern
           ".*Trailing.*|.*:key.*|.*@click.*|.*:label.*|.*v-if.*|.*v-else.*|.*v-for.*|.*:color.*"
-          _site/*.html
+          $(find _site -name '*.html' ! -path '*/dist/*' | tr '\n' ' ')

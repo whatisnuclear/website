@@ -2,7 +2,7 @@
   <section>
     <h3 class="r-fit-text">EARLY REACTORS</h3>
     <aside class="notes"></aside>
-    <img
+    <img src="/img/blank.png"
       class="r-frame"
       style="background: rgba(255, 255, 255, 0.1)"
       width="178"
@@ -13,7 +13,7 @@
   </section>
   <section>
     <h3>The Starting Point</h3>
-    <img
+    <img src="/img/blank.png"
       title="Reactors PDRP"
       class="r-stretch"
       data-src="/img/cp1-lithograph-nsrc.jpg"
@@ -31,7 +31,7 @@
     <p>There was no enrichment at the time...</p>
     <div class="row">
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           title="The ORNL X-10 Reactor"
           class="img img-fluid"
           data-src="/img/x-10.jpg"
@@ -44,7 +44,7 @@
         </p>
       </div>
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           title="The Hanford B Reactor"
           class="img img-fluid"
           data-src="/img/building_b_reactor.jpg"
@@ -62,19 +62,19 @@
   
   <section>
   <h3>ZEEP and NRX HWRs in Canada</h3>
-  <img class="r-stretch" data-src="/img/zeep.jpg" alt="ZEEP with NRX under construction in the background" />
+  <img src="/img/blank.png" class="r-stretch" data-src="/img/zeep.jpg" alt="ZEEP with NRX under construction in the background" />
   <p>ZEEP with <a href="{% link _posts/2024-11-13-restoration-of-nrx.md %}">NRX</a> under construction in background, from <a href="https://cns-snc.ca/wp-content/uploads/2022/01/Vol_16_No3_1995.pdf">ZEEP: The Little Reactor that Could</a></p>
   </section>
 
   <section>
   <h3>The first-ever nuclear electricity came from X-10 in 1948</h3>
-  <img class="r-stretch" data-src="/img-slide/x-10-steam.jpg" alt="Logan Emlet and his steam-powered generator from the ORNL writeup" />
+  <img src="/img/blank.png" class="r-stretch" data-src="/img-slide/x-10-steam.jpg" alt="Logan Emlet and his steam-powered generator from the ORNL writeup" />
   <p>Logan Emlet and his steam-powered generator from <a href="https://www.ornl.gov/blog/first-nuclear-power">ORNL writeup</a></p>
   </section>
 
   <section>
     <h3>The New Piles Committee</h3>
-    <img class="r-stretch" data-src="/img/new-piles-committee-reactors.png" alt="Some early reactor ideas from MUC-LAO-42" />
+    <img src="/img/blank.png" class="r-stretch" data-src="/img/new-piles-committee-reactors.png" alt="Some early reactor ideas from MUC-LAO-42" />
     <p class="small">
       Some early reactor ideas from
       <a href="https://technicalreports.ornl.gov/1944/3445605702870.pdf"
@@ -123,7 +123,7 @@ Proposed in 1947 to be completed in the early 1950s.
 
 </div>
       <div class="col-4">
-        <img
+        <img src="/img/blank.png"
           title="MTR reactor"
           class="img img-fluid"
           data-src="/img-slide/ebr1-side-view.jpg"
@@ -144,7 +144,7 @@ Proposed in 1947 to be completed in the early 1950s.
     <p>Data source for all future reactors</p>
     <div class="row">
       <div class="col-6">
-<img class="img img-fluid p-0 m-0" 
+<img src="/img/blank.png" class="img img-fluid p-0 m-0" 
 data-src="/img/litr_top.jpg" alt="The LITR reactor top"/>
 <p class="small">The LITR, the 1st
 water-cooled/moderated reactor (<a
@@ -152,7 +152,7 @@ href="https://www.flickr.com/photos/oakridgelab/45752034864">CC-BY-2.0
 ORNL</a>)</p> 
       </div>
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           title="MTR reactor"
           class="img img-fluid p-0 m-0"
           data-src="/img-slide/mtr-floor.jpg"
@@ -173,10 +173,10 @@ ORNL</a>)</p>
     <h3>MTR Fuel Fab for Mockup</h3>
     <div class="row">
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/mtr-fuel-1.jpg" alt="The MTR fuel"/>
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img-slide/mtr-fuel-1.jpg" alt="The MTR fuel"/>
       </div>
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           title="MTR fuel 2"
           data-src="/img-slide/mtr-fuel-2.jpg"
@@ -206,7 +206,7 @@ ORNL</a>)</p>
       </ul>
       </div>
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           title="Rickover"
           style="max-width: 70%"
@@ -222,11 +222,11 @@ ORNL</a>)</p>
     <h3>S1W Submarine Thermal Reactor</h3>
     <div class="row">
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/s1w.jpg" alt="The S1W prototype"/>
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img-slide/s1w.jpg" alt="The S1W prototype"/>
         <p class="small">Prototype submarine in Idaho</p> 
       </div>
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           title="MTR fuel 2"
           data-src="/img/launch_of_nautilus.jpg"
@@ -254,7 +254,7 @@ ORNL</a>)</p>
 
 </div>
       <div class="col-4">
-        <img class="img img-fluid" data-src="/img-slide/sir-schematic-sm.jpg" alt="The Knolls Intermediate Power Breeder"/>
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img-slide/sir-schematic-sm.jpg" alt="The Knolls Intermediate Power Breeder"/>
         <p class="small">The Knolls Intermediate Power Breeder (<a href="https://doi.org/10.2172/4351206">AEC</a>)</p> 
       </div>
     </div>
@@ -275,18 +275,18 @@ ORNL</a>)</p>
     <h3>Aircraft Nuclear Power Program</h3>
     <div class="row">
       <div class="col-4">
-  <a href="/img/nuclear_rocket.jpg"><img class="img-fluid" 
+  <a href="/img/nuclear_rocket.jpg"><img src="/img/blank.png" class="img-fluid" 
   data-src="/img/nuclear_rocket_sm.jpg" alt="A wild looking nuclear jet engine concept art"/></a>
       <p class="small"><a
       href="https://www.osti.gov/biblio/1048124">APEX-901</a></p>
           </div>
       <div class="col-4">
-<a href="/img/HTRE-2.jpg"><img class="img-fluid" 
+<a href="/img/HTRE-2.jpg"><img src="/img/blank.png" class="img-fluid" 
 data-src="/img/HTRE-2-sm.jpg" alt="The HTRE-2 nuclear-heated jet engine"/></a>
 <p class="small">An actual test of a nuclear-powered jet engine in Idaho, called HTRE-2</p>
     </div>
       <div class="col-4">
-<a href="/img/are.jpg"><img
+<a href="/img/are.jpg"><img src="/img/blank.png"
 data-src="/img/are.jpg" alt="ARE" class="img img-fluid center-block" ></a>
 <p class="small">Aircraft Reactor Experiment</p>
       </div>
@@ -298,12 +298,12 @@ data-src="/img/are.jpg" alt="ARE" class="img img-fluid center-block" ></a>
     <h3>The Airplane Shielding Test Reactor was the first to operate in flight</h3>
     <div class="row">
       <div class="col-6">
-  <a href="/img/vids/astr/astr-tower-04_4k.jpg"><img class="img-fluid" 
+  <a href="/img/vids/astr/astr-tower-04_4k.jpg"><img src="/img/blank.png" class="img-fluid" 
   data-src="/img/vids/astr/astr-tower-04_4k.jpg" alt="Reactor in the air"/></a>
       <p class="small">The NB-36 (NTA) with ASTR onboard</p>
           </div>
       <div class="col-6">
-<a href="/img/vids/astr/astr-tower-02_4k.jpg"><img class="img-fluid" 
+<a href="/img/vids/astr/astr-tower-02_4k.jpg"><img src="/img/blank.png" class="img-fluid" 
 data-src="/img/vids/astr/astr-tower-02_4k.jpg" alt="Reactor on tower"/></a>
 <p class="small">The ASTR and flight cabin sans airframe</p>
       </div>
@@ -330,7 +330,7 @@ Intended to power remote areas
 
 </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/anpp-map-crop.jpg" alt="Map of Army nuclear reactors"/>
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img/anpp-map-crop.jpg" alt="Map of Army nuclear reactors"/>
       </div>
     </div>
     <aside class="notes"></aside>
@@ -340,11 +340,11 @@ Intended to power remote areas
     <h3>The Army had true shippable microreactors</h3>
     <div class="row">
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/ml1.jpg" alt="ML-1"/>
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img/ml1.jpg" alt="ML-1"/>
         <p class="small">ML-1 field test in Idaho</p>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/pm1/pm1-12.jpg" alt="PM-1 being loaded onto a C-130"/>
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img/pm1/pm1-12.jpg" alt="PM-1 being loaded onto a C-130"/>
         <p class="small">PM-1 being sent to Wyoming</p>
       </div>
     </div>
@@ -355,11 +355,11 @@ Intended to power remote areas
     <h3>Oft-forgotten shielding challenges</h3>
     <div class="row">
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/ml1-truck.jpg" alt="ML-1 on truck"/>
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img-slide/ml1-truck.jpg" alt="ML-1 on truck"/>
         <p class="small">Actual ML-1 reactor on trailer (<a href="https://doi.org/10.2172/12029770">ML-1 Reactor Relocation</a>)</p>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" style="max-width: 70%" data-src="/img-slide/ml1-dose-shutdown.jpg" alt="ML-1 dose rates"/>
+        <img src="/img/blank.png" class="img img-fluid" style="max-width: 70%" data-src="/img-slide/ml1-dose-shutdown.jpg" alt="ML-1 dose rates"/>
         <p class="small">Dose rate map 10 days after shutdown</p>
       </div>
     </div>
@@ -383,7 +383,7 @@ Intended to power remote areas
 
 </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/pm1/pm1-04.jpg" alt="PM-1 assembled"/>
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img/pm1/pm1-04.jpg" alt="PM-1 assembled"/>
         <p class="small">PM-1 fully assembled in Wyoming</p>
       </div>
       </div>
@@ -437,7 +437,7 @@ See [Final Operating Report for PM-3A](http://www.vbdr.org/meetings/2012/Present
 </div>
 <div class="col-6" markdown="1">
 
-<img class="img img-fluid" data-src="/img-slide/pm3a.jpg" alt="PM-3A assembled"/>
+<img src="/img/blank.png" class="img img-fluid" data-src="/img-slide/pm3a.jpg" alt="PM-3A assembled"/>
 <p class="small">PM-3A in operation at McMurdo Station (<a href="https://www.southpolestation.com/env/env1.html">Source</a>)</p>
 </div>
 </div>

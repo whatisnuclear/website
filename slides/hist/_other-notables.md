@@ -3,7 +3,7 @@
     <h3>A few other</h3>
     <h3 class="r-fit-text">NOTABLE REACTORS</h3>
     <aside class="notes"></aside>
-    <img
+    <img src="/img/blank.png"
       class="r-frame"
       style="background: rgba(255, 255, 255, 0.1)"
       width="178"
@@ -33,7 +33,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/1986.5.14092.1_crop.jpg" alt="NS Savannah in Seattle, 1962 (MOHAI)" />
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img/1986.5.14092.1_crop.jpg" alt="NS Savannah in Seattle, 1962 (MOHAI)" />
         <p>NS Savannah in Seattle, 1962 (MOHAI)</p>
       </div>
     </div>
@@ -57,7 +57,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/k_27_sub.jpg" alt="Soviet Submarine K-27" />
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img/k_27_sub.jpg" alt="Soviet Submarine K-27" />
         <p>The ill-fated K-27</p>
       </div>
     </div>
@@ -82,7 +82,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img-slide/lcre-system.jpg" alt="The LCRE system (from CNLM-5170)" />
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img-slide/lcre-system.jpg" alt="The LCRE system (from CNLM-5170)" />
         <p>The LCRE system, from <a href="https://www.osti.gov/biblio/4352885/">CNLM-5170</a></p>
       </div>
     </div>
@@ -92,10 +92,10 @@
     <h3>More LCRE</h3>
     <div class="row">
       <div class="col-8">
-        <img class="img img-fluid" data-src="/img-slide/lcre-layout.png" alt="The LCRE layout" />
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img-slide/lcre-layout.png" alt="The LCRE layout" />
       </div>
       <div class="col-4">
-        <img class="img img-fluid" data-src="/img-slide/lcre-shield.png" alt="The LCRE shield: a 3,000 lb. reactor with a 78,000 lb. DU/LiH shield" />
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img-slide/lcre-shield.png" alt="The LCRE shield: a 3,000 lb. reactor with a 78,000 lb. DU/LiH shield" />
         <p>3000 lbs. reactor with a 78,000 lbs. DU/LiH shield</p>
       </div>
     </div>
@@ -119,7 +119,7 @@
           </ul>
       </div>
       <div class="col-6">
-        <img class="img img-fluid" data-src="/img/snap10a_xs.jpg" alt="SNAP-10A" />
+        <img src="/img/blank.png" class="img img-fluid" data-src="/img/snap10a_xs.jpg" alt="SNAP-10A" />
         <p>Print showing SNAP-10A</p>
       </div>
     </div>
@@ -139,7 +139,7 @@
             >My writeup with details</a
           ></li>
           </ul>
-        <img
+        <img src="/img/blank.png"
           title="OPS license"
           class="img img-fluid"
           data-src="/img/ops-manufacturing-license.jpg"
@@ -147,7 +147,7 @@
         <p class="small">The Manufacturing License!</p>
       </div>
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           title="SER"
           class="img img-fluid"
           data-src="/img/OPS_SER_1981.jpg"

@@ -3,7 +3,7 @@
     <h3>The LWR</h3>
     <h3 class="r-fit-text">BREAKTHROUGH</h3>
     <aside class="notes"></aside>
-    <img
+    <img src="/img/blank.png"
       class="r-frame"
       style="background: rgba(255, 255, 255, 0.1)"
       width="178"
@@ -17,7 +17,7 @@
     <h3>BWR successes, and dead ends</h3>
     <div class="row">
       <div class="col-6">
-    <img
+    <img src="/img/blank.png"
       title="BWR history timeline"
       data-src="/img/BWR_development_history.jpg"
      alt="BWR development pathways (from ORSORT)" />
@@ -28,7 +28,7 @@
     </p>   
       </div> 
       <div class="col-6">
-    <img
+    <img src="/img/blank.png"
       title="Key to Dresden"
       data-src="/img/vids/dresden/dresden-12.jpg"
      alt="The key to Dresden" />
@@ -42,7 +42,7 @@
     <h3>The Navy converted Seawolf (SSN-575) from Sodium/Beryllium to PWR</h3>
     <div class="row">
       <div class="col-6">
-    <img
+    <img src="/img/blank.png"
       data-src="/img-slide/seawolf.jpg"
      alt="The Seawolf conversion from sodium to PWR" />
       </div> 
@@ -66,7 +66,7 @@
     <h3>France switched from UNGG to PWR</h3>
     <div class="row">
       <div class="col-6">
-    <img
+    <img src="/img/blank.png"
       data-src="/img-slide/UNGG.jpg"
      alt="Saint-Laurent Nuclear Power Plant (CC-BY-SA Clicgauche)" />
     <p class="small">
@@ -76,7 +76,7 @@
     </p>   
       </div> 
       <div class="col-6">
-    <img
+    <img src="/img/blank.png"
       data-src="/img-slide/gravelines.jpg"
      alt="Gravelines PWRs in France" />
 
@@ -91,7 +91,7 @@
     <h3>Russia switched from RBMK to VVER</h3>
     <div class="row">
       <div class="col-6">
-    <img
+    <img src="/img/blank.png"
       data-src="/img-slide/rbmk.jpg"
      alt="Smolensk NPP (CC-BY-SA Originaldatei)" />
     <p class="small">
@@ -101,7 +101,7 @@
     </p>   
       </div> 
       <div class="col-6">
-    <img
+    <img src="/img/blank.png"
       data-src="/img-slide/vver.jpg"
      alt="Balakovo (CC-BY-SA Seetenky)" />
 

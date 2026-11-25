@@ -3,7 +3,7 @@
     <h3>Early</h3>
     <h3 class="r-fit-text">FUSION EXPERIMENTS</h3>
     <aside class="notes"></aside>
-    <img
+    <img src="/img/blank.png"
       class="r-frame"
       style="background: rgba(255, 255, 255, 0.1)"
       width="178"
@@ -18,7 +18,7 @@
     <p><a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015012892249&seq=7">Initial declassification of controlled fusion work</a> in 1958</p>
     <div class="row">
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           title="The Columbus II experiment"
           class="img img-fluid"
           data-src="/img-slide/columbus-ii.jpg"
@@ -57,28 +57,28 @@ Required conditions:
     <h3>Fusion Exhibit at the 1958 Atoms for Peace conference</h3>
     <div class="row">
       <div class="col-3">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-31.jpg"
          alt="Fusion exhibit — Fig 8 Stellarator" />
         <p class="small">Fig 8 Stellarator</p>
       </div>
       <div class="col-3">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-32.jpg"
          alt="Fusion exhibit — B-2 Stellarator (working!)" />
         <p class="small">B-2 Stellarator (working!)</p>
       </div>
       <div class="col-3">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-33.jpg"
          alt="Fusion exhibit — Model C Stellarator" />
         <p class="small">Model C Stellarator</p>
       </div>
       <div class="col-3">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-34.jpg"
          alt="Fusion exhibit — Pinch capacitor bank" />
@@ -87,28 +87,28 @@ Required conditions:
     </div>
     <div class="row">
       <div class="col-3">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-39.jpg"
          alt="Fusion exhibit — Direct Current Experiment" />
         <p class="small">Direct Current Experiment</p>
       </div>
       <div class="col-3">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-36.jpg"
          alt="Fusion exhibit — Rotating plasma experiment" />
         <p class="small">Rotating plasma experiment</p>
       </div>
       <div class="col-3">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-40.jpg"
          alt="Fusion exhibit — Scylla" />
         <p class="small">Scylla</p>
       </div>
       <div class="col-3">
-        <img
+        <img src="/img/blank.png"
           class="img img-fluid"
           data-src="/img-slide/afp-1958-fusion-41.jpg"
          alt="Fusion exhibit — Perhapsatron" />
@@ -122,7 +122,7 @@ Required conditions:
     <h3>Fusion Progress</h3>
     <div class="row">
       <div class="col-6">
-        <img
+        <img src="/img/blank.png"
           title="Fusion figure of merit"
           class="img img-fluid"
           data-src="/img-slide/fusion-progress.png"
