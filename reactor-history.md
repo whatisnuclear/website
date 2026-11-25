@@ -88,7 +88,7 @@ Committee meeting" class="img img-fluid center-block" ></a> <figcaption>Some
 early reactor ideas from <a
 href="https://technicalreports.ornl.gov/1944/3445605702870.pdf">MUC-LAO-42</a>. See also
 the <a href="https://technicalreports.ornl.gov/1944/3445605715063.pdf">Piles of the Future
-Review</a> from October, 1944 where a longer discussion of their views of future reactors
+Review</a> from October 1944 where a longer discussion of their views of future reactors
 is recorded. They thought pressurized water would lead to corrosion issues at high
 temperature and considered liquid metal (specifically lead-bismuth) to be the most
 promising coolant. Written 5 days after Hanford B came online, it does have a <a
@@ -348,7 +348,7 @@ tested in Idaho but not deployed.
 
 After the STG and Nautilus, the third PWR to operate was the first plant built under the ANPP: the
 APPR-1 (later designated SM-1). It was built by Alco and Stone & Webster, and
-came to power in April, 1957. While the Shippingport design effort predates APPR-1 effort
+came to power in April 1957. While the Shippingport design effort predates APPR-1 effort
 (discussed below), the APPR-1 team pioneered some ideas, such as the vertical vapor
 container, as opposed to Shippingport's horizontal ones. They innovated a lot while
 considering internal missile protection, but ended up with a rather expensive reinforcing
@@ -590,8 +590,7 @@ elusive.
 Given the realities of Shippingport, utilities continued in their hesitation. The PWR was
 urged toward commercialization by the AEC's public/private PDRP. The Yankee reactor at
 Rowe was proposed in the first round of the PDRP by a consortium of 10 New England
-utilities, who funded the entire capital cost. It reached full power of 110 MWe in Jan
-1961\. Yankee Core I was the first to use UO<sub>2</sub> fuel with stainless steel
+utilities, who funded the entire capital cost. It reached full power of 110 MWe in Jan 1961. Yankee Core I was the first to use UO<sub>2</sub> fuel with stainless steel
 cladding. The Yankee experience was very positive from R&D to construction to operation.
 They completed the plant 23% below projected capital costs. Now things were looking up.
 
@@ -619,7 +618,7 @@ href="https://en.wikipedia.org/wiki/Palo_Verde_Nuclear_Generating_Station#/media
 
 PWRs for civilian nuclear-powered shipping were also developed.
 A land-based prototype for the _NS Savannah_ merchant ship's core was built and
-operated in Lynchburg, VA in February, 1960. This reactor had full-length fuel
+operated in Lynchburg, VA in February 1960. This reactor had full-length fuel
 assemblies and provided information needed before finishing the NS Savannah
 plant. Side-note: [we got a whole documentary about Savannah scanned.]({% link
 _posts/2023-07-12-the-nuclear-ship-savannah-film-digitized.md %})
@@ -755,7 +754,7 @@ Specifically, Dr. Walter Zinn's confidence in the ANL-designed BWR is what convi
 go for it rather than the homogeneous reactor.
 </div>
 
-Dresden featured a dual-cycle steam system, and produced power in April, 1960. The
+Dresden featured a dual-cycle steam system, and produced power in April 1960. The
 plant operated well. After Dresden came Humboldt Bay with natural circulation.
 
 <figure>
@@ -1197,7 +1196,7 @@ The KIWI-test series involved graphite loaded with HEU to test Project Rover, a 
 rocket. They all used gaseous hydrogen propellant. At this time, Westinghouse had
 something called the Westinghouse Astronuclear Laboratory. Related, some critical
 experiments for the nuclear ramjet (Project Pluto) were tested at the Nevada Test Site
-around December, 1960.
+around December 1960.
 
 <div class="row">
 
@@ -1248,8 +1247,7 @@ Dynamics for ESADA (NY) at Peach Bottom. It featured uranium and thorium carbide
 dispersed in a graphite matrix, contained in graphite cladding sleeves. Steam was intended
 to be produced at 1000 °F and 1450 psi. Construction was completed in late 1964.
 
-Peach Bottom begot Fort St. Vrain (FSV) in Colorado, with detailed design beginning in
-1966\. Where Peach Bottom had a steel pressure vessel, FSV had a pre-stressed concrete one.
+Peach Bottom begot Fort St. Vrain (FSV) in Colorado, with detailed design beginning in 1966. Where Peach Bottom had a steel pressure vessel, FSV had a pre-stressed concrete one.
 PB used electrical circulators and multi-pass steam generators, while FSV used
 steam-driven circulators and once-through steam generators. At this point, General Atomics
 (GA) was a division of General Dynamics. Fuel, physics, and component development was
@@ -1269,7 +1267,7 @@ traveled through U-tube pressure tubes to headers on one side of the core. Stagn
 heavy-water baffles inside the pressure tubes prevented heat from escaping to the cold
 heavy-water moderator tank (i.e. the calandria). It used low-enriched UO<sub>2</sub> fuel
 and had Zircaloy pressure tubes. It was designed and built by Westinghouse with Stone &
-Webster as the A/E in a third-round PDRP proposal. It went critical in March, 1963. The
+Webster as the A/E in a third-round PDRP proposal. It went critical in March 1963. The
 hope of the CVTR reactor was to reduce fuel-cycle costs by enabling fueling with natural
 uranium. Though the CVTR itself needed enrichment due to its small size, the excellent
 moderation properties of heavy water would allow reduced enrichment operation, and no
@@ -2136,7 +2134,7 @@ href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015095157510&view=1up&seq=1">
 
 {:.no_toc}
 
-- [Solid Fuel Reactors, 1958](https://catalog.hathitrust.org/Record/001619729) — a Atoms
+- [Solid Fuel Reactors, 1958](https://catalog.hathitrust.org/Record/001619729) — an Atoms
   for Peace textbook mostly about fast reactors like Fermi and EBR-II
 - [LMFBR Program Plan (1968)](https://catalog.hathitrust.org/Record/102479452)— a 4-volume
   plan describing the entire LMFBR program
