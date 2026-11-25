@@ -2,7 +2,9 @@
 layout: news
 title: San Onofre Nuclear Generating Station Pamphlet
 author: nick
-categorys: news museum
+categories:
+  - news
+  - museum
 tags: museum
 description: >
   San Onofre unit 1 was an early 450 MWe PWR
@@ -12,25 +14,6 @@ byline: true
 image: /img/songs-cover.jpg
 comments: true
 ---
-
-<style>
-.ifcontainer {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-top: 46%; 
-}
-
-.responsive-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
 
 <div class="row">
 <div class="col" markdown="1">
@@ -45,9 +28,6 @@ Enjoy!
 <iframe
   src="https://archive.org/details/san-onofre-nuclear-generating-station?view=theater&ui=embed&wrapper=false"
   class="responsive-iframe"
-  frameborder="0"
-  webkitallowfullscreen="true"
-  mozallowfullscreen="true"
   allowfullscreen
 ></iframe>
 </div>
